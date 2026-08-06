@@ -32,6 +32,9 @@ default = []
 # mainstream Rust image crate decodes, so a decoder dependency would add weight without
 # covering the one format that matters.
 probe = ["dep:lopdf"]
+# `scans ingest` reads a bound volume's PDF text layer to recover the issue documents
+# inside it. Same reason as `probe` for being off by default: it opens container bytes.
+ingest = ["dep:lopdf"]
 
 [dependencies]
 anyhow = "1.0.104"

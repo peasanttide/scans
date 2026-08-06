@@ -8,7 +8,7 @@ use clap::{Args, Parser, Subcommand, ValueEnum};
 
 use scans::load::{RefTarget, load_archive};
 use scans::model;
-use scans::{migrate, validate};
+use scans::{ingest, migrate, validate};
 
 /// Path of the generated schema, relative to the repository root.
 const SCHEMA_PATH: &str = "schemas/source.json";
@@ -34,6 +34,23 @@ enum Command {
     Resolve(ResolveArgs),
     /// Generate schemas/source.json from the Rust types.
     Schema(SchemaArgs),
+    /// Recover the issue documents inside a bound volume from its PDF text layer.
+    Ingest(IngestArgs),
+}
+
+#[derive(Debug, Args)]
+struct IngestArgs {
+    /// Id of the copy to read, e.g. `journal-de-paris-1789-vol1`.
+    copy_id: String,
+    /// Repository root. Defaults to the nearest ancestor containing .git.
+    #[arg(long)]
+    root: Option<PathBuf>,
+    /// Write the records. Without this nothing is written, only reported.
+    #[arg(long)]
+    apply: bool,
+    /// The regular span of one issue, used to recover headers the OCR could not read.
+    #[arg(long, default_value_t = 4)]
+    pages_per_issue: i64,
 }
 
 #[derive(Debug, Args)]
@@ -117,6 +134,7 @@ fn run() -> Result<ExitCode> {
         Command::Migrate(args) => cmd_migrate(args),
         Command::Resolve(args) => cmd_resolve(args),
         Command::Schema(args) => cmd_schema(args),
+        Command::Ingest(args) => cmd_ingest(args),
     }
 }
 
@@ -393,4 +411,100 @@ fn resolve_root(explicit: Option<&Path>) -> Result<PathBuf> {
 /// repo-relative path the reader wants.
 fn canonical(path: &Path) -> Result<PathBuf> {
     std::fs::canonicalize(path).with_context(|| format!("root {} does not exist", path.display()))
+}
+
+// ---------------------------------------------------------------------------------------
+// ingest
+// ---------------------------------------------------------------------------------------
+
+fn cmd_ingest(args: IngestArgs) -> Result<ExitCode> {
+    let root = resolve_root(args.root.as_deref())?;
+    let archive = load_archive(&root)?;
+
+    if !cfg!(feature = "ingest") {
+        eprintln!(
+            "scans: this binary was built without the 'ingest' feature, so it cannot read a              PDF. Rebuild with --features ingest."
+        );
+        return Ok(ExitCode::from(2));
+    }
+
+    let options = ingest::Options {
+        copy_id: args.copy_id.clone(),
+        // Reporting is the default. Writing several hundred records is not something to do
+        // by accident.
+        apply: args.apply,
+        pages_per_issue: args.pages_per_issue,
+    };
+    let report = ingest::ingest(&root, &archive, &options)?;
+
+    for note in &report.notes {
+        eprintln!("scans: {note}");
+    }
+
+    let certain = report.issues.len() - report.uncertain.len();
+    let n_issues = report
+        .issues
+        .iter()
+        .filter(|i| i.kind == ingest::Kind::Issue)
+        .count();
+    let n_suppl = report.issues.len() - n_issues;
+    println!(
+        "{} document(s): {n_issues} issue(s), {n_suppl} supplement(s) — \
+         {certain} certain, {} needing a look",
+        report.issues.len(),
+        report.uncertain.len()
+    );
+    // The copy states how many it should hold. Saying so here turns a silent shortfall into
+    // a number the operator has to look at before writing anything.
+    // Name the gaps. A count alone ("2 unaccounted for") cannot be acted on; the numbers
+    // point straight at the pages to look at.
+    let have: std::collections::BTreeSet<i64> = report
+        .issues
+        .iter()
+        .filter(|i| i.kind == ingest::Kind::Issue)
+        .map(|i| i.no)
+        .collect();
+    if let (Some(lo), Some(hi)) = (have.iter().next(), have.iter().next_back()) {
+        let missing: Vec<String> = (*lo..=*hi)
+            .filter(|n| !have.contains(n))
+            .map(|n| n.to_string())
+            .collect();
+        if !missing.is_empty() {
+            println!("  missing issue number(s): {}", missing.join(", "));
+        }
+    }
+    if let Some(want) = report.expected_issues
+        && want != n_issues as i64
+    {
+        println!(
+            "  NOTE: covers implies {want} issues, but {n_issues} were recovered —              {} header(s) unaccounted for",
+            (want - n_issues as i64).abs()
+        );
+    }
+
+    if !report.uncertain.is_empty() {
+        println!("
+worklist — check these against the scan:");
+        for iss in &report.uncertain {
+            println!(
+                "  {} pdf {}-{}: {}",
+                iss.date.edtf(),
+                iss.from,
+                iss.to,
+                iss.inferred.as_deref().unwrap_or("signals disagreed")
+            );
+        }
+    }
+
+    if !args.apply {
+        eprintln!(
+            "
+{} record(s) planned; nothing written. Pass --apply to write them.",
+            report.written.len()
+        );
+    } else {
+        eprintln!("
+{} record(s) written.", report.written.len());
+    }
+    Ok(ExitCode::SUCCESS)
 }

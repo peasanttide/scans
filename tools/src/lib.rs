@@ -13,6 +13,7 @@
 //! | [`load`] | discovery, id index, `of` chains, inheritance, page expansion, addressing. |
 //! | [`validate`] | the ten checks. |
 //! | [`migrate`] | the one-shot migration from the legacy layout. |
+//! | [`ingest`] | recovering issue documents from a bound volume's PDF text layer. |
 //!
 //! # Feature `probe`
 //!
@@ -21,6 +22,7 @@
 //! touch them.
 
 pub mod edtf;
+pub mod ingest;
 pub mod load;
 pub mod migrate;
 pub mod model;

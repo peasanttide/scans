@@ -1,0 +1,9 @@
+#:schema ../../../../../schemas/source.json
+id    = "journal-de-paris-1789-04-11"
+layer = "document"
+of    = "journal-de-paris-1789-vol1"
+type  = "issue"
+no    = 101
+date  = "1789-04-11"
+pages = { from = 457, to = 460 }
+note  = "INFERRED: header number OCR'd as 455, which does not fit the sequence and has no printed date to confirm it; took 101 from the preceding issue. Verify against the scan."
