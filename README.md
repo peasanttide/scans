@@ -43,7 +43,7 @@ are inherited down the `of` chain; `date`, `title`, `note`, `url` and `[[page]]`
 ## Layout
 
 ```
-source/
+sources/
   journal-de-paris/
     journal-de-paris.toml                   source
     1789/
