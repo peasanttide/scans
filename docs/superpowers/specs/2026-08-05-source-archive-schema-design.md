@@ -48,8 +48,9 @@ These were decided during design and are not open:
 2. **Flat ids.** Ids never contain `/`. `journal-de-paris-1789-vol1`, not a path.
 3. **One file per document.** File grain stays as it is today; the fix for
    repetition is inheritance, not consolidation.
-4. **Pages are not entities.** They get no ids of their own and no special naming
-   scheme. A page is addressed as `<id>.p<n>`.
+4. **Pages are not entities.** They get no ids of their own, no special naming
+   scheme, and no files of their own. A page is declared inline as `[[page]]` and
+   addressed as `<id>.p<n>`.
 5. **`.pN` is document-local.** `n` is scoped to the document that declares it.
 6. **EDTF dates** (ISO 8601-2:2019), always quoted strings, always Gregorian.
 7. **Every page states both its numbers**; counting is the default; the validator
@@ -122,8 +123,11 @@ Because ids are flat and location-independent, **directories are cosmetic**. Fol
 may be reorganized at any time without breaking a single citation in the consuming
 repository. The `1789/01/03/` tree exists because it is pleasant to browse.
 
-One cleanup: `turgot_00` becomes `turgot-1739-p00.toml`, so underscores stop being a
-second naming convention.
+The per-sheet `turgot_NN.toml` and `verniquet_NN.toml` files are folded into their
+source files and deleted, so underscores survive only on the `.jp2` filenames — where
+they are harmless, since a graphic is named explicitly by `graphic.file` and nothing
+parses it. The 94 image files are not renamed; they are in LFS and their names carry no
+meaning.
 
 ## Repository layout
 
@@ -140,10 +144,11 @@ source/
         journal-de-paris-1789-01-03.toml            document
         journal-de-paris-1789-01-03-supplement.toml document
   turgot/
-    turgot-1739.toml                          source (copy collapsed in)
-    turgot-1739-p00.toml                      page
-    turgot_00.jp2
+    turgot-1739.toml            source; copy collapsed in, 21 pages inline
+    turgot_00.jp2 … turgot_20.jp2
   verniquet/
+    verniquet-1795.toml         source; copy collapsed in, 73 pages inline
+    verniquet_00.jp2 … verniquet_72.jp2
   engravings/
 docs/
 ```
@@ -255,27 +260,39 @@ work = "PD-old-100-expired"
 
 ### Page
 
-A page may be declared inline as `[[page]]` or as its own file with `of` and `layer =
-"page"`. Both produce an identical page record after loading, so there is one code path
-downstream. Inline suits 888 uninteresting PDF pages; separate files suit 21 large map
-sheets.
+**Pages are always declared inline**, as `[[page]]` within the file that owns them.
+There is no such thing as a page file. `page` remains one of the four layers, but it is
+the one layer that is never a file of its own — which means `layer` on a file is only
+ever `source`, `copy`, or `document`.
+
+Map sheets are the case that tempts you the other way, and they are exactly where inline
+pays off: Turgot's 21 sheets differ only in `n`, `title`, and their graphic, so as a
+single array they read as a table and diff as a table. Twenty-one files, each repeating
+`of` and `layer`, would show the same information as twenty-one separate diffs.
 
 ```toml
-# source/turgot/turgot-1739-p00.toml — address is turgot-1739.p0, no `id` field
-of    = "turgot-1739"
-layer = "page"
+# source/turgot/turgot-1739.toml — continues the source file shown above
+
+[[page]]
 n     = 0
 title = "key sheet"
-
-[[graphic]]
+[[page.graphic]]
 file   = "turgot_00.jp2"
 width  = 23964
 height = 16934
 url    = "https://www.davidrumsey.com/rumsey/download.pl?image=/166/10059022.jp2"
+
+[[page]]
+n = 1
+[[page.graphic]]
+file   = "turgot_01.jp2"
+width  = 23964
+height = 16934
 ```
 
-Turgot states `n = 0` explicitly because the atlas numbers its own sheets from zero.
-The counting default starts at 1; any document that numbers itself differently says so.
+Addresses are `turgot-1739.p0`, `turgot-1739.p1`, and so on. Turgot states `n = 0`
+explicitly because the atlas numbers its own sheets from zero; the counting default
+starts at 1, and any owner that numbers itself differently says so on its first page.
 
 ### Responsibility
 
@@ -422,7 +439,11 @@ The existing 516 files are mechanically convertible; nothing needs re-research.
 5. Convert `date` values to quoted EDTF.
 6. Rename `source = "…vol1.pdf"` on documents to inherited `scan.file` on the copy.
 7. Convert `pages = "13-16"` to `pages = { from = 13, to = 16 }`.
-8. Rename `turgot_NN.toml` to `turgot-1739-pNN.toml`; likewise Verniquet.
+8. Fold the 21 `turgot_NN.toml` and 73 `verniquet_NN.toml` files into `[[page]]`
+   arrays in `turgot-1739.toml` and `verniquet-1795.toml`, then delete them. Each
+   contributes `n`, `title`, and one `[[page.graphic]]` carrying `file`, `width`,
+   `height`, and `url`; their repeated `author`, `date`, `licence`, `attribution`,
+   and `of` are dropped as inherited. The `.jp2` files are not renamed.
 9. Run the validator; fix what it finds.
 
 ## Deliberately excluded
@@ -435,6 +456,10 @@ The existing 516 files are mechanically convertible; nothing needs re-research.
 - **Text spans.** Citation grain is the page.
 - **Generated titles.** Titles stay hand-written strings for now; a `title_pattern`
   on the parent is a possible later optimization, not part of this design.
+- **Standalone page files.** An earlier draft let a page be either inline or its own
+  file. With Turgot and Verniquet inline, nothing in the archive used the file form,
+  so it was removed rather than left as an unused second code path. Reinstating it
+  later costs one loader branch.
 
 ## Open question for review
 
