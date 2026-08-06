@@ -7,3 +7,43 @@ no    = 5
 date  = "1789-01-05"
 pages = { from = 29, to = 32 }
 note  = "INFERRED: header number OCR'd as 25, which does not fit the sequence and has no printed date to confirm it; took 5 from the preceding issue. Verify against the scan."
+
+[[page]]
+n     = 1
+label = "25"
+[[page.text]]
+file = "journal-de-paris-1789-01-05.p1.md"
+kind = "transcription"
+by   = "claude-opus-5"
+lang = "fr"
+note = "Sets P for B in three words: prints \"Prouillard\", \"Prescia\" and \"Poilcau\" where Brouillard, Brescia and Boileau are meant, transcribed as printed."
+
+[[page]]
+n     = 2
+label = "26"
+[[page.text]]
+file = "journal-de-paris-1789-01-05.p2.md"
+kind = "transcription"
+by   = "claude-opus-5"
+lang = "fr"
+note = "The department heading is over-inked to near-solid; \"BIENFAISANCE.\" is read from the letter outlines and the piece beneath it."
+
+[[page]]
+n     = 3
+label = "27"
+[[page.text]]
+file = "journal-de-paris-1789-01-05.p3.md"
+kind = "transcription"
+by   = "claude-opus-5"
+lang = "fr"
+note = "First donor's name in the subscription list is blotted; the abbreviated titles Mme and Mlle in that list are thickly inked throughout."
+
+[[page]]
+n     = 4
+label = "28"
+[[page.text]]
+file = "journal-de-paris-1789-01-05.p4.md"
+kind = "transcription"
+by   = "claude-opus-5"
+lang = "fr"
+note = "The first play title in the Théâtre Italien \"Demain\" notice is too faint to read, and the street number in the imprint is a blot read as 3."

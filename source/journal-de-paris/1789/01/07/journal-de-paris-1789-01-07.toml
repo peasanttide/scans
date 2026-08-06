@@ -6,3 +6,41 @@ type  = "issue"
 no    = 7
 date  = "1789-01-07"
 pages = { from = 37, to = 40 }
+
+[[page]]
+n     = 1
+label = "33"
+[[page.text]]
+file = "journal-de-paris-1789-01-07.p1.md"
+kind = "transcription"
+by   = "claude-opus-5"
+lang = "fr"
+
+[[page]]
+n     = 2
+label = "34"
+[[page.text]]
+file = "journal-de-paris-1789-01-07.p2.md"
+kind = "transcription"
+by   = "claude-opus-5"
+lang = "fr"
+
+[[page]]
+n     = 3
+label = "35"
+[[page.text]]
+file = "journal-de-paris-1789-01-07.p3.md"
+kind = "transcription"
+by   = "claude-opus-5"
+lang = "fr"
+note = "The abbreviation closing the Ste-Marguerite donation list, read \"&c.\" before \"200 liv.\", is thickly inked and is a best reading."
+
+[[page]]
+n     = 4
+label = "36"
+[[page.text]]
+file = "journal-de-paris-1789-01-07.p4.md"
+kind = "transcription"
+by   = "claude-opus-5"
+lang = "fr"
+note = "The \"P.\" of \"epouse de H. & P. Seigneur\" falls at the column edge and is faint; the reading follows the formula Haut & Puissant."

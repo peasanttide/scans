@@ -6,3 +6,41 @@ type  = "issue"
 no    = 6
 date  = "1789-01-06"
 pages = { from = 33, to = 36 }
+
+[[page]]
+n     = 1
+label = "29"
+[[page.text]]
+file = "journal-de-paris-1789-01-06.p1.md"
+kind = "transcription"
+by   = "claude-opus-5"
+lang = "fr"
+
+[[page]]
+n     = 2
+label = "30"
+[[page.text]]
+file = "journal-de-paris-1789-01-06.p2.md"
+kind = "transcription"
+by   = "claude-opus-5"
+lang = "fr"
+note = "The third digit of \"Celui de 1629\" has failed in the impression; the year is a best reading."
+
+[[page]]
+n     = 3
+label = "31"
+[[page.text]]
+file = "journal-de-paris-1789-01-06.p3.md"
+kind = "transcription"
+by   = "claude-opus-5"
+lang = "fr"
+
+[[page]]
+n     = 4
+label = "32"
+[[page.text]]
+file = "journal-de-paris-1789-01-06.p4.md"
+kind = "transcription"
+by   = "claude-opus-5"
+lang = "fr"
+note = "Prints \"ces Halles\" for \"des Halles\", transcribed as printed; the two exchange fractions, the imprint's street number and three surnames in the death list are ink-filled and are best readings."

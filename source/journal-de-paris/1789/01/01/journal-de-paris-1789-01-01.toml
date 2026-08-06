@@ -6,3 +6,41 @@ type  = "issue"
 no    = 1
 date  = "1789-01-01"
 pages = { from = 5, to = 8 }
+
+[[page]]
+n     = 1
+label = "1"
+[[page.text]]
+file = "journal-de-paris-1789-01-01.p1.md"
+kind = "transcription"
+by   = "claude-opus-5"
+lang = "fr"
+
+[[page]]
+n     = 2
+label = "2"
+[[page.text]]
+file = "journal-de-paris-1789-01-01.p2.md"
+kind = "transcription"
+by   = "claude-opus-5"
+lang = "fr"
+
+[[page]]
+n     = 3
+label = "3"
+[[page.text]]
+file = "journal-de-paris-1789-01-01.p3.md"
+kind = "transcription"
+by   = "claude-opus-5"
+lang = "fr"
+note = "The first column is thickly inked at its left edge; \"Guichard\" and \"rue St-Jacques\" are best readings, and \"précedentes\" is transcribed with the second accent absent as printed."
+
+[[page]]
+n     = 4
+label = "4"
+[[page.text]]
+file = "journal-de-paris-1789-01-01.p4.md"
+kind = "transcription"
+by   = "claude-opus-5"
+lang = "fr"
+note = "Prints \"Scienees\" for \"Sciences\", transcribed as printed; the page is thickly inked, leaving two Loterie lines illegible in the middle, two surnames under Morts a best reading and the Amsterdam fraction uncertain — the stacked per-cent ciphers are brought to the baseline as 0/0."

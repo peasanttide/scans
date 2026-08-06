@@ -6,3 +6,41 @@ type  = "issue"
 no    = 9
 date  = "1789-01-09"
 pages = { from = 45, to = 48 }
+
+[[page]]
+n     = 1
+label = "41"
+[[page.text]]
+file = "journal-de-paris-1789-01-09.p1.md"
+kind = "transcription"
+by   = "claude-opus-5"
+lang = "fr"
+
+[[page]]
+n     = 2
+label = "42"
+[[page.text]]
+file = "journal-de-paris-1789-01-09.p2.md"
+kind = "transcription"
+by   = "claude-opus-5"
+lang = "fr"
+note = "Prints \"6 l v.\" for \"6 liv.\", transcribed as printed; the first of the two initials in \"M. K. R.\" is broken in the impression."
+
+[[page]]
+n     = 3
+label = "43"
+[[page.text]]
+file = "journal-de-paris-1789-01-09.p3.md"
+kind = "transcription"
+by   = "claude-opus-5"
+lang = "fr"
+note = "Prints \"48 l v.\" for \"48 liv.\" and \"S. A S.\" for \"S. A. S.\", both transcribed as printed; the surname of M. le Peletier and the superscript after \"M. N.\" are thickly inked and are best readings."
+
+[[page]]
+n     = 4
+label = "44"
+[[page.text]]
+file = "journal-de-paris-1789-01-09.p4.md"
+kind = "transcription"
+by   = "claude-opus-5"
+lang = "fr"

@@ -6,3 +6,43 @@ type  = "issue"
 no    = 15
 date  = "1789-01-15"
 pages = { from = 69, to = 72 }
+
+[[page]]
+n     = 1
+label = "65"
+[[page.text]]
+file = "journal-de-paris-1789-01-15.p1.md"
+kind = "transcription"
+by   = "claude-opus-5"
+lang = "fr"
+note = "Prints \"deux lieres\" for \"deux lieues\" in the Calais letter, transcribed as printed."
+
+[[page]]
+n     = 2
+label = "66"
+[[page.text]]
+file = "journal-de-paris-1789-01-15.p2.md"
+kind = "transcription"
+by   = "claude-opus-5"
+lang = "fr"
+note = "The Prospectus paragraph under LIVRES DIVERS is faintly inked; \"Estampes\" is a best reading."
+
+[[page]]
+n     = 3
+label = "67"
+[[page.text]]
+file = "journal-de-paris-1789-01-15.p3.md"
+kind = "transcription"
+by   = "claude-opus-5"
+lang = "fr"
+note = "The final letter of \"suivie\" in the Académie Royale notice is filled with ink and read as e."
+
+[[page]]
+n     = 4
+label = "68"
+[[page.text]]
+file = "journal-de-paris-1789-01-15.p4.md"
+kind = "transcription"
+by   = "claude-opus-5"
+lang = "fr"
+note = "The imprint at the foot is heavily over-inked; the street number after \"rue du Fouare, No.\" is illegible."

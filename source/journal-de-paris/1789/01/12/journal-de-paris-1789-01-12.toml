@@ -6,3 +6,41 @@ type  = "issue"
 no    = 12
 date  = "1789-01-12"
 pages = { from = 57, to = 60 }
+
+[[page]]
+n     = 1
+label = "53"
+[[page.text]]
+file = "journal-de-paris-1789-01-12.p1.md"
+kind = "transcription"
+by   = "claude-opus-5"
+lang = "fr"
+note = "Prints \"M. d Buffon\" for \"M. de Buffon\", transcribed as printed."
+
+[[page]]
+n     = 2
+label = "54"
+[[page.text]]
+file = "journal-de-paris-1789-01-12.p2.md"
+kind = "transcription"
+by   = "claude-opus-5"
+lang = "fr"
+
+[[page]]
+n     = 3
+label = "55"
+[[page.text]]
+file = "journal-de-paris-1789-01-12.p3.md"
+kind = "transcription"
+by   = "claude-opus-5"
+lang = "fr"
+
+[[page]]
+n     = 4
+label = "56"
+[[page.text]]
+file = "journal-de-paris-1789-01-12.p4.md"
+kind = "transcription"
+by   = "claude-opus-5"
+lang = "fr"
+note = "The Académie Royale de Musique notice prints \"Aujourd'hui 13\" in the issue of the 12th, transcribed as printed; one surname in the Morts list is broken beyond reading, and the thinly inked title of the Rêveries is a best reading."

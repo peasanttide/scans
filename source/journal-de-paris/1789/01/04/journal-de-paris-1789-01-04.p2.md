@@ -1,0 +1,21 @@
+Ordre, si cette admission avoit lieu par l'effet d'un choix parfaitement libre.
+
+On doit ajouter qu'au milieu des mœurs françoises, ce mélange, dans une proportion mesurée, auroit des avantages pour le Tiers-Etat, & seroit peut-être le premier principe d'une union d'intérêts si nécessaire.
+
+Il est très possible, à en juger par les dispositions des deux premiers Ordres, que la prochaine tenue des Etats-Généraux soit la dernière où le Tiers-Etat attachera un grande [sic] importance à n'avoir que des Députés pris dans son Ordre ; car, si les priviléges pécuniaires qui séparent les intérêts des diverses classes de la société étoient une fois supprimés, le Tiers-Etat pourroit indifféremment choisir pour Représentant un Gentilhomme ou un autre Citoyen. On ne peut douter qu'à l'époque où la répartition sera égale entre tous les Ordres, qu'à l'époque où seront abolies ces dénominations de tributs qui rappellent à chaque instant au Tiers-Etat son infériorité & l'affrontent inutilement, à cette heureuse époque enfin si juste & si désirable, il n'y aura plus qu'un vœu commun entre tous les habitans de la France. Qu'est-ce donc alors qui pourroit séparer les intérêts du Tiers-Etat des intérêts des deux premiers Ordres ? le Tiers-Etat, comme la Noblesse, comme le Clergé, comme tous les François, n'a-t-il pas intérêt à l'ordre des finances, à la modération des charges publiques, à la justice des loix civiles & criminelles, à la tranquillité & à la puissance du Royaume, au bonheur & à la gloire du Souverain ? Il n'entrera jamais dans l'esprit du Tiers-Etat de chercher à diminuer les prérogatives seigneuriales ou honorifiques qui distinguent les deux premiers Ordres, ou dans leurs propriétés, ou dans leurs personnes ; il n'est aucun François qui ne sache que ces prérogatives sont une propriété aussi respectable qu'aucune autre, que plusieurs tiennent à l'essence de la Monarchie, & que jamais Votre Majesté ne permettroit qu'on y portât la plus légère atteinte.
+
+*La fin dans le Supplément à cette Feuille.*
+
+## EXTRAITS.
+
+### BELLES-LETTRES.
+
+*MÉMOIRE sur l'Esclavage des Nègres*, dans lequel on discute les motifs proposés pour leur affranchissement, ceux qui s'y opposent, & les moyens praticables pour améliorer leur sort. A Neufchâtel.
+
+Le dernier chapitre de cet Ouvrage en explique l'intention & les motifs, mais quand on est arrivé à ce dernier chapitre, on n'a plus besoin de cette explication ; on sait alors que l'Auteur, pénétré, comme tous les hommes honnêtes, de l'injustice & des abus d'une institution déplorable, n'entend point en consacrer les principes, & qu'il ne se permet d'en justifier l'usage, nécessaire aujourd'hui dans nos Colonies, qu'en retranchant de la servitude des Noirs tout ce qu'elle a de monstrueux, en dépouillant le Maître du pouvoir absolu dont la servitude présente l'effrayante image, en recommandant les Esclaves à la protection des loix, & en soumettant les Maîtres à l'inspection de ces mêmes loix.
+
+C'étoit pour l'Auteur une pensée consolante que le concert de tous les bons esprits, la confédération de toutes les ames sensibles, pour la destruction de l'esclavage dans les Colonies ; mais on devoit s'attendre que cette théorie de bienfaisance éprouveroit dans la pratique la contrariété des vues politiques qui influent sur la législation d'un grand empire. Il étoit même nécessaire que la Philosophie sût ce qu'elle avoit à craindre sur cela de l'expérience d'un homme honnête & éclairé qui pût inspirer quelque confiance. M. Malouet s'est chargé de remplir cette tâche difficile, & nous ne pouvons pas douter qu'il ne partage le chagrin qu'il cause à ses Lecteurs en leur représentant les difficultés qui s'opposent à l'affranchissement des Noirs, & même à l'interdiction subite de la traite.
+
+Ce Mémoire, divisé en deux parties, (dont l'une fut écrite il y a treize ans, & l'autre vient de l'être tout-à-l'heure) présente un résumé de toutes les objections faites contre l'esclavage, & de tous les moyens proposés pour suppléer dans les Colonies à cette triste ressource.
+
+M. Malouet en blâme l'adoption primitive, n'en dissimule pas les abus, & déclare que s'il faut que la condition des Noirs soit cruelle & épouvantable, ou que l'esclavage soit détruit, il n'y a point à balancer, il faut détruire l'esclavage. Ce grand procès pourroit donc être jugé comme les autres par des

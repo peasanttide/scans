@@ -6,3 +6,42 @@ type  = "issue"
 no    = 3
 date  = "1789-01-03"
 pages = { from = 13, to = 16 }
+
+[[page]]
+n     = 1
+label = "9"
+[[page.text]]
+file = "journal-de-paris-1789-01-03.p1.md"
+kind = "transcription"
+by   = "claude-opus-5"
+lang = "fr"
+note = "One line at the foot of the first column is obliterated by an ink smear; prints \"baillliage\" for \"bailliage\" in the Gex entry."
+
+[[page]]
+n     = 2
+label = "10"
+[[page.text]]
+file = "journal-de-paris-1789-01-03.p2.md"
+kind = "transcription"
+by   = "claude-opus-5"
+lang = "fr"
+note = "Prints a full stop mid-sentence after \"raisonnement\" and after \"d'ailleurs\", transcribed as printed; \"que si\" in the third paragraph is damaged and is a best reading."
+
+[[page]]
+n     = 3
+label = "11"
+[[page.text]]
+file = "journal-de-paris-1789-01-03.p3.md"
+kind = "transcription"
+by   = "claude-opus-5"
+lang = "fr"
+
+[[page]]
+n     = 4
+label = "12"
+[[page.text]]
+file = "journal-de-paris-1789-01-03.p4.md"
+kind = "transcription"
+by   = "claude-opus-5"
+lang = "fr"
+note = "The small fractions in the Bourse and exchange lists are faint and are best readings; the printer's imprint at the foot is over-inked and the printer's name is unclear."

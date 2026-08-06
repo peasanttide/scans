@@ -1,0 +1,21 @@
+*le bonheur !* ai-je entendu dire à Votre Majesté. Et en effet, chacun le sait, Votre Majesté a prescrit Elle-même plusieurs réductions très importantes dans cette partie de ses finances, & Elle veut qu'on lui propose encore les économies dont les mêmes objets seront susceptibles.
+
+Votre Majesté, portant ses regards sur toutes les dispositions qui peuvent concourir au bonheur public, se propose aussi d'aller au-devant du vœu bien légitime de ses Sujets, en invitant les Etats-Généraux à examiner eux-mêmes la grande question qui s'est élevée sur les lettres de cachet, afin que Votre Majesté, par le concours de leurs lumières, connoisse parfaitement quelle règle doit être observée dans cette partie de l'administration. Vous ne souhaitez, Sire, que le maintien de l'ordre, & vous voulez abandonner à la loi tout ce qu'elle peut exécuter.
+
+C'est par le même principe que Votre Majesté est impatiente de recevoir les avis des Etats-Généraux sur la mesure de liberté qu'il convient d'accorder à la presse & à la publicité des ouvrages relatifs à l'Administration, au Gouvernement ou à tout autre objet public.
+
+Enfin, Sire, vous préférerez avec raison aux conseils passagers de vos Ministres les délibérations durables des Etats-Généraux de votre Royaume, & quand vous aurez éprouvé leur sagesse, vous ne craindrez point de leur donner une stabilité qui puisse produire la confiance & les mettre à l'abri d'une variation dans les sentimens des Rois vos Successeurs.
+
+Vous avez encore d'autres vues pour le bonheur de vos Sujets, ou plutôt, Sire, vous n'avez que cette seule vue sous différentes modifications, & c'est surtout par ce genre de rapport avec vos Peuples que votre autorité vous est chère ; & comment n'en connoîtriez-vous pas le prix dans ce moment extraordinaire où vous en répandez l'influence, non-seulement pour la félicité des Sujets qui vous ont été confiés, mais pour l'avantage encore de toutes les générations futures ! Ce sont vos sentimens, Sire, que j'ai essayé d'exprimer, ils deviennent un nouveau lien entre votre Majesté & l'auguste Princesse qui partage vos peines & votre gloire ; je n'oublierai jamais qu'Elle me disoit il y a peu de tems : « Le Roi ne se refusera point aux sacrifiees [sic] qui pourront assurer le bonheur public ; nos enfans penseront de même s'ils sont sages, & s'ils ne l'étoient pas, le Roi auroit rempli un devoir en leur imposant quelque géne. »
+
+Belles & louables paroles que je priai Sa Majesté, avec émotion, de me permettre de retenir.
+
+Sire, je n'ai point de doute sur la destinée de la France, ni sur sa puissance au-dehors, si, par un juste partage des sentimens qui vous animent, on s'empresse à faire servir la circonstance actuelle au rétablissement de l'harmonie intérieure, & à la construction d'un édifice inébranlable de prospérité & de bonheur.
+
+Vous avez encore, Sire, le grand projet de donner des États-Provinciaux au sein des États-Généraux, & de former un lien durable entre l'Administration particulière de chaque Province & la législation générale. Les Députés de chaque partie du Royaume concerteront le plan le plus convenable, & Votre Majesté est disposée à y donner son assentiment, si Elle le trouve combiné d'une manière sage & propre à faire le bien sans discorde & sans embarras.
+
+Votre Majesté une fois contente du zèle & de la marche régulière de ces États, & leurs pouvoirs étant bien définis, rien n'empêcheroit Votre Majesté de leur donner des témoignages de confiance fort étendus, & de diminuer, autant qu'il est possible, les détails de l'Administration première.
+
+Votre Majesté est encore déterminée à appuyer de son autorité tous les projets qui tendront à la plus juste répartition des impôts ; mais en secondant les dispositions généreuses qui ont été manifestées par les Princes, les Pairs du Royaume & par les Notables du Clergé & de la Noblesse, Votre Majesté désire cependant que dans l'examen des droits & des faveurs dont jouissent les Ordres privilégiés, on montre des égards pour cette partie de la Noblesse qui cultive elle-même ses champs, & qui souvent après avoir supporté les fatigues de la guerre, après avoir servi le Roi dans ses armées, vient encore servir l'État, en donnant l'exemple d'une vie simple & laborieuse, & en honorant par ses occupations les travaux de l'Agriculture.
+
+Je ne rappellerai pas d'une manière plus

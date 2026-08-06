@@ -6,3 +6,42 @@ type  = "supplement"
 supplement_to = "journal-de-paris-1789-01-03"
 date  = "1789-01-03"
 pages = { from = 17, to = 20 }
+
+[[page]]
+n     = 1
+label = "13"
+[[page.text]]
+file = "journal-de-paris-1789-01-03-supplement.p1.md"
+kind = "transcription"
+by   = "claude-opus-5"
+lang = "fr"
+note = "Prints \"publie\" for \"public\", transcribed as printed."
+
+[[page]]
+n     = 2
+label = "14"
+[[page.text]]
+file = "journal-de-paris-1789-01-03-supplement.p2.md"
+kind = "transcription"
+by   = "claude-opus-5"
+lang = "fr"
+note = "Prints \"naturél\" for \"naturel\", transcribed as printed; the paragraph ending \"la seule loi,\" closes on a comma in the original."
+
+[[page]]
+n     = 3
+label = "15"
+[[page.text]]
+file = "journal-de-paris-1789-01-03-supplement.p3.md"
+kind = "transcription"
+by   = "claude-opus-5"
+lang = "fr"
+note = "Prints \"qu'ils\" for \"qu'il\", \"intérprètes\" for \"interprètes\" and \"publie\" for \"public\", all transcribed as printed."
+
+[[page]]
+n     = 4
+label = "16"
+[[page.text]]
+file = "journal-de-paris-1789-01-03-supplement.p4.md"
+kind = "transcription"
+by   = "claude-opus-5"
+lang = "fr"

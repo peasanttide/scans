@@ -1,0 +1,21 @@
+que par un sentiment de justice, & ce même sentiment deviendra le garant de toutes les propriétés, & servira de défense à tous les Ordres de l'État. Ce seroit faire tort aux sentimens élevés de la Noblesse, ce seroit mal juger de l'esprit de justice & de paix qui appartient au Clergé, d'imaginer une résistance de leur part à la décision que donnera Votre Majesté sur une question longtems débattue, & dont le résultat ne doit conduire avec justice à aucune conséquence importante.
+
+## PROPOSITION.
+
+Je crois que le nombre de mille Députés ou environ est le plus convenable ; il ne présente pas la crainte d'une trop grande confusion, & en même-tems il devient nécessaire pour représenter suffisamment la Nation dans une circonstance si grave & si majeure, & où les plus grands intérêts de l'État pourront être traités.
+
+Ce nombre de Représentans des trois Ordres devroit être réparti entre les grands Bailliages, en raison combinée de leur population & de leurs contributions, & en assignant un nombre proportionnel à chaque pays d'États qui est dans l'usage de choisir des Députés dans ses propres assemblées.
+
+La manière la plus raisonnable de répartir mille Députés entre les différens Ordres de l'État seroit peut être d'en accorder deux cents à l'Ordre du Clergé, trois cents à l'Ordre de la Noblesse, & cinq cents aux Communes du Royaume ; mais comme V. M., sans le concours des États-Généraux, ne veut apporter aux anciennes formes que les changemens les plus indispensables, on propose à Votre Majesté de ne point s'écarter de la parité établie entre les deux Ordres privilégiés, & alors les mille Députés qu'Elle appelleroit aux États-Généraux devroient être composés de deux cents cinquante du Clergé, de deux cents cinquante de la Noblesse, & de cinq cents du Tiers-État.
+
+On a rendu compte à Votre Majesté des diverses modifications qui pouvoient concilier ce doublement du Tiers-État avec une sorte de ménagement pour l'ancienne teneur des Lettres de convocation ; ces Lettres appelloient aux États-Généraux, *un de chaque Ordre* : ainsi on auroit pu maintenir la même formule, en répartissant l'élection de la moitié des Députés du Tiers-État entre les villes principales du Royaume ; mais l'avantage particulier que ces villes obtiendroient, deviendroit un sujet de jalousie pour toutes celles dont l'importance seroit à-peu-près semblable, & cette même disposition pourroit encore exciter la réclamation des autres Communautés du Royaume. Quelques objections naîtroient aussi de ce que les trois Ordres se trouvant réunis & confondus dans les Communes des villes, il faudroit par des Règlemens nouveaux & particuliers séparer le Tiers-État des autres classes de la société ; & de pareils Règlemens appliqués à un nombre très considérable de villes entraîneroient de grands embarras & de grandes longueurs.
+
+Il étoit bien naturel & bien digne de la protection que Votre Majesté accorde également à tous les Ordres de son Royaume, de chercher avec attention & avec suite, tous les moyens qui pouvoient lui donner l'espérance de concilier leurs diverses prétentions & leurs différens intérêts ; mais, dans la circonstance où se trouvent les affaires publiques, toute modification nouvelle qui n'auroit pas été motivée ou par un principe évident de justice, ou par l'expression générale de l'opinion publique, exposeroit peut-être à des contradictions difficiles à surmonter.
+
+Votre Majesté, en augmentant le nombre des Députés du Tiers-État aux Assemblées nationales, cédera principalement à un sentiment d'équité ; & puisqu'en toutes choses la manière la plus simple est la plus assortie à la dignité Royale, c'est sous une telle forme qu'il faut livrer à la garde du tems une délibération qui fera quelque jour une des époques glorieuses du règne de Votre Majesté.
+
+On proposeroit donc à Votre Majesté d'exprimer ses intentions dans les lettres de convocations mêmes.
+
+On doit observer cependant que si Votre Majesté veut accorder une députation particulière au très petit nombre de villes qui ont joui de ce privilége en 1614, il faudroit les astreindre pour leurs élections aux dispositions qui seront suivies dans les Bailliages, afin que le nombre des Députés du Tiers-État ne puisse jamais excéder le nombre des Députés des deux premiers Ordres.
+
+*La fin dans la Feuille suivante.*

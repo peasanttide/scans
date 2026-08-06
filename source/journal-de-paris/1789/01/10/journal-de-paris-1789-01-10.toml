@@ -6,3 +6,43 @@ type  = "issue"
 no    = 10
 date  = "1789-01-10"
 pages = { from = 49, to = 52 }
+
+[[page]]
+n     = 1
+label = "45"
+[[page.text]]
+file = "journal-de-paris-1789-01-10.p1.md"
+kind = "transcription"
+by   = "claude-opus-5"
+lang = "fr"
+note = "The meteorological table's caption is set rotated in the left margin and is faint; \"du Jeudi 8 Janv.\" is a best reading."
+
+[[page]]
+n     = 2
+label = "46"
+[[page.text]]
+file = "journal-de-paris-1789-01-10.p2.md"
+kind = "transcription"
+by   = "claude-opus-5"
+lang = "fr"
+note = "The instrument-maker's name in the second paragraph is thickly inked; \"Monÿ\" is a best reading."
+
+[[page]]
+n     = 3
+label = "47"
+[[page.text]]
+file = "journal-de-paris-1789-01-10.p3.md"
+kind = "transcription"
+by   = "claude-opus-5"
+lang = "fr"
+note = "The surname in the second sealed-estate notice is thickly inked and left as [unclear: Sarrau]; the last spectacle notice prints \"la 2 repr.\" with no ordinal letter, transcribed as printed."
+
+[[page]]
+n     = 4
+label = "48"
+[[page.text]]
+file = "journal-de-paris-1789-01-10.p4.md"
+kind = "transcription"
+by   = "claude-opus-5"
+lang = "fr"
+note = "Prints \"spectale\" for \"spectacle\", transcribed as printed and marked [sic]; the Bourse percentage sign, an o set over an o, is written \"o/o\"."

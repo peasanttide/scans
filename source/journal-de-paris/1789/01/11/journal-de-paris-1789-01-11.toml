@@ -7,3 +7,42 @@ no    = 11
 date  = "1789-01-11"
 pages = { from = 53, to = 56 }
 note  = "INFERRED: header number OCR'd as 49, which does not fit the sequence and has no printed date to confirm it; took 11 from the preceding issue. Verify against the scan."
+
+[[page]]
+n     = 1
+label = "49"
+[[page.text]]
+file = "journal-de-paris-1789-01-11.p1.md"
+kind = "transcription"
+by   = "claude-opus-5"
+lang = "fr"
+note = "The last line of the first column is thickly inked; the sum \"12000 l.\" is a best reading."
+
+[[page]]
+n     = 2
+label = "50"
+[[page.text]]
+file = "journal-de-paris-1789-01-11.p2.md"
+kind = "transcription"
+by   = "claude-opus-5"
+lang = "fr"
+
+[[page]]
+n     = 3
+label = "51"
+[[page.text]]
+file = "journal-de-paris-1789-01-11.p3.md"
+kind = "transcription"
+by   = "claude-opus-5"
+lang = "fr"
+note = "Prints \"Jounal\" for \"Journal\", transcribed as printed; the abbreviation before the initials C. A. in the list of donations could not be read."
+
+[[page]]
+n     = 4
+label = "52"
+[[page.text]]
+file = "journal-de-paris-1789-01-11.p4.md"
+kind = "transcription"
+by   = "claude-opus-5"
+lang = "fr"
+note = "Thickly inked at the foot: the surname in the death notice is marked unclear, the play title \"Azine & Zamorin\" and the printer's imprint are best readings, and the Bourse per-cent sign is transcribed \"p. 0/0\"."

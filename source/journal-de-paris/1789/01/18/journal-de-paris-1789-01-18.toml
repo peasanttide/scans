@@ -6,3 +6,43 @@ type  = "issue"
 no    = 18
 date  = "1789-01-18"
 pages = { from = 81, to = 84 }
+
+[[page]]
+n     = 1
+label = "79"
+[[page.text]]
+file = "journal-de-paris-1789-01-18.p1.md"
+kind = "transcription"
+by   = "claude-opus-5"
+lang = "fr"
+note = "Prints \"qu'il h'a\" for \"qu'il n'a\", transcribed as printed."
+
+[[page]]
+n     = 2
+label = "80"
+[[page.text]]
+file = "journal-de-paris-1789-01-18.p2.md"
+kind = "transcription"
+by   = "claude-opus-5"
+lang = "fr"
+note = "The Bienfaisance list is thinly inked; the second donor's title and the surname following \"Paulin\" are marked unclear."
+
+[[page]]
+n     = 3
+label = "81"
+[[page.text]]
+file = "journal-de-paris-1789-01-18.p3.md"
+kind = "transcription"
+by   = "claude-opus-5"
+lang = "fr"
+note = "Prints \"pleiuement\" for \"pleinement\" and a full stop after \"en cinq actes\" where a comma belongs; both transcribed as printed."
+
+[[page]]
+n     = 4
+label = "82"
+[[page.text]]
+file = "journal-de-paris-1789-01-18.p4.md"
+kind = "transcription"
+by   = "claude-opus-5"
+lang = "fr"
+note = "Prints \"VARIÉTÉE.\" for \"VARIÉTÉS.\", transcribed as printed; each Payemens entry ends in a marginal brace-piece after the leader dots, which carries no text and is not transcribed."

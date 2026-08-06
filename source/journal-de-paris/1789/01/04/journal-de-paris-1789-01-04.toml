@@ -6,3 +6,23 @@ type  = "issue"
 no    = 4
 date  = "1789-01-04"
 pages = { from = 21, to = 22 }
+
+[[page]]
+n     = 1
+label = "17"
+[[page.text]]
+file = "journal-de-paris-1789-01-04.p1.md"
+kind = "transcription"
+by   = "claude-opus-5"
+lang = "fr"
+note = "Prints \"Aujourd hui\" without apostrophe, and \"ses Députés soit\" for \"soient\"; both transcribed as printed."
+
+[[page]]
+n     = 2
+label = "18"
+[[page.text]]
+file = "journal-de-paris-1789-01-04.p2.md"
+kind = "transcription"
+by   = "claude-opus-5"
+lang = "fr"
+note = "Prints \"un grande importance\" for \"une grande\", transcribed as printed."

@@ -6,3 +6,42 @@ type  = "issue"
 no    = 20
 date  = "1789-01-20"
 pages = { from = 89, to = 92 }
+
+[[page]]
+n     = 1
+label = "87"
+[[page.text]]
+file = "journal-de-paris-1789-01-20.p1.md"
+kind = "transcription"
+by   = "claude-opus-5"
+lang = "fr"
+
+[[page]]
+n     = 2
+label = "88"
+[[page.text]]
+file = "journal-de-paris-1789-01-20.p2.md"
+kind = "transcription"
+by   = "claude-opus-5"
+lang = "fr"
+note = "Prints \"déttuite\" for \"détruite\" and \"les fond\" for \"les fonds\", both transcribed as printed."
+
+[[page]]
+n     = 3
+label = "89"
+[[page.text]]
+file = "journal-de-paris-1789-01-20.p3.md"
+kind = "transcription"
+by   = "claude-opus-5"
+lang = "fr"
+note = "An ink stroke crosses the Sterne notice; its page count is a best reading."
+
+[[page]]
+n     = 4
+label = "90"
+[[page.text]]
+file = "journal-de-paris-1789-01-20.p4.md"
+kind = "transcription"
+by   = "claude-opus-5"
+lang = "fr"
+note = "Prints \"différons\" for \"différens\"; two names in the Payemens and Morts lists and one Bourse entry are blotted and given as best readings; the printed per-cent sign is written \"po/o.\"."
