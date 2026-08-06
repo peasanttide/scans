@@ -35,11 +35,29 @@ probe = ["dep:lopdf"]
 # `scans ingest` reads a bound volume's PDF text layer to recover the issue documents
 # inside it. Same reason as `probe` for being off by default: it opens container bytes.
 ingest = ["dep:lopdf"]
+# `scans render` and `scans extract` turn a page of a scanned container into pixels. Off by
+# default for the same reason as the other two, and for one more: this is the only feature
+# that pulls a rasteriser and its ~70 transitive crates into the build, and the default
+# `validate` path must not pay for them.
+#
+# `hayro` is the decoder, not `lopdf`, and the choice is forced by what is actually in the
+# archive. Every one of volume 1's 888 page images is JBIG2, and volume 2 adds JPEG 2000
+# plates. `lopdf` hands back the raw compressed stream for both and decodes neither, so an
+# extractor built on it would emit files nothing can open. `hayro` is a pure-Rust PDF
+# rasteriser whose `images` feature carries pure-Rust JBIG2 and JPEG 2000 decoders, which is
+# the whole reason it is here — no C toolchain, no Ghostscript, no pdfium binary to ship.
+render = ["dep:hayro", "dep:png"]
 
 [dependencies]
 anyhow = "1.0.104"
 clap = { version = "4.6.5", features = ["derive"] }
+# A pure-Rust PDF rasteriser. See the `render` feature for why this rather than lopdf.
+hayro = { version = "0.7.1", optional = true }
 lopdf = { version = "0.44", default-features = false, optional = true }
+# Written by hand rather than through vello's `Pixmap::into_png`, which always emits RGBA8.
+# A bitonal scan encoded as 8-bit grey is a quarter of the size for identical pixels, and
+# these files exist to be read a few hundred at a time.
+png = { version = "0.18.1", optional = true }
 # schemars DERIVES the JSON Schema from the same types the validator uses, so the schema
 # cannot drift away from the code. It is never hand-written.
 schemars = "1.2.2"

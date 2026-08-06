@@ -14,6 +14,7 @@
 //! | [`validate`] | the ten checks. |
 //! | [`migrate`] | the one-shot migration from the legacy layout. |
 //! | [`ingest`] | recovering issue documents from a bound volume's PDF text layer. |
+//! | [`render`] | rasterising a cited page, and extracting the images stored on it. |
 //!
 //! # Feature `probe`
 //!
@@ -26,6 +27,7 @@ pub mod ingest;
 pub mod load;
 pub mod migrate;
 pub mod model;
+pub mod render;
 pub mod validate;
 
 pub use load::{

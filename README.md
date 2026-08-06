@@ -88,6 +88,33 @@ optional feature:
 cargo run --features probe -- validate --probe
 ```
 
+## Pixels
+
+Two commands turn a citation into an image. Both take an address, so nothing ever names a
+page number inside a PDF by hand.
+
+```sh
+cargo run --release --features render -- render journal-de-paris-1789-01-03
+cargo run --release --features render -- render journal-de-paris-1789-01-03.p1 --grid 2x2
+cargo run --release --features render -- extract journal-de-paris-1789-01-03.p1
+```
+
+`render` rasterises the page. `extract` writes out the bitmaps stored on it, untouched.
+Output goes to `.render/` at the repository root, which is gitignored: these are derived
+files, reproducible at any time, and at native resolution they outweigh the PDFs.
+
+* **Resolution is native by default** — the scan's own, taken from its largest embedded
+  image. Journal de Paris pages come out around 3500x4900. `--dpi` overrides it.
+* **`--grid RxC` cuts the page into tiles** with `--overlap` percent of slack on the interior
+  edges. A whole page shown to a reader that samples it down to fit is illegible type; for
+  this paper's two-column setting, `--grid 2x2` puts roughly one half-column in each tile.
+* Both are behind the `render` feature, which is what pulls in the rasteriser. Build
+  `--release`: a debug build is about thirty times slower, and it shows over 888 pages.
+
+`hayro` does the decoding rather than `lopdf`, because every page image in volume 1 is JBIG2
+and volume 2 adds JPEG 2000 plates. It is pure Rust, so there is no Ghostscript, pdfium or C
+toolchain to install.
+
 Each record carries a `#:schema` directive on its first line, which is what gets it validated
 in an editor. See `schemas/README.md` — the alternative, an editor schema association, was
 tested and silently does nothing.

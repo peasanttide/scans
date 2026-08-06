@@ -8,7 +8,8 @@ use clap::{Args, Parser, Subcommand, ValueEnum};
 
 use scans::load::{RefTarget, load_archive};
 use scans::model;
-use scans::{ingest, migrate, validate};
+use scans::render::Grid;
+use scans::{ingest, migrate, render, validate};
 
 /// Path of the generated schema, relative to the repository root.
 const SCHEMA_PATH: &str = "schemas/source.json";
@@ -36,6 +37,59 @@ enum Command {
     Schema(SchemaArgs),
     /// Recover the issue documents inside a bound volume from its PDF text layer.
     Ingest(IngestArgs),
+    /// Rasterise cited pages to PNG.
+    Render(RenderArgs),
+    /// Write out the images stored on cited pages, without rasterising the page.
+    Extract(ExtractArgs),
+}
+
+#[derive(Debug, Args)]
+struct RenderArgs {
+    /// Addresses to render: a record id such as `journal-de-paris-1789-01-03`, which renders
+    /// every page of it, or a single page such as `journal-de-paris-1789-01-03.p1`.
+    #[arg(required = true)]
+    addresses: Vec<String>,
+    /// Repository root. Defaults to the nearest ancestor containing .git.
+    #[arg(long)]
+    root: Option<PathBuf>,
+    /// Directory to write into. Defaults to <root>/.render, which is gitignored — these are
+    /// derived files and do not belong in the archive.
+    #[arg(long)]
+    out: Option<PathBuf>,
+    /// Resolution. Omit for the native resolution of the page's own scan, which is the
+    /// default because resampling a facsimile loses the only thing it has.
+    #[arg(long)]
+    dpi: Option<f32>,
+    /// Split each page into a ROWSxCOLS grid of PNGs, e.g. `2x2`. A whole page shown to a
+    /// reader that samples it down is unreadable type; a quarter of one is not.
+    #[arg(long, default_value_t = Grid::WHOLE)]
+    grid: Grid,
+    /// Percentage added to each interior tile edge, so a line cut by a boundary survives
+    /// whole in its neighbour. Ignored for a 1x1 grid.
+    #[arg(long, default_value_t = 4.0)]
+    overlap: f32,
+    /// Overwrite outputs that already exist.
+    #[arg(long)]
+    force: bool,
+}
+
+#[derive(Debug, Args)]
+struct ExtractArgs {
+    /// Addresses whose stored images to write out.
+    #[arg(required = true)]
+    addresses: Vec<String>,
+    /// Repository root. Defaults to the nearest ancestor containing .git.
+    #[arg(long)]
+    root: Option<PathBuf>,
+    /// Directory to write into. Defaults to <root>/.render.
+    #[arg(long)]
+    out: Option<PathBuf>,
+    /// Write the stored bytes verbatim instead of decoding them to PNG.
+    #[arg(long)]
+    raw: bool,
+    /// Overwrite outputs that already exist.
+    #[arg(long)]
+    force: bool,
 }
 
 #[derive(Debug, Args)]
@@ -135,6 +189,8 @@ fn run() -> Result<ExitCode> {
         Command::Resolve(args) => cmd_resolve(args),
         Command::Schema(args) => cmd_schema(args),
         Command::Ingest(args) => cmd_ingest(args),
+        Command::Render(args) => cmd_render(args),
+        Command::Extract(args) => cmd_extract(args),
     }
 }
 
@@ -507,4 +563,65 @@ worklist — check these against the scan:");
 {} record(s) written.", report.written.len());
     }
     Ok(ExitCode::SUCCESS)
+}
+
+// ---------------------------------------------------------------------------------------
+// render and extract
+// ---------------------------------------------------------------------------------------
+
+fn cmd_render(args: RenderArgs) -> Result<ExitCode> {
+    let root = resolve_root(args.root.as_deref())?;
+    let archive = load_archive(&root)?;
+    let options = render::RenderOptions {
+        addresses: args.addresses,
+        out: out_dir(&root, args.out),
+        dpi: args.dpi,
+        grid: args.grid,
+        overlap: args.overlap,
+        force: args.force,
+    };
+    let report = render::render(&archive, &options)?;
+    report_pixels(&root, &report);
+    Ok(ExitCode::SUCCESS)
+}
+
+fn cmd_extract(args: ExtractArgs) -> Result<ExitCode> {
+    let root = resolve_root(args.root.as_deref())?;
+    let archive = load_archive(&root)?;
+    let options = render::ExtractOptions {
+        addresses: args.addresses,
+        out: out_dir(&root, args.out),
+        raw: args.raw,
+        force: args.force,
+    };
+    let report = render::extract(&archive, &options)?;
+    report_pixels(&root, &report);
+    Ok(ExitCode::SUCCESS)
+}
+
+fn out_dir(root: &Path, explicit: Option<PathBuf>) -> PathBuf {
+    explicit.unwrap_or_else(|| root.join(render::DEFAULT_OUT_DIR))
+}
+
+/// Print what was written, on stdout, one path per line.
+///
+/// One path per line and nothing else on stdout, so the caller can pipe it. Everything that is
+/// commentary — the notes, the tally — goes to stderr, where it does not corrupt the list.
+fn report_pixels(root: &Path, report: &render::Report) {
+    for path in &report.written {
+        println!("{}", show(root, path));
+    }
+    for note in &report.notes {
+        eprintln!("scans: {note}");
+    }
+    if report.skipped.is_empty() {
+        eprintln!("{} file(s) written.", report.written.len());
+    } else {
+        eprintln!(
+            "{} file(s) written, {} left alone because they already existed (--force to \
+             overwrite).",
+            report.written.len(),
+            report.skipped.len()
+        );
+    }
 }

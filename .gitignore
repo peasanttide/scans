@@ -1,2 +1,6 @@
 # Rust build output for the `scans` tool.
 /tools/target/
+
+# Default output of `scans render` and `scans extract`. Derived pixels: reproducible from the
+# PDFs at any time, and at native resolution they outweigh the containers they came from.
+/.render/
