@@ -1,0 +1,2570 @@
+#:schema ../../schemas/source.json
+id          = "pellet-1873"
+layer       = "source"
+type        = "book"
+title       = "Les Actes des apôtres, (1789-1791); un journal royaliste en 1789"
+short_title = "Pellet, Les Actes des apôtres"
+language    = "fr"
+place       = "Paris"
+country     = "France"
+date        = "1873"
+covers      = "1789/1791"
+pages       = { from = 1, to = 286 }
+url         = "https://archive.org/details/lesactesdesapt00pelluoft"
+note        = "A study of the royalist paper Les Actes des Apôtres, not the paper itself: this is a secondary work of 1873 that quotes and describes it. Held here because it reprints material from the paper and from the royalist press of 1789 that is otherwise hard to reach. Fifteen chapters over 275 printed pages, with a table des matières at the end. The frontispiece, PDF page 8, is a facsimile of a contemporary caricature, 'Mirabeau-Tonneau escaladant la tribune'."
+
+[[resp]]
+name = "Marcellin Pellet"
+role = "author"
+note = "1849-1915."
+[[resp]]
+name = "Armand Le Chevalier"
+role = "publisher"
+
+[scan]
+file  = "pellet-1873.pdf"
+count = 286
+by    = "Internet Archive"
+url   = "https://archive.org/details/lesactesdesapt00pelluoft"
+note  = "Scanned at 400 ppi on a Canon 5D at the University of Toronto centre, 4 June 2008, sponsored by MSN. PDF page n is Internet Archive leaf n throughout. Printed page n is PDF page n + 6: printed pagination runs to 275 on PDF page 281, and is visible from 8 on PDF page 14 onward. PDF pages 1-4 and 282-286 are covers, endpapers and the library bookplate."
+
+[holding]
+repository = "Robarts Library, University of Toronto"
+shelfmark  = "DC140 .A23 P4"
+
+[identifier]
+internet_archive    = "lesactesdesapt00pelluoft"
+ark                 = "ark:/13960/t5z60mz0x"
+oclc                = "1048235366"
+openlibrary_edition = "OL14019081M"
+openlibrary_work    = "OL5807598W"
+
+[rights]
+work        = "PD-old-100-expired"
+scan        = "PD"
+attribution = "Digitised by the Internet Archive from the University of Toronto copy."
+note        = "No visible notice of copyright; stated date is 1873. Assessed by the Internet Archive on 3 June 2008 as NOT_IN_COPYRIGHT for the United States."
+
+[[link]]
+rel   = "download"
+url   = "https://archive.org/download/lesactesdesapt00pelluoft/lesactesdesapt00pelluoft.pdf"
+title = "The exact file stored here as pellet-1873.pdf"
+
+[[link]]
+rel   = "download"
+url   = "https://archive.org/download/lesactesdesapt00pelluoft/lesactesdesapt00pelluoft_djvu.txt"
+title = "OCR text of the whole volume"
+note  = "ABBYY OCR, uncorrected. Diacritics and the running heads are unreliable."
+
+[[link]]
+rel = "catalogue"
+url = "https://openlibrary.org/books/OL14019081M"
+
+[[link]]
+rel = "worldcat"
+url = "https://search.worldcat.org/oclc/1048235366"
+
+[[page]]
+n = 1
+[[page.text]]
+file = "ocr/pellet-1873.p1.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 2
+[[page.text]]
+file = "ocr/pellet-1873.p2.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 3
+[[page.text]]
+file = "ocr/pellet-1873.p3.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 4
+[[page.text]]
+file = "ocr/pellet-1873.p4.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 5
+[[page.text]]
+file = "ocr/pellet-1873.p5.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 6
+[[page.text]]
+file = "ocr/pellet-1873.p6.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 7
+
+[[page]]
+n = 8
+[[page.text]]
+file = "ocr/pellet-1873.p8.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 9
+[[page.text]]
+file = "ocr/pellet-1873.p9.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 10
+[[page.text]]
+file = "ocr/pellet-1873.p10.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 11
+[[page.text]]
+file = "ocr/pellet-1873.p11.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 12
+
+[[page]]
+n = 13
+[[page.text]]
+file = "ocr/pellet-1873.p13.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 14
+[[page.text]]
+file = "ocr/pellet-1873.p14.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 15
+label = "9"
+[[page.text]]
+file = "ocr/pellet-1873.p15.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 16
+label = "10"
+[[page.text]]
+file = "ocr/pellet-1873.p16.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 17
+label = "11"
+[[page.text]]
+file = "ocr/pellet-1873.p17.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 18
+label = "12"
+[[page.text]]
+file = "ocr/pellet-1873.p18.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 19
+label = "13"
+[[page.text]]
+file = "ocr/pellet-1873.p19.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 20
+label = "14"
+[[page.text]]
+file = "ocr/pellet-1873.p20.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 21
+label = "15"
+[[page.text]]
+file = "ocr/pellet-1873.p21.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 22
+label = "16"
+[[page.text]]
+file = "ocr/pellet-1873.p22.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 23
+label = "17"
+[[page.text]]
+file = "ocr/pellet-1873.p23.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 24
+label = "18"
+[[page.text]]
+file = "ocr/pellet-1873.p24.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 25
+label = "19"
+[[page.text]]
+file = "ocr/pellet-1873.p25.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 26
+label = "20"
+[[page.text]]
+file = "ocr/pellet-1873.p26.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 27
+label = "21"
+[[page.text]]
+file = "ocr/pellet-1873.p27.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 28
+label = "22"
+[[page.text]]
+file = "ocr/pellet-1873.p28.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 29
+label = "23"
+[[page.text]]
+file = "ocr/pellet-1873.p29.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 30
+label = "24"
+[[page.text]]
+file = "ocr/pellet-1873.p30.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 31
+label = "25"
+[[page.text]]
+file = "ocr/pellet-1873.p31.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 32
+label = "26"
+[[page.text]]
+file = "ocr/pellet-1873.p32.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 33
+label = "27"
+[[page.text]]
+file = "ocr/pellet-1873.p33.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 34
+label = "28"
+[[page.text]]
+file = "ocr/pellet-1873.p34.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 35
+label = "29"
+[[page.text]]
+file = "ocr/pellet-1873.p35.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 36
+label = "30"
+[[page.text]]
+file = "ocr/pellet-1873.p36.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 37
+label = "31"
+[[page.text]]
+file = "ocr/pellet-1873.p37.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 38
+label = "32"
+[[page.text]]
+file = "ocr/pellet-1873.p38.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 39
+label = "33"
+[[page.text]]
+file = "ocr/pellet-1873.p39.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 40
+label = "34"
+[[page.text]]
+file = "ocr/pellet-1873.p40.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 41
+label = "35"
+[[page.text]]
+file = "ocr/pellet-1873.p41.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 42
+label = "36"
+[[page.text]]
+file = "ocr/pellet-1873.p42.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 43
+label = "37"
+[[page.text]]
+file = "ocr/pellet-1873.p43.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 44
+label = "38"
+[[page.text]]
+file = "ocr/pellet-1873.p44.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 45
+label = "39"
+[[page.text]]
+file = "ocr/pellet-1873.p45.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 46
+label = "40"
+[[page.text]]
+file = "ocr/pellet-1873.p46.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 47
+label = "41"
+[[page.text]]
+file = "ocr/pellet-1873.p47.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 48
+label = "42"
+[[page.text]]
+file = "ocr/pellet-1873.p48.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 49
+label = "43"
+[[page.text]]
+file = "ocr/pellet-1873.p49.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 50
+label = "44"
+[[page.text]]
+file = "ocr/pellet-1873.p50.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 51
+label = "45"
+[[page.text]]
+file = "ocr/pellet-1873.p51.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 52
+label = "46"
+[[page.text]]
+file = "ocr/pellet-1873.p52.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 53
+label = "47"
+[[page.text]]
+file = "ocr/pellet-1873.p53.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 54
+label = "48"
+[[page.text]]
+file = "ocr/pellet-1873.p54.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 55
+label = "49"
+[[page.text]]
+file = "ocr/pellet-1873.p55.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 56
+label = "50"
+[[page.text]]
+file = "ocr/pellet-1873.p56.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 57
+label = "51"
+[[page.text]]
+file = "ocr/pellet-1873.p57.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 58
+label = "52"
+[[page.text]]
+file = "ocr/pellet-1873.p58.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 59
+label = "53"
+[[page.text]]
+file = "ocr/pellet-1873.p59.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 60
+label = "54"
+[[page.text]]
+file = "ocr/pellet-1873.p60.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 61
+label = "55"
+[[page.text]]
+file = "ocr/pellet-1873.p61.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 62
+label = "56"
+[[page.text]]
+file = "ocr/pellet-1873.p62.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 63
+label = "57"
+[[page.text]]
+file = "ocr/pellet-1873.p63.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 64
+label = "58"
+[[page.text]]
+file = "ocr/pellet-1873.p64.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 65
+label = "59"
+[[page.text]]
+file = "ocr/pellet-1873.p65.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 66
+label = "60"
+[[page.text]]
+file = "ocr/pellet-1873.p66.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 67
+label = "61"
+[[page.text]]
+file = "ocr/pellet-1873.p67.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 68
+label = "62"
+[[page.text]]
+file = "ocr/pellet-1873.p68.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 69
+label = "63"
+[[page.text]]
+file = "ocr/pellet-1873.p69.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 70
+label = "64"
+[[page.text]]
+file = "ocr/pellet-1873.p70.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 71
+label = "65"
+[[page.text]]
+file = "ocr/pellet-1873.p71.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 72
+label = "66"
+
+[[page]]
+n = 73
+label = "67"
+[[page.text]]
+file = "ocr/pellet-1873.p73.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 74
+label = "68"
+[[page.text]]
+file = "ocr/pellet-1873.p74.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 75
+label = "69"
+[[page.text]]
+file = "ocr/pellet-1873.p75.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 76
+label = "70"
+[[page.text]]
+file = "ocr/pellet-1873.p76.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 77
+label = "71"
+[[page.text]]
+file = "ocr/pellet-1873.p77.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 78
+label = "72"
+[[page.text]]
+file = "ocr/pellet-1873.p78.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 79
+label = "73"
+[[page.text]]
+file = "ocr/pellet-1873.p79.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 80
+label = "74"
+[[page.text]]
+file = "ocr/pellet-1873.p80.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 81
+label = "75"
+[[page.text]]
+file = "ocr/pellet-1873.p81.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 82
+label = "76"
+[[page.text]]
+file = "ocr/pellet-1873.p82.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 83
+label = "77"
+[[page.text]]
+file = "ocr/pellet-1873.p83.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 84
+label = "78"
+[[page.text]]
+file = "ocr/pellet-1873.p84.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 85
+label = "79"
+[[page.text]]
+file = "ocr/pellet-1873.p85.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 86
+label = "80"
+[[page.text]]
+file = "ocr/pellet-1873.p86.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 87
+label = "81"
+[[page.text]]
+file = "ocr/pellet-1873.p87.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 88
+label = "82"
+[[page.text]]
+file = "ocr/pellet-1873.p88.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 89
+label = "83"
+[[page.text]]
+file = "ocr/pellet-1873.p89.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 90
+label = "84"
+[[page.text]]
+file = "ocr/pellet-1873.p90.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 91
+label = "85"
+[[page.text]]
+file = "ocr/pellet-1873.p91.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 92
+label = "86"
+[[page.text]]
+file = "ocr/pellet-1873.p92.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 93
+label = "87"
+[[page.text]]
+file = "ocr/pellet-1873.p93.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 94
+label = "88"
+[[page.text]]
+file = "ocr/pellet-1873.p94.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 95
+label = "89"
+[[page.text]]
+file = "ocr/pellet-1873.p95.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 96
+label = "90"
+[[page.text]]
+file = "ocr/pellet-1873.p96.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 97
+label = "91"
+[[page.text]]
+file = "ocr/pellet-1873.p97.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 98
+label = "92"
+[[page.text]]
+file = "ocr/pellet-1873.p98.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 99
+label = "93"
+[[page.text]]
+file = "ocr/pellet-1873.p99.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 100
+label = "94"
+[[page.text]]
+file = "ocr/pellet-1873.p100.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 101
+label = "95"
+[[page.text]]
+file = "ocr/pellet-1873.p101.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 102
+label = "96"
+[[page.text]]
+file = "ocr/pellet-1873.p102.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 103
+label = "97"
+[[page.text]]
+file = "ocr/pellet-1873.p103.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 104
+label = "98"
+[[page.text]]
+file = "ocr/pellet-1873.p104.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 105
+label = "99"
+[[page.text]]
+file = "ocr/pellet-1873.p105.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 106
+label = "100"
+[[page.text]]
+file = "ocr/pellet-1873.p106.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 107
+label = "101"
+[[page.text]]
+file = "ocr/pellet-1873.p107.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 108
+label = "102"
+[[page.text]]
+file = "ocr/pellet-1873.p108.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 109
+label = "103"
+[[page.text]]
+file = "ocr/pellet-1873.p109.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 110
+label = "104"
+[[page.text]]
+file = "ocr/pellet-1873.p110.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 111
+label = "105"
+[[page.text]]
+file = "ocr/pellet-1873.p111.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 112
+label = "106"
+[[page.text]]
+file = "ocr/pellet-1873.p112.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 113
+label = "107"
+[[page.text]]
+file = "ocr/pellet-1873.p113.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 114
+label = "108"
+[[page.text]]
+file = "ocr/pellet-1873.p114.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 115
+label = "109"
+[[page.text]]
+file = "ocr/pellet-1873.p115.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 116
+label = "110"
+[[page.text]]
+file = "ocr/pellet-1873.p116.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 117
+label = "111"
+[[page.text]]
+file = "ocr/pellet-1873.p117.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 118
+label = "112"
+[[page.text]]
+file = "ocr/pellet-1873.p118.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 119
+label = "113"
+[[page.text]]
+file = "ocr/pellet-1873.p119.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 120
+label = "114"
+[[page.text]]
+file = "ocr/pellet-1873.p120.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 121
+label = "115"
+[[page.text]]
+file = "ocr/pellet-1873.p121.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 122
+label = "116"
+[[page.text]]
+file = "ocr/pellet-1873.p122.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 123
+label = "117"
+[[page.text]]
+file = "ocr/pellet-1873.p123.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 124
+label = "118"
+[[page.text]]
+file = "ocr/pellet-1873.p124.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 125
+label = "119"
+[[page.text]]
+file = "ocr/pellet-1873.p125.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 126
+label = "120"
+[[page.text]]
+file = "ocr/pellet-1873.p126.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 127
+label = "121"
+[[page.text]]
+file = "ocr/pellet-1873.p127.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 128
+label = "122"
+[[page.text]]
+file = "ocr/pellet-1873.p128.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 129
+label = "123"
+[[page.text]]
+file = "ocr/pellet-1873.p129.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 130
+label = "124"
+[[page.text]]
+file = "ocr/pellet-1873.p130.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 131
+label = "125"
+[[page.text]]
+file = "ocr/pellet-1873.p131.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 132
+label = "126"
+[[page.text]]
+file = "ocr/pellet-1873.p132.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 133
+label = "127"
+[[page.text]]
+file = "ocr/pellet-1873.p133.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 134
+label = "128"
+
+[[page]]
+n = 135
+label = "129"
+[[page.text]]
+file = "ocr/pellet-1873.p135.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 136
+label = "130"
+[[page.text]]
+file = "ocr/pellet-1873.p136.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 137
+label = "131"
+[[page.text]]
+file = "ocr/pellet-1873.p137.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 138
+label = "132"
+[[page.text]]
+file = "ocr/pellet-1873.p138.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 139
+label = "133"
+[[page.text]]
+file = "ocr/pellet-1873.p139.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 140
+label = "134"
+[[page.text]]
+file = "ocr/pellet-1873.p140.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 141
+label = "135"
+[[page.text]]
+file = "ocr/pellet-1873.p141.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 142
+label = "136"
+[[page.text]]
+file = "ocr/pellet-1873.p142.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 143
+label = "137"
+[[page.text]]
+file = "ocr/pellet-1873.p143.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 144
+label = "138"
+[[page.text]]
+file = "ocr/pellet-1873.p144.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 145
+label = "139"
+[[page.text]]
+file = "ocr/pellet-1873.p145.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 146
+label = "140"
+[[page.text]]
+file = "ocr/pellet-1873.p146.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 147
+label = "141"
+[[page.text]]
+file = "ocr/pellet-1873.p147.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 148
+label = "142"
+[[page.text]]
+file = "ocr/pellet-1873.p148.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 149
+label = "143"
+[[page.text]]
+file = "ocr/pellet-1873.p149.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 150
+label = "144"
+
+[[page]]
+n = 151
+label = "145"
+[[page.text]]
+file = "ocr/pellet-1873.p151.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 152
+label = "146"
+[[page.text]]
+file = "ocr/pellet-1873.p152.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 153
+label = "147"
+[[page.text]]
+file = "ocr/pellet-1873.p153.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 154
+label = "148"
+[[page.text]]
+file = "ocr/pellet-1873.p154.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 155
+label = "149"
+[[page.text]]
+file = "ocr/pellet-1873.p155.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 156
+label = "150"
+[[page.text]]
+file = "ocr/pellet-1873.p156.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 157
+label = "151"
+[[page.text]]
+file = "ocr/pellet-1873.p157.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 158
+label = "152"
+[[page.text]]
+file = "ocr/pellet-1873.p158.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 159
+label = "153"
+[[page.text]]
+file = "ocr/pellet-1873.p159.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 160
+label = "154"
+[[page.text]]
+file = "ocr/pellet-1873.p160.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 161
+label = "155"
+[[page.text]]
+file = "ocr/pellet-1873.p161.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 162
+label = "156"
+[[page.text]]
+file = "ocr/pellet-1873.p162.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 163
+label = "157"
+[[page.text]]
+file = "ocr/pellet-1873.p163.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 164
+label = "158"
+[[page.text]]
+file = "ocr/pellet-1873.p164.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 165
+label = "159"
+[[page.text]]
+file = "ocr/pellet-1873.p165.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 166
+label = "160"
+[[page.text]]
+file = "ocr/pellet-1873.p166.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 167
+label = "161"
+[[page.text]]
+file = "ocr/pellet-1873.p167.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 168
+label = "162"
+[[page.text]]
+file = "ocr/pellet-1873.p168.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 169
+label = "163"
+[[page.text]]
+file = "ocr/pellet-1873.p169.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 170
+label = "164"
+[[page.text]]
+file = "ocr/pellet-1873.p170.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 171
+label = "165"
+[[page.text]]
+file = "ocr/pellet-1873.p171.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 172
+label = "166"
+[[page.text]]
+file = "ocr/pellet-1873.p172.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 173
+label = "167"
+[[page.text]]
+file = "ocr/pellet-1873.p173.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 174
+label = "168"
+[[page.text]]
+file = "ocr/pellet-1873.p174.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 175
+label = "169"
+[[page.text]]
+file = "ocr/pellet-1873.p175.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 176
+label = "170"
+[[page.text]]
+file = "ocr/pellet-1873.p176.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 177
+label = "171"
+[[page.text]]
+file = "ocr/pellet-1873.p177.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 178
+label = "172"
+
+[[page]]
+n = 179
+label = "173"
+[[page.text]]
+file = "ocr/pellet-1873.p179.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 180
+label = "174"
+[[page.text]]
+file = "ocr/pellet-1873.p180.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 181
+label = "175"
+[[page.text]]
+file = "ocr/pellet-1873.p181.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 182
+label = "176"
+[[page.text]]
+file = "ocr/pellet-1873.p182.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 183
+label = "177"
+[[page.text]]
+file = "ocr/pellet-1873.p183.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 184
+label = "178"
+[[page.text]]
+file = "ocr/pellet-1873.p184.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 185
+label = "179"
+[[page.text]]
+file = "ocr/pellet-1873.p185.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 186
+label = "180"
+[[page.text]]
+file = "ocr/pellet-1873.p186.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 187
+label = "181"
+[[page.text]]
+file = "ocr/pellet-1873.p187.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 188
+label = "182"
+[[page.text]]
+file = "ocr/pellet-1873.p188.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 189
+label = "183"
+[[page.text]]
+file = "ocr/pellet-1873.p189.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 190
+label = "184"
+[[page.text]]
+file = "ocr/pellet-1873.p190.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 191
+label = "185"
+[[page.text]]
+file = "ocr/pellet-1873.p191.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 192
+label = "186"
+[[page.text]]
+file = "ocr/pellet-1873.p192.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 193
+label = "187"
+[[page.text]]
+file = "ocr/pellet-1873.p193.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 194
+label = "188"
+[[page.text]]
+file = "ocr/pellet-1873.p194.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 195
+label = "189"
+[[page.text]]
+file = "ocr/pellet-1873.p195.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 196
+label = "190"
+[[page.text]]
+file = "ocr/pellet-1873.p196.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 197
+label = "191"
+[[page.text]]
+file = "ocr/pellet-1873.p197.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 198
+label = "192"
+[[page.text]]
+file = "ocr/pellet-1873.p198.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 199
+label = "193"
+[[page.text]]
+file = "ocr/pellet-1873.p199.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 200
+label = "194"
+[[page.text]]
+file = "ocr/pellet-1873.p200.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 201
+label = "195"
+[[page.text]]
+file = "ocr/pellet-1873.p201.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 202
+label = "196"
+[[page.text]]
+file = "ocr/pellet-1873.p202.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 203
+label = "197"
+[[page.text]]
+file = "ocr/pellet-1873.p203.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 204
+label = "198"
+[[page.text]]
+file = "ocr/pellet-1873.p204.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 205
+label = "199"
+[[page.text]]
+file = "ocr/pellet-1873.p205.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 206
+label = "200"
+
+[[page]]
+n = 207
+label = "201"
+[[page.text]]
+file = "ocr/pellet-1873.p207.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 208
+label = "202"
+[[page.text]]
+file = "ocr/pellet-1873.p208.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 209
+label = "203"
+[[page.text]]
+file = "ocr/pellet-1873.p209.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 210
+label = "204"
+[[page.text]]
+file = "ocr/pellet-1873.p210.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 211
+label = "205"
+[[page.text]]
+file = "ocr/pellet-1873.p211.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 212
+label = "206"
+[[page.text]]
+file = "ocr/pellet-1873.p212.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 213
+label = "207"
+[[page.text]]
+file = "ocr/pellet-1873.p213.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 214
+label = "208"
+[[page.text]]
+file = "ocr/pellet-1873.p214.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 215
+label = "209"
+[[page.text]]
+file = "ocr/pellet-1873.p215.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 216
+label = "210"
+[[page.text]]
+file = "ocr/pellet-1873.p216.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 217
+label = "211"
+[[page.text]]
+file = "ocr/pellet-1873.p217.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 218
+label = "212"
+[[page.text]]
+file = "ocr/pellet-1873.p218.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 219
+label = "213"
+[[page.text]]
+file = "ocr/pellet-1873.p219.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 220
+label = "214"
+[[page.text]]
+file = "ocr/pellet-1873.p220.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 221
+label = "215"
+[[page.text]]
+file = "ocr/pellet-1873.p221.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 222
+label = "216"
+[[page.text]]
+file = "ocr/pellet-1873.p222.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 223
+label = "217"
+[[page.text]]
+file = "ocr/pellet-1873.p223.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 224
+label = "218"
+[[page.text]]
+file = "ocr/pellet-1873.p224.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 225
+label = "219"
+[[page.text]]
+file = "ocr/pellet-1873.p225.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 226
+label = "220"
+[[page.text]]
+file = "ocr/pellet-1873.p226.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 227
+label = "221"
+[[page.text]]
+file = "ocr/pellet-1873.p227.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 228
+label = "222"
+[[page.text]]
+file = "ocr/pellet-1873.p228.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 229
+label = "223"
+[[page.text]]
+file = "ocr/pellet-1873.p229.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 230
+label = "224"
+[[page.text]]
+file = "ocr/pellet-1873.p230.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 231
+label = "225"
+[[page.text]]
+file = "ocr/pellet-1873.p231.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 232
+label = "226"
+[[page.text]]
+file = "ocr/pellet-1873.p232.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 233
+label = "227"
+[[page.text]]
+file = "ocr/pellet-1873.p233.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 234
+label = "228"
+[[page.text]]
+file = "ocr/pellet-1873.p234.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 235
+label = "229"
+[[page.text]]
+file = "ocr/pellet-1873.p235.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 236
+label = "230"
+[[page.text]]
+file = "ocr/pellet-1873.p236.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 237
+label = "231"
+[[page.text]]
+file = "ocr/pellet-1873.p237.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 238
+label = "232"
+[[page.text]]
+file = "ocr/pellet-1873.p238.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 239
+label = "233"
+[[page.text]]
+file = "ocr/pellet-1873.p239.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 240
+label = "234"
+[[page.text]]
+file = "ocr/pellet-1873.p240.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 241
+label = "235"
+[[page.text]]
+file = "ocr/pellet-1873.p241.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 242
+label = "236"
+[[page.text]]
+file = "ocr/pellet-1873.p242.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 243
+label = "237"
+[[page.text]]
+file = "ocr/pellet-1873.p243.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 244
+label = "238"
+[[page.text]]
+file = "ocr/pellet-1873.p244.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 245
+label = "239"
+[[page.text]]
+file = "ocr/pellet-1873.p245.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 246
+label = "240"
+[[page.text]]
+file = "ocr/pellet-1873.p246.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 247
+label = "241"
+[[page.text]]
+file = "ocr/pellet-1873.p247.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 248
+label = "242"
+[[page.text]]
+file = "ocr/pellet-1873.p248.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 249
+label = "243"
+[[page.text]]
+file = "ocr/pellet-1873.p249.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 250
+label = "244"
+[[page.text]]
+file = "ocr/pellet-1873.p250.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 251
+label = "245"
+[[page.text]]
+file = "ocr/pellet-1873.p251.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 252
+label = "246"
+[[page.text]]
+file = "ocr/pellet-1873.p252.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 253
+label = "247"
+[[page.text]]
+file = "ocr/pellet-1873.p253.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 254
+label = "248"
+[[page.text]]
+file = "ocr/pellet-1873.p254.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 255
+label = "249"
+[[page.text]]
+file = "ocr/pellet-1873.p255.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 256
+label = "250"
+[[page.text]]
+file = "ocr/pellet-1873.p256.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 257
+label = "251"
+[[page.text]]
+file = "ocr/pellet-1873.p257.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 258
+label = "252"
+[[page.text]]
+file = "ocr/pellet-1873.p258.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 259
+label = "253"
+[[page.text]]
+file = "ocr/pellet-1873.p259.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 260
+label = "254"
+[[page.text]]
+file = "ocr/pellet-1873.p260.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 261
+label = "255"
+[[page.text]]
+file = "ocr/pellet-1873.p261.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 262
+label = "256"
+[[page.text]]
+file = "ocr/pellet-1873.p262.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 263
+label = "257"
+[[page.text]]
+file = "ocr/pellet-1873.p263.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 264
+label = "258"
+[[page.text]]
+file = "ocr/pellet-1873.p264.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 265
+label = "259"
+[[page.text]]
+file = "ocr/pellet-1873.p265.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 266
+label = "260"
+[[page.text]]
+file = "ocr/pellet-1873.p266.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 267
+label = "261"
+[[page.text]]
+file = "ocr/pellet-1873.p267.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 268
+label = "262"
+[[page.text]]
+file = "ocr/pellet-1873.p268.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 269
+label = "263"
+[[page.text]]
+file = "ocr/pellet-1873.p269.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 270
+label = "264"
+[[page.text]]
+file = "ocr/pellet-1873.p270.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 271
+label = "265"
+[[page.text]]
+file = "ocr/pellet-1873.p271.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 272
+label = "266"
+
+[[page]]
+n = 273
+label = "267"
+[[page.text]]
+file = "ocr/pellet-1873.p273.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 274
+label = "268"
+[[page.text]]
+file = "ocr/pellet-1873.p274.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 275
+label = "269"
+[[page.text]]
+file = "ocr/pellet-1873.p275.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 276
+label = "270"
+[[page.text]]
+file = "ocr/pellet-1873.p276.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 277
+label = "271"
+[[page.text]]
+file = "ocr/pellet-1873.p277.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 278
+label = "272"
+[[page.text]]
+file = "ocr/pellet-1873.p278.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 279
+label = "273"
+[[page.text]]
+file = "ocr/pellet-1873.p279.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 280
+label = "274"
+[[page.text]]
+file = "ocr/pellet-1873.p280.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 281
+label = "275"
+[[page.text]]
+file = "ocr/pellet-1873.p281.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 282
+[[page.text]]
+file = "ocr/pellet-1873.p282.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 283
+
+[[page]]
+n = 284
+[[page.text]]
+file = "ocr/pellet-1873.p284.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 285
+[[page.text]]
+file = "ocr/pellet-1873.p285.txt"
+kind = "ocr"
+by   = "ABBYY FineReader 8.0"
+lang = "fr"
+
+[[page]]
+n = 286

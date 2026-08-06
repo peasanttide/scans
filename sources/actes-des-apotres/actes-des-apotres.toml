@@ -1,0 +1,25 @@
+#:schema ../../schemas/source.json
+id        = "actes-des-apotres"
+layer     = "source"
+type      = "newspaper"
+title     = "Les Actes des Apotres"
+language  = "fr"
+place     = "Paris"
+country   = "France"
+founded   = "1789-11"
+covers    = "1789-11/1790-06"
+frequency = "irregular"
+note      = "The royalist paper of Peltier, Rivarol, Champcenetz, Suleau and Mirabeau-Tonneau, written collectively and almost always unsigned. Its numbers are headed as chapters of a scripture - 'Chapitre Sixieme' under 'N°. VI.' - and none of them carries a date of publication, which is why the documents here are addressed by number and only placed in a month. Each number opens with a title leaf bearing an epigraph, has a blank verso, and begins its text on the next recto at printed page 1. Held here: numbers 1-119 in the four volumes the Internet Archive scanned; the run reached 311 numbers and ended in October 1791. No number states its date. The month on each document is inferred, never read: every calendar date named inside a number was collected (63 numbers yielded one), the latest in each number was taken as a terminus post quem, and a Theil-Sen fit over those points gives 16.5 numbers to the month with a median residual of 0.82 months. The fit independently puts number 1 in November 1789, which is when the paper is known to have begun, and that agreement is the only reason the dating is recorded at all. Every date carries the EDTF '?' and is good to about a month. Ids are numbered, not dated, so a correction moves a file without breaking a citation."
+
+[[resp]]
+name = "Jean-Gabriel Peltier"
+role = ["founder", "editor"]
+note = "1770-1825. The paper was written by a changing group and its articles are unsigned; only Peltier's part in it is beyond dispute."
+
+[rights]
+work = "PD-old-100-expired"
+
+[[link]]
+rel   = "about"
+url   = "https://archive.org/details/lesactesdesapt00pelluoft"
+title = "Marcellin Pellet's study of the paper, held here as pellet-1873"

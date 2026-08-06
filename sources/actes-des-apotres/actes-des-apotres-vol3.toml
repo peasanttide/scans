@@ -1,0 +1,34 @@
+#:schema ../../schemas/source.json
+id     = "actes-des-apotres-vol3"
+layer  = "copy"
+of     = "actes-des-apotres"
+type   = "volume"
+title  = "Les Actes des Apotres, volume 3"
+covers = "1790-02/1790-04"
+url    = "https://archive.org/details/lesactesdesapt03pelt"
+note   = "Numbers 60-92. Pages 1-38, 75-116, 297-404, 567-598 are assigned to no number: the covers and title leaf, the serialised essay on the English revolution bound at the head, and the pamphlets, supplements and tables bound among and after the numbers. They are left unassigned rather than guessed at. Numbers 62, 63, 64, 76, 77, 78, 79, 80, 81, 82 are bound in this volume but their leaves could not be identified from the text layer; their records carry no page range."
+
+[scan]
+file  = "actes-des-apotres-vol3.pdf"
+count = 598
+by    = "Internet Archive"
+url   = "https://archive.org/details/lesactesdesapt03pelt"
+note  = "Scanned at 400 ppi on 17 March 2011, sponsored by the University of Toronto. PDF page n is Internet Archive leaf n throughout."
+
+[holding]
+repository = "University of Ottawa"
+shelfmark  = "DC 140 .A2 1789"
+
+[identifier]
+internet_archive    = "lesactesdesapt03pelt"
+ark                 = "ark:/13960/t3dz1370r"
+oclc                = "869743782"
+openlibrary_edition = "OL24619121M"
+
+[rights]
+attribution = "Digitised by the Internet Archive from the University of Ottawa copy."
+
+[[link]]
+rel   = "download"
+url   = "https://archive.org/download/lesactesdesapt03pelt/lesactesdesapt03pelt.pdf"
+title = "The exact file stored here as actes-des-apotres-vol3.pdf"

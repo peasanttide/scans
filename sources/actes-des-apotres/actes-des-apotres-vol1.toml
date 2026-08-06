@@ -1,0 +1,34 @@
+#:schema ../../schemas/source.json
+id     = "actes-des-apotres-vol1"
+layer  = "copy"
+of     = "actes-des-apotres"
+type   = "volume"
+title  = "Les Actes des Apotres, volume 1"
+covers = "1789-11/1790-01"
+url    = "https://archive.org/details/lesactesdesapt01pelt"
+note   = "Numbers 1-30. Pages 1-6, 473-504 are assigned to no number: the covers and title leaf, the serialised essay on the English revolution bound at the head, and the pamphlets, supplements and tables bound among and after the numbers. They are left unassigned rather than guessed at."
+
+[scan]
+file  = "actes-des-apotres-vol1.pdf"
+count = 504
+by    = "Internet Archive"
+url   = "https://archive.org/details/lesactesdesapt01pelt"
+note  = "Scanned at 500 ppi on 26 January 2011, sponsored by the University of Toronto. PDF page n is Internet Archive leaf n throughout."
+
+[holding]
+repository = "University of Ottawa"
+shelfmark  = "DC 140 .A2 1789"
+
+[identifier]
+internet_archive    = "lesactesdesapt01pelt"
+ark                 = "ark:/13960/t0wq0sk3p"
+oclc                = "869743782"
+openlibrary_edition = "OL24783103M"
+
+[rights]
+attribution = "Digitised by the Internet Archive from the University of Ottawa copy."
+
+[[link]]
+rel   = "download"
+url   = "https://archive.org/download/lesactesdesapt01pelt/lesactesdesapt01pelt.pdf"
+title = "The exact file stored here as actes-des-apotres-vol1.pdf"

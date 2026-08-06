@@ -1,0 +1,34 @@
+#:schema ../../schemas/source.json
+id     = "actes-des-apotres-vol4"
+layer  = "copy"
+of     = "actes-des-apotres"
+type   = "volume"
+title  = "Les Actes des Apotres, volume 4"
+covers = "1790-04/1790-06"
+url    = "https://archive.org/details/lesactesdesapt04pelt"
+note   = "Numbers 93-119. Pages 1-56, 239-250, 319-404, 425-460, 481-508, 545-598 are assigned to no number: the covers and title leaf, the serialised essay on the English revolution bound at the head, and the pamphlets, supplements and tables bound among and after the numbers. They are left unassigned rather than guessed at. Numbers 108, 109, 110, 111, 113, 114, 116, 117 are bound in this volume but their leaves could not be identified from the text layer; their records carry no page range."
+
+[scan]
+file  = "actes-des-apotres-vol4.pdf"
+count = 598
+by    = "Internet Archive"
+url   = "https://archive.org/details/lesactesdesapt04pelt"
+note  = "Scanned at 400 ppi on 17 March 2011, sponsored by the University of Toronto. PDF page n is Internet Archive leaf n throughout."
+
+[holding]
+repository = "University of Ottawa"
+shelfmark  = "DC 140 .A2 1789"
+
+[identifier]
+internet_archive    = "lesactesdesapt04pelt"
+ark                 = "ark:/13960/t3zs3kh42"
+oclc                = "869743782"
+openlibrary_edition = "OL24621414M"
+
+[rights]
+attribution = "Digitised by the Internet Archive from the University of Ottawa copy."
+
+[[link]]
+rel   = "download"
+url   = "https://archive.org/download/lesactesdesapt04pelt/lesactesdesapt04pelt.pdf"
+title = "The exact file stored here as actes-des-apotres-vol4.pdf"

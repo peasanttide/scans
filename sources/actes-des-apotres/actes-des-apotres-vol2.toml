@@ -1,0 +1,34 @@
+#:schema ../../schemas/source.json
+id     = "actes-des-apotres-vol2"
+layer  = "copy"
+of     = "actes-des-apotres"
+type   = "volume"
+title  = "Les Actes des Apotres, volume 2"
+covers = "1790-01/1790-02"
+url    = "https://archive.org/details/lesactesdesapt02pelt"
+note   = "Numbers 31-59. Pages 1-42, 111-120, 157-218, 301-302, 515-572 are assigned to no number: the covers and title leaf, the serialised essay on the English revolution bound at the head, and the pamphlets, supplements and tables bound among and after the numbers. One of them, on pages 203-218, is a `Lettre de M. Bergasse` of 15 February 1790 with its own pagination. They are left unassigned rather than guessed at. Numbers 35, 38, 39, 40, 41 are bound in this volume but their leaves could not be identified from the text layer; their records carry no page range."
+
+[scan]
+file  = "actes-des-apotres-vol2.pdf"
+count = 572
+by    = "Internet Archive"
+url   = "https://archive.org/details/lesactesdesapt02pelt"
+note  = "Scanned at 500 ppi on 26 January 2011, sponsored by the University of Toronto. PDF page n is Internet Archive leaf n throughout."
+
+[holding]
+repository = "University of Ottawa"
+shelfmark  = "DC 140 .A2 1789"
+
+[identifier]
+internet_archive    = "lesactesdesapt02pelt"
+ark                 = "ark:/13960/t1jh4cj6b"
+oclc                = "869743782"
+openlibrary_edition = "OL24783104M"
+
+[rights]
+attribution = "Digitised by the Internet Archive from the University of Ottawa copy."
+
+[[link]]
+rel   = "download"
+url   = "https://archive.org/download/lesactesdesapt02pelt/lesactesdesapt02pelt.pdf"
+title = "The exact file stored here as actes-des-apotres-vol2.pdf"
