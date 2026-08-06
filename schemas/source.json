@@ -1,0 +1,637 @@
+{
+  "$defs": {
+    "Graphic": {
+      "additionalProperties": false,
+      "description": "One image file, or one page inside a multi-page container.",
+      "properties": {
+        "file": {
+          "description": "Image or container path. Omitted means \"fall back to the resolved `scan.file`\".",
+          "type": "string"
+        },
+        "height": {
+          "description": "Pixel height of **this page**, not of the container.",
+          "format": "int64",
+          "type": "integer"
+        },
+        "mimetype": {
+          "description": "Explicit media type; otherwise inferred from the extension.",
+          "type": "string"
+        },
+        "note": {
+          "type": "string"
+        },
+        "page": {
+          "description": "1-based page index **inside** `file`. Omitted when `file` is a standalone image.",
+          "format": "int64",
+          "type": "integer"
+        },
+        "url": {
+          "description": "Direct download URL for this exact image (the retired `fetch` field).",
+          "type": "string"
+        },
+        "width": {
+          "description": "Pixel width of **this page**, not of the container.",
+          "format": "int64",
+          "type": "integer"
+        }
+      },
+      "type": "object"
+    },
+    "Holding": {
+      "additionalProperties": false,
+      "description": "Where the physical object lives. Inherits, merged key by key.",
+      "properties": {
+        "collection": {
+          "description": "The named collection within the repository, e.g. `David Rumsey Map Collection`.",
+          "type": "string"
+        },
+        "note": {
+          "type": "string"
+        },
+        "repository": {
+          "description": "Institution, e.g. `Bibliothèque cantonale et universitaire, Lausanne`.",
+          "type": "string"
+        },
+        "shelfmark": {
+          "description": "Call number. **Always a string**, never an int — leading zeros and letters occur.",
+          "type": "string"
+        }
+      },
+      "type": "object"
+    },
+    "Link": {
+      "additionalProperties": false,
+      "description": "Everything that is not the canonical `url`. Retires ad-hoc `index` and `fetch`.",
+      "properties": {
+        "note": {
+          "type": "string"
+        },
+        "rel": {
+          "description": "Relation type. Open vocabulary: `index`, `catalogue`, `viewer`, `download`, `iiif`,\n`thumbnail`, `about`, `worldcat`.",
+          "type": "string"
+        },
+        "title": {
+          "type": "string"
+        },
+        "url": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "rel",
+        "url"
+      ],
+      "type": "object"
+    },
+    "Page": {
+      "additionalProperties": false,
+      "description": "One scanned side, carrying graphics. **Declared inline only** — there is never a page file.",
+      "properties": {
+        "graphic": {
+          "description": "Zero or more. Zero is legal (a text-only page) and emits `W904`.\nThe **first** entry is the primary graphic: the one `.pN` resolves to and the one\nwhose pixel space zone coordinates are in.",
+          "items": {
+            "$ref": "#/$defs/Graphic"
+          },
+          "type": "array"
+        },
+        "label": {
+          "description": "The printed page label when it differs from `n`, e.g. roman `xxxvj`.\nPurely descriptive: never parsed, never used for addressing.",
+          "type": "string"
+        },
+        "link": {
+          "items": {
+            "$ref": "#/$defs/Link"
+          },
+          "type": "array"
+        },
+        "n": {
+          "description": "Page number **within its owning document**. This is what `.pN` matches.\nOmitted means \"continue the count\". May be `0` (Turgot) or negative.",
+          "format": "int64",
+          "type": "integer"
+        },
+        "note": {
+          "type": "string"
+        },
+        "text": {
+          "items": {
+            "$ref": "#/$defs/Text"
+          },
+          "type": "array"
+        },
+        "title": {
+          "type": "string"
+        },
+        "url": {
+          "description": "The page's own landing page.",
+          "type": "string"
+        },
+        "zone": {
+          "items": {
+            "$ref": "#/$defs/Zone"
+          },
+          "type": "array"
+        }
+      },
+      "type": "object"
+    },
+    "PageRange": {
+      "additionalProperties": false,
+      "description": "A terse page range, `pages = { from = 13, to = 16 }`.",
+      "properties": {
+        "from": {
+          "format": "int64",
+          "type": "integer"
+        },
+        "to": {
+          "format": "int64",
+          "type": "integer"
+        }
+      },
+      "required": [
+        "from",
+        "to"
+      ],
+      "type": "object"
+    },
+    "Resp": {
+      "additionalProperties": false,
+      "description": "A statement of responsibility. Replaces the unparseable `author` string.",
+      "properties": {
+        "name": {
+          "description": "Person or corporate name as written.",
+          "type": "string"
+        },
+        "note": {
+          "description": "Qualifications such as \"attributed\".",
+          "type": "string"
+        },
+        "role": {
+          "$ref": "#/$defs/Roles",
+          "description": "One role or several. Both spellings are legal."
+        }
+      },
+      "required": [
+        "name"
+      ],
+      "type": "object"
+    },
+    "Rights": {
+      "additionalProperties": false,
+      "description": "Rights status. Inherits, merged key by key.",
+      "properties": {
+        "attribution": {
+          "description": "Credit line, e.g. `Digitised by Google Books.`",
+          "type": "string"
+        },
+        "note": {
+          "type": "string"
+        },
+        "scan": {
+          "description": "Rights status of the digitisation itself, distinct from the work.",
+          "type": "string"
+        },
+        "work": {
+          "description": "Rights status of the intellectual work, e.g. `PD-old-100-expired`.",
+          "type": "string"
+        }
+      },
+      "type": "object"
+    },
+    "Roles": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "items": {
+            "type": "string"
+          },
+          "type": "array"
+        }
+      ],
+      "description": "`role = \"engraver\"` or `role = [\"surveyor\", \"draughtsman\"]`."
+    },
+    "Scan": {
+      "additionalProperties": false,
+      "description": "The digitisation event and its container file.\n\nThis is the one table with **selective** key inheritance: `file`, `by` and `url` inherit;\n`count` and `note` do not. See [`crate::load`].",
+      "properties": {
+        "by": {
+          "description": "Digitising agent, e.g. `Google Books`. Inherits.",
+          "type": "string"
+        },
+        "count": {
+          "description": "Number of pages in the container. Used by check 5. Does not inherit.",
+          "format": "int64",
+          "type": "integer"
+        },
+        "file": {
+          "description": "Path to the container, relative to the directory of the file that **declared** it.\nInherits.",
+          "type": "string"
+        },
+        "note": {
+          "description": "Caveats. Does not inherit.",
+          "type": "string"
+        },
+        "url": {
+          "description": "Landing page for the digitisation, distinct from top-level `url`. Inherits.",
+          "type": "string"
+        }
+      },
+      "type": "object"
+    },
+    "Text": {
+      "additionalProperties": false,
+      "description": "OCR or transcription. Never inline content.",
+      "properties": {
+        "by": {
+          "description": "Producing agent and version, e.g. `tesseract 5.3 fra`.",
+          "type": "string"
+        },
+        "file": {
+          "description": "Path to the text file, resolved against the declaring file's directory.",
+          "type": "string"
+        },
+        "kind": {
+          "description": "`ocr` or `transcription`. Defaults to `ocr` when omitted.",
+          "type": "string"
+        },
+        "lang": {
+          "type": "string"
+        },
+        "note": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "file"
+      ],
+      "type": "object"
+    },
+    "Zone": {
+      "additionalProperties": false,
+      "description": "A rectangle on a page, in the pixel space of that page's **primary graphic**.\n\nZones are not addressable and not citable; nothing in the address grammar reaches them.",
+      "properties": {
+        "id": {
+          "description": "Page-local label. Not a global id, not addressable.",
+          "type": "string"
+        },
+        "label": {
+          "type": "string"
+        },
+        "lrx": {
+          "description": "Lower-right x, exclusive.",
+          "format": "int64",
+          "type": "integer"
+        },
+        "lry": {
+          "description": "Lower-right y, exclusive.",
+          "format": "int64",
+          "type": "integer"
+        },
+        "note": {
+          "type": "string"
+        },
+        "ulx": {
+          "description": "Upper-left x, pixels, origin top-left.",
+          "format": "int64",
+          "type": "integer"
+        },
+        "uly": {
+          "description": "Upper-left y.",
+          "format": "int64",
+          "type": "integer"
+        }
+      },
+      "required": [
+        "ulx",
+        "uly",
+        "lrx",
+        "lry"
+      ],
+      "type": "object"
+    }
+  },
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "description": "One TOML file in the primary source and scan archive. Generated from the Rust types in tools/src/model.rs by `scans schema` - do not edit by hand.",
+  "oneOf": [
+    {
+      "additionalProperties": false,
+      "description": "The publication or work, independent of any copy.",
+      "properties": {
+        "country": {
+          "description": "Does not inherit.",
+          "type": "string"
+        },
+        "covers": {
+          "description": "EDTF interval. The span this source covers. Does not inherit.\n\nThis is where the legacy `held = \"1789\"` field lands.",
+          "type": "string"
+        },
+        "date": {
+          "description": "EDTF. Date of the work, for single-work sources.",
+          "type": "string"
+        },
+        "founded": {
+          "description": "EDTF. Date the publication began.",
+          "type": "string"
+        },
+        "frequency": {
+          "description": "`daily`, `weekly`, … Free string.",
+          "type": "string"
+        },
+        "holding": {
+          "$ref": "#/$defs/Holding"
+        },
+        "id": {
+          "description": "Stable flat id. Defaults to the filename stem.",
+          "type": "string"
+        },
+        "identifier": {
+          "additionalProperties": {
+            "type": "string"
+          },
+          "type": "object"
+        },
+        "language": {
+          "description": "BCP-47 / ISO-639-1 code. Inherits.",
+          "type": "string"
+        },
+        "layer": {
+          "const": "source",
+          "type": "string"
+        },
+        "link": {
+          "items": {
+            "$ref": "#/$defs/Link"
+          },
+          "type": "array"
+        },
+        "note": {
+          "type": "string"
+        },
+        "of": {
+          "description": "Id of an ancestor. A source may be `of` another source (e.g. a series).",
+          "type": "string"
+        },
+        "page": {
+          "description": "Legal on a source when copy and document are collapsed in (Turgot: 21 pages).",
+          "items": {
+            "$ref": "#/$defs/Page"
+          },
+          "type": "array"
+        },
+        "pages": {
+          "$ref": "#/$defs/PageRange",
+          "description": "Terse page range. Legal but unusual on a source."
+        },
+        "place": {
+          "description": "Place of publication. Inherits.",
+          "type": "string"
+        },
+        "resp": {
+          "description": "Inherits wholesale. `Option` rather than a bare `Vec` because `resp = []` is the\ndocumented way to *clear* an inherited value, and that must be distinguishable from\n\"not declared here\".",
+          "items": {
+            "$ref": "#/$defs/Resp"
+          },
+          "type": "array"
+        },
+        "rights": {
+          "$ref": "#/$defs/Rights"
+        },
+        "scan": {
+          "$ref": "#/$defs/Scan",
+          "description": "Legal on a source when the copy layer is collapsed in (Turgot, Verniquet)."
+        },
+        "short_title": {
+          "type": "string"
+        },
+        "text": {
+          "items": {
+            "$ref": "#/$defs/Text"
+          },
+          "type": "array"
+        },
+        "title": {
+          "type": "string"
+        },
+        "type": {
+          "description": "Genre: `newspaper`, `map`, `diary`, … Open vocabulary, not validated.",
+          "type": "string"
+        },
+        "url": {
+          "description": "Canonical landing page. Does not inherit.",
+          "type": "string"
+        }
+      },
+      "required": [
+        "layer",
+        "title"
+      ],
+      "type": "object"
+    },
+    {
+      "additionalProperties": false,
+      "description": "One physical object that was digitised.\n\nThe inner type is named `CopyRecord` rather than `Copy` so it cannot be confused with\nthe `std::marker::Copy` trait in type position. The serde tag is taken from the\n*variant* name, so the TOML still reads `layer = \"copy\"`.",
+      "properties": {
+        "country": {
+          "type": "string"
+        },
+        "covers": {
+          "description": "EDTF interval. The date span of material bound in this object. Used by check 6.",
+          "type": "string"
+        },
+        "date": {
+          "description": "EDTF. Date of the object itself, if meaningful.",
+          "type": "string"
+        },
+        "holding": {
+          "$ref": "#/$defs/Holding",
+          "description": "The normal home for `holding`."
+        },
+        "id": {
+          "type": "string"
+        },
+        "identifier": {
+          "additionalProperties": {
+            "type": "string"
+          },
+          "type": "object"
+        },
+        "language": {
+          "type": "string"
+        },
+        "layer": {
+          "const": "copy",
+          "type": "string"
+        },
+        "link": {
+          "items": {
+            "$ref": "#/$defs/Link"
+          },
+          "type": "array"
+        },
+        "note": {
+          "type": "string"
+        },
+        "of": {
+          "description": "Id of the source (or another copy). Absent = orphan copy; legal, warns `W107`.",
+          "type": "string"
+        },
+        "page": {
+          "items": {
+            "$ref": "#/$defs/Page"
+          },
+          "type": "array"
+        },
+        "place": {
+          "type": "string"
+        },
+        "resp": {
+          "items": {
+            "$ref": "#/$defs/Resp"
+          },
+          "type": "array"
+        },
+        "rights": {
+          "$ref": "#/$defs/Rights"
+        },
+        "scan": {
+          "$ref": "#/$defs/Scan",
+          "description": "The normal home for `scan`."
+        },
+        "short_title": {
+          "type": "string"
+        },
+        "text": {
+          "items": {
+            "$ref": "#/$defs/Text"
+          },
+          "type": "array"
+        },
+        "title": {
+          "type": "string"
+        },
+        "type": {
+          "description": "Physical genre: `volume`, `roll`, `folder`. Open vocabulary.",
+          "type": "string"
+        },
+        "url": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "layer",
+        "title"
+      ],
+      "type": "object"
+    },
+    {
+      "additionalProperties": false,
+      "description": "The citable intellectual unit.",
+      "properties": {
+        "country": {
+          "type": "string"
+        },
+        "covers": {
+          "description": "EDTF interval, for documents spanning a range.",
+          "type": "string"
+        },
+        "date": {
+          "description": "EDTF. Used by check 6.",
+          "type": "string"
+        },
+        "holding": {
+          "$ref": "#/$defs/Holding"
+        },
+        "id": {
+          "type": "string"
+        },
+        "identifier": {
+          "additionalProperties": {
+            "type": "string"
+          },
+          "type": "object"
+        },
+        "language": {
+          "description": "Inheritable scalar; present here so a document can override an ancestor's value.",
+          "type": "string"
+        },
+        "layer": {
+          "const": "document",
+          "type": "string"
+        },
+        "link": {
+          "items": {
+            "$ref": "#/$defs/Link"
+          },
+          "type": "array"
+        },
+        "no": {
+          "description": "Issue/serial number. Used by check 10.",
+          "format": "int64",
+          "type": "integer"
+        },
+        "note": {
+          "type": "string"
+        },
+        "of": {
+          "description": "Id of **any** ancestor — copy, source, or another document.\nAbsent = standalone document (the one-off engraving case).",
+          "type": "string"
+        },
+        "page": {
+          "items": {
+            "$ref": "#/$defs/Page"
+          },
+          "type": "array"
+        },
+        "pages": {
+          "$ref": "#/$defs/PageRange",
+          "description": "Terse page range."
+        },
+        "place": {
+          "description": "Inheritable scalar; present here so a document can override an ancestor's value.",
+          "type": "string"
+        },
+        "resp": {
+          "items": {
+            "$ref": "#/$defs/Resp"
+          },
+          "type": "array"
+        },
+        "rights": {
+          "$ref": "#/$defs/Rights"
+        },
+        "scan": {
+          "$ref": "#/$defs/Scan"
+        },
+        "short_title": {
+          "type": "string"
+        },
+        "supplement_to": {
+          "description": "Id of another **document**. Check 8.",
+          "type": "string"
+        },
+        "text": {
+          "items": {
+            "$ref": "#/$defs/Text"
+          },
+          "type": "array"
+        },
+        "title": {
+          "type": "string"
+        },
+        "type": {
+          "description": "`issue`, `supplement`, `sheet`, `letter`, `play`, `engraving`, … Open vocabulary.",
+          "type": "string"
+        },
+        "url": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "layer"
+      ],
+      "type": "object"
+    }
+  ],
+  "title": "Scan archive record"
+}

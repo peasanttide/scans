@@ -1,0 +1,9 @@
+{
+  // Even Better TOML provides the TOML language server (taplo) that reads each
+  // record's `#:schema` directive and validates it against schemas/source.json.
+  // Without it the archive's TOML files get no schema validation in the editor.
+  //
+  // rust-analyzer is for the `scans` tool in tools/, which generates that schema.
+  "recommendations": ["tamasfe.even-better-toml", "rust-lang.rust-analyzer"],
+  "unwantedRecommendations": []
+}

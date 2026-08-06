@@ -1,0 +1,60 @@
+{
+  // ---------------------------------------------------------------------------
+  // Schema enforcement for the editor.
+  //
+  // Requires the "Even Better TOML" extension (tamasfe.even-better-toml); see
+  // .vscode/extensions.json. schemas/source.json is GENERATED from the Rust types
+  // in tools/src/model.rs by `scans schema`. Never edit it by hand -
+  // `scans schema --check` fails when it has drifted.
+  //
+  // Because the schema is a oneOf discriminated on `layer`, typing
+  // `layer = "copy"` narrows both autocomplete and the required-field set to the
+  // copy layer alone. Verified: a source without `title` is flagged, a document
+  // without `title` is not, and `layer = "page"` is rejected outright.
+  //
+  // HOW RECORDS GET THE SCHEMA
+  //
+  // Each archive record carries its own `#:schema` directive on line 1, pointing
+  // at schemas/source.json relative to that file, e.g. from source/turgot/:
+  //
+  //     #:schema ../../schemas/source.json
+  //
+  // The directive is the ONLY portable mechanism. It is committed with the data,
+  // needs no per-machine setup, works for every contributor, and is honoured by
+  // both this extension and the taplo CLI.
+  //
+  // `evenBetterToml.schema.associations` is deliberately NOT used here, and the
+  // reason is not style. Its values must be absolute URIs with an http/https/file
+  // scheme. A repo-relative value such as "./schemas/source.json" is resolved
+  // against an internal `root:///` base, not the workspace, so the schema silently
+  // fails to load: the association matches, no diagnostics are ever produced, and
+  // the editor reports nothing at all. `${workspaceFolder}` is NOT expanded, and a
+  // bare Windows path is parsed as a URL with the scheme `c`. All three were tested
+  // against the bundled language server; every one of them yields zero validation
+  // while looking correct. Do not add one back.
+  //
+  // If you want a machine-local association anyway, it must be an absolute file
+  // URI, and it belongs in your USER settings, never in this committed file:
+  //
+  //   "evenBetterToml.schema.associations": {
+  //     ".*/source/.*\\.toml$": "file:///d:/source/scans/schemas/source.json"
+  //   }
+  // ---------------------------------------------------------------------------
+
+  "evenBetterToml.schema.enabled": true,
+  "evenBetterToml.schema.links": true,
+
+  // Keep the formatter in step with [formatting] in .taplo.toml, so the editor and
+  // the CLI cannot disagree about how a record is laid out.
+  "evenBetterToml.formatter.alignEntries": true,
+  "evenBetterToml.formatter.reorderKeys": false,
+  "evenBetterToml.formatter.indentString": "  ",
+  "evenBetterToml.formatter.arrayTrailingComma": true,
+  "evenBetterToml.formatter.compactArrays": false,
+
+  "[toml]": {
+    "editor.defaultFormatter": "tamasfe.even-better-toml"
+  },
+
+  "rust-analyzer.linkedProjects": ["tools/Cargo.toml"]
+}

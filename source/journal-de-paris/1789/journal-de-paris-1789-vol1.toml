@@ -1,0 +1,25 @@
+#:schema ../../../schemas/source.json
+id     = "journal-de-paris-1789-vol1"
+layer  = "copy"
+of     = "journal-de-paris"
+type   = "volume"
+title  = "Journal de Paris, annee 1789, volume 1 (janvier–juin)"
+date   = "1789"
+covers = "1789-01-01/1789-06-30"
+url    = "http://books.google.fr/books?id=wjkTAAAAQAAJ&printsec=frontcover&hl=fr"
+
+[scan]
+file  = "journal-de-paris-1789-vol1.pdf"
+count = 888
+by    = "Google Books"
+note  = "The Google-generated front-matter leaf was removed from the PDF; graphic page indices are 1-based into the trimmed file."
+
+[holding]
+repository = "Bibliothèque cantonale et universitaire, Lausanne"
+shelfmark  = "1094184846"
+
+[identifier]
+google_books = "wjkTAAAAQAAJ"
+
+[rights]
+attribution = "Digitised by Google Books."

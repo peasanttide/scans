@@ -1,0 +1,19 @@
+#:schema ../../schemas/source.json
+id        = "journal-de-paris"
+layer     = "source"
+type      = "newspaper"
+title     = "Journal de Paris"
+language  = "fr"
+place     = "Paris"
+country   = "France"
+founded   = "1777-01-01"
+frequency = "daily"
+covers    = "1789-01-01/1789-12-31"
+note      = "First daily newspaper published in France. Issue number equals day of year: no. 1 = 1 January, no. 365 = 31 December. 1789 is not a leap year."
+
+[rights]
+work = "PD-old-100-expired"
+
+[[link]]
+rel = "index"
+url = "https://gazetier-revolutionnaire.gazettes18e.fr/periodique/journal-de-paris-1799"

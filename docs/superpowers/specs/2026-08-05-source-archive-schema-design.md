@@ -428,7 +428,14 @@ pages silently overlap its neighbour, or one filed under the wrong volume.
 
 ## Migration
 
-The existing 516 files are mechanically convertible; nothing needs re-research.
+The existing 99 TOML files are mechanically convertible; nothing needs re-research.
+
+An earlier draft of this spec claimed 516, on the mistaken belief that the Journal de Paris
+daily issues had been transcribed. They have not. The archive holds 3 Journal de Paris
+records (the serial and its two volumes), 22 Turgot (atlas + 21 sheets) and 74 Verniquet
+(atlas + 73 sheets). The `1789/MM/DD/` directories exist but are empty — a walk of the
+directory tree looks populated, which is where the wrong number came from. Entering the
+issues is data work still to be done, and the schema is built to receive it.
 
 1. Move everything under `source/`.
 2. Add `layer` to every file; split the current `kind` value into `layer` + `type`.

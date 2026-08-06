@@ -1,0 +1,26 @@
+#:schema ../../../schemas/source.json
+id     = "journal-de-paris-1789-vol2"
+layer  = "copy"
+of     = "journal-de-paris"
+type   = "volume"
+title  = "Journal de Paris, annee 1789, volume 2 (juillet–décembre)"
+date   = "1789"
+covers = "1789-07-01/1789-12-31"
+note   = "Documents bound into the volume that are not issues of the paper."
+url    = "http://books.google.fr/books?id=kToTAAAAQAAJ&printsec=frontcover&hl=fr"
+
+[scan]
+file  = "journal-de-paris-1789-vol2.pdf"
+count = 1346
+by    = "Google Books"
+note  = "The Google-generated front-matter leaf was removed from the PDF; graphic page indices are 1-based into the trimmed file. 136 pages are repeat scans of a leaf photographed more than once, measured by text comparison across the volume. Those repeat scans fall into 106 groups."
+
+[holding]
+repository = "Bibliothèque cantonale et universitaire, Lausanne"
+shelfmark  = "1094381971"
+
+[identifier]
+google_books = "kToTAAAAQAAJ"
+
+[rights]
+attribution = "Digitised by Google Books."

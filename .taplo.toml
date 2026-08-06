@@ -1,0 +1,53 @@
+# Schema enforcement for the taplo CLI and CI.
+#
+# schemas/source.json is GENERATED from the Rust types in tools/src/model.rs by
+# `scans schema`. Never edit the schema by hand: `scans schema --check` fails when the
+# checked-in file has drifted away from the types the validator itself uses.
+#
+# SCOPE OF THIS FILE
+#
+# This config drives the taplo CLI (`taplo check`, `taplo fmt`). It does NOT drive the
+# VS Code extension: the bundled language server was observed loading this file and then
+# associating no schema from it in any form tested - relative or absolute include, root
+# level `[schema]` or `[[rule]]`. Editor validation comes from the `#:schema` directive
+# on line 1 of each record instead. See schemas/README.md.
+#
+# Every archive record therefore still carries its own directive, e.g.
+#
+#     #:schema ../../schemas/source.json
+#
+# and the rule below is the belt to that file's braces: it applies the same schema to
+# anything under source/ that is missing its directive, so a record cannot escape
+# validation in CI merely by forgetting the line.
+
+# Do not walk build output or the Rust crate; the schema describes archive records only,
+# and Cargo.toml is not one.
+exclude = ["target/**", "tools/target/**", "tools/Cargo.toml", "node_modules/**"]
+
+# Archive records: everything under source/ is a source, copy or document record. The
+# `layer` key picks which of the three, and the schema's oneOf narrows completions and
+# the required-field set accordingly.
+#
+# NOTE: include globs are resolved relative to this file's directory. On Windows this
+# resolution has been seen to produce mixed path separators that stop the glob matching;
+# if `taplo check` reports no files on Windows, run it from the repo root or pass the
+# paths explicitly:  taplo check "source/**/*.toml"
+[[rule]]
+name = "archive-record"
+include = ["source/**/*.toml"]
+
+[rule.schema]
+path = "schemas/source.json"
+
+# Formatting, kept identical to the evenBetterToml.formatter.* settings in
+# .vscode/settings.json so the editor and the CLI cannot disagree.
+#
+# reorder_keys is off on purpose: records are written in a deliberate order - identity
+# (`layer`, `id`, `of`) first, then description, then the [[page]] array last - and
+# alphabetising them would destroy that reading order.
+[formatting]
+align_entries = true
+array_trailing_comma = true
+compact_arrays = false
+indent_string = "  "
+reorder_keys = false

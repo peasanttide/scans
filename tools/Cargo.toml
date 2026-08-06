@@ -1,0 +1,52 @@
+[package]
+name = "scans"
+version = "0.1.0"
+edition = "2024"
+description = "Validate, migrate and describe the primary source and scan archive."
+publish = false
+
+[lib]
+name = "scans"
+path = "src/lib.rs"
+
+[[bin]]
+name = "scans"
+path = "src/main.rs"
+
+[features]
+default = []
+# Checks that must read image and container bytes: graphic dimensions, real PDF page counts,
+# text-file existence, filename case, LFS-pointer detection.
+#
+# OFF BY DEFAULT AND IT MUST STAY THAT WAY. The repository holds several gigabytes of .jp2 in
+# Git LFS; the default `scans validate` path must never open one. The agent that implements
+# the probe checks adds its decoder dependencies here as `optional = true` and lists them in
+# this feature, and imports them lazily inside the probe functions so a default build still
+# compiles with none of them present.
+#
+# `lopdf` is the only decoder dependency. It reads a PDF's real page count for `E704`, and it
+# is used rather than a hand-rolled scan for `/Type /Page` because modern PDFs put their page
+# objects inside compressed object streams, where that scan silently finds zero and would turn
+# an unreadable file into a false error. Image dimensions (`E702`) are read by the hand-written
+# header parser in `validate::probe` instead: the archive's images are JPEG 2000, which no
+# mainstream Rust image crate decodes, so a decoder dependency would add weight without
+# covering the one format that matters.
+probe = ["dep:lopdf"]
+
+[dependencies]
+anyhow = "1.0.104"
+clap = { version = "4.6.5", features = ["derive"] }
+lopdf = { version = "0.44", default-features = false, optional = true }
+# schemars DERIVES the JSON Schema from the same types the validator uses, so the schema
+# cannot drift away from the code. It is never hand-written.
+schemars = "1.2.2"
+serde = { version = "1.0.229", features = ["derive"] }
+serde_json = "1.0.151"
+thiserror = "2.0.19"
+# `toml` reads; `toml_edit` writes, so emitted TOML is formatted for humans.
+toml = "1.1.4"
+toml_edit = "0.25.13"
+walkdir = "2.5.0"
+
+[dev-dependencies]
+tempfile = "3"
