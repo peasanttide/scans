@@ -1,0 +1,20 @@
+kind = "volume"
+of = "journal-de-paris"
+title = "Journal de Paris, annee 1789, volume 1 (janvier–juin)"
+date = "1789"
+year = 1789
+volume = 1
+file = "journal-de-paris-1789-vol1.pdf"
+pages = 888
+
+google_books_id = "wjkTAAAAQAAJ"
+url = "http://books.google.fr/books?id=wjkTAAAAQAAJ&printsec=frontcover&hl=fr"
+
+holding = "Bibliothèque cantonale et universitaire, Lausanne"
+shelfmark = "1094184846"
+licence = "PD-old-100-expired"
+attribution = "Digitised by Google Books."
+
+# The Google-generated front matter page was removed from the PDF;
+# page numbers in this tree are 1-indexed into the trimmed file.
+google_frontmatter_removed = 1

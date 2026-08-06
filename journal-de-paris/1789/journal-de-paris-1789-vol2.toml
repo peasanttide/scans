@@ -1,0 +1,38 @@
+kind = "volume"
+of = "journal-de-paris"
+title = "Journal de Paris, annee 1789, volume 2 (juillet–décembre)"
+date = "1789"
+year = 1789
+volume = 2
+file = "journal-de-paris-1789-vol2.pdf"
+pages = 1346
+
+google_books_id = "kToTAAAAQAAJ"
+url = "http://books.google.fr/books?id=kToTAAAAQAAJ&printsec=frontcover&hl=fr"
+
+holding = "Bibliothèque cantonale et universitaire, Lausanne"
+shelfmark = "1094381971"
+licence = "PD-old-100-expired"
+attribution = "Digitised by Google Books."
+
+# The Google-generated front matter page was removed from the PDF;
+# page numbers in this tree are 1-indexed into the trimmed file.
+google_frontmatter_removed = 1
+
+# Some leaves were photographed more than once, so a few issue page
+# ranges contain a repeated scan. Measured by text comparison across
+# the volume; concentrated in the Etat general insert.
+repeat_scanned_pages = 136
+repeat_scan_groups = 106
+
+# Documents bound into the volume that are not issues of the paper.
+
+[[insert]]
+title = "Etat general des revenus et des depenses, presente a l'Assemblee Nationale"
+pages = "1103-1150"
+pagination = "roman v-xxxvj"
+
+[[insert]]
+title = "Dons patriotiques: vaisselles d'argent, bijoux et medailles"
+pages = "1213-1346"
+pagination = "roman i-lxviij"
