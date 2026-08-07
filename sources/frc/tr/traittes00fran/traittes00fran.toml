@@ -1,0 +1,59 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "traittes00fran"
+type = "pamphlet"
+title = "Traittes"
+language = "fr"
+date = "1764"
+note = "Title from opening words of text. Dated at top: Paris le 5. novembre 1764. Signed at end: Le directeur des Fermes du roi. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Title page and cover are combined."
+url = "https://archive.org/details/traittes00fran"
+subject = [
+    "Book industries and trade",
+    "Prohibited books",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 7 no. 60"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t56f1g954"
+internet_archive = "traittes00fran"
+
+[scan]
+file = "traittes00fran.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/traittes00fran"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Ferme générale"
+role = "author"
+
+[[resp]]
+name = "France. Ferme générale"
+role = "author"
+
+[[resp]]
+name = "[n.p."
+role = "publisher"
+
+[[text]]
+file = "traittes00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "traittes00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

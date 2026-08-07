@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "tableaudelemplac00deux"
+type = "pamphlet"
+title = "Tableau de l'emplacement des tribunaux correctionnels : avec les noms des cantons assignés `a chaque arrondissement du département des Deux S`evres ; Nota. Ce tableau doit ^etre annexé au 194e. cahier des lois."
+language = "fr"
+place = "s.l."
+date = "1790"
+note = "Caption title. Without imprint. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on the cover page. Uneven binding. Skewed text. Damaged, stained, and/or loose pages.  No page numbers."
+url = "https://archive.org/details/tableaudelemplac00deux"
+subject = ["France. Tribunal correctionnel des Deux-S`evres"]
+extent = "[2] p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 8275"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t12p07b7b"
+internet_archive = "tableaudelemplac00deux"
+openlibrary_edition = "OL26220592M"
+openlibrary_work = "OL17616176W"
+
+[scan]
+file = "tableaudelemplac00deux.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/tableaudelemplac00deux"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Deux-Sèvres (France)"
+role = "author"
+
+[[resp]]
+name = "Deux-Sèvres (France)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_5940"
+
+[[text]]
+file = "tableaudelemplac00deux.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "tableaudelemplac00deux.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "tableaudelemplac00deux.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "tableaudelemplac00deux.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

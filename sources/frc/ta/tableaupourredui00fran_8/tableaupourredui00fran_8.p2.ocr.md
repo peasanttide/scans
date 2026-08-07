@@ -1,0 +1,40 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: tableaupourredui00fran_8
+page: 2
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 2837
+h: 1866
+dpi: 350
+---
+
+m
+
+A PARIS, DE L'IMPRIMERIE DEjLA RÉPUBLIQUE. Frimaire an V 1 1.
+
+TABLEAU POUR RÉDUIRE LESNOUVELLES MESURES EN ANCIENNES,
+
+RÉDIGÉ PAR L'AGE ORAIRE DES POIDS ET MESURES.
+
+.1 \ v\ Ok
+
+0 , 01020 .
+
+o.iicâ..
+
+0.1460..
+
+o,i75î».
+
+7 . 8 , 68 .
+
+. 798 .
+
+11 , 755 ^-
+
+15,6736.
+
+.7.-5li8-
+
+,3765.

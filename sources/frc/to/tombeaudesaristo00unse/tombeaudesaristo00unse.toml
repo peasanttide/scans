@@ -1,0 +1,68 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "tombeaudesaristo00unse"
+type = "pamphlet"
+title = "Tombeau des aristocrates : air, Vive en Henri Quatre."
+language = "fr"
+place = "Paris"
+date = "1790"
+note = "Caption title. Imprint from colophon. Song with music (unaccompanied melody). Printed from an engraved plate. Martin & Walter IV 2: 17548. Scanner's note: No copyright page found. No table-of-contents pages found. Damaged, stained and/or loose pages. Uneven binding. Skewed text. No page numbers."
+url = "https://archive.org/details/tombeaudesaristo00unse"
+subject = ["Nobility"]
+extent = "[2] leaves ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 8688"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1rg0t51c"
+internet_archive = "tombeaudesaristo00unse"
+openlibrary_edition = "OL26214700M"
+openlibrary_work = "OL17610599W"
+
+[scan]
+file = "tombeaudesaristo00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/tombeaudesaristo00unse"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Chez Frere passage du Saumon"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_52505"
+
+[[text]]
+file = "tombeaudesaristo00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "tombeaudesaristo00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "tombeaudesaristo00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "tombeaudesaristo00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

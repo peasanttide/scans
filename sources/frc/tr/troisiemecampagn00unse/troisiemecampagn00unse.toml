@@ -1,0 +1,60 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "troisiemecampagn00unse"
+type = "pamphlet"
+title = "Troisieme campagne du roy en Flandre"
+language = "fr"
+place = "Paris"
+date = "1746"
+note = "Binder's title: Conquest du roy. Caption title. Poem. Scanner's note: Title is on the cover. Uneven binding. Skewed text. Irregular pagination. Page numbers have been marked or altered. Damaged, stained, torn and/or loose pages. Some text may be lost in the binding. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/troisiemecampagn00unse"
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "E 5 .L92705 v. 09 no. 57"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t24b9523v"
+internet_archive = "troisiemecampagn00unse"
+
+[scan]
+file = "troisiemecampagn00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/troisiemecampagn00unse"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Chez la veuve Valleyre"
+role = "publisher"
+
+[[text]]
+file = "troisiemecampagn00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "troisiemecampagn00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "troisiemecampagn00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "troisiemecampagn00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

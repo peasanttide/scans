@@ -1,0 +1,22 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: tableaudivisende00unse
+page: 39
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 2839
+h: 4373
+dpi: 500
+---
+
+( 39 )
+
+ÉCHELLE ASCENDANTE.
+
+PRODUIT DES INTERETS,
+
+jélion fur la bafe de la valeur moy enne de
+
+Pi-H-
+
+23

@@ -1,0 +1,67 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "tableaudesprovin00unse"
+type = "pamphlet"
+title = "Tableau des provinces qui peuvent s'arranger dans leurs propres limites."
+language = "fr"
+place = "A Paris"
+date = "1790"
+note = """Caption title. Imprint from colophon. "Tableau des provinces qui sont invitées `a se réunir plusieurs ensemble, pour s'accorder sur la divison du royaume": p.[3]-[4]. Martin & Walter IV 2: 17436. Scanner's note: No copyright page found. No table-of-contents pages found.  Title and cover page are combined. Skewed text. Uneven binding. Damaged, stained and/or loose pages.  No page numbers."""
+url = "https://archive.org/details/tableaudesprovin00unse"
+extent = "[4] p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 8614"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7wm6bx5x"
+internet_archive = "tableaudesprovin00unse"
+openlibrary_edition = "OL26214940M"
+openlibrary_work = "OL17610839W"
+
+[scan]
+file = "tableaudesprovin00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/tableaudesprovin00unse"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Chez Baudouin"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_52096"
+
+[[text]]
+file = "tableaudesprovin00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "tableaudesprovin00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "tableaudesprovin00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "tableaudesprovin00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

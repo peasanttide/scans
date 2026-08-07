@@ -1,0 +1,67 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "traductionlittera00unse"
+type = "pamphlet"
+title = "Traduction litteralle d'une lettre écrite en anglais : & déposée au Comité de salut public ; -oTy juin 29 1793, 7 heures du soir"
+language = "fr"
+place = "A Paris"
+date = "1793"
+note = "Caption title. Imprint from colophon. Martin & Walter IV 2: 17634 (which specifies: Relative aux intrigues des Anglais pour maintenir la guerre civile en France) [edition 3: 4 p.]. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."
+url = "https://archive.org/details/traductionlittera00unse"
+extent = "4 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10301"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9f52sh6x"
+internet_archive = "traductionlittera00unse"
+openlibrary_edition = "OL26222977M"
+openlibrary_work = "OL17618437W"
+
+[scan]
+file = "traductionlittera00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/traductionlittera00unse"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_71866"
+
+[[text]]
+file = "traductionlittera00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "traductionlittera00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "traductionlittera00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "traductionlittera00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

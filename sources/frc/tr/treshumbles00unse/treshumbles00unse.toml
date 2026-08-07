@@ -1,0 +1,73 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "treshumbles00unse"
+type = "pamphlet"
+title = "Très-humbles, & très-respectueuses observations adressées de Neuchatel en Suisse, à Nosseigneurs des États de Bretagne, Dauphiné, Languedoc, Artois, Béarn, &c. &c. & des assemblées particulieres des autres provinces /"
+language = "fr"
+place = "France"
+date = "1788"
+note = "Caption title. Dated at end: Le 25 septembre 1788. Variant of Martin & Walter. Révolution française, IV:1, 30986. Scanner's note: Title page and cover are combined. Damaged, stained, marked and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/treshumbles00unse"
+subject = [
+    "Tax incidence",
+    "Estates (Social orders)",
+]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 25045"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7dr84r50"
+internet_archive = "treshumbles00unse"
+
+[scan]
+file = "treshumbles00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/treshumbles00unse"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Sanois, Jean-François-Joseph de La Motte-Geffrard, comte de, 1723-1799"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_850310"
+
+[[text]]
+file = "treshumbles00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "treshumbles00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "treshumbles00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "treshumbles00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

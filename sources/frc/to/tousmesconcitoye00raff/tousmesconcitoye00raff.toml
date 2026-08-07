@@ -1,0 +1,103 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "tousmesconcitoye00raff"
+type = "pamphlet"
+title = "A tous mes concitoyens."
+language = "fr"
+place = "A Paris"
+date = "1794"
+note = """Caption title. "Par Raffron, député du département de Paris, à la convention nationale"--Bottom of p. [1]. Imprint from colophon. "Le 19 ventôse, l'an 2. de la République une et indivisible"--P.8. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  VI:1, 28592. Scanner's note: Title is on the cover page. Skewed text. Damaged pages."""
+url = "https://archive.org/details/tousmesconcitoye00raff"
+subject = [
+    "Land subdivision",
+    "Land tenure",
+]
+extent = "8 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 12950"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3712tf0n"
+internet_archive = "tousmesconcitoye00raff"
+openlibrary_edition = "OL25931702M"
+openlibrary_work = "OL17353931W"
+
+[scan]
+file = "tousmesconcitoye00raff.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/tousmesconcitoye00raff"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Raffron-Dutrouillet, Nicolas, 1723-1801"
+role = "author"
+
+[[resp]]
+name = "Galletti, G.-F"
+role = "publisher"
+
+[[resp]]
+name = "Chez G.-F. Galletti, imprimeur du Journal des lois de la République française, aux Jacobins Saint-Honoré"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_828040"
+
+[[text]]
+file = "tousmesconcitoye00raff.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "tousmesconcitoye00raff.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "tousmesconcitoye00raff.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "tousmesconcitoye00raff.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "tousmesconcitoye00raff.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "tousmesconcitoye00raff.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "tousmesconcitoye00raff.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "tousmesconcitoye00raff.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

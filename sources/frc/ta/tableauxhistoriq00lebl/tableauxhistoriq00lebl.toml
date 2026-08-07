@@ -1,0 +1,86 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "tableauxhistoriq00lebl"
+type = "pamphlet"
+title = "Tableaux historiques de la révolution française"
+language = "fr"
+place = "A Paris :;A Londres"
+date = "1818"
+note = """Prospectus for Tableaux historiques de la révolution française. Caption title. Printer statement precedes date of publication. "L'ouvrage complet en deux volumes in-folio, papier vélin satiné, est du prix de 400 fr.". Scanner's note: No copyright found.  No table of contents found.  Damaged, stained pages and cover.   No page numbers. <br />."""
+url = "https://archive.org/details/tableauxhistoriq00lebl"
+subject = [
+    "Tableaux historiques de la révolution française",
+    "Booksellers and bookselling",
+    "Prints",
+    "History publishing",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1b no. 43"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1pg7c67c"
+internet_archive = "tableauxhistoriq00lebl"
+
+[scan]
+file = "tableauxhistoriq00lebl.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/tableauxhistoriq00lebl"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "Leblanc, Pierre-François-Jean-Baptiste"
+role = "printer"
+
+[[resp]]
+name = "Bossange et Masson"
+role = "bookseller"
+
+[[resp]]
+name = "Chez l'editeur, rue St.-Lazare, chaussée d'Antin, n°. 42 :;Leblanc, imprimeur-libraire, rue de l'Abbaye, n°. 3 ;;Chez Bossange et Masson, libraires, 14 Great Marlborough"
+role = "publisher"
+
+[[text]]
+file = "tableauxhistoriq00lebl.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "tableauxhistoriq00lebl.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "tableauxhistoriq00lebl.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "tableauxhistoriq00lebl.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "tableauxhistoriq00lebl.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "tableauxhistoriq00lebl.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

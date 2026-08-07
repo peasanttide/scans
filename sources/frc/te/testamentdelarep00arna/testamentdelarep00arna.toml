@@ -1,0 +1,92 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "testamentdelarep00arna"
+type = "pamphlet"
+title = "Testament de la République, et ses derniers adieux liste et noms de ceux qui doivent en hériter et de ceux qui n'auront aucune part à la succession."
+language = "fr"
+date = "1799"
+note = "Caption title. At head of title: Liberté de la presse. Signed at end: Arnauld. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,I, 511."
+url = "https://archive.org/details/testamentdelarep00arna"
+extent = "8 p. ;22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "CaseFRC10541"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9g47r39f"
+internet_archive = "testamentdelarep00arna"
+
+[scan]
+file = "testamentdelarep00arna.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/testamentdelarep00arna"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Arnauld"
+role = "author"
+
+[[resp]]
+name = "[Paris?] :De l'imprimerie de Meunier, rue Percée, n. 7,"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_823781"
+
+[[text]]
+file = "testamentdelarep00arna.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "testamentdelarep00arna.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "testamentdelarep00arna.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "testamentdelarep00arna.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "testamentdelarep00arna.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "testamentdelarep00arna.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "testamentdelarep00arna.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "testamentdelarep00arna.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"

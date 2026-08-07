@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "troisimeadresse00gren"
+type = "pamphlet"
+title = "... Troisième adresse /"
+language = "fr"
+place = "A Paris"
+date = "1799"
+note = "Caption title. Imprint from colophon. At head of title: Corps législatif. Conseil des anciens. Grenoble, le 4 messidor an 7 de la République française, une et indivisible [22 juin 1799]. Martin & Walter IV 2: 7372 (which specifies: Sur l'état intérieur de la République). Scanner's note: No copyright page found. No table-of-contents pages found.  Title on cover. Damaged, stained pages and cover."
+url = "https://archive.org/details/troisimeadresse00gren"
+extent = "3 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 4184"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4tj3k17v"
+internet_archive = "troisimeadresse00gren"
+openlibrary_edition = "OL26211035M"
+openlibrary_work = "OL17607107W"
+
+[scan]
+file = "troisimeadresse00gren.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/troisimeadresse00gren"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Grenoble (France). Citizens"
+role = "author"
+
+[[resp]]
+name = "France. Corps législatif (1795-1814). Conseil des anciens"
+role = "author"
+
+[[resp]]
+name = "France. Corps législatif (1795-1814). Conseil des cinq-cents"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_52075"
+
+[[text]]
+file = "troisimeadresse00gren.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "troisimeadresse00gren.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "troisimeadresse00gren.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "troisimeadresse00gren.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

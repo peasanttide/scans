@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "traitdepaixentre00alge"
+type = "pamphlet"
+title = "Traité de paix entre la République française et la Régence d'Alger : conclu le 26 frimaire an X [17 décembre 1801]"
+language = "fr"
+place = "A Paris"
+date = "1801"
+note = "Caption title. Imprint from colophon. At head of title: No. 1479. At lower left on p.[1]: No. 15. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages."
+url = "https://archive.org/details/traitdepaixentre00alge"
+extent = "3 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10302"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t58d51h6q"
+internet_archive = "traitdepaixentre00alge"
+openlibrary_edition = "OL26222460M"
+openlibrary_work = "OL17617931W"
+
+[scan]
+file = "traitdepaixentre00alge.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/traitdepaixentre00alge"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Algeria"
+role = "author"
+
+[[resp]]
+name = "Algeria. Treaties, etc. France, 1801 Dec. 17"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie du Depot des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_71981"
+
+[[text]]
+file = "traitdepaixentre00alge.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "traitdepaixentre00alge.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "traitdepaixentre00alge.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "traitdepaixentre00alge.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

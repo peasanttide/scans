@@ -1,0 +1,59 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "titrepremier00pari"
+type = "pamphlet"
+title = "Titre premier"
+language = "fr"
+note = "Caption title. Incomplete: all after p.4 wanting. Scanner's note: No copyright found.  No table of contents found.  Damaged, stained pages and cover.  Title on cover page. <br />."
+url = "https://archive.org/details/titrepremier00pari"
+subject = [
+    "Printing",
+    "Printers",
+    "Booksellers and bookselling",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 1 no. 1"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1ck41135"
+internet_archive = "titrepremier00pari"
+
+[scan]
+file = "titrepremier00pari.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/titrepremier00pari"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "Paris (France).Imprimeurs et libraires"
+role = "author"
+
+[[resp]]
+name = "Paris (France). Imprimeurs et libraires"
+role = "author"
+
+[[resp]]
+name = "[Paris"
+role = "publisher"
+
+[[text]]
+file = "titrepremier00pari.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "titrepremier00pari.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

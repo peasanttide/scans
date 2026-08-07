@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "tarifdesdroitspe00fran"
+type = "pamphlet"
+title = "Tarif des droits a percevoir pour les permissions simples, conformément aux articles VI, VII, VIII & IX de l'arrêt du Conseil, du 30 août 1777, portant réglement sur la durée des priviléges en librairie"
+language = "fr"
+date = "1777"
+note = """"État des sommes qu'on payera pour être reçu libraire ou imprimeur dans les différentes villes du royaume, conformément aux articles IX & X de l'arrêt du Conseil, du 30 août 1777, qui régle les formalités à observer pour la recéption des librairies & imprimeurs": p. [3]-[4]. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Title page and cover are combined."""
+url = "https://archive.org/details/tarifdesdroitspe00fran"
+subject = [
+    "Booksellers and bookselling",
+    "Printing industry",
+    "Printing",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 9 no.25"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9c59943s"
+internet_archive = "tarifdesdroitspe00fran"
+
+[scan]
+file = "tarifdesdroitspe00fran.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/tarifdesdroitspe00fran"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Conseil d'Etat"
+role = "author"
+
+[[resp]]
+name = "France. Conseil d'Etat"
+role = "author"
+
+[[resp]]
+name = "[Paris"
+role = "publisher"
+
+[[text]]
+file = "tarifdesdroitspe00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "tarifdesdroitspe00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "tarifdesdroitspe00fran.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "tarifdesdroitspe00fran.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

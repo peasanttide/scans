@@ -1,0 +1,77 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "target00unse_24"
+type = "pamphlet"
+title = "Target, président du tribunal de Sainte Genevieve, au peuple françois, salut."
+language = "fr"
+place = "Paris"
+date = "1792"
+note = "Caption title. Apochryphal. Cf. Martin & Walter. Place and date of publication from BM. Martin & Walter. Révolution française. BM. Bibliography: Martin & Walter.  Révolution française,  IV:1, 32261. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover. Skewed text. Damaged, stained and/or loose pages."
+url = "https://archive.org/details/target00unse_24"
+subject = [
+    "Target, avocat (Guy-Jean-Baptiste), 1733-1806",
+    "Louis XVI, King of France, 1754-1793",
+]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 25597"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9d55zx1s"
+internet_archive = "target00unse_24"
+
+[scan]
+file = "target00unse_24.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/target00unse_24"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Tallien, Jean-Lambert, 1767-1897"
+role = "author"
+
+[[resp]]
+name = "Target, avocat (Guy-Jean-Baptiste), 1733-1806"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_857866"
+
+[[text]]
+file = "target00unse_24.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "target00unse_24.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "target00unse_24.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "target00unse_24.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,68 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "triolets00laff"
+type = "pamphlet"
+title = "Triolets"
+language = "fr"
+place = "Paris?"
+date = "1745"
+note = "Binder's title: Mariage du dauphin. Verse. Signed: M. Laffichard. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover page.  Uneven binding.  Skewed text."
+url = "https://archive.org/details/triolets00laff"
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "E 5 .L92705 v. 01 no. 18"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7qp25v62"
+internet_archive = "triolets00laff"
+
+[scan]
+file = "triolets00laff.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/triolets00laff"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Laffichard, Thomas,1698-1753"
+role = "author"
+
+[[resp]]
+name = "Laffichard, Thomas, 1698-1753"
+role = "author"
+
+[[resp]]
+name = "Mesnier"
+role = "publisher"
+
+[[text]]
+file = "triolets00laff.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "triolets00laff.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "triolets00laff.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "triolets00laff.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "traitepolitiquee00maug"
+type = "pamphlet"
+title = "Traité politique et historique de la noblesse françoise, par M. Maugard, généalogiste de l'Ordre de S. Hubert : prospectus."
+language = "fr"
+place = "France"
+date = "1787"
+note = """Prospectus for Maugard's "Traité politique et historique de la noblesse françoise.". Caption title. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  III, 23480. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained, marked and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/traitepolitiquee00maug"
+subject = [
+    "Maugard, M. (Antoine), 1739-1817",
+    "Booksellers and bookselling",
+]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 22180"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t16m8hb39"
+internet_archive = "traitepolitiquee00maug"
+openlibrary_edition = "OL26240623M"
+openlibrary_work = "OL17635146W"
+
+[scan]
+file = "traitepolitiquee00maug.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/traitepolitiquee00maug"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Maugard, M. (Antoine), 1739-1817"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_846094"
+
+[[text]]
+file = "traitepolitiquee00maug.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "traitepolitiquee00maug.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "traitepolitiquee00maug.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "traitepolitiquee00maug.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,78 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "testamentloui00unse"
+type = "pamphlet"
+title = "[Testament de Louis XVI]"
+language = "fr"
+date = "1792"
+note = """Manuscript. Title devised by cataloger, based on published editions. Signed: Louis. "Fait double a la tour du Temple le 25 decembre 1792"--Page 4. Bifolium. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover. No page numbers."""
+url = "https://archive.org/details/testamentloui00unse"
+subject = [
+    "Louis XVI, King of France, 1754-1793",
+    "Manuscripts, French",
+]
+extent = "4 unnumbered pages ; 24 cm"
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 26943"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1zd32c4q"
+internet_archive = "testamentloui00unse"
+openlibrary_edition = "OL26227071M"
+openlibrary_work = "OL17622298W"
+
+[scan]
+file = "testamentloui00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/testamentloui00unse"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Louis XVI, King of France,1754-1793,"
+role = "author"
+
+[[resp]]
+name = "Louis XVI, King of France, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "264: 0:$a[France?],"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_875007"
+
+[[text]]
+file = "testamentloui00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "testamentloui00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "testamentloui00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "testamentloui00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
