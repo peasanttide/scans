@@ -1,0 +1,10 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: idespatriotiques00unse
+page: 1
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 2657
+h: 4422
+dpi: 500
+---

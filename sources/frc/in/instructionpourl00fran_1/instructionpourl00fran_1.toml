@@ -1,0 +1,69 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "instructionpourl00fran_1"
+type = "pamphlet"
+title = "Instruction pour la manière de faire les états et notices des monumens de peinture, sculpture, gravure, dessins, etc. : provenant du mobilier des maisons ecclésiastiques supprimées ; et dont l'envoi est demandé promptement par les comités réunis d'admini"
+language = "fr"
+place = "Paris"
+date = "1791"
+note = "Scanner's note: No title page found. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/instructionpourl00fran_1"
+extent = "3 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "CaseFRC854"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7vm7rg6m"
+internet_archive = "instructionpourl00fran_1"
+
+[scan]
+file = "instructionpourl00fran_1.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/instructionpourl00fran_1"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_40120"
+
+[[text]]
+file = "instructionpourl00fran_1.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "instructionpourl00fran_1.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "instructionpourl00fran_1.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "instructionpourl00fran_1.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"

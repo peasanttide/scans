@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "instructionspubli00unse"
+type = "pamphlet"
+title = "[Instructions for publicizing elections in Haute-Garonne]"
+language = "fr"
+place = "Toulouse"
+date = "1790"
+note = "Dated at end: A Toulouse, le 7 juillet 1790. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover. No page numbers."
+url = "https://archive.org/details/instructionspubli00unse"
+subject = ["Elections"]
+extent = "[1] p. ; 24 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10298 no. 1"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t13n78m0k"
+internet_archive = "instructionspubli00unse"
+openlibrary_edition = "OL26222930M"
+openlibrary_work = "OL17618389W"
+
+[scan]
+file = "instructionspubli00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/instructionspubli00unse"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Haute-Garonne (France)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_71919"
+
+[[text]]
+file = "instructionspubli00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "instructionspubli00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "instructionspubli00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "instructionspubli00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

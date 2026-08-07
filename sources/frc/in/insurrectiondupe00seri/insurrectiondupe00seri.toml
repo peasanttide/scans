@@ -1,0 +1,77 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "insurrectiondupe00seri"
+type = "pamphlet"
+title = "Insurrection du peuple contre les tyrans : hymne aux républicains, sur l'air, Allons, enfans de la patrie, etc."
+language = "fr"
+place = "Paris?"
+date = "1793"
+note = """Caption title. Vignette of laurel wreath encircling the words "Liberté, égalité, République françoise" printed within title. Signed: Serieys. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  IV:1, 31429. Scanner's note: Irregular Pagination. Title page and cover are combined. Damaged, stained, marked and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/insurrectiondupe00seri"
+subject = [
+    "National songs",
+    "Political ballads and songs",
+]
+extent = "4 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 25178"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8qc59m2z"
+internet_archive = "insurrectiondupe00seri"
+
+[scan]
+file = "insurrectiondupe00seri.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/insurrectiondupe00seri"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Sérieys, A. (Antoine), 1755-1829"
+role = "author"
+
+[[resp]]
+name = "Rouget de Lisle, Claude Joseph, 1760-1836. Marseillaise"
+role = "author"
+
+[[resp]]
+name = "De l'Imp. des 86 départemens et de la Société aux Jacobins"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_851235"
+
+[[text]]
+file = "insurrectiondupe00seri.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "insurrectiondupe00seri.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "insurrectiondupe00seri.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "insurrectiondupe00seri.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

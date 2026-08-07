@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "instructionfamil00aube"
+type = "pamphlet"
+title = "... Instruction familiere sur la fabrication du salpêtre : aux salpêtriers du département de l'Aube."
+language = "fr"
+place = "A Auxerre"
+date = "1794"
+note = "Caption title. Imprint from colophon. At head of title: Mort aux tyrans. Dated at end: 1er. fructidor, an second de la République française, une & indivisible [18 août 1794]. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found.  Title on cover. Damaged, stained pages and cover."
+url = "https://archive.org/details/instructionfamil00aube"
+subject = ["Saltpeter"]
+extent = "4 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 4345"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t72v7m002"
+internet_archive = "instructionfamil00aube"
+openlibrary_edition = "OL26211045M"
+openlibrary_work = "OL17607117W"
+
+[scan]
+file = "instructionfamil00aube.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/instructionfamil00aube"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Aube (France)"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Baillif"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_48597"
+
+[[text]]
+file = "instructionfamil00aube.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "instructionfamil00aube.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "instructionfamil00aube.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "instructionfamil00aube.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

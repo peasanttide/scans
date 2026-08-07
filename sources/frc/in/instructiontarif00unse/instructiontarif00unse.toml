@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "instructiontarif00unse"
+type = "pamphlet"
+title = "... Instruction et tarif du droit de passe : pour la sortie ou l'entrée dans la commune de Paris ; instruction pour les receveurs du droit de passe dans le département de la Seine, enceinte de Paris"
+language = "fr"
+place = "A Paris"
+date = "1797"
+note = "Caption title. Imprint from colophon. At head of title: N.o 621 bis. Signed at end: Le ministre de l'intérieur. Letourneux. Reference on p.3: ... la loi du 3 nivose an VI [23 décembre 1797]. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found.   Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages."
+url = "https://archive.org/details/instructiontarif00unse"
+subject = ["Passports"]
+extent = "4 p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9860"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9w14669q"
+internet_archive = "instructiontarif00unse"
+openlibrary_edition = "OL26223733M"
+openlibrary_work = "OL17619188W"
+
+[scan]
+file = "instructiontarif00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/instructiontarif00unse"
+ppi = 400
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Ministère de l'intérieur"
+role = "author"
+
+[[resp]]
+name = "France. Ministère de l'intérieur"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie du Dépot des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_68826"
+
+[[text]]
+file = "instructiontarif00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "instructiontarif00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "instructiontarif00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "instructiontarif00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

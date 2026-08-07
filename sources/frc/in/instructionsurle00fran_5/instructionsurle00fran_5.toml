@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "instructionsurle00fran_5"
+type = "pamphlet"
+title = "Instruction sur les moyens de conserver les moissons dans les années pluvieuses."
+language = "fr"
+place = "A Chaalons"
+date = "1795"
+note = """Caption title. Imprint from colophon. "Extrait du registre des arrêtés du Comité de salut public de la Convention nationale. Du 29 thermidor de l'an 3.e de la République française, une et indivisible [16 août 1795]": p.4. Authorizing the dissemination of this piece. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover page.  Uneven binding.  Damaged/stained pages.  Skewed text."""
+url = "https://archive.org/details/instructionsurle00fran_5"
+subject = ["Crops and climate"]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 4368"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/txxxxxxxx"
+internet_archive = "instructionsurle00fran_5"
+openlibrary_edition = "OL26211943M"
+openlibrary_work = "OL17607941W"
+
+[scan]
+file = "instructionsurle00fran_5.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/instructionsurle00fran_5"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale. Comité de salut public"
+role = "author"
+
+[[resp]]
+name = "Chez Pinteville-Bouchard"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_54926"
+
+[[text]]
+file = "instructionsurle00fran_5.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "instructionsurle00fran_5.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "instructionsurle00fran_5.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "instructionsurle00fran_5.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

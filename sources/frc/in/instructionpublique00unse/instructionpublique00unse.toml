@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "instructionpublique00unse"
+type = "pamphlet"
+title = "... Instruction publique"
+language = "fr"
+place = "Paris"
+date = "1793"
+note = "Caption title. Imprint from colophon. At head of title: Le 5me jour du premier mois de l'an deuxi`eme de la République française [5 janvier 1793]. Signed at end: ... la Société du point-central des arts et métiers. Martin & Walter IV 2: 7763. Scanner's note: No copyright page found. No table-of-contents pages found.   Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages."
+url = "https://archive.org/details/instructionpublique00unse"
+subject = ["Education"]
+extent = "4 p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9868"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1fj7km49"
+internet_archive = "instructionpublique00unse"
+openlibrary_edition = "OL26224102M"
+openlibrary_work = "OL17619557W"
+
+[scan]
+file = "instructionpublique00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/instructionpublique00unse"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Société du point-central des arts et métiers (Paris, France)"
+role = "author"
+
+[[resp]]
+name = "Société du point-central des arts et métiers (Paris, France)"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de la citoyenne Fondrouge"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_68893"
+
+[[text]]
+file = "instructionpublique00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "instructionpublique00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "instructionpublique00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "instructionpublique00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

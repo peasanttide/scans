@@ -1,0 +1,103 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "instruction00loir"
+type = "pamphlet"
+title = "Instruction /"
+language = "fr"
+place = "A Orléans"
+date = "1791"
+note = "Caption title. Imprint from colophon. Dated at end: Orléans, le 19 septembre 1791. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover."
+url = "https://archive.org/details/instruction00loir"
+subject = [
+    "Food supply",
+    "Law enforcement",
+]
+extent = "8 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 5127"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8tb65t1g"
+internet_archive = "instruction00loir"
+openlibrary_edition = "OL26212327M"
+openlibrary_work = "OL17608307W"
+
+[scan]
+file = "instruction00loir.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/instruction00loir"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Loiret (France)"
+role = "author"
+
+[[resp]]
+name = "Orléans (France)"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Rouzeau-Montant"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_59835"
+
+[[text]]
+file = "instruction00loir.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "instruction00loir.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "instruction00loir.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "instruction00loir.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "instruction00loir.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "instruction00loir.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "instruction00loir.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "instruction00loir.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

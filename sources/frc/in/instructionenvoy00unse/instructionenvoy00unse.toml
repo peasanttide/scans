@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "instructionenvoy00unse"
+type = "pamphlet"
+title = "... Instruction envoyée"
+language = "fr"
+place = "s.l."
+date = "1794"
+note = "Caption title. Without imprint. At head of title: Paris, le 30 messidor, l'an deuxi`eme de la République française, une et indivisible [18 juillet 1794]. At upper left on p.[1]: Comité de salut public. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover. No page numbers."
+url = "https://archive.org/details/instructionenvoy00unse"
+subject = ["France. Armée"]
+extent = "[3] p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9656"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7pp46x2w"
+internet_archive = "instructionenvoy00unse"
+openlibrary_edition = "OL26222815M"
+openlibrary_work = "OL17618286W"
+
+[scan]
+file = "instructionenvoy00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/instructionenvoy00unse"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale. Comité de salut public"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale. Comité de salut public"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_68084"
+
+[[text]]
+file = "instructionenvoy00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "instructionenvoy00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "instructionenvoy00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "instructionenvoy00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

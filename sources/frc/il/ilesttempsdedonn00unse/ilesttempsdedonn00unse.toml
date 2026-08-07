@@ -1,0 +1,68 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "ilesttempsdedonn00unse"
+type = "pamphlet"
+title = "Il est temps de donner aux époux qui ne peuvent vivre ensemble, la liberté de former de nouveaux liens."
+language = "fr"
+place = "Paris"
+date = "1790"
+note = "Caption title. Imprint from colophon. Martin & Walter IV 2: 7622. Scanner's note: No copyright page found. No table-of-contents pages found.  Title on cover. Damaged, stained pages and cover."
+url = "https://archive.org/details/ilesttempsdedonn00unse"
+subject = ["Divorce"]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 4304"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7jq61g78"
+internet_archive = "ilesttempsdedonn00unse"
+openlibrary_edition = "OL26211059M"
+openlibrary_work = "OL17607131W"
+
+[scan]
+file = "ilesttempsdedonn00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/ilesttempsdedonn00unse"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "De l'imprimerie de Gueffier ; et se trouve chez les marchands de nouveautés au Palais-royal"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_48425"
+
+[[text]]
+file = "ilesttempsdedonn00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ilesttempsdedonn00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ilesttempsdedonn00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ilesttempsdedonn00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

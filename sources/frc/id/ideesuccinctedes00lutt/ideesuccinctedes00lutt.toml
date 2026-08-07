@@ -1,0 +1,56 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "ideesuccinctedes00lutt"
+type = "pamphlet"
+title = "Idée succincte des ouvrages périodiques qu'on peut se procurer, ainsi que les livres, estampes, & musiques qu'ils annoncent, se s'adressant au bureau du Mercure, chez M. Lutton, rue Sainte Anne, butte Saint Roch, à Paris"
+language = "fr"
+place = "Paris"
+date = "1757"
+note = "Caption title. Latest date in text: 1757. Catalog of several French periodicals with brief description and publication history for each title. Without prices. Ms. annotations. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Title page and cover are combined."
+url = "https://archive.org/details/ideesuccinctedes00lutt"
+subject = [
+    "Lutton, Jean-Baptiste-Bernard",
+    "French periodicals",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 4 no. 81"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t96744n9k"
+internet_archive = "ideesuccinctedes00lutt"
+
+[scan]
+file = "ideesuccinctedes00lutt.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/ideesuccinctedes00lutt"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Lutton, Jean-Baptiste-Bernard"
+role = "author"
+
+[[resp]]
+name = "Jean-Baptiste-Bernard Lutton?"
+role = "publisher"
+
+[[text]]
+file = "ideesuccinctedes00lutt.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ideesuccinctedes00lutt.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

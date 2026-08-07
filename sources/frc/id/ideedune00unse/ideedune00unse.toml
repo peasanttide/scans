@@ -1,0 +1,81 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "ideedune00unse"
+type = "pamphlet"
+title = "Idée d'une motion importante, pour compléter l'arrêté du 5 août /"
+language = "fr"
+place = "A Versailles"
+date = "1789"
+note = "Caption title. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  IV:1, 33538. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover. Uneven binding. Skewed text. Damaged, stained and/or loose pages."
+url = "https://archive.org/details/ideedune00unse"
+subject = [
+    "Feudal law",
+    "Constitutional law",
+]
+extent = "3 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 26121"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9479r318"
+internet_archive = "ideedune00unse"
+
+[scan]
+file = "ideedune00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/ideedune00unse"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Tallien, Jean-Lambert, 1767-2410"
+role = "author"
+
+[[resp]]
+name = "Viellart, René-Louis-Marie, 1754-1809"
+role = "author"
+
+[[resp]]
+name = "Baudouin, François-Jean, 1759-1838"
+role = "publisher"
+
+[[resp]]
+name = "Chez Baudouin, imprimeur de l'Assemblée nationale, avenue de Saint Cloud, no. 69"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_865655"
+
+[[text]]
+file = "ideedune00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ideedune00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ideedune00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ideedune00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,85 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "ideesurlouvra00vala"
+type = "pamphlet"
+title = "Idée sur l'ouvrage qui a pour titre Théorie des sentimens moraux"
+language = "fr"
+place = "Paris"
+date = "1775"
+note = """Prospectus for a French translation by Jean-Louis Blavet of Adam Smith's "The theory of moral sentiments.". Caption title. "A Paris, chez Valade, libraire, rue Saint-Jacques, vis-à-vis celle des Mathurins"--P. [1]. Imprint from colophon. Includes brief notices for three other titles sold by Valade. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Title page and cover are combined."""
+url = "https://archive.org/details/ideesurlouvra00vala"
+subject = [
+    "Smith, Adam, 1723-1790",
+    "Booksellers and bookselling",
+    "Philosophical literature",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1a no. 145"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t10p6rb0t"
+internet_archive = "ideesurlouvra00vala"
+
+[scan]
+file = "ideesurlouvra00vala.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/ideesurlouvra00vala"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Valade, Jacques-François,d. 1784"
+role = "author"
+
+[[resp]]
+name = "Valade, Jacques-François, d. 1784"
+role = "author"
+
+[[resp]]
+name = "Smith, Adam, 1723-1790. Theory of moral sentiments. French"
+role = "author"
+
+[[resp]]
+name = "Blavet, Jean-Louis, 1719-1809"
+role = "author"
+
+[[resp]]
+name = "Clousier, Jacques-Gabriel, d. 1804?"
+role = "printer"
+
+[[resp]]
+name = "De l'imprimerie de J.G. Clousier, rue Saint-Jacques"
+role = "publisher"
+
+[[text]]
+file = "ideesurlouvra00vala.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ideesurlouvra00vala.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ideesurlouvra00vala.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ideesurlouvra00vala.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

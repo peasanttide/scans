@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "instructionarret00gard"
+type = "pamphlet"
+title = "Instruction arrêtée par les membres du directoire et procureur-général-syndic, sur la rédaction des états de sections pour la contribution foncière"
+language = "fr"
+place = "Nîmes"
+date = "1792"
+note = "Caption title. At right of title: Contribution foncière. États de sections. Dated at end: Le 11 février 1792. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. No title page found."
+url = "https://archive.org/details/instructionarret00gard"
+subject = [
+    "Real property tax",
+    "Tax administration and procedure",
+]
+extent = "4 p. ; 25 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9831 no. 26"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5k989p1r"
+internet_archive = "instructionarret00gard"
+openlibrary_edition = "OL26224060M"
+openlibrary_work = "OL17619515W"
+
+[scan]
+file = "instructionarret00gard.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/instructionarret00gard"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Gard (France)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_854342"
+
+[[text]]
+file = "instructionarret00gard.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "instructionarret00gard.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "instructionarret00gard.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "instructionarret00gard.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

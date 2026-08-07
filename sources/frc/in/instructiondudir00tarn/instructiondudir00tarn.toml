@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "instructiondudir00tarn"
+type = "pamphlet"
+title = "Instruction du directoire du département du Tarn, concernant le service des etapes, lits & voitures aux troupes, des transports des effets d'artillerie, & autres objets relatifs au service militaire : du 14 septembre 1790"
+language = "fr"
+place = "A Castres"
+date = "1790"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."
+url = "https://archive.org/details/instructiondudir00tarn"
+subject = [
+    "France. Armée",
+    "Requisitions, Military",
+]
+extent = "4 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10296 no. 1"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9188dt60"
+internet_archive = "instructiondudir00tarn"
+openlibrary_edition = "OL26223464M"
+openlibrary_work = "OL17618927W"
+
+[scan]
+file = "instructiondudir00tarn.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/instructiondudir00tarn"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Tarn (France). Directoire"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de P.G.D. Robert, docteur en philosophie, imprimeur du roi & du département du Tarn"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_71884"
+
+[[text]]
+file = "instructiondudir00tarn.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "instructiondudir00tarn.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "instructiondudir00tarn.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "instructiondudir00tarn.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

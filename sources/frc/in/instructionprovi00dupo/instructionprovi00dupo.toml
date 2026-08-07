@@ -1,0 +1,85 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "instructionprovi00dupo"
+type = "pamphlet"
+title = "Instruction provisoire sur l'admission des sujets qui se destinent aux corps de l'artillerie & du génie : du 26 septembre 1791"
+language = "fr"
+place = "A Paris"
+date = "1791"
+note = "Caption title. Signed: Duportail. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française, IV:2, 7755; II, 12264. Scanner's note: No copyright page found. No table-of-contents pages found.   Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages."
+url = "https://archive.org/details/instructionprovi00dupo"
+subject = [
+    "France. Armée. Service du genie",
+    "France. Armée. Artillerie",
+    "Military cadets",
+    "Military training camps",
+]
+extent = "4 p. ; 28 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9858 no. 24"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t35194843"
+internet_archive = "instructionprovi00dupo"
+openlibrary_edition = "OL26223727M"
+openlibrary_work = "OL17619182W"
+
+[scan]
+file = "instructionprovi00dupo.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/instructionprovi00dupo"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Duportail, Antoine-Jean-Louis Le Bègue de Presle,1743-1802"
+role = "author"
+
+[[resp]]
+name = "Duportail, Antoine-Jean-Louis Le Bègue de Presle, 1743-1802"
+role = "author"
+
+[[resp]]
+name = "Imprimerie royale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie royale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_855792"
+
+[[text]]
+file = "instructionprovi00dupo.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "instructionprovi00dupo.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "instructionprovi00dupo.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "instructionprovi00dupo.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "ierpremierenvoim00dame"
+type = "pamphlet"
+title = "Ier. [Premier] envoi à M. Necker : de la Halle ce 23 Xbre. [deécembre] 1788."
+language = "fr"
+place = "s.l."
+date = "1788"
+note = """Caption title. Without imprint. Signed at foot of p.[1] (letter of transmittal): les Notabes [i.e. Notables] d' la Halle. "Considerations politiques des Notables de la Halle au pain sur les affaires du temps. Air: Reçois dans ton galetas": p.[2]-[4] Song text. Engraved throughout. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found. Title and cover page are combined. Damaged, stained and/or loose pages. Uneven binding. Skewed text. No page numbers."""
+url = "https://archive.org/details/ierpremierenvoim00dame"
+extent = "[4] p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 7018"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t50g8qs6x"
+internet_archive = "ierpremierenvoim00dame"
+openlibrary_edition = "OL26212519M"
+openlibrary_work = "OL17608500W"
+
+[scan]
+file = "ierpremierenvoim00dame.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/ierpremierenvoim00dame"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Dames de la Halle"
+role = "author"
+
+[[resp]]
+name = "Necker, Jacques, 1732-1804"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_61832"
+
+[[text]]
+file = "ierpremierenvoim00dame.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ierpremierenvoim00dame.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ierpremierenvoim00dame.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ierpremierenvoim00dame.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

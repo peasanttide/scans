@@ -1,0 +1,68 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "instructionssurl00unse_0"
+type = "pamphlet"
+title = "Instructions sur la conduite à tenir dans les Etats-généraux : par les représentants des provinces."
+language = "fr"
+place = "s.l."
+date = "1788"
+note = """Caption title. Without imprint. "Fait à Paris le 22 octobre 1788": p.3. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover page.  Uneven binding.  Damaged, stained and/or loose pages.  Skewed text."""
+url = "https://archive.org/details/instructionssurl00unse_0"
+subject = ["France. Etats généraux"]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 4379"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/txxxxxxxx"
+internet_archive = "instructionssurl00unse_0"
+openlibrary_edition = "OL26212271M"
+openlibrary_work = "OL17608253W"
+
+[scan]
+file = "instructionssurl00unse_0.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/instructionssurl00unse_0"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_56412"
+
+[[text]]
+file = "instructionssurl00unse_0.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "instructionssurl00unse_0.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "instructionssurl00unse_0.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "instructionssurl00unse_0.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

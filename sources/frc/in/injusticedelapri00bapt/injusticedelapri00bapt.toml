@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "injusticedelapri00bapt"
+type = "pamphlet"
+title = "Injustice de la prime combinée, ou, Réflexions sur les opinions du représentant Cambacérès, relativement aux transactions."
+language = "fr"
+date = "1797"
+note = """Caption title. Signed: Baptiste. Imprint from colophon. Publisher location from Martin & Walter. "Séance du 11 Frimaire, an 5"--P. [1]. "Séance du 13"--P. 2. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,I, 1309. Scanner's note: Title found on front cover. No table-of-contents pages found. No copyright page found."""
+url = "https://archive.org/details/injusticedelapri00bapt"
+subject = [
+    "Finance, Public",
+    "Debt",
+]
+extent = "4 p. ;20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "CaseFRC10607"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t73v2mj71"
+internet_archive = "injusticedelapri00bapt"
+
+[scan]
+file = "injusticedelapri00bapt.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/injusticedelapri00bapt"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Baptiste,fl. ca. 1797"
+role = "author"
+
+[[resp]]
+name = "[Paris] :De l'imprimerie de la Vérité,"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_823647"
+
+[[text]]
+file = "injusticedelapri00bapt.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "injusticedelapri00bapt.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "injusticedelapri00bapt.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "injusticedelapri00bapt.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"

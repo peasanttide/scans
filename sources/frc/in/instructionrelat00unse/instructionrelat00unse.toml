@@ -1,0 +1,68 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "instructionrelat00unse"
+type = "pamphlet"
+title = "Instruction relative a la perception du droit d'enregistrement : en exécution de la loi du 22 frimaire an VII [12 décembre 1798] ; suivi d'un tableau pour la perception dudit droit"
+language = "fr"
+place = "A Paris"
+date = "1798"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found.   Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages."
+url = "https://archive.org/details/instructionrelat00unse"
+subject = ["Taxation"]
+extent = "4 p. ; 28 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9869"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t14n49k16"
+internet_archive = "instructionrelat00unse"
+openlibrary_edition = "OL26223683M"
+openlibrary_work = "OL17619138W"
+
+[scan]
+file = "instructionrelat00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/instructionrelat00unse"
+ppi = 400
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "De l'imprimerie du Depot des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_68864"
+
+[[text]]
+file = "instructionrelat00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "instructionrelat00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "instructionrelat00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "instructionrelat00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

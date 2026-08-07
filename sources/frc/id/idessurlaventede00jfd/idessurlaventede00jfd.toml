@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "idessurlaventede00jfd"
+type = "pamphlet"
+title = "Idées sur la vente de portion des biens du clergé."
+language = "fr"
+place = "Paris"
+date = "1790"
+note = "Caption title. Imprint from colophon. Signed at end: J.F.D., ancien avocat de Paris. Martin & Walter IV 2: 7611. Scanner's note: Title on cover. Damaged, stained pages and cover. No copyright. No table of contents."
+url = "https://archive.org/details/idessurlaventede00jfd"
+subject = [
+    "Church property",
+    "Clergy",
+]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 4298"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2w42t43q"
+internet_archive = "idessurlaventede00jfd"
+openlibrary_edition = "OL26211046M"
+openlibrary_work = "OL17607118W"
+
+[scan]
+file = "idessurlaventede00jfd.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/idessurlaventede00jfd"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "J. F. D"
+role = "author"
+
+[[resp]]
+name = "D., J. F"
+role = "author"
+
+[[resp]]
+name = "Veuve Desaint"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_49465"
+
+[[text]]
+file = "idessurlaventede00jfd.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "idessurlaventede00jfd.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "idessurlaventede00jfd.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "idessurlaventede00jfd.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

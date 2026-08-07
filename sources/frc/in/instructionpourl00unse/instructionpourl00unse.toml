@@ -1,0 +1,68 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "instructionpourl00unse"
+type = "pamphlet"
+title = "Instruction pour l'ordre à observer le jour de la Fête de la réunion : au 10 août l'an 2e de la République française [1794]"
+language = "fr"
+place = "A Paris"
+date = "1794"
+note = "Caption title. Imprint from colophon. Martin & Walter IV 2: 7741. Scanner's note: No copyright page found. No table-of-contents pages found.  Title on cover. Damaged, stained pages and cover."
+url = "https://archive.org/details/instructionpourl00unse"
+subject = ["Festivals"]
+extent = "4 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 4351"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/txxxxxxxx"
+internet_archive = "instructionpourl00unse"
+openlibrary_edition = "OL26211196M"
+openlibrary_work = "OL17607271W"
+
+[scan]
+file = "instructionpourl00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/instructionpourl00unse"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Chez Théodore Gerard"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_48566"
+
+[[text]]
+file = "instructionpourl00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "instructionpourl00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "instructionpourl00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "instructionpourl00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "ideessurlesassig00lasa"
+type = "pamphlet"
+title = "Idées sur les assignats."
+language = "fr"
+place = "France?"
+date = "1789"
+note = "Caption title. Signed: De La Salle d'Offemont. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  III, 19446. Scanner's note: No copyright page found. No table-of-contents pages found. Title and cover pages combined."
+url = "https://archive.org/details/ideessurlesassig00lasa"
+subject = ["Assignats"]
+extent = "3 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 20743"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2m66rb4s"
+internet_archive = "ideessurlesassig00lasa"
+openlibrary_edition = "OL26237793M"
+openlibrary_work = "OL17632342W"
+
+[scan]
+file = "ideessurlesassig00lasa.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/ideessurlesassig00lasa"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "La Salle d'Offémont, Adrien Nicolas Piédefer, marquis de, 1734-1818"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_843496"
+
+[[text]]
+file = "ideessurlesassig00lasa.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ideessurlesassig00lasa.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ideessurlesassig00lasa.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ideessurlesassig00lasa.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

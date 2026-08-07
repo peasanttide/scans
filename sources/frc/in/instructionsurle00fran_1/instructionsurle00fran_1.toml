@@ -1,0 +1,74 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "instructionsurle00fran_1"
+type = "pamphlet"
+title = "Instruction sur l'emploi de la lie de vin /"
+language = "fr"
+place = "A Paris"
+date = "1795"
+note = "Caption title. Imprint from colophon. Martin & Walter IV 2: 3611. Scanner's note: No copyright. No table of contents. Title on cover. Damaged, stained pages and cover. <br />."
+url = "https://archive.org/details/instructionsurle00fran_1"
+subject = ["Wine and wine making"]
+extent = "3 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 1834"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3cz88565"
+internet_archive = "instructionsurle00fran_1"
+
+[scan]
+file = "instructionsurle00fran_1.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/instructionsurle00fran_1"
+ppi = 300
+note = "at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale. Comité d'agriculture etdes arts"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale. Comité d'agriculture etdes arts"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de la Feuille du cultivateur"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_44128"
+
+[[text]]
+file = "instructionsurle00fran_1.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "instructionsurle00fran_1.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "instructionsurle00fran_1.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "instructionsurle00fran_1.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "instructiondudir00tarn_1"
+type = "pamphlet"
+title = "Instruction du directoire du département du Tarn, relative à l'administration des travaux de charité, décrétés par l'Assemblée nationale, pour lesquels il a été accordé, dans chaque département, une somme de 80000 livres, en sus des 30000 livres, déjà distribués dans les mêmes intentions : du 26 mars 1791"
+language = "fr"
+place = "A Castres"
+date = "1791"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."
+url = "https://archive.org/details/instructiondudir00tarn_1"
+subject = [
+    "Public welfare",
+    "Grants-in-aid",
+]
+extent = "3 p. ; 23 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10296 no. 9"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5p89d87g"
+internet_archive = "instructiondudir00tarn_1"
+openlibrary_edition = "OL26223465M"
+openlibrary_work = "OL17618928W"
+
+[scan]
+file = "instructiondudir00tarn_1.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/instructiondudir00tarn_1"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Tarn (France). Directoire"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de P.G.D. Robert, docteur en philosophie, imprimeur du roi & du département du Tarn"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_856896"
+
+[[text]]
+file = "instructiondudir00tarn_1.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "instructiondudir00tarn_1.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "instructiondudir00tarn_1.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "instructiondudir00tarn_1.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

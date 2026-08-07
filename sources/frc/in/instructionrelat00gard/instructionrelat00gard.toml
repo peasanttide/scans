@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "instructionrelat00gard"
+type = "pamphlet"
+title = "Instruction relative au dépouillement & transcription sur les états de sections des déclarations fournies par les propriétaires"
+language = "fr"
+place = "Nîmes"
+date = "1792"
+note = "Caption title. At right of title: Contribution fonciere. Dépouillement des déclarations. Dated at end: Le 13 février 1792. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. No title page found."
+url = "https://archive.org/details/instructionrelat00gard"
+subject = [
+    "Real property tax",
+    "Tax assessment",
+]
+extent = "3 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9831 no. 23"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3b048q99"
+internet_archive = "instructionrelat00gard"
+openlibrary_edition = "OL26223903M"
+openlibrary_work = "OL17619358W"
+
+[scan]
+file = "instructionrelat00gard.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/instructionrelat00gard"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Gard (France)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_854339"
+
+[[text]]
+file = "instructionrelat00gard.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "instructionrelat00gard.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "instructionrelat00gard.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "instructionrelat00gard.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

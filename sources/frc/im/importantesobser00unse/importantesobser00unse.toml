@@ -1,0 +1,68 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "importantesobser00unse"
+type = "pamphlet"
+title = "Importantes observations des citoyens dépouillés par les comités révolutionnaires : [motto: 2 lines]"
+language = "fr"
+place = "A Paris"
+date = "1793"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Scanner's note: Title on cover. Damaged, stained pages and cover. No table-of-contents pages found. No copyright page found."
+url = "https://archive.org/details/importantesobser00unse"
+subject = ["Confiscations"]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 4314"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0zp93419"
+internet_archive = "importantesobser00unse"
+openlibrary_edition = "OL26211260M"
+openlibrary_work = "OL17607335W"
+
+[scan]
+file = "importantesobser00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/importantesobser00unse"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "De l'imprimerie de G.-F. Galletti"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_47108"
+
+[[text]]
+file = "importantesobser00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "importantesobser00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "importantesobser00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "importantesobser00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
