@@ -1,0 +1,84 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettreduroi00unse_1"
+type = "pamphlet"
+title = "Lettre du roi a l'Assemblée nationale : Paris, le 21 juin 1792, l'an quatrieme de la liberté"
+language = "fr"
+place = "A Toulouse"
+date = "1792"
+note = """Caption title. Imprint from colophon. Martin & Walter. Révolution française. "Proclamation du roi sur les événements du 20 juin ..."--P. 2-3. Bibliography: Martin & Walter.  Révolution française, III, 21817. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/lettreduroi00unse_1"
+subject = ["Louis XVI, King of France, 1754-1793"]
+extent = "3 p. ; 25 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 26931"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9j43wn8w"
+internet_archive = "lettreduroi00unse_1"
+openlibrary_edition = "OL26227314M"
+openlibrary_work = "OL17622542W"
+
+[scan]
+file = "lettreduroi00unse_1.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettreduroi00unse_1"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Louis XVI, King of France,1754-1793"
+role = "author"
+
+[[resp]]
+name = "Louis XVI, King of France, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "Besian, Jean-Gabriel"
+role = "publisher"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de J.-G. Besian, seul imprimeur du département de Haute-Garonne, place St.-George, no. 285"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_866677"
+
+[[text]]
+file = "lettreduroi00unse_1.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettreduroi00unse_1.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettreduroi00unse_1.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettreduroi00unse_1.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

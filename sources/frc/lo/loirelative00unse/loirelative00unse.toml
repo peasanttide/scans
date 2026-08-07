@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loirelative00unse"
+type = "pamphlet"
+title = "... Loi relative au régime des séminaires diocésains : & au traitement des supérieurs & vicaires-directeurs ; donnée `a Paris, le 5 janvier 1791 ; transcrite sur les registres de la municipalité, le 24 janvier 1791"
+language = "fr"
+place = "Paris"
+date = "1791"
+note = "Caption title. Imprint from colophon. At head of title: Municipalité de Paris. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages."
+url = "https://archive.org/details/loirelative00unse"
+subject = ["Church and state"]
+extent = "4 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10337"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6p039g75"
+internet_archive = "loirelative00unse"
+openlibrary_edition = "OL26225841M"
+openlibrary_work = "OL17621155W"
+
+[scan]
+file = "loirelative00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loirelative00unse"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Paris (France)"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Lottin l'a^iné, & J.-R. Lottin"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_72169"
+
+[[text]]
+file = "loirelative00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelative00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelative00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelative00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

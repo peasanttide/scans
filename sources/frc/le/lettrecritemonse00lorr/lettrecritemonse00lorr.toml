@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettrecritemonse00lorr"
+type = "pamphlet"
+title = "Lettre écrite à Monseign. l'Archevêque de Sens /"
+language = "fr"
+place = "s.l."
+date = "1788"
+note = "Caption title. Without imprint. About the Assemblées provinciales. Mot in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover. No page numbers."
+url = "https://archive.org/details/lettrecritemonse00lorr"
+subject = ["France. Assemblées provinciales"]
+extent = "[4] p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 5137"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/txxxxxxxx"
+internet_archive = "lettrecritemonse00lorr"
+openlibrary_edition = "OL26212206M"
+openlibrary_work = "OL17608187W"
+
+[scan]
+file = "lettrecritemonse00lorr.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettrecritemonse00lorr"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Lorraine (France)"
+role = "author"
+
+[[resp]]
+name = "Loménie de Brienne, Etienne Charles de, 1727-1794"
+role = "author"
+
+[[resp]]
+name = "Bar (France)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_59527"
+
+[[text]]
+file = "lettrecritemonse00lorr.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrecritemonse00lorr.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrecritemonse00lorr.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrecritemonse00lorr.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

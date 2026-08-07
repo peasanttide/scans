@@ -1,0 +1,58 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: loicontenaut00unse
+page: 2
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 3056
+h: 3980
+dpi: 350
+---
+
+En cas de récidive l’amende sera quadruple , et II y aura lieu à deslllutlon
+pour les notaires.
+
+^ N est pas compris dans la prohibition cî-dessus , le rappel des dûtes ou indica-
+tions contenues dans les actes antérieurs à la publication de la présente loi.
+
+^ II. Sont excep-és de la disposition précédente, les actes où les habitans des pays
+etrangers seraient parties contractantes, dans lesquels actes seulement l’ère an-
+cienne pouria etre rapjielee avec la nouvelle.
+
+III. Les proposés de]a régie de l’enregistreraent, sous peine de demeurer per-
+sonnellement responsables de 1 amende, et de destitution, sont tenus, en enregis-
+tiant les actes de leur ressort, de dresser procès-verbal des contraventions, et
+de Lenvoyei , sans delai, au coriimissaire du Ltrecfoire exécutif près le tribunal
+coriec tionnel de 1 aiiondissernent , qui fera prononcer par le tribunal l’amende
+encourue, prononcée par l’article premier.
+
+IV. Il est détendu d’employer ou de rappeler aucune autre date ou indication
+que celle de 1 annuaire de la République , dans tous ouvrages périodiques , affiches
+ou éci iteaux . quels qu ils soient , à pe‘*ie, contre les auteurs ou imprimeurs, de
+1 amende portée en 1 article premier contre les fonctionnaires publics.
+
+Dans tous les cas , les autorités chargées de la police tiendront la main à ce que
+les aliicnes ou écriteaux en contravention soient enlevés.
+
+\ . Aussitôt après la publuation de la présente loi, les administrations centrales
+diesseionf , si fait n a été, le tableau des foires et marchés de leur département ,
+et es replaceront à des jours fixes de l’annuaire de la République, autres que
+les decadis et jours de fêtes nationales. Cenouveau talileau sera porté sur le registre
+de c haqiie administration municipale, pub iée ei affiché dans chaque commune du
+■épeu tement ; et les foires et marches n’auronl lieu que Les jours indiqués , sous
+les peines portées contre les rassemble meus prohibés par les lois.
+
+Le Diiee toire exécutif veillera à ce que ces cliangemeiis ne nuisent point auji
+leiations resp< ctives des départemens.
+
+'V I. Dans les communes où il y a des raarcliés ou étalages partie iiliers, de
+comrnestibles ou autres objets, à des jours périodiques de l’ère aiu ieuiie, les acIuiL
+lustrations municipales , les bureaux centraux, replaceront pareillement lesdifs
+marches et étal ges à des jours périodiCiues de la décade; et lesdits niarcliés et
+clai. g s n’auront Ireu que les jours indiqués , sous la peine d’une amende de trois
+
+jouruées de travail et au-dessoui, ou d’mi emprisonnement c|ui n’excédera pas
+trois jours. ^
+
+Vil. Les jou's .ndiqués dans 1 artic le précédent et ceux mentionnés en l’aiii-
+ce V, les marchands seront obligés de tenir leurs boutiques ouvertes , sous les

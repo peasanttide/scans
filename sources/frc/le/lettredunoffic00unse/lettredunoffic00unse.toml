@@ -1,0 +1,59 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettredunoffic00unse"
+type = "pamphlet"
+title = "Lettre d'un officier françois"
+language = "fr"
+date = "1746"
+note = "Binder's title: Conquest du roy. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on the cover. Uneven binding. Skewed text. Irregular pagination. Page numbers have been marked or altered. Damaged, stained, torn and/or loose pages. Some text may be lost in the binding."
+url = "https://archive.org/details/lettredunoffic00unse"
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "E 5 .L92705 v. 09 no. 19"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6548sd9n"
+internet_archive = "lettredunoffic00unse"
+
+[scan]
+file = "lettredunoffic00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettredunoffic00unse"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Brusselles"
+role = "publisher"
+
+[[text]]
+file = "lettredunoffic00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredunoffic00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredunoffic00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredunoffic00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

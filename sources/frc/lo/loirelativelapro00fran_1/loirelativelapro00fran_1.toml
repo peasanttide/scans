@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loirelativelapro00fran_1"
+type = "pamphlet"
+title = "Loi relative à la prohibition des agences etablies pour faire des ventes par forme de loterie : du 3 frimaire an VI de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1797"
+note = """Caption title. At head of title: No. 611. Au nom de la République française. Imprint from colophon. "No. 3, 9"--Bottom of p. [1]. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover. Only one numbered page."""
+url = "https://archive.org/details/loirelativelapro00fran_1"
+subject = [
+    "Sales",
+    "Vendors and purchasers",
+    "Lotteries",
+]
+extent = "2 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10349 no. 49"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t78s9w48z"
+internet_archive = "loirelativelapro00fran_1"
+openlibrary_edition = "OL26229895M"
+openlibrary_work = "OL17624926W"
+
+[scan]
+file = "loirelativelapro00fran_1.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loirelativelapro00fran_1"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois, place du Carrousel"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_859886"
+
+[[text]]
+file = "loirelativelapro00fran_1.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativelapro00fran_1.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativelapro00fran_1.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativelapro00fran_1.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

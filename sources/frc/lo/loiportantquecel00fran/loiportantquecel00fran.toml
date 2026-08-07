@@ -1,0 +1,86 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loiportantquecel00fran"
+type = "pamphlet"
+title = "Loi portant que celui qui, poursuivant le divorce, établira, par un acte authentique, que son époux est émigré ou qu'il est résidant en pays étranger ou dans les colonies, sera dispensé de l'assigner au dernier domicile : du 24 vendémiaire, an troisième de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1794"
+note = """Caption title. At head of title: (No. 128*). At right of title: B. no. 74, D. no. 392. Signed: Cambacérès, président; Pelet, Boissy, secrétaires. Imprint from colophon. Not in Martin & Walter. Révolution française. "La Convention nationale ... décrète ..."--P. [1]. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/loiportantquecel00fran"
+subject = [
+    "Divorce",
+    "Formalities (Law)",
+    "Domicile",
+]
+extent = "[1] p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10345 no. 71"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1tf4z84m"
+internet_archive = "loiportantquecel00fran"
+openlibrary_edition = "OL26229538M"
+openlibrary_work = "OL17624571W"
+
+[scan]
+file = "loiportantquecel00fran.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/loiportantquecel00fran"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Cambacérès, Jean Jacques Régis de, 1753-1824"
+role = "author"
+
+[[resp]]
+name = "Boissy d'Anglas, François-Antoine, comte de, 1756-1826"
+role = "author"
+
+[[resp]]
+name = "Pelet de La Lozère, Jean, comte, 1759-1842"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois, place de la Réunion, ci-devant du grand-Carrousel"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_860407"
+
+[[text]]
+file = "loiportantquecel00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiportantquecel00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiportantquecel00fran.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

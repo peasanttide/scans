@@ -1,0 +1,64 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loiquiprononcede00fran_5"
+type = "pamphlet"
+title = "Loi qui prononce des peines contre tout dépositaire qui, ayant disposé d'un dépôt, de le rétablirait pas en effets de la même nature : du 3 fructidor an III de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1795"
+note = """Caption title. At head of title: No. 519.*). At right of title: B. no. 174. D. 1043. "La Convention nationale ... décrète ..."--P. [1]. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover. Only one numbered page."""
+url = "https://archive.org/details/loiquiprononcede00fran_5"
+subject = ["Deposit banking"]
+extent = "2 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 28317"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1ck3j66p"
+internet_archive = "loiquiprononcede00fran_5"
+openlibrary_edition = "OL26226662M"
+openlibrary_work = "OL17621896W"
+
+[scan]
+file = "loiquiprononcede00fran_5.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/loiquiprononcede00fran_5"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Depot des lois, place du Carrousel"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_861905"
+
+[[text]]
+file = "loiquiprononcede00fran_5.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquiprononcede00fran_5.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

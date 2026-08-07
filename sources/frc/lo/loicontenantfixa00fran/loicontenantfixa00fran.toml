@@ -1,0 +1,87 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loicontenantfixa00fran"
+type = "pamphlet"
+title = "Loi contenant fixation du secours provisoire accordé aux réfugiés des départemens compris dans l'arrondissement des armées de l'Ouest, des Cotes de Brest et de Cherbourg : du 26 nivose, an quatrième de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1796"
+note = "Caption title. At head of title: No. 57. Au nom de la République française. At right of title: B. 19, No. 117. Signed: Reubell, président; par le Directoire exécutif, le secrétaire général Lagarde. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."
+url = "https://archive.org/details/loicontenantfixa00fran"
+subject = [
+    "Refugees",
+    "Public welfare",
+]
+extent = "3 p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10347 no. 66"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1tf4z923"
+internet_archive = "loicontenantfixa00fran"
+openlibrary_edition = "OL26230175M"
+openlibrary_work = "OL17625151W"
+
+[scan]
+file = "loicontenantfixa00fran.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loicontenantfixa00fran"
+ppi = 300
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Directoire exécutif"
+role = "author"
+
+[[resp]]
+name = "Reubell, Jean-François, 1747-1807"
+role = "author"
+
+[[resp]]
+name = "Lagarde, Joseph-Jean, baron, 1755-1840"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépot des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_858394"
+
+[[text]]
+file = "loicontenantfixa00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loicontenantfixa00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loicontenantfixa00fran.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loicontenantfixa00fran.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

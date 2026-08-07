@@ -1,0 +1,81 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loisconcernantle00fran_14"
+type = "pamphlet"
+title = "Lois concernant les jurés et les juges des tribunaux criminels : des 10 et 13 germinal an V de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1797"
+note = """Caption title. At head of title: No. 458. Au nom de la République française. Imprint from colophon. "No. 3"--Bottom of p. [1]. Not in Martin & Walter. Révolution française. 1o. Loi portant des peines contre les jurés qui ne se rendraient pas à leur poste -- 2o. Loi portant que dans les affaires criminelles, les juges et jurés doivent rester aux débats commencés, jusqu'au jugement. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."""
+url = "https://archive.org/details/loisconcernantle00fran_14"
+subject = [
+    "Jurors",
+    "Judges",
+    "Courts",
+    "Justice, Administration of",
+]
+extent = "3 p. ; 28 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10348 no. 109"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5q86g377"
+internet_archive = "loisconcernantle00fran_14"
+openlibrary_edition = "OL26230529M"
+openlibrary_work = "OL17625505W"
+
+[scan]
+file = "loisconcernantle00fran_14.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loisconcernantle00fran_14"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois, place du Carrousel, et se trouve dans les villes chefs-lieux de départemens, au bureau de correspondance, du Dépôt des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_859235"
+
+[[text]]
+file = "loisconcernantle00fran_14.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loisconcernantle00fran_14.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loisconcernantle00fran_14.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loisconcernantle00fran_14.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

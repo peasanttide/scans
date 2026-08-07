@@ -1,0 +1,88 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettrespaten00unse_2"
+type = "pamphlet"
+title = "Lettres patentes du roi, qui permettent à la communauté des bourreliers d'emprunter 3000 livres, faisant moitié de celle de 6000 livres par elle offerte au roi pour la marine : données à Versailles le 31 mars 1762"
+language = "fr"
+place = "A Paris"
+date = "1762"
+note = "Caption title. Signed: Louis; countersigned: Phelypeaux. Imprint from colophon. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."
+url = "https://archive.org/details/lettrespaten00unse_2"
+subject = [
+    "France. Marine",
+    "Leather workers",
+    "Debts, Public",
+]
+extent = "3 p. ; 28 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 27457"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3c01bc3x"
+internet_archive = "lettrespaten00unse_2"
+openlibrary_edition = "OL26228509M"
+openlibrary_work = "OL17623578W"
+
+[scan]
+file = "lettrespaten00unse_2.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettrespaten00unse_2"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Sovereign (1715-1774 : Louis XV)"
+role = "author"
+
+[[resp]]
+name = "Louis XV, King of France, 1710-1774"
+role = "author"
+
+[[resp]]
+name = "Maurepas, Jean-Frédéric Phélypeaux, comte de, 1701-1781"
+role = "author"
+
+[[resp]]
+name = "Simon, P. G. (Pierre-Guillaume), 1722-1787"
+role = "publisher"
+
+[[resp]]
+name = "Chez P.G. Simon, imprimeur du Parlement, rue de la Harpe, à l'Hercule"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_867871"
+
+[[text]]
+file = "lettrespaten00unse_2.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrespaten00unse_2.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrespaten00unse_2.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrespaten00unse_2.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

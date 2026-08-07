@@ -1,0 +1,101 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lespectateu00debr"
+type = "pamphlet"
+title = "Le spectateur français, ou, Le nouveau Socrate moderne"
+language = "fr"
+place = "Paris"
+date = "1790"
+note = """Prospectus for "Le spectateur français.". Caption title. "On souscrit chez M. Debray, libraire, au Palais-Royal"--P. 4. Printer statement and publication date from colophon. "Le prix de l'abonnement est de 36 livres pour Paris, & de 42 livres pour la province"--P. 4. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Text extends off of the edge of the page. Text may be lost in the binding. Permanent creases may obscure some text. Title page and cover are combined."""
+url = "https://archive.org/details/lespectateu00debr"
+subject = [
+    'Collection "Le spectateur français."',
+    "Booksellers and bookselling",
+    "Periodicals",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1d no. 96"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5t78388r"
+internet_archive = "lespectateu00debr"
+
+[scan]
+file = "lespectateu00debr.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/lespectateu00debr"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Debray, Nicolas-Amable-Germain,1756-183"
+role = "author"
+
+[[resp]]
+name = "Debray, Nicolas-Amable-Germain, 1756-1830"
+role = "author"
+
+[[resp]]
+name = "Gelé, C. J."
+role = "printer"
+
+[[resp]]
+name = "De l'imprimerie de C.J. Gelé, imprimeur de la maréchaussée de la généralité de Paris, rue du Fouare, n°. 10"
+role = "publisher"
+
+[[text]]
+file = "lespectateu00debr.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lespectateu00debr.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lespectateu00debr.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lespectateu00debr.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lespectateu00debr.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lespectateu00debr.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lespectateu00debr.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lespectateu00debr.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

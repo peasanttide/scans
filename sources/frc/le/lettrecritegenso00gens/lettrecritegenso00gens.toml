@@ -1,0 +1,71 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettrecritegenso00gens"
+type = "pamphlet"
+title = "... Lettre écrite a Gensonné : par un administrateur du département de la Gironde ; imprimée par ordre de la Convention nationale ; du 26 mars 1793."
+language = "fr"
+place = "Paris"
+date = "1793"
+note = "Caption title. Imprint from colophon. At head of title: Convention nationale. About the situation in Gironde. Martin & Walter IV 2: 8788. Scanner's note: No title page found. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/lettrecritegenso00gens"
+extent = "4 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 4943"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8nd11d3n"
+internet_archive = "lettrecritegenso00gens"
+openlibrary_edition = "OL26212841M"
+openlibrary_work = "OL17608808W"
+
+[scan]
+file = "lettrecritegenso00gens.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettrecritegenso00gens"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Gensonné, Armand, 1758-1793"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_54635"
+
+[[text]]
+file = "lettrecritegenso00gens.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrecritegenso00gens.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrecritegenso00gens.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrecritegenso00gens.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,65 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "livresnouveaux00dela"
+type = "pamphlet"
+title = "Livres nouveaux, ou nouvellement acquis, qui se trouvent a Paris, chez Delalain, fils, libraire, quai des Augustins, no. 29"
+language = "fr"
+place = "Paris"
+date = "1802"
+note = """Caption title. Announces the upcoming publication date as 1er germinal for Traité théorique et pratique de la culture des grains by Parmentier and three others, and the date 8 germinal for Notions élémentaires de botanique by Philibert; both were published in 1802. Probably issued later in 1802 than a catalog with the same title (BN. Catalogues de libraires 838) because the earlier catalog annouces coming publications only through 1er and not 8 germinal. Cf. BN. Catalogues de libraires. "Le citoyen Delalain fils continue de faire les commissions avec la même exactitude que son père, et son oncle le citoyen Delalain jeune, dont il a acquis le fonds en totalité"--P. 4. BN. Catalogues de libraires. Livres de fonds -- Livres d'assortimens. With prices. Stamp: Rép. fra. 3 cen. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Text extends off of the edge of the page. Text may be lost in the binding. Permanent creases may obscure some text. Title page and cover are combined."""
+url = "https://archive.org/details/livresnouveaux00dela"
+subject = ["Delalain, Louis-Edme"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 8 no. 17"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4bp5rw0j"
+internet_archive = "livresnouveaux00dela"
+
+[scan]
+file = "livresnouveaux00dela.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/livresnouveaux00dela"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Delalain, Louis-Edme"
+role = "author"
+
+[[resp]]
+name = "Delalain fils"
+role = "publisher"
+
+[[text]]
+file = "livresnouveaux00dela.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "livresnouveaux00dela.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "livresnouveaux00dela.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "livresnouveaux00dela.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

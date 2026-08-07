@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettre00unse_24"
+type = "pamphlet"
+title = "Lettre de l'archevêque d'Embrun à MM. les électeurs du département des Hautes-Alpes, assemblés à Gap pour lui nommer un successeur."
+language = "fr"
+place = "France"
+date = "1791"
+note = "Caption title. By Pierre-Louis de Leyssin. Cf. Martin & Walter. Variant of Martin & Walter. Révolution française, III, 21461. Variant of BM, CXXXVI, column 846. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained and/or loose pages. Uneven binding. Skewed text.  No page numbers."
+url = "https://archive.org/details/lettre00unse_24"
+subject = [
+    "France",
+    "Bishops",
+    "Clergy",
+]
+extent = "[4] p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 21359"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8wb0f307"
+internet_archive = "lettre00unse_24"
+openlibrary_edition = "OL26239424M"
+openlibrary_work = "OL17633963W"
+
+[scan]
+file = "lettre00unse_24.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettre00unse_24"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Leyssin, Pierre-Louis de, 1724-1801"
+role = "author"
+
+[[resp]]
+name = "Catholic Church. Archdiocese of Embrun (France)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_844474"
+
+[[text]]
+file = "lettre00unse_24.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00unse_24.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00unse_24.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00unse_24.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

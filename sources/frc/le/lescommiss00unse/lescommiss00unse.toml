@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lescommiss00unse"
+type = "pamphlet"
+title = "... Les commissaires vérificateurs nommés par le conseil général de la commune, en exécution de la loi du 3 septembre dernier, appellent l citoyen [blank] `a paro^itre .."
+language = "fr"
+place = "s.l."
+date = "1794"
+note = "Caption title. Without imprint. At head of title: Au nom de la loi. At upper left on p.[1]: Municipalité de Bourg. Emprunt forcé. Dated at end: ... le 27 brumaire, l'an second de la République française [17 novembre 1794] .. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages.  No page numbers."
+url = "https://archive.org/details/lescommiss00unse"
+subject = ["Forced loans"]
+extent = "[3] p. ; 24 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9485"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1xd60z3v"
+internet_archive = "lescommiss00unse"
+openlibrary_edition = "OL26222065M"
+openlibrary_work = "OL17617565W"
+
+[scan]
+file = "lescommiss00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lescommiss00unse"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Bourg-en-Bresse (France)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_67529"
+
+[[text]]
+file = "lescommiss00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lescommiss00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lescommiss00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lescommiss00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

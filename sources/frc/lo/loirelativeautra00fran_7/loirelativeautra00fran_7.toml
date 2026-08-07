@@ -1,0 +1,78 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loirelativeautra00fran_7"
+type = "pamphlet"
+title = "Loi relative au traitement des hauts-jurés, des membres du Tribunal de cassation, des juges des tribunaux civils, des commissaires du directoire exécutif, etc. : du 4 brumaire, l'an quatrième de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1795"
+note = """Caption title. At head of title: (No. 635*). At right of title: B. no. 202, D. no. 1210. "La Convention nationale, après avoir entendu le rapport ... décrète"--P. [1]. Signed: Bréard, ex-président; Gleizal, secrétaire; Roger-Ducos, ex-secrétaire. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover. No page numbers."""
+url = "https://archive.org/details/loirelativeautra00fran_7"
+subject = [
+    "France. Cour de cassation",
+    "Judges",
+    "Courts",
+]
+extent = "[1] p. ; 25 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10347 no. 30"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0wq5458r"
+internet_archive = "loirelativeautra00fran_7"
+
+[scan]
+file = "loirelativeautra00fran_7.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/loirelativeautra00fran_7"
+ppi = 300
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Bréard, Jean Jacques, 1750-1840"
+role = "author"
+
+[[resp]]
+name = "Gleizal, Claude, 1761-1833"
+role = "author"
+
+[[resp]]
+name = "Ducos, Roger, 1747-1816"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_858357"
+
+[[text]]
+file = "loirelativeautra00fran_7.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativeautra00fran_7.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

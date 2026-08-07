@@ -1,0 +1,88 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loiportantetabli00fran_15"
+type = "pamphlet"
+title = "Loi portant établissement de receveurs particuliers des contributions : du 27 ventose an VIII de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1800"
+note = """Caption title. Signed: Bonaparte, premier consul. Contre-signé, le secrétaire d'Etat, signé Hugues B. Maret. Imprint from colophon. "No. 9"--Bottom of p. [1]; "No. 1120"--Top of p. [1]. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/loiportantetabli00fran_15"
+subject = [
+    "Tax collection",
+    "Tax administration and procedure",
+    "Finance, Public",
+]
+extent = "3 p. . ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10350 no. 94"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5bc94746"
+internet_archive = "loiportantetabli00fran_15"
+openlibrary_edition = "OL26229820M"
+openlibrary_work = "OL17624852W"
+
+[scan]
+file = "loiportantetabli00fran_15.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loiportantetabli00fran_15"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Consulat (1799-1804)"
+role = "author"
+
+[[resp]]
+name = "Napoleon I, Emperor of the French, 1769-1821"
+role = "author"
+
+[[resp]]
+name = "Maret, Hugues-Bernard, duc de Bassano, 1763-1839"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Depot des lois, place du Carrousel"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_859406"
+
+[[text]]
+file = "loiportantetabli00fran_15.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiportantetabli00fran_15.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiportantetabli00fran_15.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiportantetabli00fran_15.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

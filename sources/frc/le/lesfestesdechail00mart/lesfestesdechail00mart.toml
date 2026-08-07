@@ -1,0 +1,68 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lesfestesdechail00mart"
+type = "pamphlet"
+title = "Les festes de Chaillot"
+language = "fr"
+place = "Paris?"
+date = "1745"
+note = "Binder's title: Campagne du roy, 1745. Caption title. Inlaid. Contains: Air avant la bataille. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover page.  Uneven binding.  Skewed text.   Irregular pagination."
+url = "https://archive.org/details/lesfestesdechail00mart"
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "E 5 .L92705 v. 02 no. 41"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8sc04j74"
+internet_archive = "lesfestesdechail00mart"
+
+[scan]
+file = "lesfestesdechail00mart.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lesfestesdechail00mart"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Martín"
+role = "author"
+
+[[resp]]
+name = "Martín"
+role = "author"
+
+[[resp]]
+name = "La veuve Valleyre"
+role = "publisher"
+
+[[text]]
+file = "lesfestesdechail00mart.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lesfestesdechail00mart.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lesfestesdechail00mart.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lesfestesdechail00mart.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

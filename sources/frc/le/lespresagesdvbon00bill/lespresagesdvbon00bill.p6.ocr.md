@@ -1,0 +1,35 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: lespresagesdvbon00bill
+page: 6
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 2226
+h: 3742
+dpi: 350
+---
+
+X BORB, ONIO, HENRI CI
+.QVARTI ET MARIÆ FILIVS.
+
+S P Qjr I S HVJÇ PIVO AC TV
+WON OBEDIERIT, MALI REV5^
+FATp MISERABILI CORRVET,
+
+LIVD.
+
+LodOVICVS DECIMV S-T E R-
+TIVS A BORBONIOjHENRI-
+CI QJARTI ET SEPTIMÆ
+MARIÆ fILIVS.
+
+DiVE/ANII^O, CELIS TOT VS
+PERAMABILIS HEROS,
+
+A® 0^0 VI FORTI, VIRTVS
+INIMIC A RECED ET.
+
+cyi L 1 r D.
+
+LVPOVICVS DECIMVS-TER-
+T I V S A B O R B q N ,l O , R E X

@@ -1,0 +1,99 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lappel00unse"
+type = "pamphlet"
+title = "L'appel au peuple est un paradoxe /"
+language = "fr"
+place = "Paris"
+date = "1793"
+note = """Caption title. At head of title: Convention nationale. Imprint from colophon. "Imprimé par ordre de la Convention nationale"--P. [1]. "Législation. (No. 206)"--Bottom of p. [1]. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  III, 19825. Scanner's note: No copyright page found. No table-of-contents pages found. Title page is on the cover. Damaged, stained, and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/lappel00unse"
+subject = [
+    "Louis XVI, King of France, 1754-1793",
+    "Referendum",
+]
+extent = "6 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 20842"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9b61t886"
+internet_archive = "lappel00unse"
+openlibrary_edition = "OL26238769M"
+openlibrary_work = "OL17633305W"
+
+[scan]
+file = "lappel00unse.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/lappel00unse"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "La Vicomterie de Saint-Samson, Louis de, 1732-1809"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "Louis XVI Trial and Execution Collection (Newberry Library) ICN"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_500656"
+
+[[text]]
+file = "lappel00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lappel00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lappel00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lappel00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lappel00unse.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lappel00unse.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

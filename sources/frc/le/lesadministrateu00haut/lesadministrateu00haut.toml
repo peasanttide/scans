@@ -1,0 +1,84 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lesadministrateu00haut"
+type = "pamphlet"
+title = "Les administrateurs et procureur-général-syndic, composant le conseil du département de Haute-Garonne, en permanence, aux citoyens composant la garde nationale du département : du 5 février 1793, l'an deuxième de la République française"
+language = "fr"
+place = "A Toulouse"
+date = "1793"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages."
+url = "https://archive.org/details/lesadministrateu00haut"
+subject = [
+    "Haute-Garonne (France). Garde nationale",
+    "Military service, Voluntary",
+    "First Coalition, War of the, 1792-1797",
+]
+extent = "4 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9835 no. 30"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8hf2zh1p"
+internet_archive = "lesadministrateu00haut"
+openlibrary_edition = "OL26223954M"
+openlibrary_work = "OL17619409W"
+
+[scan]
+file = "lesadministrateu00haut.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lesadministrateu00haut"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Haute-Garonne (France). Conseil général"
+role = "author"
+
+[[resp]]
+name = "Besian, Jean-Gabriel"
+role = "publisher"
+
+[[resp]]
+name = "Haute-Garonne (France). Garde nationale"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de J.-G. Besian, place St.-George, no. 825"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_854407"
+
+[[text]]
+file = "lesadministrateu00haut.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lesadministrateu00haut.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lesadministrateu00haut.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lesadministrateu00haut.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,88 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loietarretesdudi00fran"
+type = "pamphlet"
+title = "Loi et arrêtés du Directoire exécutif, concernant le licenciement de la Légion de police : des 5, 9 et 10 floréal, an IV de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1796"
+note = "Caption title. At head of title: No. 157. Au nom de la République française. At right of title: B. 44, No. 363. Signed: Le Tourneur, président; par le Directoire exécutif, le secrétaire général, Lagarde. Imprint from colophon. Not in Martin & Walter. Révolution française. 1o. Loi qui assimile la Légion de police aux autres troupes de la République, et met à la disposition du Directoire exécutif, du 5 floréal, an IV -- 2o. Arrêté du Directoire exécutif, qui licencie les 2e. et 3e. bataillons de la légion de police, du 9 floréal, an IV. B. 44, No. 373 -- 3o. Arrêté du Directoire exécutif, qui licencie le premier bataillon de la Légion de police, du 10 floréal, an IV. B. 44, No. 375 -- 4o. Arrêté du Directoire exécutif, qui supprime le nom de Légion de police, du 10 floréal, an IV. B. 44, No. 376. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."
+url = "https://archive.org/details/loietarretesdudi00fran"
+subject = [
+    "France. Légion de police générale",
+    "France. Armée",
+    "Police administration",
+]
+extent = "4 p. . ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10347 no. 115"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1ng9st9t"
+internet_archive = "loietarretesdudi00fran"
+openlibrary_edition = "OL26230753M"
+openlibrary_work = "OL17625730W"
+
+[scan]
+file = "loietarretesdudi00fran.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loietarretesdudi00fran"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Directoire exécutif"
+role = "author"
+
+[[resp]]
+name = "Le Tourneur, Etienne-François-Louis-Honoré, 1751-1817"
+role = "author"
+
+[[resp]]
+name = "Lagarde, Joseph-Jean, baron, 1755-1840"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois, place du Carrousel"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_858444"
+
+[[text]]
+file = "loietarretesdudi00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loietarretesdudi00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loietarretesdudi00fran.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loietarretesdudi00fran.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

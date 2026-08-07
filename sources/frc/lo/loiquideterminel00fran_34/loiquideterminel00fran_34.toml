@@ -1,0 +1,67 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loiquideterminel00fran_34"
+type = "pamphlet"
+title = "Loi qui détermine la manière de procéder aux réparations des domaines nationaux, lorsqu'elles n'excèdent pas 150 francs : du 20 ventose an V de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1797"
+note = """Caption title. At head of title: No. 442. Au nom de la République française. Imprint from colophon. "No. 10"--Bottom of p. [1]. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover. Only one numbered page."""
+url = "https://archive.org/details/loiquideterminel00fran_34"
+subject = [
+    "Public buildings",
+    "Public works",
+]
+extent = "2 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10348 no. 129"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6353sw69"
+internet_archive = "loiquideterminel00fran_34"
+openlibrary_edition = "OL26229197M"
+openlibrary_work = "OL17624231W"
+
+[scan]
+file = "loiquideterminel00fran_34.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/loiquideterminel00fran_34"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois, place du Carrousel, et se trouve dans les villes chefs-lieux de département, au bureau de correspondance du Dépôt des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_859255"
+
+[[text]]
+file = "loiquideterminel00fran_34.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquideterminel00fran_34.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

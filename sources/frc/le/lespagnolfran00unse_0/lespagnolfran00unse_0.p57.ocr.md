@@ -1,0 +1,10 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: lespagnolfran00unse_0
+page: 57
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 2193
+h: 3625
+dpi: 350
+---

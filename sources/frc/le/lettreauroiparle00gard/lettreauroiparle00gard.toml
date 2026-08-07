@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettreauroiparle00gard"
+type = "pamphlet"
+title = "Lettre au roi : par les gardes-françoises."
+language = "fr"
+place = "s.l."
+date = "1789"
+note = "Caption title. Without imprint. Dated in contemporary ms.: Jlet. [Juillet] 89. Opening sentence: En nous rangeant sous vos étandards, il n'est aucun de nous qui ne se soit entiérement dévoué au soutien du trône & à la défense de la patrie. Martin & Walter IV 2: 8431. Scanner's note: No copyright page found. No table-of-contents pages found. Title and cover page are combined. Damaged, stained and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/lettreauroiparle00gard"
+extent = "4 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 4647"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7cs0wc6n"
+internet_archive = "lettreauroiparle00gard"
+openlibrary_edition = "OL26213869M"
+openlibrary_work = "OL17609831W"
+
+[scan]
+file = "lettreauroiparle00gard.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettreauroiparle00gard"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Gardes nationales de France"
+role = "author"
+
+[[resp]]
+name = "France. Sovereign (1774-1792 : Louis XVI)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_55250"
+
+[[text]]
+file = "lettreauroiparle00gard.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettreauroiparle00gard.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettreauroiparle00gard.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettreauroiparle00gard.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

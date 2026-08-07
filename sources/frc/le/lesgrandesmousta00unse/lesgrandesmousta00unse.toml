@@ -1,0 +1,91 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lesgrandesmousta00unse"
+type = "pamphlet"
+title = "Les grandes moustaches de Paris : ou Réflexions d'un patriote, dit l'avocat des pauvres, et sappeur , d'un district ; au sujet des gens à équipages, qui doivent contribuer au soulagement de ces infortunés."
+language = "fr"
+place = "Paris"
+date = "1790"
+note = """Caption title. Imprint from colophon. "... il est un objet absolument essentiel ... de pourvoir à la subsistance des malheureux mendians, et des pauvres honteux qui habitent dans la capitale": p.[1]. Martin & Walter IV 2: 7343. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover."""
+url = "https://archive.org/details/lesgrandesmousta00unse"
+extent = "8 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 4147"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/txxxxxxxx"
+internet_archive = "lesgrandesmousta00unse"
+openlibrary_edition = "OL26212621M"
+openlibrary_work = "OL17608603W"
+
+[scan]
+file = "lesgrandesmousta00unse.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/lesgrandesmousta00unse"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "De l'imprimerie de Guilhemat et Arnulphe"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_49000"
+
+[[text]]
+file = "lesgrandesmousta00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lesgrandesmousta00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lesgrandesmousta00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lesgrandesmousta00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lesgrandesmousta00unse.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lesgrandesmousta00unse.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lesgrandesmousta00unse.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lesgrandesmousta00unse.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

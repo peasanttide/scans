@@ -1,0 +1,81 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettre00unse_44"
+type = "pamphlet"
+title = "Lettre du roi à l'Assemblée nationale : du 13 septembre 1791."
+language = "fr"
+place = "A Paris"
+date = "1791"
+note = """Caption title. Signed: Louis. Imprint from colophon. Martin & Walter. Révolution française. "Tiré du Logographe, journal national, pour leque on s'abonne chez Le Hodey, rue des Bons-Enfans, no. 42; à raison de 6 liv. 12 sols par mois pour Paris, et 7 liv. 10 sols pour la province"--P. 4. Bibliography: Martin & Walter.  Révolution française,  III, 21805. Scanner's note: No Copyright found. No Table of Contents found. Title on cover page. Damaged, stained pages and cover. <br />."""
+url = "https://archive.org/details/lettre00unse_44"
+subject = [
+    "France",
+    "Constitutional law",
+]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 21614"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t17m5j417"
+internet_archive = "lettre00unse_44"
+
+[scan]
+file = "lettre00unse_44.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettre00unse_44"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "Louis XVI, King of France, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "Lehodey de Saultchevreuil, Étienne"
+role = "publisher"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "Chez Le Hodey, rédacteur de cette feuille, rue des Bons-Enfans, no. 42"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_844844"
+
+[[text]]
+file = "lettre00unse_44.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00unse_44.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00unse_44.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00unse_44.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

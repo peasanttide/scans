@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loiquiappliqueau00fran_2"
+type = "pamphlet"
+title = "Loi qui applique aux ecclésiastiques émigrés l'article aditionnel de la loi du 22 ventôse, an deuxième, etc. : du 15 pluviôse, l'an 3e. de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1795"
+note = """Caption title. At head of title: (No. 277*). At right of title: B. no. 119, D. no. 633. Signed: J.S. Rovere, président; Bouret, Mercier, secrétaires. Imprint from colophon. Not in Martin & Walter. Révolution française. "La Convention nationale ... décrète ..."--P. [1]. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/loiquiappliqueau00fran_2"
+subject = [
+    "Clergy",
+    "Refugees",
+]
+extent = "[1] p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10345 no. 146"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t48q15k2n"
+internet_archive = "loiquiappliqueau00fran_2"
+openlibrary_edition = "OL26229229M"
+openlibrary_work = "OL17624263W"
+
+[scan]
+file = "loiquiappliqueau00fran_2.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/loiquiappliqueau00fran_2"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Rovère, Joseph-Stanislas, 1748-1798"
+role = "author"
+
+[[resp]]
+name = "Bouret, Henri Charles Gaspard, 1752-1805"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_860481"
+
+[[text]]
+file = "loiquiappliqueau00fran_2.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquiappliqueau00fran_2.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

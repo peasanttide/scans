@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loiquiordonnedet00fran"
+type = "pamphlet"
+title = "Loi qui ordonne de tenir rigoureusement la main à l'exécution des lois relatives aux jeunes gens de la réquisition : du 4 vendémiaire, an quatrième de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1795"
+note = """Caption title. At head of title: (No. 572*). At right of title: B. no. 183, D. no. 1122. "La Convention nationale, après avoir entendu le rapport ... décrète"--P. [1]. Signed: P.C.L. Baudin (des Ardennes), président; Poisson, Auger, secrétaires. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover. No page numbers."""
+url = "https://archive.org/details/loiquiordonnedet00fran"
+subject = [
+    "Draftees",
+    "Public safety",
+    "Criminal justice, Administration of",
+]
+extent = "[1] p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10347 no. 3"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t80k7hz1r"
+internet_archive = "loiquiordonnedet00fran"
+openlibrary_edition = "OL26230409M"
+openlibrary_work = "OL17625385W"
+
+[scan]
+file = "loiquiordonnedet00fran.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/loiquiordonnedet00fran"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Baudin, 1748-1799"
+role = "author"
+
+[[resp]]
+name = "Poisson, Jacques, 1746-1821"
+role = "author"
+
+[[resp]]
+name = "Auger, Antoine-Augustin, 1761-1836"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_858329"
+
+[[text]]
+file = "loiquiordonnedet00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquiordonnedet00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

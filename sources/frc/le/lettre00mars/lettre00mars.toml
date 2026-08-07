@@ -1,0 +1,107 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettre00mars"
+type = "pamphlet"
+title = "Lettre /"
+language = "fr"
+place = "A Marseille"
+date = "1790"
+note = """Caption title. Imprint from colophon. "Adresse de la Garde nationale de Marseille aux officiers, bas-officiers & gardes nationaux des villes de Grenoble & d'Orange. Marseille, le 3 avril 1790": p.5-8. Not in Martin & Walter. Scanner's note: No title page found. No copyright page found. No table-of-contents pages found."""
+url = "https://archive.org/details/lettre00mars"
+extent = "8 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 4813"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2b90b598"
+internet_archive = "lettre00mars"
+openlibrary_edition = "OL26213136M"
+openlibrary_work = "OL17609110W"
+
+[scan]
+file = "lettre00mars.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/lettre00mars"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Marseille (France). Garde nationale"
+role = "author"
+
+[[resp]]
+name = "Lafayette, Marie Joseph Paul Yves Roch Gilbert Du Motier, marquis de, 1757-1834"
+role = "author"
+
+[[resp]]
+name = "Grenoble (France). Garde nationale"
+role = "author"
+
+[[resp]]
+name = "Orange (France). Garde nationale"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de J. Mossy, père & fils"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_55554"
+
+[[text]]
+file = "lettre00mars.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00mars.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00mars.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00mars.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00mars.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00mars.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00mars.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00mars.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

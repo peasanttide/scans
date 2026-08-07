@@ -1,0 +1,86 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loisconcernant00unse"
+type = "pamphlet"
+title = "Lois concernant l'amnistie accordée aux militaires, et les congés à delivrer dans chaque corps des différentes armes : du 23 thermidor, an troisième de la République française une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1795"
+note = """Caption title. At head of title: (No. 502.*). "La Convention nationale ... décrète ..."--P. [1]. Imprint from colophon. Not in Martin & Walter. Révolution française. 1o. Loi qui étend aux militaires contre lesquels il a été prononce des peines pour fait de désertion dans l'intérieur, l'amnistie accordée par la loi du 10 thermidor à ceux qui avaient abandonné leurs drapeaux : du 23 thermidor, an troisième de la République française une et indivisible : B. no. 171. D. no. 1020 -- 2o. Loi portant que dans chaque corps des différentes armes, il pourra être accordé des congés à raison de deux hommes par cent présens aux drapeaux : du 23 thermidor, an troisième de la République française une et indivisible : B. no. 171. D. no. 1021. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."""
+url = "https://archive.org/details/loisconcernant00unse"
+subject = [
+    "France. Armée",
+    "Military deserters",
+    "Amnesty",
+]
+extent = "4 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 28040"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2993cp3b"
+internet_archive = "loisconcernant00unse"
+
+[scan]
+file = "loisconcernant00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loisconcernant00unse"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Mero, J. G., former owner. ICN"
+role = "author"
+
+[[resp]]
+name = "Mero, Peter G. S., 1909 or 1910-1994, former owner. ICN"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Depot des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_861895"
+
+[[text]]
+file = "loisconcernant00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loisconcernant00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loisconcernant00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loisconcernant00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

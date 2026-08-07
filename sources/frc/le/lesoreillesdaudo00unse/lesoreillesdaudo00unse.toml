@@ -1,0 +1,95 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lesoreillesdaudo00unse"
+type = "pamphlet"
+title = "Les oreilles d'Audoin : ou les crimes des meneurs des Jacobins."
+language = "fr"
+place = "s.l."
+date = "1792"
+note = """Caption title. Without imprint. "Extrait du Journal des débats et des décrets.". Martin & Walter IV 2: 11620. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on cover page. Damaged, stained and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/lesoreillesdaudo00unse"
+subject = [
+    "Audouin, Pierre Jean, 1764-",
+    "Jacobins",
+]
+extent = "7 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 6241"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0tr10k76"
+internet_archive = "lesoreillesdaudo00unse"
+openlibrary_edition = "OL26218404M"
+openlibrary_work = "OL17614110W"
+
+[scan]
+file = "lesoreillesdaudo00unse.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/lesoreillesdaudo00unse"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_59718"
+
+[[text]]
+file = "lesoreillesdaudo00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lesoreillesdaudo00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lesoreillesdaudo00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lesoreillesdaudo00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lesoreillesdaudo00unse.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lesoreillesdaudo00unse.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lesoreillesdaudo00unse.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lesoreillesdaudo00unse.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loisrelativesaux00fran_4"
+type = "pamphlet"
+title = "Lois relatives aux pensionnaires de la ci-devant liste civile"
+language = "fr"
+place = "A Paris"
+date = "1795"
+note = """Caption title. At head of title: (No. 284*). At right of title: B. no. 122, D. no. 645. Signed: P. Barras, président; Bouret, Mercier, secrétaires. Imprint from colophon. Not in Martin & Walter. Révolution française. "La Convention nationale ... décrète ..."--P. [1]. Loi portant que les veuves et enfans, etc. dont les pensions accordées en considération des services de leurs parens dans la maison du ci-devant roi, ont été supprimées par la loi du 17 germinal, recevront, à titre de secours annuel, le montant de leurs pensions, s'il n'excède point la somme de 400 liv., de 24 nivôse, l'an troisième ... -- Loi portant que les personnes dont les pensions accordées en considération des services de leurs maris ou parens dans la maison du ci-devant roi, ont été supprimées par la loi du 17 germinal, recevront un secours annuel, du 18 pluviôse, l'an troisième ... B. no. 122, D. no. 648. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/loisrelativesaux00fran_4"
+subject = [
+    "Pensions",
+    "Civil list",
+    "Public welfare",
+]
+extent = "2 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10345 no. 134"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5p89f59h"
+internet_archive = "loisrelativesaux00fran_4"
+openlibrary_edition = "OL26229375M"
+openlibrary_work = "OL17624409W"
+
+[scan]
+file = "loisrelativesaux00fran_4.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/loisrelativesaux00fran_4"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Barras, Paul, vicomte de, 1755-1829"
+role = "author"
+
+[[resp]]
+name = "Bouret, Henri Charles Gaspard, 1752-1805"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_860470"
+
+[[text]]
+file = "loisrelativesaux00fran_4.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loisrelativesaux00fran_4.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

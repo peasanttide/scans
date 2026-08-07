@@ -1,0 +1,69 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lusagedutemps00laur"
+type = "pamphlet"
+title = "A l’usage du temps."
+language = "fr"
+place = "Grenoble"
+date = "1788"
+note = "Scanner's note: Title and cover combined, no physical cover. Stained pages with smudged and faded print. Print is close to the binding and skewed on some pages.  No copyright page found. No page numbers found."
+url = "https://archive.org/details/lusagedutemps00laur"
+extent = "4 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 6"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4zh04z3d"
+internet_archive = "lusagedutemps00laur"
+
+[scan]
+file = "lusagedutemps00laur.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lusagedutemps00laur"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Laur, chevalier de"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v4=1&BBRecID=34348"
+
+[[text]]
+file = "lusagedutemps00laur.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "lusagedutemps00laur.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "lusagedutemps00laur.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "lusagedutemps00laur.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"

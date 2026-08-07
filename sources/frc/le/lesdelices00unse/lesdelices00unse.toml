@@ -1,0 +1,70 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lesdelices00unse"
+type = "pamphlet"
+title = "Les délices des sans-culottes."
+language = "fr"
+place = "France?"
+date = "1792"
+note = "Caption title. Not in Martin & Walter. Révolution française. Hymne des Marseillois -- Chanson patriotique : air, Aussitôt que la lumière -- Autre chanson patriotique. Scanner's note: Title page and cover are combined. Damaged, stained, marked and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/lesdelices00unse"
+subject = ["Revolutionary ballads and songs"]
+extent = "4 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 24719"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7xm3ks8n"
+internet_archive = "lesdelices00unse"
+
+[scan]
+file = "lesdelices00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lesdelices00unse"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Rouget de Lisle, Claude Joseph, 1760-1836. Marseillaise"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_850068"
+
+[[text]]
+file = "lesdelices00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lesdelices00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lesdelices00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lesdelices00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

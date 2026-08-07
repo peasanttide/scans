@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lapotaire00unse"
+type = "pamphlet"
+title = "Lapotaire, membre du Conseil des anciens, député par le département du Morbihan, a ses concitoyens, sur la révolution des 18 et 19 brumaire."
+language = "fr"
+place = "Paris"
+date = "1799"
+note = "Caption title. At head of title: Paris, le 21 brumaire an 8 de la République française. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  III, 19263. Scanner's note: No title page found. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/lapotaire00unse"
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 20651"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9w148t08"
+internet_archive = "lapotaire00unse"
+openlibrary_edition = "OL26235312M"
+openlibrary_work = "OL17629897W"
+
+[scan]
+file = "lapotaire00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lapotaire00unse"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Lapotaire, Louis-Jean-Gabriel, 1740-1810"
+role = "author"
+
+[[resp]]
+name = "Baudouin, François-Jean, 1759-1838"
+role = "publisher"
+
+[[resp]]
+name = "Baudouin, imprimeur du Corps législatif, place du Carrousel, no. 662"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_843385"
+
+[[text]]
+file = "lapotaire00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lapotaire00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lapotaire00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lapotaire00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

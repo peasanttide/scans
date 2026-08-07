@@ -1,0 +1,68 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lecridesrentiers00unse"
+type = "pamphlet"
+title = "Le cri des rentiers."
+language = "fr"
+place = "s.l."
+date = "1790"
+note = "Caption title. Without imprint. Martin & Walter IV 2: 4905 (which specifies: Demandant que les reçus soient admis en totalité pour le paiement des biens nationaux). Scanner's note: No copyright. No table of contents. Title on cover. Damaged, stained pages and cover."
+url = "https://archive.org/details/lecridesrentiers00unse"
+subject = ["Fiscal policy"]
+extent = "4 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 2623"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4km4bf58"
+internet_archive = "lecridesrentiers00unse"
+openlibrary_edition = "OL26209268M"
+openlibrary_work = "OL17605520W"
+
+[scan]
+file = "lecridesrentiers00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lecridesrentiers00unse"
+ppi = 400
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_46607"
+
+[[text]]
+file = "lecridesrentiers00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lecridesrentiers00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lecridesrentiers00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lecridesrentiers00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

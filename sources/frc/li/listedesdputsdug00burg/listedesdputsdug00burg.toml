@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "listedesdputsdug00burg"
+type = "pamphlet"
+title = "Liste des députés du gouvernement de Bourgogne, aux Etats- généraux"
+language = "fr"
+place = "s.l."
+date = "1789"
+note = "Caption title. Without imprint. Not in Martin & Walter. Scanner's note: No title page found. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/listedesdputsdug00burg"
+subject = ["France. Etats généraux"]
+extent = "[3] p. ; 24 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9488"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0ht7rb6v"
+internet_archive = "listedesdputsdug00burg"
+openlibrary_edition = "OL26222157M"
+openlibrary_work = "OL17617658W"
+
+[scan]
+file = "listedesdputsdug00burg.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/listedesdputsdug00burg"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Burgundy (France)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_67574"
+
+[[text]]
+file = "listedesdputsdug00burg.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "listedesdputsdug00burg.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "listedesdputsdug00burg.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "listedesdputsdug00burg.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

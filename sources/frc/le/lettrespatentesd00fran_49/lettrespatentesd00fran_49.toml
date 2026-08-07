@@ -1,0 +1,93 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettrespatentesd00fran_49"
+type = "pamphlet"
+title = "Lettres patentes du roi, sur le décret de l'Assemblée nationale, qui autorise la municipalité de Paris à faire évacuer le couvent des récollets du faubourg Saint-Laurent, & celui des dominicains de la rue Saint-Jacques, pour y établir des dépôts de mendicité ou ateliers de charité : données à Saint-Cloud, le 18 juin 1790 : transcrits en la Chambre des comptes, le 22 desdits mois & an"
+language = "fr"
+place = "A Paris"
+date = "1790"
+note = "Caption title. Signed: Louis. Et plus bas, par le roi, de Saint-Priest. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."
+url = "https://archive.org/details/lettrespatentesd00fran_49"
+subject = [
+    "Almshouses",
+    "Church property",
+    "Convents",
+    "Secularization",
+]
+extent = "3 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10326 no. 35"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t46q73383"
+internet_archive = "lettrespatentesd00fran_49"
+openlibrary_edition = "OL26225388M"
+openlibrary_work = "OL17620710W"
+
+[scan]
+file = "lettrespatentesd00fran_49.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettrespatentesd00fran_49"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Sovereign (1774-1792 : Louis XVI)"
+role = "author"
+
+[[resp]]
+name = "Louis XVI, King of France, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "Saint-Priest, François-Emmanuel Guignard, comte de, 1735-1821"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "Imprimerie royale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie royale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_851142"
+
+[[text]]
+file = "lettrespatentesd00fran_49.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrespatentesd00fran_49.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrespatentesd00fran_49.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrespatentesd00fran_49.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

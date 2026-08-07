@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettre00pari_1"
+type = "pamphlet"
+title = "Lettre /"
+language = "fr"
+place = "A Rouen"
+date = "1789"
+note = "Caption title. Imprint from colophon. Dated on p.3: Fait à Paris ... le vingt-neuf juillet mil sept cent quatre-vingt-neuf. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on cover page. Damaged, stained and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/lettre00pari_1"
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 6415"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t08w8h96d"
+internet_archive = "lettre00pari_1"
+openlibrary_edition = "OL26218533M"
+openlibrary_work = "OL17614239W"
+
+[scan]
+file = "lettre00pari_1.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettre00pari_1"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Paris (France). Bureau des subsistances"
+role = "author"
+
+[[resp]]
+name = "Comité des volontaires-patriotes de Rouen"
+role = "author"
+
+[[resp]]
+name = "Rouen (France)"
+role = "author"
+
+[[resp]]
+name = "De l'imp. de Pierre Ferrand, imprimeur du Comité des volontaires-patriotes de la même ville"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_58348"
+
+[[text]]
+file = "lettre00pari_1.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00pari_1.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00pari_1.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00pari_1.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

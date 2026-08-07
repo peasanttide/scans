@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loiinterpretativ00fran_5"
+type = "pamphlet"
+title = "Loi interprétative de celle du 2 thermidor qui astreint les fermiers ou locataires des biens ruraux à prix d'argent, de payer aux propriétaires ou bailleurs moitié de leurs fermes et grains : du 3 brumaire an IV de la République française, une et indivisible"
+language = "fr"
+place = "Paris"
+date = "1795"
+note = """Caption title. At head of title: (No. 624*). At right of title: B. no. 199, D. 1094. "La Convention nationale, après avoir entendu le rapport ... décrète ce qui suit"--P. [1]. Signed: Genissieu, président; Pons (de Verdun), Alex. Villetard, secrétaires. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover. Only one numbered page."""
+url = "https://archive.org/details/loiinterpretativ00fran_5"
+subject = [
+    "Farmers",
+    "Payment",
+    "Land tenure",
+]
+extent = "2 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10347 no. 27"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2v45w33x"
+internet_archive = "loiinterpretativ00fran_5"
+openlibrary_edition = "OL26230121M"
+openlibrary_work = "OL17625097W"
+
+[scan]
+file = "loiinterpretativ00fran_5.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/loiinterpretativ00fran_5"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Génissieu, Jean-Joseph-Victor, 1749-1804"
+role = "author"
+
+[[resp]]
+name = "Pons de Verdun, Philippe-Laurent, 1759-1844"
+role = "author"
+
+[[resp]]
+name = "Villetard, Alexandre-Edme-Pierre, 1755-1824"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Depot des lois, place du Carrousel"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_858354"
+
+[[text]]
+file = "loiinterpretativ00fran_5.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiinterpretativ00fran_5.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

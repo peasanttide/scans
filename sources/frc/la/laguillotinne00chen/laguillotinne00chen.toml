@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "laguillotinne00chen"
+type = "pamphlet"
+title = "La guillotinne /"
+language = "fr"
+place = "Paris"
+note = "Caption title. Numbered at head of music: 810. Not in Martin & Walter. Révolution française. Stamp: Rep. fra. Scanner's note: No page numbers found. No title page found. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/laguillotinne00chen"
+subject = ["Rigaudons"]
+extent = "1 score ([2] leaves) ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 16228"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6h182225"
+internet_archive = "laguillotinne00chen"
+openlibrary_edition = "OL26205748M"
+openlibrary_work = "OL17602047W"
+
+[scan]
+file = "laguillotinne00chen.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/laguillotinne00chen"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Chenu"
+role = "author"
+
+[[resp]]
+name = "Frère, Jacques-Charles, 1750-1828"
+role = "bookseller"
+
+[[resp]]
+name = "Chez Frere, passage du Saumon"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_833615"
+
+[[text]]
+file = "laguillotinne00chen.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "laguillotinne00chen.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "laguillotinne00chen.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "laguillotinne00chen.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,56 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lavilledesoisson00roy1"
+type = "pamphlet"
+title = "La ville de Soissons a la reine"
+language = "fr"
+place = "Soissons"
+date = "1744"
+note = "Binder's title: Conquest du roy. Scanner's note: Title is on the cover. Uneven binding. Skewed text. Irregular pagination. Page numbers have been marked or altered. Damaged, stained, torn and/or loose pages."
+url = "https://archive.org/details/lavilledesoisson00roy1"
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "E 5 .L92705 v. 09 no. 06"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t15n28r22"
+internet_archive = "lavilledesoisson00roy1"
+
+[scan]
+file = "lavilledesoisson00roy1.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/lavilledesoisson00roy1"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Roy,1683-1764"
+role = "author"
+
+[[resp]]
+name = "Roy, 1683-1764"
+role = "author"
+
+[[resp]]
+name = "La veuve de C. Courtois"
+role = "publisher"
+
+[[text]]
+file = "lavilledesoisson00roy1.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lavilledesoisson00roy1.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

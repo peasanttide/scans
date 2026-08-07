@@ -1,0 +1,96 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettreduministre00dupo"
+type = "pamphlet"
+title = "Lettre du ministre de la guerre, sur l'affaire de M. de Moreton : imprimée par ordre de l'Assemblée nationale."
+language = "fr"
+place = "A Paris"
+date = "1791"
+note = """Caption title. Signed at end: Duportail. Imprint from colophon. Publication date from Martin & Walter. "Procès-verbal. No. 760"--Bottom of p. [1]. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  II, 12268. Scanner's note: No copyright page found. No table-of-contents pages found. Damaged, stained pages and cover. Title on cover page."""
+url = "https://archive.org/details/lettreduministre00dupo"
+subject = [
+    "Moreton-Chabrillan, Jacques Henri Sébastien César, comte de, 1752-1793",
+    "France. Armée",
+    "Military discharge",
+]
+extent = "6 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 18096"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2m66gs1v"
+internet_archive = "lettreduministre00dupo"
+openlibrary_edition = "OL26196186M"
+openlibrary_work = "OL17592946W"
+
+[scan]
+file = "lettreduministre00dupo.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/lettreduministre00dupo"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Duportail, Antoine-Jean-Louis Le Bègue de Presle, 1743-1802"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale législative (1791-1792)"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_837651"
+
+[[text]]
+file = "lettreduministre00dupo.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettreduministre00dupo.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettreduministre00dupo.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettreduministre00dupo.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettreduministre00dupo.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettreduministre00dupo.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

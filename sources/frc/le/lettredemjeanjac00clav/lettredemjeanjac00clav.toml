@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettredemjeanjac00clav"
+type = "pamphlet"
+title = "Lettre de M. Jean-Jacques Clavière, aux représentans de la nation."
+language = "fr"
+place = "A Paris"
+date = "1790"
+note = """Caption title. "Imprimée par ordre de l'Assemblée nationale"--P. [1]. "Paris, le 16 mai 1790"--P. [1]. Imprint from colophon. Martin & Walter. Révolution française. Letter from the son of a French citizen, offering a financial gift to the government (as if he were paying taxes, even though he doesn't live in France). Bibliography: Martin & Walter.  Révolution française,  I, 7648. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover."""
+url = "https://archive.org/details/lettredemjeanjac00clav"
+subject = [
+    "France. Assemblée nationale constituante (1789-1791)",
+    "Patriotism",
+]
+extent = "3 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 16320"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4sj6g990"
+internet_archive = "lettredemjeanjac00clav"
+openlibrary_edition = "OL26198299M"
+openlibrary_work = "OL17595003W"
+
+[scan]
+file = "lettredemjeanjac00clav.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettredemjeanjac00clav"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Clavière, Jean-Jacques"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_834081"
+
+[[text]]
+file = "lettredemjeanjac00clav.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredemjeanjac00clav.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredemjeanjac00clav.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredemjeanjac00clav.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

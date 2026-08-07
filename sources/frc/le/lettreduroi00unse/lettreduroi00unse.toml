@@ -1,0 +1,91 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettreduroi00unse"
+type = "pamphlet"
+title = "Lettre du roi, portée à l'Assemblée nationale par le ministre de la justice, le 13 septembre 1791"
+language = "fr"
+place = "A Paris"
+date = "1791"
+note = "Caption title. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française, III, 21806. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/lettreduroi00unse"
+subject = [
+    "France",
+    "Constitutional law",
+]
+extent = "4 p. ; 24 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 26929"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2t48tq4g"
+internet_archive = "lettreduroi00unse"
+openlibrary_edition = "OL26226699M"
+openlibrary_work = "OL17621932W"
+
+[scan]
+file = "lettreduroi00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettreduroi00unse"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Louis XVI, King of France,1754-1793"
+role = "author"
+
+[[resp]]
+name = "Louis XVI, King of France, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "Lessart, Claude-Antoine Valdec de, 1741 or 1742-1792"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "Imprimerie royale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie royale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_866675"
+
+[[text]]
+file = "lettreduroi00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettreduroi00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettreduroi00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettreduroi00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

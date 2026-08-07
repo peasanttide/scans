@@ -1,0 +1,84 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loirelativeauxpr00fran_1"
+type = "pamphlet"
+title = "Loi relative aux prisonniers de guerre : donnée à Paris, le 2 août 1792, l'an 4e. de la liberté"
+language = "fr"
+place = "A Paris"
+date = "1792"
+note = """Caption title. At head of title: No. 1947. "Décret de l'Assemblée nationale, du 1er août 1792, l'an quatrième de la liberté"--P. [1]. Signed: Louis .. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."""
+url = "https://archive.org/details/loirelativeauxpr00fran_1"
+subject = ["Prisoners of war"]
+extent = "3 p. ; 28 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10344 no. 2"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5k98bh89"
+internet_archive = "loirelativeauxpr00fran_1"
+openlibrary_edition = "OL26230585M"
+openlibrary_work = "OL17625561W"
+
+[scan]
+file = "loirelativeauxpr00fran_1.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loirelativeauxpr00fran_1"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Sovereign (1774-1792 : Louis XVI)"
+role = "author"
+
+[[resp]]
+name = "Louis XVI, King of France, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale législative (1791-1792)"
+role = "author"
+
+[[resp]]
+name = "Imprimerie royale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie royale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_858575"
+
+[[text]]
+file = "loirelativeauxpr00fran_1.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativeauxpr00fran_1.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativeauxpr00fran_1.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativeauxpr00fran_1.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

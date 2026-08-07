@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loiquimaintientp00fran_1"
+type = "pamphlet"
+title = "Loi qui maintient provisoirement dans la jouissance de leurs acquisitions les possesseurs de domaines nationaux qui ont été troublés par voie judicaire ou autrement : du 29 vendémiaire, an quatrième de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1795"
+note = """Caption title. At head of title: (No. 619*). At right of title: B. no. 194, D. 1185. "La Convention nationale décrète ... "--P. [1]. Signed: Genissieu, président; J.F. Philippe Delleville, Auger, Pons (de Verdun), secrétaires. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/loiquimaintientp00fran_1"
+subject = [
+    "Land tenure",
+    "Government sale of real property",
+]
+extent = "[1] p. ; 28 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 28371"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t01z9br1n"
+internet_archive = "loiquimaintientp00fran_1"
+openlibrary_edition = "OL26228421M"
+openlibrary_work = "OL17623489W"
+
+[scan]
+file = "loiquimaintientp00fran_1.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/loiquimaintientp00fran_1"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Génissieu, Jean-Joseph-Victor, 1749-1804"
+role = "author"
+
+[[resp]]
+name = "Philippe-Delleville, Jean-François, 1740-1828"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_858348"
+
+[[text]]
+file = "loiquimaintientp00fran_1.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquimaintientp00fran_1.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,60 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettreduroiam00loui"
+type = "pamphlet"
+title = "Lettre du roi à M. l'amiral : concernant le jugement des prises faites les corsaires que les Etats-Unis d'Amérique, arment dans les ports de France ; du Août 1780."
+language = "fr"
+place = "A Paris"
+date = "1780"
+url = "https://archive.org/details/lettreduroiam00loui"
+subject = ["Privateering"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case F 39 .328 no. 106"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6n07595h"
+internet_archive = "lettreduroiam00loui"
+
+[scan]
+file = "lettreduroiam00loui.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/lettreduroiam00loui"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "LouisXVI,King of France,1754-1793"
+role = "author"
+
+[[resp]]
+name = "Louis XVI, King of France, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "France. Sovereign (1774-1792 : Louis XVI)"
+role = "author"
+
+[[resp]]
+name = "de l'Imprimerie Royale"
+role = "publisher"
+
+[[text]]
+file = "lettreduroiam00loui.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettreduroiam00loui.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

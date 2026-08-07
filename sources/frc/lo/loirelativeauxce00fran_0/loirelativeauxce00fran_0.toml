@@ -1,0 +1,78 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loirelativeauxce00fran_0"
+type = "pamphlet"
+title = "Loi relative aux certificats de vie des personnes non françaises habitant les pays qui sont en guerre avec la République : du 11 fructidor, l'an deuxième de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1794"
+note = """Caption title. At head of title: (No. 70*-2). At right of title: B. no. 49, D. 256. Signed: Merlin (de Thionville), président; Bentabolle, Guffroy, secrétaires. Imprint from colophon. Not in Martin & Walter. Révolution française. "La Convention nationale ... décrète ..."--P. [1]. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/loirelativeauxce00fran_0"
+subject = [
+    "France. Trésorerie nationale",
+    "Identification cards",
+    "Debts, External",
+]
+extent = "[1] p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10345 no. 41"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2v45w21h"
+internet_archive = "loirelativeauxce00fran_0"
+
+[scan]
+file = "loirelativeauxce00fran_0.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/loirelativeauxce00fran_0"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Merlin de Thionville, Antoine-Christophe, 1762-1833"
+role = "author"
+
+[[resp]]
+name = "Guffroy, A. B. J. (Armand Benoît Joseph), 1740-1800"
+role = "author"
+
+[[resp]]
+name = "Bentabole, Pierre-Louis, 1753-1798"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois, place de la Réunion, ci-devant du grand Carrousel"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_860377"
+
+[[text]]
+file = "loirelativeauxce00fran_0.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativeauxce00fran_0.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,77 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loiquiordonnelev00fran"
+type = "pamphlet"
+title = "Loi qui ordonne le versement à la monnaie de tous les effets en or, vermiel, argent, etc, qui restent encore déposés à la trésorerie nationale ou dans les magasins nationaux : du 13 thermidor an troisième de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1795"
+note = """Caption title. At head of title: (No. 483*). At right of title: B. no. 160. D. 987. "La Convention nationale ...décrète ce qui suit"--P. [1]. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover. Only one numbered page."""
+url = "https://archive.org/details/loiquiordonnelev00fran"
+subject = [
+    "Debts, Public",
+    "Luxuries",
+]
+extent = "2 p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10346 no. 116"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4zh1sg2w"
+internet_archive = "loiquiordonnelev00fran"
+
+[scan]
+file = "loiquiordonnelev00fran.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loiquiordonnelev00fran"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois, place du Carrousel"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_861882"
+
+[[text]]
+file = "loiquiordonnelev00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquiordonnelev00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquiordonnelev00fran.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquiordonnelev00fran.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

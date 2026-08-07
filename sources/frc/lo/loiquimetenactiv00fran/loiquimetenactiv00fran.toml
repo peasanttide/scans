@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loiquimetenactiv00fran"
+type = "pamphlet"
+title = "Loi qui met en activité, jour & nuit, l'Imprimerie de l'Assemblée nationale, & l'Imprimerie ci-devant royale : donnée à Paris, le 19 août 1792, l'an 4e. de la liberté"
+language = "fr"
+place = "A Paris"
+date = "1792"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover. Only one numbered page."
+url = "https://archive.org/details/loiquimetenactiv00fran"
+subject = [
+    "Imprimerie nationale (France)",
+    "Imprimerie royale (France)",
+    "Government publicity",
+]
+extent = "2 p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10344 no. 35"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7wm6f845"
+internet_archive = "loiquimetenactiv00fran"
+openlibrary_edition = "OL26230747M"
+openlibrary_work = "OL17625724W"
+
+[scan]
+file = "loiquimetenactiv00fran.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loiquimetenactiv00fran"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Assemblée nationale législative (1791-1792)"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale du Louvre"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_858609"
+
+[[text]]
+file = "loiquimetenactiv00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquimetenactiv00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquimetenactiv00fran.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquimetenactiv00fran.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

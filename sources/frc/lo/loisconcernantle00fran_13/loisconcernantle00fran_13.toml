@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loisconcernantle00fran_13"
+type = "pamphlet"
+title = "Lois concernant les contributions des habitans des départemens dévastés par la guerre intérieure ou extérieure : du 26 pluviose, an V de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1797"
+note = """Caption title. At head of title: No. 418. Au nom de la République française. Imprint from colophon. "No. 4, 9"--Bottom of p. [1]. Not in Martin & Walter. Révolution française. 1o. Loi qui accorde une décharge sur la contribution personnelle, aux habitans des département[s] qui ont été victimes de la guerre -- 2o. Loi qui accorde une décharge sur la contribution foncière aux citoyens dont les propriétés ont été incendiées ou devastées. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."""
+url = "https://archive.org/details/loisconcernantle00fran_13"
+subject = [
+    "War victims",
+    "Tax exemption",
+]
+extent = "4 p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10348 no. 92"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t82k1kq7p"
+internet_archive = "loisconcernantle00fran_13"
+openlibrary_edition = "OL26230528M"
+openlibrary_work = "OL17625504W"
+
+[scan]
+file = "loisconcernantle00fran_13.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loisconcernantle00fran_13"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois, place du Carrous[e]l, et se trouve dans les villes chefs-lieux de département, au bureau de correspondance du Dépôt des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_859218"
+
+[[text]]
+file = "loisconcernantle00fran_13.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loisconcernantle00fran_13.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loisconcernantle00fran_13.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loisconcernantle00fran_13.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

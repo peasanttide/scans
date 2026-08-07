@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loiquiabrogecell00fran_1"
+type = "pamphlet"
+title = "Loi qui abroge celle du 21 floréal an IV, contenant des mesures de sûreté publique : du 9 prairial an V de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1797"
+note = """Caption title. At head of title: No. 495. Au nom de la République française. Imprint from colophon. "No. 3"--Bottom of p. [1]. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover. Only one numbered page."""
+url = "https://archive.org/details/loiquiabrogecell00fran_1"
+subject = [
+    "War and emergency powers",
+    "Constitutional law",
+]
+extent = "2 p. ; 28 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10348 no. 121"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t77t2v93r"
+internet_archive = "loiquiabrogecell00fran_1"
+openlibrary_edition = "OL26230120M"
+openlibrary_work = "OL17625096W"
+
+[scan]
+file = "loiquiabrogecell00fran_1.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loiquiabrogecell00fran_1"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Depot des lois, place du Carrousel, et se trouve dans les villes chefs-lieux de département, au bureau de correspondance du Dépôt des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_859247"
+
+[[text]]
+file = "loiquiabrogecell00fran_1.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquiabrogecell00fran_1.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquiabrogecell00fran_1.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquiabrogecell00fran_1.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

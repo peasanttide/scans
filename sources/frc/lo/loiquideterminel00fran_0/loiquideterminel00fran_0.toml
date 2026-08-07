@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loiquideterminel00fran_0"
+type = "pamphlet"
+title = "Loi qui détermine les formes à suivre dans le jugement des préposés à la garde des détenus, qui, d'après l'évasion de ceux-ci, seraient dans le cas des poursuites ordonnées par la loi du 13 brumaire : du 3 messidor, l'an deuxième de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1794"
+note = """Caption title. At head of title: (No. 14*). At right of title: B. no. 8, D. 41. Signed: Voulland, ex-président; Michaud, Turreau et Bordas, secrétaires. Imprint from colophon. Not in Martin & Walter. Révolution française. "La Convention nationale ... déclare ..."--P. [1]. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/loiquideterminel00fran_0"
+subject = [
+    "Criminal law",
+    "Correctional personnel",
+    "Fugitives from justice",
+    "Criminal justice, Administration of",
+]
+extent = "2 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10345 no. 5"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8x97c123"
+internet_archive = "loiquideterminel00fran_0"
+
+[scan]
+file = "loiquideterminel00fran_0.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/loiquideterminel00fran_0"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Voulland, Jean Henri, 1751-1801"
+role = "author"
+
+[[resp]]
+name = "Michaud du Doubs, Jean-Baptiste, 1759-1819"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois, place de ln [sic] Réunion, ci-devant du grand-Carrousel"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_860340"
+
+[[text]]
+file = "loiquideterminel00fran_0.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquideterminel00fran_0.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

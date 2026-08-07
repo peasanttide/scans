@@ -1,0 +1,102 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettre00unse_m2k"
+type = "pamphlet"
+title = "Lettre lue à l'Assemblée-patriotique, concernant M. Blanc-Gilli, administrateur du département & juge de paix, au sujet d'un acte d'intégrité que les ennemis du bien public taxoient de forfaiture."
+language = "fr"
+place = "A Marseille"
+date = "1791"
+note = """Caption title. Signed, p. 7: Hipolite Peise, secrétaire de paix du premier arrondissement du canton de Marseille. Marseille ce 29 mars 1791. Imprint from colophon. Not in Martin & Walter. Révolution française. "Depend de la déliberation du 30 mars 1791"--P. 8. Peise describes the court case between sieur Cibon, Pierre Roman, and Marie Richaud, defends the actions of the justice of the peace Blanc-Gilli, and takes the blame himself for the procedural error. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover."""
+url = "https://archive.org/details/lettre00unse_m2k"
+subject = [
+    "Blanc-Gilli, Mathieu",
+    "Justification (Law)",
+    "Judicial corruption",
+    "Judicial error",
+    "Civil procedure",
+]
+extent = "8 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 23439"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8pc8733q"
+internet_archive = "lettre00unse_m2k"
+openlibrary_edition = "OL26236949M"
+openlibrary_work = "OL17631503W"
+
+[scan]
+file = "lettre00unse_m2k.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/lettre00unse_m2k"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Peise, Hipolite"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de P.A. Favet, imprimeur de la nation, rue du Pavillon"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_847877"
+
+[[text]]
+file = "lettre00unse_m2k.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00unse_m2k.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00unse_m2k.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00unse_m2k.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00unse_m2k.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00unse_m2k.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00unse_m2k.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00unse_m2k.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

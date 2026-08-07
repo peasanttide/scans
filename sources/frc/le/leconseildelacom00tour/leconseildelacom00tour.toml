@@ -1,0 +1,84 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "leconseildelacom00tour"
+type = "pamphlet"
+title = "Le conseil de la commune de Tours, a la Convention nationale"
+language = "fr"
+place = "A Tours"
+date = "1793"
+note = "Caption title. At head of title: Tours, le 18 avril 1793, l'an 2e. de la Répe. françe. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."
+url = "https://archive.org/details/leconseildelacom00tour"
+subject = [
+    "France. Armée",
+    "Military service, Voluntary",
+    "Central-local government relations",
+]
+extent = "4 p. ; 24 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10300 no. 4"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3b048n7f"
+internet_archive = "leconseildelacom00tour"
+openlibrary_edition = "OL26223385M"
+openlibrary_work = "OL17618848W"
+
+[scan]
+file = "leconseildelacom00tour.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/leconseildelacom00tour"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Tours (France). Conseil général"
+role = "author"
+
+[[resp]]
+name = "Vauquer-Lambert, F."
+role = "publisher"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Chez F. Vauquer-Lambert, impr. de la municipalité"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_856905"
+
+[[text]]
+file = "leconseildelacom00tour.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "leconseildelacom00tour.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "leconseildelacom00tour.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "leconseildelacom00tour.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

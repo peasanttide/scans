@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loiquisuspenddel00fran"
+type = "pamphlet"
+title = "Loi qui suspend de leurs fonctions les commissaires du roi près les tribunaux civils & criminels : du 18 août 1792, l'an 4e. de la liberté"
+language = "fr"
+place = "A Paris"
+date = "1792"
+note = """Caption title. At head of title: No. 2166. "L'Assemblée nationale ... décrète ce qui suit"--P. [1]. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."""
+url = "https://archive.org/details/loiquisuspenddel00fran"
+subject = ["Political purges"]
+extent = "3 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10344 no. 30"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3422478z"
+internet_archive = "loiquisuspenddel00fran"
+openlibrary_edition = "OL26230967M"
+openlibrary_work = "OL17625933W"
+
+[scan]
+file = "loiquisuspenddel00fran.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loiquisuspenddel00fran"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Assemblée nationale législative (1791-1792)"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'imprimerie nationale du Louvre"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_858603"
+
+[[text]]
+file = "loiquisuspenddel00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquisuspenddel00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquisuspenddel00fran.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquisuspenddel00fran.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

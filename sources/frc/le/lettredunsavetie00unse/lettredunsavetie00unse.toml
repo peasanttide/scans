@@ -1,0 +1,68 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettredunsavetie00unse"
+type = "pamphlet"
+title = "Lettre d'un savetier : a un autre ; 16 juillet 1789."
+language = "fr"
+place = "Paris"
+date = "1789"
+note = "Caption title. Imprint from colophon. About food prices. Martin & Walter IV 2: 8625. Scanner's note: No copyright page found. No table-of-contents pages found. Title and cover pages combined."
+url = "https://archive.org/details/lettredunsavetie00unse"
+subject = ["Food prices"]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 4790"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2w42tf85"
+internet_archive = "lettredunsavetie00unse"
+openlibrary_edition = "OL26213526M"
+openlibrary_work = "OL17609503W"
+
+[scan]
+file = "lettredunsavetie00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettredunsavetie00unse"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Chez Lagrange"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_53706"
+
+[[text]]
+file = "lettredunsavetie00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredunsavetie00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredunsavetie00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredunsavetie00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

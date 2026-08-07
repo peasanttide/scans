@@ -1,0 +1,98 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettrespatentesd00fran_23"
+type = "pamphlet"
+title = "Lettres patentes du roi, sur le décret de l'Assemblée nationale, du 13 mars 1790, qui autorisent la ville de Poitiers à imposer sur les habitans qui payent un écu d'imposition & au-dessus, la somme de 12,000 livres, pour ladite somme être employée au paiement des pauvres valides occupés aux travaux de charité, & à la subsistance des mendians invalides : données à Paris, le 19 mars 1790"
+language = "fr"
+place = "A Paris"
+date = "1790"
+note = """
+Caption title. Signed: Louis. Et plus bas, par le roi, de Saint-Priest. Vû au conseil, Lambert. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover. 
+Only one numbered page."""
+url = "https://archive.org/details/lettrespatentesd00fran_23"
+subject = [
+    "Charity laws and legislation",
+    "Progressive taxation",
+    "People with disabilities",
+]
+extent = "2 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10326 no. 9"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9h46vj5h"
+internet_archive = "lettrespatentesd00fran_23"
+openlibrary_edition = "OL26225265M"
+openlibrary_work = "OL17620590W"
+
+[scan]
+file = "lettrespatentesd00fran_23.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettrespatentesd00fran_23"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Sovereign (1774-1792 : Louis XVI)"
+role = "author"
+
+[[resp]]
+name = "Louis XVI, King of France, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "Saint-Priest, François-Emmanuel Guignard, comte de, 1735-1821"
+role = "author"
+
+[[resp]]
+name = "Lambert, Charles-Guillaume, 1726-1793"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "Imprimerie royale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie royale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_851116"
+
+[[text]]
+file = "lettrespatentesd00fran_23.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrespatentesd00fran_23.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrespatentesd00fran_23.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrespatentesd00fran_23.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

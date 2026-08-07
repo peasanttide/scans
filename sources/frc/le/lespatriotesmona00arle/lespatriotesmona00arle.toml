@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lespatriotesmona00arle"
+type = "pamphlet"
+title = "Les patriotes monaidiers d'Arles : a la Convention nationale."
+language = "fr"
+place = "s.l."
+date = "1794"
+note = """Caption title. Without imprint. Dated on p.3: Fait à Arles le vingt-troisième thermidor, an 2 de la République une et indivisible [10 août 1794]. "Adhesion de la Société populaire d'Arles. Extrait des registres de la Société populair d'Arles, seance du trentième thermidor, an second de la République française une et indivisible [17 août 1794]": p.4. About the downfall of Robespierre and his faction. Not in Martin & Walter. Contemporary ms. notes. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on cover page. Damaged, stained and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/lespatriotesmona00arle"
+subject = ["Robespierre, Maximilien, 1758-1794"]
+extent = "4 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 6705"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1tf4wf1k"
+internet_archive = "lespatriotesmona00arle"
+openlibrary_edition = "OL26217904M"
+openlibrary_work = "OL17613629W"
+
+[scan]
+file = "lespatriotesmona00arle.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lespatriotesmona00arle"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Arles (France). Citizens"
+role = "author"
+
+[[resp]]
+name = "Société populaire d'Arles"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_60528"
+
+[[text]]
+file = "lespatriotesmona00arle.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lespatriotesmona00arle.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lespatriotesmona00arle.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lespatriotesmona00arle.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

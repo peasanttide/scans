@@ -1,0 +1,110 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "livresnouvea00vala"
+type = "pamphlet"
+title = "Livres nouveaux, actuellement en vente, chez Valade, libraire, rue S. Jacques, vis-à-vis les Mathurins"
+language = "fr"
+place = "Paris?"
+date = "1773"
+note = """Catalog of books sold by Valade, including detailed notices for Georg Jonathan von Holland's "Réflexions philosophiques sur le Systême de la nature" and Jean Baptiste Charles Marie de Beauvais' "L'art de bien parler et de bien écrire en français", both published 1773, and Jean Sauri's "Institutions mathématiques," published 1772. Caption title. Head-piece. Includes prices. Scanner's note: No copyright found.  No table of contents found.  Damaged, stained pages and cover.  <br />."""
+url = "https://archive.org/details/livresnouvea00vala"
+subject = [
+    "Holland, Georg Jonathan von, 1742-1784",
+    "Beauvais, Jean Baptiste Charles Marie de, 1731-1790",
+    "Sauri, abbé (Jean), 1741-1785",
+    "Booksellers and bookselling",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1a no. 144"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6f24nb7d"
+internet_archive = "livresnouvea00vala"
+
+[scan]
+file = "livresnouvea00vala.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/livresnouvea00vala"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "Valade, Jacques-François,d. 1784"
+role = "author"
+
+[[resp]]
+name = "Valade, Jacques-François, d. 1784"
+role = "author"
+
+[[resp]]
+name = "Holland, Georg Jonathan von, 1742-1784. Réflexions philosophiques sur le Systême de la nature"
+role = "author"
+
+[[resp]]
+name = "Beauvais, Jean Baptiste Charles Marie de, 1731-1790. Art de bien parler et de bien écrire en français"
+role = "author"
+
+[[resp]]
+name = "Sauri, abbé (Jean), 1741-1785. Institutions mathématiques"
+role = "author"
+
+[[resp]]
+name = "Jacques-François Valade?"
+role = "publisher"
+
+[[text]]
+file = "livresnouvea00vala.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "livresnouvea00vala.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "livresnouvea00vala.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "livresnouvea00vala.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "livresnouvea00vala.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "livresnouvea00vala.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "livresnouvea00vala.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "livresnouvea00vala.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

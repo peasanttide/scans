@@ -1,0 +1,90 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loisrelatives00unse"
+type = "pamphlet"
+title = "Lois relatives a la Marine : loi qui supprime les franchises de Dunkerque, de Marseille, de Bayonne et du ci-devant pays de Labour : du 11 nivôse, l'an troisième de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1794"
+note = """Caption title. At head of title: (No. 227*). At right of title: B. no. 105, D. no. 552. Signed, p. [1]: A. Dumont, ex-président; Dubois-Dubais, Le Tourneur (de la Manche), secrétaires. Imprint from colophon. Not in Martin & Walter. Révolution française. "La Convention nationale ... décrète ..."--P. [1]. "Loi sur l'établissement et l'organisation d'écoles révolutionnaires de navigation et de canonnage maritime, du 11 nivôse, l'an troisième de la République française, une et indivisible. B. no. 105, D. no. 553"--P. 2-4. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/loisrelatives00unse"
+subject = [
+    "France. Marine",
+    "Students",
+    "Military education",
+]
+extent = "4 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10345 no. 119"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3sv2r25j"
+internet_archive = "loisrelatives00unse"
+
+[scan]
+file = "loisrelatives00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loisrelatives00unse"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Dumont, André, 1764-1838"
+role = "author"
+
+[[resp]]
+name = "Le Tourneur, Etienne-François-Louis-Honoré, 1751-1817"
+role = "author"
+
+[[resp]]
+name = "Boucher de Saint Sauveur, Antoine, 1723-1805"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépot des lois, place de la Réunion, ci-devant du grand-Carrousel"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_860455"
+
+[[text]]
+file = "loisrelatives00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loisrelatives00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loisrelatives00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loisrelatives00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

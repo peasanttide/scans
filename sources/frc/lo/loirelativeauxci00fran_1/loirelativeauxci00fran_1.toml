@@ -1,0 +1,87 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loirelativeauxci00fran_1"
+type = "pamphlet"
+title = "Loi relative aux citoyens détenus comme suspects : du 18 thermidor, l'an deuxième de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1794"
+note = """Caption title. At head of title: (No. 54*). At left of title: B. no. 33, D. 184. Signed: Merlin (de Douai), président; P. Barras et Collombel (de la Meurthe), secrétaires. Imprint from colophon. Not in Martin & Walter. Révolution française. "La Convention nationale décrète ..."--P. [1]. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/loirelativeauxci00fran_1"
+subject = [
+    "Prisoners",
+    "Criminal records",
+]
+extent = "2 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10345 no. 29"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t35195329"
+internet_archive = "loirelativeauxci00fran_1"
+openlibrary_edition = "OL26229385M"
+openlibrary_work = "OL17624419W"
+
+[scan]
+file = "loirelativeauxci00fran_1.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loirelativeauxci00fran_1"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Merlin, M. (Philippe-Antoine), 1754-1838"
+role = "author"
+
+[[resp]]
+name = "Barras, Paul, vicomte de, 1755-1829"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Depot des lois, place de la Réunion, ci-devant du grand-Carrousel"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_860364"
+
+[[text]]
+file = "loirelativeauxci00fran_1.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativeauxci00fran_1.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativeauxci00fran_1.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativeauxci00fran_1.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

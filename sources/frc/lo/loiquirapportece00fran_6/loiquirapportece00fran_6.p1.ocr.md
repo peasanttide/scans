@@ -1,0 +1,39 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: loiquirapportece00fran_6
+page: 1
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 2970
+h: 4125
+dpi: 350
+---
+
+P), n'’. 14"
+
+(N.?3996w.*)
+
+L O I
+
+Qui rapporte celle qui a déclaré marchandise L’or et C argent monnayés*
+
+/
+
+Du 1 Prairial , an troisième de la République française , une et indivisible. ^
+
+La Convention nationale rapporte son dernier décret qui a dé- f '^^'4
+claré marchandise Tor et l’argent monnayés; ordonne l’exécution des
+lois antérieùres qui prohibent le commerce des monnaies métalliques.
+
+Visé. Signé S. E. Monnbl.
+
+Collationné. Signé Vernier^ président; Mollevaüt^
+Saint-Martin , secrétaires.
+
+A PARIS,
+
+DE L’IMPRIMERIE DU DEPOT DES LOIS,
+
+AN IIL D E L A R E P ü B L I Q ü E FRANÇAISE
+
+UNE ET INDIVISIBLE,

@@ -1,0 +1,77 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettreauthentiqu00loui_0"
+type = "pamphlet"
+title = "Lettre authentique du roi a M. Necker : suivie de celle de M. Necker, que Sa Majesté a reçue le 26 juillet."
+language = "fr"
+place = "Se vend, A Montauban"
+date = "1789"
+note = """Caption title. Signed, p. 2: Louis. Imprint from colophon. "Sur la véritable copie imprimée à Pairs"--P. 4. Variant of Martin & Walter. Révolution française, III, 21839. "Réponse de M. Necker au roi, datée de Genève le 23 de juillet au soir, & parvenue à Sa Majesté le 26"--P. 2-4. Scanner's note: No Copyright found. No Table of Contents found. Title on cover page. Damaged, stained pages and cover. <br />."""
+url = "https://archive.org/details/lettreauthentiqu00loui_0"
+subject = [
+    "Necker, Jacques, 1732-1804",
+    "Louis XVI, King of France, 1754-1793",
+]
+extent = "4 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 21630"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t52g3053f"
+internet_archive = "lettreauthentiqu00loui_0"
+
+[scan]
+file = "lettreauthentiqu00loui_0.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettreauthentiqu00loui_0"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "Louis XVI, King of France, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "Necker, Jacques, 1732-1804"
+role = "author"
+
+[[resp]]
+name = "Chez Vincent Teulieres, seul imprimeur du roi, place Trimond"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_844860"
+
+[[text]]
+file = "lettreauthentiqu00loui_0.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettreauthentiqu00loui_0.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettreauthentiqu00loui_0.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettreauthentiqu00loui_0.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

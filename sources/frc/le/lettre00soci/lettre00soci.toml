@@ -1,0 +1,104 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettre00soci"
+type = "pamphlet"
+title = "Lettre /"
+language = "fr"
+place = "A Rouen"
+date = "1791"
+note = """Caption title. Imprint from colophon. About a copy sent to the Society at Rouen of Letters on the French Revolution (French translation), by Miss Williams. "Réponse de Miss Villiams, à la Société des amis de la constitution à Rouen. Du Fossé, le 13 septembre 1791": p.6-8. Signed: Helen-Maria Williams. Not in Martin & Walter. Scanner's note: No title page found. No copyright page found. No table-of-contents pages found."""
+url = "https://archive.org/details/lettre00soci"
+subject = ["Williams, Helen Maria, 1762-1827"]
+extent = "8 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 4819"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t56f0x65s"
+internet_archive = "lettre00soci"
+openlibrary_edition = "OL26213282M"
+openlibrary_work = "OL17609258W"
+
+[scan]
+file = "lettre00soci.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/lettre00soci"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Société des amis de la constitution à Rouen"
+role = "author"
+
+[[resp]]
+name = "Société des amis de la constitution à Rouen"
+role = "author"
+
+[[resp]]
+name = "Williams, Helen Maria, 1762-1827"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de P. Seyer & Behourt"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_53566"
+
+[[text]]
+file = "lettre00soci.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00soci.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00soci.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00soci.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00soci.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00soci.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00soci.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00soci.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

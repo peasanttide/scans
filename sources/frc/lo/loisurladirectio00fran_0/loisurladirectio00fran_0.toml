@@ -1,0 +1,61 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loisurladirectio00fran_0"
+type = "pamphlet"
+title = "Loi sur la direction des opérations diplomatiques : du 27 ventose, l'an troisième de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1795"
+note = "Caption title. At head of title: (No. 327.*). At right of title: B. no. 130. D. no. 705. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."
+url = "https://archive.org/details/loisurladirectio00fran_0"
+extent = "2 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 28116"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4hn0ct7s"
+internet_archive = "loisurladirectio00fran_0"
+
+[scan]
+file = "loisurladirectio00fran_0.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/loisurladirectio00fran_0"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_861785"
+
+[[text]]
+file = "loisurladirectio00fran_0.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loisurladirectio00fran_0.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

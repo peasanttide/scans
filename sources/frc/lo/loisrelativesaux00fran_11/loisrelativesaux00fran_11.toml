@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loisrelativesaux00fran_11"
+type = "pamphlet"
+title = "Lois relatives aux postes et messageries : des 3 et 7 thermidor, an troisième de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1795"
+note = """Caption title. At head of title: (No. 468.*). "La Convention nationale ... décrète ..."--P. [1]. Imprint from colophon. Not in Martin & Walter. Révolution française. 1o. Loi qui fixe le prix de la poste aux chevaux et du port des lettres : du 3 thermidor, an troisième : B. no. 165. D. no. 970 -- 2o. Loi qui fixe les prix du transport, par les messageries, des personnes, effets et marchandises : du 7 thermidor, an troisième : B. no. 166. D. no. 975. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."""
+url = "https://archive.org/details/loisrelativesaux00fran_11"
+subject = [
+    "Postal service",
+    "Transportation",
+]
+extent = "4 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10346 no. 109"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4dn9957x"
+internet_archive = "loisrelativesaux00fran_11"
+openlibrary_edition = "OL26230089M"
+openlibrary_work = "OL17625065W"
+
+[scan]
+file = "loisrelativesaux00fran_11.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loisrelativesaux00fran_11"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Depot des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_861875"
+
+[[text]]
+file = "loisrelativesaux00fran_11.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loisrelativesaux00fran_11.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loisrelativesaux00fran_11.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loisrelativesaux00fran_11.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

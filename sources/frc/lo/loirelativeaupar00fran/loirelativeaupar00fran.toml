@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loirelativeaupar00fran"
+type = "pamphlet"
+title = "Loi relative au partage en nature, des biens indivis avec des emigrés : du 30 thermidor, an IV de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1796"
+note = """Caption title. At head of title: No. 263. Au nom de la République française. At right of title: B. 68. No. 620. Imprint from colophon. "No. 12"--Bottom of p. [1]. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."""
+url = "https://archive.org/details/loirelativeaupar00fran"
+subject = [
+    "Refugee property",
+    "Interest (Ownership rights)",
+]
+extent = "3 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10348 no. 19"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t02z6cq1s"
+internet_archive = "loirelativeaupar00fran"
+openlibrary_edition = "OL26229868M"
+openlibrary_work = "OL17624899W"
+
+[scan]
+file = "loirelativeaupar00fran.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loirelativeaupar00fran"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Depot des Lois, place du Carrousel"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_859145"
+
+[[text]]
+file = "loirelativeaupar00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativeaupar00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativeaupar00fran.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativeaupar00fran.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

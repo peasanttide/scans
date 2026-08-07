@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loirelativeauxbi00fran_7"
+type = "pamphlet"
+title = "Loi relative aux biens des abbayes & communautés étrangères : du 30 août 1792, l'an 4e. de la liberté"
+language = "fr"
+place = "A Paris"
+date = "1792"
+note = """Caption title. At right of title: No. 2286. "Au nom de la nation, le Conseil exécutif provisoire mande & ordonne ..."--P. [1]. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text. No title page found. No copyright page found. No table-of-contents pages found."""
+url = "https://archive.org/details/loirelativeauxbi00fran_7"
+subject = [
+    "Secularization",
+    "Alien property",
+]
+extent = "2 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 28050"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t72v7ps5m"
+internet_archive = "loirelativeauxbi00fran_7"
+openlibrary_edition = "OL26229890M"
+openlibrary_work = "OL17624921W"
+
+[scan]
+file = "loirelativeauxbi00fran_7.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loirelativeauxbi00fran_7"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale. Conseil exécutif provisoire"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale du Louvre"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_858632"
+
+[[text]]
+file = "loirelativeauxbi00fran_7.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativeauxbi00fran_7.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativeauxbi00fran_7.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativeauxbi00fran_7.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

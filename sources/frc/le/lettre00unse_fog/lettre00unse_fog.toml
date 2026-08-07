@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettre00unse_fog"
+type = "pamphlet"
+title = "Lettre de M. l'evêque de Digne à M. Champsaud, curé de Digne : de Paris le 13 novembre 1790."
+language = "fr"
+place = "France"
+date = "1790"
+note = "Caption title. Signed: François, evêque de Digne. Not in Martin & Walter. Révolution française. Scanner's note: No title page found. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/lettre00unse_fog"
+subject = [
+    "France",
+    "Church and state",
+    "Clergy",
+]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 22945"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5hb4c52j"
+internet_archive = "lettre00unse_fog"
+openlibrary_edition = "OL26237218M"
+openlibrary_work = "OL17631773W"
+
+[scan]
+file = "lettre00unse_fog.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettre00unse_fog"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Mouchet de Villedieu, François, 1731-1823"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_847502"
+
+[[text]]
+file = "lettre00unse_fog.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00unse_fog.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00unse_fog.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00unse_fog.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "legardedesarchiv00camu"
+type = "pamphlet"
+title = "Le garde des archives de la République, aux représentans du peuple membres de la Commission des inspecteurs du Palais national des Cinq-cents : Paris, le 6 pluviose, an VII de la République française, une et indivisible."
+language = "fr"
+place = "Paris"
+date = "1799"
+note = "Caption title. Signed: Camus. Imprint from colophon. Martin & Walter. Révolution française. An offer to improve the distribution of the publications of the Archives nationales in light of complaints by members of the Corps législatif. Bibliography: Martin & Walter.  Révolution française,  I, 6045. Scanner's note: No copyright page found. No table-of-contents pages found. Damaged pages and cover.  Skewed text.  Title on cover page."
+url = "https://archive.org/details/legardedesarchiv00camu"
+subject = [
+    "Archives nationales (France)",
+    "Archives",
+]
+extent = "3 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 15735"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t43r5sg60"
+internet_archive = "legardedesarchiv00camu"
+openlibrary_edition = "OL25951572M"
+openlibrary_work = "OL17372567W"
+
+[scan]
+file = "legardedesarchiv00camu.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/legardedesarchiv00camu"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Camus, Armand-Gaston, 1740-1804"
+role = "author"
+
+[[resp]]
+name = "Baudouin, François-Jean, 1759-1838"
+role = "publisher"
+
+[[resp]]
+name = "Baudouin, imprimeur du Corps législatif et de l'Institut national, no. 662"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_832498"
+
+[[text]]
+file = "legardedesarchiv00camu.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "legardedesarchiv00camu.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "legardedesarchiv00camu.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "legardedesarchiv00camu.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

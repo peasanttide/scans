@@ -1,0 +1,67 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loirelativelaman00fran_1"
+type = "pamphlet"
+title = "Loi relative à la manière dont l'avis des tiers-arbitres doit être prononce : du 28 thermidor, an troisième de la République française une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1795"
+note = """Caption title. At head of title: (No. 508.*). At right of title: B. no. 172. D. 1030. "La Convention nationale ... décrète ...". Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover. No page numbers."""
+url = "https://archive.org/details/loirelativelaman00fran_1"
+subject = [
+    "Arbitration and award",
+    "Justice, Administration of",
+]
+extent = "[1] p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 28039"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t74v1rh2r"
+internet_archive = "loirelativelaman00fran_1"
+openlibrary_edition = "OL26228403M"
+openlibrary_work = "OL17623471W"
+
+[scan]
+file = "loirelativelaman00fran_1.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/loirelativelaman00fran_1"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_861899"
+
+[[text]]
+file = "loirelativelaman00fran_1.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativelaman00fran_1.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,64 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loiportantquelac00fran_1"
+type = "pamphlet"
+title = "Loi portant que l'acte sous seing privé acquiert une date assurée, lorsqu'un acte authentique le réfère : du 13 messidor, an troisième de la République française une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1795"
+note = """Caption title. At head of title: (No. 447.*). At right of title: B. no. 159. D. no. 935. "La Convention nationale ... décrète ....". Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/loiportantquelac00fran_1"
+subject = ["Contracts"]
+extent = "[1] p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 28264"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6zw6kp0c"
+internet_archive = "loiportantquelac00fran_1"
+openlibrary_edition = "OL26227161M"
+openlibrary_work = "OL17622388W"
+
+[scan]
+file = "loiportantquelac00fran_1.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/loiportantquelac00fran_1"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_861864"
+
+[[text]]
+file = "loiportantquelac00fran_1.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiportantquelac00fran_1.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

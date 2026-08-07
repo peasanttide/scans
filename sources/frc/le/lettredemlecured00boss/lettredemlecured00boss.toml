@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettredemlecured00boss"
+type = "pamphlet"
+title = "Lettre de M. le curé de S. Paul à messieurs le président et commissaires de la Section de l'arsenal."
+language = "fr"
+date = "1791"
+note = "Caption title. Signed at end: Votre très-humble & très-obéissant serviteur, Bossu, Curé de Saint-Paul, Paris, ce 6 janvier 1791. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,I, 4365. Scanner's note: No pagination."
+url = "https://archive.org/details/lettredemlecured00boss"
+subject = [
+    "Bossu, Pierre-Louis",
+    "Clergy",
+]
+extent = "[2] p ;19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "CaseFRC10923"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t88h1nm8t"
+internet_archive = "lettredemlecured00boss"
+
+[scan]
+file = "lettredemlecured00boss.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettredemlecured00boss"
+ppi = 650
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Bossu, Pierre-Louis"
+role = "author"
+
+[[resp]]
+name = "[Paris :s.n.,"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_823894"
+
+[[text]]
+file = "lettredemlecured00boss.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "lettredemlecured00boss.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "lettredemlecured00boss.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "lettredemlecured00boss.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"

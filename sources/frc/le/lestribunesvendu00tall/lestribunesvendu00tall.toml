@@ -1,0 +1,83 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lestribunesvendu00tall"
+type = "pamphlet"
+title = "Les tribunes vendues a Mirabeau et a Charles Lameth, ou, La France trahie."
+language = "fr"
+place = "Paris"
+date = "1790"
+note = "Caption title. Imprint from colophon. Martin & Walter. Révolution française. Forms part of the French Revolution Collection at the Newberry Library. Bibliography: Martin & Walter.  Révolution française,  IV:2, 17695. Scanner's note: Title and cover are combined. Uneven binding. Skewed text. Damaged, stained and/or loose pages."
+url = "https://archive.org/details/lestribunesvendu00tall"
+subject = [
+    "Mirabeau, Honoré-Gabriel de Riquetti, comte de, 1749-1791",
+    "Lameth, Charles de, 1757-1832",
+    "Assignats",
+    "Political corruption",
+]
+extent = "4 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 27874"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t56f16g71"
+internet_archive = "lestribunesvendu00tall"
+
+[scan]
+file = "lestribunesvendu00tall.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lestribunesvendu00tall"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Tallien, Jean-Lambert, 1767-2766"
+role = "author"
+
+[[resp]]
+name = "French Revolution Collection (Newberry Library) ICN"
+role = "author"
+
+[[resp]]
+name = "Imprimerie de Pain"
+role = "publisher"
+
+[[resp]]
+name = "De l'imprimerie de Pain, au Palais Royal"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_64925"
+
+[[text]]
+file = "lestribunesvendu00tall.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lestribunesvendu00tall.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lestribunesvendu00tall.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lestribunesvendu00tall.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

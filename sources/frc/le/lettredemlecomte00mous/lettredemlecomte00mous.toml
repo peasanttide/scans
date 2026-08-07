@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettredemlecomte00mous"
+type = "pamphlet"
+title = "Lettre de M. le comte d'Avaran [sic] à son ami, sur le voyage de Louis XVIII, de Mitau à Memel."
+language = "fr"
+place = "France"
+date = "1801"
+note = """Caption title. "Memel, 30 janvier 1801"--P. [1]. Not in: Martin & Walter. Ré́volution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover."""
+url = "https://archive.org/details/lettredemlecomte00mous"
+subject = [
+    "Angoulême, Marie-Thérèse Charlotte, duchesse d', 1778-1851",
+    "Louis XVIII, King of France, 1755-1824",
+]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 13439"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t54f6hh41"
+internet_archive = "lettredemlecomte00mous"
+openlibrary_edition = "OL25926327M"
+openlibrary_work = "OL17348956W"
+
+[scan]
+file = "lettredemlecomte00mous.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettredemlecomte00mous"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Moustier, Antonie de Bésiade d'Avaray, comtesse de, 1825-1897"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_828405"
+
+[[text]]
+file = "lettredemlecomte00mous.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredemlecomte00mous.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredemlecomte00mous.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredemlecomte00mous.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

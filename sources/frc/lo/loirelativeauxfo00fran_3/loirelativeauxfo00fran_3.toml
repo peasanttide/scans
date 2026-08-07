@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loirelativeauxfo00fran_3"
+type = "pamphlet"
+title = "Loi relative aux fondations des bourses dans les ci-devant collèges de la République : du 25 messidor an V de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1797"
+note = """Caption title. At head of title: No. 518. Au nom de la République française. Imprint from colophon. "No. 8, 9"--Bottom of p. [1]. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover. Only one numbered page."""
+url = "https://archive.org/details/loirelativeauxfo00fran_3"
+subject = [
+    "Student aid",
+    "Educational law and legislation",
+    "Debts, Public",
+]
+extent = "2 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10349 no. 7"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4vj0pr47"
+internet_archive = "loirelativeauxfo00fran_3"
+openlibrary_edition = "OL26229486M"
+openlibrary_work = "OL17624519W"
+
+[scan]
+file = "loirelativeauxfo00fran_3.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loirelativeauxfo00fran_3"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Depot des lois, place du Carrousel : Et se trouve dans les villes chef-lieux de département, au bureau de correspondance du Dépôt des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_859844"
+
+[[text]]
+file = "loirelativeauxfo00fran_3.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativeauxfo00fran_3.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativeauxfo00fran_3.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativeauxfo00fran_3.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

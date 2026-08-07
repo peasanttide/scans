@@ -1,0 +1,88 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loirelativeauxga00fran"
+type = "pamphlet"
+title = "Loi relative aux gardes nationales : donnée à Paris, le 18 août 1791"
+language = "fr"
+place = "A Rouen"
+date = "1791"
+note = """Caption title. "Pour le roi. Signé M.L.F. Du Port"--P. 2. "A Rouen, en Directoire ..."--P. 3. Imprint from colophon. Not in Martin & Walter. Révolution française. "Décret de l'Assemblée nationale, du premier août mil sept cent quatre-vingt-onze"--P. [1]-2. Scanner's note: No title page found. No copyright page found. No table-of-contents pages found."""
+url = "https://archive.org/details/loirelativeauxga00fran"
+subject = ["France. Armée. Garde nationale"]
+extent = "3 p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC suppl. 85 no. 43"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1kh5sr56"
+internet_archive = "loirelativeauxga00fran"
+openlibrary_edition = "OL26235158M"
+openlibrary_work = "OL17629741W"
+
+[scan]
+file = "loirelativeauxga00fran.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loirelativeauxga00fran"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Sovereign (1774-1792 : Louis XVI)"
+role = "author"
+
+[[resp]]
+name = "Duport-Dutertre, Marguerite-Louis-François, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "Le Boullenger, Jacques-Joseph-Jean-Baptiste, b. 1740"
+role = "publisher"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "Rouen (France). Directoire"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de J.J. Le Boullenger, imprimeur du roi & du département de la Seine Inférieur, rue du Grand-Maulévrier"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_859604"
+
+[[text]]
+file = "loirelativeauxga00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativeauxga00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativeauxga00fran.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativeauxga00fran.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

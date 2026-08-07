@@ -1,0 +1,93 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loiadminist00unse"
+type = "pamphlet"
+title = "Loi pour l'administration des biens des monastères, et notamment de ceux de l'abbaye de Cluny : donnée à Saint-Cloud le 23 octobre 1790"
+language = "fr"
+place = "A Paris"
+date = "1790"
+note = """Caption title. "Signé Louis. Et plus bas, l'archevêque de Bordeaux"--P. 4. Imprint from colophon. Not in Martin & Walter. Révolution française. "Décret de l'Assemblée nationale, du 19 octobre 1790--P. [1]-4. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages."""
+url = "https://archive.org/details/loiadminist00unse"
+subject = [
+    "Cluny (Benedictine abbey)",
+    "Church property",
+    "Abbeys",
+    "Secularization",
+]
+extent = "4 p. ; 28 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10338 no. 9"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6159qh85"
+internet_archive = "loiadminist00unse"
+openlibrary_edition = "OL26226073M"
+openlibrary_work = "OL17621384W"
+
+[scan]
+file = "loiadminist00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loiadminist00unse"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Sovereign (1774-1792 : Louis XVI)"
+role = "author"
+
+[[resp]]
+name = "Louis XVI, King of France, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "Champion de Cicé, Jérôme Marie, comte, 1735-1810"
+role = "author"
+
+[[resp]]
+name = "Nyon, Nicolas-Henri, b. 1751?"
+role = "publisher"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de N.H. Nyon, rue Mignon Saint-André-des-Arts"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_853027"
+
+[[text]]
+file = "loiadminist00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiadminist00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiadminist00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiadminist00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

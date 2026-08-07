@@ -1,0 +1,95 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettre00stan"
+type = "pamphlet"
+title = "Lettre /"
+language = "fr"
+place = "A Montauban"
+date = "1791"
+note = """Caption title. Imprint from colophon. "Précis historique de la révolution polonaise": p.3-8. Not in Martin & Walter. Scanner's note: No title page found. No copyright page found. No table-of-contents pages found."""
+url = "https://archive.org/details/lettre00stan"
+extent = "8 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 4936"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4vj0m87k"
+internet_archive = "lettre00stan"
+openlibrary_edition = "OL26213236M"
+openlibrary_work = "OL17609212W"
+
+[scan]
+file = "lettre00stan.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/lettre00stan"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Stanisław II August, King of Poland, 1732-1798"
+role = "author"
+
+[[resp]]
+name = "Chez Fontanel"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_56581"
+
+[[text]]
+file = "lettre00stan.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00stan.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00stan.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00stan.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00stan.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00stan.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00stan.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00stan.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

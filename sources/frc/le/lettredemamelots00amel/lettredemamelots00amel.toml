@@ -1,0 +1,83 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettredemamelots00amel"
+type = "pamphlet"
+title = "Lettre de M. Amelot, sur l'organisation de la Caisse de l'extraordinaire : imprimée par ordre de l'Assemblée."
+language = "fr"
+place = "Paris"
+date = "1790"
+note = """Caption title. Dated at end: Paris, le 24 novembre 1790. Imprint from colophon. "Procès-verbal, No. 481"--Bottom of p. [1]. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  I, 212. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover."""
+url = "https://archive.org/details/lettredemamelots00amel"
+subject = [
+    "France. Caisse de l'extraordinaire",
+    "Finance, Public",
+]
+extent = "3 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 13462"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5x68724c"
+internet_archive = "lettredemamelots00amel"
+openlibrary_edition = "OL25926232M"
+openlibrary_work = "OL17348858W"
+
+[scan]
+file = "lettredemamelots00amel.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettredemamelots00amel"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Amelot de Chaillou, Antoine-Jean, d. 1795"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_828444"
+
+[[text]]
+file = "lettredemamelots00amel.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredemamelots00amel.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredemamelots00amel.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredemamelots00amel.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

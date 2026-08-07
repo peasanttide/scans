@@ -1,0 +1,104 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettre00unse_60"
+type = "pamphlet"
+title = "Lettre a la reine."
+language = "fr"
+place = "France"
+date = "1789"
+note = """Caption title. Signed, p. 4: M. By Louis-Pierre Manuel. Cf. Martin & Walter. Variant of Martin & Walter. Révolution française, III, 22826. "Priere d'Henri-Quatre, général de l'armée française, avant la bataille de Coutras: adressée a Louis-Seize, chef de la nation française, après sa séance paternelle à l'Assemblée nationale par un de ses fidèles sujets"--P.5-8. Scanner's note: Title page and cover are combined. Damaged, stained, marked and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/lettre00unse_60"
+subject = [
+    "Marie Antoinette, Queen, consort of Louis XVI, King of France, 1755-1793",
+    "Louis XVI, King of France, 1754-1793",
+    "Henry IV, King of France, 1553-1610",
+]
+extent = "8 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 21947"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0fv3tn5f"
+internet_archive = "lettre00unse_60"
+openlibrary_edition = "OL26240057M"
+openlibrary_work = "OL17634579W"
+
+[scan]
+file = "lettre00unse_60.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/lettre00unse_60"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Manuel, Louis-Pierre, 1751-1793"
+role = "author"
+
+[[resp]]
+name = "Marie Antoinette, Queen, consort of Louis XVI, King of France, 1755-1793"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_845628"
+
+[[text]]
+file = "lettre00unse_60.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00unse_60.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00unse_60.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00unse_60.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00unse_60.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00unse_60.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00unse_60.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00unse_60.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

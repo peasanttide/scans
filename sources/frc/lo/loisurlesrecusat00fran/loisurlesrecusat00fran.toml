@@ -1,0 +1,95 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loisurlesrecusat00fran"
+type = "pamphlet"
+title = "Loi sur les récusations des juges : du 23 vendémiaire an quatrième de la République française"
+language = "fr"
+place = "A Paris"
+date = "1795"
+note = """Caption title. At head of title: (No. 611*). At right of title: B. no. 197, D. no. 1176. "La Convention nationale, après avoir entendu le rapport ... décrète"--P. [1]. Signed: Genissieu, président; Pons (de Verdun), Gleizal, secrétaires. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover. Only one numbered page."""
+url = "https://archive.org/details/loisurlesrecusat00fran"
+subject = [
+    "Judges",
+    "Justice, Administration of",
+]
+extent = "2 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10347 no. 17"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1qg3vm4w"
+internet_archive = "loisurlesrecusat00fran"
+openlibrary_edition = "OL26230724M"
+openlibrary_work = "OL17625701W"
+
+[scan]
+file = "loisurlesrecusat00fran.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loisurlesrecusat00fran"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Génissieu, Jean-Joseph-Victor, 1749-1804"
+role = "author"
+
+[[resp]]
+name = "Pons de Verdun, Philippe-Laurent, 1759-1844"
+role = "author"
+
+[[resp]]
+name = "Gleizal, Claude, 1761-1833"
+role = "author"
+
+[[resp]]
+name = "Rondonneau, L. (Louis), -1835"
+role = "publisher"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "Chez Rondonneau, au Dépôt des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_858344"
+
+[[text]]
+file = "loisurlesrecusat00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loisurlesrecusat00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loisurlesrecusat00fran.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loisurlesrecusat00fran.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

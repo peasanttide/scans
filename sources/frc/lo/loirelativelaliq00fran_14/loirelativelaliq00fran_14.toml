@@ -1,0 +1,67 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loirelativelaliq00fran_14"
+type = "pamphlet"
+title = "Loi relative à la liquidation des créanciers des hôpitaux et de ceux de la liste civile : du 1er. germinal, an troisième de la République fracçaise, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1795"
+note = """Caption title. At head of title: (No. 337.*). At right of title: B. no. 132. D. no. 715. "La Convention nationale ... décrète ...". Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover. No page numbers."""
+url = "https://archive.org/details/loirelativelaliq00fran_14"
+subject = [
+    "Debtor and creditor",
+    "Liquidation",
+]
+extent = "[1] p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10346 no. 23"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2j72m219"
+internet_archive = "loirelativelaliq00fran_14"
+openlibrary_edition = "OL26230679M"
+openlibrary_work = "OL17625656W"
+
+[scan]
+file = "loirelativelaliq00fran_14.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/loirelativelaliq00fran_14"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_861789"
+
+[[text]]
+file = "loirelativelaliq00fran_14.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativelaliq00fran_14.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

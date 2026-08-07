@@ -1,0 +1,77 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loiquiaffecteune00fran_0"
+type = "pamphlet"
+title = "Loi qui affecte une somme de cent vingt millions aux dépenses du département de la guerre, pour les mois de nivose, pluviose, ventose et germinal de l'an V : du 16 nivose, an V de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1797"
+note = """Caption title. At head of title: No. 390. Au nom de la République française. Imprint from colophon. "No. 6, 9, 10"--Bottom of p. [1]. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/loiquiaffecteune00fran_0"
+subject = [
+    "France. Département de la guerre",
+    "Finance, Public",
+]
+extent = "3 p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10348 no. 82"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9p321p8h"
+internet_archive = "loiquiaffecteune00fran_0"
+
+[scan]
+file = "loiquiaffecteune00fran_0.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loiquiaffecteune00fran_0"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois, place du Carrousel, et se trouve dans les villes chefs-lieux de département, au bureau de correspondance du Dépôt des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_859208"
+
+[[text]]
+file = "loiquiaffecteune00fran_0.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquiaffecteune00fran_0.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquiaffecteune00fran_0.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquiaffecteune00fran_0.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

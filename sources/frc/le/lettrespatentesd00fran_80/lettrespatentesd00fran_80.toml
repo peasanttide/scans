@@ -1,0 +1,91 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettrespatentesd00fran_80"
+type = "pamphlet"
+title = "Lettres patentes du roi, qui nomment les sieurs de Sorhouet & Mignot, commissaires de la Caisse des amortissemens : données à Versailles le vingt-un mai 1771 : registrées en Parlement le 27 mai mil sept cent soixante-onze"
+language = "fr"
+place = "A Paris"
+date = "1771"
+note = """Caption title. "Signé Louis. Et plus bas: par le roi, Phelypeaux"--P. 3. Imprint from colophon. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, stained and/or loose pages Skewed text. Uneven binding. Title and cover page are combined. Text on the back cover is upside-down."""
+url = "https://archive.org/details/lettrespatentesd00fran_80"
+subject = [
+    "Caisse d'amortissement (France)",
+    "Debts, Public",
+]
+extent = "3 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC suppl. 90 no. 4"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4sj6pq4f"
+internet_archive = "lettrespatentesd00fran_80"
+openlibrary_edition = "OL26235114M"
+openlibrary_work = "OL17629697W"
+
+[scan]
+file = "lettrespatentesd00fran_80.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettrespatentesd00fran_80"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Sovereign (1715-1774 : Louis XV)"
+role = "author"
+
+[[resp]]
+name = "Louis XV, King of France, 1710-1774"
+role = "author"
+
+[[resp]]
+name = "Maurepas, Jean-Frédéric Phélypeaux, comte de, 1701-1781"
+role = "author"
+
+[[resp]]
+name = "Simon, P. G. (Pierre-Guillaume), 1722-1787"
+role = "publisher"
+
+[[resp]]
+name = "France. Parlement (Paris)"
+role = "author"
+
+[[resp]]
+name = "Chez P.G. Simon, imprimeur du Parlement, rues Mignon & du Battoir, quartier S. André-des-Arcs"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_861563"
+
+[[text]]
+file = "lettrespatentesd00fran_80.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrespatentesd00fran_80.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrespatentesd00fran_80.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrespatentesd00fran_80.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

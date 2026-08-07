@@ -1,0 +1,92 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loirelativelafab00fran_12"
+type = "pamphlet"
+title = "Loi relative à la fabrication de la menue monnoie avec le métal des cloches : donnée à Paris, le 6 août 1791"
+language = "fr"
+place = "A Rouen"
+date = "1791"
+note = """Caption title. "Pour le roi. Signé M.L.F. Duport"--P. 3. "A Rouen, en Directoire ..."--P. 4. Imprint from colophon. Not in Martin & Walter. Révolution française. "Décret de l'Assemblée nationale, du 3 août 1791"--P. [1]-2. Scanner's note: No title page found. No copyright page found. No table-of-contents pages found."""
+url = "https://archive.org/details/loirelativelafab00fran_12"
+subject = [
+    "Money",
+    "Copper coins",
+    "Church bells",
+]
+extent = "4 p. ; 25 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC suppl. 85 no. 40"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8cg4xg25"
+internet_archive = "loirelativelafab00fran_12"
+openlibrary_edition = "OL26235228M"
+openlibrary_work = "OL17629812W"
+
+[scan]
+file = "loirelativelafab00fran_12.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loirelativelafab00fran_12"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Sovereign (1774-1792 : Louis XVI)"
+role = "author"
+
+[[resp]]
+name = "Duport-Dutertre, Marguerite-Louis-François, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "Oursel, Louis-Joseph, b. 1739"
+role = "publisher"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "Rouen (France). Directoire"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Louis Ou[r]sel, imprimeur du roi, rue de la Vicomté"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_859601"
+
+[[text]]
+file = "loirelativelafab00fran_12.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativelafab00fran_12.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativelafab00fran_12.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativelafab00fran_12.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

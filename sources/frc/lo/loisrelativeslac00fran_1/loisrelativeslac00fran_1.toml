@@ -1,0 +1,87 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loisrelativeslac00fran_1"
+type = "pamphlet"
+title = "Lois relatives à la contribution foncière : des 8 messidor et 5 thermidor, an IV de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1796"
+note = """Caption title. At head of title: Nos. 198 et 233. Au nom de la République française. At right of title: B. 55, No. 488. Signed: Carnot, président; par le Directoire exécutif, le secrétaire général, Lagarde. Imprint from colophon. "No. 4, 9"--Bottom of p. [1]. Not in Martin & Walter. Révolution française. 1o. Loi qui fixe le montant de la contribution foncière pour l'an IV, et détermine le mode de sa perception,du 8 messidor, an IV -- 2o. Loi relative aux contribuables qui ont obtenu des réductions sur leur taxe, du 5 thermidor, an IV. B. 60, No. 559. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."""
+url = "https://archive.org/details/loisrelativeslac00fran_1"
+subject = [
+    "Real property tax",
+    "Property tax relief",
+    "Payment",
+    "Taxation",
+]
+extent = "4 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10347 no. 137"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t31311s1j"
+internet_archive = "loisrelativeslac00fran_1"
+
+[scan]
+file = "loisrelativeslac00fran_1.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loisrelativeslac00fran_1"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Directoire exécutif"
+role = "author"
+
+[[resp]]
+name = "Carnot, Lazare, 1753-1823"
+role = "author"
+
+[[resp]]
+name = "Lagarde, Joseph-Jean, baron, 1755-1840"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois, place du Carrousel"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_858466"
+
+[[text]]
+file = "loisrelativeslac00fran_1.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loisrelativeslac00fran_1.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loisrelativeslac00fran_1.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loisrelativeslac00fran_1.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

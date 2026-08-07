@@ -1,0 +1,35 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: lettre00unse_qp2
+page: 5
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 2169
+h: 3751
+dpi: 500
+---
+
+Rmi, ILLi»i AC EXCELLn»
+
+TYni ARCHIEPISCOPI , S. SEDIS AD
+TRACT UM RHEM CÆTERASQUE
+I^FERIORIS germa N jÆ PARTES CUJC
+POTESIATE LEGATI DE LATERE
+h UNTlI ,
+
+-A D
+
+Rmura ET ILLmum LEXOVIENSEM
+EPISCOPUM
+
+E P I S T O L A
+
+DE SANCITA A MODERNIS GALLiA
+ilODERATORIBUS REGIT REGIMINIS
+
+XXSCB.ATIONB.
+
+PERMISSU SÜPÉRÏORUM.
+
+AUGüSTÆ V ENDELICORUM,
+ÂlfNO I799*

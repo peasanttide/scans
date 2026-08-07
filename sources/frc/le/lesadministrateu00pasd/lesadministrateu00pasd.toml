@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lesadministrateu00pasd"
+type = "pamphlet"
+title = "... Les administrateurs du département du Pas-de-Calais, au Conseil des cinq-cents."
+language = "fr"
+place = "Paris"
+date = "1797"
+note = "Caption title. Imprint from colophon. At head of title: Corps législatif. Conseil des cinq-cents. Liberté. Égalité. A Arras, le 28 thermidor, l'an 5 de la République française, une et indivisible [15 août 1797]. Martin & Walter IV 2: 13480 (which specifies: Protestation de fidelité à la constitution). Scanner's note: No copyright page found. No table-of-contents pages found. Title is on cover page. Damaged, stained and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/lesadministrateu00pasd"
+extent = "4 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 6686"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t56f0xv1c"
+internet_archive = "lesadministrateu00pasd"
+openlibrary_edition = "OL26217854M"
+openlibrary_work = "OL17613579W"
+
+[scan]
+file = "lesadministrateu00pasd.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lesadministrateu00pasd"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Pas-de-Calais (France)"
+role = "author"
+
+[[resp]]
+name = "France. Corps législatif (1795-1814). Conseil des cinq-cents"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_60859"
+
+[[text]]
+file = "lesadministrateu00pasd.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lesadministrateu00pasd.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lesadministrateu00pasd.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lesadministrateu00pasd.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,68 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loirelativeaupai00fran_0"
+type = "pamphlet"
+title = "Loi relative au paiement du premier terme du prix des adjudications des biens nationaux : du 13 septembre 1792, l'an quatrième de la liberté : article additionnel au décret du 11 septembre 1792, relatif aux acquéreurs de biens nationaux qui pourroient avoir droit à un remboursement à raison de dixmes inféodées"
+language = "fr"
+place = "A Paris"
+date = "1792"
+note = """Caption title. "Au nom de la nation, le Conseil exécutif provisoire mande et ordonne ...". Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/loirelativeaupai00fran_0"
+subject = [
+    "Payment",
+    "Vendors and purchasers",
+    "Government sale of real property",
+]
+extent = "[1] p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10344 no. 103"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t88h3s36j"
+internet_archive = "loirelativeaupai00fran_0"
+openlibrary_edition = "OL26230698M"
+openlibrary_work = "OL17625675W"
+
+[scan]
+file = "loirelativeaupai00fran_0.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/loirelativeaupai00fran_0"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale. Conseil exécutif provisoire"
+role = "author"
+
+[[resp]]
+name = "Prault, Louis-François, 1734-1806"
+role = "publisher"
+
+[[resp]]
+name = "De l'imprimerie de Prault, au Palais"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_858676"
+
+[[text]]
+file = "loirelativeaupai00fran_0.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativeaupai00fran_0.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

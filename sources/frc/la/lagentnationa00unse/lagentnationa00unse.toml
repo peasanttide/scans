@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lagentnationa00unse"
+type = "pamphlet"
+title = "L'agent national près le district d'Avignon, aux municipalités, comités de surveillance et sociétés populaires de son ressort"
+language = "fr"
+place = "France"
+date = "1794"
+note = "Caption title. At head of title: Égalité, liberté. Avignon, le 25 messidor, an second de la République française, une et indivisible. Signed, p. [2]: Derat. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover. No page numbers."
+url = "https://archive.org/details/lagentnationa00unse"
+subject = ["Price regulation"]
+extent = "[3] p. ; 24 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 26657"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6b330p91"
+internet_archive = "lagentnationa00unse"
+openlibrary_edition = "OL26226681M"
+openlibrary_work = "OL17621914W"
+
+[scan]
+file = "lagentnationa00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lagentnationa00unse"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Derat"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_864799"
+
+[[text]]
+file = "lagentnationa00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lagentnationa00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lagentnationa00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lagentnationa00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

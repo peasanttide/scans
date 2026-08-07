@@ -1,0 +1,89 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loirelativeauxof00fran_1"
+type = "pamphlet"
+title = "Loi relative aux officiers privés de leur état sans cause légitime, ou arbitrairement suspendus de leurs fonctions : donnée à Paris le 12 septembre 1791"
+language = "fr"
+place = "A Paris"
+date = "1792"
+note = """
+Caption title. At right of title: No. 1275. "Pour le roi. Signé M.L.F. DuPort"--P. 2. Imprint from colophon. Not in Martin & Walter. Révolution française. "Décret de l'Assemblée nationale, du 5 septembre 1791"--P. [1]-2. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover. 
+Only one numbered page."""
+url = "https://archive.org/details/loirelativeauxof00fran_1"
+subject = [
+    "France. Armée",
+    "Military discharge",
+]
+extent = "2 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10342 no. 13"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4fn6b93c"
+internet_archive = "loirelativeauxof00fran_1"
+openlibrary_edition = "OL26231339M"
+openlibrary_work = "OL17626247W"
+
+[scan]
+file = "loirelativeauxof00fran_1.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loirelativeauxof00fran_1"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Sovereign (1774-1792 : Louis XVI)"
+role = "author"
+
+[[resp]]
+name = "Duport-Dutertre, Marguerite-Louis-François, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "Imprimerie royale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie royale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_856010"
+
+[[text]]
+file = "loirelativeauxof00fran_1.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativeauxof00fran_1.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativeauxof00fran_1.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativeauxof00fran_1.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,61 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "livresproposesau00guil"
+type = "pamphlet"
+title = "Livres proposés au rabais, chez Guillaume fils, place du pont Saint-Michel, près la rue de l'Hirondelle"
+language = "fr"
+place = "Paris"
+date = "1776"
+note = "Caption title. Imprint from colophon. Place and date of publication from BN. Head-piece. BN. Catalogues de libraires. With original and discounted prices. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text.  Title page and cover are combined."
+url = "https://archive.org/details/livresproposesau00guil"
+subject = ["Guillaume, Charles, 18th cent"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 4 no. 51"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9r26mx70"
+internet_archive = "livresproposesau00guil"
+
+[scan]
+file = "livresproposesau00guil.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/livresproposesau00guil"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Guillaume, Charles,18th cent"
+role = "author"
+
+[[resp]]
+name = "Guillaume, Charles, 18th cent"
+role = "author"
+
+[[resp]]
+name = "Couturier, Denis Clément, 1714?-1786"
+role = "printer"
+
+[[resp]]
+name = "De l'imprimerie de D.C. Couterier pere, aux galeries du Louvre"
+role = "publisher"
+
+[[text]]
+file = "livresproposesau00guil.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "livresproposesau00guil.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

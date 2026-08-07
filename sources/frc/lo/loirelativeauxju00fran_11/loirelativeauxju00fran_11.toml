@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loirelativeauxju00fran_11"
+type = "pamphlet"
+title = "Loi relative aux jugemens arbitraux qui ont adjugé à des communes la proprieté de forêts prétendues nationales, à l'exploitation desquelles il était sursis : du 28 brumaire an VII de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1798"
+note = """Caption title. At head of title: Au nom de la République française. Signed: Treilhard, président; par le Directoire exécutif, le secrétaire général, Lagarde. Imprint from colophon. "No. 2, 4, 9"--Bottom of p. [1]; "No. 815"--Top of p. [1]. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover. Only one numbered page."""
+url = "https://archive.org/details/loirelativeauxju00fran_11"
+subject = [
+    "Land tenure",
+    "Forests and forestry",
+    "Appellate procedure",
+]
+extent = "2 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 28281"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4rj9km55"
+internet_archive = "loirelativeauxju00fran_11"
+openlibrary_edition = "OL26226828M"
+openlibrary_work = "OL17622055W"
+
+[scan]
+file = "loirelativeauxju00fran_11.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/loirelativeauxju00fran_11"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Directoire exécutif"
+role = "author"
+
+[[resp]]
+name = "Treilhard, M. (Jean-Baptiste), 1742-1810"
+role = "author"
+
+[[resp]]
+name = "Lagarde, Joseph-Jean, baron, 1755-1840"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois, place du Carrousel"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_859289"
+
+[[text]]
+file = "loirelativeauxju00fran_11.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativeauxju00fran_11.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

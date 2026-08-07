@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loiquideterminel00fran_45"
+type = "pamphlet"
+title = "Loi qui détermine les formalités à remplir par des propriétaires de rentes dites ancien clergé, pour être admis en liquidation : du deuxième jour des Sans-culotides, l'an second de la République française une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1794"
+note = """Caption title. At head of title: (No. 91.-1*). At right of title: B. no. 61, D. 329. Signed: Bernard, président; Cordier, J. Borie, secrétaires. Imprint from colophon. Not in Martin & Walter. Révolution française. "La Convention nationale ... décrète ..."--P. [1]. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover. No numbered pages."""
+url = "https://archive.org/details/loiquideterminel00fran_45"
+subject = [
+    "Land tenure",
+    "Liquidation",
+]
+extent = "[1] p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 28300"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3vt6sd38"
+internet_archive = "loiquideterminel00fran_45"
+openlibrary_edition = "OL26227346M"
+openlibrary_work = "OL17622574W"
+
+[scan]
+file = "loiquideterminel00fran_45.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/loiquideterminel00fran_45"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Bernard de Saintes, André-Antoine des Zeuzines, 1751-1819"
+role = "author"
+
+[[resp]]
+name = "Borie, Jean, 1756-1805"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois, place de la Réunion, ci-devant du grand Carrousel"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_860392"
+
+[[text]]
+file = "loiquideterminel00fran_45.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquideterminel00fran_45.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

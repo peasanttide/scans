@@ -1,0 +1,78 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettredemlambass00dors_1"
+type = "pamphlet"
+title = "Lettre de M. l'ambassadeur d'Angleterre à M. le comte de Montmorin : Paris, ce 26 juillet 1789."
+language = "fr"
+place = "Montauban (Tarn-et-Garonne)"
+date = "1789"
+note = """Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Variant of BN, CLIX, column 1016. "Réponse de M. le duc de Liancourt, président de l'Assemblée nationale, à M. le comte de Montmorin"--P. 3-4. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Skewed text. Damaged, uneven binding."""
+url = "https://archive.org/details/lettredemlambass00dors_1"
+subject = ["France. Assemblée nationale constituante (1789-1791)"]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 17574"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t20c9xf8d"
+internet_archive = "lettredemlambass00dors_1"
+
+[scan]
+file = "lettredemlambass00dors_1.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettredemlambass00dors_1"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Dorset, John Frederick Sackville, Duke of, 1745-1799"
+role = "author"
+
+[[resp]]
+name = "La Rochefoucauld-Liancourt, François-Alexandre-Frédéric, duc de, 1747-1827"
+role = "author"
+
+[[resp]]
+name = "Montmorin-Saint-Hérem, Armand-Marc, comte de, 1745-1792"
+role = "author"
+
+[[resp]]
+name = "Imprimé sous les auspices du comité patriotique de la ville de Montauban, & afin que tout le public puisse aisément s'en procurer des exemplaires, le sieur Crosilhes, libraire, les a fixés à la modique somme d'un sou"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_836354"
+
+[[text]]
+file = "lettredemlambass00dors_1.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredemlambass00dors_1.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredemlambass00dors_1.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredemlambass00dors_1.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

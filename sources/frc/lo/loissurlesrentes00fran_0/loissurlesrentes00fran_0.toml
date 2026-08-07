@@ -1,0 +1,78 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loissurlesrentes00fran_0"
+type = "pamphlet"
+title = "Lois sur les rentes et pensions et l'emploi des récépissés en paiement des domaines nationaux : des 15 vendémiaire et 2 ventose an V."
+language = "fr"
+place = "A Paris"
+date = "1796"
+note = """Caption title. At head of title: No. 419. Au nom de la République française. Imprint from colophon. "No. 9, 10"--Bottom of p. [1]. Not in Martin & Walter. Révolution française. 1o. Loi relative au paiemens des arrérages de rentes et pensions dues pour le second semestre de l'an IV, et à leur emploi en acquisition de domaines nationaux -- 2o. Loi portant que les commissaires de la résorerie feront distraction du sixième net de toutes les sommes qui proviendront de la perception des revenus et contributions ordinaires, pour l'employer au paiemens des arrérages des rentes et pensions, ordonné par la loi du cinquième jour complémentaire. Scanner's note: Title page located on front cover. No copyright page found. No table-of-contents pages found. Worn, damaged and discolored pages and cover. Skewed text. Uneven binding."""
+url = "https://archive.org/details/loissurlesrentes00fran_0"
+subject = [
+    "France. Trésorerie nationale",
+    "Debts, Public",
+    "Payment",
+]
+extent = "4 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 28024"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t41s1z745"
+internet_archive = "loissurlesrentes00fran_0"
+
+[scan]
+file = "loissurlesrentes00fran_0.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loissurlesrentes00fran_0"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois, place du Carrousel, et se trouve dans les villes chef-lieux de département, au bureau de correspondance du Dépôt des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_859179"
+
+[[text]]
+file = "loissurlesrentes00fran_0.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loissurlesrentes00fran_0.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loissurlesrentes00fran_0.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loissurlesrentes00fran_0.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

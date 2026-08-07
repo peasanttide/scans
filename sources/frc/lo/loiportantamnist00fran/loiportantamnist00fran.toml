@@ -1,0 +1,77 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loiportantamnist00fran"
+type = "pamphlet"
+title = "Loi portant amnistie en faveur des militaires qui ont quitté leur corps pour rentrer dan l'intérieur, et injonction aux défenseurs autres que ceux absens par congés, de rejoindre les drapeaux de la République dans le délai de dix jours : du 10 thermidor, an troisième de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1795"
+note = """Caption title. At head of title: (No. 478.*). At right of title: B. no. 168. D. no. 908. "La Convention nationale ... décrète ..."--P. [1]. Imprint from colophon. Not in Martin & Walter. Révolution française. Forms for those exempt from laws governing desertion, p. 4. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."""
+url = "https://archive.org/details/loiportantamnist00fran"
+subject = [
+    "Desertion, Military",
+    "Amnesty",
+]
+extent = "4 p. ; 28 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10346 no. 113"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9j43x473"
+internet_archive = "loiportantamnist00fran"
+
+[scan]
+file = "loiportantamnist00fran.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loiportantamnist00fran"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_861879"
+
+[[text]]
+file = "loiportantamnist00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiportantamnist00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiportantamnist00fran.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiportantamnist00fran.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

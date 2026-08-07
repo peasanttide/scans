@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettreaddressepa00berg"
+type = "pamphlet"
+title = "Lettre addressé par M. Bergasse au Journal de Paris, & refusée par l'un des directeurs de cette feuille, en conséquence d'une délibération du comité."
+language = "fr"
+place = "France"
+date = "1789"
+note = """Caption title. "Paris, le 5 janvier 1789"--P. 4. Not in Martin & Walter. Révolution française. Disavowing authorship of the Cahier du Tiers-État à l'asemblée des États-généraux de 1789. Scanner's note: No copyright page found. No table-of-contents pages found."""
+url = "https://archive.org/details/lettreaddressepa00berg"
+subject = [
+    "Bergasse, Nicolas, 1750-1832",
+    "Journal de Paris",
+]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 14427"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1rg0bz7s"
+internet_archive = "lettreaddressepa00berg"
+openlibrary_edition = "OL25910895M"
+openlibrary_work = "OL17334572W"
+
+[scan]
+file = "lettreaddressepa00berg.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettreaddressepa00berg"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Bergasse, Nicolas, 1750-1832"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_829852"
+
+[[text]]
+file = "lettreaddressepa00berg.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettreaddressepa00berg.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettreaddressepa00berg.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettreaddressepa00berg.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

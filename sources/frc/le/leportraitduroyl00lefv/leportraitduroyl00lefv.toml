@@ -1,0 +1,68 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "leportraitduroyl00lefv"
+type = "pamphlet"
+title = "Le portrait du roy Louis XV"
+language = "fr"
+place = "Paris"
+date = "1745"
+note = """Binder's titel: Retour du roy. Caption title. Poetry. Inlaid. Signed: Antoine-Martial Le Fevre, prêtre de Paris, bachelier en theologie. "Lettre d'un epoux à sa femme, du camp d'Ostende": p. 3-4. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover.  Uneven binding.  Skewed text.  Irregular pagination."""
+url = "https://archive.org/details/leportraitduroyl00lefv"
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "E 5 .L92705 v. 04 no. 10"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3034ww7z"
+internet_archive = "leportraitduroyl00lefv"
+
+[scan]
+file = "leportraitduroyl00lefv.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/leportraitduroyl00lefv"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Le Fèvre, Antoine Martial"
+role = "author"
+
+[[resp]]
+name = "Le Fèvre, Antoine Martial"
+role = "author"
+
+[[resp]]
+name = "La veuve Valleyre"
+role = "publisher"
+
+[[text]]
+file = "leportraitduroyl00lefv.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "leportraitduroyl00lefv.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "leportraitduroyl00lefv.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "leportraitduroyl00lefv.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

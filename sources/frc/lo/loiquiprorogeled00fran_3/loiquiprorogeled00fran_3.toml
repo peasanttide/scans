@@ -1,0 +1,67 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loiquiprorogeled00fran_3"
+type = "pamphlet"
+title = "Loi qui proroge le delai accordé par celle du 1er. floréal aux créanciers des émigrés, pour le dépôt de leurs titres : du 22 thermidor, an troisième de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1795"
+note = """Caption title. At head of title: (No. 496.*). At right of title: B. no. 270. D. no. 1013. "La Convention nationale ... décrète ...". Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/loiquiprorogeled00fran_3"
+subject = [
+    "Refugees",
+    "Debtor and creditor",
+]
+extent = "[1] p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10346 no. 127"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0ht7sc57"
+internet_archive = "loiquiprorogeled00fran_3"
+openlibrary_edition = "OL26230554M"
+openlibrary_work = "OL17625530W"
+
+[scan]
+file = "loiquiprorogeled00fran_3.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/loiquiprorogeled00fran_3"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_861893"
+
+[[text]]
+file = "loiquiprorogeled00fran_3.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquiprorogeled00fran_3.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

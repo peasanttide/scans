@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loisconcernantle00fran_30"
+type = "pamphlet"
+title = "Lois concernant les prêtres déportés a la restitution de leurs biens : des 20 et 22 fructidor an troisième de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1795"
+note = """Caption title. At head of title: (No. 541.*). At right of title: B. no. 176. D. no. 1072. "La Convention nationale ... décrète ce qui suit"--P. [1]. Imprint from colophon. Not in Martin & Walter. Révolution française. 1o. Loi qui ordonne le bannissement à perpétuitié des prêtres déportés et rentrés sur le territoire français, et prononce des peines contre tout ministres des cultes qui ne se conformeraient pas aux lois de la République : du 20 fructidor an troisième -- 2o. Décret concernant les biens des prêtres déportés : du 22 fructidor an troisième. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover."""
+url = "https://archive.org/details/loisconcernantle00fran_30"
+subject = [
+    "Catholic nonjurors",
+    "Religion and state",
+]
+extent = "3 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 28270"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7qp18977"
+internet_archive = "loisconcernantle00fran_30"
+openlibrary_edition = "OL26227200M"
+openlibrary_work = "OL17622427W"
+
+[scan]
+file = "loisconcernantle00fran_30.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loisconcernantle00fran_30"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois, place du Carrousel"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_861922"
+
+[[text]]
+file = "loisconcernantle00fran_30.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loisconcernantle00fran_30.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loisconcernantle00fran_30.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loisconcernantle00fran_30.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

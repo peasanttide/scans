@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "laussat00unse"
+type = "pamphlet"
+title = "Laussat, député au Corps législatif par le département des Basses-Pyrénées, a ses commettans, sur la révolution des 18 et 19 brumaire."
+language = "fr"
+place = "Paris"
+date = "1799"
+note = "Caption title. At head of title: Liberté. Égalité. Paris, le 20 brumaire an 8 de la République française. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  III, 19681. Scanner's note: No copyright page found. No table-of-contents pages found. Title page is on the cover. Damaged, stained, and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/laussat00unse"
+extent = "3 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 20801"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t37139d5s"
+internet_archive = "laussat00unse"
+openlibrary_edition = "OL26238443M"
+openlibrary_work = "OL17632973W"
+
+[scan]
+file = "laussat00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/laussat00unse"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Laussat, Pierre-Clément de, 1756-1835"
+role = "author"
+
+[[resp]]
+name = "Baudouin, François-Jean, 1759-1838"
+role = "publisher"
+
+[[resp]]
+name = "Baudouin, imprimeur du Corps législatif"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_843471"
+
+[[text]]
+file = "laussat00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "laussat00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "laussat00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "laussat00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

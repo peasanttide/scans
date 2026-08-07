@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "laccusateurpu00unse"
+type = "pamphlet"
+title = "L'accusateur public du tribunal criminel du département de Paris, a tous les officiers du département, chargés de la police de sûreté"
+language = "fr"
+place = "France"
+date = "1794"
+note = "Caption title. Signed: Lebois. Paris, 15 floréal, l'an II de la République française une et indivisible. Variant of Martin & Walter. Révolution française, III, 19968. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover.  No numbered pages."
+url = "https://archive.org/details/laccusateurpu00unse"
+subject = [
+    "Warrants (Law)",
+    "Criminal justice, Administration of",
+]
+extent = "[2] p. ; 25 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 26882"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t81k4jc07"
+internet_archive = "laccusateurpu00unse"
+openlibrary_edition = "OL26226804M"
+openlibrary_work = "OL17622031W"
+
+[scan]
+file = "laccusateurpu00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/laccusateurpu00unse"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Le Bois, Claude"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_866630"
+
+[[text]]
+file = "laccusateurpu00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "laccusateurpu00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "laccusateurpu00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "laccusateurpu00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettredemonsieur00bonn"
+type = "pamphlet"
+title = "Lettre de monsieur le président de l'Assemblée nationale à M. Vauvilliers, lieutenant de maire : Paris, le 17 avril 1790."
+language = "fr"
+place = "Paris"
+date = "1790"
+note = "Caption title. Signed: Le marquis de Bonnay, président de l'Assemblée nationale. Imprint from colophon. Publisher location from Martin & Walter. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  I, 4091. Scanner's note: No copyright page found. No table-of-contents pages found. Damaged, stained pages and cover. Title on cover. Only one numbered page."
+url = "https://archive.org/details/lettredemonsieur00bonn"
+subject = ["Vauvilliers, Jean-François, 1737-1801"]
+extent = "2 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 14957"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1kh5j79h"
+internet_archive = "lettredemonsieur00bonn"
+openlibrary_edition = "OL26191321M"
+openlibrary_work = "OL17588145W"
+
+[scan]
+file = "lettredemonsieur00bonn.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettredemonsieur00bonn"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Bonnay, Charles-François, marquis de, 1750-1825"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Lottin l'aîné & Lottin de S.-Germain, imprimeurs-libraires ordinaires de la ville"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_830805"
+
+[[text]]
+file = "lettredemonsieur00bonn.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredemonsieur00bonn.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredemonsieur00bonn.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredemonsieur00bonn.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

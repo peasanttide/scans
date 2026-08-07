@@ -1,0 +1,91 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettrespatentesd00fran_83"
+type = "pamphlet"
+title = "Lettres patentes du roi, qui fixent à six mois le délai pendant lequel les déclarations de défrichemens pourront être contredites par les communautés d'habitans ou les décimateurs : données à Fontainebleau le 7 novembre 1775 : registées en Parlement le 26 janvier 1776"
+language = "fr"
+place = "A Paris"
+date = "1776"
+note = """Caption title. "Signé Louis. Et plus bas: par le roi, Saint-Germain"--P. 3. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, stained and/or loose pages Skewed text. Uneven binding. Title and cover page are combined. Text on the back cover is upside-down."""
+url = "https://archive.org/details/lettrespatentesd00fran_83"
+subject = [
+    "Clearing of land",
+    "Land tenure",
+]
+extent = "3 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC suppl. 90 no. 7"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t35196v32"
+internet_archive = "lettrespatentesd00fran_83"
+openlibrary_edition = "OL26235113M"
+openlibrary_work = "OL17629696W"
+
+[scan]
+file = "lettrespatentesd00fran_83.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettrespatentesd00fran_83"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Sovereign (1774-1792 : Louis XVI)"
+role = "author"
+
+[[resp]]
+name = "Louis XVI, King of France, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "Saint-Germain, Claude-Louis, comte de, 1707-1778"
+role = "author"
+
+[[resp]]
+name = "Simon, P. G. (Pierre-Guillaume), 1722-1787"
+role = "publisher"
+
+[[resp]]
+name = "France. Parlement (Paris)"
+role = "author"
+
+[[resp]]
+name = "Chez P.G. Simon, imprimeur du Parlement, rue Mignon Saint André-des-Arcs"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_861565"
+
+[[text]]
+file = "lettrespatentesd00fran_83.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrespatentesd00fran_83.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrespatentesd00fran_83.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrespatentesd00fran_83.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

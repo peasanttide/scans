@@ -1,0 +1,96 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettredemessieur00thou"
+type = "pamphlet"
+title = "Lettre de Messieurs les députés de la Seine Inférieure, a MM. les officiers municipaux et du conseil général de la commune de Rouen : le 23 juin 1791"
+language = "fr"
+place = "A Rouen"
+date = "1791"
+note = "Caption title. Signed: Thouret. De Fontenay. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text. No title page found. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/lettredemessieur00thou"
+subject = ["Louis XVI, King of France, 1754-1793"]
+extent = "4 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 27234"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5x68nf0b"
+internet_archive = "lettredemessieur00thou"
+openlibrary_edition = "OL26229267M"
+openlibrary_work = "OL17624301W"
+
+[scan]
+file = "lettredemessieur00thou.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettredemessieur00thou"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Thouret,1746-1794"
+role = "author"
+
+[[resp]]
+name = "Thouret, 1746-1794"
+role = "author"
+
+[[resp]]
+name = "Defontenay, Pierre Nicolas, 1743-1806"
+role = "author"
+
+[[resp]]
+name = "Seyer, Pierre, 1735-"
+role = "publisher"
+
+[[resp]]
+name = "Behourt, Pierre-Louis, 1750-1805?"
+role = "publisher"
+
+[[resp]]
+name = "Rouen (France)"
+role = "author"
+
+[[resp]]
+name = "Rouen (France). Conseil général"
+role = "author"
+
+[[resp]]
+name = "De l'imp. de P. Seyer & Behourt, imp. de la municipalité"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_868158"
+
+[[text]]
+file = "lettredemessieur00thou.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredemessieur00thou.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredemessieur00thou.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredemessieur00thou.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

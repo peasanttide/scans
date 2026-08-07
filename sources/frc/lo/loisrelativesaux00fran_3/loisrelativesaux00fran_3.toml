@@ -1,0 +1,83 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loisrelativesaux00fran_3"
+type = "pamphlet"
+title = "Lois relatives aux emigrés"
+language = "fr"
+place = "A Paris"
+date = "1795"
+note = """Caption title. At head of title: (No. 239*). At right of title: B. no. 110, D. 577. Signed: Le Tourneur (de la Manche), présient; Dumont (du Calvados), Auguis, secrétaires. Imprint from colophon. Not in Martin & Walter. Révolution française. "La Convention nationale ... décrète ..."--P. [1]. 1o. Loi relative à la rentrée en France des ouvriers et laboureurs non ex-nobles ou prêtres, sortis du territoire de la République depuis le premier mai 1793, du 22 nivose, l'an troisième ... -- 2o. Loi portant qu'en attendant que le sequestre sur les biens des pères et mères des émigrés soit levé, il leur sera accordé, sur le produit de ces biens, les secours qui leur sont nécessaires, du 23 nivose, l'an troisième ... b. no. 112, D. 582. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/loisrelativesaux00fran_3"
+subject = [
+    "Refugees",
+    "Refugee property",
+]
+extent = "3 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10345 no. 130"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3rv5q58r"
+internet_archive = "loisrelativesaux00fran_3"
+openlibrary_edition = "OL26229374M"
+openlibrary_work = "OL17624408W"
+
+[scan]
+file = "loisrelativesaux00fran_3.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loisrelativesaux00fran_3"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Le Tourneur, Etienne-François-Louis-Honoré, 1751-1817"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépot des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_860466"
+
+[[text]]
+file = "loisrelativesaux00fran_3.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loisrelativesaux00fran_3.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loisrelativesaux00fran_3.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loisrelativesaux00fran_3.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

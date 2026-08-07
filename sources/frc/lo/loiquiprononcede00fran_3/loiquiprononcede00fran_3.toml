@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loiquiprononcede00fran_3"
+type = "pamphlet"
+title = "Loi qui prononce des peines contre les officiers de santé et autres employés aux hopitaux militaires, qui quitteraient leur poste sans congé ou permission : du 4 brumaire, an quatrième de la République française une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1795"
+note = """Caption title. At head of title: (No. 638*). At right of title: B. no. 202, D. 1213. "La Convention nationale, sur la réclamation de l'agence ..."--P. [1]. Signed: Bréard, ex-président; Gleizal, secrétaire; Roger-Ducos, ex-secrétaire. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover. No page numbers."""
+url = "https://archive.org/details/loiquiprononcede00fran_3"
+subject = [
+    "France. Armée",
+    "Military deserters",
+]
+extent = "[1] p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10347 no. 32"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t51g5v772"
+internet_archive = "loiquiprononcede00fran_3"
+openlibrary_edition = "OL26230194M"
+openlibrary_work = "OL17625170W"
+
+[scan]
+file = "loiquiprononcede00fran_3.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/loiquiprononcede00fran_3"
+ppi = 300
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Bréard, Jean Jacques, 1750-1840"
+role = "author"
+
+[[resp]]
+name = "Gleizal, Claude, 1761-1833"
+role = "author"
+
+[[resp]]
+name = "Ducos, Roger, 1747-1816"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_858359"
+
+[[text]]
+file = "loiquiprononcede00fran_3.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquiprononcede00fran_3.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

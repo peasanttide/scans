@@ -1,0 +1,87 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loirelativeauxou00fran"
+type = "pamphlet"
+title = "Loi relative aux ouvriers imprimeurs de l'Imprimerie nationale lėgislative, & de l'Imprimerie nationale exécutive : du 22 août 1792, l'an 4e. de la liberté"
+language = "fr"
+place = "A Paris"
+date = "1792"
+note = """Caption title. At right of title: No. 2266. "Au nom de la nation, le Conseil exécutif provisoire mande & ordonne ... Signé Roland, contresigné Danton"--P. [1]-2. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover. Only one numbered page."""
+url = "https://archive.org/details/loirelativeauxou00fran"
+subject = [
+    "Printers",
+    "Draft",
+]
+extent = "2 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10344 no. 38"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2b90dp8b"
+internet_archive = "loirelativeauxou00fran"
+openlibrary_edition = "OL26230404M"
+openlibrary_work = "OL17625380W"
+
+[scan]
+file = "loirelativeauxou00fran.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loirelativeauxou00fran"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale. Conseil exécutif provisoire"
+role = "author"
+
+[[resp]]
+name = "Roland de La Platière, Jean-Marie, 1734-1793"
+role = "author"
+
+[[resp]]
+name = "Danton, Georges Jacques, 1759-1794"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale du Louvre"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_386945"
+
+[[text]]
+file = "loirelativeauxou00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativeauxou00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativeauxou00fran.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativeauxou00fran.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

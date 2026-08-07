@@ -1,0 +1,88 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loiquiordo00unse"
+type = "pamphlet"
+title = "Loi qui ordonne l'exécution des anciens règlemens de police relatifs aux usines, ateliers ou fabriques établis dans les villes : donnée à Paris, le 13 novembre 1791"
+language = "fr"
+place = "A Paris"
+date = "1791"
+note = """Caption title. At right of title: No. 1429. "Signé Louis. Et plus bas, M.L.F. DuPort"--P. 2. Imprint from colophon. Not in Martin & Walter. Révolution française. "Décret de l'Assemblée nationale, du 21 septembre 1791"--P. [1]-2. Scanner's note: No copyright page found. No table-of-contents pages found.  No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."""
+url = "https://archive.org/details/loiquiordo00unse"
+subject = ["Factory laws and legislation"]
+extent = "2 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 28073"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5bc94816"
+internet_archive = "loiquiordo00unse"
+openlibrary_edition = "OL26229240M"
+openlibrary_work = "OL17624274W"
+
+[scan]
+file = "loiquiordo00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loiquiordo00unse"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Sovereign (1774-1792 : Louis XVI)"
+role = "author"
+
+[[resp]]
+name = "Louis XVI, King of France, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "Duport-Dutertre, Marguerite-Louis-François, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "Imprimerie royale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie royale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_856072"
+
+[[text]]
+file = "loiquiordo00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquiordo00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquiordo00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquiordo00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

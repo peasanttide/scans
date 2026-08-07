@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lesbonseffetsdus00rous"
+type = "pamphlet"
+title = "Les bons effets du salpétre, chanson patriotique, à l'ordre du jour."
+language = "fr"
+place = "Paris"
+date = "1793"
+note = """Caption title. Signed: Par le républicain T. Rousseau, archiviste des Jacobins de Paris. "On trouve chez l'auteur, aux archives des Jacobins, rue Saint-Honoré à Paris, la collection entière de ces chants patriotiques et républicains. Prix 3 liv. franc de port."--Bottom of p. [1]. Imprint from colophon. Publication location from Martin & Walter. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  IV:1, 30117. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on the cover page. Skewed text."""
+url = "https://archive.org/details/lesbonseffetsdus00rous"
+subject = ["Revolutionary ballads and songs"]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 13085"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9q28p44h"
+internet_archive = "lesbonseffetsdus00rous"
+openlibrary_edition = "OL25931652M"
+openlibrary_work = "OL17353881W"
+
+[scan]
+file = "lesbonseffetsdus00rous.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lesbonseffetsdus00rous"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Rousseau, Thomas, -1800"
+role = "author"
+
+[[resp]]
+name = "Club des Jacobins"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Boulard, rue de la Montagne, no. 156"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_827805"
+
+[[text]]
+file = "lesbonseffetsdus00rous.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lesbonseffetsdus00rous.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lesbonseffetsdus00rous.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lesbonseffetsdus00rous.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

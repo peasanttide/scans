@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettreduroiam00fran"
+type = "pamphlet"
+title = "Lettre du roi à M. l'amiral, pour faire délivrer des commissions en course. Du 10 juillet 1778."
+language = "fr"
+place = "Paris"
+date = "1778"
+note = "Caption title. Reprisals to be taken against English attacks on and seizures of French ships. Signed by Louis and by De Sartine. Orders the French Navy to attack all British vessels and to protect French merchant ships headed for the French colonies in America. Martin & Walter."
+url = "https://archive.org/details/lettreduroiam00fran"
+subject = [
+    "France. Marine",
+    "Anglo-French War, 1778-1783",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case F 39 .328 no. 100"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8vb45b9m"
+internet_archive = "lettreduroiam00fran"
+
+[scan]
+file = "lettreduroiam00fran.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettreduroiam00fran"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Sovereign (1774-1792 : Louis XVI)"
+role = "author"
+
+[[resp]]
+name = "France. Sovereign (1774-1792 : Louis XVI)"
+role = "author"
+
+[[resp]]
+name = "Louis XVI, King of France, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "Imprimerie Royale"
+role = "publisher"
+
+[[text]]
+file = "lettreduroiam00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettreduroiam00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettreduroiam00fran.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettreduroiam00fran.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettrepastor00unse"
+type = "pamphlet"
+title = "Lettre pastorale de l'évêque constitutionnel du département de la Dordogne, a tous les pasteurs constitutionnels du département, & à tous les prêtres"
+language = "fr"
+place = "A Périgueux"
+date = "1791"
+note = "Caption title. Signed: P. Pontard, évêque du département de la Dordogne .. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.   Title page and cover are combined. Damaged, stained and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/lettrepastor00unse"
+subject = [
+    "Pontard, Pierre, 1749-1832",
+    "Catholic Church",
+    "Church and state",
+]
+extent = "4 p. ; 25 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 27104"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3wt3t743"
+internet_archive = "lettrepastor00unse"
+openlibrary_edition = "OL26226278M"
+openlibrary_work = "OL17621545W"
+
+[scan]
+file = "lettrepastor00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettrepastor00unse"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Pontard, Pierre,1749-1832"
+role = "author"
+
+[[resp]]
+name = "Pontard, Pierre, 1749-1832"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie des Amis de la constitution & de M. l'evêque"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_867744"
+
+[[text]]
+file = "lettrepastor00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrepastor00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrepastor00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrepastor00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

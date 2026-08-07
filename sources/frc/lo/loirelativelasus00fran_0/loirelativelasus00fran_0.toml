@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loirelativelasus00fran_0"
+type = "pamphlet"
+title = "Loi relative à la suspension du pouvoir exécutif : donné à Paris, le 10 août 1792, l'an 4.e de la liberté"
+language = "fr"
+place = "A Paris"
+date = "1792"
+note = """Caption title. At head of title: No. 1978. "Décret de l'Assemblée nationale ..."--P. [1]. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."""
+url = "https://archive.org/details/loirelativelasus00fran_0"
+subject = [
+    "Louis XVI, King of France, 1754-1793",
+    "Executive power",
+    "Representative government and representation",
+]
+extent = "4 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10344 no. 6"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3hx6gz3n"
+internet_archive = "loirelativelasus00fran_0"
+openlibrary_edition = "OL26230580M"
+openlibrary_work = "OL17625556W"
+
+[scan]
+file = "loirelativelasus00fran_0.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loirelativelasus00fran_0"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Assemblée nationale législative (1791-1792)"
+role = "author"
+
+[[resp]]
+name = "Imprimerie royale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie royale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_858579"
+
+[[text]]
+file = "loirelativelasus00fran_0.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativelasus00fran_0.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativelasus00fran_0.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativelasus00fran_0.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

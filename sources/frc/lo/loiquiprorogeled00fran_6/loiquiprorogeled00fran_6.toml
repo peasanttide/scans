@@ -1,0 +1,64 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loiquiprorogeled00fran_6"
+type = "pamphlet"
+title = "Loi qui proroge le délai fixé par celle du 26 brumaire relative à la saisie et confiscation de marchandises anglaises : du 19 frimaire, an V de la République française une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1796"
+note = """Caption title. At head of title: No. 375. Au nom de la République française. Imprint from colophon. "Nos. 3, 11, 15"--Bottom of p. [1]. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/loiquiprorogeled00fran_6"
+subject = ["Foreign trade regulation"]
+extent = "2 p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10348 no. 75"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3vt6sv71"
+internet_archive = "loiquiprorogeled00fran_6"
+openlibrary_edition = "OL26229744M"
+openlibrary_work = "OL17624777W"
+
+[scan]
+file = "loiquiprorogeled00fran_6.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/loiquiprorogeled00fran_6"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Depot des lois, place du Carrousel, et se trouve dans les villes chefs-lieux de département, au bureau de correspondance du Dépôt des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_859201"
+
+[[text]]
+file = "loiquiprorogeled00fran_6.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquiprorogeled00fran_6.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

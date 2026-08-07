@@ -1,0 +1,71 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "letterlocal00unse"
+type = "pamphlet"
+title = "[Letter on local elections]"
+language = "fr"
+place = "France"
+date = "1790"
+note = """At head of text: Montpellier le 20 février 1790. Signed: Ballainvilliers. "MM. les maire & officiers municipaux [blank]"--At end. Not in Martin & Walter. Révolution française. "Copie de la lettre écrite à M. de Ballainvilliers, intendant de Languedoc, par M. le comte de St. Priest, ministre & secrétaire d'État, le 2 février 1790"--P. [2]. The phrase "de Montbrun" added in ms. to Newberry's copy after the printed text "MM. les maire & officiers municipaux". Scanner's note: Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text. No title page found. No copyright page found. No table-of-contents pages found."""
+url = "https://archive.org/details/letterlocal00unse"
+subject = [
+    "Government publicity",
+    "Local elections",
+]
+extent = "[2] p. ; 24 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 27201"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4dn99422"
+internet_archive = "letterlocal00unse"
+openlibrary_edition = "OL26229275M"
+openlibrary_work = "OL17624309W"
+
+[scan]
+file = "letterlocal00unse.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/letterlocal00unse"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Ballainvilliers, Simon-Charles-Sébastien Bernard, baron de,1760-1835"
+role = "author"
+
+[[resp]]
+name = "Ballainvilliers, Simon-Charles-Sébastien Bernard, baron de, 1760-1835"
+role = "author"
+
+[[resp]]
+name = "Saint-Priest, François-Emmanuel Guignard, comte de, 1735-1821"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_868126"
+
+[[text]]
+file = "letterlocal00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "letterlocal00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

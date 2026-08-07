@@ -1,0 +1,84 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettre00unse_pyn"
+type = "pamphlet"
+title = "Lettre de M. Montmorin a M. le nonce : le 3 mai 1791."
+language = "fr"
+place = "Paris"
+date = "1791"
+note = "Caption title. Imprint from colophon. Variant of Martin & Walter. Révolution française, III, 25061. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover."
+url = "https://archive.org/details/lettre00unse_pyn"
+subject = [
+    "France",
+    "Catholic Church",
+    "Diplomatic and consular service, French",
+]
+extent = "3 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 22825"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t71w0r675"
+internet_archive = "lettre00unse_pyn"
+openlibrary_edition = "OL26236550M"
+openlibrary_work = "OL17631101W"
+
+[scan]
+file = "lettre00unse_pyn.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettre00unse_pyn"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Montmorin-Saint-Hérem, Armand-Marc, comte de, 1745-1792"
+role = "author"
+
+[[resp]]
+name = "Catholic Church. Apostolic Nunciature (France)"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_846865"
+
+[[text]]
+file = "lettre00unse_pyn.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00unse_pyn.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00unse_pyn.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00unse_pyn.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

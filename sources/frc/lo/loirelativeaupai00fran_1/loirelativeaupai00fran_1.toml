@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loirelativeaupai00fran_1"
+type = "pamphlet"
+title = "Loi relative au paiement des pensions : du 12 brumaire, l'an troisième de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1794"
+note = """Caption title. At head of title: (No. 149*). At right of title: B. no. 40, D. 420. Signed: Prieur (de la Marne), président; Goujon, A. Crassous, secrétaires. Imprint from colophon. Not in Martin & Walter. Révolution française. "La Convention nationale ... décrète ..."--P. [1]. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/loirelativeaupai00fran_1"
+subject = [
+    "France. Trésorerie nationale",
+    "Pensions",
+    "Payment",
+    "Domicile",
+]
+extent = "[1] p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10345 no. 83"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t23c16d66"
+internet_archive = "loirelativeaupai00fran_1"
+
+[scan]
+file = "loirelativeaupai00fran_1.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/loirelativeaupai00fran_1"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Prieur, Pierre-Louis, 1756-1827"
+role = "author"
+
+[[resp]]
+name = "Goujon, Jean-Marie-Claude-Alexandre, 1766-1795"
+role = "author"
+
+[[resp]]
+name = "Crassous, Joseph-Augustin, 1745-1829"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Depot des lois, place de la Réunion, ci-devant du grand-Carrousel"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_860419"
+
+[[text]]
+file = "loirelativeaupai00fran_1.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativeaupai00fran_1.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

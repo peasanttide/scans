@@ -1,0 +1,55 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettredeparisqui00fran"
+type = "pamphlet"
+title = "Lettre de Paris qui assurent que laffaire de la Constitusion du Pape y fait plus de bruit que iamais dautant plus quon aprend que le Saint Pere a charge le Cardinal de La Trimouille decrire au roy quil entendoit que tous les euesques se soumissent purement et simplement a sa Constitusion .."
+language = "fr"
+date = "1714"
+note = "Title from opening lines of text. At head of letter: Ce 8 7bre [i.e. september] 1714. Manuscript on paper. Includes the résumé of a letter supposedly sent by Louis XIV to Pope Clement XI."
+url = "https://archive.org/details/lettredeparisqui00fran"
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 3 no. 53"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4wh8651c"
+internet_archive = "lettredeparisqui00fran"
+
+[scan]
+file = "lettredeparisqui00fran.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/lettredeparisqui00fran"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Sovereign (1643-1715 : Louis XIV)"
+role = "author"
+
+[[resp]]
+name = "Catholic Church. Pope (1700-1721 : Clement XI)"
+role = "author"
+
+[[resp]]
+name = "[n.p."
+role = "publisher"
+
+[[text]]
+file = "lettredeparisqui00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredeparisqui00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

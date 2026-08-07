@@ -1,0 +1,81 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loirelativeautri00fran_2"
+type = "pamphlet"
+title = "Loi relative au tribunal de la police correctionnelle de Paris : du 19 vendémiaire, l'an troisième de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1794"
+note = """Caption title. At head of title: (No. 118*). At right of title: B. no. 71, D. 380. Signed: Cambacérès, président; Boissy, P. Lozeau, secrétaires. Imprint from colophon. Not in Martin & Walter. Révolution française. "La Convention nationale ... décrète ..."--P. [1]. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/loirelativeautri00fran_2"
+subject = [
+    "Criminal courts",
+    "Courts",
+    "Criminal procedure",
+    "Criminal justice, Administration of",
+]
+extent = "2 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10345 no. 67"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8z94cx4w"
+internet_archive = "loirelativeautri00fran_2"
+openlibrary_edition = "OL26229551M"
+openlibrary_work = "OL17624584W"
+
+[scan]
+file = "loirelativeautri00fran_2.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/loirelativeautri00fran_2"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Cambacérès, Jean Jacques Régis de, 1753-1824"
+role = "author"
+
+[[resp]]
+name = "Boissy d'Anglas, François-Antoine, comte de, 1756-1826"
+role = "author"
+
+[[resp]]
+name = "Lozeau, Paul-Augustin, -1816"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois, place de la Réunion, ci-devant du grand-Carrousel"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_860403"
+
+[[text]]
+file = "loirelativeautri00fran_2.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativeautri00fran_2.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

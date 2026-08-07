@@ -1,0 +1,69 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "ldescher00unse"
+type = "pamphlet"
+title = "L. Deschereaux letter regarding property in Arcahaie, Haiti"
+language = "fr"
+date = "1799"
+note = "Manuscript. Signed: L. Deschereaux fils ainé. Dated in accordance with the French Republican calendar: le 25. floreal an 7eme de la R/q francaise. Letter to an unnamed recipient inquiring after property in Arcahaie, Haiti, purchased by Dechereaux's father-in-law Henry Guyon from merchant Frederich d'Oleyres on February 13, 1793, in the name of his daughters Marie and Aurore Guyon. After several years without news from Guyon, Dechereaux and his wife presumed he had died amid violence during the Haitian Revolution. Scanner's note: No copyright page found. No table-of-contents pages found.  No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."
+url = "https://archive.org/details/ldescher00unse"
+subject = [
+    "Guyon, Henry",
+    "Oleyres, Frederich d'",
+    "Real property",
+    "Landowners",
+    "Manuscripts, French",
+]
+extent = "1 sheet ; 25 x 19 cm"
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 27549"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6sz1fp0z"
+internet_archive = "ldescher00unse"
+openlibrary_edition = "OL26229093M"
+openlibrary_work = "OL17624127W"
+
+[scan]
+file = "ldescher00unse.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/ldescher00unse"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Dechereaux, L.,"
+role = "author"
+
+[[resp]]
+name = "Dechereaux, L., creator"
+role = "author"
+
+[[resp]]
+name = "264: 0:$aLoix,"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_874590"
+
+[[text]]
+file = "ldescher00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ldescher00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

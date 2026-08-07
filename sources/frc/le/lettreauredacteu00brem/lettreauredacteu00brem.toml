@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettreauredacteu00brem"
+type = "pamphlet"
+title = "Lettre au rédacteur du Journal de Provence."
+language = "fr"
+place = "France"
+date = "1789"
+note = "Caption title. Signed: A. Bremond-Julien. Marseille, le 5 mai 1789. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on front cover. Damaged, stained, worn pages."
+url = "https://archive.org/details/lettreauredacteu00brem"
+subject = ["Mirabeau, Honoré-Gabriel de Riquetti, comte de, 1749-1791"]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 15282"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3421vr3k"
+internet_archive = "lettreauredacteu00brem"
+openlibrary_edition = "OL25948213M"
+openlibrary_work = "OL17369267W"
+
+[scan]
+file = "lettreauredacteu00brem.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettreauredacteu00brem"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Brémond-Julien, Antoine"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_831604"
+
+[[text]]
+file = "lettreauredacteu00brem.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettreauredacteu00brem.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettreauredacteu00brem.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettreauredacteu00brem.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

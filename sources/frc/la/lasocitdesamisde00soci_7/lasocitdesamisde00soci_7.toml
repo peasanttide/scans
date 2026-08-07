@@ -1,0 +1,71 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lasocitdesamisde00soci_7"
+type = "pamphlet"
+title = "A la Société des amis de la vérité"
+language = "fr"
+place = "s.l."
+date = "1791"
+note = "Caption title. Without imprint. Side-note on p.[25]: Septieme adresse. Extracted from an unidentified publication. Not in Martin & Walter. Scanner's note: Page numbers begin with 27.  Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages."
+url = "https://archive.org/details/lasocitdesamisde00soci_7"
+extent = "p. [25]-28 ; 25 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9115"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4jm7ck1c"
+internet_archive = "lasocitdesamisde00soci_7"
+openlibrary_edition = "OL26221328M"
+openlibrary_work = "OL17616891W"
+
+[scan]
+file = "lasocitdesamisde00soci_7.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lasocitdesamisde00soci_7"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Société des amis de la vérité"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_66185"
+
+[[text]]
+file = "lasocitdesamisde00soci_7.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lasocitdesamisde00soci_7.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lasocitdesamisde00soci_7.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lasocitdesamisde00soci_7.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

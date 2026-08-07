@@ -1,0 +1,91 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "livresnouveauxqu00piss"
+type = "pamphlet"
+title = "Livres nouveaux qui se trouvent chez Pissot, libraire, quai des Augustins, entre la rue Gilles-Cœur & le pont Saint-Michel"
+language = "fr"
+place = "Paris?"
+note = "Catalog of books published in the 1770s and sold by Pissot. Caption title. Includes detailed descriptions of five titles. Includes prices. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Title page and cover are combined."
+url = "https://archive.org/details/livresnouveauxqu00piss"
+subject = [
+    "Pissot",
+    "Booksellers and bookselling",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1a no. 131"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t47q4p567"
+internet_archive = "livresnouveauxqu00piss"
+
+[scan]
+file = "livresnouveauxqu00piss.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/livresnouveauxqu00piss"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Pissot"
+role = "author"
+
+[[resp]]
+name = "Pissot?"
+role = "publisher"
+
+[[text]]
+file = "livresnouveauxqu00piss.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "livresnouveauxqu00piss.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "livresnouveauxqu00piss.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "livresnouveauxqu00piss.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "livresnouveauxqu00piss.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "livresnouveauxqu00piss.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "livresnouveauxqu00piss.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "livresnouveauxqu00piss.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

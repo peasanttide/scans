@@ -1,0 +1,67 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loiquimodifieeti00fran"
+type = "pamphlet"
+title = "Loi qui modifie et interprète celle du 17 frimaire dernier, sur les établissemens de commerce ou manufactures dans lesquels étaient intéressés des individus dont les biens ont été confisqués au profit de la République : du 26 ventose, l'an troisième de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1795"
+note = """Caption title. At head of title: (No. 325.*). At right of title: B. no. 130. D. no. 703. "La convention nationale ... décrète ..."--P. [1]. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover. Only one numbered page."""
+url = "https://archive.org/details/loiquimodifieeti00fran"
+subject = [
+    "Refugee property",
+    "Industrial policy",
+]
+extent = "2 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10346 no. 18"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0ms8w17x"
+internet_archive = "loiquimodifieeti00fran"
+openlibrary_edition = "OL26230373M"
+openlibrary_work = "OL17625349W"
+
+[scan]
+file = "loiquimodifieeti00fran.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/loiquimodifieeti00fran"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_861784"
+
+[[text]]
+file = "loiquimodifieeti00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquimodifieeti00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

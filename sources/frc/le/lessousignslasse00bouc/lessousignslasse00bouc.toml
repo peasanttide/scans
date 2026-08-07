@@ -1,0 +1,77 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lessousignslasse00bouc"
+type = "pamphlet"
+title = "Les sousignés a l'Assemblée nationale : Aix, département des Bouches du Rh^one 6 ao^ut 1791."
+language = "fr"
+place = "A Aix"
+date = "1791"
+note = "Caption title. Imprint from colophon. Signed at end: ...Electeurs du département des Bouches du Rh^one. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on the cover page. Uneven binding. Skewed text. Damaged, stained, and/or loose pages."
+url = "https://archive.org/details/lessousignslasse00bouc"
+extent = "4 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 8476"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t17m5ct33"
+internet_archive = "lessousignslasse00bouc"
+
+[scan]
+file = "lessousignslasse00bouc.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lessousignslasse00bouc"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Bouches-du-Rhône (France)"
+role = "author"
+
+[[resp]]
+name = "Bouches-du-Rhône (France)"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "Des imprimeries de Gibelin-David & Emeric-David"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_30248"
+
+[[text]]
+file = "lessousignslasse00bouc.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lessousignslasse00bouc.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lessousignslasse00bouc.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lessousignslasse00bouc.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

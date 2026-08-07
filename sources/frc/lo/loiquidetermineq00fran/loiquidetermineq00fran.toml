@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loiquidetermineq00fran"
+type = "pamphlet"
+title = "Loi qui détermine à quels militaires est applicable celle du 23 août 1791, relative à la faculté de cumuler les pensions aec les traitemens attachés aux grades : du 16 frimaire, l'an troisième de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1794"
+note = """Caption title. At head of title: (No. 190*). At right of title: B. no. 96, D. 494. Signed: Reubell, président; Boudin, J.S. Rovere, secrétaires. Imprint from colophon. Not in Martin & Walter. Révolution française. "La Convention nationale ... décrète ..."--P. [1]. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/loiquidetermineq00fran"
+subject = [
+    "France. Armée",
+    "Soldiers",
+]
+extent = "p. ; cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10345 no. 99"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9479jd1t"
+internet_archive = "loiquidetermineq00fran"
+openlibrary_edition = "OL26229203M"
+openlibrary_work = "OL17624237W"
+
+[scan]
+file = "loiquidetermineq00fran.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/loiquidetermineq00fran"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Reubell, Jean-François, 1747-1807"
+role = "author"
+
+[[resp]]
+name = "Boudin, Jacques Antoine, 1756-1797"
+role = "author"
+
+[[resp]]
+name = "Rovère, Joseph-Stanislas, 1748-1798"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Depot des lois, place de la Réunion, ci-devant du grand-Carrousel"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_860435"
+
+[[text]]
+file = "loiquidetermineq00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquidetermineq00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

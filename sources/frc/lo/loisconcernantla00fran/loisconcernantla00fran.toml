@@ -1,0 +1,84 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loisconcernantla00fran"
+type = "pamphlet"
+title = "Lois concernant la ratification du traité de paix entre la République française et le roi d'Espagne : des 14 thermidor et 10 fructidor, an troisième de la République française une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1795"
+note = """Caption title. At head of title: (No. 486.* bis). "La Convention nationale ... confirme et ratifie ..."--P. [1]. Imprint from colophon. Not in Martin & Walter. Révolution française. 1o. Loi qui confirme et ratifie le traité de paix entre la République française et le roi d'Espagne : du 4 thermidor, an troisième : B. no. 178. D. no. 108 : Acte de ratification du roi d'Espagne -- Traité de Paix -- 2o. Loi qui ordonne le dépôt aux archives nationales, l'impression, la publication et l'affiche du traité de paix conclu entre la République française et le roi d'Espagne, et des actes de ratification : du 10 fructidor, an troisième : B. no. 178. D. no. 1082. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."""
+url = "https://archive.org/details/loisconcernantla00fran"
+subject = ["France. (1795 July 22)"]
+extent = "3 p. ; 28 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10346 no. 120"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7rn89q1r"
+internet_archive = "loisconcernantla00fran"
+openlibrary_edition = "OL26230663M"
+openlibrary_work = "OL17625640W"
+
+[scan]
+file = "loisconcernantla00fran.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loisconcernantla00fran"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Spain. Sovereign (1788-1808 : Charles IV)"
+role = "author"
+
+[[resp]]
+name = "France. Treaties, etc. Spain, (1795 July 22)"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_861886"
+
+[[text]]
+file = "loisconcernantla00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loisconcernantla00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loisconcernantla00fran.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loisconcernantla00fran.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

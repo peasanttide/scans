@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettressur00bleu"
+type = "pamphlet"
+title = "Lettres sur l'Egypte et sur la Grèce, par Savary"
+language = "fr"
+place = "A Paris"
+date = "1800"
+note = """Catalog of books, with several longer entries on Savary's Lettres sur la Grèce and other books. Caption title. "A Paris, chez Bleuet jeune, libraire, place de l'Ecole, no. 45"--P. [1]. Imprint from colophon. Includes prices. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, stained, torn, and/or loose pages.  Text extends off of the edge of the page.  Irregular pagination."""
+url = "https://archive.org/details/lettressur00bleu"
+subject = [
+    "Bleuet, Jean-Antoine, d. 1828?",
+    "Savary, M. (Claude Etienne), 1750-1788",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 4 no. 11"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7jq6q06s"
+internet_archive = "lettressur00bleu"
+
+[scan]
+file = "lettressur00bleu.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettressur00bleu"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Bleuet, Jean-Antoine,d. 1828?"
+role = "author"
+
+[[resp]]
+name = "Bleuet, Jean-Antoine, d. 1828?"
+role = "author"
+
+[[resp]]
+name = "Imbert, J.-B. (Jean-Baptiste), fl. 1794-1820"
+role = "printer"
+
+[[resp]]
+name = "De l'imprimerie de B. Imbert, cloitre Notre-Dame, no. 35"
+role = "publisher"
+
+[[text]]
+file = "lettressur00bleu.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettressur00bleu.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettressur00bleu.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettressur00bleu.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

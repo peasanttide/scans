@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loixdu18septembr00fran"
+type = "pamphlet"
+title = "Loix du 18 septembre 1792, l'an quatrième de la liberté : 1o. Fixation des traitemens des divers administrateurs ou régisseurs nationaux pour l'année 1792, 2o. Fabrication des pièces de deux sous & de quatre sous, 3o. Nomination des commissaires des hôtels des monnoies"
+language = "fr"
+place = "A Paris"
+date = "1792"
+note = """Caption title. At right of title: No 2536. "L'Assemblée nationale, après avoir décrété l'urgence, décrète ce qui suit"--P. [1]. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/loixdu18septembr00fran"
+subject = [
+    "Monetary policy",
+    "Coinage",
+]
+extent = "4 p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10344 no. 121"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9576k99x"
+internet_archive = "loixdu18septembr00fran"
+openlibrary_edition = "OL26230389M"
+openlibrary_work = "OL17625365W"
+
+[scan]
+file = "loixdu18septembr00fran.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loixdu18septembr00fran"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Assemblée nationale législative (1791-1792)"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale exécutive du Louvre"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_858694"
+
+[[text]]
+file = "loixdu18septembr00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loixdu18septembr00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loixdu18septembr00fran.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loixdu18septembr00fran.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

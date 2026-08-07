@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loiquiautorisede00fran_0"
+type = "pamphlet"
+title = "Loi qui autorise des visites domiciliaires pour l'arrestation des agens de l'Angleterre, des émigrés rentrés, &c. : du 18 messidor an VI de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1798"
+note = "Caption title. At head of title: No. 722. Au nom de la République française. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text. Only one numbered page."
+url = "https://archive.org/details/loiquiautorisede00fran_0"
+subject = [
+    "Internal security",
+    "Subversive activities",
+]
+extent = "2 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10349 no. 103"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4nk8hc76"
+internet_archive = "loiquiautorisede00fran_0"
+openlibrary_edition = "OL26229201M"
+openlibrary_work = "OL17624235W"
+
+[scan]
+file = "loiquiautorisede00fran_0.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loiquiautorisede00fran_0"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois, place du Carrousel : Et se trouve dans les villes chef-lieux de département, au bureau de correspondance du Dépôt des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_859941"
+
+[[text]]
+file = "loiquiautorisede00fran_0.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquiautorisede00fran_0.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquiautorisede00fran_0.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquiautorisede00fran_0.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

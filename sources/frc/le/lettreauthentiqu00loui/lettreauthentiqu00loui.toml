@@ -1,0 +1,86 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettreauthentiqu00loui"
+type = "pamphlet"
+title = "Lettre authentique du roi a M. Necker : suivie de celle de M. Necker, que Sa Majesté a reçue le 26 juillet."
+language = "fr"
+place = "A Paris"
+date = "1789"
+note = """Caption title. Signed, p. [1]: Louis. Imprint from colophon. Second to last line p. [1] ends: garde. Another edition exists with second to last line: qu'il vous ait en sa sainte & digne garde. Last line p. 2 ends with word monarque. Another edition exists with last word exposé. Date of publication from Martin & Walter. BN. Martin & Walter. Révolution française. "Réponse de M. Necker au roi, datée de Genève le 23 juillet au soir, & parvenue à Sa Majesté le 26"--P. 2-3. Bibliography: BN,  C, column 673. Scanner's note: No Copyright found. No Table of Contents found. Title on cover page. Damaged, stained pages and cover. <br /><br />."""
+url = "https://archive.org/details/lettreauthentiqu00loui"
+subject = [
+    "Necker, Jacques, 1732-1804",
+    "Louis XVI, King of France, 1754-1793",
+]
+extent = "3 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 21628"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2d84kk4x"
+internet_archive = "lettreauthentiqu00loui"
+lccn = "2004573128"
+
+[scan]
+file = "lettreauthentiqu00loui.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettreauthentiqu00loui"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "Louis XVI, King of France, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "Necker, Jacques, 1732-1804"
+role = "author"
+
+[[resp]]
+name = "Maradan, Claude-François, 1762-1823"
+role = "publisher"
+
+[[resp]]
+name = "Nyon, Nicolas-Henri, b. 1751?"
+role = "publisher"
+
+[[resp]]
+name = "Chez Maradan, libraire, rue Saint André-des-Arts, hôtel de Châteaux-vieux : & de l'imprimerie de N.H. Nyon, rue Mignon"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_844858"
+
+[[text]]
+file = "lettreauthentiqu00loui.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettreauthentiqu00loui.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettreauthentiqu00loui.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettreauthentiqu00loui.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

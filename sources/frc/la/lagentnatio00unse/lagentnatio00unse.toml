@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lagentnatio00unse"
+type = "pamphlet"
+title = "L'agent national du district de Boen, aux sociétés populaires, et comités de surveillance dudit district"
+language = "fr"
+place = "France"
+date = "1793"
+note = "Caption title. At head of title: Égalité. Liberté. Boën, 23 pluviôse, IIe. année républicaine. Signed: Raymond. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/lagentnatio00unse"
+subject = [
+    "France. Armée",
+    "Saltpeter industry",
+]
+extent = "[2] p. ; 25 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 27134"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t42r8zr8f"
+internet_archive = "lagentnatio00unse"
+openlibrary_edition = "OL26227005M"
+openlibrary_work = "OL17622232W"
+
+[scan]
+file = "lagentnatio00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lagentnatio00unse"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Raymond, agent national"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_867773"
+
+[[text]]
+file = "lagentnatio00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lagentnatio00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lagentnatio00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lagentnatio00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

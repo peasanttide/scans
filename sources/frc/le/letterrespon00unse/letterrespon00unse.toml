@@ -1,0 +1,68 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "letterrespon00unse"
+type = "pamphlet"
+title = "[Letter responding to accusations]"
+language = "fr"
+place = "France"
+date = "1790"
+note = "Signed: Périer, ce 24 novèmbre 1790. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/letterrespon00unse"
+subject = [
+    "Périer, Jacques-Constantin, 1742-1818",
+    "Compagnie des eaux de Paris",
+    "Libel and slander",
+]
+extent = "[1] p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 27091"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9285g334"
+internet_archive = "letterrespon00unse"
+openlibrary_edition = "OL26226346M"
+openlibrary_work = "OL17621613W"
+
+[scan]
+file = "letterrespon00unse.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/letterrespon00unse"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Périer, Jacques-Constantin,1742-1818"
+role = "author"
+
+[[resp]]
+name = "Périer, Jacques-Constantin, 1742-1818"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_867731"
+
+[[text]]
+file = "letterrespon00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "letterrespon00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

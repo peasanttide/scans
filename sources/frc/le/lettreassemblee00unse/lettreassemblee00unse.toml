@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettreassemblee00unse"
+type = "pamphlet"
+title = "Lettre de l'assemblée electorale du département de Vaucluse aux directoires des départemens circonvoisins : Avignon le dimanche 27 mars 1791"
+language = "fr"
+place = "France"
+date = "1791"
+note = "Caption title. Not in Martin & Walter. Révolution française. Lettre de l'assemblée electorale du département de Vaucluse aux directoires des départemens circonvoisins -- Réponse des administrateurs du directoire du département de l'Ardêche -- Réponse des administrateurs du directoire du département du Var. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."
+url = "https://archive.org/details/lettreassemblee00unse"
+extent = "4 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10309 no. 1"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4jm7ct20"
+internet_archive = "lettreassemblee00unse"
+openlibrary_edition = "OL26223285M"
+openlibrary_work = "OL17618746W"
+
+[scan]
+file = "lettreassemblee00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettreassemblee00unse"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Vaucluse (France : Department). Assemblée electorale"
+role = "author"
+
+[[resp]]
+name = "Ardèche (France). Directoire"
+role = "author"
+
+[[resp]]
+name = "Var (France). Directoire"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_71964"
+
+[[text]]
+file = "lettreassemblee00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettreassemblee00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettreassemblee00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettreassemblee00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

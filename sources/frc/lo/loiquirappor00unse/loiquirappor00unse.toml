@@ -1,0 +1,71 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loiquirappor00unse"
+type = "pamphlet"
+title = "Loi qui rapporte l'article IV de celle du 9 nivose, et qui fixe provisoirrement le salaire des maîtres de postes à 4 livres par cheval et par poste, et celui des postillons à 1 livre 10 sous : du 17 nivôse, l'an trosième de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1795"
+note = """Caption title. At head of title: (No. 237*). At right of title: B. no. 107, D. no. 568. Signed: Le Tourneur (de la Manche), président; Auguis, Dumont (du Calvados), secrétaires. Imprint from colophon. Not in Martin & Walter. Révolution française. "La Convention nationale ... rapport l'article ..."--P. [1]. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/loiquirappor00unse"
+subject = [
+    "Postmasters",
+    "Postal service",
+]
+extent = "[1] p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10345 no. 125"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9867nz8r"
+internet_archive = "loiquirappor00unse"
+openlibrary_edition = "OL26229371M"
+openlibrary_work = "OL17624405W"
+
+[scan]
+file = "loiquirappor00unse.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/loiquirappor00unse"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Le Tourneur, Etienne-François-Louis-Honoré, 1751-1817"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Depot des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_860461"
+
+[[text]]
+file = "loiquirappor00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquirappor00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

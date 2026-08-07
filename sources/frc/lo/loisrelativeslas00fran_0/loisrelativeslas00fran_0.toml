@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loisrelativeslas00fran_0"
+type = "pamphlet"
+title = "Lois relatives a la solde militaire : des 3 et 29 prairial, et 25 fructidor an V de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1797"
+note = """Caption title. At head of title: No. 491, 505 et 556. Au nom de la République française. Imprint from colophon. "No. 6, 7"--Bottom of p. [1]. Not in Martin & Walter. Révolution française. 1o. Loi qui règle pour le mois de prairial le traitement des officiers reformés -- 2o. Loi relative au traitement des officiers réformés, pendant les mois de messidor et thermidor an V -- 3o. Loi qui continue aux officiers réformés de terre et de mer leur traitement provisoire. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."""
+url = "https://archive.org/details/loisrelativeslas00fran_0"
+subject = ["France. Armée"]
+extent = "4 p. ; 25 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10348 no. 120"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9t20587f"
+internet_archive = "loisrelativeslas00fran_0"
+openlibrary_edition = "OL26230478M"
+openlibrary_work = "OL17625454W"
+
+[scan]
+file = "loisrelativeslas00fran_0.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loisrelativeslas00fran_0"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Depot des lois, place du Carrousel, et se trouve dans les villes chefs-lieux de département, au bureau de correspondance du Dépôt des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_859246"
+
+[[text]]
+file = "loisrelativeslas00fran_0.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loisrelativeslas00fran_0.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loisrelativeslas00fran_0.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loisrelativeslas00fran_0.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

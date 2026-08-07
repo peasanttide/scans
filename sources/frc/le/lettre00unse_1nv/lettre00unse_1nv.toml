@@ -1,0 +1,78 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettre00unse_1nv"
+type = "pamphlet"
+title = "Lettre de Jérome Pétion, député, au président de la Convention nationale : du 7 juin 1793, l'an deuxième de la République."
+language = "fr"
+place = "France"
+date = "1793"
+note = """
+Caption title. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  III, 27008. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover. 
+Some faded, light text."""
+url = "https://archive.org/details/lettre00unse_1nv"
+subject = ["France. Convention nationale"]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 23567"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9c58tz4v"
+internet_archive = "lettre00unse_1nv"
+openlibrary_edition = "OL26237268M"
+openlibrary_work = "OL17631823W"
+
+[scan]
+file = "lettre00unse_1nv.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettre00unse_1nv"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Pétion, J. (Jérôme), 1756-1794"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_848137"
+
+[[text]]
+file = "lettre00unse_1nv.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00unse_1nv.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00unse_1nv.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00unse_1nv.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

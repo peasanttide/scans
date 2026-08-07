@@ -1,0 +1,67 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loiquiautorisela00fran_4"
+type = "pamphlet"
+title = "Loi qui autorise la formation de deux cents nouvelles compagnies de vétérans nationaux : du 19 frimiaire [i.e. frimaire] an V de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1796"
+note = """Caption title. At head of title: No. 374. Au nom de la République française. Imprint from colophon. "Nos. 3, 6"--Bottom of p. [1]. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/loiquiautorisela00fran_4"
+subject = [
+    "France. Armée",
+    "Veterans",
+]
+extent = "2 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10348 no. 74"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6g214r0c"
+internet_archive = "loiquiautorisela00fran_4"
+openlibrary_edition = "OL26229896M"
+openlibrary_work = "OL17624927W"
+
+[scan]
+file = "loiquiautorisela00fran_4.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/loiquiautorisela00fran_4"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Depot des lois, place du Carrousel, et se trouve dans les villes chefs-lieux de département au bureau de correspondance du Dépôt des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_859200"
+
+[[text]]
+file = "loiquiautorisela00fran_4.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquiautorisela00fran_4.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

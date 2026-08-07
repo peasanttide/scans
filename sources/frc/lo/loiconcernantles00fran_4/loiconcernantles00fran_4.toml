@@ -1,0 +1,81 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loiconcernantles00fran_4"
+type = "pamphlet"
+title = "Loi concernant les moyens de se procurer des expéditions d'actes reçus par des notaires détenus ou condamnés : du 6 messidor, l'an deuxième de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1794"
+note = """Caption title. At head of title: (No. 17*). At right of title: B. no. 6, D. 31. Signed, p. [1]: Bréard, ex-président; Bordas et Michaud, secrétaires. Imprint from colophon. Not in Martin & Walter. Révolution française. "La Convention nationale ... décrète ..."--P. [1]. "Loi portant qu'il sera ouvert un concours pour la restauration des monumens qui forment la collection du muséum nationale, du 6 messidor, l'an deuxième de la République française, une et indivisible. B. no. 9, D. 47"--P. [1]-2. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/loiconcernantles00fran_4"
+subject = [
+    "Notaries",
+    "Records",
+    "Art objects",
+    "National museums",
+]
+extent = "2 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10345 no. 6"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2g78j71c"
+internet_archive = "loiconcernantles00fran_4"
+openlibrary_edition = "OL26229839M"
+openlibrary_work = "OL17624870W"
+
+[scan]
+file = "loiconcernantles00fran_4.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/loiconcernantles00fran_4"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Bréard, Jean Jacques, 1750-1840"
+role = "author"
+
+[[resp]]
+name = "Bordas, Pardoux, 1748-1842"
+role = "author"
+
+[[resp]]
+name = "Michaud, Jean-Baptiste, 1759-1819"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des loix, place de la Réunion, ci-devant du grand-Carrousel"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_860341"
+
+[[text]]
+file = "loiconcernantles00fran_4.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiconcernantles00fran_4.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

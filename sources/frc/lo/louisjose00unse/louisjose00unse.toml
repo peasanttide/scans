@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "louisjose00unse"
+type = "pamphlet"
+title = "Louis-Joseph Richou, député de l'Eure, a ses collègues"
+language = "fr"
+place = "France"
+date = "1793"
+note = "Caption title. Dated at end: Paris, le 5 octobre 1793, l'an II de la République, une et indivisible. Martin & Walter. Révolution française. Repulses accusations made against him at a session of the Convention. Bibliography: Martin & Walter.  Révolution française, IV:1, 29227. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/louisjose00unse"
+subject = [
+    "Richou, Louis Joseph, 1748-1839",
+    "Libel and slander",
+]
+extent = "p. ; cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 27144"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t31311271"
+internet_archive = "louisjose00unse"
+openlibrary_edition = "OL26227281M"
+openlibrary_work = "OL17622508W"
+
+[scan]
+file = "louisjose00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/louisjose00unse"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Richou, Louis Joseph,1748-1839"
+role = "author"
+
+[[resp]]
+name = "Richou, Louis Joseph, 1748-1839"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_867783"
+
+[[text]]
+file = "louisjose00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "louisjose00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "louisjose00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "louisjose00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

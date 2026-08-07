@@ -1,0 +1,73 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettrespatentesd00fra_j8x"
+type = "pamphlet"
+title = "Lettres patentes du roi, portant qu'il sera sursis à l'exécution de l'arrêt du Parlement de Paris, du 26 février"
+language = "fr"
+place = "A Paris"
+date = "1772"
+note = "Caption title. Imprint at foot of p. 4. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Title page and cover are combined."
+url = "https://archive.org/details/lettrespatentesd00fra_j8x"
+subject = ["Catholic Church"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 8 no. 58"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8wb0sq1x"
+internet_archive = "lettrespatentesd00fra_j8x"
+
+[scan]
+file = "lettrespatentesd00fra_j8x.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettrespatentesd00fra_j8x"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Sovereign (1715-1774 : Louis XV)"
+role = "author"
+
+[[resp]]
+name = "France. Sovereign (1715-1774 : Louis XV)"
+role = "author"
+
+[[resp]]
+name = "France. Parlement (Paris)"
+role = "author"
+
+[[resp]]
+name = "Chez P.G. Simon"
+role = "publisher"
+
+[[text]]
+file = "lettrespatentesd00fra_j8x.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrespatentesd00fra_j8x.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrespatentesd00fra_j8x.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrespatentesd00fra_j8x.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

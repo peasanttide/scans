@@ -1,0 +1,83 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loietarretedudir00fran_4"
+type = "pamphlet"
+title = "Loi et arrêté du Directoire executif, concernant les décadis et les jours de fêtes nationales : des 17 et 18 thermidor VI de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1798"
+note = """Caption title. At head of title: No. 744. Au nom de la République française. Imprint from colophon. "No. 1, 3, 4, 11"--Bottom of p. [1]. Not in Martin & Walter. Révolution française. 1o. Loi contenant des mesures pour coordonner les jours de repos avec le calendrier républicain -- 1o. Arrêté du Directoire exécutif, qui ordonne que la loi ci-dessus sera solennellement proclamée dans toutes les communes de la République. Scanner's note: No copyright page found. No table-of-contents pages found. Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/loietarretedudir00fran_4"
+subject = [
+    "Holidays",
+    "Calendar, Republican",
+]
+extent = "4 p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10349 no. 108"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t78s9w45h"
+internet_archive = "loietarretedudir00fran_4"
+openlibrary_edition = "OL26229277M"
+openlibrary_work = "OL17624311W"
+
+[scan]
+file = "loietarretedudir00fran_4.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loietarretedudir00fran_4"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France"
+role = "author"
+
+[[resp]]
+name = "France. Directoire exécutif"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Depot des lois, place du Carrousel : Et se trouve dans les villes chef-lieux de département, au bureau de correspondance du Dépôt des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_859946"
+
+[[text]]
+file = "loietarretedudir00fran_4.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loietarretedudir00fran_4.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loietarretedudir00fran_4.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loietarretedudir00fran_4.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettre00dole"
+type = "pamphlet"
+title = "Lettre"
+language = "fr"
+place = "A Paris"
+date = "1793"
+note = "Caption title. Imprint from colophon. Martin & Walter IV 2: 5924. Scanner's note: No copyright page found. No table-of-contents pages found.  Title on cover. Damaged, stained pages and cover.  Uneven binding. Skewed text."
+url = "https://archive.org/details/lettre00dole"
+extent = "4 p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9758"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0qr9xs56"
+internet_archive = "lettre00dole"
+openlibrary_edition = "OL26222926M"
+openlibrary_work = "OL17618385W"
+
+[scan]
+file = "lettre00dole.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettre00dole"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Dole (France)"
+role = "author"
+
+[[resp]]
+name = "Jura (France)"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale exécutive du Louvre"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_68400"
+
+[[text]]
+file = "lettre00dole.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00dole.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00dole.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00dole.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

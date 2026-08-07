@@ -1,0 +1,85 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettrespatentesd00fran_77"
+type = "pamphlet"
+title = "Lettres-patentes du roi, qui ordonnent la distraction des bois taillis du domaine de Meudon, pour être régis de même que ceux des parcs du château de Meudon : donné à Versailles le 21 novembre 1756"
+language = "fr"
+place = "A Paris"
+date = "1756"
+note = """Caption title. "Signé Louis. Et plus bas, par le roi. Phelypeaux"--P. 3. Imprint from colophon. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, stained and/or loose pages Skewed text. Uneven binding. Title and cover page are combined. Text on the back cover is upside-down."""
+url = "https://archive.org/details/lettrespatentesd00fran_77"
+subject = [
+    "Coppice forests",
+    "Forestry law and legislation",
+]
+extent = "3 p. ; 28 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC suppl. 90 no. 1"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3tt9tq3j"
+internet_archive = "lettrespatentesd00fran_77"
+
+[scan]
+file = "lettrespatentesd00fran_77.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettrespatentesd00fran_77"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Sovereign (1715-1774 : Louis XV)"
+role = "author"
+
+[[resp]]
+name = "Louis XV, King of France, 1710-1774"
+role = "author"
+
+[[resp]]
+name = "Maurepas, Jean-Frédéric Phélypeaux, comte de, 1701-1781"
+role = "author"
+
+[[resp]]
+name = "Simon, P. G. (Pierre-Guillaume), 1722-1787"
+role = "publisher"
+
+[[resp]]
+name = "Chez P.G. Simon, imprimeur du Parlement, rue de la Harpe, à l'Hercule"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_73826"
+
+[[text]]
+file = "lettrespatentesd00fran_77.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrespatentesd00fran_77.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrespatentesd00fran_77.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrespatentesd00fran_77.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

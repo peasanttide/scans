@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lescommandemensd00haum"
+type = "pamphlet"
+title = "Les commandemens de la nation, ou, Le decalogue du militaire."
+language = "fr"
+place = "Paris?"
+date = "1790"
+note = """Caption title. Signed: Par M. Haumomt Després, citoyen de Bretagne, & du département de la Loire Inférieure, district de Guerrande. Imprint from colophon. Not in Martin & Walter. Révolution française. "Ode ou chanson sur l'air: Je vis un jour ma charmante Rosine, ou sur l'air des Folies d'Espagne, ou, La jeune Iris, &c. ou, Mere de Dieur, ou, O Saint-Esprit, ou, Daigne écouter, ou, Je ne vois plus l'amante que, &c."--P. [2]. "Autre chanson aux parlementaires"--P. 3-4. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on the cover page. Skewed text. Uneven binding. Damaged, stained, marked and/or loose pages."""
+url = "https://archive.org/details/lescommandemensd00haum"
+subject = ["France. Armée"]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 19644"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3tt9n34w"
+internet_archive = "lescommandemensd00haum"
+openlibrary_edition = "OL26203189M"
+openlibrary_work = "OL17599649W"
+
+[scan]
+file = "lescommandemensd00haum.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lescommandemensd00haum"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Haumont Després"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Le Hodey, au coin de la rue Fromenteau, place du Palais-Royal"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_841003"
+
+[[text]]
+file = "lescommandemensd00haum.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lescommandemensd00haum.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lescommandemensd00haum.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lescommandemensd00haum.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

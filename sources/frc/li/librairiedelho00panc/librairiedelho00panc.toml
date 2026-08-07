@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "librairiedelho00panc"
+type = "pamphlet"
+title = "Librairie de l'Hôtel de Thou .."
+language = "fr"
+date = "1785"
+note = """Caption title. "Il faut s'adresser, pour tous les objets de cette librairie, au Sieur Plassan ... & au Sieur Guth, pour tout ce qui concerne le bureau du Mercure de France.". Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Title page and cover are combined."""
+url = "https://archive.org/details/librairiedelho00panc"
+subject = ["Encyclopédie méthodique, ou par ordre les matières"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 7 no. 12"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3nw5503w"
+internet_archive = "librairiedelho00panc"
+
+[scan]
+file = "librairiedelho00panc.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/librairiedelho00panc"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Panckoucke"
+role = "author"
+
+[[resp]]
+name = "Panckoucke, publisher, Paris"
+role = "author"
+
+[[resp]]
+name = "Panckoucke, Charles Joseph, 1736-1798"
+role = "author"
+
+[[resp]]
+name = "[Paris?"
+role = "publisher"
+
+[[text]]
+file = "librairiedelho00panc.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "librairiedelho00panc.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "librairiedelho00panc.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "librairiedelho00panc.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

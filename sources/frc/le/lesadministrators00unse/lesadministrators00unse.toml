@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lesadministrators00unse"
+type = "pamphlet"
+title = "245:14:$aLes administrateurs du département de Maine et Loire, a leurs concitoyens"
+language = "fr"
+place = "A Angers"
+date = "1793"
+note = """Caption title. "Arrêté en conseil général du département de Maine et Loire ...."--P. 3. At right of title: Arriéré des contributions directes. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title page and cover are combined. Damaged, stained and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/lesadministrators00unse"
+subject = ["Taxpayer compliance"]
+extent = "3 p. ; 25 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC suppl. 116 no. 12"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1pg6wj5q"
+internet_archive = "lesadministrators00unse"
+openlibrary_edition = "OL26235773M"
+openlibrary_work = "OL17630333W"
+
+[scan]
+file = "lesadministrators00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lesadministrators00unse"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Maine-et-Loire (France). Conseil général"
+role = "author"
+
+[[resp]]
+name = "Mame, Charles-Pierre, 1747-1825"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale, chez Mame, imprimeur du département de Maine & Loire"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_861416"
+
+[[text]]
+file = "lesadministrators00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lesadministrators00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lesadministrators00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lesadministrators00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loirelativeauxbi00fran_5"
+type = "pamphlet"
+title = "Loi relative aux biens des religionnaires fugitifs : du 20 septembre 1792, l'an quatrième de la liberté"
+language = "fr"
+place = "A Paris"
+date = "1792"
+note = "Caption title. At right of title: No. 2544. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/loirelativeauxbi00fran_5"
+subject = [
+    "Reparations for historical injustices",
+    "Repatriation",
+    "Huguenots",
+]
+extent = "2 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10344 no. 127"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t30340p23"
+internet_archive = "loirelativeauxbi00fran_5"
+openlibrary_edition = "OL26230485M"
+openlibrary_work = "OL17625461W"
+
+[scan]
+file = "loirelativeauxbi00fran_5.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loirelativeauxbi00fran_5"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Assemblée nationale législative (1791-1792)"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale exécutive du Louvre"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_858700"
+
+[[text]]
+file = "loirelativeauxbi00fran_5.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativeauxbi00fran_5.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativeauxbi00fran_5.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativeauxbi00fran_5.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,93 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loirelativelafab00fran_1"
+type = "pamphlet"
+title = "Loi relative à la fabrication de la monnoie de cuivre : donnée à Paris, le 29 janvier 1792"
+language = "fr"
+place = "A Paris"
+date = "1792"
+note = """Caption title. At right of title: No. 1508. "Signé Louis. Et plus bas, M.L.F. DuPort"--P. 3. Imprint from colophon. Not in Martin & Walter. Révolution française. "Décret de l'Assemblée nationale, du 26 janvier 1792, l'an quatrième de la liberté"--P. [1]-3. Scanner's note: Title page located on front cover. No copyright page found. No table-of-contents pages found. Worn, damaged and discolored pages and cover. Skewed text. Uneven binding."""
+url = "https://archive.org/details/loirelativelafab00fran_1"
+subject = [
+    "Coinage",
+    "Copper coins",
+    "Church bells",
+    "Monetary policy",
+]
+extent = "3 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10342 no. 5"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1pg6tq8k"
+internet_archive = "loirelativelafab00fran_1"
+openlibrary_edition = "OL26230172M"
+openlibrary_work = "OL17625148W"
+
+[scan]
+file = "loirelativelafab00fran_1.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loirelativelafab00fran_1"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Sovereign (1774-1792 : Louis XVI)"
+role = "author"
+
+[[resp]]
+name = "Louis XVI, King of France, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "Duport-Dutertre, Marguerite-Louis-François, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale législative (1791-1792)"
+role = "author"
+
+[[resp]]
+name = "Imprimerie royale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie royale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_856002"
+
+[[text]]
+file = "loirelativelafab00fran_1.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativelafab00fran_1.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativelafab00fran_1.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativelafab00fran_1.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

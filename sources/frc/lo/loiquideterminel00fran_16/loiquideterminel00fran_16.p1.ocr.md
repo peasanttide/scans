@@ -1,0 +1,59 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: loiquideterminel00fran_16
+page: 1
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 3010
+h: 4049
+dpi: 300
+---
+
+rr wvr.
+
+' a s R ' aifgi^^iw w g m w. tvwtgmw y- .
+
+N.° 43.
+
+Au nom delà République française. B . , 4 .
+
+N.° 80
+
+v_ _
+
+L O I f
+
+• r&c
+
+Qui détermine te mode de perception des droits de Douane.
+
+Du 4 Nivôse , an quatrième de la République française , une et indivisible.
+
+jj E Conseil des Anciens adoptant les motifs de la déclaration d’urgence qui
+
+précède la résolution ci-après, reconnaît furgenee.
+
+/
+
+Suit la teneur de la déclaration d'urgence et de la résolution du 4 nivôse :
+
+« Le Conseil des Cinq-cents, considérant que la perception des droits de douane
+et de navigation ne peut suffire en ce moment aux fais d’administration, et qu’il
+est instant de prévenir la désorganisation d’une partie si importante,
+
+» Déclare qu’il y a urgence;
+
+» Le Conseil , après avoir déclaré l’urgence , prend la résolution suivante :
+
+Article premier.
+
+» La disposition de la loi du 20 thermidor, an III, qui fixait le paiement des
+droits de douane au, sextuple , est rapportée.
+
+II. » Les droits de douane et de navigation seront perçus, moitié en numéraire
+et moitié en assignats, suivant le tarif de 1791, avec les changemens et modifica-
+tions prescrits par les lois des îa pluviôse et 20 thermidor derniers ».
+
+Signé Treiliïard , président ;
+
+J. B. Louvet, Bézard, Quirot, secrétaires.

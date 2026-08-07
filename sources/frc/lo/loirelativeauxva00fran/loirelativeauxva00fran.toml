@@ -1,0 +1,67 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loirelativeauxva00fran"
+type = "pamphlet"
+title = "Loi relative aux vacances des tribunaux : du 21 fructidor, an IV de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1796"
+note = """Caption title. At head of title: No. 296. Au nom de la République française. At right of title: B. 74. No. 690. Imprint from colophon. "No. 2, 3, 4, 5, 11"--Bottom of p. [1]. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover. Only one numbered page."""
+url = "https://archive.org/details/loirelativeauxva00fran"
+subject = [
+    "Terms of court",
+    "Justice, Administration of",
+]
+extent = "2 p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10348 no. 39"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t54f6xw3f"
+internet_archive = "loirelativeauxva00fran"
+openlibrary_edition = "OL26229499M"
+openlibrary_work = "OL17624532W"
+
+[scan]
+file = "loirelativeauxva00fran.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/loirelativeauxva00fran"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois, place du Carrousel"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_859165"
+
+[[text]]
+file = "loirelativeauxva00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativeauxva00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,77 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loiquideterminel00fran_6"
+type = "pamphlet"
+title = "Loi qui détermine le mode d'impression et d'envoi des lois : du 8 pluviôse, an troisième de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1795"
+note = """Caption title. At head of title: (No. 266.*). Publication information from colophon. "B.no. 117/D.no. 616"--Upper right corner of p. [1]. Scanner's note: No copyright page found. No table-of-contents pages found.   Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text.  Faded print."""
+url = "https://archive.org/details/loiquideterminel00fran_6"
+subject = [
+    "Government publications",
+    "Printing, Legislative",
+]
+extent = "4 p. ; 24 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10345 no. 140"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7vm9db8d"
+internet_archive = "loiquideterminel00fran_6"
+
+[scan]
+file = "loiquideterminel00fran_6.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loiquideterminel00fran_6"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "printer"
+
+[[resp]]
+name = "De l'Imprimerie du Depot des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_842594"
+
+[[text]]
+file = "loiquideterminel00fran_6.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquideterminel00fran_6.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquideterminel00fran_6.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquideterminel00fran_6.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

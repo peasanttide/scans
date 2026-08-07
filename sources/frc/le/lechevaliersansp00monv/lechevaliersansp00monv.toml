@@ -1,0 +1,84 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lechevaliersansp00monv"
+type = "book"
+title = "Le chevalier sans peur et sans reproche, ou, Les amours de Bayard comédie-héroïque en quatre actes"
+language = "fr"
+date = "1793"
+note = "Not in: Martin & Walter. Révolution française. Cf. I,4898. Scanner's note: Title found on front cover. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/lechevaliersansp00monv"
+subject = [
+    "Bayard, Pierre Terrail, seigneur de, ca. 1473-1524",
+    "French drama",
+]
+extent = "79 p. ;20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "CaseFRC10962"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3jx1d95p"
+internet_archive = "lechevaliersansp00monv"
+
+[scan]
+file = "lechevaliersansp00monv.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/lechevaliersansp00monv"
+ppi = 650
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Monvel,1745-1812"
+role = "author"
+
+[[resp]]
+name = "A Bruxelles :Chez J.L. de Boubers,"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_823272"
+
+[[text]]
+file = "lechevaliersansp00monv.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "lechevaliersansp00monv.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "lechevaliersansp00monv.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "lechevaliersansp00monv.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "lechevaliersansp00monv.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "lechevaliersansp00monv.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"

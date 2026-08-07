@@ -1,0 +1,83 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loiquimodifieour00fran"
+type = "pamphlet"
+title = "Loi qui modifie ou rapporte différentes dispositions de celles des 3 et 4 brumaire an IV, relatives à la suspension de l'exercice des fonctions publiques et à l'amnistie : du 14 frimaire an V de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1796"
+note = """Caption title. At head of title: No. 369. Au nom de la République française. Imprint from colophon. "No. 1, 3, 12"--Bottom of p. [1]. Not in Martin & Walter. Révolution française. Issued with: France. Loi qui exclut jusqu'à la paix, de toutes fonctions publiques, les provocateurs ou signataires de mesures déditieuses et contraires aux lois, les individus inscrits et non rayés sur la liste des émigrés, et les parens des émigrés, etc, du 3 brumaire an IV ... (B. 199. No. 1193). Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/loiquimodifieour00fran"
+subject = [
+    "Refugees",
+    "Amnesty",
+]
+extent = "4 p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10348 no. 71"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t46q73s3n"
+internet_archive = "loiquimodifieour00fran"
+openlibrary_edition = "OL26229092M"
+openlibrary_work = "OL17624126W"
+
+[scan]
+file = "loiquimodifieour00fran.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loiquimodifieour00fran"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France"
+role = "author"
+
+[[resp]]
+name = "France. Loi qui exclut jusqu'à la paix, de toutes fonctions publiques, les provocateurs ou signataires de mesures déditieuses et contraires aux lois, les individus inscrits et non rayés sur la liste des émigrés, et les parens des émigrés, etc"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois, place du Carrousel, et se trouve dans les villes chef-lieux de département, au bureau de correspondance du Dépôt des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_859197"
+
+[[text]]
+file = "loiquimodifieour00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquimodifieour00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquimodifieour00fran.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquimodifieour00fran.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

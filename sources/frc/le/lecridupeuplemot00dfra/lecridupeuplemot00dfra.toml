@@ -1,0 +1,71 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lecridupeuplemot00dfra"
+type = "pamphlet"
+title = "Le cri du peuple : [motto: 1 line]"
+language = "fr"
+place = "s.l."
+date = "1789"
+note = """Caption title. Without imprint. "Il est enfin arrivé, braves citoyens, ce tems où le François va se voir régénérer dans tous ses droits ... une paix fraternelle unit tous les ordres de l'état": p.[1]. "Couplets sur la démolition de la Bastille, l'arrivée du roi à Paris, le retour de M. Necker en France, & l'ascendant du meilleur des princes sur, &c. &c. &c. Air: Vive le vin, vive l'amour, &c.": p.[3] Signed at end: Par M. François D., &c. Not in Martin & Walter. Scanner's note: No copyright. No table of contents. Title on cover. Damaged, stained pages and cover. Only one numbered page."""
+url = "https://archive.org/details/lecridupeuplemot00dfra"
+extent = "[3] p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 2625"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t75t8pb0b"
+internet_archive = "lecridupeuplemot00dfra"
+openlibrary_edition = "OL26209028M"
+openlibrary_work = "OL17605280W"
+
+[scan]
+file = "lecridupeuplemot00dfra.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lecridupeuplemot00dfra"
+ppi = 400
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "D., François"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_44827"
+
+[[text]]
+file = "lecridupeuplemot00dfra.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lecridupeuplemot00dfra.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lecridupeuplemot00dfra.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lecridupeuplemot00dfra.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

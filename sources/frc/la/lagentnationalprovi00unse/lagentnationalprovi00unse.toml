@@ -1,0 +1,64 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lagentnationalprovi00unse"
+type = "pamphlet"
+title = "L'agent national provisoire, près le directoire du district de la Campagne de Commune-Affrancie, aux maire, officiers municipaux et agent national de la commune d [blank] canton de [blank]"
+language = "fr"
+place = "France"
+date = "1794"
+note = "Caption title. At head of title: Liberté, égalité, fraternité. A Commune-Affranchie, le 23 pluviôse, an 2e. de la République française, une, indivisible et démocratique. Signed: Berlié, agent national. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages.  No page numbers."
+url = "https://archive.org/details/lagentnationalprovi00unse"
+subject = [
+    "Procedure (Law)",
+    "Forced loans",
+    "Finance, Public",
+]
+extent = "[2] p. ; 23 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9895 no. 1"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2t48tb13"
+internet_archive = "lagentnationalprovi00unse"
+openlibrary_edition = "OL26223861M"
+openlibrary_work = "OL17619316W"
+
+[scan]
+file = "lagentnationalprovi00unse.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/lagentnationalprovi00unse"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Lyon (France). Directoire du district de la Campagne"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_855185"
+
+[[text]]
+file = "lagentnationalprovi00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lagentnationalprovi00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,67 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loiquiabolittout00fran_0"
+type = "pamphlet"
+title = "Loi qui abolit toutes poursuites contre les militaires et autres citoyens armés pour la défense de la patrie, dans les départemens de l'ouest : du 8 fructidor, an quatrième de la République française, une et indivisible."
+language = "fr"
+place = "A Paris"
+date = "1796"
+note = "Caption title. At head of title: No. 278. Au nom de la République française. At right of title: B. 72. No. 659. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/loiquiabolittout00fran_0"
+subject = [
+    "Military privileges and immunities",
+    "Revolutions",
+]
+extent = "2 p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 28003"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5w71mh63"
+internet_archive = "loiquiabolittout00fran_0"
+openlibrary_edition = "OL26229504M"
+openlibrary_work = "OL17624537W"
+
+[scan]
+file = "loiquiabolittout00fran_0.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/loiquiabolittout00fran_0"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Depot des lois, place du Carrousel"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_859150"
+
+[[text]]
+file = "loiquiabolittout00fran_0.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquiabolittout00fran_0.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

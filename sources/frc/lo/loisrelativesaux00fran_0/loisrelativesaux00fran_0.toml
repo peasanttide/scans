@@ -1,0 +1,82 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loisrelativesaux00fran_0"
+type = "pamphlet"
+title = "Lois relatives aux prises et à l'armement en course"
+language = "fr"
+place = "A Paris"
+date = "1795"
+note = """Caption title. At right of title: Nos. 140*, 183, 231 et 232, 497. Imprint from colophon. Not in Martin & Walter. Révolution française. "La Convention nationale décrète ..."--P. [1]. Loi portant que les objets pris à l'avenir sur les bâtimens ennemis, et propres à faciliter les progrès des sciences et des arts, ou à enrichir le muséum national, seront adressés, par les capteurs, à la Convention nationale, du 4 brumaire an III ... (no. 140*) -- Loi concernant la vente des marchandises provenant des prises faites sur les ennemis de la République, et de celles venues de l'étranger par le commerce particulier, du 12 frimaire an III ... (No. 183*) -- Loi sur les finances et le crédit publique, du 13 nivose an III ... (No. 231 et 232*) -- Loi qui permet à tous citoyens français d'armer en course pour courir sur les bâtimens ennemis, et accorde une amnistie aux marins qui ont déserté leurs quartiers ou les ports d'armement et de relâche, du 23 thermidor an III ... (No. 497*). Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/loisrelativesaux00fran_0"
+subject = [
+    "France. Convention nationale",
+    "Museums",
+    "Prize law",
+    "Civilians in war",
+    "Finance, Public",
+]
+extent = "4 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10345 no. 78"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2f81hb7k"
+internet_archive = "loisrelativesaux00fran_0"
+openlibrary_edition = "OL26229372M"
+openlibrary_work = "OL17624406W"
+
+[scan]
+file = "loisrelativesaux00fran_0.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loisrelativesaux00fran_0"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois, place du Carrousel"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_860414"
+
+[[text]]
+file = "loisrelativesaux00fran_0.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loisrelativesaux00fran_0.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loisrelativesaux00fran_0.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loisrelativesaux00fran_0.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

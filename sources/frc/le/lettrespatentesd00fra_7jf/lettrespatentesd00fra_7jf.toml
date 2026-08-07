@@ -1,0 +1,88 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettrespatentesd00fra_7jf"
+type = "pamphlet"
+title = "Lettres patentes du roi, sur le décret de l'Assemblée nationale, du 25 avril 1790, concernant le service des maîtres de poste, & l'indemnité des priviléges dont ils jouissoient précédemment : données à Paris, le 5 mail 1790"
+language = "fr"
+place = "A Bordeaux"
+date = "1790"
+note = """Caption title. "Signé Louis. Et plus bas, par le roi, de Saint-Priest"--P. [3]. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained and/or loose pages. Skewed text."""
+url = "https://archive.org/details/lettrespatentesd00fra_7jf"
+subject = ["Postal service"]
+extent = "[3] p. ; 25 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC suppl. 90 no. 29"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4qk2mx7z"
+internet_archive = "lettrespatentesd00fra_7jf"
+openlibrary_edition = "OL26235465M"
+openlibrary_work = "OL17630050W"
+
+[scan]
+file = "lettrespatentesd00fra_7jf.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettrespatentesd00fra_7jf"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Sovereign (1774-1792 : Louis XVI)"
+role = "author"
+
+[[resp]]
+name = "Louis XVI, King of France, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "Saint-Priest, François-Emmanuel Guignard, comte de, 1735-1821"
+role = "author"
+
+[[resp]]
+name = "Racle, Michel, 1739-1793"
+role = "publisher"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "Chez Michel Racle, imprimeur de l'intendance, rue Saint-James"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_861585"
+
+[[text]]
+file = "lettrespatentesd00fra_7jf.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrespatentesd00fra_7jf.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrespatentesd00fra_7jf.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrespatentesd00fra_7jf.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

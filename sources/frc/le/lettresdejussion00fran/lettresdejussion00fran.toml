@@ -1,0 +1,95 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettresdejussion00fran"
+type = "pamphlet"
+title = "Lettres de jussion : du 27 août 1787 ; adressées au Parlement de Bordeaux, séant à Libourne, pour l'enregistrement de l'edit portant création d'assemblées provinciales en Guienne."
+language = "fr"
+place = "s.l."
+date = "1787"
+note = """Caption title. Without imprint. "Extrait des registres du Parlement de Bordeaux. Du 7 septembre 1787": p.3-8. Not in Martin & Walter [edition 1: 1st line on p.[1]: impôts établis ou à établir dans les formes ordi-]. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Skewed text. Uneven binding. Damaged, stained, and/or loose pages."""
+url = "https://archive.org/details/lettresdejussion00fran"
+extent = "8 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 1448"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4tj3jk5n"
+internet_archive = "lettresdejussion00fran"
+openlibrary_edition = "OL26207951M"
+openlibrary_work = "OL17604227W"
+
+[scan]
+file = "lettresdejussion00fran.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/lettresdejussion00fran"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Parlement (Bordeaux)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_41817"
+
+[[text]]
+file = "lettresdejussion00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettresdejussion00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettresdejussion00fran.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettresdejussion00fran.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettresdejussion00fran.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettresdejussion00fran.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettresdejussion00fran.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettresdejussion00fran.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

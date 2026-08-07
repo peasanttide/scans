@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettrespatentesd00fran_10"
+type = "pamphlet"
+title = "... Lettres patentes du roi : sur un décret de l'Assemblée nationale, contenant diverses dispositions relatives aux municipalités ; données à Paris, au mois de janvier 1790."
+language = "fr"
+place = "A Paris"
+date = "1790"
+note = "Caption title. Imprint from colophon. At head of title: La loi et le roi. Not in Martin & Walter. Scanner's note: Title and cover page are combined. Damaged, stained and/or loose pages. Uneven binding. Skewed text. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/lettrespatentesd00fran_10"
+subject = ["Municipal government"]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 5013"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3rv5mp7r"
+internet_archive = "lettrespatentesd00fran_10"
+openlibrary_edition = "OL26212981M"
+openlibrary_work = "OL17608951W"
+
+[scan]
+file = "lettrespatentesd00fran_10.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettrespatentesd00fran_10"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Sovereign (1774-1792 : Louis XVI)"
+role = "author"
+
+[[resp]]
+name = "Chez Baudouin"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_52743"
+
+[[text]]
+file = "lettrespatentesd00fran_10.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrespatentesd00fran_10.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrespatentesd00fran_10.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrespatentesd00fran_10.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

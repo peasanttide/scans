@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lesfrancs00unse"
+type = "pamphlet"
+title = "Les Francs : poëme héroique en dix chants : ouvrage proposé par souscription."
+language = "fr"
+place = "A Paris"
+date = "1796"
+note = "Caption title. Signed: A Paris, ce 24 frimaire an 5 de la République. C.L. Lesur, auteur de la Veuve du républicain, etc. etc. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  III, 21274. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/lesfrancs00unse"
+subject = [
+    "First Coalition, War of the, 1792-1797",
+    "Booksellers and bookselling",
+]
+extent = "3 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 21291"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5w71qg3f"
+internet_archive = "lesfrancs00unse"
+openlibrary_edition = "OL26239663M"
+openlibrary_work = "OL17634203W"
+
+[scan]
+file = "lesfrancs00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lesfrancs00unse"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Lesur, C.-L. (Charles-Louis), 1770-1849"
+role = "author"
+
+[[resp]]
+name = "Crapelet, Charles, 1762-1809"
+role = "publisher"
+
+[[resp]]
+name = "De l'imprimerie de Crapelet"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_844331"
+
+[[text]]
+file = "lesfrancs00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lesfrancs00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lesfrancs00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lesfrancs00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

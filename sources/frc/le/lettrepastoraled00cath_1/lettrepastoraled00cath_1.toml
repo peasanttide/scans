@@ -1,0 +1,83 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettrepastoraled00cath_1"
+type = "pamphlet"
+title = "Lettre pastorale de Monseigneur l'esvesque de Tulle, contenant la censure qu'il a faite du livre intitulé Apologie des casuistes &c"
+language = "fr"
+place = "France?"
+date = "1658"
+note = """Caption title. "Louis de Rechnignevoisin de Guron par la grace de Dieu, & du Saint Siege apostolique evesque ..."--Page 1. "Donné à Tulle dans nostre palais episcopal le dix-huictiesme du mois d'avril mil six cens cinquante-huit"--Page 4. Signatures: [1]². Initial; head-piece. Maire, A. Pascal pamphlétaire. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Title page and cover are combined."""
+url = "https://archive.org/details/lettrepastoraled00cath_1"
+subject = [
+    "Pirot, Georges, 1599-1659",
+    "Jesuits",
+    "Catholic Church",
+    "Casuistry",
+    "Prohibited books",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 1 no. 69"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t12p0r20k"
+internet_archive = "lettrepastoraled00cath_1"
+
+[scan]
+file = "lettrepastoraled00cath_1.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettrepastoraled00cath_1"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Catholic Church.Diocese of Tulle (France).Bishop (1653-1672 : Rechignevoisin de Guron)"
+role = "author"
+
+[[resp]]
+name = "Catholic Church. Diocese of Tulle (France). Bishop (1653-1672 : Rechignevoisin de Guron)"
+role = "author"
+
+[[resp]]
+name = "Rechignevoisin de Guron, Louis, 1616?-1693"
+role = "author"
+
+[[resp]]
+name = "Pirot, Georges, 1599-1659. Apologie pour les casuistes"
+role = "author"
+
+[[resp]]
+name = "[publisher not identified]"
+role = "publisher"
+
+[[text]]
+file = "lettrepastoraled00cath_1.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrepastoraled00cath_1.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrepastoraled00cath_1.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrepastoraled00cath_1.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

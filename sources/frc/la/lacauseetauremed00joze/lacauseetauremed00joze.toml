@@ -1,0 +1,81 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lacauseetauremed00joze"
+type = "pamphlet"
+title = "A la cause et au remède, si vous voulez guérir le mal."
+language = "fr"
+place = "A Paris"
+date = "1792"
+note = "Caption title. Signed: M.P. Jozeau, ami de son pays, de la vérité, de l'ordre & de la liberté. Décembre 1792, l'an Ier de la République française. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  II, 17573. Scanner's note: Title is on the cover page. Skewed text. Uneven binding. Damaged, stained, marked and/or loose pages. No title page found. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/lacauseetauremed00joze"
+subject = [
+    "Freedom of expression",
+    "Libel and slander",
+    "Denunciation (Criminal law)",
+    "Conspiracies",
+]
+extent = "4 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 20058"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1sf7sr35"
+internet_archive = "lacauseetauremed00joze"
+openlibrary_edition = "OL26205393M"
+openlibrary_work = "OL17601715W"
+
+[scan]
+file = "lacauseetauremed00joze.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lacauseetauremed00joze"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Jozeau, Mathurin Pierre, 1749-1794"
+role = "author"
+
+[[resp]]
+name = "Gorsas, Antoine-Joseph, 1752-1793"
+role = "publisher"
+
+[[resp]]
+name = "De l'imprimerie de J.-B.-Jph Dubuc, & d'Ant.-Jph Gorsas, rue Tiquetonne, no. 7"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_841942"
+
+[[text]]
+file = "lacauseetauremed00joze.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lacauseetauremed00joze.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lacauseetauremed00joze.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lacauseetauremed00joze.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

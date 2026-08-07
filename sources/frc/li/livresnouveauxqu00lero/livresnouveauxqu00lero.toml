@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "livresnouveauxqu00lero"
+type = "pamphlet"
+title = "Livres nouveaux qui se trouvent à Paris, chez Leroy, libraire, rue Saint-Jacques, vis-à-vis celle de la Parcheminerie, Moreau, libraire, quai des Augustins, (no. 24.) à Saint-Augustin, entre la rue Gît-le-Cœur & celle du Hurepoix"
+language = "fr"
+place = "Paris?"
+date = "1787"
+note = """Caption title. The phrase "Leroy, libraire ... & celle du Hurepoix" in the title is gathered by a left brace, to the left of which is the word "chez.". "Lu & apprové, ce 4 janvier 1787 ... Vu l'approbation, permis d'imprimer, ce 4 janv."--P. 4. Printed in double columns. Includes detailed descriptions of most titles listed. With prices. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Title page and cover are combined."""
+url = "https://archive.org/details/livresnouveauxqu00lero"
+subject = [
+    "Leroy, Pierre, d. 1790?",
+    "Moureau, Venant-Roch",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 4 no. 72"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t43r6jk79"
+internet_archive = "livresnouveauxqu00lero"
+
+[scan]
+file = "livresnouveauxqu00lero.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/livresnouveauxqu00lero"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Leroy, Pierre,d. 179?"
+role = "author"
+
+[[resp]]
+name = "Leroy, Pierre, d. 1790?"
+role = "author"
+
+[[resp]]
+name = "Moureau, Vénant-Roch"
+role = "bookseller"
+
+[[resp]]
+name = "Pierre Leroy?"
+role = "publisher"
+
+[[text]]
+file = "livresnouveauxqu00lero.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "livresnouveauxqu00lero.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "livresnouveauxqu00lero.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "livresnouveauxqu00lero.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

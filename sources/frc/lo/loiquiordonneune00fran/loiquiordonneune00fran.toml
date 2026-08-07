@@ -1,0 +1,92 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loiquiordonneune00fran"
+type = "pamphlet"
+title = "Loi qui ordonne une nouvelle estimation des cens & rentes de la maison prieuriale de Saint-Martin de Brives, pour après ladite estimation, être rendu un nouveau décret d'aliénation en faveur de la municipalité de Brives : donnée à Paris, le 2 mars 1791"
+language = "fr"
+place = "A Paris"
+date = "1791"
+note = """Caption title. At right of title: No. 623. "Signé Louis. Et plus bas, M.L.F. DuPort"--P. 3. Imprint from colophon. Martin & Walter. Révolution française. "Décret de l'Assemblée nationale, du 18 février 1791"--P. [1]-3. Bibliography: Martin & Walter. Révolution française, IV:2, 9143. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/loiquiordonneune00fran"
+subject = [
+    "Church property",
+    "Valuation",
+    "Confiscations",
+]
+extent = "3 p. ; 25 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10340 no. 1"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0ms8w22z"
+internet_archive = "loiquiordonneune00fran"
+openlibrary_edition = "OL26230642M"
+openlibrary_work = "OL17625618W"
+
+[scan]
+file = "loiquiordonneune00fran.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loiquiordonneune00fran"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Sovereign (1774-1792 : Louis XVI)"
+role = "author"
+
+[[resp]]
+name = "Louis XVI, King of France, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "Duport-Dutertre, Marguerite-Louis-François, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "Imprimerie royale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie royale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_852770"
+
+[[text]]
+file = "loiquiordonneune00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquiordonneune00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquiordonneune00fran.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquiordonneune00fran.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,92 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loirelativeaurem00fran_2"
+type = "pamphlet"
+title = "Loi relative au remboursement de partie de l'emprunt de cent vingt-cinq millions, créé en 1784 : donnée à Paris, le 1er. avril 1792"
+language = "fr"
+place = "A Paris"
+date = "1792"
+note = """Caption title. At right of title: No. 1604. Signed: Louis; countersigned: Roland. Imprint from colophon. Variant of Martin & Walter. Révolution française, IV:2, 9143. "Décret de l'Assemblée nationale, du 31 mars 1792 ..."--P. [1]-2. Scanner's note: Page numbers begin and end with 3. Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text. No copyright page found. No table-of-contents pages found."""
+url = "https://archive.org/details/loirelativeaurem00fran_2"
+subject = [
+    "France. Caisse de l'extraordinaire",
+    "Payment",
+    "Debts, Public",
+]
+extent = "2 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10343 no. 21"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6zw6m502"
+internet_archive = "loirelativeaurem00fran_2"
+openlibrary_edition = "OL26230310M"
+openlibrary_work = "OL17625286W"
+
+[scan]
+file = "loirelativeaurem00fran_2.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loirelativeaurem00fran_2"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Sovereign (1774-1792 : Louis XVI)"
+role = "author"
+
+[[resp]]
+name = "Louis XVI, King of France, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "Roland de La Platière, Jean-Marie, 1734-1793"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale législative (1791-1792)"
+role = "author"
+
+[[resp]]
+name = "Imprimerie royale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie royale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_857322"
+
+[[text]]
+file = "loirelativeaurem00fran_2.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativeaurem00fran_2.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativeaurem00fran_2.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativeaurem00fran_2.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

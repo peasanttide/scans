@@ -1,0 +1,99 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "letiers00unse"
+type = "pamphlet"
+title = "Le tiers et le quart, ou, Lettre de maistre Nicolas, métayer, syndic & député de la paroisse de ***, a M. **. avocat."
+language = "fr"
+place = "France"
+date = "1789"
+note = "Caption title. Not in Martin & Walter. Révolution française. Scanner's note: No title page found. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/letiers00unse"
+subject = [
+    "France. États généraux. Tiers État",
+    "Proportional representation",
+]
+extent = "8 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 23200"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5p89hm38"
+internet_archive = "letiers00unse"
+openlibrary_edition = "OL26236976M"
+openlibrary_work = "OL17631530W"
+
+[scan]
+file = "letiers00unse.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/letiers00unse"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Nicolas, Me"
+role = "author"
+
+[[resp]]
+name = "s.n ."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_847750"
+
+[[text]]
+file = "letiers00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "letiers00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "letiers00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "letiers00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "letiers00unse.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "letiers00unse.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "letiers00unse.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "letiers00unse.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

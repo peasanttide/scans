@@ -1,0 +1,143 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettres00mars"
+type = "pamphlet"
+title = "Lettres /"
+language = "fr"
+place = "A Marseille"
+date = "1789"
+note = """Caption title. Imprint from colophon. The deputies are represented by two documents, dated Paris, 3 and 5 November 1789 (p.1-9). "Réponse de MM. les commissaires du Comité de correspondance des communes de Marseille, aux deux lettres, des 3 & 5 novembre 1789, de MM. les députés de Marseille, à l'Assemblée nationale, à Paris": p.11-16. Dated at end: Marseille, ce 14 novembre 1789. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover."""
+url = "https://archive.org/details/lettres00mars"
+extent = "16 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 4999"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1qg3s39r"
+internet_archive = "lettres00mars"
+openlibrary_edition = "OL26213037M"
+openlibrary_work = "OL17609010W"
+
+[scan]
+file = "lettres00mars.pdf"
+count = 18
+by = "Internet Archive"
+url = "https://archive.org/details/lettres00mars"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Marseille (France)"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de la veuve Sibié"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_53522"
+
+[[text]]
+file = "lettres00mars.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettres00mars.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettres00mars.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettres00mars.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettres00mars.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettres00mars.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettres00mars.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettres00mars.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettres00mars.p9.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettres00mars.p10.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettres00mars.p11.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettres00mars.p12.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettres00mars.p13.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettres00mars.p14.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettres00mars.p15.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettres00mars.p16.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

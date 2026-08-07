@@ -1,0 +1,77 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loirelative00unse_0"
+type = "pamphlet"
+title = "Loi relative à l'établissement de nouvelles mesures pour les grains : donnée à Paris, le 15 décembre 1790"
+language = "fr"
+place = "A Paris"
+date = "1791"
+note = """Caption title. "Signé Louis. Et plus bas, M.L.F. DuPort:--P. 2. Imprint from colophon. Not in Martin & Walter. Révolution française. "Décret de l'Assemblée nationale, du 8 décembre 1790"--P. [1]-2. Scanner's note: No copyright page found. No table-of-contents pages found.  No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."""
+url = "https://archive.org/details/loirelative00unse_0"
+subject = [
+    "Grain",
+    "Grain trade",
+]
+extent = "2 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 28086"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8md4308b"
+internet_archive = "loirelative00unse_0"
+
+[scan]
+file = "loirelative00unse_0.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/loirelative00unse_0"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Sovereign (1774-1792 : Louis XVI)"
+role = "author"
+
+[[resp]]
+name = "Louis XVI, King of France, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "Duport-Dutertre, Marguerite-Louis-François, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "Nyon, Nicolas-Henri, b. 1751?"
+role = "publisher"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de N.H. Nyon, rue Mignon Saint André-des-Arts"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_852318"
+
+[[text]]
+file = "loirelative00unse_0.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelative00unse_0.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

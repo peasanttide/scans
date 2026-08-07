@@ -1,0 +1,78 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "livresnouveauxda00buis"
+type = "pamphlet"
+title = "Livres nouveaux dans tous les genres, qui sont actuellement en vente chez Buisson, libraire, hôtel de Mesgrigny, rue des Poitevins, no. 13"
+language = "fr"
+place = "Paris"
+date = "1786"
+note = """Caption title. Catalog preceded on p. [1] by prospectus for v. 6 of Bibliotheque physico-économique, instructive et amusante. Imprint from colophon. Printing privilege dated: 12 décembre 1786. BN. Catalogues de libraires. "Livres sous presse": p. 4. "On souscrit chez le même libraire, pour les ouvrages périodiques suivans ..."--P. 4. With prices, sewn or bound. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Text extends off of the edge of the page. Text may be lost in the binding. Permanent creases may obscure some text. Title page and cover are combined."""
+url = "https://archive.org/details/livresnouveauxda00buis"
+subject = [
+    "Buisson, François, 1753-1814",
+    "Bibliothèque physico-économique, instructive et amusante",
+    "Periodicals",
+    "Booksellers and bookselling",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 8 no. 6"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t41s2gv0w"
+internet_archive = "livresnouveauxda00buis"
+
+[scan]
+file = "livresnouveauxda00buis.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/livresnouveauxda00buis"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Buisson, François,1753-1814"
+role = "author"
+
+[[resp]]
+name = "Buisson, François, 1753-1814"
+role = "author"
+
+[[resp]]
+name = "Laporte, Antoine-Louis-Guillaume-Catherine, 1746-1817"
+role = "printer"
+
+[[resp]]
+name = "De l'imprimerie de Laporte, rue des Noyers"
+role = "publisher"
+
+[[text]]
+file = "livresnouveauxda00buis.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "livresnouveauxda00buis.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "livresnouveauxda00buis.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "livresnouveauxda00buis.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

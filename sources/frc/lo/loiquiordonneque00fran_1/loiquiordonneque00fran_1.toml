@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loiquiordonneque00fran_1"
+type = "pamphlet"
+title = "Loi qui ordonne que les droits d'entrées qui se perçoivent à Rouen, sous la dénomination de droits réservés, seront perçus provisoirement au profit des deux hôpitaux de la ville de Rouen, jusqu'à ce qu'il en ait été autrement ordonné : donné à Paris, le 19 décembre 1790"
+language = "fr"
+place = "A Paris"
+date = "1791"
+note = """Caption title. "Signé Louis. Et plus bas, M.L.F. DuPort"--P. 2. Imprint from colophon. Not in Martin & Walter. Révolution française. "Décret de l'Assemblée nationale du 15 décembre 1790"--P. [1]-2. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages. Only one numbered page."""
+url = "https://archive.org/details/loiquiordonneque00fran_1"
+subject = [
+    "Tariff",
+    "Hospitals",
+]
+extent = "2 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10339 no. 19"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9964p82g"
+internet_archive = "loiquiordonneque00fran_1"
+openlibrary_edition = "OL26226006M"
+openlibrary_work = "OL17621320W"
+
+[scan]
+file = "loiquiordonneque00fran_1.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/loiquiordonneque00fran_1"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Sovereign (1774-1792 : Louis XVI)"
+role = "author"
+
+[[resp]]
+name = "Louis XVI, King of France, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "Duport-Dutertre, Marguerite-Louis-François, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "Nyon, Nicolas-Henri, b. 1751?"
+role = "publisher"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de N.H. Nyon rue Mignon Saint André-des-Arcs"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_852322"
+
+[[text]]
+file = "loiquiordonneque00fran_1.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquiordonneque00fran_1.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

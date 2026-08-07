@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "listedesmembresc00fran"
+type = "pamphlet"
+title = "... Liste des membres composant le Tribunal extraordinaire : imprimée par ordre de la Convention nationale."
+language = "fr"
+place = "Paris"
+date = "1793"
+note = "Caption title. Imprint from colophon. At head of title: Convention nationale. Martin & Walter IV 2: 4488 (which supplies the date: 13 mars 1793). Scanner's note: No copyright page found. No table-of-contents pages found. Title is on cover page. Damaged, stained and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/listedesmembresc00fran"
+subject = ["France. Tribunal révolutionnaire"]
+extent = "3 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 2361"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t50g8rn6j"
+internet_archive = "listedesmembresc00fran"
+openlibrary_edition = "OL26219042M"
+openlibrary_work = "OL17614734W"
+
+[scan]
+file = "listedesmembresc00fran.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/listedesmembresc00fran"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_49880"
+
+[[text]]
+file = "listedesmembresc00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "listedesmembresc00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "listedesmembresc00fran.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "listedesmembresc00fran.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

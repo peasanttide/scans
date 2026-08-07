@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loisrelativesaux00fran_22"
+type = "pamphlet"
+title = "Lois relatives aux transactions entre particuliers : des 14 et 15 fructidor an V de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1797"
+note = """Caption title. At head of title: No. 540. Au nom de la République française. Imprint from colophon. "No. 2, 11"--Bottom of p. [1]. Not in Martin & Walter. Révolution française. 1o. Loi relative au paiement des obligations contractées postérieurement au premier janvier 1791 -- 2o. Loi relative aux transactions entre particuliers, antérieures à la dépréciation du papier-monnaie. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."""
+url = "https://archive.org/details/loisrelativesaux00fran_22"
+subject = [
+    "Payment",
+    "Devaluation of currency",
+]
+extent = "4 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10349 no. 23"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t75t8sg2b"
+internet_archive = "loisrelativesaux00fran_22"
+openlibrary_edition = "OL26229659M"
+openlibrary_work = "OL17624692W"
+
+[scan]
+file = "loisrelativesaux00fran_22.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loisrelativesaux00fran_22"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Depot des lois, place du Carrousel : Et se trouve dans les villes chef-lieux de département, au bureau de correspondance du Dépôt des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_859860"
+
+[[text]]
+file = "loisrelativesaux00fran_22.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loisrelativesaux00fran_22.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loisrelativesaux00fran_22.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loisrelativesaux00fran_22.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

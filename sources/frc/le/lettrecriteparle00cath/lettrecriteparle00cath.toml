@@ -1,0 +1,71 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettrecriteparle00cath"
+type = "pamphlet"
+title = "Lettre écrite par le châtelain de ...... : à Mgr. l'Archevêque de Vienne."
+language = "fr"
+place = "s.l."
+date = "1788"
+note = "Caption title. Without imprint. Dated at end: 6 août 1788. Not in Martin & Walter. Scanner's note: No title page found. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/lettrecriteparle00cath"
+extent = "[4] p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 4950"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t70w3jj4j"
+internet_archive = "lettrecriteparle00cath"
+openlibrary_edition = "OL26212820M"
+openlibrary_work = "OL17608787W"
+
+[scan]
+file = "lettrecriteparle00cath.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettrecriteparle00cath"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Catholic Church. Archdiocese of Vienne (France). Archbishop (1774-1789 : Pompignan)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_56502"
+
+[[text]]
+file = "lettrecriteparle00cath.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrecriteparle00cath.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrecriteparle00cath.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrecriteparle00cath.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

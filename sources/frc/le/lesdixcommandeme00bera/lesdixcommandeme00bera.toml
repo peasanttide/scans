@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lesdixcommandeme00bera"
+type = "pamphlet"
+title = "Les dix commandemens de la République française, une et indivisible : lus dans l'Assemblée générale de la section du Temple."
+language = "fr"
+place = "A Montauban"
+date = "1793"
+note = """Caption title. "Imprimé par les soins de la Société républicaine de Montauban"--Colophon. Imprint from colophon. Variant of Martin & Walter. Révolution française, I, 2560. "Couplets chanté en présence des représentans du peuple, lors de l'inauguration de l'arbre de la liberté, à la section des Sans-culottes, no. 1, de la commune de Bordeaux, par Launer, chef de la députation de la section des Nations libres, no. 3, & imprimés par délibération de ladite section, présidée par Moustey fils"--P. 3-4. Scanner's note: No copyright page found. No table-of-contents pages found.  Skewed text.  Title on cover.  Stains obscuring text."""
+url = "https://archive.org/details/lesdixcommandeme00bera"
+subject = ["Revolutionary poetry, French"]
+extent = "p. ; cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 14388"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t99647m2k"
+internet_archive = "lesdixcommandeme00bera"
+openlibrary_edition = "OL25920199M"
+openlibrary_work = "OL17343236W"
+
+[scan]
+file = "lesdixcommandeme00bera.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lesdixcommandeme00bera"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Béraud, Louis-Fr.-Guillaume"
+role = "author"
+
+[[resp]]
+name = "Launer"
+role = "author"
+
+[[resp]]
+name = "Société républicaine de Montauban"
+role = "author"
+
+[[resp]]
+name = "Chez Fontanel père & fils, imprimeurs-libraires"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_829836"
+
+[[text]]
+file = "lesdixcommandeme00bera.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lesdixcommandeme00bera.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lesdixcommandeme00bera.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lesdixcommandeme00bera.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

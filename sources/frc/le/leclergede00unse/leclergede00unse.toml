@@ -1,0 +1,82 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "leclergede00unse"
+type = "pamphlet"
+title = "Le clergé de France, ou, Tableau historique & chronologique des archevêques, evêques, abbés, abbesses, & chefs des chapitres principaux du royaume, depuis la fondation des eglises jusqu'à nos jours"
+language = "fr"
+place = "Paris"
+date = "1774"
+note = """Prospectuses for Dutems's "Le clergé de France" and Libois's "L'encyclopédie des dieux et des héros.". Caption title. Imprint from colophon. "Permis d'imprimer, ce 7 avril 1774"--P. [4]. "Le prix des sept volumes du Clergé de France ... sera de 31 liv. 10 s. pour les personnes qui souscriront, & de 36 liv. pour celles qui n'auront pas souscrit ... On souscrira pour Paris chez Delalain, libraire"--P. [2]. "Les personnes de province qui voudront se procurer les deux volumes de M. Libois pourront s'adresser à Paris à lui-même, rue des Arcis, maison de M. Solvet, marchand epicier, à la Perle"--P. [4]. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Title page and cover are combined."""
+url = "https://archive.org/details/leclergede00unse"
+subject = [
+    "Dutems, Jean François Hugues, 1745-1811",
+    "Libois, M. (Etienne), d. 1776",
+    "Booksellers and bookselling",
+    "Encyclopedias and dictionaries",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1a no. 60"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7tn2wx9p"
+internet_archive = "leclergede00unse"
+
+[scan]
+file = "leclergede00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/leclergede00unse"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Dutems, Jean François Hugues, 1745-1811. Clergé de France"
+role = "author"
+
+[[resp]]
+name = "Libois, M. (Etienne), d. 1776. Encyclopédie des dieux et des héros"
+role = "author"
+
+[[resp]]
+name = "Delalain, Nicolas-Augustin, 1735?-1807?"
+role = "bookseller"
+
+[[resp]]
+name = "Lambert, Michel, 1722?-1787"
+role = "printer"
+
+[[resp]]
+name = "De l'imprimerie de M. Lambert, rue de la Harpe"
+role = "publisher"
+
+[[text]]
+file = "leclergede00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "leclergede00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "leclergede00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "leclergede00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

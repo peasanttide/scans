@@ -1,0 +1,93 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loirelativelarec00fran_2"
+type = "pamphlet"
+title = "Loi relative à la rectification de l'article II du décret du 17 décembre dernier, sur les assignats : donnée à Paris, le premier janvier 1792"
+language = "fr"
+place = "A Paris"
+date = "1792"
+note = """
+Caption title. At right of title: No. 1471. Signed: Louis; countersigned: M.L.F. Du Port. Imprint from colophon. Not in Martin & Walter. Révolution française. "Décret de l'Assemblée nationale, du 28 décembre 1791"--P. [1]-2. Stamp of Duport's signature and the seal of state. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover. 
+Only one numbered page."""
+url = "https://archive.org/details/loirelativelarec00fran_2"
+subject = [
+    "Assignats",
+    "Finance, Public",
+]
+extent = "2 p. ; 25 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC suppl. 86 no. 68"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8bg7wk5c"
+internet_archive = "loirelativelarec00fran_2"
+openlibrary_edition = "OL26235516M"
+openlibrary_work = "OL17630102W"
+
+[scan]
+file = "loirelativelarec00fran_2.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loirelativelarec00fran_2"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Sovereign (1774-1792 : Louis XVI)"
+role = "author"
+
+[[resp]]
+name = "Louis XVI, King of France, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "Duport-Dutertre, Marguerite-Louis-François, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale législative (1791-1792)"
+role = "author"
+
+[[resp]]
+name = "Imprimerie royale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie royale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_862029"
+
+[[text]]
+file = "loirelativelarec00fran_2.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativelarec00fran_2.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativelarec00fran_2.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativelarec00fran_2.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

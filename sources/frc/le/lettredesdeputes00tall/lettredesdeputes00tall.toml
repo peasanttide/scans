@@ -1,0 +1,81 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettredesdeputes00tall"
+type = "pamphlet"
+title = "Lettre des députés du département de Vaucluse auprès de l'Assemblée nationale, adressée à l'assemblée électorale : Paris le 7 mai 1791."
+language = "fr"
+place = "France"
+date = "1791"
+note = "Caption title. Signed: Tissot, Palun. Not in Martin & Walter. Révolution française. Scanner's note: No copyright found.  No table of contents found.  Title on cover page. Damaged, stained pages and cover. <br />."
+url = "https://archive.org/details/lettredesdeputes00tall"
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 25802"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7pp4f83r"
+internet_archive = "lettredesdeputes00tall"
+
+[scan]
+file = "lettredesdeputes00tall.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettredesdeputes00tall"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "Tallien, Jean-Lambert, 1767-2098"
+role = "author"
+
+[[resp]]
+name = "Tissot, Louis-Guillaume, 1754-1821"
+role = "author"
+
+[[resp]]
+name = "Palun"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_863542"
+
+[[text]]
+file = "lettredesdeputes00tall.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredesdeputes00tall.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredesdeputes00tall.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredesdeputes00tall.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

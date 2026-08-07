@@ -1,0 +1,85 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettrespatentes00fran_7"
+type = "pamphlet"
+title = "Lettres patentes du roi, qui abrogent l'usage du parchemin pour les quittances :"
+language = "fr"
+place = "A Paris"
+date = "1785"
+note = "Caption title. Signed: Louis; countersigned: Le bon. de Breteüil. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Title page and cover are combined."
+url = "https://archive.org/details/lettrespatentes00fran_7"
+subject = [
+    "Parchment",
+    "Legal documents",
+    "Receipts (Acknowledgments)",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 10 no. 1"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3fz2wr6k"
+internet_archive = "lettrespatentes00fran_7"
+
+[scan]
+file = "lettrespatentes00fran_7.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettrespatentes00fran_7"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Sovereign (1774-1792 : Louis XVI)"
+role = "author"
+
+[[resp]]
+name = "France. Sovereign (1774-1792 : Louis XVI)"
+role = "author"
+
+[[resp]]
+name = "Louis XVI, King of France, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "Breteuil, Louis-Auguste Le Tonnelier, baron de, 1730-1807"
+role = "author"
+
+[[resp]]
+name = "Imprimerie royale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie royale"
+role = "publisher"
+
+[[text]]
+file = "lettrespatentes00fran_7.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrespatentes00fran_7.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrespatentes00fran_7.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrespatentes00fran_7.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,60 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettreduprocureu00fran"
+type = "pamphlet"
+title = "Lettre du Procureur Général du Parlement de Bretagne a la Faculté de theologie de Nantes"
+language = "fr"
+date = "1715"
+note = "Caption title. Manuscript on paper. Dated 1 August 1715. Concerning a pamphlet with title: Cathechisme historique et dogmatique sur la Constitution Unigenitus."
+url = "https://archive.org/details/lettreduprocureu00fran"
+subject = ["Unigenitus (Papal bull) 1713"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 3 no. 44"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9k41dh5d"
+internet_archive = "lettreduprocureu00fran"
+
+[scan]
+file = "lettreduprocureu00fran.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/lettreduprocureu00fran"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Parlement (Brittany)"
+role = "author"
+
+[[resp]]
+name = "France. Parlement (Brittany)"
+role = "author"
+
+[[resp]]
+name = "Université de Nantes. Faculté de théologie"
+role = "author"
+
+[[resp]]
+name = "[n.p."
+role = "publisher"
+
+[[text]]
+file = "lettreduprocureu00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettreduprocureu00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

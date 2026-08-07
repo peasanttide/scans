@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lesmembresdeladm00sein"
+type = "pamphlet"
+title = "... Les membres de l'administration centrale du département de la Seine : le commissaire du directoire et le secrétaire en chef auprès d'elle ; au Corps législatif."
+language = "fr"
+place = "Paris"
+date = "1799"
+note = "Caption title. Imprint from colophon. At head of title: Corps législatif. Conseil des anciens. Liberté. ÉEgalite [i.e.ÉEgalité]. Martin & Walter IV 2: 16517 (which specifies: Réclamations en faveur des réunions publiques). Scanner's note: No copyright page found. No table-of-contents pages found. Title is on cover page. Damaged, stained and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/lesmembresdeladm00sein"
+subject = ["Public meetings"]
+extent = "3 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 8219"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t26b27r62"
+internet_archive = "lesmembresdeladm00sein"
+openlibrary_edition = "OL26220415M"
+openlibrary_work = "OL17616033W"
+
+[scan]
+file = "lesmembresdeladm00sein.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lesmembresdeladm00sein"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Seine (France)"
+role = "author"
+
+[[resp]]
+name = "France. Corps législatif (1795-1814). Conseil des anciens"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_6465"
+
+[[text]]
+file = "lesmembresdeladm00sein.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lesmembresdeladm00sein.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lesmembresdeladm00sein.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lesmembresdeladm00sein.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

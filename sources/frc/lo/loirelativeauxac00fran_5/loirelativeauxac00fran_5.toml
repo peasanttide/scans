@@ -1,0 +1,85 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loirelativeauxac00fran_5"
+type = "pamphlet"
+title = "Loi relative aux acquéreurs de biens nationaux : donnée à Paris, le 4 mai 1791"
+language = "fr"
+place = "A Rouen"
+date = "1791"
+note = """Caption title. "L'Assemblée nationale a décrété, et nous voulons et ordonnons ce qui suit"--P. [1]. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, stained and/or loose pages. Skewed text. Uneven binding. Title and cover page are combined."""
+url = "https://archive.org/details/loirelativeauxac00fran_5"
+subject = [
+    "Government sale of real property",
+    "Vendors and purchasers",
+]
+extent = "3 p. ; 25 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC suppl. 84 no. 19"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t46q75c71"
+internet_archive = "loirelativeauxac00fran_5"
+
+[scan]
+file = "loirelativeauxac00fran_5.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loirelativeauxac00fran_5"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Sovereign (1774-1792 : Louis XVI)"
+role = "author"
+
+[[resp]]
+name = "Louis XVI, King of France, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "Le Boullenger, Jacques-Joseph-Jean-Baptiste, b. 1740"
+role = "publisher"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de J.J. Le Boullenger, imp. du roi, rue du Grand-Maulévrier"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_861119"
+
+[[text]]
+file = "loirelativeauxac00fran_5.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativeauxac00fran_5.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativeauxac00fran_5.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativeauxac00fran_5.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

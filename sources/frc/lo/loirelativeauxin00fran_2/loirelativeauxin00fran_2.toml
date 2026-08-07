@@ -1,0 +1,88 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loirelativeauxin00fran_2"
+type = "pamphlet"
+title = "Loi relative aux inscriptions hypothécaires sur les comptables publics, etc. : du 6 messidor an VII de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1799"
+note = """Caption title. At head of title: Au nom de la République française. Signed: Sieyes, président; par le Directoire exécutif, le secrétaire général, Lagarde. Imprint from colophon. "No. 2, 9"--Bottom of p. [1]; "No. 935"--Top of p. [1]. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/loirelativeauxin00fran_2"
+subject = [
+    "Mortgage-backed securities",
+    "Recording and registration",
+    "Mortgages",
+]
+extent = "3 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10350 no. 45"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9v17618t"
+internet_archive = "loirelativeauxin00fran_2"
+openlibrary_edition = "OL26228497M"
+openlibrary_work = "OL17623566W"
+
+[scan]
+file = "loirelativeauxin00fran_2.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loirelativeauxin00fran_2"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Directoire exécutif"
+role = "author"
+
+[[resp]]
+name = "Sieyès, Emmanuel Joseph, comte, 1748-1836"
+role = "author"
+
+[[resp]]
+name = "Lagarde, Joseph-Jean, baron, 1755-1840"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Depot des lois, place du Carrousel : Et se trouve dans les villes chef-lieux de département, au bureau de correspondance du Dépôt des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_859357"
+
+[[text]]
+file = "loirelativeauxin00fran_2.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativeauxin00fran_2.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativeauxin00fran_2.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativeauxin00fran_2.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,88 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettre00unse_g11"
+type = "pamphlet"
+title = "Lettre d'avis a mes concitoyens, sur la correspondence du général Lieutaud, avec le général La Fayette."
+language = "fr"
+place = "A Marseille"
+date = "1790"
+note = """Caption title. Signed, p. 3: Sarrazin. Imprint from colophon. Not in Martin & Walter. Révolution française. "Lettre écrite par M. de La Fayette à M. Lieutaud"--P. 3-4. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained, marked and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/lettre00unse_g11"
+subject = [
+    "Sarrazin, Jean, 1770-1848",
+    "Blanc-Gilli, Mathieu",
+    "Lafayette, Marie Joseph Paul Yves Roch Gilbert Du Motier, marquis de, 1757-1834",
+    "Lieutaud, Jean François",
+    "Conspiracies",
+]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 25058"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4zh1z321"
+internet_archive = "lettre00unse_g11"
+
+[scan]
+file = "lettre00unse_g11.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettre00unse_g11"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Sarrazin, Jean, 1770-1848"
+role = "author"
+
+[[resp]]
+name = "Lafayette, Marie Joseph Paul Yves Roch Gilbert Du Motier, marquis de, 1757-1834"
+role = "author"
+
+[[resp]]
+name = "Lieutaud, Jean François"
+role = "author"
+
+[[resp]]
+name = "Favet, Pierre-Antoine"
+role = "publisher"
+
+[[resp]]
+name = "De l'imprimerie de P.A. Favet, imprimeur du roi & de la ville, rue du Pavillon"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_850323"
+
+[[text]]
+file = "lettre00unse_g11.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00unse_g11.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00unse_g11.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00unse_g11.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

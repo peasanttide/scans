@@ -1,0 +1,103 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettredesboulang00lebo"
+type = "pamphlet"
+title = "Lettre des boulangers de Paris, au peuple : suivie d'un entretien de deux peres de famille, sur la rareté de la farine."
+language = "fr"
+place = "Paris"
+date = "1789"
+note = """Caption title. Signed: Siobel. By R.F. Lebois. Cf. Martin & Walter. Imprint from colophon. Place of publication from Martin & Walter. Martin & Walter. Révolution française. "Entretien de M. C-- , pere de sept enfans, avec M. G-- , pere de cinq"--P. 5-8. Bibliography: Martin & Walter.  Révolution française,  III, 19949. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page is on the cover. Damaged, stained, and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/lettredesboulang00lebo"
+subject = [
+    "Bread",
+    "Food supply",
+]
+extent = "8 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 20886"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7rn8d675"
+internet_archive = "lettredesboulang00lebo"
+openlibrary_edition = "OL26238586M"
+openlibrary_work = "OL17633121W"
+
+[scan]
+file = "lettredesboulang00lebo.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/lettredesboulang00lebo"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Lebois, R. F. (René François)"
+role = "author"
+
+[[resp]]
+name = "Grangé, Jean-Augustin, b. 1712?"
+role = "publisher"
+
+[[resp]]
+name = "De l'imprimerie de Grangé"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_843731"
+
+[[text]]
+file = "lettredesboulang00lebo.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredesboulang00lebo.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredesboulang00lebo.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredesboulang00lebo.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredesboulang00lebo.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredesboulang00lebo.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredesboulang00lebo.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredesboulang00lebo.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

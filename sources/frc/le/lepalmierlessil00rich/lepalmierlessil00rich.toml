@@ -1,0 +1,64 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lepalmierlessil00rich"
+type = "pamphlet"
+title = "Le Palmier, les Silvains, et Jupiter, fable sur la convalescence du roi"
+language = "fr"
+place = "Paris"
+date = "1744"
+note = "Binder's title: Conquest du roy. Caption title. Verse. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover.  Uneven binding.  Skewed text.  Irregular pagination.  Page numbers have been altered/defaced.  Damaged, stained, torn and/or loose pages."
+url = "https://archive.org/details/lepalmierlessil00rich"
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "E 5 .L92705 v. 06 no. 47"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1zd40406"
+internet_archive = "lepalmierlessil00rich"
+
+[scan]
+file = "lepalmierlessil00rich.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lepalmierlessil00rich"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Richer, ---"
+role = "author"
+
+[[resp]]
+name = "Prault"
+role = "publisher"
+
+[[text]]
+file = "lepalmierlessil00rich.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lepalmierlessil00rich.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lepalmierlessil00rich.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lepalmierlessil00rich.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

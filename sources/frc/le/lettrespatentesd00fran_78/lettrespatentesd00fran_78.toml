@@ -1,0 +1,85 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettrespatentesd00fran_78"
+type = "pamphlet"
+title = "Lettres patentes du roi, qui subrogent le sieur de Boullongne fils au sieur de Boullongne son père, pour, conjointement avec les autres commissaires nommés par les lettes patentes des 1er. février 1747, 21 janvier 1748 & 20 mai 1749, procéder à l'exécution d'icelles : données à Versailles le 28 août 1757"
+language = "fr"
+place = "A Paris"
+date = "1757"
+note = """Caption title. "Signé Louis. Et plus bas, par le roi, Phelypeaux"--P. 3. Imprint from colophon. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, stained and/or loose pages Skewed text. Uneven binding. Title and cover page are combined. Text on the back cover is upside-down."""
+url = "https://archive.org/details/lettrespatentesd00fran_78"
+subject = [
+    "Tax administration and procedure",
+    "Finance, Public",
+]
+extent = "3 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC suppl. 90 no. 2"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2j72ns2m"
+internet_archive = "lettrespatentesd00fran_78"
+
+[scan]
+file = "lettrespatentesd00fran_78.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettrespatentesd00fran_78"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Sovereign (1715-1774 : Louis XV)"
+role = "author"
+
+[[resp]]
+name = "Louis XV, King of France, 1710-1774"
+role = "author"
+
+[[resp]]
+name = "Maurepas, Jean-Frédéric Phélypeaux, comte de, 1701-1781"
+role = "author"
+
+[[resp]]
+name = "Imprimerie royale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie royale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_861561"
+
+[[text]]
+file = "lettrespatentesd00fran_78.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrespatentesd00fran_78.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrespatentesd00fran_78.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrespatentesd00fran_78.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

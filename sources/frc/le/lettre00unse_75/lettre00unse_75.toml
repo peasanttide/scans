@@ -1,0 +1,86 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettre00unse_75"
+type = "pamphlet"
+title = "Lettre de Marie-Antoinette, reine des Français, a M. Bailly, maire de Paris : suivie du nouveau décret de l'Assemblée nationale sur les colonies."
+language = "fr"
+place = "A Marseille"
+date = "1791"
+note = """Caption title. Imprint from colophon. "Sur l'imprimé de Paris"--Colophon. Not in Martin & Walter. Révolution française. Scanner's note: No Copyright found. No Table of Contents found. Title on cover page. Damaged, stained pages and cover. <br />."""
+url = "https://archive.org/details/lettre00unse_75"
+subject = [
+    "Marie Antoinette, Queen, consort of Louis XVI, King of France, 1755-1793",
+    "Festivals",
+    "Public welfare",
+]
+extent = "4 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 22052"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0ps31x50"
+internet_archive = "lettre00unse_75"
+
+[scan]
+file = "lettre00unse_75.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettre00unse_75"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "Marie Antoinette, Queen, consort of Louis XVI, King of France, 1755-1793"
+role = "author"
+
+[[resp]]
+name = "Bailly, Jean Sylvain, 1736-1793"
+role = "author"
+
+[[resp]]
+name = "Mossy, Auguste"
+role = "publisher"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de A. Mossy, le jeune"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_845800"
+
+[[text]]
+file = "lettre00unse_75.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00unse_75.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00unse_75.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00unse_75.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

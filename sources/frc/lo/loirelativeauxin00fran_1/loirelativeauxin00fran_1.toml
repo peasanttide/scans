@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loirelativeauxin00fran_1"
+type = "pamphlet"
+title = "Loi relative aux individus qui se sont soustraits à la déportation, ou en ont quitté le lieu : du 19 brumaire, an VII de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1798"
+note = """Caption title. At head of title: Au nom de la République française. Signed: Treilhard, président; par le Directoire exécutif, le secrétaire général, Lagarde. Imprint from colophon. "No. 3, 12"--Bottom of p. [1]; "No. 810"--Top of p. [1]. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text. Only one numbered page."""
+url = "https://archive.org/details/loirelativeauxin00fran_1"
+subject = [
+    "Deportees",
+    "Refugees",
+]
+extent = "2 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10350 no. 8"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9867nv8d"
+internet_archive = "loirelativeauxin00fran_1"
+openlibrary_edition = "OL26228498M"
+openlibrary_work = "OL17623567W"
+
+[scan]
+file = "loirelativeauxin00fran_1.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/loirelativeauxin00fran_1"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Directoire exécutif"
+role = "author"
+
+[[resp]]
+name = "Treilhard, M. (Jean-Baptiste), 1742-1810"
+role = "author"
+
+[[resp]]
+name = "Lagarde, Joseph-Jean, baron, 1755-1840"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois, place du Carrousel"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_859286"
+
+[[text]]
+file = "loirelativeauxin00fran_1.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativeauxin00fran_1.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

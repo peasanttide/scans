@@ -1,0 +1,91 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettrespatentesd00fran_82"
+type = "pamphlet"
+title = "Lettres patentes du roi, qui ordonnent que le trésorier des revenus casuels sera tenu d'expédier de nouvelles quittances de finances aux officiers conservés en la sénéchaussée & siége présidial de Lyon, par l'edit du mois de septembre 1771 : données à Fontainebleau le 18 octobre 1772 : registrées en Parlement, le vingt-sept novembre 1772"
+language = "fr"
+place = "A Paris"
+date = "1772"
+note = """Caption title. "Signé Louis. Et plus bas: par le roi, Bertin"--P. 3. Imprint from colophon. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, stained and/or loose pages Skewed text. Uneven binding. Title and cover page are combined. Text on the back cover is upside-down."""
+url = "https://archive.org/details/lettrespatentesd00fran_82"
+subject = [
+    "France. Cour des monnaies, sénéchaussée & présidial (Lyon)",
+    "Finance, Public",
+]
+extent = "3 p. ; 28 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC suppl. 90 no. 6"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8bg7wm0d"
+internet_archive = "lettrespatentesd00fran_82"
+openlibrary_edition = "OL26235428M"
+openlibrary_work = "OL17630013W"
+
+[scan]
+file = "lettrespatentesd00fran_82.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettrespatentesd00fran_82"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Sovereign (1715-1774 : Louis XV)"
+role = "author"
+
+[[resp]]
+name = "Louis XV, King of France, 1710-1774"
+role = "author"
+
+[[resp]]
+name = "Bertin, Henri-Léonard-Jean-Baptiste, 1719-1792"
+role = "author"
+
+[[resp]]
+name = "Simon, P. G. (Pierre-Guillaume), 1722-1787"
+role = "publisher"
+
+[[resp]]
+name = "France. Parlement (Paris)"
+role = "author"
+
+[[resp]]
+name = "Chez P.G. Simon, imprimeur du Parlement, rues Mignon & du Battoir, quartier S. André-des-Arcs"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_861964"
+
+[[text]]
+file = "lettrespatentesd00fran_82.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrespatentesd00fran_82.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrespatentesd00fran_82.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrespatentesd00fran_82.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

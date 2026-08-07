@@ -1,0 +1,65 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "listedesouvrages00buac"
+type = "pamphlet"
+title = "Liste des ouvrages géographiques de Guillaume de l'Isle de l'Academie royale des sciences et premier géographe de Sa Majesté, avec le tems auquel ils ont été publiez"
+language = "fr"
+place = "A Paris"
+date = "1770"
+note = """Caption title. Buache was successor to De l'Isle. Cf. Nouv. biog. gén., VII, column 676. Latest date listed: 1770. "A Paris, en la maison de feu Guillaume Delisle, sur le quay de l'Horloge du Palais, avec privilége du roy"--P. [2]. Wholly engraved. "Liste des cartes géographiques de Philippe Buache : avec le tems auquel elles ont été publiées": p. [2]. Scanner's note: No copyright page found. No table-of-contents pages found. Title and cover pages combined."""
+url = "https://archive.org/details/listedesouvrages00buac"
+subject = [
+    "L'Isle, Guillaume de, 1675-1726",
+    "Buache, Philippe, 1700-1773",
+    "Publishers and publishing",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1c no. 44"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0005tj6p"
+internet_archive = "listedesouvrages00buac"
+
+[scan]
+file = "listedesouvrages00buac.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/listedesouvrages00buac"
+ppi = 500
+note = "Scanned on fold1.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Buache, Philippe,17-1773"
+role = "author"
+
+[[resp]]
+name = "Buache, Philippe, 1700-1773"
+role = "author"
+
+[[resp]]
+name = "Buache, Philippe, 1700-1773. Liste des cartes géographiques de Philippe Buache"
+role = "author"
+
+[[resp]]
+name = "Chez l'auteur, quay de l'Horloge, avec privilége du roy"
+role = "publisher"
+
+[[text]]
+file = "listedesouvrages00buac.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "listedesouvrages00buac.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

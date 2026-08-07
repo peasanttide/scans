@@ -1,0 +1,101 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "laveritetouteent00pign"
+type = "pamphlet"
+title = "La vérité toute entière au Directoire exécutif. Première [-Seconde] partie."
+language = "fr"
+place = "Paris"
+date = "1798"
+note = """Caption title. Signed: Pignere. Imprint from colophon. Place of publication from Martin & Walter. "La troisième partie sera sous presse incessamment"--P. 8. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  III, 27369. Scanner's note: Title page and cover are combined. Damaged, stained, marked and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/laveritetouteent00pign"
+subject = [
+    "Hôtel des invalides (France)",
+    "Disabled veterans",
+]
+extent = "8 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 23752"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t75t8xh0g"
+internet_archive = "laveritetouteent00pign"
+
+[scan]
+file = "laveritetouteent00pign.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/laveritetouteent00pign"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Pignere La Boulloy"
+role = "author"
+
+[[resp]]
+name = "France. Directoire exécutif"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie du ci-devant couvent des carmelittes, rue Transnonain, entre celles Chapon et de la Réunion"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_848550"
+
+[[text]]
+file = "laveritetouteent00pign.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "laveritetouteent00pign.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "laveritetouteent00pign.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "laveritetouteent00pign.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "laveritetouteent00pign.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "laveritetouteent00pign.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "laveritetouteent00pign.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "laveritetouteent00pign.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

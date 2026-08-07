@@ -1,0 +1,88 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loirelative00unse_18"
+type = "pamphlet"
+title = "Loi relative à l'équipement des gardes nationales volontaires, enrôlés pour la défense du royaume : donnée à Paris, le 7 septembre 1791"
+language = "fr"
+place = "A Rouen"
+date = "1791"
+note = """Caption title. "Pour le roi. Signé M.L.F. Duport"--P. 2. "A Rouen, en Directoire ..."--P. 3. Imprint from colophon. Not in Martin & Walter. Révolution française. "Décret de l'Assemblée nationale, du 4 septembre 1791"--P. [1]-2. Scanner's note: No title page found. No copyright page found. No table-of-contents pages found."""
+url = "https://archive.org/details/loirelative00unse_18"
+subject = ["France. Armée. Garde nationale"]
+extent = "4 p. ; 25 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC suppl. 85 no. 49"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9m381m9r"
+internet_archive = "loirelative00unse_18"
+openlibrary_edition = "OL26235384M"
+openlibrary_work = "OL17629969W"
+
+[scan]
+file = "loirelative00unse_18.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loirelative00unse_18"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Sovereign (1774-1792 : Louis XVI)"
+role = "author"
+
+[[resp]]
+name = "Duport-Dutertre, Marguerite-Louis-François, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "Oursel, Louis-Joseph, b. 1739"
+role = "publisher"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "Rouen (France). Directoire"
+role = "author"
+
+[[resp]]
+name = "De l'imp de L. Oursel, imprimeur du roi, rue de la Vicomté"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_859610"
+
+[[text]]
+file = "loirelative00unse_18.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelative00unse_18.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelative00unse_18.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelative00unse_18.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

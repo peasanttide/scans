@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "letronedesfranca00manu"
+type = "pamphlet"
+title = "Le trone des Français ne s'emporte pas : lettre superbe & extraordinaire de M. Manuel, procureur de la Commune de Paris, au roi."
+language = "fr"
+place = "France"
+date = "1792"
+note = """Caption title. At head of title: Prix un sous. "Extrait du Courrier français, du Ier. février 1792, no. 32.". Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined.  Damaged, stained, marked and/or loose pages.  Uneven binding.  Skewed text."""
+url = "https://archive.org/details/letronedesfranca00manu"
+subject = [
+    "Louis XVI, King of France, 1754-1793",
+    "Monarchy",
+]
+extent = "4 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 21962"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5dc3931c"
+internet_archive = "letronedesfranca00manu"
+openlibrary_edition = "OL26240203M"
+openlibrary_work = "OL17634726W"
+
+[scan]
+file = "letronedesfranca00manu.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/letronedesfranca00manu"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Manuel, Louis-Pierre, 1751-1793"
+role = "author"
+
+[[resp]]
+name = "Louis XVI, King of France, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_845441"
+
+[[text]]
+file = "letronedesfranca00manu.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "letronedesfranca00manu.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "letronedesfranca00manu.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "letronedesfranca00manu.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

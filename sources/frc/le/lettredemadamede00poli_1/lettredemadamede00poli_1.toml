@@ -1,0 +1,73 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettredemadamede00poli_1"
+type = "pamphlet"
+title = "Lettre de Madame de Polignac, adressée aux Français."
+language = "fr"
+place = "A Paris"
+date = "1790"
+note = """Caption title. Imprint from colophon. "De Rome, le 1er. octobre 1790"--P. [1]. Not in Martin & Walter. Révolution française. Scanner's note: Title page and cover are combined. Damaged, stained, marked and/or loose pages. Uneven binding. Skewed text.<br />No Copyright found. No Table of Contents found. <br />."""
+url = "https://archive.org/details/lettredemadamede00poli_1"
+subject = [
+    "Polignac, Yolande-Martine-Gabrielle de Polastron, duchesse de, 1749?-1793",
+    "Polignac family",
+]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 23847"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9673r02r"
+internet_archive = "lettredemadamede00poli_1"
+
+[scan]
+file = "lettredemadamede00poli_1.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettredemadamede00poli_1"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "Polignac, Yolande-Martine-Gabrielle de Polastron, duchesse de, 1749?-1793"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Chalon, rue du Théâtre Français"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_848736"
+
+[[text]]
+file = "lettredemadamede00poli_1.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredemadamede00poli_1.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredemadamede00poli_1.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredemadamede00poli_1.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

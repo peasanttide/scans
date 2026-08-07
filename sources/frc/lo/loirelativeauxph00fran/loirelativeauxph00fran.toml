@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loirelativeauxph00fran"
+type = "pamphlet"
+title = "Loi relative aux phares, amers, tonnes, et balises : donnée à Paris, le 20 septembre 1792 : decret de l'Assemblée nationale, du 15 septembre 1792, l'an quatrième de la liberté"
+language = "fr"
+place = "A Paris"
+date = "1792"
+note = "Caption title. At right of title: No. 2559. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/loirelativeauxph00fran"
+subject = [
+    "France. Ministère de la marine",
+    "Aids to navigation",
+]
+extent = "4 p. ; 28 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10344 no. 129"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1bk6hs8p"
+internet_archive = "loirelativeauxph00fran"
+openlibrary_edition = "OL26230385M"
+openlibrary_work = "OL17625361W"
+
+[scan]
+file = "loirelativeauxph00fran.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loirelativeauxph00fran"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Assemblée nationale législative (1791-1792)"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale exécutive du Louvre"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_858702"
+
+[[text]]
+file = "loirelativeauxph00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativeauxph00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativeauxph00fran.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativeauxph00fran.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

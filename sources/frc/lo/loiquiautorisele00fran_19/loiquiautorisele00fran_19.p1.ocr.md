@@ -1,0 +1,47 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: loiquiautorisele00fran_19
+page: 1
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 3129
+h: 4126
+dpi: 350
+---
+
+( 538 . * )
+
+* ^ 'C
+
+• /
+
+L O I
+
+B. n.° 17 .*).
+L). io63.
+
+Qui autonse Le cumuL des traltemens en faveur des savans et des
+, artistes.
+
+Du 16 Tructidor, an troisième de la République françaige une et indivisible.
+
+L A Convention nationale , après avoir entendu le rapport de
+son comité d’instruction publique, décrète:
+
+I/es savans, les gens de lettres et les artistes qui rempliront plusieurs
+fonctions relatives à l’instruction publique, pourront en cumuler les
+traitemens.
+
+Visé. Signé Enjvbault.
+
+Collationné. Signé Br4ard , ex-président; Gourdan ,
+Poisson, secréteiires.
+
+A PARIS,
+
+DE L' IMPRIMERIE DU DEPOT DES LOIS.
+Place de la Réunion, ci-devant du Grand-Carrousel.
+
+AN II L* DE LA RÉPUBLIQUE FRANÇAISE,
+
+UNE ET indivisible.

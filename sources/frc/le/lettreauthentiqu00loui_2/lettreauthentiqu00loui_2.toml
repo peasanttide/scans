@@ -1,0 +1,87 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettreauthentiqu00loui_2"
+type = "pamphlet"
+title = "Lettre authentique du roi a M. Necker : suivie de celle de M. Necker, que Sa Majesté a reçue le 26 juillet."
+language = "fr"
+place = "A Paris"
+date = "1789"
+note = """Caption title. Imprint from colophon. Date of publication from Martin & Walter. Second to last line of p. [1]: qu'il vous ait en sa sainte & digne garde. Another edition exists with second to last line: garde. Last line of p. 2 ends: monarque. Another edition exists with last word: exposé. Martin & Walter. Révolution française. BN. "Réponse de M. Necker au roi, datée de Genève le 23 de juillet au soir, & parvenue à Sa Majesté le 26"--P. 2-3. Bibliography: Martin & Walter.  Révolution française,  III, 21839. Scanner's note: No copyright page found. No table-of-contents pages found. Title page is on the cover. Damaged, stained, and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/lettreauthentiqu00loui_2"
+subject = [
+    "Necker, Jacques, 1732-1804",
+    "Louis XVI, King of France, 1754-1793",
+]
+extent = "3 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 23134"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7bs41884"
+internet_archive = "lettreauthentiqu00loui_2"
+openlibrary_edition = "OL26237328M"
+openlibrary_work = "OL17631883W"
+
+[scan]
+file = "lettreauthentiqu00loui_2.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettreauthentiqu00loui_2"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Louis XVI, King of France, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "Necker, Jacques, 1732-1804"
+role = "author"
+
+[[resp]]
+name = "Maradan, Claude-François, 1762-1823"
+role = "publisher"
+
+[[resp]]
+name = "Nyon, Nicolas-Henri, b. 1751?"
+role = "printer"
+
+[[resp]]
+name = "Chez Maradan, libraire, rue Saint André-des-Arts, hôtel de Châteaux-vieux : & de l'imprimerie de N.H. Nyon, rue Mignon"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_847548"
+
+[[text]]
+file = "lettreauthentiqu00loui_2.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettreauthentiqu00loui_2.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettreauthentiqu00loui_2.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettreauthentiqu00loui_2.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

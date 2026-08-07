@@ -1,0 +1,101 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "letteroftran00davi"
+type = "pamphlet"
+title = "[Letter of transmittal]"
+language = "fr"
+place = "Paris?"
+date = "1799"
+note = """Letter of transmittal regarding the 1799 Constitution of France engraved by David. First line: Le citoyen David, membre de l'Academie de peinture. At head of text: Rue Pierre-Sarrazin, n°. 14. Last three pages blank. "Le prix de deux francs qu'il a imposé à ce petit ouvrage donne aux citoyens de toutes les classes la facilité de l'acquérir. Les premières epreuves au bistre, trois francs.". Inscription: Au citoyen Adanson, homme de lettres, rue de la Victoire, no 49. Scanner's note: No copyright found.  No table of contents found.  Damaged, stained pages and cover.  No page numbers. <br /><br />."""
+url = "https://archive.org/details/letteroftran00davi"
+subject = [
+    "France",
+    "Booksellers and bookselling",
+    "Government publications",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1c no. 24"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6548bb4z"
+internet_archive = "letteroftran00davi"
+
+[scan]
+file = "letteroftran00davi.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/letteroftran00davi"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "David, François-Anne,1741-1824"
+role = "author"
+
+[[resp]]
+name = "David, François-Anne, 1741-1824"
+role = "author"
+
+[[resp]]
+name = "Adanson, Michel, 1727-1806, former owner. ICN"
+role = "author"
+
+[[resp]]
+name = "François-Anne David?"
+role = "publisher"
+
+[[text]]
+file = "letteroftran00davi.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "letteroftran00davi.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "letteroftran00davi.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "letteroftran00davi.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "letteroftran00davi.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "letteroftran00davi.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "letteroftran00davi.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "letteroftran00davi.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

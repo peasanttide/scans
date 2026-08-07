@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loiquisuspe00unse"
+type = "pamphlet"
+title = "Loi qui suspend l'exécution de celle du 10 frimaire de l'an second, concernant les domaines aliénés : du 22 frimaire l'an troisième de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1794"
+note = """Caption title. At head of title: (No. 215*. At right of title: B. no. 101, D. no. 527. Signed: Reubell, président, J.S. Rovere, Dubois-Dubais, secrétaires. Imprint from colophon. Not in Martin & Walter. Révolution française. "La Convention nationale ... charge ce comité ..."--P. [1]. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/loiquisuspe00unse"
+subject = ["Real property"]
+extent = "[1] p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10345 no. 106"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0ps2xs62"
+internet_archive = "loiquisuspe00unse"
+openlibrary_edition = "OL26229078M"
+openlibrary_work = "OL17624112W"
+
+[scan]
+file = "loiquisuspe00unse.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/loiquisuspe00unse"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Reubell, Jean-François, 1747-1807"
+role = "author"
+
+[[resp]]
+name = "Rovère, Joseph-Stanislas, 1748-1798"
+role = "author"
+
+[[resp]]
+name = "Dubois-Dubais, Louis Thibault, comte, 1743-1834"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépot des lois, place de la Réunion, ci-devant du grand-Carrousel"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_860442"
+
+[[text]]
+file = "loiquisuspe00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquisuspe00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

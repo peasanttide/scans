@@ -1,0 +1,83 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettresdumarecha00luck"
+type = "pamphlet"
+title = "Lettres du maréchal Luckner a l'Assemblée nationale : lues le 9 juillet 1792, l'an 4me. de la liberté."
+language = "fr"
+place = "Paris"
+date = "1792"
+note = """Caption title. "Imprimées par ordre de l'Assemblée nationale"--P. [1]. Imprint from colophon. "Militaire. No. 15"--Bottom of p. [1]. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  III, 22187. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/lettresdumarecha00luck"
+subject = [
+    "Berthier, Louis-Alexandre, 1753-1815",
+    "France. Armée",
+]
+extent = "3 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 21736"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3wt3xr42"
+internet_archive = "lettresdumarecha00luck"
+openlibrary_edition = "OL26239458M"
+openlibrary_work = "OL17633998W"
+
+[scan]
+file = "lettresdumarecha00luck.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettresdumarecha00luck"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Luckner, Nikolaus, Graf von, 1722-1794"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale législative (1791-1792)"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_845060"
+
+[[text]]
+file = "lettresdumarecha00luck.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettresdumarecha00luck.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettresdumarecha00luck.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettresdumarecha00luck.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

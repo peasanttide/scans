@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lecomediendufres00dufr"
+type = "pamphlet"
+title = "Le comédien Dufresse a Monsieur le commissaire des guerres Bourdon."
+language = "fr"
+place = "A Lille"
+date = "1793"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Skewed text."
+url = "https://archive.org/details/lecomediendufres00dufr"
+subject = ["Bourdon, D"]
+extent = "3 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 17830"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4bp5237b"
+internet_archive = "lecomediendufres00dufr"
+openlibrary_edition = "OL26194325M"
+openlibrary_work = "OL17591068W"
+
+[scan]
+file = "lecomediendufres00dufr.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lecomediendufres00dufr"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Dufresse, Camille-Simon, 1753-1833"
+role = "author"
+
+[[resp]]
+name = "Bourdon, D"
+role = "author"
+
+[[resp]]
+name = "Boubers, Charles-Louis, 1740-"
+role = "publisher"
+
+[[resp]]
+name = "De l'imprimerie de C.L. Boubers, place de la République"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_836935"
+
+[[text]]
+file = "lecomediendufres00dufr.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lecomediendufres00dufr.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lecomediendufres00dufr.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lecomediendufres00dufr.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

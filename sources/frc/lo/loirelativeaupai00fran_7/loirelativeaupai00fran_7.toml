@@ -1,0 +1,86 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loirelativeaupai00fran_7"
+type = "pamphlet"
+title = "Loi relative au paiement des rentes et pensions : du 28 vendémiaire an VII de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1798"
+note = """Caption title. At head of title: Au nom de la République française. Signed: Treilhard, président. Par le Directoire exécutif, le secrétaire-général, Lagarde. Imprint from colophon. "No. 9"--Bottom of p. [1]; "No. 792"--Top of p. [1]. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover. Creased pages."""
+url = "https://archive.org/details/loirelativeaupai00fran_7"
+subject = [
+    "Debtor and creditor",
+    "Payment",
+    "Debts, Public",
+]
+extent = "3 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10350 no. 3"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9p321k85"
+internet_archive = "loirelativeaupai00fran_7"
+
+[scan]
+file = "loirelativeaupai00fran_7.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loirelativeaupai00fran_7"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Directoire exécutif"
+role = "author"
+
+[[resp]]
+name = "Treilhard, M. (Jean-Baptiste), 1742-1810"
+role = "author"
+
+[[resp]]
+name = "Lagarde, Joseph-Jean, baron, 1755-1840"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois, place du Carrousel"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_859281"
+
+[[text]]
+file = "loirelativeaupai00fran_7.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativeaupai00fran_7.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativeaupai00fran_7.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativeaupai00fran_7.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

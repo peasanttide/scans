@@ -1,0 +1,77 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lepremierdernier00anto"
+type = "pamphlet"
+title = "Le premier & dernier mot de l'ami des avignonais, sur Mallet Dupan."
+language = "fr"
+place = "France"
+date = "1791"
+note = "Caption title. Signed: P.A. Antonelle, maire d'Arles. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title and copyright pages combined."
+url = "https://archive.org/details/lepremierdernier00anto"
+subject = [
+    "Mallet du Pan, M. (Jacques), 1749-1800",
+    "Mercure de France (Firm)",
+    "Denunciation (Criminal law)",
+    "Libel and slander",
+]
+extent = "3 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 13540"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7cs0jg0z"
+internet_archive = "lepremierdernier00anto"
+openlibrary_edition = "OL25926278M"
+openlibrary_work = "OL17348906W"
+
+[scan]
+file = "lepremierdernier00anto.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lepremierdernier00anto"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Antonelle, Pierre Antoine, marquis d', 1747-1817"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_828723"
+
+[[text]]
+file = "lepremierdernier00anto.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lepremierdernier00anto.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lepremierdernier00anto.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lepremierdernier00anto.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

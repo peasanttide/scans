@@ -1,0 +1,68 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loiportantqueles00fran_13"
+type = "pamphlet"
+title = "Loi portant que les communes se pourvoiront elles-même des sommes dont elles auront besoin pour achat de subsistances : du 30 germinal, an troisième de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1795"
+note = """Caption title. At head of title: (No. 370*). At right of title: B. no. 138. D. no. 771. "La Convention nationale ... décrète...". Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover. No page numbers."""
+url = "https://archive.org/details/loiportantqueles00fran_13"
+subject = [
+    "Intergovernmental fiscal relations",
+    "Local finance",
+    "Food supply",
+]
+extent = "[1] p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10346 no. 44"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3sv2r32j"
+internet_archive = "loiportantqueles00fran_13"
+openlibrary_edition = "OL26230145M"
+openlibrary_work = "OL17625121W"
+
+[scan]
+file = "loiportantqueles00fran_13.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/loiportantqueles00fran_13"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_861810"
+
+[[text]]
+file = "loiportantqueles00fran_13.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiportantqueles00fran_13.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

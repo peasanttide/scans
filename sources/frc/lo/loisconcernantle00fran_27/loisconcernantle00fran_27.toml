@@ -1,0 +1,77 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loisconcernantle00fran_27"
+type = "pamphlet"
+title = "Lois concernant le triage des titres : du 5 brumaire, an V de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1796"
+note = """Caption title. At head of title: No. 336. Au nom de la République française. Imprint from colophon. "No. 9"--Bottom of p. [1]. Not in Martin & Walter. Révolution française. 1o. Loi qui autorise le préposé au dépôt des archives judiciaires de Paris, à faire la remise des titres non-féodaux que des militaires ou autres citoyens justifieront leur appartenir -- 2. Loi qui ordonne la réunion dans les chefs-lieux de départemens, de tous les titres et papiers acquis à la République. Scanner's note: No copyright page found. No table-of-contents pages found. Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/loisconcernantle00fran_27"
+subject = [
+    "Titles of honor and nobility",
+    "Public records",
+]
+extent = "4 p. ; 25 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 28235"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t15n1c675"
+internet_archive = "loisconcernantle00fran_27"
+
+[scan]
+file = "loisconcernantle00fran_27.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loisconcernantle00fran_27"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois, place du Carrousel, et se trouve dans les villes chefs-lieux de département, au bureau de correspondance du Dépôt des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_859185"
+
+[[text]]
+file = "loisconcernantle00fran_27.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loisconcernantle00fran_27.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loisconcernantle00fran_27.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loisconcernantle00fran_27.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

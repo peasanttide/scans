@@ -1,0 +1,68 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loiadditionnelle00fran_12"
+type = "pamphlet"
+title = "Loi additionnelle à celle du 9 décembre 1790, relative à la restitution des biens des religionnaires fugitifs : du premier jour complémentaire, an troisième de la République française une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1795"
+note = """Caption title. At head of title: (No. 555.*). At right of title: B. no. 179. D. 1095. "La Convention nationale ... décrète ...". Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover. No page numbers."""
+url = "https://archive.org/details/loiadditionnelle00fran_12"
+subject = [
+    "Restitution",
+    "Religious refugees",
+    "Reparations for historical injustices",
+]
+extent = "[1] p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10346 no. 164"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t10p66v6t"
+internet_archive = "loiadditionnelle00fran_12"
+openlibrary_edition = "OL26230361M"
+openlibrary_work = "OL17625337W"
+
+[scan]
+file = "loiadditionnelle00fran_12.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/loiadditionnelle00fran_12"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_861930"
+
+[[text]]
+file = "loiadditionnelle00fran_12.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiadditionnelle00fran_12.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

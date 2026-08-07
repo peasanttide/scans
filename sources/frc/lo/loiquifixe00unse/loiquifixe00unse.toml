@@ -1,0 +1,88 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loiquifixe00unse"
+type = "pamphlet"
+title = "Loi qui fixe l'époque de l'ouverture de l'école centrale des travaux publics à Paris, et détermine les conditions nécessaires pour y être admis : du 7 vendémiaire, l'an troisième de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1794"
+note = """Caption title. At head of title: (No. 102*). At right of title: B. no. 65, D. 350. Signed: A. Dumont, président; Pelet, P. Lozeau, secrétaires. Imprint from colophon. Not in Martin & Walter. Révolution française. "La Convention nationale ... décrète ..."--P. [1]. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/loiquifixe00unse"
+subject = ["Ecole polytechnique (France)"]
+extent = "3 p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10345 no. 62"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t35195348"
+internet_archive = "loiquifixe00unse"
+openlibrary_edition = "OL26229112M"
+openlibrary_work = "OL17624146W"
+
+[scan]
+file = "loiquifixe00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loiquifixe00unse"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Dumont, André, 1764-1838"
+role = "author"
+
+[[resp]]
+name = "Pelet de la Lozère, Jean, 1759-1842"
+role = "author"
+
+[[resp]]
+name = "Lozeau, Paul-Augustin, -1816"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois, place de la Réunion, ci-devant du grand-Carrousel"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_860398"
+
+[[text]]
+file = "loiquifixe00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquifixe00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquifixe00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquifixe00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

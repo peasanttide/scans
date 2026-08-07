@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "leconseilgene00unse"
+type = "pamphlet"
+title = "... Le conseil général de la commune de Romans : a la Convention nationale"
+language = "fr"
+place = "A Romans"
+date = "1795"
+note = "Caption title. Imprint from colophon. At head of title: Liberté. Humanité. Dated on p.[4]: ... 25 floréal, troisieme année [14 mai 1795] .. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover. No page numbers."
+url = "https://archive.org/details/leconseilgene00unse"
+extent = "[4] p. ; 25 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10245"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t83j8kp7v"
+internet_archive = "leconseilgene00unse"
+openlibrary_edition = "OL26223153M"
+openlibrary_work = "OL17618614W"
+
+[scan]
+file = "leconseilgene00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/leconseilgene00unse"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Romans-sur-Isère (France)"
+role = "author"
+
+[[resp]]
+name = "Romans-sur-Isère (France)"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de L. Martigniat"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_71692"
+
+[[text]]
+file = "leconseilgene00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "leconseilgene00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "leconseilgene00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "leconseilgene00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

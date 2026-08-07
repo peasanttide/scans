@@ -1,0 +1,96 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettreecriteparm00cara"
+type = "pamphlet"
+title = "Lettre écrite par monseigneur le comte de Caraman, commandant en chef en Provence : le 23 juillet 1789, au Conseil municipal des trois-ordres de la ville de Marseille, assemblée."
+language = "fr"
+place = "A Marseille"
+date = "1789"
+note = """Not in Martin & Walter. Révolution française. "Avis aux Marseillais"--P. 5-7. On honors rendered to Caraman by Marseille. Scanner's note: No copyright page found. No table-of-contents pages found.  Skewed text.  Title on cover page."""
+url = "https://archive.org/details/lettreecriteparm00cara"
+subject = ["Caraman, Victor-Maurice de Riquet, comte de, 1727-1807"]
+extent = "7 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 15751"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t51g5mk9m"
+internet_archive = "lettreecriteparm00cara"
+openlibrary_edition = "OL25951486M"
+openlibrary_work = "OL17372475W"
+
+[scan]
+file = "lettreecriteparm00cara.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/lettreecriteparm00cara"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Caraman, Victor-Maurice de Riquet, comte de, 1727-1807"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de la veuve Sibié, imprimeur du roi & de la ville, sur le Port"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_832512"
+
+[[text]]
+file = "lettreecriteparm00cara.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettreecriteparm00cara.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettreecriteparm00cara.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettreecriteparm00cara.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettreecriteparm00cara.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettreecriteparm00cara.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettreecriteparm00cara.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettreecriteparm00cara.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

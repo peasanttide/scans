@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loiportantqueles00fran_8"
+type = "pamphlet"
+title = "Loi portant que les commissionnaires et entrepreneurs du roulage ne sont point assujétis à faire la déclaration et l'affiche des marchandises déposées chez eux en transit : du 8 vendémiaire, l'an troisième de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1794"
+note = """Caption title. At head of title: (No. 105*). At right of title: B. no. 66, D. 354. Signed: A. Dumont, président; J. Borie, Cordier, secrétaires. Imprint from colophon. Not in Martin & Walter. Révolution française. "La Convention nationale ... décrète ..."--P. [1]. Scanner's note: Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text. No title page found. No copyright page found. No table-of-contents pages found."""
+url = "https://archive.org/details/loiportantqueles00fran_8"
+subject = [
+    "Bricard, Antoine-François",
+    "Storage and moving trade",
+]
+extent = "[1] p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10345 no. 64"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4zh1sd5f"
+internet_archive = "loiportantqueles00fran_8"
+openlibrary_edition = "OL26229150M"
+openlibrary_work = "OL17624184W"
+
+[scan]
+file = "loiportantqueles00fran_8.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/loiportantqueles00fran_8"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Dumont, André, 1764-1838"
+role = "author"
+
+[[resp]]
+name = "Borie, Jean, 1756-1828"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois, place de la Réunion, ci-devant du grand-Carrousel"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_860400"
+
+[[text]]
+file = "loiportantqueles00fran_8.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiportantqueles00fran_8.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

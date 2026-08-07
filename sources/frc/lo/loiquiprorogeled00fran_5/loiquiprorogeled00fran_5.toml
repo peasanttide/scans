@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loiquiprorogeled00fran_5"
+type = "pamphlet"
+title = "Loi qui proroge le délai pour le paiement du dernier quart des biens nationaux soumissionnés, et porte que les domaines nationaux non soumissionnés, seront vendus à l'enchère : du 20 fructidor, an IV de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1796"
+note = """Caption title. At head of title: No. 285. Au nom de la République française. At right of title: B. 74. No. 687. Imprint from colophon. "No. 9, 10"--Bottom of p. [1]. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover. Only one numbered page."""
+url = "https://archive.org/details/loiquiprorogeled00fran_5"
+subject = [
+    "Government sale of real property",
+    "Payment",
+    "Vendors and purchasers",
+]
+extent = "2 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10348 no. 36"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7vm9db30"
+internet_archive = "loiquiprorogeled00fran_5"
+openlibrary_edition = "OL26229743M"
+openlibrary_work = "OL17624776W"
+
+[scan]
+file = "loiquiprorogeled00fran_5.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loiquiprorogeled00fran_5"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois, place du Carrousel"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_859162"
+
+[[text]]
+file = "loiquiprorogeled00fran_5.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquiprorogeled00fran_5.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquiprorogeled00fran_5.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquiprorogeled00fran_5.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

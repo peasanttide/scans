@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loisportantetabl00fran"
+type = "pamphlet"
+title = "Lois portant établissement d'une tontine nationale, ouverture d'une emprunt d'un milliard : du 26 messidor, l'an troisième de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1795"
+note = """Caption title. At head of title: (No. 460.*). At right of title: B. no.163. D. no. 960. "La Convention nationale ... décrète ..."--P. [1]. Imprint from colophon. Not in Martin & Walter. Révolution française. "2o. Loi portant qu'il sera ouvert un emprunt d'un milliard à trois pour cent d'intérêt annuel et perpétuel, du même jour. B. no. 163. D. no. 961"--P. 3. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."""
+url = "https://archive.org/details/loisportantetabl00fran"
+subject = [
+    "Lotteries",
+    "Debts, Public",
+]
+extent = "3 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10346 no. 106"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8pc84t3w"
+internet_archive = "loisportantetabl00fran"
+openlibrary_edition = "OL26230553M"
+openlibrary_work = "OL17625529W"
+
+[scan]
+file = "loisportantetabl00fran.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loisportantetabl00fran"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_861872"
+
+[[text]]
+file = "loisportantetabl00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loisportantetabl00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loisportantetabl00fran.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loisportantetabl00fran.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

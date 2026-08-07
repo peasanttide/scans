@@ -1,0 +1,90 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettrespatentesd00fran_99"
+type = "pamphlet"
+title = "Lettres patentes du roi, portant établissement d'un marché à Villepreux : données à Versailles au mois d'avril 1785 : registrées en Parlement le dix mai mil sept cent quatre-vingt-cinq"
+language = "fr"
+place = "A Paris"
+date = "1785"
+note = """Caption title. "Signé Louis. Et plus bas: par le roi, le Bon. de Breteuil"--P. 2. Imprint from colophon. Not in Martin & Walter. Révolution française. "État & tarif des droits qui seront perçus au marché de Villepreux"--P. 3. Scanner's note: No copyright page found. No table-of-contents pages found.  Title and cover are combined. Damaged, stained and/or loose pages. Skewed text. The text on the back cover is upside-down."""
+url = "https://archive.org/details/lettrespatentesd00fran_99"
+subject = ["Markets"]
+extent = "3,p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC suppl. 90 no. 23"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9867qq50"
+internet_archive = "lettrespatentesd00fran_99"
+
+[scan]
+file = "lettrespatentesd00fran_99.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettrespatentesd00fran_99"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Sovereign (1774-1792 : Louis XVI)"
+role = "author"
+
+[[resp]]
+name = "Louis XVI, King of France, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "Breteuil, Louis-Auguste Le Tonnelier, baron de, 1730-1807"
+role = "author"
+
+[[resp]]
+name = "Simon, P. G. (Pierre-Guillaume), 1722-1787"
+role = "publisher"
+
+[[resp]]
+name = "Nyon, Nicolas-Henri, b. 1751?"
+role = "publisher"
+
+[[resp]]
+name = "France. Parlement (Paris)"
+role = "author"
+
+[[resp]]
+name = "Chez P.G. Simon, & N.H. Nyon, imp. du Parl., rue Mignon"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_861579"
+
+[[text]]
+file = "lettrespatentesd00fran_99.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrespatentesd00fran_99.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrespatentesd00fran_99.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrespatentesd00fran_99.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

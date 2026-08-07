@@ -1,0 +1,101 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettredemgeraudc00gera"
+type = "pamphlet"
+title = "Lettre de M. Geraud, curé de Payra."
+language = "fr"
+place = "Toulouse?"
+date = "1790"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged pages and cover."
+url = "https://archive.org/details/lettredemgeraudc00gera"
+subject = [
+    "France",
+    "Catholic Church",
+    "Bishops",
+    "Church and state",
+]
+extent = "8 p. ; 23 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 19039"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5z65j76g"
+internet_archive = "lettredemgeraudc00gera"
+openlibrary_edition = "OL26201621M"
+openlibrary_work = "OL17598147W"
+
+[scan]
+file = "lettredemgeraudc00gera.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/lettredemgeraudc00gera"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Geraud, curé de Payra"
+role = "author"
+
+[[resp]]
+name = "Se vend chez Viallanes, libraire, rue St. Rome"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_839847"
+
+[[text]]
+file = "lettredemgeraudc00gera.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredemgeraudc00gera.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredemgeraudc00gera.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredemgeraudc00gera.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredemgeraudc00gera.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredemgeraudc00gera.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredemgeraudc00gera.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredemgeraudc00gera.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

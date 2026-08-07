@@ -1,0 +1,74 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettredumarquisd00sain"
+type = "pamphlet"
+title = "Lettre du marquis de St. Huruge, a M. le garde des sceaux, pour servir de pendant à celle du comte Charles de Lameth, à M. de La Fayette."
+language = "fr"
+place = "France"
+date = "1789"
+note = "Caption title. Martin & Walter. Révolution française. Saint-Huruge declares his intent to replace Maupeou as garde des sceaux. Bibliography: Martin & Walter.  Révolution française,  IV:1, 30674. Scanner's note: Title page and cover are combined. Damaged, stained, marked and/or loose pages. Uneven binding. Skewed text. <br />No Copyright found. No Table of Contents found. <br />."
+url = "https://archive.org/details/lettredumarquisd00sain"
+subject = ["France. Garde des sceaux"]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 24895"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5gb7cv0c"
+internet_archive = "lettredumarquisd00sain"
+
+[scan]
+file = "lettredumarquisd00sain.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettredumarquisd00sain"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "Saint-Huruge, Victor-Amédée de la Fage, marquis de, 1750-1810"
+role = "author"
+
+[[resp]]
+name = "Maupeou, René-Nicolas-Charles-Augustin de, 1714-1792"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_850245"
+
+[[text]]
+file = "lettredumarquisd00sain.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredumarquisd00sain.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredumarquisd00sain.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredumarquisd00sain.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

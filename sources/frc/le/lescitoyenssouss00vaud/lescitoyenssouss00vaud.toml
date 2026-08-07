@@ -1,0 +1,87 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lescitoyenssouss00vaud"
+type = "pamphlet"
+title = "... Les citoyens soussignés du département du Léman : aux citoyens représentans du peuple composant le Conseil des anciens."
+language = "fr"
+place = "A Paris"
+date = "1799"
+note = "Caption title. Imprint from colophon. At head of title: Corps législatif. Conseil des anciens. Égalité. Liberté. Genève, le 22 floréal l'an 7 de la République française, une et indivisible [11 mai 1799]. Martin & Walter IV 2: 3465. Scanner's note: No title page found. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/lescitoyenssouss00vaud"
+extent = "6 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 1789"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3dz5933d"
+internet_archive = "lescitoyenssouss00vaud"
+openlibrary_edition = "OL26208993M"
+openlibrary_work = "OL17605245W"
+
+[scan]
+file = "lescitoyenssouss00vaud.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/lescitoyenssouss00vaud"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Vaud (Switzerland). Citizens"
+role = "author"
+
+[[resp]]
+name = "France. Corps législatif (1795-1814). Conseil des anciens"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_45060"
+
+[[text]]
+file = "lescitoyenssouss00vaud.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lescitoyenssouss00vaud.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lescitoyenssouss00vaud.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lescitoyenssouss00vaud.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lescitoyenssouss00vaud.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lescitoyenssouss00vaud.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

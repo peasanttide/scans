@@ -1,0 +1,91 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettreroland00unse"
+type = "pamphlet"
+title = "Lettre de M. Roland, ministre de l'intérieur, en date du 31 août 1792, l'an IV de la liberté, et le premier de l'egalité, adressée à M. le procureur-général-syndic du départmenet de Maine et Loire, relative au rassemblement des grenadiers et chasseurs"
+language = "fr"
+place = "A Angers"
+date = "1792"
+note = """Caption title. At head of title: Departement de Maine et Loire. La nation. La loi. "Fait en conseil général, au département de Maine et Loire ..."--P. 2. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text. No title page found. No copyright page found. No table-of-contents pages found."""
+url = "https://archive.org/details/lettreroland00unse"
+subject = [
+    "France. Armée",
+    "Military service, Voluntary",
+]
+extent = "2 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 27168"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t74v1rk0p"
+internet_archive = "lettreroland00unse"
+openlibrary_edition = "OL26229130M"
+openlibrary_work = "OL17624164W"
+
+[scan]
+file = "lettreroland00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettreroland00unse"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Roland de La Platière, Jean-Marie,1734-1793"
+role = "author"
+
+[[resp]]
+name = "Roland de La Platière, Jean-Marie, 1734-1793"
+role = "author"
+
+[[resp]]
+name = "Mame, Charles-Pierre, 1747-1825"
+role = "publisher"
+
+[[resp]]
+name = "France. Ministère de l'intérieur"
+role = "author"
+
+[[resp]]
+name = "Maine-et-Loire (France). Conseil général"
+role = "author"
+
+[[resp]]
+name = "Chez Mame, imprimeur du département de Maine & Loire"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_868090"
+
+[[text]]
+file = "lettreroland00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettreroland00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettreroland00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettreroland00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

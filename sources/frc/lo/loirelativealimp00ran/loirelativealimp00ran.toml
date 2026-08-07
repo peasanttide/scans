@@ -1,0 +1,85 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loirelativealimp00ran"
+type = "pamphlet"
+title = "Loi relative a l'impression des décrets"
+language = "fr"
+place = "A Toulouse"
+date = "1791"
+note = """Caption title. Place of publication and printer statement from colophon. Head-piece. "Decret de l'Assemblée nationale, du 18 juillet 1791": p. [1]-2. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/loirelativealimp00ran"
+subject = ["Printing, Public"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 2 no. 76"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3dz5xr1d"
+internet_archive = "loirelativealimp00ran"
+
+[scan]
+file = "loirelativealimp00ran.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/loirelativealimp00ran"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "Desclassan, Dominique, d. 1793"
+role = "printer"
+
+[[resp]]
+name = "Chez D. Desclassan, maître-ès-arts, imprimeur de l'Académie des sciences, près la Place Royale"
+role = "publisher"
+
+[[text]]
+file = "loirelativealimp00ran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativealimp00ran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativealimp00ran.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativealimp00ran.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativealimp00ran.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativealimp00ran.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

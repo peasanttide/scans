@@ -1,0 +1,71 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lesadministrateu00laig"
+type = "pamphlet"
+title = "... Les administrateurs du district de l'Aigle, aux municipalités & agens nationaux de leur ressort"
+language = "fr"
+place = "s.l."
+date = "1795"
+note = "Caption title. Without imprint. At head of title: Mort aux tyrans. Justice, humanité. l'Aigle, le 5 floréal, l'an troisi`eme de la République française, une & indivisible [24 ao^ut 1795]. At upper left on p.[1]: Département de l'Orne. District de l'Aigle. IV.e Bureau. Division des secours. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages. No page numbers."
+url = "https://archive.org/details/lesadministrateu00laig"
+extent = "[4] p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9181"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4mm1fg92"
+internet_archive = "lesadministrateu00laig"
+openlibrary_edition = "OL26221876M"
+openlibrary_work = "OL17617376W"
+
+[scan]
+file = "lesadministrateu00laig.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lesadministrateu00laig"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "L'Aigle (France)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_66519"
+
+[[text]]
+file = "lesadministrateu00laig.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lesadministrateu00laig.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lesadministrateu00laig.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lesadministrateu00laig.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

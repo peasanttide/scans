@@ -1,0 +1,74 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loisrelativesaux00fran_1"
+type = "pamphlet"
+title = "Lois relatives aux grains et farines"
+language = "fr"
+place = "A Paris"
+date = "1795"
+note = """Caption title. At head of title: (No. 234*). At right of title: B. no. 107, D. 562. Signed, p. [1]: Clauzel, ex-président; Girot (du Puy-de-Dôme), Le Tourneur (de la Manche), secrétaires. Imprint from colophon. Not in Martin & Walter. Révolution française. "La Convention nationale décrète ..."--P. [1]. Loi qui rapporte l'article additionnel à celle du 4 nivôse sur l'abolition du maximum, du 14 nivose, l'an troisième de la République francaise, une et indivisible -- Loi qui abolit toutes procédures commencées à raison de transports de grains ou de farines, sans acquit-à-caution, dans l'intérieur de la République et à deux lieues des frontières, du 14 nivôse, l'an troisième de la République française, une et indivisible. B. no. 107. D. 563. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/loisrelativesaux00fran_1"
+subject = ["Grain trade"]
+extent = "2 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10345 no. 121"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4rj9m28v"
+internet_archive = "loisrelativesaux00fran_1"
+
+[scan]
+file = "loisrelativesaux00fran_1.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/loisrelativesaux00fran_1"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Clauzel, Jean-Baptiste, 1745-1804"
+role = "author"
+
+[[resp]]
+name = "Girot-Pouzol, Jean Baptiste, 1753-1822"
+role = "author"
+
+[[resp]]
+name = "Le Tourneur, Etienne-François-Louis-Honoré, 1751-1817"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Depot des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_860457"
+
+[[text]]
+file = "loisrelativesaux00fran_1.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loisrelativesaux00fran_1.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

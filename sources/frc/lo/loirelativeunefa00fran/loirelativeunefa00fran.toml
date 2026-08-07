@@ -1,0 +1,93 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loirelativeunefa00fran"
+type = "pamphlet"
+title = "Loi relative à une fabrication d’assignats de cinq livres : donnée à Paris, le 13 mai 1791"
+language = "fr"
+place = "A Rouen"
+date = "1791"
+note = """Caption title. "L'Assemblée nationale a décrété, et nous voulons et ordonnons ce qui suit"--Page [1]. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, stained and/or loose pages. Skewed text. Uneven binding. Title and cover page are combined."""
+url = "https://archive.org/details/loirelativeunefa00fran"
+subject = [
+    "Revolution (France : 1789-1799)",
+    "Assignats",
+    "Monetary policy",
+    "Economics",
+]
+extent = "4 pages ; 25 cm"
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC suppl. 84 no. 26"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2q57t30h"
+internet_archive = "loirelativeunefa00fran"
+openlibrary_edition = "OL26234702M"
+openlibrary_work = "OL17629288W"
+
+[scan]
+file = "loirelativeunefa00fran.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loirelativeunefa00fran"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Sovereign (1774-1792 : Louis XVI)"
+role = "author"
+
+[[resp]]
+name = "France. Sovereign (1774-1792 : Louis XVI), enacting jurisdiction"
+role = "author"
+
+[[resp]]
+name = "Louis XVI, King of France, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "Le Boullenger, Jacques-Joseph-Jean-Baptiste, 1740-"
+role = "publisher"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de J.J. Le Boullenger, imprimeur du département de la Seine Inférieure, rue du Grand-Maulévrier"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=962380"
+
+[[text]]
+file = "loirelativeunefa00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativeunefa00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativeunefa00fran.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativeunefa00fran.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

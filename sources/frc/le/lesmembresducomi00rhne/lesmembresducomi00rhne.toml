@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lesmembresducomi00rhne"
+type = "pamphlet"
+title = "... Les membres du Comité militaire de la Commission populaire, républicaine & de salut public de Rhône & Loire : a leurs concitoyens du département"
+language = "fr"
+place = "A Lyon"
+date = "1793"
+note = "Caption title. Imprint from colophon. At head of title: République une & indivisible. Résistance `a l'oppression. Représentation nationale libre & entiere. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found. Title page and cover are combined. Damaged, stained and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/lesmembresducomi00rhne"
+extent = "3 p. ; 24 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC suppl. 126"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6n06c18g"
+internet_archive = "lesmembresducomi00rhne"
+openlibrary_edition = "OL26235949M"
+openlibrary_work = "OL17630510W"
+
+[scan]
+file = "lesmembresducomi00rhne.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lesmembresducomi00rhne"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Rhône-et-Loire (France). Commission populaire, républicaine et de salut public. Comité militaire"
+role = "author"
+
+[[resp]]
+name = "Rhône-et-Loire (France). Commission populaire, républicaine et de salut public. Comité militaire"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie d'Aimé Vatar-Delaroche"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_74139"
+
+[[text]]
+file = "lesmembresducomi00rhne.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lesmembresducomi00rhne.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lesmembresducomi00rhne.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lesmembresducomi00rhne.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

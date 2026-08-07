@@ -1,0 +1,77 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loirelativeunepr00fran"
+type = "pamphlet"
+title = "Loi relative à une proposition sur le mode de réglement du rachat des rentes foncières constituées en grains avant 1789 : du 7 nivose, l'an troisième de la République française une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1794"
+note = """Caption title. At head of title: (No. 224*). At right of title: B. no. 105, D. no. 544. Signed: Bréard, ex-président; Chiappe, Boucher-Sauveur, secrétaires. Imprint from colophon. Not in Martin & Walter. Révolution française. "La Convention nationale ... décrète ..."--P. [1]. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/loirelativeunepr00fran"
+subject = [
+    "Taxation",
+    "Payment",
+    "Land tenure",
+    "Grain",
+]
+extent = "[1] p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10345 no. 117"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t07x1j60z"
+internet_archive = "loirelativeunepr00fran"
+openlibrary_edition = "OL26229314M"
+openlibrary_work = "OL17624348W"
+
+[scan]
+file = "loirelativeunepr00fran.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/loirelativeunepr00fran"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Bréard, Jean Jacques, 1750-1840"
+role = "author"
+
+[[resp]]
+name = "Boucher de Saint Sauveur, Antoine, 1723-1805"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Depot des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_860453"
+
+[[text]]
+file = "loirelativeunepr00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativeunepr00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

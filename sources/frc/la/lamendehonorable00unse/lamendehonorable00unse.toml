@@ -1,0 +1,65 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lamendehonorable00unse"
+type = "pamphlet"
+title = "L'amende honorable des terroristes : air: Avec les jeux dans le village."
+language = "fr"
+place = "s.l."
+date = "1793"
+note = "Scanner's note: Title found on front cover. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/lamendehonorable00unse"
+extent = "3 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 457"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5dc1jh5t"
+internet_archive = "lamendehonorable00unse"
+
+[scan]
+file = "lamendehonorable00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lamendehonorable00unse"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_36921"
+
+[[text]]
+file = "lamendehonorable00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "lamendehonorable00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "lamendehonorable00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "lamendehonorable00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"

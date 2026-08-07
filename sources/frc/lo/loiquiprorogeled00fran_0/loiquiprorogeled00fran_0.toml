@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loiquiprorogeled00fran_0"
+type = "pamphlet"
+title = "Loi qui proroge le délai fixé pour la remise des titres de la dette viagère : du quatrième jour des sans-culotides, l'an second de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1794"
+note = """Caption title. At head of title: (No. 93-2*). At right of title: B. no. 62, D. 335. Signed: Merlin (de Douai) ex-président; Cordier, J. Borie, Reynaud, secrétaires. Imprint from colophon. Not in Martin & Walter. Révolution française. "La Convention nationale ... décrète ..."--P. [1]. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/loiquiprorogeled00fran_0"
+subject = [
+    "France. Trésorerie nationale",
+    "Life annuities",
+    "Debts, Public",
+]
+extent = "2 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10345 no. 60"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3gx9g15b"
+internet_archive = "loiquiprorogeled00fran_0"
+openlibrary_edition = "OL26229740M"
+openlibrary_work = "OL17624773W"
+
+[scan]
+file = "loiquiprorogeled00fran_0.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/loiquiprorogeled00fran_0"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Merlin, M. (Philippe-Antoine), 1754-1838"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépot des lois, place de la Réunion, ci-devant du grand-Carousel"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_860396"
+
+[[text]]
+file = "loiquiprorogeled00fran_0.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquiprorogeled00fran_0.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

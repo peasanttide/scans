@@ -1,0 +1,10 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: lettresdebaudinl00baud
+page: 15
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 2524
+h: 4049
+dpi: 500
+---

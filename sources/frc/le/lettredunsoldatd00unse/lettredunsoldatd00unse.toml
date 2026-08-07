@@ -1,0 +1,68 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettredunsoldatd00unse"
+type = "pamphlet"
+title = "Lettre d'un soldat de la Garde nationale de Paris : a un de ses correspondans en province."
+language = "fr"
+place = "s.l."
+date = "1790"
+note = """Caption title. Without imprint. "De tous les tribuns du peuple, je n'en connois pas de plus insolent, de plus dangereux & de plus problématique que M. Barnave": p.[1]. Martin & Walter IV 2: 8628. Scanner's note: No copyright page found. No table-of-contents pages found. Title and cover pages combined."""
+url = "https://archive.org/details/lettredunsoldatd00unse"
+subject = ["Barnave, Joseph, 1761-1793"]
+extent = "4 p,. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 4792"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t01027f4h"
+internet_archive = "lettredunsoldatd00unse"
+openlibrary_edition = "OL26212902M"
+openlibrary_work = "OL17608870W"
+
+[scan]
+file = "lettredunsoldatd00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettredunsoldatd00unse"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_57349"
+
+[[text]]
+file = "lettredunsoldatd00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredunsoldatd00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredunsoldatd00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredunsoldatd00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

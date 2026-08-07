@@ -1,0 +1,74 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loiportantdefens00fran_1"
+type = "pamphlet"
+title = "Loi portant défense à tous juges de paix et officiers de police de sûreté de traduire pardevant un directeur de juré aucun citoyen, si ce n'est dans les cas y énoncés, etc. : du 22 vendémiaire, an quatrième de la République française une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1795"
+note = """Caption title. At head of title: (No. 600*). At right of title: B. no. 193, D. 1159. "La Convention nationale, après avoir entendu le rapport ... décrète ce qui suit"--P. [1]. Signed: Genissieu, président; Pons (de Verdun), Gleizal, Alex. Villetard, Auger, secrétaires. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover. Only one numbered page."""
+url = "https://archive.org/details/loiportantdefens00fran_1"
+subject = [
+    "Prisoners",
+    "Justices of the peace",
+    "Criminal justice, Administration of",
+]
+extent = "2 p. ; 28 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10347 no. 16"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0rr70m2w"
+internet_archive = "loiportantdefens00fran_1"
+
+[scan]
+file = "loiportantdefens00fran_1.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/loiportantdefens00fran_1"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Génissieu, Jean-Joseph-Victor, 1749-1804"
+role = "author"
+
+[[resp]]
+name = "Pons de Verdun, Philippe-Laurent, 1759-1844"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Depot des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_858343"
+
+[[text]]
+file = "loiportantdefens00fran_1.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiportantdefens00fran_1.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,81 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loisrelativesaus00fran"
+type = "pamphlet"
+title = "Lois relatives au serment des ecclésistiques"
+language = "fr"
+place = "A Paris"
+date = "1791"
+note = "Caption title. At right of title: No. 236, 803. Imprint from colophon. Not in Martin & Walter. Révolution française. Loi donnée à Paris, le 26 décembre 1790, décret de l'Assemblée nationale du 27 novembre 1790 -- Loi relative au serment à prêter par les professeurs et autres personnes chargées de l'instruction publique, et par les chapelains desservans les hôpitaux et prisons, donnée à Paris, le 17 avril 1791. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages."
+url = "https://archive.org/details/loisrelativesaus00fran"
+subject = [
+    "France",
+    "Clergy",
+    "Civil service",
+    "Loyalty oaths",
+]
+extent = "4 p. ; 28 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10339 no. 33"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0sr40w2n"
+internet_archive = "loisrelativesaus00fran"
+openlibrary_edition = "OL26226055M"
+openlibrary_work = "OL17621367W"
+
+[scan]
+file = "loisrelativesaus00fran.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loisrelativesaus00fran"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Depot des lois, place du Carrousel"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_852335"
+
+[[text]]
+file = "loisrelativesaus00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loisrelativesaus00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loisrelativesaus00fran.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loisrelativesaus00fran.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

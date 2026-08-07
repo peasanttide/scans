@@ -1,0 +1,87 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettrespatentes00unse"
+type = "pamphlet"
+title = "Lettres patentes du roi, qui transferent en la ville de Troyes le siége du Parlement : données à Versailles le quinze août 1787 : registrées en Parlement le vingt-deux août 1787"
+language = "fr"
+place = "A Paris"
+date = "1787"
+note = "Caption title. Signed, p. 3: Louis; countersigned: Le bon. de Breteuil. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."
+url = "https://archive.org/details/lettrespatentes00unse"
+subject = [
+    "France. Parlement (Paris)",
+    "Courts",
+]
+extent = "4 p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9912 no. 1"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6159q72p"
+internet_archive = "lettrespatentes00unse"
+openlibrary_edition = "OL26223407M"
+openlibrary_work = "OL17618870W"
+
+[scan]
+file = "lettrespatentes00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettrespatentes00unse"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Sovereign (1774-1792 : Louis XVI)"
+role = "author"
+
+[[resp]]
+name = "Louis XVI, King of France, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "Breteuil, Louis-Auguste Le Tonnelier, baron de, 1730-1807"
+role = "author"
+
+[[resp]]
+name = "Nyon, Nicolas-Henri, b. 1751?"
+role = "publisher"
+
+[[resp]]
+name = "Chez N.H. Nyon, imprimeur du Parlement, rue Mignon Saint-André-des-Arcs"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_68991"
+
+[[text]]
+file = "lettrespatentes00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrespatentes00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrespatentes00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrespatentes00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

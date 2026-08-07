@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loiquideterminel00fran_50"
+type = "pamphlet"
+title = "Loi qui détermine le mode de paiement des arrérages de rentes et pensions entre particuliers : du 15 pluviôse an V de la République française, une et indivisible."
+language = "fr"
+place = "A Paris"
+date = "1797"
+note = """Caption title. At head of title: No. 403. Au nom de la République française. Imprint from colophon. "No. 2, 4, 11"--Bottom of p. [1]. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/loiquideterminel00fran_50"
+subject = [
+    "Pensions",
+    "Debtor and creditor",
+]
+extent = "2 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 28027"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t23c16c96"
+internet_archive = "loiquideterminel00fran_50"
+openlibrary_edition = "OL26229915M"
+openlibrary_work = "OL17624946W"
+
+[scan]
+file = "loiquideterminel00fran_50.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loiquideterminel00fran_50"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois, place du Carrousel, et se trouve dans les villes chef-lieux de département, au bureau de correspondance du Dépôt des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_859213"
+
+[[text]]
+file = "loiquideterminel00fran_50.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquideterminel00fran_50.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquideterminel00fran_50.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquideterminel00fran_50.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

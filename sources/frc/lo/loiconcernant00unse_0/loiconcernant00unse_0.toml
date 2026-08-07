@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loiconcernant00unse_0"
+type = "pamphlet"
+title = "Loi concernant l'annullation ou la resiliation des baux à ferme des domaines nationaux : du 12 ventose an V de la République française, une et indivisible."
+language = "fr"
+place = "A Paris"
+date = "1797"
+note = """Caption title. At head of title: No. 445. Au nom de la République française. Imprint from colophon. "Nos. 4, 10"--Bottom of p. [1]. Not in Martin & Walter. Révolution française. Scanner's note: Title page located on front cover. No copyright page found. No table-of-contents pages found. Worn, damaged and discolored pages and cover. Skewed text. Uneven binding."""
+url = "https://archive.org/details/loiconcernant00unse_0"
+subject = [
+    "Farm rents",
+    "Public lands",
+    "Indemnity",
+]
+extent = "2 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 28020"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4mm1gd45"
+internet_archive = "loiconcernant00unse_0"
+openlibrary_edition = "OL26228432M"
+openlibrary_work = "OL17623500W"
+
+[scan]
+file = "loiconcernant00unse_0.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loiconcernant00unse_0"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Depot des lois, place du Carrousel, et se trouve dans les villes chefs-lieux de départemens, au bureau de correspondance du Dépôt des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_859225"
+
+[[text]]
+file = "loiconcernant00unse_0.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiconcernant00unse_0.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiconcernant00unse_0.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiconcernant00unse_0.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

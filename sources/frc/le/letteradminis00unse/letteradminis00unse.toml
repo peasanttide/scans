@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "letteradminis00unse"
+type = "pamphlet"
+title = "[Letter on administrative divisions of Paris]"
+language = "fr"
+place = "Paris"
+date = "1790"
+note = """Caption title. Signed in ms., p. [2]: Bailly. Dated at head of text: Paris, 4 juin 1790. Martin & Walter. Révolution française. "Copie de lettre de l'assemblée de représentans de sections réunis à l'Archevêché, à M. le maire, datée du 1er juin 1790"--P. [2]. "Arrêté du bureau de ville. Extrait du registre des délibérations du bureau de ville"--P. [3]. Bibliography: Martin & Walter.  Révolution française, I, 1215. Scanner's note: Title page located on front cover. No copyright page found. No table-of-contents pages found. Worn, damaged and discolored pages and cover. Skewed text. Uneven binding."""
+url = "https://archive.org/details/letteradminis00unse"
+extent = "[3] p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 26477"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0dv6pj58"
+internet_archive = "letteradminis00unse"
+openlibrary_edition = "OL26228722M"
+openlibrary_work = "OL17623791W"
+
+[scan]
+file = "letteradminis00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/letteradminis00unse"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Bailly, Jean Sylvain,1736-1793"
+role = "author"
+
+[[resp]]
+name = "Bailly, Jean Sylvain, 1736-1793"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_862207"
+
+[[text]]
+file = "letteradminis00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "letteradminis00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "letteradminis00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "letteradminis00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

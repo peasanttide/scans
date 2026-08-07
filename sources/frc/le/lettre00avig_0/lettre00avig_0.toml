@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettre00avig_0"
+type = "pamphlet"
+title = "Lettre /"
+language = "fr"
+place = "s.l."
+date = "1791"
+note = "Caption title. Without imprint. At lower left on p.[1]: 24 mai 1791. The main document is dated at foot of p.2: Avignon, 16 mai 1791. The letter of De Lessart (on p.3) is dated: Paris, le 24 mai 1791. Martin & Walter IV 2: 2454. Scanner's note: No title page found. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/lettre00avig_0"
+extent = "3 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 1221"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t90919j33"
+internet_archive = "lettre00avig_0"
+openlibrary_edition = "OL26208157M"
+openlibrary_work = "OL17604441W"
+
+[scan]
+file = "lettre00avig_0.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettre00avig_0"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Avignon (France)"
+role = "author"
+
+[[resp]]
+name = "Delessart, Jean Marie Antoine Claude de Valdeck, 1742-1792"
+role = "author"
+
+[[resp]]
+name = "France. Sovereign (1774-1792 : Louis XVI)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_40942"
+
+[[text]]
+file = "lettre00avig_0.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00avig_0.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00avig_0.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00avig_0.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

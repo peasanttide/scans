@@ -1,0 +1,68 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "leretourduroy00lano"
+type = "pamphlet"
+title = "Le retour du roy"
+language = "fr"
+place = "Paris"
+date = "1744"
+note = "Binder's title: Conquest du roy. Caption title. Signed: De la Noue, comédien du roi. Scanner's note: Title is on the cover. Uneven binding. Skewed text. Irregular pagination. Page numbers have been marked or altered. Damaged, stained, torn and/or loose pages."
+url = "https://archive.org/details/leretourduroy00lano"
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "E 5 .L92705 v. 05 no. 40"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1nh0q76v"
+internet_archive = "leretourduroy00lano"
+
+[scan]
+file = "leretourduroy00lano.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/leretourduroy00lano"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "La Noue, Jean-Baptiste Sauvé,1701-1760"
+role = "author"
+
+[[resp]]
+name = "La Noue, Jean-Baptiste Sauvé, 1701-1760"
+role = "author"
+
+[[resp]]
+name = "Prault fils"
+role = "publisher"
+
+[[text]]
+file = "leretourduroy00lano.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "leretourduroy00lano.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "leretourduroy00lano.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "leretourduroy00lano.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

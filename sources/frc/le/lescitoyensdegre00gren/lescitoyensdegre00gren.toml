@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lescitoyensdegre00gren"
+type = "pamphlet"
+title = "Les citoyens de Grenoble, a la Convention nationale."
+language = "fr"
+place = "s.l."
+date = "1795"
+note = "Caption title. Without imprint. Dated on p.[3]: Grenoble, le 19 vendémiaire an IV de la République française [11 octobre 1795]. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found.   Title page is on the cover. Skewed text. Damaged, stained, and/or loose pages.  No page numbers."
+url = "https://archive.org/details/lescitoyensdegre00gren"
+extent = "[3] p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 1777"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9964kq03"
+internet_archive = "lescitoyensdegre00gren"
+openlibrary_edition = "OL26209071M"
+openlibrary_work = "OL17605323W"
+
+[scan]
+file = "lescitoyensdegre00gren.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lescitoyensdegre00gren"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Grenoble (France). Citizens"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_43822"
+
+[[text]]
+file = "lescitoyensdegre00gren.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lescitoyensdegre00gren.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lescitoyensdegre00gren.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lescitoyensdegre00gren.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

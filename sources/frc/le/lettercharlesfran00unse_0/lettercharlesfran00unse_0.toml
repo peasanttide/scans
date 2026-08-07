@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettercharlesfran00unse_0"
+type = "pamphlet"
+title = "[Letter from Charles-François-Joseph d'Awans regarding loss of military pension]"
+language = "fr"
+place = "France"
+date = "1792"
+note = "Signed in ms.: Awans. Dated at head of text: Ce 12 octobre 1792, l'an 1er. de la République françoise. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/lettercharlesfran00unse_0"
+subject = [
+    "Awans, Charles-François-Joseph d'",
+    "France. Armée",
+    "Military pensions",
+]
+extent = "4 p. ; 23 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 26466"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t17m5f22k"
+internet_archive = "lettercharlesfran00unse_0"
+openlibrary_edition = "OL26229265M"
+openlibrary_work = "OL17624299W"
+
+[scan]
+file = "lettercharlesfran00unse_0.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettercharlesfran00unse_0"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Awans, Charles-François-Joseph d'"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_862196"
+
+[[text]]
+file = "lettercharlesfran00unse_0.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettercharlesfran00unse_0.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettercharlesfran00unse_0.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettercharlesfran00unse_0.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

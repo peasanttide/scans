@@ -1,0 +1,67 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettrespatentesd00fra_mfe"
+type = "pamphlet"
+title = "Lettres patentes de Henry II"
+language = "fr"
+note = """Caption title. Continuing the rights and privileges of the Université de Paris granted under previous sovereigns. Includes also a privilege (4 May 1548) and "Extrait des registres de la Cour des aides" (11 October 1549) on the same subject. Extracted from an unidentified publication, with running title: Privilege des exemptions. Scanner's note: No copyright found.  No table of contents found.  Damaged, stained pages and cover.  Title on cover page. <br />."""
+url = "https://archive.org/details/lettrespatentesd00fra_mfe"
+subject = ["Université de Paris"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 1 no. 5"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6xx01k9h"
+internet_archive = "lettrespatentesd00fra_mfe"
+
+[scan]
+file = "lettrespatentesd00fra_mfe.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettrespatentesd00fra_mfe"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "France.Sovereign (1547-1559 : Henry II)"
+role = "author"
+
+[[resp]]
+name = "France. Sovereign (1547-1559 : Henry II)"
+role = "author"
+
+[[resp]]
+name = "[Paris?"
+role = "publisher"
+
+[[text]]
+file = "lettrespatentesd00fra_mfe.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrespatentesd00fra_mfe.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrespatentesd00fra_mfe.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrespatentesd00fra_mfe.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

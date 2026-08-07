@@ -1,0 +1,88 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lesrois00bern"
+type = "pamphlet"
+title = "Les rois"
+language = "fr"
+place = "Paris?"
+date = "1744"
+note = "Binder's title: Conquest du roy. Caption title. Manuscript attribution to: M. l'abbé de Bernice. Inlaid. Scanner's note: Title is on the cover. Uneven binding. Skewed text. Irregular pagination. Page numbers have been marked or altered. Damaged, stained, torn and/or loose pages."
+url = "https://archive.org/details/lesrois00bern"
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "E 5 .L92705 v. 05 no. 18"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t07x2fm4d"
+internet_archive = "lesrois00bern"
+
+[scan]
+file = "lesrois00bern.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/lesrois00bern"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Bernice, abbé"
+role = "author"
+
+[[resp]]
+name = "J.B. Coignard"
+role = "publisher"
+
+[[text]]
+file = "lesrois00bern.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lesrois00bern.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lesrois00bern.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lesrois00bern.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lesrois00bern.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lesrois00bern.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lesrois00bern.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lesrois00bern.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

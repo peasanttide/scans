@@ -1,0 +1,71 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "listedesmembresd00orne"
+type = "pamphlet"
+title = "Liste des membres du département de l'Orne : nommés dans l'assemblée générale des électeurs de ce département, tenue `a Alençon les 30 juin, 1er, 2, 3, 4, 5, 6 & 7 juillet 1790"
+language = "fr"
+place = "A Alençon"
+date = "1790"
+note = "Caption title. Imprint from colophon. Martin & Walter IV 2: 11665. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages. No page numbers."
+url = "https://archive.org/details/listedesmembresd00orne"
+extent = "[4] p. ; 25 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10059"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5gb76v7p"
+internet_archive = "listedesmembresd00orne"
+openlibrary_edition = "OL26222621M"
+openlibrary_work = "OL17618092W"
+
+[scan]
+file = "listedesmembresd00orne.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/listedesmembresd00orne"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Orne (France)"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Malassis le jeune"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_70926"
+
+[[text]]
+file = "listedesmembresd00orne.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "listedesmembresd00orne.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "listedesmembresd00orne.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "listedesmembresd00orne.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

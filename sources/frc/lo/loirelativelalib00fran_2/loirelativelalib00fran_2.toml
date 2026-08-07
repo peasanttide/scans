@@ -1,0 +1,91 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loirelativelalib00fran_2"
+type = "pamphlet"
+title = "Loi relative à la libre circulation des grains dans l'intérieur du royaume, & aux précautions à prendre pour en empêcher l'exportation en pays étrangers : donnée à Paris, le 3 février 1792"
+language = "fr"
+place = "A Paris"
+date = "1792"
+note = """Caption title. At right of title: No. 1512. Signed: Louis; countersigned: M.L.F. DuPort. Imprint from colophon. Variant of Martin & Walter. Révolution française, IV:2, 9143. "Décret de l'Assemblée nationale, des 6 & 28 janvier 1792 ..."--P. [1]-4. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/loirelativelalib00fran_2"
+subject = [
+    "Grain trade",
+    "Food supply",
+]
+extent = "4 p. ; 25 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10343 no. 1"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3zs7wj76"
+internet_archive = "loirelativelalib00fran_2"
+openlibrary_edition = "OL26230658M"
+openlibrary_work = "OL17625635W"
+
+[scan]
+file = "loirelativelalib00fran_2.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loirelativelalib00fran_2"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Sovereign (1774-1792 : Louis XVI)"
+role = "author"
+
+[[resp]]
+name = "Louis XVI, King of France, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "Duport-Dutertre, Marguerite-Louis-François, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale législative (1791-1792)"
+role = "author"
+
+[[resp]]
+name = "Imprimerie royale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie royale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_72154"
+
+[[text]]
+file = "loirelativelalib00fran_2.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativelalib00fran_2.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativelalib00fran_2.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativelalib00fran_2.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

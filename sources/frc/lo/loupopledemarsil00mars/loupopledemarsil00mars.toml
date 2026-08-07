@@ -1,0 +1,70 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loupopledemarsil00mars"
+type = "pamphlet"
+title = "Lou pople de Marsillo à Monsignour lou Comte de Caraman."
+place = "s.l."
+date = "1789"
+note = "Caption title. Without imprint. Text in Provençal. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on cover page. Damaged, stained and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/loupopledemarsil00mars"
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 6937"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5bc92d8j"
+internet_archive = "loupopledemarsil00mars"
+openlibrary_edition = "OL26217971M"
+openlibrary_work = "OL17613697W"
+
+[scan]
+file = "loupopledemarsil00mars.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loupopledemarsil00mars"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Marseille (France). Citizens"
+role = "author"
+
+[[resp]]
+name = "Caraman, Victor Maurice de Riquet, Comte de, 1728-1808"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_61585"
+
+[[text]]
+file = "loupopledemarsil00mars.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "loupopledemarsil00mars.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "loupopledemarsil00mars.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "loupopledemarsil00mars.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

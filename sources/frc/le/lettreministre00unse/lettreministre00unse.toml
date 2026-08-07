@@ -1,0 +1,84 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettreministre00unse"
+type = "pamphlet"
+title = "Lettre de M. le ministre de l'intérieur, à M. le maire de Paris : le 30 novembre 1791"
+language = "fr"
+place = "A Paris"
+date = "1791"
+note = "Caption title. Signed: B.C. Cahier. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover. Only one numbered page."
+url = "https://archive.org/details/lettreministre00unse"
+subject = ["Internal security"]
+extent = "2 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 26561"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1jh8q098"
+internet_archive = "lettreministre00unse"
+openlibrary_edition = "OL26228595M"
+openlibrary_work = "OL17623663W"
+
+[scan]
+file = "lettreministre00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettreministre00unse"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Cahier de Gerville, Bon-Claude,1751-1796"
+role = "author"
+
+[[resp]]
+name = "Cahier de Gerville, Bon-Claude, 1751-1796"
+role = "author"
+
+[[resp]]
+name = "Pétion, J. (Jérôme), 1756-1794"
+role = "author"
+
+[[resp]]
+name = "Imprimerie royale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie royale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_862676"
+
+[[text]]
+file = "lettreministre00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettreministre00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettreministre00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettreministre00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

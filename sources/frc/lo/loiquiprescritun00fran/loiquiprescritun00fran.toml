@@ -1,0 +1,64 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loiquiprescritun00fran"
+type = "pamphlet"
+title = "Loi qui prescrit un mode pour le jugement des demandes en révision contre les arrêts du ci-devant sénat de Chambéri : du 25 thermidor, an quatrième de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1796"
+note = """Caption title. At head of title: No. 256. Au nom de la République française. At right of title: B. 67. No. 606. Imprint from colophon. "No. 2"--Bottom of p. [1]. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover. Only one numbered page."""
+url = "https://archive.org/details/loiquiprescritun00fran"
+subject = ["Appellate procedure"]
+extent = "2 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10348 no. 14"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4nk8hc8p"
+internet_archive = "loiquiprescritun00fran"
+openlibrary_edition = "OL26229394M"
+openlibrary_work = "OL17624428W"
+
+[scan]
+file = "loiquiprescritun00fran.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/loiquiprescritun00fran"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois, place du Carrousel"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_859140"
+
+[[text]]
+file = "loiquiprescritun00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquiprescritun00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

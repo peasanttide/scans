@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loirelativeunepe00fran_0"
+type = "pamphlet"
+title = "Loi relative à une pétition du citoyen Stone, tendante à savoir si les personnes que la loi du 26 germinal astreint à quitter Paris, peuvent sortir des communes qu'elles habitent, pour aller résider dans une autre : du 17 thermidor, l'an deuxième de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1794"
+note = """Caption title. At head of title: (No. 52 et 53* 1). At right of title: B. no. 41, D. 227. Signed: Merlin (de Thionville), président; Lecointre, Bentabolle, secrétaires. Imprint from colophon. Not in Martin & Walter. Révolution française. "La Convention nationale ... passe à l'ordre du jour ..."--P. [1]. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/loirelativeunepe00fran_0"
+subject = [
+    "Stone, citoyen",
+    "Domicile",
+    "Freedom of movement",
+]
+extent = "[1] p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10345 no. 28"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7sn5bj51"
+internet_archive = "loirelativeunepe00fran_0"
+openlibrary_edition = "OL26229641M"
+openlibrary_work = "OL17624674W"
+
+[scan]
+file = "loirelativeunepe00fran_0.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/loirelativeunepe00fran_0"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Merlin de Thionville, Antoine-Christophe, 1762-1833"
+role = "author"
+
+[[resp]]
+name = "Lecointre, Laurent, d. 1805"
+role = "author"
+
+[[resp]]
+name = "Bentabole, Pierre-Louis, 1753-1798"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois, place de la Réunion, ci-devant du grand-Carrousel"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_860363"
+
+[[text]]
+file = "loirelativeunepe00fran_0.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativeunepe00fran_0.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

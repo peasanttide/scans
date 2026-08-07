@@ -1,0 +1,95 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettrespatentes00unse_24"
+type = "pamphlet"
+title = "Lettres patentes du roi, sur le décret de l'Assemblée nationale, du 9 mai dernier, pour la vente & l'aliénation à perpétuité des domaines de la couronne : données à Saint-Cloud, le 21 septembre 1790 : transcrites en Parlement, en vacations, le trente septembre audit an"
+language = "fr"
+place = "A Paris"
+date = "1790"
+note = "Caption title. Signed: Louis; countersigned: Guignard. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."
+url = "https://archive.org/details/lettrespatentes00unse_24"
+subject = [
+    "Crown lands",
+    "Government sale of real property",
+]
+extent = "3 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9912 no. 26"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6vx5gj5s"
+internet_archive = "lettrespatentes00unse_24"
+openlibrary_edition = "OL26223468M"
+openlibrary_work = "OL17618931W"
+
+[scan]
+file = "lettrespatentes00unse_24.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettrespatentes00unse_24"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Sovereign (1774-1792 : Louis XVI)"
+role = "author"
+
+[[resp]]
+name = "Louis XVI, King of France, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "Saint-Priest, François-Emmanuel Guignard, comte de, 1735-1821"
+role = "author"
+
+[[resp]]
+name = "Nyon, Nicolas-Henri, b. 1751?"
+role = "printer"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "France. Parlement (Paris)"
+role = "author"
+
+[[resp]]
+name = "Chez N.H. Nyon, imprimeur du Parlement, rue Mignon Saint André-des-Arcs"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_855278"
+
+[[text]]
+file = "lettrespatentes00unse_24.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrespatentes00unse_24.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrespatentes00unse_24.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrespatentes00unse_24.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

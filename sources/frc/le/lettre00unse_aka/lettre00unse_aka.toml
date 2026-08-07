@@ -1,0 +1,81 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettre00unse_aka"
+type = "pamphlet"
+title = "Lettre de M. l'évêque d'Autun aux ecclésiastiques fonctionnaires du département de Saône et Loire : du 29 décembre 1790."
+language = "fr"
+place = "A Montauban"
+date = "1791"
+note = """Caption title. Imprint from colophon. "Imprimé par les soins de la Société des amis de la constitution de Montauban"--P. 4. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.   Title page and cover are combined. Damaged, stained, marked and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/lettre00unse_aka"
+subject = [
+    "France",
+    "Church and state",
+]
+extent = "4 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 25493"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2j72qt1d"
+internet_archive = "lettre00unse_aka"
+
+[scan]
+file = "lettre00unse_aka.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettre00unse_aka"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Talleyrand-Périgord, Charles Maurice de, prince de Bénévent, 1754-1838"
+role = "author"
+
+[[resp]]
+name = "Fontanel, Jean-Pierre, 1720-1801"
+role = "publisher"
+
+[[resp]]
+name = "Société des amis de la constitution (Montauban, Tarn-et-Garonne, France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'imprimerie de Fontanel, imprimeur de la Société des amis de la constitution"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_856459"
+
+[[text]]
+file = "lettre00unse_aka.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00unse_aka.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00unse_aka.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00unse_aka.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

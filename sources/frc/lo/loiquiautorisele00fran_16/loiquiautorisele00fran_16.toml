@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loiquiautorisele00fran_16"
+type = "pamphlet"
+title = "Loi qui autorise le dépôt du montant des billets à ordre ou autres effets négociables dont le porteur ne se sera pas présenté dans les trois jours qui suivront celui de l'échéance : du 6 thermidor an III de la République française une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1795"
+note = """Caption title. At head of title: (No. 470.*). At right of title: B. no. 166. D. no. 974. "La Convention nationale ... décrète ..."--P. [1]. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover. Only one numbered page."""
+url = "https://archive.org/details/loiquiautorisele00fran_16"
+subject = [
+    "Negotiable instruments",
+    "Debtor and creditor",
+]
+extent = "2 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 28034"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0bw2ms1v"
+internet_archive = "loiquiautorisele00fran_16"
+openlibrary_edition = "OL26228457M"
+openlibrary_work = "OL17623525W"
+
+[scan]
+file = "loiquiautorisele00fran_16.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loiquiautorisele00fran_16"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois, place du Carrousel : Et se trouve dans les villes chef-lieux de départemens, au bureau de correspondance du Dépôt des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_861877"
+
+[[text]]
+file = "loiquiautorisele00fran_16.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquiautorisele00fran_16.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquiautorisele00fran_16.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquiautorisele00fran_16.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

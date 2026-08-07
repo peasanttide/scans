@@ -1,0 +1,82 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettre00unse_mwl"
+type = "pamphlet"
+title = "Lettre écrite par Mgr. de Villedeuil, aux officiers municipaux de Marseille : Versailles, le 15 juillet 1789."
+language = "fr"
+place = "A Marseille"
+date = "1789"
+note = """Caption title. Imprint from colophon. "Sur l'imprimé de l'Imprimerie royale"--Colophon. Not in Martin & Walter. Révolution française. "Récit de ce qui s'est passé à la séance tenue par le roi le 15 juillet"--P. 1-4. Scanner's note: No copyright page found. No table-of-contents pages found.   Title is on the cover. Uneven binding. Skewed text. Damaged, stained and/or loose pages."""
+url = "https://archive.org/details/lettre00unse_mwl"
+subject = [
+    "Louis XVI, King of France, 1754-1793",
+    "France. Assemblée nationale constituante (1789-1791)",
+    "Public safety",
+]
+extent = "4 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 26149"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7bs44n1x"
+internet_archive = "lettre00unse_mwl"
+
+[scan]
+file = "lettre00unse_mwl.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettre00unse_mwl"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Tallien, Jean-Lambert, 1767-2438"
+role = "author"
+
+[[resp]]
+name = "Laurent de Villedeuil, Pierre Charles, 1742-1828"
+role = "author"
+
+[[resp]]
+name = "Mossy, Jean, d. 1792"
+role = "publisher"
+
+[[resp]]
+name = "Chez Jean Mossy, père & fils, imprimeur du roi, de la ville, &c."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_864233"
+
+[[text]]
+file = "lettre00unse_mwl.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00unse_mwl.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00unse_mwl.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00unse_mwl.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

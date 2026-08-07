@@ -1,0 +1,78 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lalouangeduvaiss00saca"
+type = "pamphlet"
+title = "A la louange du vaisseau Le Vengeur : chanson patriotique."
+language = "fr"
+place = "A Bordeaux"
+date = "1794"
+note = """Caption title. Signed: Citoyen Sacau, homme de lettres. "Air: mourir pour la patrie"-P. [1]. "Le Club national ... a délibéré la réimpression au nombre de quatre mille exemplaires pour son compte, Bordeaux le 10 thermidor, l'an deux républicain"--P. 4. Imprint from colophon. Not in Martin & Walter. Révolution française. On the sinking of Le Vengeur by the English vessel Brunswick (1 June 1794). Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained, marked and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/lalouangeduvaiss00saca"
+subject = [
+    "Vengeur (Ship)",
+    "First of June, Battle of the, 1794",
+    "Revolutionary ballads and songs",
+]
+extent = "4 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 24861"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8tb6dc6z"
+internet_archive = "lalouangeduvaiss00saca"
+
+[scan]
+file = "lalouangeduvaiss00saca.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lalouangeduvaiss00saca"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Sacau, citoyen"
+role = "author"
+
+[[resp]]
+name = "Club national de Bordeaux"
+role = "author"
+
+[[resp]]
+name = "Chez Moreau, imprimeur, rue Guillaume-Tell, maison des ci-devant minimettes"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_850580"
+
+[[text]]
+file = "lalouangeduvaiss00saca.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lalouangeduvaiss00saca.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lalouangeduvaiss00saca.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lalouangeduvaiss00saca.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

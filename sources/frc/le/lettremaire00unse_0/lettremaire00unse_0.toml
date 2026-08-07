@@ -1,0 +1,93 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettremaire00unse_0"
+type = "pamphlet"
+title = "Lettre de M. le maire de Paris a M. le président de l'Assemblée nationale : Paris, le 10 octobre 1790"
+language = "fr"
+place = "Paris"
+date = "1790"
+note = "Caption title. Signed: Bailly. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française, I, 1217. Scanner's note: Title page located on front cover. No copyright page found. No table-of-contents pages found. Worn, damaged and discolored pages and cover. Skewed text. Uneven binding."
+url = "https://archive.org/details/lettremaire00unse_0"
+subject = [
+    "France. Assemblée nationale constituante (1789-1791)",
+    "Loyalty oaths",
+    "Civil rights",
+    "Justice, Administration of",
+]
+extent = "4 p. ; 24 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 26478"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t31311d7h"
+internet_archive = "lettremaire00unse_0"
+openlibrary_edition = "OL26228712M"
+openlibrary_work = "OL17623781W"
+
+[scan]
+file = "lettremaire00unse_0.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettremaire00unse_0"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Bailly, Jean Sylvain,1736-1793"
+role = "author"
+
+[[resp]]
+name = "Bailly, Jean Sylvain, 1736-1793"
+role = "author"
+
+[[resp]]
+name = "Emmery de Grozyeulx, Jean-Louis-Claude, 1742-1823"
+role = "author"
+
+[[resp]]
+name = "Lottin, Augustin-Martin, 1726-1793"
+role = "publisher"
+
+[[resp]]
+name = "Lottin de Saint Germain, Jean-Roch, b. 1754"
+role = "publisher"
+
+[[resp]]
+name = "De l'imprimerie de Lottin l'aîne, & J.-R. Lottin, imprimeurs-libraires ordinaires de la ville, rue S.-André-des-Arcs (No 27)"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_862208"
+
+[[text]]
+file = "lettremaire00unse_0.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettremaire00unse_0.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettremaire00unse_0.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettremaire00unse_0.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

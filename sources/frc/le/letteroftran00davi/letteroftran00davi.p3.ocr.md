@@ -1,0 +1,40 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: letteroftran00davi
+page: 3
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 2558
+h: 3677
+dpi: 300
+---
+
+Uj l
+
+Z
+
+<f<T
+
+>ii
+
+, i C
+
+» v y
+
+Rue Pierre-Sarrazin , n°. 14.
+
+Le citoyen David , merfibre de V Académie de Peinture
+! <st de Sculpture de Berlin , a l’honneur de vous envoyer
+un hel exemplaire de la Constitution de la République
+Française , qu’il a représentée par Figures .
+
+Il a pensé que vous recevriez avec plaisir cette
+nouvelle charte constitutionnelle , ornée de sept Gra-
+vures , comme le tribut d’un artiste citoyen , offert à
+l’ami des arts et des talens .
+
+Le prix de deux francs qu’il a imposé ci ce petit
+Ouvrage 3 donne aux citoyens de toutes les classes la
+facilité de l’ acquérir.
+
+Les premières Epreuves au bistre , trois francs.

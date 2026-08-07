@@ -1,0 +1,74 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lesadministrateu00vauc"
+type = "pamphlet"
+title = "Les administrateurs du département de Vaucluse aux administrations municipales du ressort"
+language = "fr"
+place = "France"
+date = "1797"
+note = """
+Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover. 
+No page numbers."""
+url = "https://archive.org/details/lesadministrateu00vauc"
+subject = ["Political violence"]
+extent = "[3] p. ; 25 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10310 no. 8"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9x117173"
+internet_archive = "lesadministrateu00vauc"
+openlibrary_edition = "OL26223377M"
+openlibrary_work = "OL17618840W"
+
+[scan]
+file = "lesadministrateu00vauc.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lesadministrateu00vauc"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Vaucluse (France : Department)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_856918"
+
+[[text]]
+file = "lesadministrateu00vauc.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lesadministrateu00vauc.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lesadministrateu00vauc.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lesadministrateu00vauc.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

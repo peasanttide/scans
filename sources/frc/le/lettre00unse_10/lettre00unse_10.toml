@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettre00unse_10"
+type = "pamphlet"
+title = "Lettre de Laurent Lecointre, député a l'Assemblée nationale, a P. Graves, ministre de la Guerre."
+language = "fr"
+place = "A Paris"
+date = "1792"
+note = "Caption title. Imprint from colophon. Dated, p. [1]: 4 mai 1792, l'an quatrieme de la liberté. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  III, 20327."
+url = "https://archive.org/details/lettre00unse_10"
+subject = [
+    "France. Armée",
+    "Soldiers",
+    "Military service, Voluntary",
+]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 21018"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t84j5r20n"
+internet_archive = "lettre00unse_10"
+openlibrary_edition = "OL26238783M"
+openlibrary_work = "OL17633319W"
+
+[scan]
+file = "lettre00unse_10.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettre00unse_10"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Lecointre, Laurent, d. 1805"
+role = "author"
+
+[[resp]]
+name = "Grave, Pierre Marie, marquis de, 1755-1823"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_843981"
+
+[[text]]
+file = "lettre00unse_10.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00unse_10.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00unse_10.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00unse_10.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

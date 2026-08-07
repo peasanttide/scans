@@ -1,0 +1,88 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loirelativelacon00fran_4"
+type = "pamphlet"
+title = "Loi relative à la contribution personnelle, mobiliaire et somptuaire, des années V et VI : du 7 vendémiaire an VII de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1798"
+note = """Caption title. At head of title: Au nom de la République française. Signed: Treilhard, président; par le Directoire exécutif, le secrétaire-général, Lagarde. Imprint from colophon. "No. 9"--Bottom of p. [1] ; "No. 774"--Top of p. [1]. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover. Creased page."""
+url = "https://archive.org/details/loirelativelacon00fran_4"
+subject = [
+    "Taxation",
+    "Payment",
+    "Finance, Public",
+]
+extent = "4 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10350 no. 1"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9285gh1j"
+internet_archive = "loirelativelacon00fran_4"
+openlibrary_edition = "OL26228405M"
+openlibrary_work = "OL17623473W"
+
+[scan]
+file = "loirelativelacon00fran_4.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loirelativelacon00fran_4"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Directoire exécutif"
+role = "author"
+
+[[resp]]
+name = "Treilhard, M. (Jean-Baptiste), 1742-1810"
+role = "author"
+
+[[resp]]
+name = "Lagarde, Joseph-Jean, baron, 1755-1840"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Depot des lois, place du Carrousel : Et se trouve dans les villes chef-lieux de département, au bureau de correspondance du Dépôt des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_859279"
+
+[[text]]
+file = "loirelativelacon00fran_4.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativelacon00fran_4.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativelacon00fran_4.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativelacon00fran_4.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

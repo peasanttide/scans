@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loidu28aoutmilse00fran"
+type = "pamphlet"
+title = "Loi du 28 août mil sept cent quatre-vingt-douze, l'an quatrième de la liberté : lue au conseil du département des Vosges & consignée sur ses registres le 9 septembre suivant : adresse de l'Assemblée nationale aux citoyens des frontières"
+language = "fr"
+place = "A Épinal"
+date = "1792"
+note = "Caption title. At head of title: No. 1377. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."
+url = "https://archive.org/details/loidu28aoutmilse00fran"
+extent = "3 p. ; 23 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10344 no. 53"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3pw1nd69"
+internet_archive = "loidu28aoutmilse00fran"
+openlibrary_edition = "OL26230322M"
+openlibrary_work = "OL17625298W"
+
+[scan]
+file = "loidu28aoutmilse00fran.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loidu28aoutmilse00fran"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Assemblée nationale législative (1791-1792)"
+role = "author"
+
+[[resp]]
+name = "Vosges (France). Conseil général"
+role = "author"
+
+[[resp]]
+name = "Chez Hæner, imprimeur du département des Vosges"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_858626"
+
+[[text]]
+file = "loidu28aoutmilse00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loidu28aoutmilse00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loidu28aoutmilse00fran.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loidu28aoutmilse00fran.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

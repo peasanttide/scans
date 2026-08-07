@@ -1,0 +1,66 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: lemartyredemarie00aign
+page: 4
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 2370
+h: 3952
+dpi: 500
+---
+
+PERSONNAGES.
+
+LE PRÉSIDENT DU COMITÉ DE SALUT PUBLIC.
+
+LES MEMBRES DU COMITÉ ( à, l’exception de Barrére « Robes-
+pierre et. Danton. )
+
+UN DÉPUTÉ DU DEPARTEMENT DE L’AINE.
+
+DANTON. . V '
+
+ROBESPIERRE. ^
+
+BARRÈRE.
+
+UN MINISTRE.
+
+UN JACOBIN. ^ 1
+LE ROI.
+
+LA REINE.
+
+MADAME ROYALE. '
+
+MADAME ÉLIZABETM. ^
+
+LE MAIRE DE PARIS ET SES GARDES.
+
+, SIMON.
+
+L’ACCUSATEUR PUBLIC.
+
+UN GARDE DU TEMl^LE.
+
+LA SUIVANTE DE LA REINE,
+
+/ SANTERRE.
+
+LE GEOLIER.
+
+UN ENVOYÉ DE SANTERRE.
+
+UN INCONNU.
+
+UN SANS.CULOTTE.
+
+TRONSON.
+
+UN ROYALISTE.
+
+UN CONSTITUTIONNEL,
+
+UN VIEILLARD, î
+
+.J C ’

@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettreadresseeau00vaux"
+type = "pamphlet"
+title = "Lettre adressée au Courrier de Paris dans les provinces, le 21 septembre 1789."
+language = "fr"
+place = "France"
+date = "1789"
+note = "Caption title. Signed: Charles Grant. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined.  Damaged pages.  Skewed text.  Uneven binding."
+url = "https://archive.org/details/lettreadresseeau00vaux"
+subject = ["France. Assemblée nationale constituante (1789-1791)"]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 19364"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t20c9wc45"
+internet_archive = "lettreadresseeau00vaux"
+openlibrary_edition = "OL25952989M"
+openlibrary_work = "OL17373907W"
+
+[scan]
+file = "lettreadresseeau00vaux.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettreadresseeau00vaux"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Vaux, Charles Grant, vicomte de"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_840625"
+
+[[text]]
+file = "lettreadresseeau00vaux.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettreadresseeau00vaux.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettreadresseeau00vaux.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettreadresseeau00vaux.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

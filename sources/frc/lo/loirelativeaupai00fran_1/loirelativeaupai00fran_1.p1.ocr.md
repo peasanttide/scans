@@ -1,0 +1,40 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: loirelativeaupai00fran_1
+page: 1
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 3075
+h: 4384
+dpi: 350
+---
+
+(N2. i'49*)
+
+LOI
+
+'Relative au paiement des pensions.
+
+Du 12 Brumaire, l’an troisième de la République française , une et indivisible.
+
+"|~ i ^ Convention nationale, sur le rapport de son comité des finances ,
+DÉCRÈTE ce qui suit;
+
+Article premier.
+
+Toutes les pensions accordées par décret portant le nom des pensionnaires ,
+seront payées par la trésorerie nationale sur le vu du décret , sans autre formalite
+que la production du certificat exigé par la loi du 6 germinal.
+
+I I.
+
+Les certificats de résidence exigibles pour le paiement à faire à la trésorerie
+nationale , seront valables pendant les six mois de la date du ma du directoire
+d 6 district.
+
+Visé par Le représentant du peupLe ^ inspecteur aux procès^
+verbaux. Signé Engerran.
+
+Collationné à l’original , par nous président et secrétaires de la Convention nationale.
+A Paris , le i3 Brumaire an 3®. de la République française , une et indivisible.
+Signé Prieur (delà Marne) , président ; Goujon, A. Crassous j secrétaires^

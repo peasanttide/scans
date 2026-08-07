@@ -1,0 +1,81 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lecenseurunivers00saus"
+type = "pamphlet"
+title = "Le censeur universel anglois, ou, Revue générale, critique et impartiale de toutes les productions angloises sur les sciences, la littérature, les beaux-arts, les manufactures, le commerce, &c, &c"
+language = "fr"
+place = "Paris"
+date = "1785"
+note = """Prospectus for "Le censeur universel anglois.". Caption title. "Le bureau de la souscription est ouvert ... chez l'auteur, rue du Roule, à Paris, n°. 8, au magasin général de MM. Windsor père, fils et compagnie ... On souscrit aussi ... chez le sieur Guillot, libraire de Monsieur, frère du roi, rue Saint-Jacques, vis-à-vis celle des Mathurins"--P. 4. Printer statement from colophon. "Permis d'imprimer, ce 17 juin 1785"--P. 4. Printed in double columns. "Le prix de l'abonnement est de 30 liv. pour Paris & 33 liv. pour la province, rendu franc de port par tout le roïaume"--P. 4. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Title page and cover are combined.  Text extends off of the edge of the page.  Text lost in binding."""
+url = "https://archive.org/details/lecenseurunivers00saus"
+subject = [
+    "Censeur universel anglois",
+    "Booksellers and bookselling",
+    "Periodicals",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1d no. 13"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4wh8843q"
+internet_archive = "lecenseurunivers00saus"
+
+[scan]
+file = "lecenseurunivers00saus.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lecenseurunivers00saus"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Sauseuil,chevalier de(Jean-Nicolas),1731-"
+role = "author"
+
+[[resp]]
+name = "Sauseuil, chevalier de (Jean-Nicolas), 1731-"
+role = "author"
+
+[[resp]]
+name = "Guillot, Jean-François-Hubert, d. 1792"
+role = "bookseller"
+
+[[resp]]
+name = "Cailleau, André-Charles, 1731-1798"
+role = "printer"
+
+[[resp]]
+name = "De l'imprimerie de Cailleau, rue Gallande, n° 64"
+role = "publisher"
+
+[[text]]
+file = "lecenseurunivers00saus.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lecenseurunivers00saus.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lecenseurunivers00saus.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lecenseurunivers00saus.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

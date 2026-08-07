@@ -1,0 +1,92 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettrespatentesd00fran_73"
+type = "pamphlet"
+title = "Lettres patentes du roi, portant nomination du sieur Tandeau de Marsac, pour, à la place du sieur Pasquier, procéder, avec le sieur Lefebvre d'Ammecourt, à la verification & rédaction nouvelle de la coutume de Ponthieu : données à Versailles le 9 mars 1783 : registrées en Parlement le vingt-un mars sept cent quatre-vingt-trois"
+language = "fr"
+place = "A Paris"
+date = "1783"
+note = """Caption title. "Signé Louis. Et plus bas: par le roi, Amelot"--P. 2. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: Title page located on front cover. No copyright page found. No table-of-contents pages found. Worn, damaged and discolored pages and cover. Skewed text. Uneven binding."""
+url = "https://archive.org/details/lettrespatentesd00fran_73"
+subject = ["Tandeau de Marsac, Gabriel"]
+extent = "3 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 28442"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4gn3bg7q"
+internet_archive = "lettrespatentesd00fran_73"
+openlibrary_edition = "OL26226818M"
+openlibrary_work = "OL17622045W"
+
+[scan]
+file = "lettrespatentesd00fran_73.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettrespatentesd00fran_73"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Sovereign (1774-1792 : Louis XVI)"
+role = "author"
+
+[[resp]]
+name = "Louis XVI, King of France, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "Amelot de Chaillou, Antoine-Jean, d. 1795"
+role = "author"
+
+[[resp]]
+name = "Simon, P. G. (Pierre-Guillaume), 1722-1787"
+role = "publisher"
+
+[[resp]]
+name = "Nyon, Nicolas-Henri, b. 1751?"
+role = "publisher"
+
+[[resp]]
+name = "France. Parlement (Paris)"
+role = "author"
+
+[[resp]]
+name = "Chez P.G. Simon, & N.H. Nyon, imprimeurs du Parlement, rue Mignon"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_861576"
+
+[[text]]
+file = "lettrespatentesd00fran_73.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrespatentesd00fran_73.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrespatentesd00fran_73.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrespatentesd00fran_73.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

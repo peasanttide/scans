@@ -1,0 +1,93 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lunionoujourn00unse"
+type = "pamphlet"
+title = "L'union, ou, Journal de la liberté"
+language = "fr"
+place = "Paris"
+date = "1789"
+note = """Prospectus for "L'union, ou, Journal de la liberté,". Caption title. Printer statement from colophon. "Cette feuille ... continuera d'être publiée en françois, seulement ... à commencer du vendredi 13 novembre 1789"--P. 2. "Le prix de la souscription, par an, est réduit à 60 liv. pour Paris, à 67 l. 16 s. pour la province et à 3 guinées pour Londres ... On souscrit à Paris, chez M. Marshall, au bâtiment de l'ancienne Comédie Françoise, et au bureau, chez M. Le Boucher, libraire, au coin des rues de la Calendre et du Marché-Palu, en la Cité. Et à Londres, chez M. Schuber, vis-à-vis l'hôtel de Grenier, en Jermin-Street"--P. 2. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Text extends off of the edge of the page. Text may be lost in the binding. Permanent creases may obscure some text. Title page and cover are combined."""
+url = "https://archive.org/details/lunionoujourn00unse"
+subject = [
+    "Union, ou, Journal de la liberté",
+    "Booksellers and bookselling",
+    "Periodicals",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1d no. 99"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2j734j15"
+internet_archive = "lunionoujourn00unse"
+
+[scan]
+file = "lunionoujourn00unse.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/lunionoujourn00unse"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Marshall, T."
+role = "bookseller"
+
+[[resp]]
+name = "Le Boucher, Michel"
+role = "bookseller"
+
+[[resp]]
+name = "Schuber"
+role = "bookseller"
+
+[[resp]]
+name = "Delaguette, Catherine, active 1788-1812"
+role = "printer"
+
+[[resp]]
+name = "De l'imprimerie de la veuve Delaguette, rue de la Vieille-Draperie"
+role = "publisher"
+
+[[text]]
+file = "lunionoujourn00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lunionoujourn00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lunionoujourn00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lunionoujourn00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lunionoujourn00unse.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lunionoujourn00unse.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

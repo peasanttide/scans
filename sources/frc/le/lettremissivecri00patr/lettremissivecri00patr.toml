@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettremissivecri00patr"
+type = "pamphlet"
+title = "Lettre missive : écrite aux Notables, en leur adressant cette dénonciation."
+language = "fr"
+place = "s.l."
+date = "1788"
+note = "Caption title. Without imprint. Dated and signed at end: Paris ce 12 novembre 1788. Signé, Patriophile. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found. Title and cover page are combined. Damaged, stained and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/lettremissivecri00patr"
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 4966"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9m37wf42"
+internet_archive = "lettremissivecri00patr"
+openlibrary_edition = "OL26214089M"
+openlibrary_work = "OL17610055W"
+
+[scan]
+file = "lettremissivecri00patr.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettremissivecri00patr"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Patriophile"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée des notables (1788)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_54669"
+
+[[text]]
+file = "lettremissivecri00patr.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettremissivecri00patr.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettremissivecri00patr.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettremissivecri00patr.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettredemlecomte00este"
+type = "pamphlet"
+title = "Lettre de M. le comte d'Estherazy, commandant du Haynault, à M. le marquis de Gouy d'Arsy, député à l'Assemblée nationale."
+language = "fr"
+place = "France"
+date = "1789"
+note = """Caption title. "Valenciennes, le 27 août 1789"--P. [1]. Martin & Walter. Révolution française. "Déclaration annexée à la précédente"--P. [3]. Bibliography: Martin & Walter.  Révolution française,  II, 12870. Scanner's note: No copyright page found. No table-of-contents pages found.Title is on the cover page. Skewed text. Uneven binding."""
+url = "https://archive.org/details/lettredemlecomte00este"
+subject = [
+    "Esterházy, Valentin, comte, 1740-1805",
+    "Indictments",
+]
+extent = "[3] p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 18355"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3b045h1h"
+internet_archive = "lettredemlecomte00este"
+openlibrary_edition = "OL26201919M"
+openlibrary_work = "OL17598437W"
+
+[scan]
+file = "lettredemlecomte00este.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettredemlecomte00este"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Esterházy, Valentin, comte, 1740-1805"
+role = "author"
+
+[[resp]]
+name = "Gouy, Louis-Marthe de, 1753-1794"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_837938"
+
+[[text]]
+file = "lettredemlecomte00este.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredemlecomte00este.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredemlecomte00este.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredemlecomte00este.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

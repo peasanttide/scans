@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loiquiappliqueau00fran_1"
+type = "pamphlet"
+title = "Loi qui applique aux habitans de Saint-Domingue ou d'autres colonies françaises, domiciliés en France avant l'époque de troubles survenus dans lesdits colonies, et dont les propriétés ont été dévastées ou détruites par les ennemis de la République, les dispositions de la loi du 27 vendémiaire, relatives aux colons déportés : du 7 nivose, l'an troisième de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1794"
+note = """Caption title. At head of title: (No. 221*). At right of title: B. no. 103, D. no. 536. Signed: A. Dumont, ex-président; Girot (du Puy-de-Dôme), Le Tourneur (de la Manche), secrétaires. Imprint from colophon. Not in Martin & Walter. Révolution française. "La Convention nationale ... décrète ..."--P. [1]. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/loiquiappliqueau00fran_1"
+subject = [
+    "Haitians",
+    "Public welfare",
+]
+extent = "2 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10345 no. 116"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t44r32104"
+internet_archive = "loiquiappliqueau00fran_1"
+openlibrary_edition = "OL26229231M"
+openlibrary_work = "OL17624265W"
+
+[scan]
+file = "loiquiappliqueau00fran_1.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/loiquiappliqueau00fran_1"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Dumont, André, 1764-1838"
+role = "author"
+
+[[resp]]
+name = "Le Tourneur, Etienne-François-Louis-Honoré, 1751-1817"
+role = "author"
+
+[[resp]]
+name = "Girot-Pouzol, Jean Baptiste, 1753-1822"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépot des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_860452"
+
+[[text]]
+file = "loiquiappliqueau00fran_1.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquiappliqueau00fran_1.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

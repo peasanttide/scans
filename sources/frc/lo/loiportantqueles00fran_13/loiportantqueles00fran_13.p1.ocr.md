@@ -1,0 +1,54 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: loiportantqueles00fran_13
+page: 1
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 2912
+h: 4010
+dpi: 350
+---
+
+» aE.
+
+( N.° 3 7 o * )
+
+LOI
+
+B.
+
+I)
+
+Portant que tes communes se pourvoiront elles-mêmes des sommes dont
+elles auront besoin pour achat de subsistances .
+
+Du 3o Germinal , an troisième de la République française , une et indivisible.
+
+I-J A Convention nationale, sur le rapport de ses comités
+de salut pdblic et des finances, réunis , décrète :
+
+A -R T I C L E P R E M I E R.
+
+Les communes se pourvoiront elles-mêmes des sommes dont elles
+auront besoin pour achat de subsistances.
+
+IL Le conseil général, en àéance publique, déterminera la somme
+qui lui sera nécessaire, le mode de l’emprunt volontaire qu’il en fera,
+les conditions et les époques du remboursement.
+
+III. L’arrêté sera adressé à l’administration du district, qui, dans
+les trois jours, donnera son avis.
+
+IV. Dans le même délai, l’avis sera rejeté ou confirmé par l’admi-
+nistration du département. Si l’avis est confirmé, l’arrêté du départe-
+ment sera provisoirement exécuté; mais il sera, avec les pièces à l'ap-
+pui, adressé au comité de salut public, pour y être définitivement ap-
+prouvé ,s’il y a lieu.
+
+Le présent décret sera inséré au bulletin de correspondance.
+
+Visé. Signé J. M. Hubert.
+
+Collationné. Signé Boissy , président ; J. J. Serres, Baujain , secrétaires.
+
+A Paris, de FImprimerie du Dépôt des Lois.

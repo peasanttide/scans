@@ -1,0 +1,77 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lesadministrateu00vauc_0"
+type = "pamphlet"
+title = "Les administrateurs du département de Vaucluse, aux administrations municipales du ressort"
+language = "fr"
+place = "France"
+date = "1798"
+note = """
+Caption title. Not in Martin & Walter. Révolution française. "État des pièces à fournir par les veuves des défenseurs de la patrie, pour obtenir la pension"--P. [3]-[4]. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover. 
+No page numbers."""
+url = "https://archive.org/details/lesadministrateu00vauc_0"
+subject = [
+    "War widows",
+    "Mothers' pensions",
+]
+extent = "[4] p. ; 25 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10310 no. 9"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4rj9k579"
+internet_archive = "lesadministrateu00vauc_0"
+openlibrary_edition = "OL26223258M"
+openlibrary_work = "OL17618719W"
+
+[scan]
+file = "lesadministrateu00vauc_0.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lesadministrateu00vauc_0"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Vaucluse (France : Department)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_856919"
+
+[[text]]
+file = "lesadministrateu00vauc_0.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lesadministrateu00vauc_0.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lesadministrateu00vauc_0.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lesadministrateu00vauc_0.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

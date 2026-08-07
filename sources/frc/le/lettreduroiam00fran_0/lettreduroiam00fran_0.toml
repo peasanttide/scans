@@ -1,0 +1,57 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettreduroiam00fran_0"
+type = "pamphlet"
+title = "Lettre du roi à M. l'Amiral, au sujet des papiers jetés à la mer. Du 13 novembre 1779."
+language = "fr"
+place = "A Paris"
+date = "1780"
+note = "Caption title. Orders the confiscation of ships whose papers were thrown overboard before surrendering to the French Navy."
+url = "https://archive.org/details/lettreduroiam00fran_0"
+subject = ["Seizure of vessels and cargoes"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case F 39 .328 no. 102"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t41s2tf4k"
+internet_archive = "lettreduroiam00fran_0"
+
+[scan]
+file = "lettreduroiam00fran_0.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/lettreduroiam00fran_0"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Sovereign (1774-1792 : Louis XVI)"
+role = "author"
+
+[[resp]]
+name = "France. Sovereign (1774-1792 : Louis XVI)"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie royale"
+role = "publisher"
+
+[[text]]
+file = "lettreduroiam00fran_0.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettreduroiam00fran_0.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

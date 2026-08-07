@@ -1,0 +1,87 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettreecrite00unse_2"
+type = "pamphlet"
+title = "Lettre ecrite à M. le président de l'Assemblée nationale, par MM. les députés du Comté-Venaissin, le 29 octobre 1790"
+language = "fr"
+place = "A Paris"
+date = "1790"
+note = "Caption title. Signed: Tramier La Boissiere, Olivier, Ducros ... Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française, IV:1, 32815. Scanner's note: Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text. No title page found. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/lettreecrite00unse_2"
+extent = "4 p. ; 28 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 27241"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1mh2rw67"
+internet_archive = "lettreecrite00unse_2"
+openlibrary_edition = "OL26229663M"
+openlibrary_work = "OL17624696W"
+
+[scan]
+file = "lettreecrite00unse_2.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettreecrite00unse_2"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Tramier de La Boissière"
+role = "author"
+
+[[resp]]
+name = "Olivier, Gabriel-Raimond-Jean-de-Dieu François d', 1753-1823"
+role = "author"
+
+[[resp]]
+name = "Ducros, abbé (Jean-François), active 17th century-18th century"
+role = "author"
+
+[[resp]]
+name = "Didot, Pierre-François, 1731-1795"
+role = "publisher"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de P. Fr. Didot le jeune"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_868164"
+
+[[text]]
+file = "lettreecrite00unse_2.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettreecrite00unse_2.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettreecrite00unse_2.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettreecrite00unse_2.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

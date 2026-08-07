@@ -1,0 +1,68 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loirelativeaumod00fran_1"
+type = "pamphlet"
+title = "Loi relative au mode de paiement des voitures de marchandises en exécution de marchés faits et non exécutés avant l'abrogation de la loi du maximum : du 17 messidor, an troisième de la République française une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1795"
+note = """Caption title. At head of title: (No. 455.*). At right of title: B. no. 162. D. no. 943. "La Convention nationale ... décrète ...". Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover. No page numbers."""
+url = "https://archive.org/details/loirelativeaumod00fran_1"
+subject = [
+    "Price regulation",
+    "Debtor and creditor",
+    "Food prices",
+]
+extent = "[1] p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10346 no. 99"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5k98bj1c"
+internet_archive = "loirelativeaumod00fran_1"
+openlibrary_edition = "OL26230589M"
+openlibrary_work = "OL17625565W"
+
+[scan]
+file = "loirelativeaumod00fran_1.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/loirelativeaumod00fran_1"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_861865"
+
+[[text]]
+file = "loirelativeaumod00fran_1.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativeaumod00fran_1.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

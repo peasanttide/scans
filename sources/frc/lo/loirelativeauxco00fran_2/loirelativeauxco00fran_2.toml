@@ -1,0 +1,91 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loirelativeauxco00fran_2"
+type = "pamphlet"
+title = "Loi relative aux contributions : donnée à Paris, le 3 juin 1791"
+language = "fr"
+place = "A Paris"
+date = "1791"
+note = """Caption title. At right of title: No. 978. "Signé Louis. Et plus bas, M.L.F. DuPort"--P. 2. Imprint from colophon. Martin & Walter. Révolution française. "Décret de l'Assemblée nationale, du 27 mai 1791"--P. [1]-2. Bibliography: Martin & Walter. Révolution française, IV:2, 9143. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/loirelativeauxco00fran_2"
+subject = [
+    "Taxation",
+    "Finance, Public",
+]
+extent = "2 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10341 no. 4"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t74v1rn0k"
+internet_archive = "loirelativeauxco00fran_2"
+openlibrary_edition = "OL26230198M"
+openlibrary_work = "OL17625174W"
+
+[scan]
+file = "loirelativeauxco00fran_2.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loirelativeauxco00fran_2"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Sovereign (1774-1792 : Louis XVI)"
+role = "author"
+
+[[resp]]
+name = "Louis XVI, King of France, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "Duport-Dutertre, Marguerite-Louis-François, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "Imprimerie royale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie royale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_853570"
+
+[[text]]
+file = "loirelativeauxco00fran_2.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativeauxco00fran_2.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativeauxco00fran_2.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativeauxco00fran_2.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

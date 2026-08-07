@@ -1,0 +1,64 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loirelativelafac00fran"
+type = "pamphlet"
+title = "Loi relative à la faculté qu'ont les notaires publics de reprendre les fonctions dans lesquelles ils avaienet été remplacés pendant qu'ils en exerçaient d'administratives : du 11 thermidor, an troisième de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1795"
+note = """Caption title. At head of title: (No. 490.*). At right of title: B. no. 170. D. no. 996. "La Convention nationale, sur la proposition ...". Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."""
+url = "https://archive.org/details/loirelativelafac00fran"
+subject = ["Notaries"]
+extent = "[1] p. ; 28 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10346 no. 115"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t32282f70"
+internet_archive = "loirelativelafac00fran"
+openlibrary_edition = "OL26230769M"
+openlibrary_work = "OL17625746W"
+
+[scan]
+file = "loirelativelafac00fran.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/loirelativelafac00fran"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_861881"
+
+[[text]]
+file = "loirelativelafac00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativelafac00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

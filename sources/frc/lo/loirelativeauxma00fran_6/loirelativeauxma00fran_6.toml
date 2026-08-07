@@ -1,0 +1,57 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loirelativeauxma00fran_6"
+type = "pamphlet"
+title = "Loi relative aux marchés pour la fourniture de trois cent millions de papier d'assignats"
+language = "fr"
+place = "A Angers"
+date = "1792"
+note = "Imprint at lower right. Scanner's note: No copyright page found. No table-of-contents pages found. Title and cover pages combined."
+url = "https://archive.org/details/loirelativeauxma00fran_6"
+subject = ["Paper money"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 11 no. 17"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t47q4p618"
+internet_archive = "loirelativeauxma00fran_6"
+
+[scan]
+file = "loirelativeauxma00fran_6.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/loirelativeauxma00fran_6"
+ppi = 350
+note = "Scanned on fold1.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Convention nationale"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale, chez Mame"
+role = "publisher"
+
+[[text]]
+file = "loirelativeauxma00fran_6.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativeauxma00fran_6.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

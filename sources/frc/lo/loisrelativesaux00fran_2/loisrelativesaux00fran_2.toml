@@ -1,0 +1,87 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loisrelativesaux00fran_2"
+type = "pamphlet"
+title = "Lois relatives aux postes et messageries"
+language = "fr"
+place = "A Paris"
+date = "1795"
+note = """Caption title. At head of title: (No. 247*). At right of title: B. no. 112, D. no. 582. Signed: Le Tourneur (de la Manche), président; Auguis, Borel, secrétaires. Imprint from colophon. Not in Martin & Walter. Révolution française. "La Convention nationale ... décrète ..."--P. [1]. Loi qui autorise l'agence des messageries nationales à faire percevoir dans tous ses bureaux une augmentation de moitié, outre les prix portés par les tarifs actuels, du 20 nivôse, l'an troisième ... -- Loi qui décharge l'agence des messageries de toute responsabilité en cas d'évènemens occasionnés par force majeure, ou de dommages causés par un défaut d'emballage, du 27 nivôse l'an troisième ... B. no. 111, D. no. 587 -- Loi qui augmente le prix des ports de lettres, du 27 nivôse, l'an troisième ... B. no. 112, D. no. 588. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/loisrelativesaux00fran_2"
+subject = [
+    "Postal service",
+    "Postal rates",
+]
+extent = "3 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10345 no. 129"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8x97c180"
+internet_archive = "loisrelativesaux00fran_2"
+openlibrary_edition = "OL26229373M"
+openlibrary_work = "OL17624407W"
+
+[scan]
+file = "loisrelativesaux00fran_2.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loisrelativesaux00fran_2"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Le Tourneur, Etienne-François-Louis-Honoré, 1751-1817"
+role = "author"
+
+[[resp]]
+name = "Borel, Hyacinthe Marcellin, 1756-1796"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Depot des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_860465"
+
+[[text]]
+file = "loisrelativesaux00fran_2.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loisrelativesaux00fran_2.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loisrelativesaux00fran_2.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loisrelativesaux00fran_2.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

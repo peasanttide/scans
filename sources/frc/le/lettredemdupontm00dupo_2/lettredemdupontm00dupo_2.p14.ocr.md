@@ -1,0 +1,46 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: lettredemdupontm00dupo_2
+page: 14
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 2551
+h: 4087
+dpi: 650
+---
+
+( 12 }
+
+d© Fassemblee nationale qu’elles seraient reçues di-
+manche i5 , à la barre , le jour même N où les suisses
+de Château - Vieux et leurs dignes amis seraient
+maîtres de Paris , le jour où vous vous proposiez de
+défendre à la garde nationale de porter les arpies.
+
+Les bras qui doivent employer les dix mille piques
+au gré des ennemis de la constitution „ au gré de*
+amis de Château -Vieux , sont arrivés, et arrivent
+tous les jours : tous les jours de cette semaine , douze
+ou quinze cents inconnus sont entrés dans Paris,
+venant de toutes les parties du royaume et meme
+des pays étrangers ; les routes en sont couvertes.
+Ils mendient dans les rues , en toutes sortes de pa-
+tois , malgré les secours bénins de leurs amis, qui
+peuvent n’avoir pas pourvu à tout ; car il est diffi-
+cile de compter combien de corbeaux attirera le
+carnage , combien de brigands l’espoir du pillage
+pourra réunir.
+
+Je n ai pas tout dit. A cette horrible armée ,
+digne de Y occasion , les généraux sont préparés.
+Les papiers publics , les lettres particulières
+nous annoncent que les amis de Jourdan, qui ont
+tant sollicité pour lui l’amnistie , voyant que la sa-
+gesse de rassemblée nationale n’y comprenait pas les
+assassinats de la Glacière , ont forcé sa prison : déjà
+on 1 a fait recevoir en triomphe dans quelques villes
+comme les suisses de Château «Vieux. Il arrive à
+Pans demain; il sera dimanche à la fête, avec ses
+compagnons , avec les deux Main vielle , avec Peyta-
+vin , avec tous les scélérats qui, de sang-froid , ont
+tue dans une nuit soixante-huit personnes sans dé«

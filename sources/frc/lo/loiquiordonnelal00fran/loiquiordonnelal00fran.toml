@@ -1,0 +1,64 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loiquiordonnelal00fran"
+type = "pamphlet"
+title = "Loi qui ordonne la liquidation des sommes dont l'adjudicataire des fermes n'avait pas fait le remboursement aux employes à l'époque du 5 juin 1793 : du 29 fructidor, an troisième de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1795"
+note = """Caption title. At head of title: (No. 554.*). At right of title: B. no. 179. D. 1093. "La Convention nationale ... décrète ..."--P. [1]. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/loiquiordonnelal00fran"
+subject = ["Farm rents"]
+extent = "2 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10346 no. 161"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9188fr6h"
+internet_archive = "loiquiordonnelal00fran"
+openlibrary_edition = "OL26230527M"
+openlibrary_work = "OL17625503W"
+
+[scan]
+file = "loiquiordonnelal00fran.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/loiquiordonnelal00fran"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Depot des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_861927"
+
+[[text]]
+file = "loiquiordonnelal00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquiordonnelal00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

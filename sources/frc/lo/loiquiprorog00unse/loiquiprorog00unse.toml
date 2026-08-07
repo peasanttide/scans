@@ -1,0 +1,64 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loiquiprorog00unse"
+type = "pamphlet"
+title = "Loi qui proroge jusqu'au premier messidor le délai fixé par la loi du 4 nivose pour l'approvisionnement des marchés par la voie de la réquisition : du 18 ventose, an troisième de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1795"
+note = """Caption title. At head of title: (No. 315.*). At right of title: B. no. 129. D. no. 691. "La Convention nationale ... décrète ...". Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover. No page numbers."""
+url = "https://archive.org/details/loiquiprorog00unse"
+subject = ["Food supply"]
+extent = "[1] p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10346 no. 10"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7vm9dc4x"
+internet_archive = "loiquiprorog00unse"
+openlibrary_edition = "OL26230768M"
+openlibrary_work = "OL17625745W"
+
+[scan]
+file = "loiquiprorog00unse.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/loiquiprorog00unse"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_861776"
+
+[[text]]
+file = "loiquiprorog00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquiprorog00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

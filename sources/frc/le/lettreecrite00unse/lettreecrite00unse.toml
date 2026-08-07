@@ -1,0 +1,78 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettreecrite00unse"
+type = "pamphlet"
+title = "Lettre écrite au roi : le 28 ao^ut 1788"
+language = "fr"
+place = "A Rennes"
+date = "1788"
+note = "Caption title. Imprint from colophon. Loménie de Brienne was dismissed 24 August 1788. Not in Martin & Walter (quarto edition). Scanner's note: No title page found. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/lettreecrite00unse"
+subject = ["Loménie de Brienne, Etienne Charles de, 1727-1794"]
+extent = "4 p. ; 29 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9493"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8kd71395"
+internet_archive = "lettreecrite00unse"
+
+[scan]
+file = "lettreecrite00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettreecrite00unse"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Brittany (France). Etats. Commission intermédiaire"
+role = "author"
+
+[[resp]]
+name = "Brittany (France). Etats. Commission intermédiaire"
+role = "author"
+
+[[resp]]
+name = "France. Sovereign (1774-1792 : Louis XVI)"
+role = "author"
+
+[[resp]]
+name = "Chez Nicolas-Paul Vatar"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_67616"
+
+[[text]]
+file = "lettreecrite00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettreecrite00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettreecrite00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettreecrite00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

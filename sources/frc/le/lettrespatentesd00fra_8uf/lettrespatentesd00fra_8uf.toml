@@ -1,0 +1,84 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettrespatentesd00fra_8uf"
+type = "pamphlet"
+title = "Lettres patentes du roi, qui annullent la plainte rendue par le procureur général du roi au Parlement de Bordeaux, le 11 janvier 1786, l'arrêt rendu le même jour, sur icelle, & toutes les procédures faites en conséquence : données à Versailles le 14 mai 1786 : registrées au Parlement de Bordeaux le 30 desites mois & an"
+language = "fr"
+place = "Paris"
+date = "1786"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. BN Catalogue des factums. Bibliography: BN  Catalogue des factums, IV, p. 423. Scanner's note: No copyright page found. No table-of-contents pages found.  Title and cover are combined. Damaged, stained and/or loose pages. Skewed text. The text on the back cover is upside-down."
+url = "https://archive.org/details/lettrespatentesd00fra_8uf"
+subject = [
+    "Pestels, chevalier de",
+    "France. Parlement (Bordeaux)",
+    "Complaints (Administrative procedure)",
+]
+extent = "10 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC suppl. 90 no. 27"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6159sw02"
+internet_archive = "lettrespatentesd00fra_8uf"
+openlibrary_edition = "OL26235499M"
+openlibrary_work = "OL17630085W"
+
+[scan]
+file = "lettrespatentesd00fra_8uf.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettrespatentesd00fra_8uf"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Sovereign (1774-1792 : Louis XVI)"
+role = "author"
+
+[[resp]]
+name = "France. Parlement (Bordeaux)"
+role = "author"
+
+[[resp]]
+name = "Imprimerie royale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie royale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_861583"
+
+[[text]]
+file = "lettrespatentesd00fra_8uf.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrespatentesd00fra_8uf.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrespatentesd00fra_8uf.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrespatentesd00fra_8uf.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

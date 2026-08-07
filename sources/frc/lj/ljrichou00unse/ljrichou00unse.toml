@@ -1,0 +1,89 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "ljrichou00unse"
+type = "pamphlet"
+title = "L.J. Richou, représantant du peuple, député du département de l'Eure, à la Convention nationale, à ses collègues, siégeant à la Convention."
+language = "fr"
+place = "Paris"
+date = "1794"
+note = """Martin & Walter. Révolution française. "Extrait du procès-verbal de l'an 2 de la Convention nationale du 3 octobre de la République une et indivisible"--P. 3. Bibliography: Martin & Walter.  Révolution française,  IV:1, 29229. Scanner's note: Title page located on front cover. No copyright page found. No table-of-contents pages found. Worn, damaged and discolored pages and cover. Skewed text. Uneven binding."""
+url = "https://archive.org/details/ljrichou00unse"
+subject = [
+    "Richou, Louis Joseph, 1748-1839",
+    "Duroy, Jean-Michel, 1753-1795",
+]
+extent = "7 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 24417"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2d84m71d"
+internet_archive = "ljrichou00unse"
+
+[scan]
+file = "ljrichou00unse.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/ljrichou00unse"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Richou, Louis Joseph, 1748-1839"
+role = "author"
+
+[[resp]]
+name = "Gueffier, Pierre-François, d. 1803?"
+role = "publisher"
+
+[[resp]]
+name = "De l'imprimerie de Gueffier"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_849248"
+
+[[text]]
+file = "ljrichou00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ljrichou00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ljrichou00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ljrichou00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ljrichou00unse.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ljrichou00unse.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

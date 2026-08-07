@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "liberteculte00unse"
+type = "pamphlet"
+title = "Liberté du culte : extrait du registre des délibérations du directoire du département de Rhône & Loire, du 3 novembre 1791"
+language = "fr"
+place = "A Lyon"
+date = "1791"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."
+url = "https://archive.org/details/liberteculte00unse"
+subject = [
+    "Freedom of religion",
+    "Church property",
+    "Church and state",
+]
+extent = "3 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10244 no. 27"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2x39wx6x"
+internet_archive = "liberteculte00unse"
+openlibrary_edition = "OL26222978M"
+openlibrary_work = "OL17618438W"
+
+[scan]
+file = "liberteculte00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/liberteculte00unse"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Rhône-et-Loire (France). Directoire"
+role = "author"
+
+[[resp]]
+name = "La Roche, Aimé de, 1715-1801"
+role = "publisher"
+
+[[resp]]
+name = "Chez Aimé de La Roche, imprimeur du département de Rhône & Loire"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_857470"
+
+[[text]]
+file = "liberteculte00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "liberteculte00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "liberteculte00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "liberteculte00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

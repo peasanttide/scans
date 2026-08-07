@@ -1,0 +1,87 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettres00barn"
+type = "pamphlet"
+title = "Lettres /"
+language = "fr"
+place = "s.l."
+date = "1788"
+note = "Caption title. Without imprint. Documents dated 20 June 1788. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover."
+url = "https://archive.org/details/lettres00barn"
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 4998"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3c018016"
+internet_archive = "lettres00barn"
+openlibrary_edition = "OL26212961M"
+openlibrary_work = "OL17608931W"
+
+[scan]
+file = "lettres00barn.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettres00barn"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Béarn (France). Noblesse"
+role = "author"
+
+[[resp]]
+name = "Béarn (France). Noblesse"
+role = "author"
+
+[[resp]]
+name = "Louis XVIII, King of France, 1755-1824"
+role = "author"
+
+[[resp]]
+name = "Charles X, King of France, 1757-1836"
+role = "author"
+
+[[resp]]
+name = "France. Sovereign (1774-1792 : Louis XVI)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_54075"
+
+[[text]]
+file = "lettres00barn.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettres00barn.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettres00barn.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettres00barn.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

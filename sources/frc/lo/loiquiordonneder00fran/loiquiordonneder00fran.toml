@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loiquiordonneder00fran"
+type = "pamphlet"
+title = "Loi qui ordonne de recevoir parmi les enfans de la patrie ceux des habitans de Saint-Domingue et des autres colonies françaises, âgés de moins de 15 ans, qui se trouvent en France, et dont les parens ont souffert des troubles qui ont agité ces colonies : du 26 brumaire, l'an troisiéme de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1794"
+note = """Caption title. At head of title: (No. 168*). At right of title: B. no. 86, D. 453. Signed: Legendre, président; Duval (de l'Aube), Merlino, secrétaires. Imprint from colophon. Not in Martin & Walter. Révolution française. "La Convention nationale ... décrète ..."--P. [1]. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/loiquiordonneder00fran"
+subject = [
+    "Public welfare",
+    "Children",
+]
+extent = "[1] p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10345 no. 91"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6838zc7w"
+internet_archive = "loiquiordonneder00fran"
+openlibrary_edition = "OL26229509M"
+openlibrary_work = "OL17624542W"
+
+[scan]
+file = "loiquiordonneder00fran.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/loiquiordonneder00fran"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Legendre, Louis, 1756-1797"
+role = "author"
+
+[[resp]]
+name = "Duval, Claude, 1749-1830"
+role = "author"
+
+[[resp]]
+name = "Merlino, Jean-François-Marie, 1738-1805"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Depot des lois, place de la Réunion, ci-devant du grand Carrousel"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_860427"
+
+[[text]]
+file = "loiquiordonneder00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquiordonneder00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

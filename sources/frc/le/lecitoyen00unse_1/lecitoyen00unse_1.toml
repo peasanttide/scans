@@ -1,0 +1,84 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lecitoyen00unse_1"
+type = "pamphlet"
+title = "Le citoyen du Jura /"
+language = "fr"
+place = "Paris"
+date = "1790"
+note = "Caption title. Numbered at head of music: 12. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title and cover pages combined."
+url = "https://archive.org/details/lecitoyen00unse_1"
+subject = [
+    "Louis XVI, King of France, 1754-1793",
+    "Royalists",
+    "Romances (Music)",
+]
+extent = "1 vocal score ([2] leaves) ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 25462"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3fz2k23f"
+internet_archive = "lecitoyen00unse_1"
+
+[scan]
+file = "lecitoyen00unse_1.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lecitoyen00unse_1"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Sugniaux, cadet"
+role = "author"
+
+[[resp]]
+name = "Frère, Jacques-Charles, 1750-1828"
+role = "bookseller"
+
+[[resp]]
+name = "Chez Frere, passage du Saumon"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_854843"
+
+[[text]]
+file = "lecitoyen00unse_1.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lecitoyen00unse_1.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lecitoyen00unse_1.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lecitoyen00unse_1.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lecitoyen00unse_1.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,85 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettredemleveque00roux_0"
+type = "pamphlet"
+title = "Lettre de M. l'évêque de Senez, a M. l'évêque de Digne."
+language = "fr"
+place = "A Aix"
+date = "1790"
+note = "Caption title. François Mouchet de Villedieu was bishop of Digne from 1784 to 1801. Cf. Catholic Hierarchy. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Damaged, stained pages. Uneven binding. Skewed text. Title and cover are combined."
+url = "https://archive.org/details/lettredemleveque00roux_0"
+subject = [
+    "France",
+    "Catholic Church",
+    "Episcopacy",
+    "Church and state",
+]
+extent = "4 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 15860"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6062gj45"
+internet_archive = "lettredemleveque00roux_0"
+openlibrary_edition = "OL25951143M"
+openlibrary_work = "OL17372138W"
+
+[scan]
+file = "lettredemleveque00roux_0.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettredemleveque00roux_0"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Roux de Bonneval, Jean-Baptiste-Marie-Scipion, 1747-1837"
+role = "author"
+
+[[resp]]
+name = "Mouchet de Villedieu, François, 1731-1823"
+role = "author"
+
+[[resp]]
+name = "Catholic Church. Diocese of Sénez (France)"
+role = "author"
+
+[[resp]]
+name = "Chez Pierre-Joseph Calmen, imprimeur du Roi & du clergé, rue Plate-Forme"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_833058"
+
+[[text]]
+file = "lettredemleveque00roux_0.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredemleveque00roux_0.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredemleveque00roux_0.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredemleveque00roux_0.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

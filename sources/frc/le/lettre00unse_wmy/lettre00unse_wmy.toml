@@ -1,0 +1,70 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettre00unse_wmy"
+type = "pamphlet"
+title = "Lettre de M. Mirabeau l'ainé, sur le zele & l'activité des bons citoyens de Marseille."
+language = "fr"
+place = "France"
+date = "1791"
+note = "Caption title. Dated, p. [1]: 20 fevrier 1791. Not in Martin & Walter. Révolution française. Scanner's note: No Copyright found. No Table of Contents found. Title on cover page. Damaged, stained pages and cover. <br />."
+url = "https://archive.org/details/lettre00unse_wmy"
+subject = ["Patriotism"]
+extent = "3 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 22593"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1rg10m81"
+internet_archive = "lettre00unse_wmy"
+
+[scan]
+file = "lettre00unse_wmy.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettre00unse_wmy"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "Mirabeau, Honoré-Gabriel de Riquetti, comte de, 1749-1791"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_846639"
+
+[[text]]
+file = "lettre00unse_wmy.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00unse_wmy.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00unse_wmy.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00unse_wmy.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

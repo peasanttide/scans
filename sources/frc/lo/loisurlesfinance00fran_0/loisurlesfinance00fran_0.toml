@@ -1,0 +1,84 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loisurlesfinance00fran_0"
+type = "pamphlet"
+title = "Loi sur les finances et le crédit public : du 13 nivose, l'an troisiéme de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1795"
+note = """Caption title. At head of title: (No. 231 et 232*). At right of title: B. no. 107, D. 559 et 560. Signed: Le Tourneur (de la Manche), président; Auguis, Dumont (du Calvados), secrétaires. Imprint from colophon. Not in Martin & Walter. Révolution française. "La Convention nationale ... décrète ..."--P. [1]. "Loi qui déclare que, dans les mesures à prendre pour retirer des assignats de la circulation, il n'en sera adopté aucune qui aurait pour but une démonétisation quelconque, du 14 nivose, l'an troisième de la République française, une et indivisible"--P. 3. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover."""
+url = "https://archive.org/details/loisurlesfinance00fran_0"
+subject = [
+    "Refugee property",
+    "Assignats",
+    "Finance, Public",
+]
+extent = "3 p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 28351"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6j156220"
+internet_archive = "loisurlesfinance00fran_0"
+openlibrary_edition = "OL26226776M"
+openlibrary_work = "OL17622005W"
+
+[scan]
+file = "loisurlesfinance00fran_0.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loisurlesfinance00fran_0"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Le Tourneur, Etienne-François-Louis-Honoré, 1751-1817"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois, place du Carrousel"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_860456"
+
+[[text]]
+file = "loisurlesfinance00fran_0.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loisurlesfinance00fran_0.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loisurlesfinance00fran_0.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loisurlesfinance00fran_0.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

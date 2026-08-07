@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettre00prov"
+type = "pamphlet"
+title = "Lettre /"
+language = "fr"
+place = "s.l."
+date = "1789"
+note = "Caption title. Without imprint. Martin & Walter IV 2: 8656 (which specifies: Plaintes contre la protestation du Tiers-etat à l'occasion d'une demande de subsides par les deux autres ordres). Scanner's note: No title page found. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/lettre00prov"
+subject = [
+    "France. Etats généraux",
+    "France. États généraux. Tiers État",
+]
+extent = "4 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 4817"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0bw2jc62"
+internet_archive = "lettre00prov"
+openlibrary_edition = "OL26213116M"
+openlibrary_work = "OL17609090W"
+
+[scan]
+file = "lettre00prov.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettre00prov"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Provence (France). Noblesse"
+role = "author"
+
+[[resp]]
+name = "France. Sovereign (1774-1792 : Louis XVI)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_56489"
+
+[[text]]
+file = "lettre00prov.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00prov.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00prov.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00prov.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,81 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettredumairedep00peti"
+type = "pamphlet"
+title = "Lettre du maire de Paris a ses concitoyens a l'occasion de celle adressée par le roi à la municipalité de Paris."
+language = "fr"
+place = "Paris"
+date = "1792"
+note = "Caption title. Signed: Petion, Paris, le 24 mai, l'an 4me de la liberté. Imprint from colophon. Place of publication from Martin & Walter. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  III, 27046. Scanner's note: No Copyright found. No Table of Contents found. Title on cover. Damaged, stained pages and cover. <br />."
+url = "https://archive.org/details/lettredumairedep00peti"
+subject = [
+    "Pétion, J. (Jérôme), 1756-1794",
+    "Public opinion",
+]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 23588"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3kx0pn3f"
+internet_archive = "lettredumairedep00peti"
+
+[scan]
+file = "lettredumairedep00peti.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettredumairedep00peti"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "Pétion, J. (Jérôme), 1756-1794"
+role = "author"
+
+[[resp]]
+name = "Lottin, Augustin-Martin, 1726-1793"
+role = "publisher"
+
+[[resp]]
+name = "Lottin de Saint Germain, Jean-Roch, b. 1754"
+role = "publisher"
+
+[[resp]]
+name = "De l'imprimerie de Lottin l'aîné, & J.R. Lottin, imprimeurs de la municipalité, rue S.-André-des-Arcs, no 27"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_848485"
+
+[[text]]
+file = "lettredumairedep00peti.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredumairedep00peti.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredumairedep00peti.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredumairedep00peti.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

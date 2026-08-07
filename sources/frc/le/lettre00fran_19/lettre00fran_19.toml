@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettre00fran_19"
+type = "pamphlet"
+title = "Lettre /"
+language = "fr"
+place = "s.l."
+date = "1787"
+note = """Caption title. Without imprint. Dated on p.[2]: Ce 30 ao^ut 1787. "Réponse du Parlement de Bordeaux au Parlement de Toulouse": p.[3]-[4] Dated at end: Ce 5 septembre 1787. Not in Martin & Walter. Scanner's note: Title page located on front cover. No copyright page found. No table-of-contents pages found. Worn, damaged and discolored pages and cover. Skewed text. Uneven binding. No pagination."""
+url = "https://archive.org/details/lettre00fran_19"
+extent = "[4] p. ; 23 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 8739"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1tf4vt6h"
+internet_archive = "lettre00fran_19"
+openlibrary_edition = "OL26213992M"
+openlibrary_work = "OL17609956W"
+
+[scan]
+file = "lettre00fran_19.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettre00fran_19"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Parlement (Toulouse)"
+role = "author"
+
+[[resp]]
+name = "France. Parlement (Bordeaux)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_60385"
+
+[[text]]
+file = "lettre00fran_19.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00fran_19.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00fran_19.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00fran_19.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

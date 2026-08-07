@@ -1,0 +1,100 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettredemduc00unse"
+type = "pamphlet"
+title = "Lettre de M. Du Croisi a Monsieur le Marquis de La Fayette, et réponse de ce Général."
+language = "fr"
+place = "A Paris"
+date = "1789"
+note = """Letters dated September 4 and 5, 1789. "Lettre de M. Du Croisi, citoyen du district des Filles-Dieu, a Monsieur le Marquis de La Fayette, commandant-général de la milice parisienne."--P. [3]-5. "Réponse de Monsieur le Marquis de La Fayette."--P. 5-6. "De l'Imprimerie de la Ve Herissant, rue Neuve Notre-Dame."--P. 6. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  II, 18362. Scanner's note: No copyright page found. No table-of-contents pages found. Title page is on the cover. Damaged, stained, and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/lettredemduc00unse"
+subject = ["Lafayette, Marie Joseph Paul Yves Roch Gilbert Du Motier, marquis de, 1757-1834"]
+extent = "6 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 20311"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t14n4dx6b"
+internet_archive = "lettredemduc00unse"
+openlibrary_edition = "OL26237755M"
+openlibrary_work = "OL17632304W"
+
+[scan]
+file = "lettredemduc00unse.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/lettredemduc00unse"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Du Croisi, 1752-1808"
+role = "author"
+
+[[resp]]
+name = "Lafayette, Marie Joseph Paul Yves Roch Gilbert Du Motier, marquis de, 1757-1834. Réponse de Monsieur le Marquis de La Fayette"
+role = "author"
+
+[[resp]]
+name = "Desenne, Victor"
+role = "publisher"
+
+[[resp]]
+name = "Hérissant, Marie-Nicole, -1798"
+role = "printer"
+
+[[resp]]
+name = "Lafayette, Marie Joseph Paul Yves Roch Gilbert Du Motier, marquis de, 1757-1834. Travail du Comité-Militaire"
+role = "author"
+
+[[resp]]
+name = "Chez Desenne, libraire, au Palais-Royal"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_842687"
+
+[[text]]
+file = "lettredemduc00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredemduc00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredemduc00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredemduc00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredemduc00unse.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredemduc00unse.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

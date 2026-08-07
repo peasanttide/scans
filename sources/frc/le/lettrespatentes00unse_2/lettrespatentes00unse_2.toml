@@ -1,0 +1,92 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettrespatentes00unse_2"
+type = "pamphlet"
+title = "Lettres-patentes du roi, portant sanction du décret de l'Assemblée nationale, concernant le prêt à intérêt : données à Paris le 12 octobre 1789 : registrées en Parlement, en vacations, le 14 desdits mois et an"
+language = "fr"
+place = "A Paris"
+date = "1789"
+note = """Caption title. At right of title: 116. Pr. Signed: Louis; countersigned: De Saint-Priest. Imprint from colophon. Not in Martin & Walter. Révolution française. "Extrait du procès-verbal de l'Assemblée nationale, du samedi trois octobre mil sept cent quatre-vingt-neuf"--P [1]-2. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."""
+url = "https://archive.org/details/lettrespatentes00unse_2"
+subject = ["Usury laws"]
+extent = "3 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9912 no. 4"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9s233g55"
+internet_archive = "lettrespatentes00unse_2"
+openlibrary_edition = "OL26223326M"
+openlibrary_work = "OL17618788W"
+
+[scan]
+file = "lettrespatentes00unse_2.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettrespatentes00unse_2"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Sovereign (1774-1792 : Louis XVI)"
+role = "author"
+
+[[resp]]
+name = "Louis XVI, King of France, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "Saint-Priest, François-Emmanuel Guignard, comte de, 1735-1821"
+role = "author"
+
+[[resp]]
+name = "Prault, Louis-François, 1734-1806"
+role = "publisher"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "France. Parlement (Paris)"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Prault"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_855256"
+
+[[text]]
+file = "lettrespatentes00unse_2.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrespatentes00unse_2.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrespatentes00unse_2.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrespatentes00unse_2.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,70 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lillvstre00unse"
+type = "pamphlet"
+title = "L'Illvstre barbe D.C. : en vers burlesques."
+language = "fr"
+place = "Paris?"
+date = "1649"
+note = '"D.C." is Condé. Cf. Walsh 1677; Moreau Suppl. 1, 101. In verse. According to Moreau this piece appeared during the Rueil Conference, i.e. probably between March 4 and 11, 1649. Cf. Moreau 1677. Moreau. Moreau. Add. Moreau. Suppl. 1.'
+url = "https://archive.org/details/lillvstre00unse"
+subject = [
+    "Condé, Louis, prince de, 1621-1686",
+    "Political satire, French",
+    "Fronde",
+]
+extent = "4 p. ;22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case F 39 .326 1649il"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6k12jp3v"
+internet_archive = "lillvstre00unse"
+
+[scan]
+file = "lillvstre00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lillvstre00unse"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "s.n., 1649?]"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_460120"
+
+[[text]]
+file = "lillvstre00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lillvstre00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lillvstre00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lillvstre00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

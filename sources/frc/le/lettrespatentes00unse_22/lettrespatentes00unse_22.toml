@@ -1,0 +1,88 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettrespatentes00unse_22"
+type = "pamphlet"
+title = "Lettres patentes du roi, sur un décret de l'Assemblée nationale, du 12 septembre 1790, concernant l'ordre & la surveillance à observer pour la perception des droits & impositions indirectes : données à Saint-Cloud, le 21 septembre 1790"
+language = "fr"
+place = "A Beauvais"
+date = "1790"
+note = "Caption title. Signed: Louis; countersigned: Guignard. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."
+url = "https://archive.org/details/lettrespatentes00unse_22"
+subject = ["Tax administration and procedure"]
+extent = "4 p. ; 28 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9912 no. 24"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9479hh3q"
+internet_archive = "lettrespatentes00unse_22"
+openlibrary_edition = "OL26223470M"
+openlibrary_work = "OL17618933W"
+
+[scan]
+file = "lettrespatentes00unse_22.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettrespatentes00unse_22"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Sovereign (1774-1792 : Louis XVI)"
+role = "author"
+
+[[resp]]
+name = "Louis XVI, King of France, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "Saint-Priest, François-Emmanuel Guignard, comte de, 1735-1821"
+role = "author"
+
+[[resp]]
+name = "Desjardins, Pierre-Charles-Denis"
+role = "printer"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de P.C.D. Desjardins, imprimeur du département d'Oise"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_855276"
+
+[[text]]
+file = "lettrespatentes00unse_22.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrespatentes00unse_22.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrespatentes00unse_22.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrespatentes00unse_22.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

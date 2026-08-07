@@ -1,0 +1,55 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: loirelativeaumod00fran_1
+page: 1
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 2964
+h: 4029
+dpi: 350
+---
+
+E. n"® i62o
+
+EZE ( N.® 455. * )
+
+L O I
+
+D.
+
+94^.
+
+Helative au mode de paiement des voitures de marchandises en exécu-
+tion de marchés jfaits et non exécutés avant C abrogation de La Loi
+du maximum.
+
+Du 17 Messidor , an troisième de la République française une et indivisible.
+
+La CoisvENTiON NATioiMALE, après àvoir entendu son comité de
+législation, décrète par addilion à la loi du 24 nivôse dernier :
+
+Art. Le prix des voitures de toutes denrées et marchandises ^
+faites en exécution de marches faits et non encore exécutés avant
+l’abrogation de la Joi du maximum j sera payé pour ce qui restait à
+voiturer, comme celui desdites marchandises ou denrées, au prix que !
+la liberté du commerce leur a donné. ^ q y
+
+IL Tous vendeurs, entrepreneurs d’ouvrages, voituriers, qui justifi-
+eront n’avoir pu s’acquitter, en tout ou en partie, des engagemens
+qu’ils avaient contractés, soit par l’interception des routes, du flottage
+ou navigation des rivières, ou la mise en réquisition de leurs personnes,
+ouvriers, compagnons et voitures, ne peuvent être contraints d’exécuter
+leurs traités qu’au prix actuel des choses.
+
+III. Tous jugemens et procédures contraires aux deux articles
+précédons, sont annullés; et, pour l’exécution de la présente loi, les*
+tribunaux civils et de commerce se conformeront à celle dudit jour
+^4 nivôse dernier.
+
+KLsé. Signé Enjubavlt.
+
+Collationné. Boissy, ex-président ^ Delecloy , J. B. D. Mazade ,
+
+secrétaires.
+
+A Paris, de l’Imprimerie du Dépôt des Lois.

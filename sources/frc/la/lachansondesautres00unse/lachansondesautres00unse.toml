@@ -1,0 +1,61 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lachansondesautres00unse"
+type = "pamphlet"
+title = "La chanson des autres :"
+language = "fr"
+place = "Paris"
+date = "1744"
+note = """Binder's title: Conquest du roy. Inlaid. For unacc. voice. "J'appelle cette chanson la Chanson des autres, parceque j'ay profité de leurs pensées. Heureux si ceux a qui elles appartiennent ne les trouvent pas trop défigurées, pour les reconnôitre! En ce cas, ils ne me scauront pas mauvais gré de les avoir consacrées par le chant. Les paroles et la musique sont du meme."--Avertissement de l'auteur (t.p.). First line: Dans le séjour de la sincerité. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover.  Uneven binding.  Skewed text.  Irregular pagination.  Some page numbers may be altered or defaced."""
+url = "https://archive.org/details/lachansondesautres00unse"
+subject = ["Songs, Unaccompanied"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "E 5 .L92705 v. 07 no. 07"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2h76gd6r"
+internet_archive = "lachansondesautres00unse"
+
+[scan]
+file = "lachansondesautres00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lachansondesautres00unse"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[text]]
+file = "lachansondesautres00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lachansondesautres00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lachansondesautres00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lachansondesautres00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,64 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loiquiordonnelar00fran_2"
+type = "pamphlet"
+title = "Loi qui ordonne la restitution des biens confisqués par suite de jugemens rendus par les tribunaux révolutionnaires depuis le 10 mars 1793, aux parens des condamnés autres que les conspirateurs, émigrés, etc. : du 14 floréal, l'an troisième de la République française"
+language = "fr"
+place = "A Paris"
+date = "1795"
+note = """Caption title. At head of title: (385.*). At right of title: B. no. 142. D. no. 800. "La Convention nationale déclare que ...". Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover. No page numbers."""
+url = "https://archive.org/details/loiquiordonnelar00fran_2"
+subject = ["Remedies (Law)"]
+extent = "[1] p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 28344"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t48q15388"
+internet_archive = "loiquiordonnelar00fran_2"
+openlibrary_edition = "OL26226810M"
+openlibrary_work = "OL17622037W"
+
+[scan]
+file = "loiquiordonnelar00fran_2.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/loiquiordonnelar00fran_2"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_861823"
+
+[[text]]
+file = "loiquiordonnelar00fran_2.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquiordonnelar00fran_2.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

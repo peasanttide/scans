@@ -1,0 +1,93 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettrespatentesd00fra_3h1"
+type = "pamphlet"
+title = "Lettres patentes du roi, concernant les privilèges des conseillers-rapporteurs & des secrétaires-greffiers du point d'honneur : données à Versailles le 24 mars 1786 : registrées en la Cour des aides le 10 mai 1786"
+language = "fr"
+place = "A Paris"
+date = "1786"
+note = """Caption title. "Signé Louis. Et plus bas, par le roi. Le maréchal de Segur"--P. 3. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  Title and cover are combined. Damaged, stained and/or loose pages. Skewed text. The text on the back cover is upside-down."""
+url = "https://archive.org/details/lettrespatentesd00fra_3h1"
+subject = [
+    "France. Tribunal des maréchaux de France",
+    "Clerks of court",
+]
+extent = "3 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC suppl. 90 no. 26"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t52g2xv8m"
+internet_archive = "lettrespatentesd00fra_3h1"
+
+[scan]
+file = "lettrespatentesd00fra_3h1.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettrespatentesd00fra_3h1"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Sovereign (1774-1792 : Louis XVI)"
+role = "author"
+
+[[resp]]
+name = "Louis XVI, King of France, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "Ségur, Alexandre-Joseph-Pierre, vicomte de, 1756-1805"
+role = "author"
+
+[[resp]]
+name = "Simon, P. G. (Pierre-Guillaume), 1722-1787"
+role = "publisher"
+
+[[resp]]
+name = "Nyon, Nicolas-Henri, b. 1751?"
+role = "publisher"
+
+[[resp]]
+name = "France. Cour des aides (Paris)"
+role = "author"
+
+[[resp]]
+name = "Chez P.G. Simon, & N.H. Nyon, imprimeurs du Parlement, rue Mignon"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_861582"
+
+[[text]]
+file = "lettrespatentesd00fra_3h1.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrespatentesd00fra_3h1.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrespatentesd00fra_3h1.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrespatentesd00fra_3h1.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

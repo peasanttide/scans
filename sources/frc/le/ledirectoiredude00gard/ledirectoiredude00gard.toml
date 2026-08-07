@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "ledirectoiredude00gard"
+type = "pamphlet"
+title = "Le directoire du département du Gard aux gardes nationales de son ressort"
+language = "fr"
+place = "A Nismes"
+date = "1791"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages."
+url = "https://archive.org/details/ledirectoiredude00gard"
+subject = ["Gard (France). Garde nationale"]
+extent = "4 p. ; 28 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9831 no. 1"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6sz1dt9p"
+internet_archive = "ledirectoiredude00gard"
+openlibrary_edition = "OL26224062M"
+openlibrary_work = "OL17619518W"
+
+[scan]
+file = "ledirectoiredude00gard.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/ledirectoiredude00gard"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Gard (France). Directoire"
+role = "author"
+
+[[resp]]
+name = "Belle, Castor"
+role = "publisher"
+
+[[resp]]
+name = "Gard (France). Garde nationale"
+role = "author"
+
+[[resp]]
+name = "Chez C. Belle, imprimeur du roi & du département du Gard, rue des Fourbisseurs"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_68810"
+
+[[text]]
+file = "ledirectoiredude00gard.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ledirectoiredude00gard.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ledirectoiredude00gard.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ledirectoiredude00gard.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

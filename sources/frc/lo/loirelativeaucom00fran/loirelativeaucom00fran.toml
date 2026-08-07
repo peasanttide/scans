@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loirelativeaucom00fran"
+type = "pamphlet"
+title = "Loi relative au compte des préposés à l'administration de la liste civile : donnée à Paris, le 18 août 1792, l'an quatrième de la liberté"
+language = "fr"
+place = "A Paris"
+date = "1792"
+note = """Caption title. At head of title: No. 2141. "L'Assemblée nationale, considérant que les circonstances ... "--P. [1]. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover. Only one numbered page."""
+url = "https://archive.org/details/loirelativeaucom00fran"
+subject = [
+    "Civil list",
+    "Finance, Public",
+]
+extent = "2 p. ; 25 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10344 no. 33"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t23c16f4p"
+internet_archive = "loirelativeaucom00fran"
+openlibrary_edition = "OL26230524M"
+openlibrary_work = "OL17625500W"
+
+[scan]
+file = "loirelativeaucom00fran.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loirelativeaucom00fran"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Assemblée nationale législative (1791-1792)"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_858607"
+
+[[text]]
+file = "loirelativeaucom00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativeaucom00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativeaucom00fran.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativeaucom00fran.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

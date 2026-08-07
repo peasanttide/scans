@@ -1,0 +1,71 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "ladministration00uns"
+type = "pamphlet"
+title = "... L'administration du district d'Avignon, aux communes de son arrondissement"
+language = "fr"
+place = "s.l."
+date = "1794"
+note = "Caption title. Without imprint. At head of title: Avignon, le 11 prairial, an deuxieme de la République française [30 mai 1794]. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages.  No page numbers."
+url = "https://archive.org/details/ladministration00uns"
+extent = "[3] p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9393"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6450st2n"
+internet_archive = "ladministration00uns"
+openlibrary_edition = "OL26222199M"
+openlibrary_work = "OL17617700W"
+
+[scan]
+file = "ladministration00uns.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/ladministration00uns"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Avignon (France)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_67283"
+
+[[text]]
+file = "ladministration00uns.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ladministration00uns.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ladministration00uns.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ladministration00uns.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

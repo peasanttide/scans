@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lecitoyenthomasc00coll"
+type = "pamphlet"
+title = "Le citoyen Thomas Collow à la Convention nationale : le civisme du petitionnaire, les services importans qu'il a rendus à sa commune et à son département, son détinéressement particulier pour le bien général, constatés par les pièces jointes à la présente, doivent, selon lui, lui faire accorder sa demande"
+language = "fr"
+place = "A Paris"
+date = "1793"
+note = "Caption title. Dated, p. [3]: Le trois frimaire, deuxieme année de la Republique française .. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française, I, 7986. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover. No page numbers."
+url = "https://archive.org/details/lecitoyenthomasc00coll"
+subject = [
+    "Collow, Thomas",
+    "Aliens",
+]
+extent = "[4] p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 26617"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t30340639"
+internet_archive = "lecitoyenthomasc00coll"
+openlibrary_edition = "OL26226968M"
+openlibrary_work = "OL17622195W"
+
+[scan]
+file = "lecitoyenthomasc00coll.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lecitoyenthomasc00coll"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Collow, Thomas"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie des 86 départemens, rue fauxbourg Poissonniere, no. 2, la seconde porte cochère à droite"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_863401"
+
+[[text]]
+file = "lecitoyenthomasc00coll.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lecitoyenthomasc00coll.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lecitoyenthomasc00coll.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lecitoyenthomasc00coll.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

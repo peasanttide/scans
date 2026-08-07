@@ -1,0 +1,68 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lebouquetduroi00unse"
+type = "pamphlet"
+title = "Le bouquet du roi."
+language = "fr"
+place = "Paris"
+date = "1790"
+note = "Caption title. Imprint from colophon. Martin & Walter IV 2: 2790 (which specifies: Éloge de Louis XVI). Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover."
+url = "https://archive.org/details/lebouquetduroi00unse"
+subject = ["France. Sovereign (1774-1792 : Louis XVI)"]
+extent = "4 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 1481"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t57d7xc45"
+internet_archive = "lebouquetduroi00unse"
+openlibrary_edition = "OL26208646M"
+openlibrary_work = "OL17604917W"
+
+[scan]
+file = "lebouquetduroi00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lebouquetduroi00unse"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Chez Lagrange"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_41045"
+
+[[text]]
+file = "lebouquetduroi00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lebouquetduroi00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lebouquetduroi00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lebouquetduroi00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,87 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettreduministre00terr"
+type = "pamphlet"
+title = "Lettre du ministre de l'intérieur, ecrite à l'administration du département des Bouches du Rhône, le 30 juin 1792, l'an 4e. de le liberté"
+language = "fr"
+place = "A Aix"
+date = "1792"
+note = "Caption title. Signed: Terrier. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text. No title page found. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/lettreduministre00terr"
+subject = [
+    "Military service, Voluntary",
+    "Mobs",
+]
+extent = "3 p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 27229"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3422460n"
+internet_archive = "lettreduministre00terr"
+openlibrary_edition = "OL26229305M"
+openlibrary_work = "OL17624339W"
+
+[scan]
+file = "lettreduministre00terr.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettreduministre00terr"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Terrier de Monciel, Antoine-Marie-René, marquis de,1757-1831"
+role = "author"
+
+[[resp]]
+name = "Terrier de Monciel, Antoine-Marie-René, marquis de, 1757-1831"
+role = "author"
+
+[[resp]]
+name = "France. Ministère de l'intérieur"
+role = "author"
+
+[[resp]]
+name = "Bouches-du-Rhône (France)"
+role = "author"
+
+[[resp]]
+name = "Chez la veuve d'André Adibert, imprimeur du département"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_868153"
+
+[[text]]
+file = "lettreduministre00terr.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettreduministre00terr.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettreduministre00terr.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettreduministre00terr.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

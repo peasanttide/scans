@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loirelativetra01unse"
+type = "pamphlet"
+title = "Loi relative `a la translation du corps de Voltaire dans l'Église de Sainte-Genevi`eve : donnée `a Paris, le 1.er juin 1791"
+language = "fr"
+place = "A Paris"
+date = "1791"
+note = "Caption title. Imprint from colophon. At upper right on p.[1]: N.o 944. Martin & Walter IV 2: 1635. Scanner's note: No copyright page found. No table-of-contents pages found.   Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages."
+url = "https://archive.org/details/loirelativetra01unse"
+subject = ["Voltaire, 1694-1778"]
+extent = "2 p. ; 28 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9340"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3nw4kh4p"
+internet_archive = "loirelativetra01unse"
+openlibrary_edition = "OL26222046M"
+openlibrary_work = "OL17617546W"
+
+[scan]
+file = "loirelativetra01unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loirelativetra01unse"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie royale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_67144"
+
+[[text]]
+file = "loirelativetra01unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativetra01unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativetra01unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativetra01unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

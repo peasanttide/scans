@@ -1,0 +1,82 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettreduroipourl00fran_22"
+type = "pamphlet"
+title = "Lettre du roi pour la convocation des États-généraux, à Versailles, le 27 avril 1789"
+language = "fr"
+place = "A Paris"
+date = "1789"
+note = """Caption title. Signed: Louis; countersigned: Laurent de Villedeuil. Imprint from colophon. Not in Martin & Walter. Révolution française. "Règlement fait par le roi, pour l'exécution, dans le ressort du bailliage d'Ustaritz, pays des Basques, des lettres de convocation aux États-généraux. Du 28 mars 1789"--P. 3-4. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."""
+url = "https://archive.org/details/lettreduroipourl00fran_22"
+subject = ["France. États généraux"]
+extent = "4 p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9910 no. 24"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5fc0620c"
+internet_archive = "lettreduroipourl00fran_22"
+
+[scan]
+file = "lettreduroipourl00fran_22.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettreduroipourl00fran_22"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Sovereign (1774-1792 : Louis XVI)"
+role = "author"
+
+[[resp]]
+name = "Louis XVI, King of France, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "Laurent de Villedeuil, Pierre Charles, 1742-1828"
+role = "author"
+
+[[resp]]
+name = "Imprimerie royale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie royale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_855247"
+
+[[text]]
+file = "lettreduroipourl00fran_22.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettreduroipourl00fran_22.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettreduroipourl00fran_22.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettreduroipourl00fran_22.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

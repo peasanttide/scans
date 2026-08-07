@@ -1,0 +1,83 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettre00unse_dbp"
+type = "pamphlet"
+title = "Lettre de J.H. Moreton-Chabrillan, l'un de plus anciens colonels en activité de l'armée, a M. Du Portail, ministre de la guerre : Paris, le 2 juillet, 1791."
+language = "fr"
+place = "Paris"
+date = "1791"
+note = "Caption title. Imprint from colophon. Place and suggested date of publication based on another edition, published by Volland in 1791. Cf. Martin & Walter. Variant of Martin & Walter. Révolution française, III, 25261. Scanner's note: No copyright page found. No table-of-contents pages found.   Title page is on the cover. Damaged, stained, and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/lettre00unse_dbp"
+subject = [
+    "Moreton-Chabrillan, Jacques Henri Sébastien César, comte de, 1752-1793",
+    "France. Armée",
+]
+extent = "4 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 22919"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1xd6489f"
+internet_archive = "lettre00unse_dbp"
+openlibrary_edition = "OL26237068M"
+openlibrary_work = "OL17631622W"
+
+[scan]
+file = "lettre00unse_dbp.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettre00unse_dbp"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Moreton-Chabrillan, Jacques Henri Sébastien César, comte de, 1752-1793"
+role = "author"
+
+[[resp]]
+name = "Duportail, Antoine-Jean-Louis Le Bègue de Presle, 1743-1802"
+role = "author"
+
+[[resp]]
+name = "Volland, Calixte, active 1787-1808"
+role = "publisher"
+
+[[resp]]
+name = "De l'imprimerie de Calixte Volland, rue des Noyers, no. 38"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_846857"
+
+[[text]]
+file = "lettre00unse_dbp.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00unse_dbp.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00unse_dbp.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00unse_dbp.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

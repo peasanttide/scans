@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "laprisedemantoue00houe"
+type = "pamphlet"
+title = "La prise de Mantoue et la conquête de l'Italie : ode."
+language = "fr"
+place = "Paris"
+date = "1797"
+note = "Caption title. Signed: Par le citoyen Louis Houet, ancien juge de paix de la section Lepelletier, et actuellement président de son Comité de bienfaisance, rue Chabanois, no. 621. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged,stained pages and cover."
+url = "https://archive.org/details/laprisedemantoue00houe"
+subject = ["First Coalition, War of the, 1792-1797"]
+extent = "3 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 19764"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5x68hj5f"
+internet_archive = "laprisedemantoue00houe"
+openlibrary_edition = "OL26203215M"
+openlibrary_work = "OL17599675W"
+
+[scan]
+file = "laprisedemantoue00houe.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/laprisedemantoue00houe"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Houet, Louis"
+role = "author"
+
+[[resp]]
+name = "Pougens, Charles de, 1755-1833"
+role = "publisher"
+
+[[resp]]
+name = "De l'imprimerie de Ch. Pougens, rue Thomas-du-Louvre, no. 246"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_841556"
+
+[[text]]
+file = "laprisedemantoue00houe.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "laprisedemantoue00houe.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "laprisedemantoue00houe.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "laprisedemantoue00houe.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

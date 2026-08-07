@@ -1,0 +1,88 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettrecomte00unse"
+type = "pamphlet"
+title = "Lettre de M. le comte de Saint-Priest, à M. le président du Comité des recherches, à l'Assemblée nationale"
+language = "fr"
+place = "A Paris"
+date = "1789"
+note = "Caption title. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française, IV:1, 30795. Scanner's note: Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text. No title page found. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/lettrecomte00unse"
+subject = [
+    "Saint-Priest, François-Emmanuel Guignard, comte de, 1735-1821",
+    "Mirabeau, Honoré-Gabriel de Riquetti, comte de, 1749-1791",
+    "Food supply",
+]
+extent = "3 p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 27200"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t70w3n104"
+internet_archive = "lettrecomte00unse"
+openlibrary_edition = "OL26229210M"
+openlibrary_work = "OL17624244W"
+
+[scan]
+file = "lettrecomte00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettrecomte00unse"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Saint-Priest, François-Emmanuel Guignard, comte de,1735-1821"
+role = "author"
+
+[[resp]]
+name = "Saint-Priest, François-Emmanuel Guignard, comte de, 1735-1821"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791). Comité des recherches"
+role = "author"
+
+[[resp]]
+name = "Imprimerie royale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie royale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_868125"
+
+[[text]]
+file = "lettrecomte00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrecomte00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrecomte00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrecomte00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

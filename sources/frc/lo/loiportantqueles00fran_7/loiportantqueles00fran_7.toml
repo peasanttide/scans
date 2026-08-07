@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loiportantqueles00fran_7"
+type = "pamphlet"
+title = "Loi portant que les certificats éxigés par celle du 23 messidor, seront délivrés aux créanciers de la commune de Paris par le département : du 23 fructidor, l'an deuxième de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1794"
+note = """Caption title. At head of title: (No. 81*). At right of title: B. no. 56, D. 299. Signed: Barbeau Dubarran, ex-président; Cordier, J. Borie, secrétaires. Imprint from colophon. Not in Martin & Walter. Révolution française. "La Convention nationale ... décrète ..."--P. [1]. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/loiportantqueles00fran_7"
+subject = [
+    "France. Trésorerie nationale",
+    "Debtor and creditor",
+    "Debts, Public",
+]
+extent = "[1] p. ; 28 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10345 no. 50"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2x39xv0j"
+internet_archive = "loiportantqueles00fran_7"
+openlibrary_edition = "OL26229152M"
+openlibrary_work = "OL17624186W"
+
+[scan]
+file = "loiportantqueles00fran_7.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/loiportantqueles00fran_7"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Du Barran, Joseph-Nicolas Barbeau, 1761-1816"
+role = "author"
+
+[[resp]]
+name = "Borie, Jean, 1756-1805"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépot des lois, place de la Réuion, ci-devant du grand-Carrousel"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_860386"
+
+[[text]]
+file = "loiportantqueles00fran_7.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiportantqueles00fran_7.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

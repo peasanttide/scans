@@ -1,0 +1,92 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loirelativelacol00fran"
+type = "pamphlet"
+title = "Loi relative à la colonne qui doit être élevée sur les ruines de la Bastille : donnée à Paris, le 13 juillet 1792, l'an 4e. de la liberté"
+language = "fr"
+place = "A Paris"
+date = "1792"
+note = """Caption title. At right of title: No. 1876. Signed: Louis; countersigned: Dejoly. Imprint from colophon. Variant of Martin & Walter. Révolution française, IV:2, 9143. "Décret de l'Assemblée nationale, du 13 juillet 1792 ..."--P. [1]-2. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/loirelativelacol00fran"
+subject = [
+    "France. Ministère de l'intérieur",
+    "Bastille",
+    "National monuments",
+]
+extent = "2 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10343 no. 75"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t49p86h2s"
+internet_archive = "loirelativelacol00fran"
+openlibrary_edition = "OL26230163M"
+openlibrary_work = "OL17625139W"
+
+[scan]
+file = "loirelativelacol00fran.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loirelativelacol00fran"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Sovereign (1774-1792 : Louis XVI)"
+role = "author"
+
+[[resp]]
+name = "Louis XVI, King of France, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "Joly, Etienne-Louis-Hector de, 1756-1837"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale législative (1791-1792)"
+role = "author"
+
+[[resp]]
+name = "Imprimerie royale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie royale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_857376"
+
+[[text]]
+file = "loirelativelacol00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativelacol00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativelacol00fran.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativelacol00fran.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

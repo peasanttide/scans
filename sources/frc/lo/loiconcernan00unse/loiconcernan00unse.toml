@@ -1,0 +1,94 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loiconcernan00unse"
+type = "pamphlet"
+title = "Loi concernant l'instruction des procédures relatives aux faux assignats : donnée à Paris, le 12 février 1792"
+language = "fr"
+place = "A Paris"
+date = "1792"
+note = """
+Caption title. At right of title: No. 1519. Signed: Louis; countersigned: M.L.F. Du Port. Imprint from colophon. Not in Martin & Walter. Révolution française. "Décret de l'Assemblée nationale, du 9 février 1792 ..."--P. [1]-2. Stamp of Duport's signature and the seal of state. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover. 
+Only one numbered page."""
+url = "https://archive.org/details/loiconcernan00unse"
+subject = [
+    "Assignats",
+    "Courts",
+    "Criminal justice, Administration of",
+]
+extent = "2 p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC suppl. 86 no. 76"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1ck3md28"
+internet_archive = "loiconcernan00unse"
+openlibrary_edition = "OL26235329M"
+openlibrary_work = "OL17629914W"
+
+[scan]
+file = "loiconcernan00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loiconcernan00unse"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Sovereign (1774-1792 : Louis XVI)"
+role = "author"
+
+[[resp]]
+name = "Louis XVI, King of France, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "Duport-Dutertre, Marguerite-Louis-François, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale législative (1791-1792)"
+role = "author"
+
+[[resp]]
+name = "Imprimerie royale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie royale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_862035"
+
+[[text]]
+file = "loiconcernan00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiconcernan00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiconcernan00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiconcernan00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

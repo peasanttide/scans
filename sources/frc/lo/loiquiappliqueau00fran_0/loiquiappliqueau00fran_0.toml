@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loiquiappliqueau00fran_0"
+type = "pamphlet"
+title = "Loi qui applique aux officiers et fonctionnaires militaires qui, sans permission, retireront un militaire d'un bataillon pour l'employer dans leurs bureaux, la peine prononcée par l'article XX de la quatrième section de la loi du 12 mai 1793 : du 13 brumaire, l'an troisième de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1794"
+note = """Caption title. At head of title: (No. 153*). At right of title: B. no. 81, D. 427. Signed: Cambacérès, ex-président; Eschausseriaux jeune, Goujon, secrétaires. Imprint from colophon. Not in Martin & Walter. Révolution française. "La Convention nationale ... décrète ..."--P. [1]. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/loiquiappliqueau00fran_0"
+subject = [
+    "France. Armée",
+    "Military discharge",
+    "Military law",
+]
+extent = "[1] p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10345 no. 85"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4bp57c2k"
+internet_archive = "loiquiappliqueau00fran_0"
+openlibrary_edition = "OL26229230M"
+openlibrary_work = "OL17624264W"
+
+[scan]
+file = "loiquiappliqueau00fran_0.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/loiquiappliqueau00fran_0"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Cambacérès, Jean Jacques Régis de, 1753-1824"
+role = "author"
+
+[[resp]]
+name = "Eschassériaux, René, 1754-1831"
+role = "author"
+
+[[resp]]
+name = "Goujon, Jean-Marie-Claude-Alexandre, 1766-1795"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépot des lois, place de la Réunion, ci-devant grand-Carrousel"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_860421"
+
+[[text]]
+file = "loiquiappliqueau00fran_0.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquiappliqueau00fran_0.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

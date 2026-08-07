@@ -1,0 +1,67 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loiportantquelad00fran"
+type = "pamphlet"
+title = "Loi portant que la destination des subsistances et autres objets d'approvisionnement appartenant à la République, ne pourra être changée que par arrêté du Comité de salut public : du 7 ventose, l'an troisième de la République française"
+language = "fr"
+place = "A Paris"
+date = "1795"
+note = """Caption title. At head of title: (No. 298.*). At right of ittle: B. no. 127. D. no. 669. "La Convention nationale ... décrète que ...". Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover. No page numbers."""
+url = "https://archive.org/details/loiportantquelad00fran"
+subject = [
+    "France. Convention nationale. Comité de salut public",
+    "Food supply",
+]
+extent = "[1] p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10346 no. 3"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t87h6r61w"
+internet_archive = "loiportantquelad00fran"
+openlibrary_edition = "OL26230599M"
+openlibrary_work = "OL17625575W"
+
+[scan]
+file = "loiportantquelad00fran.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/loiportantquelad00fran"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Depot des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_861769"
+
+[[text]]
+file = "loiportantquelad00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiportantquelad00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

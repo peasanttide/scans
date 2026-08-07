@@ -1,0 +1,69 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettrecontenantc00unse"
+type = "pamphlet"
+title = "Lettre contenant ce qvi s'est passé en l'assemblée du Parlement, depuis le dimanche & lundy quatorze & quinziesme mars mil six cens quarante-neuf, sur le sujet des articles signées à Ruel."
+language = "fr"
+place = "A Paris"
+date = "1649"
+note = "Commentary on the discussion of the peace treaty. Title page device. Signed, p. 4: Vostre tres-affectionné seruiteur ... A Paris le Lundy au soir 15. Mars 1649. Moreau."
+url = "https://archive.org/details/lettrecontenantc00unse"
+subject = [
+    "France",
+    "Fronde",
+]
+extent = "4 p. ;22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case F 39 .326 1649Le"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1nh04291"
+internet_archive = "lettrecontenantc00unse"
+
+[scan]
+file = "lettrecontenantc00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettrecontenantc00unse"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Chez la veufue d'Anthoine Covlon ..., 1649"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_509112"
+
+[[text]]
+file = "lettrecontenantc00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrecontenantc00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrecontenantc00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrecontenantc00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

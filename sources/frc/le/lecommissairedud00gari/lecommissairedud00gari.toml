@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lecommissairedud00gari"
+type = "pamphlet"
+title = "Le commissaire du Directoire exécutif près l'administration centrale du département du Mont-Blanc, aux citoyens commissaires du Directoire exécutif près les administrations municipales de ce département"
+language = "fr"
+place = "Chambery"
+date = "1796"
+note = "Caption title. At head of title: Liberté, égalité. Chambery, le 15 germinal, an 4e. de la République française, une et indivisible. Signed: A. Garin, excusant le commissaire. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/lecommissairedud00gari"
+subject = ["Escaped prisoners"]
+extent = "3 p. ; 25 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 26751"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0ns5wd14"
+internet_archive = "lecommissairedud00gari"
+openlibrary_edition = "OL26226262M"
+openlibrary_work = "OL17621528W"
+
+[scan]
+file = "lecommissairedud00gari.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lecommissairedud00gari"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Garin, A"
+role = "author"
+
+[[resp]]
+name = "Chez Gorrin, père et fils, imprimeurs du département"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_868321"
+
+[[text]]
+file = "lecommissairedud00gari.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lecommissairedud00gari.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lecommissairedud00gari.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lecommissairedud00gari.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

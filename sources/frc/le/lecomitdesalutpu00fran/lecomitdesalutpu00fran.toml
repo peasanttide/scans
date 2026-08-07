@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lecomitdesalutpu00fran"
+type = "pamphlet"
+title = "... Le Comité de salut public aux autorités civiles et militaires, et a tous les citoyens."
+language = "fr"
+place = "A Macon"
+date = "1795"
+note = "Caption title. Imprint from colophon. At head of title: République française. Proclamation du 21 floréal, l'an troisième de la République française, une et indivisible [10 mai 1795]. Martin & Walter IV 2: 4324 (which specifies: Pour les mettre en garde contre des lettres qui lui sont faussement attribuées) [edition 3: Macon imprint]. Scanner's note: No copyright page found. No table-of-contents pages found. Damaged, stained pages and cover. Title on cover page."
+url = "https://archive.org/details/lecomitdesalutpu00fran"
+extent = "3 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 2225"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t75t8qs8f"
+internet_archive = "lecomitdesalutpu00fran"
+openlibrary_edition = "OL26218824M"
+openlibrary_work = "OL17614516W"
+
+[scan]
+file = "lecomitdesalutpu00fran.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lecomitdesalutpu00fran"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale. Comité de salut public"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale. Comité de salut public"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de P.M. Saphoux"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_50333"
+
+[[text]]
+file = "lecomitdesalutpu00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lecomitdesalutpu00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lecomitdesalutpu00fran.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lecomitdesalutpu00fran.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

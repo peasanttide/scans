@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettreducitoyenp00pach"
+type = "pamphlet"
+title = "Lettre du citoyen Pache, maire de Paris, aux départemens qui voudroient faire marcher une force armée contre cette ville."
+language = "fr"
+place = "Paris"
+date = "1793"
+note = "Caption title. Imprint from colophon. Suggested date of publication from ms. note on copy held by the British Museum. Cf. Tourneux. Martin & Walter. Révolution française. Tourneux, M. Paris pendant la Révolution française. Bibliography: Martin & Walter.  Révolution française,  III, 26232. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined.  Uneven binding. Skewed text.  Damaged, stained, and/or loose pages."
+url = "https://archive.org/details/lettreducitoyenp00pach"
+subject = ["Insurgency"]
+extent = "4 p. ; 18 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 23335"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1qg3xt2f"
+internet_archive = "lettreducitoyenp00pach"
+openlibrary_edition = "OL26236511M"
+openlibrary_work = "OL17631061W"
+
+[scan]
+file = "lettreducitoyenp00pach.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettreducitoyenp00pach"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Pache, Jean-Nicholas, 1746-1823"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie Guillaume et Pougin, rue de la Michodière, no. 3"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_847617"
+
+[[text]]
+file = "lettreducitoyenp00pach.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettreducitoyenp00pach.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettreducitoyenp00pach.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettreducitoyenp00pach.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

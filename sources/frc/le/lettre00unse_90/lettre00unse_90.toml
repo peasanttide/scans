@@ -1,0 +1,84 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettre00unse_90"
+type = "pamphlet"
+title = "Lettre de Merlin (de Thionville), au président de la Convention nationale : imprimée par ordre de la Convention nationale."
+language = "fr"
+place = "A Paris"
+date = "1793"
+note = """Caption title. At head of title: Convention nationale. Imprint from colophon. Dated, p. [1]: Le 6 janvier 1793, l'an 2 de la République. "Législation. (No. 257.)"--Bottom of p. [1]. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  III, 24092. Scanner's note: Title page and cover are combined. Damaged, stained, marked and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/lettre00unse_90"
+subject = ["Louis XVI, King of France, 1754-1793"]
+extent = "3 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 22396"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t84j5rq3m"
+internet_archive = "lettre00unse_90"
+openlibrary_edition = "OL26240530M"
+openlibrary_work = "OL17635053W"
+
+[scan]
+file = "lettre00unse_90.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettre00unse_90"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Merlin de Thionville, Antoine-Christophe, 1762-1833"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "Louis XVI Trial and Execution Collection (Newberry Library) ICN"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_843902"
+
+[[text]]
+file = "lettre00unse_90.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00unse_90.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00unse_90.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00unse_90.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loiportantetabli00fran_6"
+type = "pamphlet"
+title = "Loi portant établissement d'un bureau pour la conservation, location et vente des meubles et immeubles ntionaux, dans le département de Paris : du 29 fructidor, l'an deuxième de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1794"
+note = """Caption title. At head of title: (No. 88-2*). At right of title: B. no. 59, D. 320. Signed: Merlin (de Thionville), président; J. Borie, Cordier, Reynaud, secrétaires. Imprint from colophon. Not in Martin & Walter. Révolution française. "La Convention nationale ... décrète ..."--P. [1]. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/loiportantetabli00fran_6"
+subject = [
+    "Confiscations",
+    "Government sale of real property",
+    "Refugee property",
+]
+extent = "2 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10345 no. 52"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3vt6sv52"
+internet_archive = "loiportantetabli00fran_6"
+openlibrary_edition = "OL26229922M"
+openlibrary_work = "OL17624953W"
+
+[scan]
+file = "loiportantetabli00fran_6.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/loiportantetabli00fran_6"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Merlin de Thionville, Antoine-Christophe, 1762-1833"
+role = "author"
+
+[[resp]]
+name = "Borie, Jean, 1756-1805"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois, place de la Réunion, ci-devant du grand Carrousel"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_860388"
+
+[[text]]
+file = "loiportantetabli00fran_6.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiportantetabli00fran_6.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

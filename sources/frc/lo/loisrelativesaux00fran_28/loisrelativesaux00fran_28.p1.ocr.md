@@ -1,0 +1,67 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: loisrelativesaux00fran_28
+page: 1
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 3005
+h: 4034
+dpi: 350
+---
+
+(N*. 234.*)
+
+LOIS
+
+ï. n°. 107,
+
+D.
+
+FvELATIVES .'AUX GRAINS ET FARIISE S,
+
+LOI (jUL> ! apporte L cifticte cidclùtiormeL a celle clib 4- N lvôsb ^Lit
+
+I abolition du maximum.
+
+L
+
+Du 14 Nivôse 5 l’aa troisième de la République Trançaisa , une et indivisible.
+
+(a Convention n ation ale décrète, après avoir entendu le rajDport de
+ion comité de salut public , que l’article additionnel à la loi du 4 nivôse, dont la
+teneur suit ,
+
+« Nul ne pourra se refuser aux réquisitions portées par les articles III et Vde-
+5) la loi du 4 nivôse, à moins qu’il ne justifie qu’il ne possède pas de grains ou
+» farints au-delà d@ sa eonsommation pendant six mois, et ce, à peine de con-
+fiscation de§ grains ou farines excédant ses besoins pendant cetemps » ,
+
+Est rapporté ; et renvoie la proposition qui lui avait été faite de cet article, par
+-un de ses membres, à ses trois comités de salut public, des- finances et de couif
+
+merce.
+
+Visé par Le représentant da peuple , inspecteur auac
+procès-verbaux. Signé Viqvr.
+
+Collationné à l’original par nous président et secrétaires de la Convention nationale.
+A Paris, le 17 Nivôse , an troisième de la République française , une et indi-
+visible. Signé CLAüzEr., ex-président,' Girot ( du Puy-de-Dôme), De Toua.-
+NEUR (de la Manche), secrétaires.
+
+bii2.
+
+C
+
+p.a -
+
+îC7_
+
+LOI qui abolit toutes procédures commencées à raison de transports
+de grabis ou de farines , sans acquot-à-cautlon , dans I Intérieur^' ^
+de la République et à deux lieues des frontières. ‘ j)
+
+Du 14 Nivôse, l’an troisième de la République française, use et indivisible.
+
+La Convention nationale, après avoir entendu le rapport de son comité de lé-
+gislation ^ décrète cju® toutes les procédures commencées à raison de transports de

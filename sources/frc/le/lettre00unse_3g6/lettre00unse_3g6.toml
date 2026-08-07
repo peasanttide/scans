@@ -1,0 +1,81 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettre00unse_3g6"
+type = "pamphlet"
+title = "Lettre de M. le comte de Montmorin a M. Le Chapelier, président de l'Assemblée nationale : Versailles, le 4 août 1789."
+language = "fr"
+place = "A Versailles"
+date = "1789"
+note = """
+Caption title. Imprint from colophon. Martin & Walter. Révolution française. "Lettre de M. le duc de Dorset, ambassadeur d'Angleterre, a M. le comte de Montmorin, ministre et secrétaire d'Etat au départment des affaires étrangères. Paris, le 3 août 1790"--2 p. at end. Affirms Britain's goodwill towards France. Bibliography: Martin & Walter.  Révolution française,  III, 25059. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover. 
+Only one numbered page."""
+url = "https://archive.org/details/lettre00unse_3g6"
+extent = "[2], 2 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 22822"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6353w64m"
+internet_archive = "lettre00unse_3g6"
+openlibrary_edition = "OL26236556M"
+openlibrary_work = "OL17631107W"
+
+[scan]
+file = "lettre00unse_3g6.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettre00unse_3g6"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Montmorin-Saint-Hérem, Armand-Marc, comte de, 1745-1792"
+role = "author"
+
+[[resp]]
+name = "Le Chapelier, Isaac-René-Guy, 1754-1794"
+role = "author"
+
+[[resp]]
+name = "Dorset, John Frederick Sackville, Duke of, 1745-1799. Lettre de M. le duc de Dorset, ambassadeur d'Angleterre, à M. le comte de Montmorin, ministre et secrétaire d'Etat au départment des affaires étrangères"
+role = "author"
+
+[[resp]]
+name = "Chez Baudouin, imprimeur de l'Assemblée nationale, avenue de Saint-Cloud, no. 69"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_846862"
+
+[[text]]
+file = "lettre00unse_3g6.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00unse_3g6.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00unse_3g6.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00unse_3g6.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

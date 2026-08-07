@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettredemlemaire00anto"
+type = "pamphlet"
+title = "Lettre de M. le maire d'Arles à la municipalité d'Avignon : servant de réponse aux basses calomnies des députés de l'assemblée de Carpentras, soi-disans députés du comtat Venaissin."
+language = "fr"
+place = "A Paris"
+date = "1790"
+note = 'Caption title. Imprint from colophon. "29 octobre 1790"--P. 3. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  I, 375.'
+url = "https://archive.org/details/lettredemlemaire00anto"
+subject = [
+    "Secession",
+    "Counterrevolutionaries",
+]
+extent = "3 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 13534"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5p890t28"
+internet_archive = "lettredemlemaire00anto"
+openlibrary_edition = "OL25926403M"
+openlibrary_work = "OL17349032W"
+
+[scan]
+file = "lettredemlemaire00anto.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettredemlemaire00anto"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Antonelle, Pierre Antoine, marquis d', 1747-1817"
+role = "author"
+
+[[resp]]
+name = "Arles (France)"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Lejay fils, rue de l'Echelle Saint-Honoré"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_828739"
+
+[[text]]
+file = "lettredemlemaire00anto.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredemlemaire00anto.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredemlemaire00anto.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredemlemaire00anto.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

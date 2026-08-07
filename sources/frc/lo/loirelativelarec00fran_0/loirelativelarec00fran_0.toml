@@ -1,0 +1,64 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loirelativelarec00fran_0"
+type = "pamphlet"
+title = "Loi relative à la recréation des pensions affectées sur tous corps, corporations et établissemens quelconques supprimés : du 16 germinal, l'an troisième de la Républiue française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1795"
+note = """Caption title. At head of title: (351.*). At right of title: B. no. 134. D. no. 742. "La Convention nationale ... décrète ...". Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover. No page numbers."""
+url = "https://archive.org/details/loirelativelarec00fran_0"
+subject = ["Pensions"]
+extent = "[1] p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 28334"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6353sf31"
+internet_archive = "loirelativelarec00fran_0"
+openlibrary_edition = "OL26227390M"
+openlibrary_work = "OL17622619W"
+
+[scan]
+file = "loirelativelarec00fran_0.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/loirelativelarec00fran_0"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_861798"
+
+[[text]]
+file = "loirelativelarec00fran_0.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativelarec00fran_0.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

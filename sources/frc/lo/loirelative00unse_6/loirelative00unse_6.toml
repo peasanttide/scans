@@ -1,0 +1,89 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loirelative00unse_6"
+type = "pamphlet"
+title = "Loi relative à l'échange des billets de la Caisse d'escompte contre des assignats : donnée à Paris, le 15 mars 1791"
+language = "fr"
+place = "A Paris"
+date = "1791"
+note = """Caption title. At head of title: No. 653. "L'Assemblée nationale a décrété, & nous voulons & ordonnons ce qui suit"--P. [1]. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, stained and/or loose pages Skewed text. Uneven binding. Title and cover page are combined."""
+url = "https://archive.org/details/loirelative00unse_6"
+subject = [
+    "Caisse d'escompte (France)",
+    "Assignats",
+    "Finance, Public",
+    "Banks and banking",
+]
+extent = "2 p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC suppl. 84 no. 14"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t74v1t62j"
+internet_archive = "loirelative00unse_6"
+openlibrary_edition = "OL26234725M"
+openlibrary_work = "OL17629311W"
+
+[scan]
+file = "loirelative00unse_6.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loirelative00unse_6"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Sovereign (1774-1792 : Louis XVI)"
+role = "author"
+
+[[resp]]
+name = "Louis XVI, King of France, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "Imprimerie royale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie royale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_861114"
+
+[[text]]
+file = "loirelative00unse_6.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelative00unse_6.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelative00unse_6.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelative00unse_6.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

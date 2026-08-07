@@ -1,0 +1,64 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loiquirapportece00fran_6"
+type = "pamphlet"
+title = "Loi qui rapporte celle qui a déclaré marchandise l'or et l'argent monnayés : du 2 prairial, an troisième de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1795"
+note = """Caption title. At head of title: (No. 399 bis.*). At right of title: B. no. 145. D. no. 825. "La Convention nationale rapporte ...". Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover. No page numbers."""
+url = "https://archive.org/details/loiquirapportece00fran_6"
+subject = ["Monetary policy"]
+extent = "[1] p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 28343"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0dv6p63t"
+internet_archive = "loiquirapportece00fran_6"
+openlibrary_edition = "OL26226665M"
+openlibrary_work = "OL17621899W"
+
+[scan]
+file = "loiquirapportece00fran_6.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/loiquirapportece00fran_6"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Depot des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_861834"
+
+[[text]]
+file = "loiquirapportece00fran_6.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquirapportece00fran_6.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

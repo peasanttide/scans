@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lerepresentantdu00guio"
+type = "pamphlet"
+title = "Le représentant du peuple envoyé près l'Armée du nord, aux citoyens composant la société populaire de la commune de Douai : Lille, le 4 prairial, l'an deuxième de la République, une et indivisible"
+language = "fr"
+place = "A Douai"
+date = "1794"
+note = "Caption title. Signed: Florent Guiot. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover."
+url = "https://archive.org/details/lerepresentantdu00guio"
+subject = [
+    "Political clubs",
+    "Sansculottes",
+]
+extent = "3 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 26788"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2h75jp0w"
+internet_archive = "lerepresentantdu00guio"
+openlibrary_edition = "OL26227151M"
+openlibrary_work = "OL17622378W"
+
+[scan]
+file = "lerepresentantdu00guio.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lerepresentantdu00guio"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Guiot, Florent,1755-1834"
+role = "author"
+
+[[resp]]
+name = "Guiot, Florent, 1755-1834"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Carpentier, imprimeur"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_868390"
+
+[[text]]
+file = "lerepresentantdu00guio.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lerepresentantdu00guio.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lerepresentantdu00guio.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lerepresentantdu00guio.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

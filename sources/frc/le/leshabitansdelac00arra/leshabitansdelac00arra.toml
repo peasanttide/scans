@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "leshabitansdelac00arra"
+type = "pamphlet"
+title = "Les habitans de la commune d'Arras, soussignés : a la Convention nationale."
+language = "fr"
+place = "A Arras"
+date = "1795"
+note = "Caption title. Imprint from colophon. Dated at end: A Arras, le trente ventose, l'an troisième de la République française, une et indivisible [20 mars 1795]. About Joseph Le Bon. Martin & Walter IV 2: 7400. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover page.  Uneven binding.  Damaged, stained and/or loose pages.  Skewed text."
+url = "https://archive.org/details/leshabitansdelac00arra"
+subject = ["Le Bon, Joseph, 1765-1795"]
+extent = "3 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 4213"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/txxxxxxxx"
+internet_archive = "leshabitansdelac00arra"
+openlibrary_edition = "OL26212640M"
+openlibrary_work = "OL17608622W"
+
+[scan]
+file = "leshabitansdelac00arra.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/leshabitansdelac00arra"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Arras (France). Citizens"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie du citoyen Leducq"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_48009"
+
+[[text]]
+file = "leshabitansdelac00arra.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "leshabitansdelac00arra.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "leshabitansdelac00arra.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "leshabitansdelac00arra.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

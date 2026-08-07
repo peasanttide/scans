@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "letterchapterpre00unse"
+type = "pamphlet"
+title = "[Letter to chapter presidents of Club des Jacobins promoting Tableau d'un collège en activité]"
+language = "fr"
+place = "Bar-le-Duc"
+date = "1791"
+note = "At head of text: Bar-le-Duc, le 20 fevrier 1791. Signed, in ms.: Major J.F. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover. No page numbers."
+url = "https://archive.org/details/letterchapterpre00unse"
+subject = [
+    "Major, Jean François, 1758-1841",
+    "Public schools",
+    "Education and state",
+]
+extent = "[3] p. ; 24 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 26964"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7pp47f02"
+internet_archive = "letterchapterpre00unse"
+openlibrary_edition = "OL26226779M"
+openlibrary_work = "OL17622008W"
+
+[scan]
+file = "letterchapterpre00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/letterchapterpre00unse"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Major, J. F"
+role = "author"
+
+[[resp]]
+name = "Club des Jacobins"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_865561"
+
+[[text]]
+file = "letterchapterpre00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "letterchapterpre00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "letterchapterpre00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "letterchapterpre00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

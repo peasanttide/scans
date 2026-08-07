@@ -1,0 +1,10 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: loirelativeauxju00fran_8
+page: 4
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 3156
+h: 4297
+dpi: 350
+---

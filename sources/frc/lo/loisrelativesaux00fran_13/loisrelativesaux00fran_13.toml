@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loisrelativesaux00fran_13"
+type = "pamphlet"
+title = "Lois relatives aux individus inscrits sur la liste des émigrés, et aux créanciers viagers et pensionnaires des émigrés : du 1er fructidor, an troisième de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1795"
+note = """Caption title. At head of title: (No. 499.*). "La Convention nationale ... décrète ..."--P. [1]. Imprint from colophon. Not in Martin & Walter. Révolution française. 1o. Loi relative aux individus qui, portés sur la liste des émigrés n'ont point encore obtenu leur radiation définitive : du premier fructidor, an III : B. no. 171. D. no. 1026 -- 2o. Loi qui applique aux créanciers viagers et pensionnaires d'émigrés et autres dont les biens sont frappés de confiscation, diverses dispositions de la loi du 8 floréal dernier : du 1er. fructidor, an troisième de la République française, une et indivisible : B. no. 174. D. no. 1041. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/loisrelativesaux00fran_13"
+subject = [
+    "Debtor and creditor",
+    "Refugees",
+    "Refugee property",
+]
+extent = "3 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10346 no. 136"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0cv9ns7s"
+internet_archive = "loisrelativesaux00fran_13"
+openlibrary_edition = "OL26230332M"
+openlibrary_work = "OL17625308W"
+
+[scan]
+file = "loisrelativesaux00fran_13.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loisrelativesaux00fran_13"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_861902"
+
+[[text]]
+file = "loisrelativesaux00fran_13.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loisrelativesaux00fran_13.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loisrelativesaux00fran_13.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loisrelativesaux00fran_13.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

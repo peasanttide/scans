@@ -1,0 +1,78 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loiquirecommande00fran"
+type = "pamphlet"
+title = "Loi qui recommande à la surveillance de tous les bons citoyens les bibliothèques et tous les autres monumens nationaux des sciences et d'arts : du 14 fructidor, l'an deuxième de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1794"
+note = """Caption title. At head of title: (No. 73*--1). At right of title: B. no. 50, D. 270. Signed: Merlin (de Thionville), président; Lecointre, Guffroy, secrétaires. Imprint from colophon. Not in Martin & Walter. Révolution française. "La Convention nationale ... décrète ..."--P. [1]. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/loiquirecommande00fran"
+subject = [
+    "National libraries",
+    "Public institutions",
+    "Archival materials",
+]
+extent = "2 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10345 no. 43"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5n92d90x"
+internet_archive = "loiquirecommande00fran"
+
+[scan]
+file = "loiquirecommande00fran.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/loiquirecommande00fran"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Merlin de Thionville, Antoine-Christophe, 1762-1833"
+role = "author"
+
+[[resp]]
+name = "Guffroy, A. B. J. (Armand Benoît Joseph), 1740-1800"
+role = "author"
+
+[[resp]]
+name = "Lecointre, Laurent, d. 1805"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépot des lois, place de la Réunion, ci-devant gaand-Carrousel [sic]"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_860379"
+
+[[text]]
+file = "loiquirecommande00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquirecommande00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

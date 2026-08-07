@@ -1,0 +1,112 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettre00unse_fzs"
+type = "pamphlet"
+title = "Lettre de M. le duc d'Orléans a M. le président de l'Assemblée nationale, reçue le 18 février 1790."
+language = "fr"
+place = "A Marseille"
+date = "1790"
+note = """Caption title. Imprint from colophon. "Sur l'imprimé de Paris"--Colophon. "Adresse de la garde nationale de Rouen, a l'Assemblée nationale"--P. 4-8. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  III, 26081. Scanner's note: No copyright page found. No table-of-contents pages found. Title page is on the cover. Damaged, stained, and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/lettre00unse_fzs"
+subject = [
+    "Orléans, Louis Philippe Joseph, duc d', 1747-1793",
+    "France. Assemblée nationale constituante (1789-1791)",
+    "Loyalty oaths",
+]
+extent = "8 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 23274"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2993g747"
+internet_archive = "lettre00unse_fzs"
+openlibrary_edition = "OL26237548M"
+openlibrary_work = "OL17632097W"
+
+[scan]
+file = "lettre00unse_fzs.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/lettre00unse_fzs"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Orléans, Louis Philippe Joseph, duc d', 1747-1793"
+role = "author"
+
+[[resp]]
+name = "Favet, Pierre-Antoine"
+role = "publisher"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "Rouen (France). Garde nationale"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de P.A. Favet, imprimeur du roi & de la ville, rue du Pavillon"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_847460"
+
+[[text]]
+file = "lettre00unse_fzs.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00unse_fzs.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00unse_fzs.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00unse_fzs.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00unse_fzs.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00unse_fzs.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00unse_fzs.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00unse_fzs.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

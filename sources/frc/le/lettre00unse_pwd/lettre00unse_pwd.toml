@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettre00unse_pwd"
+type = "pamphlet"
+title = "Lettre de M. Mourraille, en réponse à celle de M. Martin, a la Société des amis de la constitution."
+language = "fr"
+place = "A Marseille"
+date = "1792"
+note = "Caption title. At head of title: Vive la nation. Signed: Mourraille, maire de Marseille. Imprint from colophon. Dated at end: 23 janvier 1792. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover."
+url = "https://archive.org/details/lettre00unse_pwd"
+subject = [
+    "Martin, Étienne, 1745-1834",
+    "Mourraille, Jean-Raymond, 1721-1808",
+    "Libel and slander",
+]
+extent = "4 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 23040"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0cv9qz6c"
+internet_archive = "lettre00unse_pwd"
+openlibrary_edition = "OL26236326M"
+openlibrary_work = "OL17630867W"
+
+[scan]
+file = "lettre00unse_pwd.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettre00unse_pwd"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Mourraille, Jean-Raymond, 1721-1808"
+role = "author"
+
+[[resp]]
+name = "Société des amis de la constitution (Marseille, France)"
+role = "author"
+
+[[resp]]
+name = "Chez Rochebrun et Mazet, imprimeurs de la nation et des amis de la constitution"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_847323"
+
+[[text]]
+file = "lettre00unse_pwd.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00unse_pwd.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00unse_pwd.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00unse_pwd.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

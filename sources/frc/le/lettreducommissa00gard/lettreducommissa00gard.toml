@@ -1,0 +1,83 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettreducommissa00gard"
+type = "pamphlet"
+title = "Lettre du commissaire central du Directoire exécutif près l'Administration des postes, concernant la franchise des paquets des administrations, des tribunaux criminel & des juges de paix : le commissaire central du Directoire exécutif près l'Administration des postes, a l'administration centrale du département de la Côte-d'Or"
+language = "fr"
+place = "France"
+date = "1798"
+note = """Caption title. Signed, p. [3]: Gardin. Dated at end: Du 2 thermidor an 6 de la République française. Not in Martin & Walter. Révolution française. "L'administration centrale du département de la Côte-d'Or, aux administrations municipales de son ressort, & aux commissaires du Directoire exécutif près elles, au président du tribunal criminel, aux commissaires du Directoire exécutif près les tribunaux civil & criminel, et aux juges de paix du département"--P. [3]-[4]. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/lettreducommissa00gard"
+subject = [
+    "Postal service",
+    "Legal correspondence",
+]
+extent = "[4] p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 26750"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7fr5143w"
+internet_archive = "lettreducommissa00gard"
+openlibrary_edition = "OL26226489M"
+openlibrary_work = "OL17621756W"
+
+[scan]
+file = "lettreducommissa00gard.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettreducommissa00gard"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Gardin,18th cent"
+role = "author"
+
+[[resp]]
+name = "Gardin, 18th cent"
+role = "author"
+
+[[resp]]
+name = "Côte-d'Or (France). Administration centrale"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_868320"
+
+[[text]]
+file = "lettreducommissa00gard.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettreducommissa00gard.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettreducommissa00gard.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettreducommissa00gard.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

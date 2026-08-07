@@ -1,0 +1,67 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loirelativeauxho00fran_0"
+type = "pamphlet"
+title = "Loi relative aux honneurs à rendre aux militaires blessés dans les combats : du troisième jour complémentaire de l'an IV de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1796"
+note = """Caption title. At head of title: No. 309. Au nom de la République française. At right of title: B. 77. No. 709. Imprint from colophon. "No. 6"--Bottom of p. [1]. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover. Only one numbered page."""
+url = "https://archive.org/details/loirelativeauxho00fran_0"
+subject = [
+    "Disabled veterans",
+    "Military ceremonies, honors, and salutes",
+]
+extent = "2 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10348 no. 48"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3jx3hs9w"
+internet_archive = "loirelativeauxho00fran_0"
+openlibrary_edition = "OL26229449M"
+openlibrary_work = "OL17624483W"
+
+[scan]
+file = "loirelativeauxho00fran_0.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/loirelativeauxho00fran_0"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépot des lois, place du Carrouzel"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_859174"
+
+[[text]]
+file = "loirelativeauxho00fran_0.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativeauxho00fran_0.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

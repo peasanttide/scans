@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettrelauteurdel00proc"
+type = "pamphlet"
+title = "Lettre a l'auteur de l'Ami du roi : Paris, ce 16 février 1791."
+language = "fr"
+place = "s.l."
+date = "1791"
+note = "Caption title. Without imprint. Signed at end: Par les procureurs, toujours au Parlement de Paris. Not in Martin & Walter. Scanner's note: No title page found. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/lettrelauteurdel00proc"
+subject = ["Ami du roi"]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 4527"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t33250g88"
+internet_archive = "lettrelauteurdel00proc"
+openlibrary_edition = "OL26211219M"
+openlibrary_work = "OL17607294W"
+
+[scan]
+file = "lettrelauteurdel00proc.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettrelauteurdel00proc"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Procureurs, toujours au Parlement de Paris"
+role = "author"
+
+[[resp]]
+name = "France. Parlement (Paris)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_53036"
+
+[[text]]
+file = "lettrelauteurdel00proc.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrelauteurdel00proc.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrelauteurdel00proc.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrelauteurdel00proc.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

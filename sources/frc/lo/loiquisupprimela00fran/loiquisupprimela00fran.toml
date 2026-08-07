@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loiquisupprimela00fran"
+type = "pamphlet"
+title = "Loi qui supprime la dénomination de chirurgien-major, qui était donnée aux officiers de santé attachés aux corps : du 9 messidor, l'an deuxième de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1794"
+note = """Caption title. At head of title: (No. 20*). At right of title: B. no. 11, D. 56. Signed, p. [1]: Élie Lacoste, président; Briez et Michaud, secrétaires. Imprint from colophon. Not in Martin & Walter. Révolution française. "La Convention nationale ... décrète..."--P. [1]. "Loi qui ordonne la rectification d'une erreur qui s'est glissée dans le code pénal, du 9 messidor, l'an deuxième de la République française, une et indivisible. B. no. 11, D. 57"--P. 2. Scanner's note: No copyright page found. No table-of-contents pages found. Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/loiquisupprimela00fran"
+subject = [
+    "France. Armée",
+    "Health officers",
+    "Criminal law",
+]
+extent = "2 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10345 no. 9"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t45r02v9d"
+internet_archive = "loiquisupprimela00fran"
+openlibrary_edition = "OL26229411M"
+openlibrary_work = "OL17624445W"
+
+[scan]
+file = "loiquisupprimela00fran.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/loiquisupprimela00fran"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Lacoste, Élie, 1745-1806"
+role = "author"
+
+[[resp]]
+name = "Briez, Philippe-Constant-Joseph, 1759-1795"
+role = "author"
+
+[[resp]]
+name = "Michaud, Jean-Baptiste, 1759-1819"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépot des lois, place de la Réunion, ci-devant du grand Carrousel"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_860344"
+
+[[text]]
+file = "loiquisupprimela00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquisupprimela00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

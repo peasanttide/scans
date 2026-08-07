@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettre00cole"
+type = "pamphlet"
+title = "... Lettre /"
+language = "fr"
+place = "A Paris"
+date = "1795"
+note = "Caption title. Imprint from colophon. At head of title: École de Sorèze. Opening words: J'apprends avec plaisir ... que le Directoire exécutif ... a adressé un message au Conseil des cinq-cents, pour lui exposer la justice et l'urgence des mesures ... concernant le maintien du plus utiles des établissemens [i.e. l'École de Sorèze]. Not in Martin & Walter. Scanner's note: No title page found. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/lettre00cole"
+subject = ["Sorèze (France)"]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 4925"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t44r2zh0s"
+internet_archive = "lettre00cole"
+openlibrary_edition = "OL26213287M"
+openlibrary_work = "OL17609263W"
+
+[scan]
+file = "lettre00cole.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettre00cole"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "École de Sorèze"
+role = "author"
+
+[[resp]]
+name = "École de Sorèze"
+role = "author"
+
+[[resp]]
+name = "France. Corps législatif (1795-1814)"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_56588"
+
+[[text]]
+file = "lettre00cole.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00cole.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00cole.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00cole.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

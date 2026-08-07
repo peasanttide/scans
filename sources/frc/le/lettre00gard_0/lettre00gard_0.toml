@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettre00gard_0"
+type = "pamphlet"
+title = "Lettre /"
+language = "fr"
+place = "s.l."
+date = "1789"
+note = "Caption title. Without imprint. Dated at end: Le 2 juillet 1789. Martin & Walter IV 2: 8748. Scanner's note: Title and cover page are combined. Damaged, stained and/or loose pages. Uneven binding. Skewed text. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/lettre00gard_0"
+extent = "3 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 4897"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9j43tm0r"
+internet_archive = "lettre00gard_0"
+openlibrary_edition = "OL26213400M"
+openlibrary_work = "OL17609377W"
+
+[scan]
+file = "lettre00gard_0.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettre00gard_0"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Gardes nationales de France"
+role = "author"
+
+[[resp]]
+name = "France. Sovereign (1774-1792 : Louis XVI)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_55666"
+
+[[text]]
+file = "lettre00gard_0.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00gard_0.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00gard_0.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00gard_0.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

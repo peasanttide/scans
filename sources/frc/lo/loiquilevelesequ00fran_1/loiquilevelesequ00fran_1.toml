@@ -1,0 +1,78 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loiquilevelesequ00fran_1"
+type = "pamphlet"
+title = "Loi qui lève le séquestre des biens des individus mis hors de la loi à raison des conspirations et révoltes qui ont éclaté le 9 thermidor an II : du 5 germinal an V de la République française, une et indivisible."
+language = "fr"
+place = "A Paris"
+date = "1797"
+note = """Caption title. At head of title: No. 454. Au nom de la République française. Imprint from colophon. "No. 12"--Bottom of p. [1]. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/loiquilevelesequ00fran_1"
+subject = [
+    "Attachment and garnishment",
+    "Right of property",
+    "Counterrevolutionaries",
+]
+extent = "2 p. ; 28 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 28018"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3qv8p833"
+internet_archive = "loiquilevelesequ00fran_1"
+
+[scan]
+file = "loiquilevelesequ00fran_1.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loiquilevelesequ00fran_1"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Depot des lois, place du Carrousel, et se trouve dans les villes chef-lieux de département, au bureau de correspondance du Dépôt des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_859232"
+
+[[text]]
+file = "loiquilevelesequ00fran_1.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquilevelesequ00fran_1.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquilevelesequ00fran_1.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquilevelesequ00fran_1.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,68 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "laprisedefribourg00pons"
+type = "pamphlet"
+title = "La prise de Fribourg, et l'hereux retour du roy"
+language = "fr"
+place = "Paris"
+date = "1744"
+note = "Binder's title: Conquest du roy. Caption title. Scanner's note: Title is on the cover. Uneven binding. Skewed text. Irregular pagination. Page numbers have been marked or altered. Damaged, stained, torn and/or loose pages."
+url = "https://archive.org/details/laprisedefribourg00pons"
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "E 5 .L92705 v. 05 no. 39"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5v75h32r"
+internet_archive = "laprisedefribourg00pons"
+
+[scan]
+file = "laprisedefribourg00pons.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/laprisedefribourg00pons"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Ponsignon,abbé"
+role = "author"
+
+[[resp]]
+name = "Ponsignon, abbé"
+role = "author"
+
+[[resp]]
+name = "L. Cuissart"
+role = "publisher"
+
+[[text]]
+file = "laprisedefribourg00pons.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "laprisedefribourg00pons.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "laprisedefribourg00pons.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "laprisedefribourg00pons.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

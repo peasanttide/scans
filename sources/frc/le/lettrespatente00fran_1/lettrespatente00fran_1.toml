@@ -1,0 +1,68 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettrespatente00fran_1"
+type = "pamphlet"
+title = "Lettres patentes du roy, portant reglement & statuts pour la communauté des imprimeurs en taille-douce de la ville & fauxbourgs de Paris"
+language = "fr"
+date = "1694"
+note = "Caption title. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Title page and cover are combined. Text extends off of the page edge."
+url = "https://archive.org/details/lettrespatente00fran_1"
+subject = ["Engraving, French"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 2 no. 74"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t93830003"
+internet_archive = "lettrespatente00fran_1"
+
+[scan]
+file = "lettrespatente00fran_1.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettrespatente00fran_1"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Sovereign (1643-1715 : Louis XIV)"
+role = "author"
+
+[[resp]]
+name = "France. Sovereign (1643-1715 : Louis XIV)"
+role = "author"
+
+[[resp]]
+name = "[Paris"
+role = "publisher"
+
+[[text]]
+file = "lettrespatente00fran_1.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrespatente00fran_1.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrespatente00fran_1.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrespatente00fran_1.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

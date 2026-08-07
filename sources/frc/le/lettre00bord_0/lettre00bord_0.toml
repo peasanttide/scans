@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettre00bord_0"
+type = "pamphlet"
+title = "Lettre /"
+language = "fr"
+place = "A Montauban"
+date = "1790"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found. No title page found."
+url = "https://archive.org/details/lettre00bord_0"
+extent = "4 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 4812"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t00056j3s"
+internet_archive = "lettre00bord_0"
+openlibrary_edition = "OL26212965M"
+openlibrary_work = "OL17608935W"
+
+[scan]
+file = "lettre00bord_0.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettre00bord_0"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Bordeaux (Aquitaine, France). Garde nationale"
+role = "author"
+
+[[resp]]
+name = "Montauban (Tarn-et-Garonne, France). Garde nationale"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Fontanel"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_52971"
+
+[[text]]
+file = "lettre00bord_0.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00bord_0.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00bord_0.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00bord_0.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

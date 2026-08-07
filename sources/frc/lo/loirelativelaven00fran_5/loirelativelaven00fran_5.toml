@@ -1,0 +1,67 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loirelativelaven00fran_5"
+type = "pamphlet"
+title = "Loi relative à la vente des coupes ordinaires et annuelles des bois dans lesquels les communes ont été envoyé en possession, en vertu de sentences arbitrales : du 25 ventose, l'an troisiéme de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1795"
+note = """Caption title. At head of title: (No. 324. *). At right of title: B. no. 130. D. no. 702. " La Convention nationale ... décrète que ...". Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover. No page numbers."""
+url = "https://archive.org/details/loirelativelaven00fran_5"
+subject = [
+    "Forest policy",
+    "Forestry law and legislation",
+]
+extent = "[1] p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10346 no. 17"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t37136w9r"
+internet_archive = "loirelativelaven00fran_5"
+openlibrary_edition = "OL26230734M"
+openlibrary_work = "OL17625711W"
+
+[scan]
+file = "loirelativelaven00fran_5.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/loirelativelaven00fran_5"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_861783"
+
+[[text]]
+file = "loirelativelaven00fran_5.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativelaven00fran_5.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

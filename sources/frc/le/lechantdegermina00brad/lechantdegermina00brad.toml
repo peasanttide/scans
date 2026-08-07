@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lechantdegermina00brad"
+type = "pamphlet"
+title = "Le chant de germinal, ou, L'hymne des honnêtes gens : dédié aux assemblées primaires /"
+language = "fr"
+place = "Paris?"
+date = "1794"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Stained pages. Title on front cover."
+url = "https://archive.org/details/lechantdegermina00brad"
+extent = "3 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 15250"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7rn81r1w"
+internet_archive = "lechantdegermina00brad"
+openlibrary_edition = "OL25945339M"
+openlibrary_work = "OL17366553W"
+
+[scan]
+file = "lechantdegermina00brad.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lechantdegermina00brad"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Brad, Jean-Louis"
+role = "author"
+
+[[resp]]
+name = "Bridel, G."
+role = "publisher"
+
+[[resp]]
+name = "Chez G. Bridel, à l'imprim. de l'Union, rue neuve-Augustin, no. 21, près celle Gaillon"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_831590"
+
+[[text]]
+file = "lechantdegermina00brad.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lechantdegermina00brad.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lechantdegermina00brad.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lechantdegermina00brad.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

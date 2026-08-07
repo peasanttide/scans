@@ -1,0 +1,92 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loirelativeaulog00fran"
+type = "pamphlet"
+title = "Loi relative au logement des commissaires des guerres : donnée à Paris, le 1er. décembre 1790"
+language = "fr"
+place = "A Paris"
+date = "1793"
+note = """Caption title. At right of title: No. 124. "Signé Louis. Et plus bas, M.L.F. DuPort"--P. 2. Imprint from colophon. Not in Martin & Walter. Révolution française. "Décret de l'Assemblée nationale , du 24 novembre 1790"--P. [1]-2. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages. Only one numbered page."""
+url = "https://archive.org/details/loirelativeaulog00fran"
+subject = [
+    "Dubois de Crancé, Edmond-Louis-Alexis, 1746-1814",
+    "France. Armée",
+    "Payment",
+]
+extent = "2 p. ; 28 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10339 no. 3"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7dr80477"
+internet_archive = "loirelativeaulog00fran"
+openlibrary_edition = "OL26225976M"
+openlibrary_work = "OL17621289W"
+
+[scan]
+file = "loirelativeaulog00fran.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loirelativeaulog00fran"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Sovereign (1774-1792 : Louis XVI)"
+role = "author"
+
+[[resp]]
+name = "Louis XVI, King of France, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "Duport-Dutertre, Marguerite-Louis-François, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale exécutive du Louvre"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_852306"
+
+[[text]]
+file = "loirelativeaulog00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativeaulog00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativeaulog00fran.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativeaulog00fran.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loirelativeauxde00fran_4"
+type = "pamphlet"
+title = "Loi relative aux demandes en entérinement ou obtention de lettres de relief de laps de temps formées avant l'installation du Tribunal de cassation : donnée à Paris, le 19 août 1792, l'an quatrième de la liberté"
+language = "fr"
+place = "A Paris"
+date = "1792"
+note = """Caption title. At right of title: No. 2146. "L'Assemblée nationale, après avoir entendu le rapport de son Comité de législation et décrété l'urgence, décrète ce qui suit"--P. [1]. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."""
+url = "https://archive.org/details/loirelativeauxde00fran_4"
+subject = [
+    "France. Cour de cassation",
+    "Appellate procedure",
+]
+extent = "3 p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10344 no. 34"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t87h6r64b"
+internet_archive = "loirelativeauxde00fran_4"
+openlibrary_edition = "OL26230723M"
+openlibrary_work = "OL17625700W"
+
+[scan]
+file = "loirelativeauxde00fran_4.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loirelativeauxde00fran_4"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Assemblée nationale législative (1791-1792)"
+role = "author"
+
+[[resp]]
+name = "Prault, Louis-François, 1734-1806"
+role = "publisher"
+
+[[resp]]
+name = "De l'imprimerie de Prault, au Palais"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_858608"
+
+[[text]]
+file = "loirelativeauxde00fran_4.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativeauxde00fran_4.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativeauxde00fran_4.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativeauxde00fran_4.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

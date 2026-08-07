@@ -1,0 +1,69 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettreducuredesh00brut"
+type = "pamphlet"
+title = "Lettre du curé de S. Hyppolite à ses paroissiens."
+language = "fr"
+date = "1791"
+note = """Caption title. Signed: Bruté, Curé de Saint-Hyppolite. "Ce 31 janvier 1791"--P. 4. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,I, 5508. Scanner's note: Title found on front cover. No copyright page found. No table-of-contents pages found."""
+url = "https://archive.org/details/lettreducuredesh00brut"
+subject = ["Clergy"]
+extent = "4 p. ;19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "CaseFRC11005"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3322zv18"
+internet_archive = "lettreducuredesh00brut"
+
+[scan]
+file = "lettreducuredesh00brut.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettreducuredesh00brut"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Bruté, Abbé-François-Joseph-Guillaume"
+role = "author"
+
+[[resp]]
+name = "[France :s.n.,"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_824025"
+
+[[text]]
+file = "lettreducuredesh00brut.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "lettreducuredesh00brut.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "lettreducuredesh00brut.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "lettreducuredesh00brut.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"

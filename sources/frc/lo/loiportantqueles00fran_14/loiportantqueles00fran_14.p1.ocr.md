@@ -1,0 +1,57 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: loiportantqueles00fran_14
+page: 1
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 3009
+h: 4028
+dpi: 350
+---
+
+V
+
+(N.° 406. *)
+
+#=*’* .t-0.3\r*V 1 - *
+
+L O I
+
+n.° i5o»
+
+D. n.° 8 7 3.
+
+évitant que tes assignats de Cinq livres a face royale seront admis en
+
+paiement de biens nationaux ..
+
+Bu 8 Prairial, l’an troisième de la République française une et indivisible»
+
+Là Convention nationale, après avoir entendu le rapport db'
+son comité des finances , décrète ce qui suit 1
+
+A R T I G L
+
+3? R. E M I E K.
+
+L’admission des assignats de Cinq Livres et au-dessus y portant
+des empreintes de royauté, et faisant l’objet du décret du 24 .floréal:
+dernier, aura lieu en paiement tant des biens nationaux, vendus que
+de ceux à vendre»
+
+I L.
+
+Les autres dispositions du décret seront entièrement exécutées,
+
+Visé. Signé S. E. Monnèl.
+
+Collationné. Signé Mathieu-, président j Gakon , Henry”
+IiARiviÈs.E , secrétaires.
+
+A F A R ï ; S’,
+
+DE L J IMPRIMERIE DU DÉPÔT DES LOIS»
+
+AN III.* ©E LA REPUBLIQUE FRANÇAISE
+
+Jp K S 1 ï J fl » l Y I g I RLE*

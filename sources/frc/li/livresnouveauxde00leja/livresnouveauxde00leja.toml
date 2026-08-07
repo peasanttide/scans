@@ -1,0 +1,96 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "livresnouveauxde00leja"
+type = "pamphlet"
+title = "Livres nouveaux depuis le mois de juillet 1770, qui se trouvent chez Le Jay, libraire, rue Saint Jacques, au grand Corneille"
+language = "fr"
+place = "Paris"
+date = "1771"
+note = """Catalog featuring various book genres with a focus on French literature. Caption title. Printed in double columns. BN. Catalogues de libraires. "Avis pour le nouveau Dictionnaire historique, en 6 vol. in-8. Messieurs les souscripteurs de cet ouvrage sont priés de retirer leurs exemplaires. On trouve chez le même libraire, un assortiment de livres nouveaux en tout genre, ainsi que tous les théâtres, & pièces séparées"--At end. With prices. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Title page and cover are combined."""
+url = "https://archive.org/details/livresnouveauxde00leja"
+subject = [
+    "Le Jay, Edme-Jean, active 18th century",
+    "French literature",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 4 no. 71"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0jt5bq0g"
+internet_archive = "livresnouveauxde00leja"
+
+[scan]
+file = "livresnouveauxde00leja.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/livresnouveauxde00leja"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Le Jay, Edme-Jean,active 18th century"
+role = "author"
+
+[[resp]]
+name = "Le Jay, Edme-Jean, active 18th century"
+role = "author"
+
+[[resp]]
+name = "Le Jay"
+role = "publisher"
+
+[[text]]
+file = "livresnouveauxde00leja.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "livresnouveauxde00leja.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "livresnouveauxde00leja.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "livresnouveauxde00leja.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "livresnouveauxde00leja.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "livresnouveauxde00leja.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "livresnouveauxde00leja.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "livresnouveauxde00leja.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

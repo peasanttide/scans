@@ -1,0 +1,84 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loiquiabrogecell00fran_3"
+type = "pamphlet"
+title = "Loi qui abroge celle du 24 messidor an VII, sur les otages : du 22 brumaire an VIII de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1799"
+note = """Caption title. At head of title: Au nom de la République française. "Au nom des consuls de la République française ..."--P. 2. Signed: Cambacérés. Imprint from colophon. "No. 3"--Bottom of p. [1]; "No. 1003"--Top of p. [1]. Not in Martin & Walter. Révolution française. Scanner's note: Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text. No copyright page found. No table-of-contents pages found."""
+url = "https://archive.org/details/loiquiabrogecell00fran_3"
+subject = [
+    "Hostages",
+    "Prisoners",
+    "Legislation",
+]
+extent = "2 p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10350 no. 77"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3xt0vk07"
+internet_archive = "loiquiabrogecell00fran_3"
+openlibrary_edition = "OL26228419M"
+openlibrary_work = "OL17623487W"
+
+[scan]
+file = "loiquiabrogecell00fran_3.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loiquiabrogecell00fran_3"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Consulat (1799-1804)"
+role = "author"
+
+[[resp]]
+name = "Cambacérès, Jean Jacques Régis de, 1753-1824"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois, place du Carrousel"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_859389"
+
+[[text]]
+file = "loiquiabrogecell00fran_3.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquiabrogecell00fran_3.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquiabrogecell00fran_3.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquiabrogecell00fran_3.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

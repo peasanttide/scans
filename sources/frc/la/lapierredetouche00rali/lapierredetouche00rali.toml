@@ -1,0 +1,78 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lapierredetouche00rali"
+type = "pamphlet"
+title = "La pierre de touche jettée sur les conspirateurs, ou, Suite a la Queue de Robespierre."
+language = "fr"
+place = "Paris"
+date = "1794"
+note = "Caption title. Signed: Raliobonsleujei. Imprint from colophon. Date of publication from Martin & Walter. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  IV:1, 28650. Scanner's note: No Copyright found. No Table of Contents found. Title on cover. Damaged, stained pages and cover. <br />."
+url = "https://archive.org/details/lapierredetouche00rali"
+subject = [
+    "Civil rights",
+    "Intellectual freedom",
+    "Jacobins",
+]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 24233"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t73v4vc21"
+internet_archive = "lapierredetouche00rali"
+
+[scan]
+file = "lapierredetouche00rali.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lapierredetouche00rali"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "Raliobonsleujei"
+role = "author"
+
+[[resp]]
+name = "Guffroy, A. B. J. (Armand Benoît Joseph), 1740-1800"
+role = "publisher"
+
+[[resp]]
+name = "De l'imprimerie de Guffroy, rue Honoré, no. 35, cour des ci-devant capucins"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_848996"
+
+[[text]]
+file = "lapierredetouche00rali.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lapierredetouche00rali.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lapierredetouche00rali.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lapierredetouche00rali.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

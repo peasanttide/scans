@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettredemduboisd00dubo_2"
+type = "pamphlet"
+title = "Lettre de M. Dubois de Crancé aux soldats et sous-officiers des régimens qui sont en insurrection."
+language = "fr"
+place = "Paris"
+date = "1791"
+note = "Caption title. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  II, 11146. Scanner's note: No copyright page found. No table-of-contents pages found. Damaged, stained pages and cover. Title on cover."
+url = "https://archive.org/details/lettredemduboisd00dubo_2"
+subject = [
+    "France. Armée",
+    "France. Armée. Garde nationale",
+]
+extent = "4 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 17641"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4xh4k77h"
+internet_archive = "lettredemduboisd00dubo_2"
+openlibrary_edition = "OL26193721M"
+openlibrary_work = "OL17590489W"
+
+[scan]
+file = "lettredemduboisd00dubo_2.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettredemduboisd00dubo_2"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Dubois de Crancé, Edmond-Louis-Alexis, 1746-1814"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_836413"
+
+[[text]]
+file = "lettredemduboisd00dubo_2.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredemduboisd00dubo_2.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredemduboisd00dubo_2.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredemduboisd00dubo_2.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

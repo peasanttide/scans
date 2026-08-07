@@ -1,0 +1,84 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettredelillu00mont"
+type = "pamphlet"
+title = "Lettre de l'illustrissime cardinal Montalte au Conseil general de la Saincte Vnion, tratuicte selon le style françois."
+language = "fr"
+date = "1589"
+note = "Binder's title: Opuscules divers. Caption title. Bibl. nat. Cat. gen. Scanner's note: Obscured text on page 6 - Unable to capture beneath."
+url = "https://archive.org/details/lettredelillu00mont"
+extent = "7 p.16 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case F 39 .326 1626fs no.10"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4hn0q868"
+internet_archive = "lettredelillu00mont"
+
+[scan]
+file = "lettredelillu00mont.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/lettredelillu00mont"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Montalto,Cardinal,1571-1623"
+role = "author"
+
+[[resp]]
+name = "Montalto, Cardinal, 1571-1623"
+role = "author"
+
+[[resp]]
+name = "[n.p.,  1589]"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_606840"
+
+[[text]]
+file = "lettredelillu00mont.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredelillu00mont.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredelillu00mont.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredelillu00mont.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredelillu00mont.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredelillu00mont.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

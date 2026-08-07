@@ -1,0 +1,95 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettrespatentesd00fran_29"
+type = "pamphlet"
+title = "Lettres patentes du roi, sur un décret de l'Assemblée nationale, portant que les accusés qui auroient été ou qui seroient condamnés, par des jugemens prévôtaux, à quelques peines, autres néanmoins que des peines afflictives, seront provisoirement élargis : données à Paris, le 3 avril 1790"
+language = "fr"
+place = "A Paris"
+date = "1790"
+note = """
+Caption title. Signed: Louis. Et plus bas, par le roi, La Tour-du-Pin. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover. 
+Only one numbered page."""
+url = "https://archive.org/details/lettrespatentesd00fran_29"
+subject = [
+    "Parole",
+    "Criminals",
+    "Corrections",
+    "Justice, Administration of",
+]
+extent = "2 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10326 no. 15"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t75t8rt1x"
+internet_archive = "lettrespatentesd00fran_29"
+openlibrary_edition = "OL26224888M"
+openlibrary_work = "OL17620214W"
+
+[scan]
+file = "lettrespatentesd00fran_29.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettrespatentesd00fran_29"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Sovereign (1774-1792 : Louis XVI)"
+role = "author"
+
+[[resp]]
+name = "Louis XVI, King of France, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "La Tour-du-Pin Gouvernet, Jean-Frédéric, comte de, 1727-1794"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "Imprimerie royale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie royale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_851122"
+
+[[text]]
+file = "lettrespatentesd00fran_29.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrespatentesd00fran_29.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrespatentesd00fran_29.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrespatentesd00fran_29.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loiquireintegrep00fran"
+type = "pamphlet"
+title = "Loi qui réintègre provisoirement dans la jouissance de leurs propriétés les prévenus d'émigration qui ont obtenu des arrêtés favorables des corps administratifs : du 5 brumaire l'an troisième de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1794"
+note = """Caption title. At head of title: (No. 141*). At right of title: B. no. 77, D. 408. Signed: Prieur (de la Marne), président; Eschausseriaux jeune, Boissy, secrétaires. Imprint from colophon. Page 2 misnumbered 5. Not in Martin & Walter. Révolution française. "La Convention nationale décrète ... "--P. [1]. Scanner's note: No copyright page found. No table-of-contents pages found.  Page numbering begins and ends with 5. Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/loiquireintegrep00fran"
+subject = [
+    "Refugees",
+    "Refugee property",
+]
+extent = "5 [i.e. 2] p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10345 no. 79"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8jf0166f"
+internet_archive = "loiquireintegrep00fran"
+openlibrary_edition = "OL26229143M"
+openlibrary_work = "OL17624177W"
+
+[scan]
+file = "loiquireintegrep00fran.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/loiquireintegrep00fran"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Prieur, Pierre-Louis, 1756-1827"
+role = "author"
+
+[[resp]]
+name = "Boissy d'Anglas, François-Antoine, comte de, 1756-1826"
+role = "author"
+
+[[resp]]
+name = "Eschassériaux, René, 1754-1831"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépot des lois, place de la Réunion, ci-devant grand-Carrousel"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_860415"
+
+[[text]]
+file = "loiquireintegrep00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquireintegrep00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

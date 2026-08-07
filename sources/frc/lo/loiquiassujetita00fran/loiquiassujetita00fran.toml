@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loiquiassujetita00fran"
+type = "pamphlet"
+title = "Loi qui assujétit au droit proportionnel d'enregistrement les acquisitions des domaines nationaux, autres que celles faites directement de la nation, et la première vent ou cession qu'en feront les acquéreurs directs : du 3 nivose, l'an troisième de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1794"
+note = """Caption title. At head of title: (No. 220*). At right of title: B. no. 102, D. no. 534. Signed: Bentabole, président; Girot (du Puy-de-Dôme), Le Tourneur (de la Manche), secrétaires. Imprint from colophon. Not in Martin & Walter. Révolution française. "La Convention nationale ... décrète ..."--P. [1]. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/loiquiassujetita00fran"
+subject = [
+    "Government sale of real property",
+    "Land tenure",
+]
+extent = "[1] p . ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10345 no. 112"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3vt6sv6j"
+internet_archive = "loiquiassujetita00fran"
+openlibrary_edition = "OL26229307M"
+openlibrary_work = "OL17624341W"
+
+[scan]
+file = "loiquiassujetita00fran.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/loiquiassujetita00fran"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Bentabole, Pierre-Louis, 1753-1798"
+role = "author"
+
+[[resp]]
+name = "Le Tourneur, Etienne-François-Louis-Honoré, 1751-1817"
+role = "author"
+
+[[resp]]
+name = "Girot-Pouzol, Jean Baptiste, 1753-1822"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois, place de la Réunion, ci-devant du grand-Carrousel"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_860448"
+
+[[text]]
+file = "loiquiassujetita00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquiassujetita00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

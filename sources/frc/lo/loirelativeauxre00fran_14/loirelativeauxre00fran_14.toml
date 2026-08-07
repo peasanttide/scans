@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loirelativeauxre00fran_14"
+type = "pamphlet"
+title = "Loi relative aux rentes foncières assises sur des édifices incendiés, ou sur des héritages dévastés par suite de la guerre de la Vendée : du 14 nivose an VI de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1798"
+note = """Caption title. At head of title: No. 638. Au nom de la République française. Imprint from colophon. "No. 2, 3, 9"--Bottom of p. [1]. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover. Only one numbered page."""
+url = "https://archive.org/details/loirelativeauxre00fran_14"
+subject = [
+    "Rent",
+    "Buildings",
+    "War damage compensation",
+]
+extent = "2 p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10349 no. 63"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9188fq1n"
+internet_archive = "loirelativeauxre00fran_14"
+openlibrary_edition = "OL26229565M"
+openlibrary_work = "OL17624598W"
+
+[scan]
+file = "loirelativeauxre00fran_14.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loirelativeauxre00fran_14"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois, place du Carrousel"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_859900"
+
+[[text]]
+file = "loirelativeauxre00fran_14.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativeauxre00fran_14.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativeauxre00fran_14.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativeauxre00fran_14.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

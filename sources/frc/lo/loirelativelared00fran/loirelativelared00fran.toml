@@ -1,0 +1,64 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loirelativelared00fran"
+type = "pamphlet"
+title = "Loi relative à la réduction des droits d'entrée sur le tabac : du 5 septembre 1792, l'an quatrième de la liberté"
+language = "fr"
+place = "France"
+date = "1792"
+note = """Caption title. At right of title: No. 2400. "L'Assemblée nationale ... décrète ce qui suit"--P. 5. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."""
+url = "https://archive.org/details/loirelativelared00fran"
+subject = [
+    "Tariff on tobacco",
+    "Smuggling",
+    "Foreign trade regulation",
+]
+extent = "p. 5-6 ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10344 no. 80"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t59d23d1z"
+internet_archive = "loirelativelared00fran"
+openlibrary_edition = "OL26230776M"
+openlibrary_work = "OL17625753W"
+
+[scan]
+file = "loirelativelared00fran.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/loirelativelared00fran"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Assemblée nationale législative (1791-1792)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_858653"
+
+[[text]]
+file = "loirelativelared00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativelared00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,78 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loisquifixent00unse"
+type = "pamphlet"
+title = "Lois qui fixent le droit d'enregistrement pour les mutations par décès, donations, ou legs, des inscriptions au grand livre, et pour la déclaration des immeubles réels ou fictifs dépendant des successions des défenseurs de la patrie : du 18 fructidor, l'an deuxième de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1794"
+note = """Caption title. At head of title: (No. 73*-4). At right of title: B. no. 55, D. 286. Signed: Bernard, président; J. Borie, Cordier, secrétaires. Imprint from colophon. Not in Martin & Walter. Révolution française. "La Convention nationale ... décrète ..."--P. [1]. Law B. no. 55 D. 287, p. [1]-2. Scanner's note: No copyright page found. No table-of-contents pages found.   Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/loisquifixent00unse"
+subject = [
+    "Decedents' estates",
+    "Heirs",
+    "Inheritance and succession",
+    "Recording and registration",
+    "Registration tax",
+]
+extent = "2 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10345 no. 46"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6b33150c"
+internet_archive = "loisquifixent00unse"
+openlibrary_edition = "OL26229512M"
+openlibrary_work = "OL17624545W"
+
+[scan]
+file = "loisquifixent00unse.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/loisquifixent00unse"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Bernard de Saintes, André-Antoine des Zeuzines, 1751-1819"
+role = "author"
+
+[[resp]]
+name = "Borie, Jean, 1756-1805"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépot des lois, place de la Réunion, ci-devant du grand-Carrousel"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_860382"
+
+[[text]]
+file = "loisquifixent00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loisquifixent00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

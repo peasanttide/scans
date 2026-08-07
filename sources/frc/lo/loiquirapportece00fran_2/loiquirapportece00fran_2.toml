@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loiquirapportece00fran_2"
+type = "pamphlet"
+title = "Loi qui rapporte celle du 23 brumaire, an II, relative aux enfouissemens de métaux ou effets précieux : du 10 floréal, an quatrième de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1796"
+note = "Caption title. At head of title: No. 154. Au nom de la République française. At right of title: B. 43, No. 348. Signed: Le Tourneur, président; par le Directoire exécutif, le secrétaire général, Lagarde. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover. Only one numbered page."
+url = "https://archive.org/details/loiquirapportece00fran_2"
+subject = [
+    "Personal property",
+    "Law and secrecy",
+]
+extent = "2 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10347 no. 117"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5t77js8g"
+internet_archive = "loiquirapportece00fran_2"
+openlibrary_edition = "OL26230202M"
+openlibrary_work = "OL17625178W"
+
+[scan]
+file = "loiquirapportece00fran_2.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/loiquirapportece00fran_2"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Directoire exécutif"
+role = "author"
+
+[[resp]]
+name = "Le Tourneur, Etienne-François-Louis-Honoré, 1751-1817"
+role = "author"
+
+[[resp]]
+name = "Lagarde, Joseph-Jean, baron, 1755-1840"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépot des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_858446"
+
+[[text]]
+file = "loiquirapportece00fran_2.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquirapportece00fran_2.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

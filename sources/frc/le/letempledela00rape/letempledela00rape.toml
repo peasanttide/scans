@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "letempledela00rape"
+type = "pamphlet"
+title = "Le temple de la gloire, ou, Fastes militaires de la France"
+language = "fr"
+place = "Paris"
+date = "1820"
+note = """Prospectus for Jubé de La Pérelle's "Le temple de la gloire", published 1819-1820. Caption title. "On souscrit à Paris chez M. Rapet, editeur des Œuvres de Buffon ..., rue St.-André-des-Arcs, n°. 41"--P. 3. Imprint from colophon. Includes prices. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Title page and cover are combined."""
+url = "https://archive.org/details/letempledela00rape"
+subject = [
+    "Jubé de La Pérelle, Auguste, 1765-1824",
+    "Booksellers and bookselling",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1a no. 134"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0cw0676p"
+internet_archive = "letempledela00rape"
+
+[scan]
+file = "letempledela00rape.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/letempledela00rape"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Rapet"
+role = "author"
+
+[[resp]]
+name = "Jubé de La Pérelle, Auguste, 1765-1824. Temple de la gloire"
+role = "author"
+
+[[resp]]
+name = "Doublet, Étienne-Joseph"
+role = "printer"
+
+[[resp]]
+name = "De l'imprimerie de Doublet, rue Gît-le-Cœur, n°. 7"
+role = "publisher"
+
+[[text]]
+file = "letempledela00rape.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "letempledela00rape.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "letempledela00rape.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "letempledela00rape.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

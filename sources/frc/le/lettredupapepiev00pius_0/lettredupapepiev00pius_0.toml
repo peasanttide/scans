@@ -1,0 +1,78 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettredupapepiev00pius_0"
+type = "pamphlet"
+title = "Lettre du pape Pie VI a Louis XVI : (extrait de Gorsas)."
+language = "fr"
+place = "A Marseille"
+date = "1791"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. BM. Letter expressing support for the royal family and concern for their safety, with commentary. Bibliography: BM,  CXC, column 850. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained, marked and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/lettredupapepiev00pius_0"
+subject = ["Louis XVI, King of France, 1754-1793"]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 23732"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6450zs9n"
+internet_archive = "lettredupapepiev00pius_0"
+
+[scan]
+file = "lettredupapepiev00pius_0.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettredupapepiev00pius_0"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Pius VI, Pope, 1717-1799"
+role = "author"
+
+[[resp]]
+name = "Louis XVI, King of France, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "Mossy, Jean, d. 1792"
+role = "publisher"
+
+[[resp]]
+name = "De l'imprimerie de J. Mossy, père & fils, imprimeurs de la nation"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_848458"
+
+[[text]]
+file = "lettredupapepiev00pius_0.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredupapepiev00pius_0.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredupapepiev00pius_0.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredupapepiev00pius_0.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

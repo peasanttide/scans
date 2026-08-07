@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettreduprocureu00luli"
+type = "pamphlet"
+title = "Lettre du Procureur-général-syndic du département, au Conseil-général de la commune de Paris."
+language = "fr"
+place = "Paris"
+date = "1793"
+note = """Caption title. At head of title: Département de Paris. Imprint from colophon. Place of publication from Martin & Walter. "Paris, le 26 juin 1793, l'an second de la République française"--P. [1]. Martin & Walter. Révolution française. "Réponse faite par le citoyen Réal, substitut du procureur de la commune de Paris, à la lettre ci-dessus ... Signé Réal"--P. 3-4. Bibliography: Martin & Walter.  Révolution française,  III, 22261. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover."""
+url = "https://archive.org/details/lettreduprocureu00luli"
+subject = ["Cargo theft"]
+extent = "4 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 12457"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2j72614b"
+internet_archive = "lettreduprocureu00luli"
+openlibrary_edition = "OL25928704M"
+openlibrary_work = "OL17351168W"
+
+[scan]
+file = "lettreduprocureu00luli.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettreduprocureu00luli"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Lulier, Louis-Marie, 1746-1794"
+role = "author"
+
+[[resp]]
+name = "Commune de Paris (France : 1789-1794)"
+role = "author"
+
+[[resp]]
+name = "Ballard, Pierre-Robert-Christophe, 1744-1812"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie de Ballard, imprimeur du dé́partement, rue des Mathurins"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_826664"
+
+[[text]]
+file = "lettreduprocureu00luli.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettreduprocureu00luli.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettreduprocureu00luli.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettreduprocureu00luli.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

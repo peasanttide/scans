@@ -1,0 +1,84 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettertaxestith00unse"
+type = "pamphlet"
+title = "[Letter on taxes and tithes]"
+language = "fr"
+place = "France"
+date = "1791"
+note = """At head of text: Paris, ce 24 février 1791. Signed: Delessart. "Nous administrateurs composant le directoire du département des Basses-Alpes ... délibéré à Digne ..."--P. [3]. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/lettertaxestith00unse"
+subject = [
+    "Tithes",
+    "Clergy",
+    "Tax administration and procedure",
+]
+extent = "[3] p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 26903"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1vf1zq4m"
+internet_archive = "lettertaxestith00unse"
+openlibrary_edition = "OL26227048M"
+openlibrary_work = "OL17622275W"
+
+[scan]
+file = "lettertaxestith00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettertaxestith00unse"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Lessart, Claude-Antoine Valdec de,1741 or 1742-1792"
+role = "author"
+
+[[resp]]
+name = "Lessart, Claude-Antoine Valdec de, 1741 or 1742-1792"
+role = "author"
+
+[[resp]]
+name = "Basses-Alpes (France). Directoire"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_866650"
+
+[[text]]
+file = "lettertaxestith00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettertaxestith00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettertaxestith00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettertaxestith00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

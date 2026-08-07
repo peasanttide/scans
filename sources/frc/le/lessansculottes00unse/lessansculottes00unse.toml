@@ -1,0 +1,60 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lessansculottes00unse"
+type = "pamphlet"
+title = "Les sans-culottes composant l'administration provisoire du district de la Campagne de Commune-Affranchie, aux sans-culottes maire & officiers municipaux de [blank]"
+language = "fr"
+place = "France"
+date = "1794"
+note = """Caption title. At head of title: Égalité. Liberté. Le triomphe de la République ou la mort. Signed: Dumanoir, président, Vallouis, Bession, Serlin, administrateurs, Berlié, agent national, Meunier, secretaire par interim. "Au district de la Campagne, séant à Commune-Affranchie, le six ventose, de l'an deux de l'ère Républicaine"--P. [1]. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages. No page numbers."""
+url = "https://archive.org/details/lessansculottes00unse"
+subject = ["Taxation"]
+extent = "[1] p. ; 24 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9895 no. 11"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t02z6bw3k"
+internet_archive = "lessansculottes00unse"
+openlibrary_edition = "OL26223925M"
+openlibrary_work = "OL17619380W"
+
+[scan]
+file = "lessansculottes00unse.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/lessansculottes00unse"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Lyon (France). District de la campagne"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_855195"
+
+[[text]]
+file = "lessansculottes00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lessansculottes00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

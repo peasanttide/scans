@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettredemdecalon00calo"
+type = "pamphlet"
+title = "Lettre de M. de Calonne à l'Assemblée nationale."
+language = "fr"
+place = "A Paris"
+date = "1789"
+note = """Caption title. "Londres, le 16 juillet 1789"--P. 4. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  I, 5824. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover."""
+url = "https://archive.org/details/lettredemdecalon00calo"
+subject = [
+    "Calonne, Charles Alexandre de, 1734-1802",
+    "Food security",
+]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 15642"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6qz78792"
+internet_archive = "lettredemdecalon00calo"
+openlibrary_edition = "OL26205101M"
+openlibrary_work = "OL17601423W"
+
+[scan]
+file = "lettredemdecalon00calo.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettredemdecalon00calo"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Calonne, Charles Alexandre de, 1734-1802"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Laporte, rue des Poitevins, hôtel de Bouthillier"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_832250"
+
+[[text]]
+file = "lettredemdecalon00calo.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredemdecalon00calo.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredemdecalon00calo.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredemdecalon00calo.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

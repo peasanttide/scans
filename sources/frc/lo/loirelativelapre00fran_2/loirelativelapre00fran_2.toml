@@ -1,0 +1,62 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loirelativelapre00fran_2"
+type = "pamphlet"
+title = "Loi relative à la prestation de serment des employés de la régie de l'enregistrement, des gardes forestiers, des experts, etc. : du 16 thermidor, an IV de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1796"
+note = """Caption title. At head of title: No. 241. Au nom de la République française. At right of title: B. 63. No. 581. Imprint from colophon. "Nos. 2, 4, 9"--Bottom of p. [1]. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."""
+url = "https://archive.org/details/loirelativelapre00fran_2"
+subject = ["Loyalty oaths"]
+extent = "2 p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 28112"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2w42wz39"
+internet_archive = "loirelativelapre00fran_2"
+
+[scan]
+file = "loirelativelapre00fran_2.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/loirelativelapre00fran_2"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Depot des lois, place du Carrousel"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_859131"
+
+[[text]]
+file = "loirelativelapre00fran_2.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativelapre00fran_2.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

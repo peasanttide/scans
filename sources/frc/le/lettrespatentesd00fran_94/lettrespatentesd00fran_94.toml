@@ -1,0 +1,92 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettrespatentesd00fran_94"
+type = "pamphlet"
+title = "Lettres patentes du roi, qui ordonnent que les études faites dans le collége royal de la Flèche, depuis l'entrée des classes de l'année 1776, seront réputées académiques, comme si elles avoient été faites dans l'Université d'Angers : données à Versailles le 22 février 1783 : registrées en Parlement le 21 mars audit an"
+language = "fr"
+place = "A Paris"
+date = "1783"
+note = """Caption title. "Signé Louis. Et plus bas, par le roi. Signé Amelot"--P. 3. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  Title and cover are combined. Damaged, stained and/or loose pages. Skewed text. The text on the back cover is upside-down."""
+url = "https://archive.org/details/lettrespatentesd00fran_94"
+subject = [
+    "Collège Henri IV de La Flèche",
+    "Université d'Angers",
+    "Universities and colleges",
+]
+extent = "3 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC suppl. 90 no. 18"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6qz7fm92"
+internet_archive = "lettrespatentesd00fran_94"
+openlibrary_edition = "OL26235189M"
+openlibrary_work = "OL17629772W"
+
+[scan]
+file = "lettrespatentesd00fran_94.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettrespatentesd00fran_94"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Sovereign (1774-1792 : Louis XVI)"
+role = "author"
+
+[[resp]]
+name = "Louis XVI, King of France, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "Amelot de Chaillou, Antoine-Jean, d. 1795"
+role = "author"
+
+[[resp]]
+name = "France. Parlement (Paris)"
+role = "author"
+
+[[resp]]
+name = "Imprimerie royale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie royale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_861575"
+
+[[text]]
+file = "lettrespatentesd00fran_94.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrespatentesd00fran_94.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrespatentesd00fran_94.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrespatentesd00fran_94.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

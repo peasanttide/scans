@@ -1,0 +1,67 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "listedesofficiers00unse"
+type = "pamphlet"
+title = "... Liste des officiers généraux et particuliers : qui ont participé aux cél`ebres journées des 18, 19 et 20 brumaire an 8 [9-11 novembre 1799], `a Saint-Cloud"
+language = "fr"
+place = "A Paris"
+date = "1799"
+note = "Caption title. Imprint from colophon. At head of title: Corps législatif. Commission du Conseil des cinq-cents. État-major de la place. Martin & Walter IV 2: 9029. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."
+url = "https://archive.org/details/listedesofficiers00unse"
+extent = "3 p. ; 25 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9925"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0cv9mv78"
+internet_archive = "listedesofficiers00unse"
+openlibrary_edition = "OL26223348M"
+openlibrary_work = "OL17618811W"
+
+[scan]
+file = "listedesofficiers00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/listedesofficiers00unse"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_69462"
+
+[[text]]
+file = "listedesofficiers00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "listedesofficiers00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "listedesofficiers00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "listedesofficiers00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

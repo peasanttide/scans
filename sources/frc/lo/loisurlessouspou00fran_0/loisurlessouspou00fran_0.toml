@@ -1,0 +1,92 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loisurlessouspou00fran_0"
+type = "pamphlet"
+title = "Loi sur les sous pour livre additionnels, et sur la comptabilité des receveurs de district : du 19 fructidor, l'an deuxième de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1794"
+note = """Caption title. At head of title: (No. 78* 2). At right of title: B. no. 55, D. 292. Signed: Bernard, président; Guffroy, L. Louchet, secrétaires. Imprint from colophon. Not in Martin & Walter. Révolution française. "La Convention nationale ... décrète ..."--P. [1]. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover."""
+url = "https://archive.org/details/loisurlessouspou00fran_0"
+subject = [
+    "France. Trésorerie nationale",
+    "Government sale of real property",
+    "Finance, Public",
+]
+extent = "4 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 28297"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t85j2nx37"
+internet_archive = "loisurlessouspou00fran_0"
+openlibrary_edition = "OL26227026M"
+openlibrary_work = "OL17622253W"
+
+[scan]
+file = "loisurlessouspou00fran_0.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loisurlessouspou00fran_0"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Bernard de Saintes, André-Antoine des Zeuzines, 1751-1819"
+role = "author"
+
+[[resp]]
+name = "Guffroy, A. B. J. (Armand Benoît Joseph), 1740-1800"
+role = "author"
+
+[[resp]]
+name = "Louchet, L. (Louis), 1753-1815"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Depot des lois, place de la Réuion, ci-devant du grand Carrousel"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_860385"
+
+[[text]]
+file = "loisurlessouspou00fran_0.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loisurlessouspou00fran_0.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loisurlessouspou00fran_0.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loisurlessouspou00fran_0.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

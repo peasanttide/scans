@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loiportant00unse_3"
+type = "pamphlet"
+title = "Loi portant qu'il sera payé un quart en numéraire sur les arrérages de rentes du dernier semestre de l'an IV : du cinquième jour complémentaire, an quatrième de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1796"
+note = """Caption title. At head of title: No. 305. Au nom de la République française. At right of title: B. 78. No. 720. Imprint from colophon. "No. 9"--Bottom of p. [1]. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/loiportant00unse_3"
+subject = [
+    "Rent",
+    "Pensions",
+    "Paper money",
+]
+extent = "3 p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 28244"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t23c1696v"
+internet_archive = "loiportant00unse_3"
+openlibrary_edition = "OL26228493M"
+openlibrary_work = "OL17623562W"
+
+[scan]
+file = "loiportant00unse_3.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loiportant00unse_3"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Depot des lois, place du Carrousel"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_859175"
+
+[[text]]
+file = "loiportant00unse_3.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiportant00unse_3.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiportant00unse_3.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiportant00unse_3.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

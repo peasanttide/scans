@@ -1,0 +1,77 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettre00brit_1"
+type = "pamphlet"
+title = "Lettre /"
+language = "fr"
+place = "s.l."
+date = "1788"
+note = "Caption title. Without imprint. Opening sentence: L'acte du pouvoir absolu exercé en Bretagne au nom du roi, est un événement désastreux qui attaque également la constitution de cette province & celle de la monarchie. Not in Martin & Walter. Scanner's note: Title page and cover are combined. Skewed text. Uneven binding. Damaged, stained, and/or loose pages. No title page found. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/lettre00brit_1"
+extent = "4 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 1517"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3130x765"
+internet_archive = "lettre00brit_1"
+
+[scan]
+file = "lettre00brit_1.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettre00brit_1"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Brittany (France). Etats. Commission intermédiaire"
+role = "author"
+
+[[resp]]
+name = "Brittany (France). Etats. Commission intermédiaire"
+role = "author"
+
+[[resp]]
+name = "France. Pairie"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_42495"
+
+[[text]]
+file = "lettre00brit_1.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00brit_1.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00brit_1.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00brit_1.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

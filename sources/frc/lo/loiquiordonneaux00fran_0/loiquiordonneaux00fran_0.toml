@@ -1,0 +1,67 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loiquiordonneaux00fran_0"
+type = "pamphlet"
+title = "Loi qui ordonne aux huissiers de faire les significations de tous actes et jugements relatifs aux délits forestiers : du 29 fructidor, an troisième de la République française une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1795"
+note = """Caption title. At head of title: (No. 562.*). At right of title: B. no. 181. D. no. 1105. "La Convention nationale ... décrète ...". Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/loiquiordonneaux00fran_0"
+subject = [
+    "Forestry law and legislation",
+    "Justice, Administration of",
+]
+extent = "[1] p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10346 no. 162"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0005932q"
+internet_archive = "loiquiordonneaux00fran_0"
+openlibrary_edition = "OL26230608M"
+openlibrary_work = "OL17625584W"
+
+[scan]
+file = "loiquiordonneaux00fran_0.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/loiquiordonneaux00fran_0"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_861928"
+
+[[text]]
+file = "loiquiordonneaux00fran_0.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquiordonneaux00fran_0.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

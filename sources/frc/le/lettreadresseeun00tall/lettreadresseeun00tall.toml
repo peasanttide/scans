@@ -1,0 +1,82 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettreadresseeun00tall"
+type = "pamphlet"
+title = "Lettre adressée a un député de l'Assemblée nationale : imprimée par ordre de l'Assemblée : au camp de Sedan, le 16 août 1792, l'an 4e. de la liberté & le premier de l'égalité."
+language = "fr"
+place = "A Paris"
+date = "1791"
+note = """Caption title. Imprint from colophon. "Militaire. No. 103"--Bottom of p. [1]. Martin & Walter. Révolution française. Forms part of the French Revolution Collection at the Newberry Library. Bibliography: Martin & Walter.  Révolution française,  IV:2, 8411. Scanner's note: Title and cover are combined. Uneven binding. Skewed text. Damaged, stained and/or loose pages."""
+url = "https://archive.org/details/lettreadresseeun00tall"
+subject = [
+    "Lafayette, Marie Joseph Paul Yves Roch Gilbert Du Motier, marquis de, 1757-1834",
+    "Civil-military relations",
+    "Subversive activities",
+]
+extent = "3 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 27870"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8rc2dc27"
+internet_archive = "lettreadresseeun00tall"
+
+[scan]
+file = "lettreadresseeun00tall.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettreadresseeun00tall"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Tallien, Jean-Lambert, 1767-2762"
+role = "author"
+
+[[resp]]
+name = "French Revolution Collection (Newberry Library) ICN"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_52824"
+
+[[text]]
+file = "lettreadresseeun00tall.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettreadresseeun00tall.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettreadresseeun00tall.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettreadresseeun00tall.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

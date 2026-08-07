@@ -1,0 +1,78 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lafederationfran00tall"
+type = "pamphlet"
+title = "La fédération française /"
+language = "fr"
+place = "Paris?"
+date = "1800"
+note = "Caption title. To left of first system: 660 *. Imprint from colophon. Stamp: Rép. Fra. Not in Martin & Walter. Révolution française. Includes dance instructions. Scanner's note: No copyright found.  No table of contents found.  Title on cover page. Damaged, stained pages and cover. <br />No page numbers. <br />."
+url = "https://archive.org/details/lafederationfran00tall"
+subject = ["Rigaudons"]
+extent = "1 score ([2] leaves) ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 26186"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9p32729d"
+internet_archive = "lafederationfran00tall"
+
+[scan]
+file = "lafederationfran00tall.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lafederationfran00tall"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "Tallien, Jean-Lambert, 1767-2473"
+role = "author"
+
+[[resp]]
+name = "Vincent, L. A"
+role = "author"
+
+[[resp]]
+name = "Frere, Jacques-Charles, 1750-1828"
+role = "publisher"
+
+[[resp]]
+name = "Chez Frere, passage du Saumon"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_864166"
+
+[[text]]
+file = "lafederationfran00tall.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lafederationfran00tall.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lafederationfran00tall.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lafederationfran00tall.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

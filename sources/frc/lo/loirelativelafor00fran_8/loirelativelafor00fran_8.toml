@@ -1,0 +1,92 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loirelativelafor00fran_8"
+type = "pamphlet"
+title = "Loi relative à la formation d'une compagnie de canonniers volontaires, par section, à Paris : du 25e. jour de brumaire, l'an troisième de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1794"
+note = """Caption title. At head of title: (No. 172*). Signed, p. [1]: Legendre, président; Duval (de l'Aube) et Thirion, secrétaires. Imprint from colophon. Not in Martin & Walter. Révolution française. "La Convention nationale ... décrète ..."--P. [1]. "Décret relatif aux canonniers et sapeurs attachés aux bataillons de Gardes nationales, et portant que chaque bataillon de Gardes nationale pourra avoir deux pièces d'artillerie, du 13 mars 1792=18 du même mois"--P. [1]-4. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover."""
+url = "https://archive.org/details/loirelativelafor00fran_8"
+subject = [
+    "Paris (France). Garde nationale",
+    "France. Armée. Garde nationale",
+    "Artillerymen",
+]
+extent = "4 p. ; 28 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 28307"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t71w0nf72"
+internet_archive = "loirelativelafor00fran_8"
+openlibrary_edition = "OL26227291M"
+openlibrary_work = "OL17622519W"
+
+[scan]
+file = "loirelativelafor00fran_8.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loirelativelafor00fran_8"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Legendre, Louis, 1756-1797"
+role = "author"
+
+[[resp]]
+name = "Duval, Claude, 1749-1830"
+role = "author"
+
+[[resp]]
+name = "Thirion, Didier, 1763-1816"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépot des lois, place de la Réunion, ci-devant du grand-Carrousel"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_860426"
+
+[[text]]
+file = "loirelativelafor00fran_8.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativelafor00fran_8.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativelafor00fran_8.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativelafor00fran_8.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

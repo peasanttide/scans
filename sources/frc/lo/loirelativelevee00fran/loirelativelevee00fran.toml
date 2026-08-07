@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loirelativelevee00fran"
+type = "pamphlet"
+title = "Loi relative à levée du séquestre mis sur les biens de pères et mères d'émigrés : du 9 floréal an III de la République française, une et indivisible"
+language = "fr"
+place = "France"
+date = "1795"
+note = """Caption title, p. 3. At head of caption title: (No. 379.*). "La Convention nationale ... décrète ..."--P. 3. Imprint from colophon. Not in Martin & Walter. Révolution française. Nebwery's copy imperfect? Possibly lacking p. 1-2 and all after p. 6, including publication information. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover. Cover page is page 3."""
+url = "https://archive.org/details/loirelativelevee00fran"
+subject = [
+    "Refugee property",
+    "Inheritance and succession",
+]
+extent = "p. 3-6 ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10346 no. 52"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2g78j90s"
+internet_archive = "loirelativelevee00fran"
+openlibrary_edition = "OL26230968M"
+openlibrary_work = "OL17625934W"
+
+[scan]
+file = "loirelativelevee00fran.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loirelativelevee00fran"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_861818"
+
+[[text]]
+file = "loirelativelevee00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativelevee00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativelevee00fran.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativelevee00fran.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

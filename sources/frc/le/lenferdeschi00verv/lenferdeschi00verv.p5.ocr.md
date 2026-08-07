@@ -1,0 +1,21 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: lenferdeschi00verv
+page: 5
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 2493
+h: 3921
+dpi: 500
+---
+
+» • ■
+
+r À PARIS,
+
+De l’Imprimerie de Nicolas Alexandre.
+M. DC. XXI^
+
+urtc perdus u on.
+
+1

@@ -1,0 +1,64 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loirelativeauxce00fran_2"
+type = "pamphlet"
+title = "Loi relative aux certificats à délivrer aux préposés particuliers des anciennes compagnies de finances qui auront rendu leur comptes : du 13 prairial, an troisième de la République française"
+language = "fr"
+place = "A Paris"
+date = "1795"
+note = """Caption title. At head of title: (No. 415.*). At right of title: B. no. 152. D. no. 891. "La Convention nationale ... décrète ce qui suit.". Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover. No numbered pages."""
+url = "https://archive.org/details/loirelativeauxce00fran_2"
+subject = ["Financial institutions"]
+extent = "[1] p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10346 no. 76"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5n92db1v"
+internet_archive = "loirelativeauxce00fran_2"
+openlibrary_edition = "OL26230256M"
+openlibrary_work = "OL17625232W"
+
+[scan]
+file = "loirelativeauxce00fran_2.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/loirelativeauxce00fran_2"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_861842"
+
+[[text]]
+file = "loirelativeauxce00fran_2.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativeauxce00fran_2.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

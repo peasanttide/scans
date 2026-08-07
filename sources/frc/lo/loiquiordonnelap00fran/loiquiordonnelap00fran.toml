@@ -1,0 +1,66 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loiquiordonnelap00fran"
+type = "pamphlet"
+title = "Loi qui ordonne la publication du traité de paix ratifié entre la République française et le roi de Prusse : du 11 floréal, an troisième de la République française"
+language = "fr"
+place = "A Paris"
+date = "1795"
+note = """Caption title. At head of title: (No. 388.*). At right of title: B. no. 142. D. no. 798. "La Convention nationale ... décrète que ..."--P. [1]. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover. Only one numbered page."""
+url = "https://archive.org/details/loiquiordonnelap00fran"
+subject = ["France. (1795 Apr. 5)"]
+extent = "2 p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10346 no. 55"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t86h9q97j"
+internet_archive = "loiquiordonnelap00fran"
+
+[scan]
+file = "loiquiordonnelap00fran.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/loiquiordonnelap00fran"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "France. Treaties, etc. Prussia (Kingdom), (1795 Apr. 5)"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_861821"
+
+[[text]]
+file = "loiquiordonnelap00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquiordonnelap00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,91 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loirelativelacon00fran"
+type = "pamphlet"
+title = "Loi relative à la construction du palais de justice commencé à Aix : a Saint-Cloud, le 29 octobre 1790"
+language = "fr"
+place = "A Paris"
+date = "1790"
+note = """Caption title. "Signé Louis. Et plus bas, l'archevêque de Bordeaux"--P. 3. Imprint from colophon. Martin & Walter. Révolution française. "Décret de l'Assemblée nationale, du 24 octobre 1790"--P. [1]-2. Bibliography: Martin & Walter. Révolution française, IV:2, 9143. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages."""
+url = "https://archive.org/details/loirelativelacon00fran"
+subject = [
+    "Courthouses",
+    "Public works",
+]
+extent = "3 p. ; 28 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10338 no. 12"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9j43wh45"
+internet_archive = "loirelativelacon00fran"
+openlibrary_edition = "OL26225745M"
+openlibrary_work = "OL17621059W"
+
+[scan]
+file = "loirelativelacon00fran.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loirelativelacon00fran"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Sovereign (1774-1792 : Louis XVI)"
+role = "author"
+
+[[resp]]
+name = "Louis XVI, King of France, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "Champion de Cicé, Jérôme Marie, comte, 1735-1810"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "Imprimerie royale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie royale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_853030"
+
+[[text]]
+file = "loirelativelacon00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativelacon00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativelacon00fran.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativelacon00fran.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

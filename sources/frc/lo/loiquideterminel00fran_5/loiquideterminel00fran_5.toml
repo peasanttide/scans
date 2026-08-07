@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loiquideterminel00fran_5"
+type = "pamphlet"
+title = "Loi qui détermine les conditions nécessaires pour être admis en qualité d'élève â l'Ecole normale : du 18 frimaire, l'an troisième de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1794"
+note = """Caption title. At head of title: (No. 199). At right of title: B. no. 97, D. no. 5004. Signed: Reubell, président; Boudin, J.S. Rovère, secrétaires. Imprint from colophon. Not in Martin & Walter. Révolution française. "La Convention nationale ... décrète ..."--P. [1]. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/loiquideterminel00fran_5"
+subject = [
+    "École normale supérieure (France)",
+    "Teachers colleges",
+]
+extent = "[1] p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10345 no. 102"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4rj9m29b"
+internet_archive = "loiquideterminel00fran_5"
+openlibrary_edition = "OL26230118M"
+openlibrary_work = "OL17625094W"
+
+[scan]
+file = "loiquideterminel00fran_5.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/loiquideterminel00fran_5"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Reubell, Jean-François, 1747-1807"
+role = "author"
+
+[[resp]]
+name = "Boudin, Jacques Antoine, 1756-1797"
+role = "author"
+
+[[resp]]
+name = "Rovère, Joseph-Stanislas, 1748-1798"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépot des lois, place de la Réunion, ci-devant du grand-Carrousel"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_860438"
+
+[[text]]
+file = "loiquideterminel00fran_5.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquideterminel00fran_5.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

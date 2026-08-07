@@ -1,0 +1,65 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "leplusgranddetou00mori_0"
+type = "pamphlet"
+title = "Le plus grand de tous les rabais"
+language = "fr"
+place = "Paris"
+date = "1798"
+note = """Caption title. Publication date from BN. Catalogues de libraires. "On ne jouira de ce rabais que jusqu'au 15 germinal fixe"--P. [1]. Printed in double columns. BN. Catalogues de libraires. Includes original and discounted prices. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Text extends off of the edge of the page. Text may be lost in the binding. Permanent creases may obscure some text. Title page and cover are combined."""
+url = "https://archive.org/details/leplusgranddetou00mori_0"
+subject = ["Morin et Lenoir"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 5 no. 11"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t98686g4j"
+internet_archive = "leplusgranddetou00mori_0"
+
+[scan]
+file = "leplusgranddetou00mori_0.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/leplusgranddetou00mori_0"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Morin et Lenoir"
+role = "author"
+
+[[resp]]
+name = "Morin et Lenoir"
+role = "publisher"
+
+[[text]]
+file = "leplusgranddetou00mori_0.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "leplusgranddetou00mori_0.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "leplusgranddetou00mori_0.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "leplusgranddetou00mori_0.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

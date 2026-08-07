@@ -1,0 +1,92 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lecitoyen00unse"
+type = "pamphlet"
+title = "Le citoyen A.J.A. Lucy, ex-législateur : du 1er. février 1793, l'an deuxième de la République."
+language = "fr"
+place = "Paris"
+date = "1793"
+note = "Caption title. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  III, 22192. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/lecitoyen00unse"
+subject = [
+    "Lucy, Adrien-Jean-Alexandre, 1753-1824",
+    "France. Assemblée nationale législative (1791-1792). Comité de liquidation",
+    "Misconduct in office",
+]
+extent = "6 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 21739"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t82k1pq30"
+internet_archive = "lecitoyen00unse"
+openlibrary_edition = "OL26239805M"
+openlibrary_work = "OL17634345W"
+
+[scan]
+file = "lecitoyen00unse.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/lecitoyen00unse"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Lucy, Adrien-Jean-Alexandre, 1753-1824"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_845065"
+
+[[text]]
+file = "lecitoyen00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lecitoyen00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lecitoyen00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lecitoyen00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lecitoyen00unse.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lecitoyen00unse.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,82 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lhistoirenatu00dete"
+type = "pamphlet"
+title = "L'histoire naturelle de Buffon, avec ses suites, contenant les trois règnes de la nature"
+language = "fr"
+place = "Paris"
+date = "1811"
+note = "Bookseller's catalog, preceded by prospectuses for: Histoire naturelle de Buffon; Oeuvres de J.J. Rousseau. Paris : P. Didot l'aîné, 1801. Caption title. Dated, p. [1]: Paris, le 15 juin 1811. L'histoire naturelle de Buffon, avec ses suites, contenant les trois règnes de la nature : par Buffon, Castel, Patrin, Bloch, Sonnini, Latreille, Brongniart, De Tigny, Bosc, Lamarck et Mirbel -- Oeuvres complètes de J.J. Rousseau : imprimées par Didot aîné, au Palais national des sciences et des arts -- Livres qui se trouvent chez Deterville, libraire, à Paris -- Livres a prix fixes, qui se trouvent chez le même libraire. With prices. Stamp: Dept. de la Seine. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Text extends off of the edge of the page. Text may be lost in the binding. Permanent creases may obscure some text. Title page and cover are combined."
+url = "https://archive.org/details/lhistoirenatu00dete"
+subject = [
+    "Buffon, Georges Louis Leclerc, comte de, 1707-1788",
+    "Rousseau, Jean-Jacques, 1712-1778",
+    "Deterville, Jean-François-Pierre, 1766-1842",
+    "Booksellers and bookselling",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 8 no. 21"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1dk14231"
+internet_archive = "lhistoirenatu00dete"
+
+[scan]
+file = "lhistoirenatu00dete.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lhistoirenatu00dete"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Deterville, Jean-François-Pierre,1766-1842"
+role = "author"
+
+[[resp]]
+name = "Deterville, Jean-François-Pierre, 1766-1842"
+role = "author"
+
+[[resp]]
+name = "Buffon, Georges Louis Leclerc, comte de, 1707-1788. Histoire naturelle, générale et particulière"
+role = "author"
+
+[[resp]]
+name = "Rousseau, Jean-Jacques, 1712-1778. Works. 1801"
+role = "author"
+
+[[resp]]
+name = "Deterville"
+role = "publisher"
+
+[[text]]
+file = "lhistoirenatu00dete.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lhistoirenatu00dete.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lhistoirenatu00dete.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lhistoirenatu00dete.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,67 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettrepalu00unse"
+type = "pamphlet"
+title = "Lettre de MM. Palun & Tissot, adressée à la municipalité d'Avignon : Paris, 7 mai 1791"
+language = "fr"
+place = "France"
+date = "1791"
+note = "Caption title. Not in Martin & Walter. Révolution française. Scanner's note: Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text. No title page found. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/lettrepalu00unse"
+extent = "[2] p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 27235"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3c01bf49"
+internet_archive = "lettrepalu00unse"
+openlibrary_edition = "OL26229517M"
+openlibrary_work = "OL17624550W"
+
+[scan]
+file = "lettrepalu00unse.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/lettrepalu00unse"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Tissot, Louis Guillaume,1754-1821"
+role = "author"
+
+[[resp]]
+name = "Tissot, Louis Guillaume, 1754-1821"
+role = "author"
+
+[[resp]]
+name = "Palun"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_868159"
+
+[[text]]
+file = "lettrepalu00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrepalu00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

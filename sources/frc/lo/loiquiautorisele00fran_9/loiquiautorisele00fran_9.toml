@@ -1,0 +1,87 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loiquiautorisele00fran_9"
+type = "pamphlet"
+title = "Loi qui autorise le refus de remboursement de capitaux dûs par obligations antérieures au premier vendémiaire : du 12 frimaire, an IV de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1795"
+note = """Caption title. At head of title: No. 18. Au nom de la République française. At right of title: B. 9, No. 48. Signed: Reubell, président; par le Directoire exécutif, le secrétaire-général, Lagarde. Imprint from colophon. "No. 2"--Bottom of p. [1]. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover. Only one numbered page."""
+url = "https://archive.org/details/loiquiautorisele00fran_9"
+subject = [
+    "Debtor and creditor",
+    "Payment",
+]
+extent = "2 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10347 no. 44"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5m95cf23"
+internet_archive = "loiquiautorisele00fran_9"
+openlibrary_edition = "OL26230504M"
+openlibrary_work = "OL17625480W"
+
+[scan]
+file = "loiquiautorisele00fran_9.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loiquiautorisele00fran_9"
+ppi = 300
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Directoire exécutif"
+role = "author"
+
+[[resp]]
+name = "Reubell, Jean-François, 1747-1807"
+role = "author"
+
+[[resp]]
+name = "Lagarde, Joseph-Jean, baron, 1755-1840"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'imprimerie du Depot des lois, place du Carrousel : Et se trouve dans les villes chefs-lieux de département, au bureau de correspondance du Dépôt des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_858372"
+
+[[text]]
+file = "loiquiautorisele00fran_9.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquiautorisele00fran_9.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquiautorisele00fran_9.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquiautorisele00fran_9.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

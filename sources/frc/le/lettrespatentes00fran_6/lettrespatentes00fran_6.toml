@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettrespatentes00fran_6"
+type = "pamphlet"
+title = "Lettres-patentes du roi, portant établissement d'un imprimeur ordinaire de Sa Majesté en la ville de Lille"
+language = "fr"
+place = "Lille"
+date = "1763"
+note = "Caption title. Imprint at foot of p. 4. Transferring to N.J.B. Peterinck the privilege as printer formerly held by C.M. Cramé, deceased. Scanner's note: No table-of-contents pages found. No copyright page found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Title page and cover are combined."
+url = "https://archive.org/details/lettrespatentes00fran_6"
+subject = [
+    "Printing",
+    "Printers",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 7 no. 48"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t10p6pd1c"
+internet_archive = "lettrespatentes00fran_6"
+
+[scan]
+file = "lettrespatentes00fran_6.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettrespatentes00fran_6"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Sovereign (1715-1774 : Louis XV)"
+role = "author"
+
+[[resp]]
+name = "France. Sovereign (1715-1774 : Louis XV)"
+role = "author"
+
+[[resp]]
+name = "Cramé, Charles Maurice"
+role = "author"
+
+[[resp]]
+name = "Péterinck-Cramé, Nicolas-Joseph-Benoît, 1732-1786"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Nicolas-Joseph-Benoit Peterinck-Cramé"
+role = "publisher"
+
+[[text]]
+file = "lettrespatentes00fran_6.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrespatentes00fran_6.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrespatentes00fran_6.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrespatentes00fran_6.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,88 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loiquireglelemod00fran_1"
+type = "pamphlet"
+title = "Loi qui régle le mode de paiement des sommes dues sur le prix des acquisitions des domaines nationaux faites en exécution de la loi du 28 ventose an IV ou des lois antérieures : du 11 brumaire, an VII de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1798"
+note = """Caption title. At head of title: Au nom de la République française. Signed: Treilhard, président; par le Directoire exécutif, le secrétaire-général, Lagarde. Imprint from colophon. "No. 10"--Bottom of p. [1]; "No. 798"--Top of p. [1]. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/loiquireglelemod00fran_1"
+subject = [
+    "Government sale of real property",
+    "Vendors and purchasers",
+    "Payment",
+]
+extent = "3 p. ; 28 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10350 no. 5"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2j72kx51"
+internet_archive = "loiquireglelemod00fran_1"
+openlibrary_edition = "OL26228956M"
+openlibrary_work = "OL17624024W"
+
+[scan]
+file = "loiquireglelemod00fran_1.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loiquireglelemod00fran_1"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Directoire exécutif"
+role = "author"
+
+[[resp]]
+name = "Treilhard, M. (Jean-Baptiste), 1742-1810"
+role = "author"
+
+[[resp]]
+name = "Lagarde, Joseph-Jean, baron, 1755-1840"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois, place du Carrousel"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_859283"
+
+[[text]]
+file = "loiquireglelemod00fran_1.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquireglelemod00fran_1.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquireglelemod00fran_1.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquireglelemod00fran_1.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

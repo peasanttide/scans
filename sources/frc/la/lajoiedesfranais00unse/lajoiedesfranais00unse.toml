@@ -1,0 +1,68 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lajoiedesfranais00unse"
+type = "pamphlet"
+title = "La joie des Français : L'arrivée de M. Necker."
+language = "fr"
+place = "Paris"
+date = "1789"
+note = "Caption title. Imprint from colophon. Martin & Walter IV 2: 7932. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover page.  Uneven binding.  Damaged, stained and/or loose pages.  Skewed text."
+url = "https://archive.org/details/lajoiedesfranais00unse"
+subject = ["Necker, Jacques, 1732-1804"]
+extent = "3 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 4448"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/txxxxxxxx"
+internet_archive = "lajoiedesfranais00unse"
+openlibrary_edition = "OL26212723M"
+openlibrary_work = "OL17608706W"
+
+[scan]
+file = "lajoiedesfranais00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lajoiedesfranais00unse"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Chez Momoro ; De l'impr. de Crangé"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_56772"
+
+[[text]]
+file = "lajoiedesfranais00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lajoiedesfranais00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lajoiedesfranais00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lajoiedesfranais00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

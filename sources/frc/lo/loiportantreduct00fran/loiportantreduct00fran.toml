@@ -1,0 +1,82 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loiportantreduct00fran"
+type = "pamphlet"
+title = "Loi portant réduction des traitemens, indemnités, salaires, et payés par le trésor public : du 1er. thermidor an VII de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1799"
+note = """Caption title. At head of title: Au nom de la République française. Signed: Sieyes, président; par le Directoire exécutif, le secrétaire général, Lagarde. Imprint from colophon. "No. 9"--Bottom of p. [1]; "No. 952"--Top of p. [1]. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/loiportantreduct00fran"
+subject = ["France. Trésorerie nationale"]
+extent = "3 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10350 no. 52"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t01z9bq6m"
+internet_archive = "loiportantreduct00fran"
+
+[scan]
+file = "loiportantreduct00fran.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loiportantreduct00fran"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Directoire exécutif"
+role = "author"
+
+[[resp]]
+name = "Sieyès, Emmanuel Joseph, comte, 1748-1836"
+role = "author"
+
+[[resp]]
+name = "Lagarde, Joseph-Jean, baron, 1755-1840"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Depot des lois, place du Carrousel : Et se trouve dans les villes chef-lieux de département, au bureau de correspondance du Dépôt des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_859364"
+
+[[text]]
+file = "loiportantreduct00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiportantreduct00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiportantreduct00fran.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiportantreduct00fran.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

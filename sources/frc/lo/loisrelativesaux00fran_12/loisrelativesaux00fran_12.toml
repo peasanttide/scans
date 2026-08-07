@@ -1,0 +1,67 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loisrelativesaux00fran_12"
+type = "pamphlet"
+title = "Lois relatives aux assignats : du 14 thermidor, an troisième de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1795"
+note = """Caption title. At head of title: (No. 480.*). "La Convention nationale déclare ...". Imprint from colophon. Not in Martin & Walter. Révolution française. 1o. Loi interprétative de celle du 23 messidor, relative aux assignats portant des empreintes extérieures de royauté : du 14 thermidor, an troisième de la République française, une et indivisible : B. no. 168. D. no. 981 -- 2o. Loi qui autorise l'émission des assignats de deux mille livres, pour l'échange à bureau ouvert de ceux de dix mille libvres : du 14 thermidor, an troisième de la République française une et indivisible : B. no. 168. D. no. 982. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover. No page numbers."""
+url = "https://archive.org/details/loisrelativesaux00fran_12"
+subject = [
+    "Assignats",
+    "Monetary policy",
+]
+extent = "[1] p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10346 no. 117"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3c01bg8p"
+internet_archive = "loisrelativesaux00fran_12"
+openlibrary_edition = "OL26230331M"
+openlibrary_work = "OL17625307W"
+
+[scan]
+file = "loisrelativesaux00fran_12.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/loisrelativesaux00fran_12"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_861883"
+
+[[text]]
+file = "loisrelativesaux00fran_12.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loisrelativesaux00fran_12.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

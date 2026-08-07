@@ -1,0 +1,78 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loirelativeauxba00fran_3"
+type = "pamphlet"
+title = "Loi relative aux baux à cheptel : du 2 thermidor an VI de la République française"
+language = "fr"
+place = "A Paris"
+date = "1798"
+note = """Caption title. At head of title: No. 740. Au nom de la République française. Imprint from colophon. "No. 4"--Bottom of p. [1]. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."""
+url = "https://archive.org/details/loirelativeauxba00fran_3"
+subject = [
+    "Bailments",
+    "Leases",
+    "Animal industry",
+]
+extent = "3 p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10349 no. 107"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5hb48q4f"
+internet_archive = "loirelativeauxba00fran_3"
+
+[scan]
+file = "loirelativeauxba00fran_3.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loirelativeauxba00fran_3"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois, place du Carrousel"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_859945"
+
+[[text]]
+file = "loirelativeauxba00fran_3.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativeauxba00fran_3.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativeauxba00fran_3.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativeauxba00fran_3.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

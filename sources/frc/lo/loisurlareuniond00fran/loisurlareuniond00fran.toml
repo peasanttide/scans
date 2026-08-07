@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loisurlareuniond00fran"
+type = "pamphlet"
+title = "Loi sur la réunion de la Belgique et du pays de Liège à la République française : du 9 vendémiaire, an quatrième de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1795"
+note = """Caption title. At head of title: (No. 583*). At right of title: B. no. 186, B. [i.e. D.] 1137. "La Convention nationale, après avoir entendu le rapport ... décrète ce qui suit"--P. [1]. Signed: P.C.L. Baudin (des Ardennes), président; J.F. Philippe Delleville, Poisson, secrétaires. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover. Only one numbered page."""
+url = "https://archive.org/details/loisurlareuniond00fran"
+extent = "2 p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10347 no. 8"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7wm6f83p"
+internet_archive = "loisurlareuniond00fran"
+openlibrary_edition = "OL26230531M"
+openlibrary_work = "OL17625507W"
+
+[scan]
+file = "loisurlareuniond00fran.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/loisurlareuniond00fran"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Baudin, 1748-1799"
+role = "author"
+
+[[resp]]
+name = "Philippe-Delleville, Jean-François, 1740-1828"
+role = "author"
+
+[[resp]]
+name = "Poisson, Jacques, 1746-1821"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_858334"
+
+[[text]]
+file = "loisurlareuniond00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loisurlareuniond00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

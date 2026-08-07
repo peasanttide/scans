@@ -1,0 +1,91 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loiportantquelap00fran"
+type = "pamphlet"
+title = "Loi portant que la procédure prévôtale renvoyée, par le décret du 11 mars dernier, par-devant les officiers de la ci-devant sénéchausée de Marseille, sera poursuivie par-devant les juges du tribunal de district de cette ville : donnée à Paris, le 31 octobre 1790"
+language = "fr"
+place = "A Paris"
+date = "1790"
+note = """Caption title. "Signé Louis. Et plus bas, l'archevêque de Bordeaux."--P. 2. Imprint from colophon. Martin & Walter. Révolution française. "Décret de l'Assemblée nationale, du 25 octobre 1790"--P. [1]-2. Bibliography: Martin & Walter. Révolution française, IV:2, 9143. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages. Only one numbered page."""
+url = "https://archive.org/details/loiportantquelap00fran"
+subject = [
+    "Administrative procedure",
+    "Courts",
+]
+extent = "2 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10338 no. 14"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1sf7ws4b"
+internet_archive = "loiportantquelap00fran"
+openlibrary_edition = "OL26225867M"
+openlibrary_work = "OL17621181W"
+
+[scan]
+file = "loiportantquelap00fran.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loiportantquelap00fran"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Sovereign (1774-1792 : Louis XVI)"
+role = "author"
+
+[[resp]]
+name = "Louis XVI, King of France, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "Champion de Cicé, Jérôme Marie, comte, 1735-1810"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "Imprimerie royale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie royale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_853032"
+
+[[text]]
+file = "loiportantquelap00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiportantquelap00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiportantquelap00fran.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiportantquelap00fran.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

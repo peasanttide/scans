@@ -1,0 +1,92 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettrespatentes00unse_18"
+type = "pamphlet"
+title = "Lettres patentes du roi, sur un décret de l'Assemblée nationale, du 16 juillet 1790, relatif à l'aliénation aux municipalités, de quatre cents millions de domaines nationaux : données à Saint-Cloud le 26 juillet 1790"
+language = "fr"
+place = "A Paris"
+date = "1790"
+note = "Caption title. Signed: Louis; countersigned: Guignard. Imprint from colophon. Not in Martin & Walter. Révolution française. Number 28 of 53 titles bound together. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."
+url = "https://archive.org/details/lettrespatentes00unse_18"
+subject = [
+    "Government sale of real property",
+    "Vendors and purchasers",
+    "Central-local government relations",
+]
+extent = "3 p. ; 28 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9912 no. 20"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7jq63d6q"
+internet_archive = "lettrespatentes00unse_18"
+openlibrary_edition = "OL26223026M"
+openlibrary_work = "OL17618487W"
+
+[scan]
+file = "lettrespatentes00unse_18.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettrespatentes00unse_18"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Sovereign (1774-1792 : Louis XVI)"
+role = "author"
+
+[[resp]]
+name = "Louis XVI, King of France, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "Saint-Priest, François-Emmanuel Guignard, comte de, 1735-1821"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "Imprimerie royale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie royale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_855272"
+
+[[text]]
+file = "lettrespatentes00unse_18.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrespatentes00unse_18.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrespatentes00unse_18.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrespatentes00unse_18.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

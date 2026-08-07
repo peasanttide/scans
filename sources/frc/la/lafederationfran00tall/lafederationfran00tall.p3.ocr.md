@@ -1,0 +1,35 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: lafederationfran00tall
+page: 3
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 2606
+h: 4002
+dpi: 300
+---
+
+SK
+
+FIGTJRE ,
+
+I, Quatre de vis-a-vis traversent et Rig’,
+^Demi-tour des 2 mains et Rig^,
+
+5, Deux de vis-à-vis en avant et en arriéré.^
+>é,.Cliaffent a droite et k p-auclie ,
+
+- O
+
+5r Un tour dos-a^dos ,
+
+6, Un tour de 2 mains 4 ^
+
+' -A, *
+
+7, Les 4 memes traversent et Rig" /
+
+8, Demi-tour des 2 mains et Rig", c[ui remet
+les 4 figurants a leurs places ,
+
+* Les 6 autres de mêmes , '

@@ -1,0 +1,70 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loiquiappliqueto00fran"
+type = "pamphlet"
+title = "Loi qui applique à tous les comptables les dispositions de l'article IV de celle du 26 frimaire, relatives aux ci-devant payeurs de rentes : du 11 pluviose, l'an troisième de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1795"
+note = """Caption title. At head of title: (No. 271*). At right of title: B. no. 118, D. no. 623. Signed: J.S. Rover, président, Borel, Dumont (du Calvados), secrétaires. Imprint from colophon. Not in Martin & Walter. Révolution française. "La Convention nationale ... décrète ..."--P. [1]. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/loiquiappliqueto00fran"
+subject = ["Land tenure"]
+extent = "[1] p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10345 no. 143"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4mm1gh12"
+internet_archive = "loiquiappliqueto00fran"
+
+[scan]
+file = "loiquiappliqueto00fran.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/loiquiappliqueto00fran"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Rovère, Joseph-Stanislas, 1748-1798"
+role = "author"
+
+[[resp]]
+name = "Borel, Hyacinthe Marcellin, 1756-1796"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_860478"
+
+[[text]]
+file = "loiquiappliqueto00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquiappliqueto00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

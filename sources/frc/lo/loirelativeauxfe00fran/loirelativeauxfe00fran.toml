@@ -1,0 +1,88 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loirelativeauxfe00fran"
+type = "pamphlet"
+title = "Loi relative aux fermiers de biens nationaux dont les baux sont en denrées, & aux redevables de rentes de même nature : donnée à Paris, le 23 février 1791"
+language = "fr"
+place = "A Paris"
+date = "1791"
+note = """Caption title. At right of title: No. 616. "Signé Louis. Et plus bas, M.L.F. DuPort"--P. 2. Imprint from colophon. Martin & Walter. Révolution française. "Décret de l'Assemblée nationale, du 16 février 1791"--P. [1]-2. Bibliography: Martin & Walter. Révolution française, IV:2, 9143. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages. Only one numbered page."""
+url = "https://archive.org/details/loirelativeauxfe00fran"
+subject = ["Land tenure"]
+extent = "2 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10339 no. 81"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t27999d04"
+internet_archive = "loirelativeauxfe00fran"
+openlibrary_edition = "OL26225755M"
+openlibrary_work = "OL17621069W"
+
+[scan]
+file = "loirelativeauxfe00fran.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loirelativeauxfe00fran"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Sovereign (1774-1792 : Louis XVI)"
+role = "author"
+
+[[resp]]
+name = "Louis XVI, King of France, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "Duport-Dutertre, Marguerite-Louis-François, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "Imprimerie royale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie royale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_852384"
+
+[[text]]
+file = "loirelativeauxfe00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativeauxfe00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativeauxfe00fran.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativeauxfe00fran.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

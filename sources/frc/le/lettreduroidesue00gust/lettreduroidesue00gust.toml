@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettreduroidesue00gust"
+type = "pamphlet"
+title = "Lettre du roi de Suède à M. le baron Stael de Holstein, son ambassadeur en France."
+language = "fr"
+place = "Paris"
+date = "1791"
+note = "Negative photostat copy made in 1942 of original in the British Museum Library. Caption title. Signed at end: Gustave, Aix-la-Chapelle, le 25 juillet 1791. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  II, 16207. Scanner's note: No copyright page found. No table-of-contents pages found.   Title and cover page combined.  Damaged Pages."
+url = "https://archive.org/details/lettreduroidesue00gust"
+subject = [
+    "Louis XVI, King of France, 1754-1793",
+    "Diplomatic and consular service, Swedish",
+    "Monarchy",
+]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 19586"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8jd9r990"
+internet_archive = "lettreduroidesue00gust"
+openlibrary_edition = "OL25945930M"
+openlibrary_work = "OL17367130W"
+
+[scan]
+file = "lettreduroidesue00gust.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettreduroidesue00gust"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Gustav III, King of Sweden, 1746-1792"
+role = "author"
+
+[[resp]]
+name = "Staël von Holstein, Erik Magnus, baron de, 1749-1802"
+role = "author"
+
+[[resp]]
+name = "Chez Senneville, libraire au Palais-Royal, no. 214"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_841022"
+
+[[text]]
+file = "lettreduroidesue00gust.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettreduroidesue00gust.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettreduroidesue00gust.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettreduroidesue00gust.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

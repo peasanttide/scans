@@ -1,0 +1,94 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loiquinommelesme00fran"
+type = "pamphlet"
+title = "Loi qui nomme les membres du juri chargé de l'examen des livres élémentaires remis au concours : du 18 messidor, l'an deuxième de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1794"
+note = """Caption title. At head of title: (No. 26*). At right of title: B. no. 17, D. 78. Signed, p. [1]: Voulland, ex-président; Bordas et A. Besson, secrétaires. Imprint from colophon. Not in Martin & Walter. Révolution française. "La Convention nationale ... décrète ..."--P. [1]. Loi qui nomme les membres du juri chargé de l'examen des livres élémentaires remis au concours ... -- Loi qui fixe le délai dans lequel devront être déposés tous fonds ou effets appartenans aux habitans des pays qui sont en guerre avec la République ... B. no. 17, D. 79 -- Loi qui détermine la manière dont seront effectués, dans les caisses nationales, les paiemens autres que ceux de pensions intérêts et remboursemens de la dette publique, etc. ... B. no. 17, D. 80 -- Loi portant que l'administration du département du Cantal sera définitivement fixée à Aurillac ... B. no. 17, D. 81. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/loiquinommelesme00fran"
+subject = [
+    "France. Trésorerie nationale",
+    "Alien property",
+    "Recording and registration",
+    "Payment",
+    "Finance, Public",
+    "Debts, Public",
+    "Textbooks",
+]
+extent = "4 p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10345 no. 15"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8z94cw9v"
+internet_archive = "loiquinommelesme00fran"
+
+[scan]
+file = "loiquinommelesme00fran.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loiquinommelesme00fran"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Voulland, Jean-Henri, 1751-1801"
+role = "author"
+
+[[resp]]
+name = "Bordas, Pardoux, 1748-1842"
+role = "author"
+
+[[resp]]
+name = "Besson, Alexandre, 1758-1826"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépot des loix, place de la Réunion, ci-devant du grand-Carrousel"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_860350"
+
+[[text]]
+file = "loiquinommelesme00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquinommelesme00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquinommelesme00fran.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquinommelesme00fran.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

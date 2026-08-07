@@ -1,0 +1,91 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettrespatentesd00fran_21"
+type = "pamphlet"
+title = "Lettres patentes du roi, sur les décrets de l'Assemblée nationale, des 4 & 5 janvier 1790, concernant les pensions, traitemens conservés, &c. la suspension de tout payement, même provisoire, desdites pensions, & de tous appointemens & traitemens à l'égard des François actuellement absens sans mission expresse du gouvernement, & enfin le sequestre des revenus des bénéfices dont les titulaires françois, également absens du royaume, le seront encore trois mois après la publication desdites lettres patentes : données à Paris, le 14 janvier 1790"
+language = "fr"
+place = "A Paris"
+date = "1790"
+note = "Caption title. Signed: Louis. Et plus bas, par le roi, de Saint-Priest. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."
+url = "https://archive.org/details/lettrespatentesd00fran_21"
+subject = [
+    "Pensions",
+    "Refugee property",
+]
+extent = "3 p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10326 no. 7"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t22c44v42"
+internet_archive = "lettrespatentesd00fran_21"
+openlibrary_edition = "OL26224892M"
+openlibrary_work = "OL17620218W"
+
+[scan]
+file = "lettrespatentesd00fran_21.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettrespatentesd00fran_21"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Sovereign (1774-1792 : Louis XVI)"
+role = "author"
+
+[[resp]]
+name = "Louis XVI, King of France, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "Saint-Priest, François-Emmanuel Guignard, comte de, 1735-1821"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "Imprimerie royale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie royale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_851114"
+
+[[text]]
+file = "lettrespatentesd00fran_21.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrespatentesd00fran_21.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrespatentesd00fran_21.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrespatentesd00fran_21.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

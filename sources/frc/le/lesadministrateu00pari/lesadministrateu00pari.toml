@@ -1,0 +1,67 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lesadministrateu00pari"
+type = "pamphlet"
+title = "Les administrateurs composant le directoire du département de Paris au département [blank]"
+language = "fr"
+place = "France"
+date = "1793"
+note = "Caption title. At head of title: Paris, le [blank] mars 1793, l'an 2e. de la République française. Newberry's copy addressed in ms. to the département de la Haute Marne and dated le 7 mars 1793. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages.  No page numbers."
+url = "https://archive.org/details/lesadministrateu00pari"
+subject = [
+    "Domicile",
+    "Interstate controversies",
+]
+extent = "[2] p. ; 23 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10081 no. 6"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9j43w536"
+internet_archive = "lesadministrateu00pari"
+openlibrary_edition = "OL26222744M"
+openlibrary_work = "OL17618215W"
+
+[scan]
+file = "lesadministrateu00pari.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/lesadministrateu00pari"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Paris (France : Dept.). Directoire"
+role = "author"
+
+[[resp]]
+name = "Haute-Marne (France) ICN"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_855438"
+
+[[text]]
+file = "lesadministrateu00pari.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lesadministrateu00pari.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "leffusionducur00harv"
+type = "pamphlet"
+title = "L'effusion du cœur."
+language = "fr"
+place = "France"
+date = "1792"
+note = """Caption title. Signed: Par N.J. Harvant. "Air: Ah ça v'là qu'est donc baclé!"--P. [1]. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged pages and cover. Skewed text. Uneven binding. Stained, marked and / or loose pages."""
+url = "https://archive.org/details/leffusionducur00harv"
+subject = [
+    "Louis XVI, King of France, 1754-1793",
+    "Revolutionary ballads and songs",
+]
+extent = "3 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 19643"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t83j8gp83"
+internet_archive = "leffusionducur00harv"
+openlibrary_edition = "OL26203337M"
+openlibrary_work = "OL17599797W"
+
+[scan]
+file = "leffusionducur00harv.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/leffusionducur00harv"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Harvant, N. J"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_841002"
+
+[[text]]
+file = "leffusionducur00harv.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "leffusionducur00harv.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "leffusionducur00harv.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "leffusionducur00harv.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

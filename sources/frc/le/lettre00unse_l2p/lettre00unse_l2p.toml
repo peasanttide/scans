@@ -1,0 +1,74 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettre00unse_l2p"
+type = "pamphlet"
+title = "Lettre de M. Sarot, avocat au Parlement, au rédacteur du Journal de l'Assemblée nationale & Commune de Paris, insérée dans le no. 262, & pouvant servir de réponse préparatoire aux sollicitudes énoncées dans la protestation de M. Bergasse, député à l'Assemblée nationale, contre les assignats-monnoie : Paris, 19 avril 1790."
+language = "fr"
+place = "Paris"
+date = "1790"
+note = "Caption title. Imprint from colophon. Place of publication from Martin & Walter. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  IV:1, 31030. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained, marked and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/lettre00unse_l2p"
+subject = ["Assignats"]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 25057"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4qk2qt7v"
+internet_archive = "lettre00unse_l2p"
+
+[scan]
+file = "lettre00unse_l2p.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettre00unse_l2p"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Sarot, Charles-Pons-Boromée"
+role = "author"
+
+[[resp]]
+name = "Bergasse, Nicolas, 1750-1832. Protestation de M. Bergasse, député de la sénéchausée de Lyon, contre les assignats-monnoie"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Senties, père, place Saint-Michel, no. 7"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_850322"
+
+[[text]]
+file = "lettre00unse_l2p.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00unse_l2p.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00unse_l2p.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00unse_l2p.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

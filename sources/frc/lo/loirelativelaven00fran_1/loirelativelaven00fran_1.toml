@@ -1,0 +1,91 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loirelativelaven00fran_1"
+type = "pamphlet"
+title = "Loi relative à la vente des grains & farines en dépôt, appartenans à la nation : donnée à Paris, le 19 novembre 1790"
+language = "fr"
+place = "A Paris"
+date = "1791"
+note = """Caption title. "Signé Louis. Et plus bas, l'archevêque de Bordeaux"--P. 3. Imprint from colophon. Not in Martin & Walter. Révolution française. "Décret de l'Assemblée nationale, du 12 novembre 1790"--P. [1]-2. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages."""
+url = "https://archive.org/details/loirelativelaven00fran_1"
+subject = [
+    "Grain trade",
+    "Food supply",
+]
+extent = "3 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10338 no. 31"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0ps2x65z"
+internet_archive = "loirelativelaven00fran_1"
+openlibrary_edition = "OL26226050M"
+openlibrary_work = "OL17621363W"
+
+[scan]
+file = "loirelativelaven00fran_1.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loirelativelaven00fran_1"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Sovereign (1774-1792 : Louis XVI)"
+role = "author"
+
+[[resp]]
+name = "Louis XVI, King of France, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "Champion de Cicé, Jérôme Marie, comte, 1735-1810"
+role = "author"
+
+[[resp]]
+name = "Nyon, Nicolas-Henri, b. 1751?"
+role = "publisher"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de N.H. Nyon, rue Mignon Saint-André-des-Arcs"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_853049"
+
+[[text]]
+file = "loirelativelaven00fran_1.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativelaven00fran_1.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativelaven00fran_1.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativelaven00fran_1.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

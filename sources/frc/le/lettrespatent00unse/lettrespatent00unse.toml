@@ -1,0 +1,81 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettrespatent00unse"
+type = "pamphlet"
+title = "Lettres patentes du roi, sur un décret de l'Assemblée nationale, du 4 juillet, relatif à la fourniture de sel à l'étranger : données à Saint-Cloud le 26 juillet 1790"
+language = "fr"
+place = "A Paris"
+date = "1790"
+note = "Caption title. Signed: Louis. Et plus bas, par le roi, Guignard. Vu au conseil, Lambert. Imprint from colophon. Not in Martin & Walter. Révolution française. Number 31 of 53 titles bound together. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/lettrespatent00unse"
+subject = [
+    "Salt industry and trade",
+    "Export controls",
+]
+extent = "2 p. ; 25 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 28375"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4jm7dn25"
+internet_archive = "lettrespatent00unse"
+
+[scan]
+file = "lettrespatent00unse.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/lettrespatent00unse"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Sovereign (1774-1792 : Louis XVI)"
+role = "author"
+
+[[resp]]
+name = "Louis XVI, King of France, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "Saint-Priest, François-Emmanuel Guignard, comte de, 1735-1821"
+role = "author"
+
+[[resp]]
+name = "Lambert, Charles-Guillaume, 1726-1793"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "Imprimerie royale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie royale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_851152"
+
+[[text]]
+file = "lettrespatent00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrespatent00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

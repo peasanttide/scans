@@ -1,0 +1,100 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lebonmariagenouv00espa"
+type = "pamphlet"
+title = "Le bon mariage : nouvelle /"
+language = "fr"
+place = "France"
+date = "1793"
+note = "Caption title. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover page. Skewed text. Uneven binding."
+url = "https://archive.org/details/lebonmariagenouv00espa"
+subject = [
+    "Espagnac, Marc-René-Marie d'Amarzit de Sahuguet d', 1752-1794",
+    "Nouvelle Compagnie des Indes",
+    "Liquidation",
+]
+extent = "7 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 18347"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6zw6g23h"
+internet_archive = "lebonmariagenouv00espa"
+openlibrary_edition = "OL26201847M"
+openlibrary_work = "OL17598365W"
+
+[scan]
+file = "lebonmariagenouv00espa.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/lebonmariagenouv00espa"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Espagnac, Marc-René-Marie d'Amarzit de Sahuguet d', 1752-1794"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_837930"
+
+[[text]]
+file = "lebonmariagenouv00espa.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lebonmariagenouv00espa.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lebonmariagenouv00espa.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lebonmariagenouv00espa.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lebonmariagenouv00espa.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lebonmariagenouv00espa.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lebonmariagenouv00espa.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lebonmariagenouv00espa.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

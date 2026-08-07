@@ -1,0 +1,83 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "laurentlecointre00leco"
+type = "pamphlet"
+title = "Laurent Le Cointre, député a l'Assemblée nationale, a Caritat, dit Condorcet, auteur de la Chronique de Paris, ce 7 Juin 1792, l'an quatrième de la liberté."
+language = "fr"
+place = "Paris"
+date = "1792"
+note = "Caption title. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  III, 20309. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged pages.  Skewed print."
+url = "https://archive.org/details/laurentlecointre00leco"
+subject = [
+    "Narbonne, Louis de, 1755-1813",
+    "Denunciation (Criminal law)",
+]
+extent = "3 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 12263"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t43r5j613"
+internet_archive = "laurentlecointre00leco"
+openlibrary_edition = "OL25914929M"
+openlibrary_work = "OL17338235W"
+
+[scan]
+file = "laurentlecointre00leco.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/laurentlecointre00leco"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Lecointre, Laurent, d. 1805"
+role = "author"
+
+[[resp]]
+name = "Condorcet, Jean-Antoine-Nicolas de Caritat, marquis de, 1743-1794"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_826276"
+
+[[text]]
+file = "laurentlecointre00leco.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "laurentlecointre00leco.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "laurentlecointre00leco.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "laurentlecointre00leco.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

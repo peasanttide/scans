@@ -1,0 +1,89 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loisrelativesaux00fran_16"
+type = "pamphlet"
+title = "Lois relatives aux remboursemens et aux transactions des 15 germinal et 5 thermidor an IV : des 15 germinal et 5 thermidor an IV de la république rançaise, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1796"
+note = """Caption title. At head of title: Nos. 130 et 223. Au nom de la République française. Signed: Carnot, président; par le Directoire exécutif, le secrétaire général, Lagarde. Imprint from colophon. "No. 2"--Bottom of p. [1]. Not in Martin & Walter. Révolution française. 1o. Loi qui lève la suspension des remboursemens, et détermine le mode de paiement des obligations, des loyers et des fermages, du 15 germinal, an IV. (No. 130). (B. 37) -- 2o. Loi relative à la liberté des transactions entre citoyens, du 5 thermidor an IV. (No. 223), (B. 58). Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."""
+url = "https://archive.org/details/loisrelativesaux00fran_16"
+subject = [
+    "Landlords",
+    "Leases",
+    "Payment",
+    "Land tenure",
+]
+extent = "4 p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10347 no. 103"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9s234d27"
+internet_archive = "loisrelativesaux00fran_16"
+openlibrary_edition = "OL26230334M"
+openlibrary_work = "OL17625310W"
+
+[scan]
+file = "loisrelativesaux00fran_16.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loisrelativesaux00fran_16"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Directoire exécutif"
+role = "author"
+
+[[resp]]
+name = "Carnot, Lazare, 1753-1823"
+role = "author"
+
+[[resp]]
+name = "Lagarde, Joseph-Jean, baron, 1755-1840"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois, place du Carrousel"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_858432"
+
+[[text]]
+file = "loisrelativesaux00fran_16.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loisrelativesaux00fran_16.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loisrelativesaux00fran_16.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loisrelativesaux00fran_16.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

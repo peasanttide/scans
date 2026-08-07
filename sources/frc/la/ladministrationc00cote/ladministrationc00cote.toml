@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "ladministrationc00cote"
+type = "pamphlet"
+title = "L'administration centrale du département de la Côte-d'Or, aux administrations municipales de son ressort, et aux commissaires du directoire exécutif près ces administrations"
+language = "fr"
+place = "France"
+date = "1799"
+note = "Caption title. At left of title: Bureau des contributions. Patentes de l'an 8. Dated at end: 13 brumaire an 8 de la République française. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages."
+url = "https://archive.org/details/ladministrationc00cote"
+subject = [
+    "Business tax",
+    "Tax incidence",
+    "Bureaucracy",
+]
+extent = "3 p. ; 28 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9701 no. 32"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9091d016"
+internet_archive = "ladministrationc00cote"
+openlibrary_edition = "OL26223996M"
+openlibrary_work = "OL17619452W"
+
+[scan]
+file = "ladministrationc00cote.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/ladministrationc00cote"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Côte-d'Or (France). Administration centrale"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_857116"
+
+[[text]]
+file = "ladministrationc00cote.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ladministrationc00cote.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ladministrationc00cote.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ladministrationc00cote.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

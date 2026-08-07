@@ -1,0 +1,105 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "latrompetteparis00coll"
+type = "pamphlet"
+title = "La Trompette parisienne, ou, Nouveaux changemens de domicile : partira-t-il ? ne partira-t-il pas ?."
+language = "fr"
+place = "Paris"
+date = "1800"
+note = """Caption title. Imprint from colophon. "Ils feront come nous... pour que la Constitution de l'an 8, de l'ère républicain, ne devienne pas un jour celle de tout l'univers"--P. 7. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  I, 7909. Scanner's note: No copyright page found. No table-of-contents pages found. Title and cover pages combined."""
+url = "https://archive.org/details/latrompetteparis00coll"
+subject = [
+    "Napoleon I, Emperor of the French, 1769-1821",
+    "George III, King of Great Britain, 1738-1820",
+    "Pitt, William, 1759-1806",
+    "Second Coalition, War of the, 1798-1801",
+]
+extent = "8 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 16420"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t08w8dd51"
+internet_archive = "latrompetteparis00coll"
+openlibrary_edition = "OL26197842M"
+openlibrary_work = "OL17594554W"
+
+[scan]
+file = "latrompetteparis00coll.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/latrompetteparis00coll"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Collignon"
+role = "author"
+
+[[resp]]
+name = "Renaudière, Nicolas"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie de Renaudière, maison de Cluny, rue de la Harpe, no. 497"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_834202"
+
+[[text]]
+file = "latrompetteparis00coll.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "latrompetteparis00coll.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "latrompetteparis00coll.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "latrompetteparis00coll.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "latrompetteparis00coll.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "latrompetteparis00coll.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "latrompetteparis00coll.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "latrompetteparis00coll.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

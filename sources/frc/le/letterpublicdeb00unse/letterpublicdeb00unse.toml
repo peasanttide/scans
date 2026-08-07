@@ -1,0 +1,83 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "letterpublicdeb00unse"
+type = "pamphlet"
+title = "[Letter on public debt]"
+language = "fr"
+place = "France"
+date = "1789"
+note = "Signed, p. 2: Le vicomte d'Aubusson. Dated at end: Paris, 3 octobre 1789. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française, I, 735. Scanner's note: No copyright page found. No table-of-contents pages found. Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text. Pages have been cut."
+url = "https://archive.org/details/letterpublicdeb00unse"
+subject = [
+    "Banks and banking",
+    "Debts, Public",
+]
+extent = "3 p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 26455"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3325392c"
+internet_archive = "letterpublicdeb00unse"
+openlibrary_edition = "OL26229111M"
+openlibrary_work = "OL17624145W"
+
+[scan]
+file = "letterpublicdeb00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/letterpublicdeb00unse"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Aubusson, Pierre-Arnaud, vicomte d',1717-1797"
+role = "author"
+
+[[resp]]
+name = "Aubusson, Pierre-Arnaud, vicomte d', 1717-1797"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_862185"
+
+[[text]]
+file = "letterpublicdeb00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "letterpublicdeb00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "letterpublicdeb00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "letterpublicdeb00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

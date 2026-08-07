@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loiquiprononcede00fran"
+type = "pamphlet"
+title = "Loi qui prononce des peines contre tout propriétaire ou cultivateur soumis à une réquisition en grains, qui n'y satisfera pas dans le délai de huit jours : du 3 pluviose, l'an troisième de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1795"
+note = """Caption title. At head of title: (No. 259*). At right of title: B. no. 114, D. no. 604. Signed: Tallien, ex-président; Bouret, Talot, secrétaires. Imprint from colophon. Not in Martin & Walter. Révolution française. "La Convention nationale ... décrète ..."--P. [1]. Scanner's note: No copyright page found. No table-of-contents pages found.   Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/loiquiprononcede00fran"
+subject = [
+    "Grain trade",
+    "Land tenure",
+]
+extent = "2 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10345 no. 138"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1rg0wg6n"
+internet_archive = "loiquiprononcede00fran"
+openlibrary_edition = "OL26229507M"
+openlibrary_work = "OL17624540W"
+
+[scan]
+file = "loiquiprononcede00fran.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/loiquiprononcede00fran"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Tallien, Jean-Lambert, 1767-1820"
+role = "author"
+
+[[resp]]
+name = "Bouret, Henri Charles Gaspard, 1752-1805"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Depot des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_860474"
+
+[[text]]
+file = "loiquiprononcede00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquiprononcede00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "leconseilgeneral00sein"
+type = "pamphlet"
+title = "Le conseil général du département de la Seine Inférieure, a l'assemblée, s'intitulant Assemblée centrale de résistance à l'oppression, des départemens réunis, séant à Caen"
+language = "fr"
+place = "A Rouen"
+date = "1793"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."
+url = "https://archive.org/details/leconseilgeneral00sein"
+subject = ["Administrative law"]
+extent = "4 p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10266 no. 6"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5hb47t3w"
+internet_archive = "leconseilgeneral00sein"
+openlibrary_edition = "OL26223210M"
+openlibrary_work = "OL17618671W"
+
+[scan]
+file = "leconseilgeneral00sein.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/leconseilgeneral00sein"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Seine-Inférieure (France). Conseil général"
+role = "author"
+
+[[resp]]
+name = "Le Boullenger, Jacques-Joseph-Jean-Baptiste, b. 1740"
+role = "publisher"
+
+[[resp]]
+name = "De l'imprimerie de J.J. Le Boullenger, imprimeur du département de la Seine Inférieure, rue du Grand-Maulévrier"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_857518"
+
+[[text]]
+file = "leconseilgeneral00sein.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "leconseilgeneral00sein.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "leconseilgeneral00sein.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "leconseilgeneral00sein.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

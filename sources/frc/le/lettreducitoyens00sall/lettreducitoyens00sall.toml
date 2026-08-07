@@ -1,0 +1,98 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettreducitoyens00sall"
+type = "pamphlet"
+title = "Lettre du citoyen Salle, député à la Convention, au citoyen Biquilley, vice-président du départment de la Meurthe : imprimée par ordre de la Convention nationale."
+language = "fr"
+place = "Paris"
+date = "1793"
+note = "Caption title. At head of title: Convention nationale. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  IV:1, 30867. Scanner's note: Title page and cover are combined. Damaged, stained, marked and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/lettreducitoyens00sall"
+subject = [
+    "Salle, Jean-Baptiste, 1759-1794",
+    "France. Tribunal révolutionnaire",
+    "Girondists",
+]
+extent = "6 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 25004"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0qs03q1c"
+internet_archive = "lettreducitoyens00sall"
+
+[scan]
+file = "lettreducitoyens00sall.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/lettreducitoyens00sall"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Salle, Jean-Baptiste, 1759-1794"
+role = "author"
+
+[[resp]]
+name = "Bicquilley, Charles-François, 1738-1814"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_850642"
+
+[[text]]
+file = "lettreducitoyens00sall.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettreducitoyens00sall.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettreducitoyens00sall.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettreducitoyens00sall.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettreducitoyens00sall.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettreducitoyens00sall.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

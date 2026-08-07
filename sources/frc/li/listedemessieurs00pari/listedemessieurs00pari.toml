@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "listedemessieurs00pari"
+type = "pamphlet"
+title = "Liste de Messieurs les commissaires nommés pour la rédaction du Cahier du Tiers-Etat de la prévôté & vicomté de Paris, hors les murs"
+language = "fr"
+place = "Paris"
+date = "1789"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages."
+url = "https://archive.org/details/listedemessieurs00pari"
+subject = ["Paris (France). Tiers Etat"]
+extent = "4 p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10061 no. 2"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t27999144"
+internet_archive = "listedemessieurs00pari"
+openlibrary_edition = "OL26222397M"
+openlibrary_work = "OL17617866W"
+
+[scan]
+file = "listedemessieurs00pari.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/listedemessieurs00pari"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Paris (France : Généralité). Prévôté et vicomté de Paris hors les murs"
+role = "author"
+
+[[resp]]
+name = "Desaint, Jean-Charles, d. 1789"
+role = "publisher"
+
+[[resp]]
+name = "J. Ch. Desaint, imprimeur du Châtelet, rue de la Harpe, au-dessus de l'eglise Saint-Côme, no. 133"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_855395"
+
+[[text]]
+file = "listedemessieurs00pari.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "listedemessieurs00pari.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "listedemessieurs00pari.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "listedemessieurs00pari.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

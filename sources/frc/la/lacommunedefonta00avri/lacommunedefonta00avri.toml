@@ -1,0 +1,74 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lacommunedefonta00avri"
+type = "pamphlet"
+title = "La commune de Fontainebleau aux représentans du peuple français, relativement aux écoles centrales."
+language = "fr"
+place = "A Paris"
+date = "1794"
+note = "Caption title. Signed: Avril, maire; Dassy, commissaires. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  I, 916. Scanner's note: No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/lacommunedefonta00avri"
+subject = ["School sites"]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 13755"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3712nz28"
+internet_archive = "lacommunedefonta00avri"
+
+[scan]
+file = "lacommunedefonta00avri.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lacommunedefonta00avri"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Avril, maire de Fontainebleau"
+role = "author"
+
+[[resp]]
+name = "Dassy"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Vachot, rue de la Loi, no. 989"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_829064"
+
+[[text]]
+file = "lacommunedefonta00avri.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lacommunedefonta00avri.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lacommunedefonta00avri.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lacommunedefonta00avri.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,97 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "leconservateurde00rusa"
+type = "pamphlet"
+title = "Le conservateur de la Restauration"
+language = "fr"
+place = "Paris"
+date = "1828"
+note = """Prospectus for "Le conservateur de la Restauration.". Caption title. Place of publication and publisher from colophon. "Le conservateur a déjà trois mois d'existence ... Le conservateur est venu au milieu de deux époques ... entre la chambre royaliste de 1827 et la chambre populaire de 1828 ..."--P. [1]. "On souscrit à Paris, a la direction du Conservateur, rue Saint-Dominique Saint-Germain, n° 29 ..., a la librairie ecclésiastique de Rusand, rue du Pot-au-Fer Saint-Sulpice, n° 8; a Lyon, chez Rusand, libraire, imprimeur du roi, rue Mercière, n° 26; chez les principaux libraires des provinces et de l'étranger, et chez tous les directeurs des postes"--P. 4. "L'ouvrage ... paraît aux mêmes époques que son prédécesseur, par livraisons égales ou inégales, moyennant 11 fr. pour un volume, 20 fr. pour deux, 36 fr. pour quatre à Paris, et 1 fr. 50 c. de plus par volume pour les départemens"--P. 4. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Text extends off of the edge of the page.  Text lost in binding."""
+url = "https://archive.org/details/leconservateurde00rusa"
+subject = [
+    "Conservateur de la Restauration",
+    "Booksellers and bookselling",
+    "Periodicals",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1d no. 16"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5v75446k"
+internet_archive = "leconservateurde00rusa"
+
+[scan]
+file = "leconservateurde00rusa.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/leconservateurde00rusa"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Rusand, Mathieu-Placide, 1767-1839"
+role = "bookseller"
+
+[[resp]]
+name = "P. Poussielgue-Rusand (Firm)"
+role = "publisher"
+
+[[resp]]
+name = "De l'imprimerie ecclésiastique de Poussielgue-Rusand, rue de Sèvres, n° 2"
+role = "publisher"
+
+[[text]]
+file = "leconservateurde00rusa.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "leconservateurde00rusa.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "leconservateurde00rusa.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "leconservateurde00rusa.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "leconservateurde00rusa.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "leconservateurde00rusa.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "leconservateurde00rusa.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "leconservateurde00rusa.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

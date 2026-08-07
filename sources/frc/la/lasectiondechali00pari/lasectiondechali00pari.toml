@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lasectiondechali00pari"
+type = "pamphlet"
+title = "La Section de Chalier a la Convention nationale : le décadi 10 prairial [an II = 29 mai 1794]"
+language = "fr"
+place = "Paris"
+date = "1794"
+note = "Caption title. Imprint from colophon. An expression of loyalty to the Convention. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on cover page. Damaged, stained and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/lasectiondechali00pari"
+extent = "3, [1] p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 6572"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t44r3073f"
+internet_archive = "lasectiondechali00pari"
+openlibrary_edition = "OL26218563M"
+openlibrary_work = "OL17614269W"
+
+[scan]
+file = "lasectiondechali00pari.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lasectiondechali00pari"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Paris (France). Section de Chalier"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Moutard"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_59022"
+
+[[text]]
+file = "lasectiondechali00pari.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lasectiondechali00pari.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lasectiondechali00pari.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lasectiondechali00pari.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

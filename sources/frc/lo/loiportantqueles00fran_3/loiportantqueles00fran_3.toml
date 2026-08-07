@@ -1,0 +1,81 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loiportantqueles00fran_3"
+type = "pamphlet"
+title = "Loi portant que les billets de confiance qui, en exécution de la loi du 11 ventôse, doivent être remboursés, seront brûlés après avoir été vérifiés : du 17 messidor, l'an deuxième de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1794"
+note = """Caption title. At head of title: (No. 25*). At right of title: B. no. 16, D. 76. Signed, p. [1]: Mallarmé, ex-président; Bordas et A. Besson, secrétaires. Imprint from colophon. Not in Martin & Walter. Révolution française. "La Convention nationale ... décrète ..."--P. [1]. "Loi qui proroge jusqu'au premier vendémiaire le délai accordé aux Suisses, par la loi du 29 germinal, pour la remise des titres qui justifient leurs services militaires en France, du 17 messidor, l'an deuxième de la République française, une et indivisible. B. no. 16, D. 77"--P. [1]-2. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/loiportantqueles00fran_3"
+subject = [
+    "Swiss mercenaries",
+    "Military pensions",
+    "Paper money",
+    "Emergency currency",
+]
+extent = "2 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10345 no. 14"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5r83gz5n"
+internet_archive = "loiportantqueles00fran_3"
+openlibrary_edition = "OL26229154M"
+openlibrary_work = "OL17624188W"
+
+[scan]
+file = "loiportantqueles00fran_3.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/loiportantqueles00fran_3"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Mallarmé, François-Réné-Auguste, 1756-1835"
+role = "author"
+
+[[resp]]
+name = "Bordas, Pardoux, 1748-1842"
+role = "author"
+
+[[resp]]
+name = "Besson, Alexandre, 1758-1826"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du dépôt des lois, place de la Réunion, ci-devant du grand Carrousel"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_860349"
+
+[[text]]
+file = "loiportantqueles00fran_3.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiportantqueles00fran_3.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

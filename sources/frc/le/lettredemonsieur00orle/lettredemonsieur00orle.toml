@@ -1,0 +1,111 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettredemonsieur00orle"
+type = "pamphlet"
+title = "Lettre de Monsieur le duc d'Orléans, a l'Assemblée nationale, sur son retour a Paris, ou, Extrait de la séance du 6 juillet 1790."
+language = "fr"
+place = "Paris"
+date = "1790"
+note = """Imprint from colophon. Suggested date of publication based on another edition, published in Paris by Garnéry in 1790. Cf. Martin & Walter. Variant of Martin & Walter. Révolution française, III, 26080. "Après quoi, M. de La Fayette est monté à la tribune, & a dit ..."--P. 5-6. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page is on the cover. Damaged, stained, and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/lettredemonsieur00orle"
+subject = [
+    "Orléans, Louis Philippe Joseph, duc d', 1747-1793",
+    "Lafayette, Marie Joseph Paul Yves Roch Gilbert Du Motier, marquis de, 1757-1834",
+]
+extent = "7 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 23272"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6645017d"
+internet_archive = "lettredemonsieur00orle"
+openlibrary_edition = "OL26237648M"
+openlibrary_work = "OL17632197W"
+
+[scan]
+file = "lettredemonsieur00orle.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/lettredemonsieur00orle"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Orléans, Louis Philippe Joseph, duc d', 1747-1793"
+role = "author"
+
+[[resp]]
+name = "Lafayette, Marie Joseph Paul Yves Roch Gilbert Du Motier, marquis de, 1757-1834"
+role = "author"
+
+[[resp]]
+name = "Garnéry, Jean-Baptiste, 1764-1843"
+role = "publisher"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "Chez Garnéry, libraire, rue Serpente, no. 17"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_847457"
+
+[[text]]
+file = "lettredemonsieur00orle.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredemonsieur00orle.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredemonsieur00orle.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredemonsieur00orle.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredemonsieur00orle.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredemonsieur00orle.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredemonsieur00orle.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredemonsieur00orle.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

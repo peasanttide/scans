@@ -1,0 +1,85 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lyceedesar00unse"
+type = "pamphlet"
+title = "Lycée des arts : le commissionaire de Saint-Lazare"
+language = "fr"
+place = "A Paris"
+date = "1794"
+note = """Caption title. Signed: Par le citoyen J.M. Sedaine. La 1ere sanculotide de l'an 2e de la République, une et indivisible. "Imprimé aux frais du Lycée, au profit du C. Cange"--P. [1]. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text. No title page found. No copyright page found. No table-of-contents pages found."""
+url = "https://archive.org/details/lyceedesar00unse"
+subject = [
+    "Cange, Joseph, b. 1753",
+    "Prison wardens",
+    "Prisoners' families",
+    "Benevolence",
+]
+extent = "4 p. ; 28 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 27215"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t19k9gv3k"
+internet_archive = "lyceedesar00unse"
+openlibrary_edition = "OL26229872M"
+openlibrary_work = "OL17624903W"
+
+[scan]
+file = "lyceedesar00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lyceedesar00unse"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Sedaine,1719-1797"
+role = "author"
+
+[[resp]]
+name = "Sedaine, 1719-1797"
+role = "author"
+
+[[resp]]
+name = "Lycée des arts"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de la Feuille du cultivateur et du Lycée des arts, rue des Fossés-Victor, no. 12"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_868140"
+
+[[text]]
+file = "lyceedesar00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lyceedesar00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lyceedesar00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lyceedesar00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

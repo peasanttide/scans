@@ -1,0 +1,88 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loisrelativeslas00fran"
+type = "pamphlet"
+title = "Lois relatives à la suppression de toutes celles portant fixation d'un maximum sur le prix des denrées et marchandises : du 4 nivose, l'an troisième de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1794"
+note = """Caption title. At head of title: (No. 223*). At right of title: B. no. 104, D. no. 538, 539, 540. Signed, p. 2: Bréard, ex-président; Boucher-Sauveur, Chiappe, secrétaires. Imprint from colophon. Not in Martin & Walter. Révolution française. "La Convention nationale ... décrète ..."--P. [1]. "Loi additionnelle à celle du 4 nivose, sur l'abolition du maximum"--P 3. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/loisrelativeslas00fran"
+subject = [
+    "France. Armée",
+    "Grain trade",
+    "Price regulation",
+]
+extent = "3 p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10345 no. 113"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7cs0zv0v"
+internet_archive = "loisrelativeslas00fran"
+openlibrary_edition = "OL26229266M"
+openlibrary_work = "OL17624300W"
+
+[scan]
+file = "loisrelativeslas00fran.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loisrelativeslas00fran"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Bréard, Jean Jacques, 1750-1840"
+role = "author"
+
+[[resp]]
+name = "Boucher de Saint Sauveur, Antoine, 1723-1805"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_860449"
+
+[[text]]
+file = "loisrelativeslas00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loisrelativeslas00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loisrelativeslas00fran.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loisrelativeslas00fran.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

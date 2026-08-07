@@ -1,0 +1,87 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lasocitpopulaire00soci_3"
+type = "pamphlet"
+title = "La Société populaire de Limoges : a la Société populaire de Paris, dite des Jacobins."
+language = "fr"
+place = "Paris"
+date = "1793"
+note = "Caption title. Imprint from colophon. Dated on p.3: ... 3 ao^ut 1793, l'an 2e. de la République, une et indivisible .. Martin & Walter IV 2: 16859. Scanner's note: Title page located on front cover. No copyright page found. No table-of-contents pages found. Worn, damaged and discolored pages and cover. Skewed text. Uneven binding."
+url = "https://archive.org/details/lasocitpopulaire00soci_3"
+subject = [
+    "Political clubs",
+    "Jacobins",
+]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 8386"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5m95b44m"
+internet_archive = "lasocitpopulaire00soci_3"
+openlibrary_edition = "OL26220690M"
+openlibrary_work = "OL17616274W"
+
+[scan]
+file = "lasocitpopulaire00soci_3.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lasocitpopulaire00soci_3"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Société populaire de Limoges"
+role = "author"
+
+[[resp]]
+name = "Société populaire de Limoges"
+role = "author"
+
+[[resp]]
+name = "Lille (France)"
+role = "author"
+
+[[resp]]
+name = "Société des amis de la liberté et de l'égalité séante aux ci-devant Jacobins"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie des 86 dép. et de la Société des Jacobins"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_38580"
+
+[[text]]
+file = "lasocitpopulaire00soci_3.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lasocitpopulaire00soci_3.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lasocitpopulaire00soci_3.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lasocitpopulaire00soci_3.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

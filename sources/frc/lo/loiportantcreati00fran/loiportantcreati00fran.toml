@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loiportantcreati00fran"
+type = "pamphlet"
+title = "Loi portant création d'un septième ministère, sous le nom de police générale de la République : du 14 nivose, an quatrième de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1796"
+note = "Caption title. At head of title: No. 47. Au nom de la République française. At right of title: B. 16, No. 94. Signed: Reubell, président; par le Directoire exécutif, le secrétaire général, Lagarde. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover. Only one numbered page."
+url = "https://archive.org/details/loiportantcreati00fran"
+subject = [
+    "France. Ministère de la police générale",
+    "Police administration",
+]
+extent = "2 p. ; 25 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10347 no. 59"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t71w0nx99"
+internet_archive = "loiportantcreati00fran"
+openlibrary_edition = "OL26230683M"
+openlibrary_work = "OL17625660W"
+
+[scan]
+file = "loiportantcreati00fran.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/loiportantcreati00fran"
+ppi = 300
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Directoire exécutif"
+role = "author"
+
+[[resp]]
+name = "Reubell, Jean-François, 1747-1807"
+role = "author"
+
+[[resp]]
+name = "Lagarde, Joseph-Jean, baron, 1755-1840"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_858387"
+
+[[text]]
+file = "loiportantcreati00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiportantcreati00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

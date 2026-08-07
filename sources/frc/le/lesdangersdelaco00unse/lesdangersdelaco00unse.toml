@@ -1,0 +1,71 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lesdangersdelaco00unse"
+type = "pamphlet"
+title = "Les dangers de la confession : Air: Mon Pere, je viens devant vous."
+language = "fr"
+place = "A Auxerre"
+date = "1795"
+note = "Caption title. Imprint from colophon. First two lines: On lit dans le journal chrétien, / Et soit disant patriotique. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found.  Title and cover pages are combined.  Damaged, stained pages.  Skewed, faint text."
+url = "https://archive.org/details/lesdangersdelaco00unse"
+subject = [
+    "Confession",
+    "Church and state",
+]
+extent = "3 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 2652"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t39075t59"
+internet_archive = "lesdangersdelaco00unse"
+openlibrary_edition = "OL26211084M"
+openlibrary_work = "OL17607156W"
+
+[scan]
+file = "lesdangersdelaco00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lesdangersdelaco00unse"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "De l'imprimerie de Baillif"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_43974"
+
+[[text]]
+file = "lesdangersdelaco00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lesdangersdelaco00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lesdangersdelaco00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lesdangersdelaco00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lagracedesgardes00gard"
+type = "pamphlet"
+title = "La grace des Gardes françoises accordée : et leurs remercîmens adressés au roi ; ce 6 juillet 1789."
+language = "fr"
+place = "s.l."
+date = "1789"
+note = "Caption title. Without imprint. Signed at end: Les très-humbles, très-soumis & très obéissans Gardes françoises. Martin & Walter IV 2: 7113. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover page.  Uneven binding.  Damaged, stained and/or loose pages.  Skewed text."
+url = "https://archive.org/details/lagracedesgardes00gard"
+extent = "3 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 4064"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/txxxxxxxx"
+internet_archive = "lagracedesgardes00gard"
+openlibrary_edition = "OL26212153M"
+openlibrary_work = "OL17608135W"
+
+[scan]
+file = "lagracedesgardes00gard.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lagracedesgardes00gard"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Gardes nationales de France"
+role = "author"
+
+[[resp]]
+name = "France. Sovereign (1774-1792 : Louis XVI)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_47132"
+
+[[text]]
+file = "lagracedesgardes00gard.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lagracedesgardes00gard.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lagracedesgardes00gard.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lagracedesgardes00gard.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

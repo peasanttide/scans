@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "louiscapet00bous"
+type = "pamphlet"
+title = "A Louis Capet /"
+language = "fr"
+place = "Paris?"
+date = "1792"
+note = """Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. "La mechanceté du clergé réfractaire a la loi"--P. [2]-[4]. Scanner's note: No copyright page found. No table-of-contents pages found. Title page located on front cover. Damaged, worn pages. Skewed text."""
+url = "https://archive.org/details/louiscapet00bous"
+subject = [
+    "Louis XVI, King of France, 1754-1793",
+    "Catholic nonjurors",
+]
+extent = "[4] p. ; 14 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 15202"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4jm74q18"
+internet_archive = "louiscapet00bous"
+openlibrary_edition = "OL25944891M"
+openlibrary_work = "OL17366144W"
+
+[scan]
+file = "louiscapet00bous.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/louiscapet00bous"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Boussemart, Louis Roch Joseph"
+role = "author"
+
+[[resp]]
+name = "Gouriet, Jean-Baptiste, 1774-1855"
+role = "publisher"
+
+[[resp]]
+name = "De l'imprimerie de Gouriet, rue S. Etienne-des-Grès, no. 20"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_831444"
+
+[[text]]
+file = "louiscapet00bous.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "louiscapet00bous.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "louiscapet00bous.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "louiscapet00bous.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,81 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettrecircul00unse"
+type = "pamphlet"
+title = "Lettre circulaire de M. l'évêque du départment de l'Ain, adressée à MM. les curés, vicaires et officiers municipaux de son diocese"
+language = "fr"
+place = "France"
+date = "1791"
+note = "Caption title. Signed: Le 22 novembre 1791. J.B. Royer, evêque du département de l'Ain. Not in Martin & Walter. Révolution française. Scanner's note: Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text. No title page found. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/lettrecircul00unse"
+subject = [
+    "Catholic Church",
+    "Clergy",
+    "Bishops",
+    "Ordination",
+]
+extent = "[4] p. ; 23 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 27193"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5s80hv1z"
+internet_archive = "lettrecircul00unse"
+openlibrary_edition = "OL26229588M"
+openlibrary_work = "OL17624621W"
+
+[scan]
+file = "lettrecircul00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettrecircul00unse"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Royer, Jean Baptiste,1733-1807"
+role = "author"
+
+[[resp]]
+name = "Royer, Jean Baptiste, 1733-1807"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_868118"
+
+[[text]]
+file = "lettrecircul00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrecircul00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrecircul00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrecircul00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

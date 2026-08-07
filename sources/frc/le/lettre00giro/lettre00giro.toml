@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettre00giro"
+type = "pamphlet"
+title = "Lettre /"
+language = "fr"
+place = "A Paris"
+date = "1790"
+note = "Caption title. Imprint from colophon. This edition not in Martin & Walter (cf. IV 2: 7103, which specifies: Sur le service de la marine). Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover page.  Uneven binding.  Damaged, stained and/or loose pages.  Skewed text."
+url = "https://archive.org/details/lettre00giro"
+subject = ["France. Marine"]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 4050"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3033x417"
+internet_archive = "lettre00giro"
+openlibrary_edition = "OL26213362M"
+openlibrary_work = "OL17609339W"
+
+[scan]
+file = "lettre00giro.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettre00giro"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Gironde (France)"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_50239"
+
+[[text]]
+file = "lettre00giro.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00giro.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00giro.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00giro.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

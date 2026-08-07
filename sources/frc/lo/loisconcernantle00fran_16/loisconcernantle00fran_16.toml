@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loisconcernantle00fran_16"
+type = "pamphlet"
+title = "Lois concernant les douanes et le commerce : du 19 vendémiaire an VI de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1797"
+note = """Caption title. At head of title: No. 590. Au nom de la République française. Imprint from colophon. "No. 11"--Bottom of p. [1]. Not in Martin & Walter. Révolution française. 1o. Loi qui prescrit les formalités auxquelles seront assujéties les marchandises et denrées destinées pour les communes de Carrouge et de Thonon, département du Mont-Blanc -- 2o. Loi qui prescrit les formalités à remplir pour la circulation des marchandises et denrées dans les deux lieues limitrophes de l'étranger. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."""
+url = "https://archive.org/details/loisconcernantle00fran_16"
+subject = [
+    "Customs administration",
+    "Commercial law",
+]
+extent = "4 p. ; 28 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10349 no. 40"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2d84gf2x"
+internet_archive = "loisconcernantle00fran_16"
+openlibrary_edition = "OL26229647M"
+openlibrary_work = "OL17624680W"
+
+[scan]
+file = "loisconcernantle00fran_16.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loisconcernantle00fran_16"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois, place du Carrousel : Et se trouve dans les villes chef-lieux de département, au bureau de correspondance du Dépôt des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_859877"
+
+[[text]]
+file = "loisconcernantle00fran_16.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loisconcernantle00fran_16.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loisconcernantle00fran_16.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loisconcernantle00fran_16.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

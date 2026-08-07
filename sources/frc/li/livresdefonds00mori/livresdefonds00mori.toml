@@ -1,0 +1,53 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "livresdefonds00mori"
+type = "pamphlet"
+title = "Livres de fonds et d'assortiment qui se trouvent chez Morin et Lenoir, libraires, rue de Savoie, no. 4"
+language = "fr"
+place = "Paris"
+date = "1801"
+note = "Caption title. Publication date from BN. Catalogues de libraires. Printed in double columns. BN. Catalogues de libraires. With prices. Stamp: Rép. fra. Dept. de la Seine. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Text extends off of the edge of the page. Text may be lost in the binding. Permanent creases may obscure some text. Title page and cover are combined."
+url = "https://archive.org/details/livresdefonds00mori"
+subject = ["Morin et Lenoir"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 8 no. 45"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8bg8cc2d"
+internet_archive = "livresdefonds00mori"
+
+[scan]
+file = "livresdefonds00mori.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/livresdefonds00mori"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Morin et Lenoir"
+role = "author"
+
+[[resp]]
+name = "Morin et Lenoir"
+role = "publisher"
+
+[[text]]
+file = "livresdefonds00mori.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "livresdefonds00mori.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

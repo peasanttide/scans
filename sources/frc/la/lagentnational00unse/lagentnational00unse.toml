@@ -1,0 +1,84 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lagentnational00unse"
+type = "pamphlet"
+title = "L'agent national du district de la Campagne de Lyon, aux agens nationaux de communes du même district"
+language = "fr"
+place = "France"
+date = "1795"
+note = """Caption title. At head of title: Égalité. Liberté. Signed, p. [1]: Phe. Goiran, agent national. Imprint from colophon. Not in Martin & Walter. Révolution française. "Copie de la lettre écrite par le comité révolutionnaire du district de Lyon, a l'agent national du district de la Campagne de Lyon. Lyon le 13 ventôse de l'an 3 de la République française, une & indivisible"--P. [2]-[3]. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages.  No page numbers."""
+url = "https://archive.org/details/lagentnational00unse"
+subject = [
+    "Escape (Law)",
+    "Customs administration",
+    "Internal security",
+]
+extent = "[3] p. ; 24 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9895 no. 8"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t88h3r720"
+internet_archive = "lagentnational00unse"
+openlibrary_edition = "OL26223663M"
+openlibrary_work = "OL17619118W"
+
+[scan]
+file = "lagentnational00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lagentnational00unse"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Lyon (France). District de la Campagne"
+role = "author"
+
+[[resp]]
+name = "Goiran, Philippe"
+role = "author"
+
+[[resp]]
+name = "Lyon (France). Comité révolutionnaire"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_855192"
+
+[[text]]
+file = "lagentnational00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lagentnational00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lagentnational00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lagentnational00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

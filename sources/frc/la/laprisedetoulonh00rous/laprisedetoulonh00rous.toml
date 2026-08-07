@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "laprisedetoulonh00rous"
+type = "pamphlet"
+title = "La prise de Toulon : hymne pour la fête de la victoire, 10 nivose /"
+language = "fr"
+place = "Paris"
+date = "1793"
+note = "Caption title. Imprint from colophon. Publication date from Martin & Walter. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  IV:1, 30140. Scanner's note: No copyright page found. No table-of-contents pages found.   Title is on the cover page. Skewed text.  Irregular pagination/missing pages."
+url = "https://archive.org/details/laprisedetoulonh00rous"
+subject = ["Revolutionary ballads and songs"]
+extent = "[3] p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 13088"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7cs0kc9c"
+internet_archive = "laprisedetoulonh00rous"
+openlibrary_edition = "OL25931548M"
+openlibrary_work = "OL17353777W"
+
+[scan]
+file = "laprisedetoulonh00rous.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/laprisedetoulonh00rous"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Rousseau, Thomas, -1800"
+role = "author"
+
+[[resp]]
+name = "Club des Jacobins"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie des 86 départemens et de la Société, aux Jacobins"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_827808"
+
+[[text]]
+file = "laprisedetoulonh00rous.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "laprisedetoulonh00rous.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "laprisedetoulonh00rous.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "laprisedetoulonh00rous.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

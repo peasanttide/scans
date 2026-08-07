@@ -1,0 +1,83 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettre00guye"
+type = "pamphlet"
+title = "Lettre /"
+language = "fr"
+place = "s.l."
+date = "1788"
+note = "Caption title. Without imprint. Signed at end: Les gentilshommes de Guienne, Gascogne & Périgord, &c. Opening sentence: Le roi ne vous avoit pas encore rappellé à l'administration des finances, lorsque la noblesse de Guienne, Gascogne & Perigord a eu l'honneur de lui adresser le mémoire, où elle a consigné ses respectueueses réclamations contre les edits désastreux du 8 mai dernier [i.e. 8 mai 1788]. Not in Martin & Walter. Scanner's note: No title page found. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/lettre00guye"
+extent = "[4] p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 4816"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6j154174"
+internet_archive = "lettre00guye"
+openlibrary_edition = "OL26213155M"
+openlibrary_work = "OL17609130W"
+
+[scan]
+file = "lettre00guye.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettre00guye"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Guyenne (France). Noblesse"
+role = "author"
+
+[[resp]]
+name = "Necker, Jacques, 1732-1804"
+role = "author"
+
+[[resp]]
+name = "Gascony (France). Noblesse"
+role = "author"
+
+[[resp]]
+name = "Périgord (France). Noblesse"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_55591"
+
+[[text]]
+file = "lettre00guye.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00guye.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00guye.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00guye.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

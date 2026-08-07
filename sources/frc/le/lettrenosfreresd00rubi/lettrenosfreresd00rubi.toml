@@ -1,0 +1,70 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettrenosfreresd00rubi"
+type = "pamphlet"
+title = "Lettre a nos frères d'armes des régimens /"
+language = "fr"
+place = "France"
+date = "1790"
+note = "Caption title. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained, marked and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/lettrenosfreresd00rubi"
+subject = ["Patriotism"]
+extent = "3 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 24832"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2j72r120"
+internet_archive = "lettrenosfreresd00rubi"
+
+[scan]
+file = "lettrenosfreresd00rubi.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettrenosfreresd00rubi"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Rubigny de Berteval, Jean-Antoine de"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_851214"
+
+[[text]]
+file = "lettrenosfreresd00rubi.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrenosfreresd00rubi.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrenosfreresd00rubi.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrenosfreresd00rubi.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

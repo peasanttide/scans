@@ -1,0 +1,26 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: loirelativelasup00fran_3
+page: 27
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 3092
+h: 4098
+dpi: 350
+---
+
+*7
+
+appofer le fceau de l’état. A Paris, le dix-huitième
+jour du mois d’août mil fept cent quatre-vingt-
+douze, l’an quatrième de la liberté. Signe Roland.
+Contrefigné DaNTON. Et fcellées du fceau de
+l’état.
+
+Certifié conforme à [original.
+
+A PARIS,
+
+DE L’IMPRIMERIE NATÏONALE DU LOUVRE.
+
+M. D C C. X C I I.

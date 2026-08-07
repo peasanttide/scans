@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lesermentcivique00guin"
+type = "pamphlet"
+title = "Le serment civique de M. l'Abbé Guinan, fait le 10 avril 1791 dans l'Église Saint-Louis de Bordeaux."
+language = "fr"
+place = "France?"
+date = "1791"
+note = "Caption title. At head of title: Prix, deux sous. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on the cover page. Damaged pages."
+url = "https://archive.org/details/lesermentcivique00guin"
+subject = [
+    "France",
+    "Loyalty oaths",
+    "Church and state",
+]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 19564"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6f23tx9p"
+internet_archive = "lesermentcivique00guin"
+openlibrary_edition = "OL25945695M"
+openlibrary_work = "OL17366892W"
+
+[scan]
+file = "lesermentcivique00guin.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lesermentcivique00guin"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Guinan, Jean Bernard"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_840791"
+
+[[text]]
+file = "lesermentcivique00guin.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lesermentcivique00guin.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lesermentcivique00guin.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lesermentcivique00guin.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

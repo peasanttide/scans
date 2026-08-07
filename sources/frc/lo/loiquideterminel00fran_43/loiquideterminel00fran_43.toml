@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loiquideterminel00fran_43"
+type = "pamphlet"
+title = "Loi qui détermine la manière dont les communes de l'intérieur de la République pourront être mises en état de guerre ou de siége : du 10 fructidor an V de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1797"
+note = """Caption title. At head of title: No. 544. Au nom de la République française. Imprint from colophon. "No. 3, 6"--Bottom of p. [1]. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text. Only one numbered page."""
+url = "https://archive.org/details/loiquideterminel00fran_43"
+subject = [
+    "War and emergency powers",
+    "State of siege",
+]
+extent = "2 p. ; 28 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 28248"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2p60qh01"
+internet_archive = "loiquideterminel00fran_43"
+openlibrary_edition = "OL26228796M"
+openlibrary_work = "OL17623865W"
+
+[scan]
+file = "loiquideterminel00fran_43.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loiquideterminel00fran_43"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Depot des lois, place du Carrousel : Et se trouve dans les chef-lieux de département, au bureau de correspondance du Dépôt des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_859857"
+
+[[text]]
+file = "loiquideterminel00fran_43.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquideterminel00fran_43.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquideterminel00fran_43.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquideterminel00fran_43.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

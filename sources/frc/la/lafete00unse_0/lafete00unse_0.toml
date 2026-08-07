@@ -1,0 +1,78 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lafete00unse_0"
+type = "pamphlet"
+title = "La fête des sans-culottes : couplets chantés dans un banquet civique, le dimanche 6 janvier, l'an deuxième de la République française."
+language = "fr"
+place = "Paris"
+date = "1793"
+note = """Caption title. Signed, p. 3: Aristide Valcour. Imprint from colophon. "Airs: Ce fut par la faut du sort. On compteroit les dimans. Je n'ai trouvé que des ingrats. Non, non, Doris ne pense pas"--P. [1]. Martin & Walter. Révolution française. "Autres couplets. Air: Des Marseillois"--P. 3-4; signed: Joseph Lavallée. Bibliography: Martin & Walter.  Révolution française,  IV:1, 33085. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover. Skewed text. Damaged, stained and/or loose pages."""
+url = "https://archive.org/details/lafete00unse_0"
+subject = ["Sansculottes"]
+extent = "4 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 25963"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8rc2d550"
+internet_archive = "lafete00unse_0"
+
+[scan]
+file = "lafete00unse_0.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lafete00unse_0"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Tallien, Jean-Lambert, 1767-2256"
+role = "author"
+
+[[resp]]
+name = "Plancher Valcourt, 1751-1815"
+role = "author"
+
+[[resp]]
+name = "Lavallée, Joseph, 1747-1816"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie du républicain, rue de l'Université, no. 129 ou 926"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_863339"
+
+[[text]]
+file = "lafete00unse_0.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lafete00unse_0.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lafete00unse_0.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lafete00unse_0.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

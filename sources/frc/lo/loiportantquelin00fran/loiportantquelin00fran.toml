@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loiportantquelin00fran"
+type = "pamphlet"
+title = "Loi portant que l'intérêt annuel des capitaux sera comté pour et par 360 jours seulement : du 18 frimaire l'an troisième de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1794"
+note = """Caption title. At head of title: (No. 214*). At right of title: B. no. 101, D. no. 526. Signed: Bentabole, président; Daunou, Boucher-Sauveur secrétaires. Imprint from colophon. Not in Martin & Walter. Révolution française. "La Convention nationale ... décrète ..."--P. [1]. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover. No page numbers."""
+url = "https://archive.org/details/loiportantquelin00fran"
+subject = [
+    "Terms of court",
+    "Interest",
+    "Finance, Public",
+]
+extent = "[1] p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 28271"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t52g2vn7m"
+internet_archive = "loiportantquelin00fran"
+openlibrary_edition = "OL26227342M"
+openlibrary_work = "OL17622570W"
+
+[scan]
+file = "loiportantquelin00fran.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/loiportantquelin00fran"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Bentabole, Pierre-Louis, 1753-1798"
+role = "author"
+
+[[resp]]
+name = "Daunou, P. C. F. (Pierre Claude François), 1761-1840"
+role = "author"
+
+[[resp]]
+name = "Boucher de Saint Sauveur, Antoine, 1723-1805"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Depot des lois, place de la Réunion, ci-devant du grand Carrousel"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_860439"
+
+[[text]]
+file = "loiportantquelin00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiportantquelin00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,71 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "larmeedangleterr00desa"
+type = "pamphlet"
+title = "A l'armée d'Angleterre : ode."
+language = "fr"
+place = "Paris?"
+note = "Caption title. Signed: Th. Desages. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.   Damaged, uneven binding. Title and cover are combined.  Skewed text."
+url = "https://archive.org/details/larmeedangleterr00desa"
+subject = ["Great Britain. Army"]
+extent = "3 p. ; 18 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 17322"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0gv0jh60"
+internet_archive = "larmeedangleterr00desa"
+openlibrary_edition = "OL26183217M"
+openlibrary_work = "OL17580067W"
+
+[scan]
+file = "larmeedangleterr00desa.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/larmeedangleterr00desa"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Desages, Th"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de R. Vatar, rue de l'Université, no. 139 ou 926"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_836212"
+
+[[text]]
+file = "larmeedangleterr00desa.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "larmeedangleterr00desa.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "larmeedangleterr00desa.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "larmeedangleterr00desa.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,82 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettre00unse_pro"
+type = "pamphlet"
+title = "Lettre de M. le comte de Saint-Priest, à M. le président du Comité des recherches, à l'Assemblée nationale."
+language = "fr"
+place = "A Montauban"
+date = "1789"
+note = """Caption title. Imprint from colophon. "Sur la copie de l'Imprimerie royale"--Colophon. Variant of Martin & Walter. Révolution française, IV:1, 30795. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained, marked and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/lettre00unse_pro"
+subject = [
+    "Saint-Priest, François-Emmanuel Guignard, comte de, 1735-1821",
+    "Mirabeau, Honoré-Gabriel de Riquetti, comte de, 1749-1791",
+    "Food supply",
+]
+extent = "4 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 24973"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1gj4sc4t"
+internet_archive = "lettre00unse_pro"
+
+[scan]
+file = "lettre00unse_pro.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettre00unse_pro"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Saint-Priest, François-Emmanuel Guignard, comte de, 1735-1821"
+role = "author"
+
+[[resp]]
+name = "Teulières, Vincent, 1748-1820"
+role = "printer"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791). Comité des recherches"
+role = "author"
+
+[[resp]]
+name = "Chez Vincent Teulieres, seul imprimeur du roi, bréveté, place Trimond"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_850235"
+
+[[text]]
+file = "lettre00unse_pro.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00unse_pro.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00unse_pro.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00unse_pro.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

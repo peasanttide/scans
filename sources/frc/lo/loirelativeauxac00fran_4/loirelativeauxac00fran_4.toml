@@ -1,0 +1,94 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loirelativeauxac00fran_4"
+type = "pamphlet"
+title = "Loi relative aux actes passés et aux jugemens rendus à Valenciennes et dans quelques places voisines pendant l'invasion de l'ennemi : du 28 frimaire an VIII de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1799"
+note = """Caption title. At head of title: Au nom de la République française. "Les consuls de la République ordonnent ... "--P. 3. Signed: Bonaparte, Roger-Ducos, Sieyes. Imprint from colophon. "No. 2"--Bottom of p. [1]; "No. 1028"--Top of p. [1]. Not in Martin & Walter. Révolution française. Scanner's note: Title page located on front cover. No copyright page found. No table-of-contents pages found. Worn, damaged and discolored pages and cover. Skewed text. Uneven binding."""
+url = "https://archive.org/details/loirelativeauxac00fran_4"
+subject = [
+    "Conflict of judicial decisions",
+    "Jurisdiction",
+    "Judgments",
+    "Justice, Administration of",
+    "First Coalition, War of the, 1792-1797",
+]
+extent = "3 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10350 no. 87"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0cv9nn4j"
+internet_archive = "loirelativeauxac00fran_4"
+openlibrary_edition = "OL26228818M"
+openlibrary_work = "OL17623887W"
+
+[scan]
+file = "loirelativeauxac00fran_4.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loirelativeauxac00fran_4"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Consulat (1799-1804)"
+role = "author"
+
+[[resp]]
+name = "Napoleon I, Emperor of the French, 1769-1821"
+role = "author"
+
+[[resp]]
+name = "Sieyès, Emmanuel Joseph, comte, 1748-1836"
+role = "author"
+
+[[resp]]
+name = "Ducos, Roger, 1747-1816"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois, place du Carrousel"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_859399"
+
+[[text]]
+file = "loirelativeauxac00fran_4.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativeauxac00fran_4.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativeauxac00fran_4.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativeauxac00fran_4.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

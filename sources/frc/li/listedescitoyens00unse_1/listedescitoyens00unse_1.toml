@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "listedescitoyens00unse_1"
+type = "pamphlet"
+title = "... Liste des citoyens présentés `a la Convention nationale : pour remplir les places vacantes dans les tribunaux criminels, civils, de commerce, et dans les directoires des départemens, conformément aux dispositions des articles V et VI de la loi du 7 vendémiaire dernier"
+language = "fr"
+place = "Paris"
+date = "1794"
+note = "Caption title. Imprint from colophon. At head of title: Comité de législation. Dated at end: ... 20 brumaire de l'an 3e [10 novembre 1794]. Martin & Walter IV 2: 4302. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover. No page numbers."
+url = "https://archive.org/details/listedescitoyens00unse_1"
+extent = "[4] p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9630"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1gj4mc6q"
+internet_archive = "listedescitoyens00unse_1"
+openlibrary_edition = "OL26222519M"
+openlibrary_work = "OL17617990W"
+
+[scan]
+file = "listedescitoyens00unse_1.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/listedescitoyens00unse_1"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale. Comité de législation"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale. Comité de législation"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_67983"
+
+[[text]]
+file = "listedescitoyens00unse_1.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "listedescitoyens00unse_1.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "listedescitoyens00unse_1.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "listedescitoyens00unse_1.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

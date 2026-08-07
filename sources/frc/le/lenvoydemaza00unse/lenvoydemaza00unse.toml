@@ -1,0 +1,69 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lenvoydemaza00unse"
+type = "pamphlet"
+title = "L'envoy de Mazarin av mont-Gibel, ov, L'etiqve Mazarin."
+language = "fr"
+place = "Paris"
+date = "1649"
+note = "Moreau, C. Mazarinades."
+url = "https://archive.org/details/lenvoydemaza00unse"
+subject = [
+    "Mazarin, Jules, 1602-1661",
+    "Mazarinades",
+]
+extent = "4 p.22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case F 39 .326 1649rec no.54"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6wx2vn0f"
+internet_archive = "lenvoydemaza00unse"
+
+[scan]
+file = "lenvoydemaza00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lenvoydemaza00unse"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "[s.n.], 1649"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_358259"
+
+[[text]]
+file = "lenvoydemaza00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lenvoydemaza00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lenvoydemaza00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lenvoydemaza00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

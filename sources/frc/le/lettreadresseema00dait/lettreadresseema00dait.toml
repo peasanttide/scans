@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettreadresseema00dait"
+type = "pamphlet"
+title = "Lettre adressée à Madame N*** : Paris, ce 30 décembre 1788."
+language = "fr"
+place = "France"
+date = "1788"
+note = """Caption title. Signed, p. [1]: Daiteg. Madame N*** is probably Suzanne Curchod Necker. Martin & Walter. Révolution française. "Chanson sur l'air: Tôt, tôt, tôt, battez chaud, tôt, tôt, tôt, bon courage"--P. [2]-4. Bibliography: Martin & Walter.  Révolution française,  I, 9081. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Stained pages and cover."""
+url = "https://archive.org/details/lettreadresseema00dait"
+subject = ["Necker, Jacques, 1732-1804"]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 16884"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9r25z23m"
+internet_archive = "lettreadresseema00dait"
+openlibrary_edition = "OL26199665M"
+openlibrary_work = "OL17596330W"
+
+[scan]
+file = "lettreadresseema00dait.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettreadresseema00dait"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Daiteg"
+role = "author"
+
+[[resp]]
+name = "Necker, Suzanne Curchod, 1739-1794"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_834864"
+
+[[text]]
+file = "lettreadresseema00dait.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettreadresseema00dait.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettreadresseema00dait.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettreadresseema00dait.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

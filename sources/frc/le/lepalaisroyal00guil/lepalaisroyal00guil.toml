@@ -1,0 +1,92 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lepalaisroyal00guil"
+type = "pamphlet"
+title = "Le Palais-Royal, ou, Histoire des filles du Palais-Royal"
+language = "fr"
+place = "Paris"
+date = "1790"
+note = "Prospectuses for five books. Caption title. Imprint from colophon. Le Palais-Royal, ou, Histoire des filles du Palais-Royal -- Supplément au Dictionnaire des jardiniers : contenant tous les genres et espèces de plantes non détaillés dans le dictionnaire de Miller ... par M. de Chazelles -- État naturel des peuples, ou, Essai sur les points les plus importans de la société civile, et de la société générale des nations -- Considérations sur les rapports qui doivent exister entre les colonies et les métropoles -- Les oracles de la vérité, ou, Recueil des pièces d'éloquence et de poésie. With prices. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Text extends off of the edge of the page. Text may be lost in the binding. Permanent creases may obscure some text. Title page and cover are combined."
+url = "https://archive.org/details/lepalaisroyal00guil"
+subject = [
+    "Restif de La Bretonne, 1734-1806",
+    "Chazelles, Laurent-Marie de, 1724-1808",
+    "Gavoty de Berthe, J. F. (Jean François)",
+    "Cassan",
+    "Oracles de la vérité",
+    "Booksellers and bookselling",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 8 no. 29"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5x695z6j"
+internet_archive = "lepalaisroyal00guil"
+
+[scan]
+file = "lepalaisroyal00guil.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lepalaisroyal00guil"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Guillot, Jean-François-Hubert,-1792"
+role = "author"
+
+[[resp]]
+name = "Guillot, Jean-François-Hubert, -1792"
+role = "author"
+
+[[resp]]
+name = "Restif de La Bretonne, 1734-1806. Palais-Royal"
+role = "author"
+
+[[resp]]
+name = "Chazelles, Laurent-Marie de, 1724-1808. Supplément au Dictionnaire des jardiniers"
+role = "author"
+
+[[resp]]
+name = "Gavoty de Berthe, J. F. (Jean François). De l'état naturel des peuples"
+role = "author"
+
+[[resp]]
+name = "Cassan. Considérations sur les rapports qui doivent exister entre les colonies et les métropoles"
+role = "author"
+
+[[resp]]
+name = "De la patrio-typographie de Guillot, rue des Bernardins"
+role = "publisher"
+
+[[text]]
+file = "lepalaisroyal00guil.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lepalaisroyal00guil.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lepalaisroyal00guil.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lepalaisroyal00guil.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

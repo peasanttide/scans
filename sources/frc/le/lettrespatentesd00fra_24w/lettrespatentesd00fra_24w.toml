@@ -1,0 +1,97 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettrespatentesd00fra_24w"
+type = "pamphlet"
+title = "Lettres patentes dv Roy, declaratives des droicts, priuileges & prerogatiues de Mõseigneur le Cardinal de Bourbon."
+language = "fr"
+place = "Paris"
+date = "1588"
+note = """Lacks the "Requeste faicte par Maistre Antoine Hotman. ". Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined."""
+url = "https://archive.org/details/lettrespatentesd00fra_24w"
+extent = "8 p.16 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case F 39 .326 1588fla2"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3qv8xm8w"
+internet_archive = "lettrespatentesd00fra_24w"
+
+[scan]
+file = "lettrespatentesd00fra_24w.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/lettrespatentesd00fra_24w"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France"
+role = "author"
+
+[[resp]]
+name = "Morel, Fédéric, approximately 1552-1630"
+role = "printer"
+
+[[resp]]
+name = "Iouxte la coppie de F. Morel, 1588"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_394870"
+
+[[text]]
+file = "lettrespatentesd00fra_24w.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrespatentesd00fra_24w.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrespatentesd00fra_24w.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrespatentesd00fra_24w.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrespatentesd00fra_24w.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrespatentesd00fra_24w.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrespatentesd00fra_24w.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrespatentesd00fra_24w.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

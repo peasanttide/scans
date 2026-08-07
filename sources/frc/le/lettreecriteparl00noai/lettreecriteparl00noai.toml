@@ -1,0 +1,103 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettreecriteparl00noai"
+type = "pamphlet"
+title = "Lettre écrite par le président de l'Assemblée nationale à MM. du directoire & procureur-général-syndic du département du Gard."
+language = "fr"
+place = "A Nismes"
+date = "1791"
+note = """Caption title. Signed, p. 2: Louis Noailles, président. Imprint from colophon. Not in Martin & Walter. Révolution française. "Messieurs les commissaires civils envoyés par le roi dans le département du Gard, s'étant présentés au directoire, le 9 mars 1791, M. Robin, l'un d'entre'eux, a prononcé le discours qui suit"--P. 3-6. "Réponse de M. le vice-président du directoire"--P. 7-8. Scanner's note: No title page found. No copyright page found. No table-of-contents pages found."""
+url = "https://archive.org/details/lettreecriteparl00noai"
+subject = [
+    "France. Assemblée nationale constituante (1789-1791)",
+    "Counterrevolutionaries",
+]
+extent = "8 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 23212"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3qv8rq47"
+internet_archive = "lettreecriteparl00noai"
+openlibrary_edition = "OL26237145M"
+openlibrary_work = "OL17631699W"
+
+[scan]
+file = "lettreecriteparl00noai.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/lettreecriteparl00noai"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Noailles, Louis Marie, vicomte de, 1756-1804"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "Chez J. Gaude, imprimeur du département du Gard"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_847759"
+
+[[text]]
+file = "lettreecriteparl00noai.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettreecriteparl00noai.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettreecriteparl00noai.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettreecriteparl00noai.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettreecriteparl00noai.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettreecriteparl00noai.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettreecriteparl00noai.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettreecriteparl00noai.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

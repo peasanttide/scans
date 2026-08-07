@@ -1,0 +1,18 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: ladescovvertedes00unse
+page: 1
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 2565
+h: 4223
+dpi: 500
+---
+
+I é
+
+A
+
+Sut leur ^retendu hanniffement
+
+M. DC. XXV L

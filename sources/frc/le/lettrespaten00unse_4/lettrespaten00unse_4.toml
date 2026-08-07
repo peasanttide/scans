@@ -1,0 +1,84 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettrespaten00unse_4"
+type = "pamphlet"
+title = "Lettres patentes du roi, qui révoquent la suppression & réunion des quatre offices d'avocats au conseil : données à Versailles le 20 septembre 1783 : registrées en l'audience de France le 31 décembre audit an"
+language = "fr"
+place = "A Paris"
+date = "1784"
+note = """Caption title. "Signé Louis. Et plus bas, par le roi. Signé Amelot"--P. 3. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."""
+url = "https://archive.org/details/lettrespaten00unse_4"
+subject = ["Privy councils"]
+extent = "3 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 27459"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t75t8sc9c"
+internet_archive = "lettrespaten00unse_4"
+openlibrary_edition = "OL26228507M"
+openlibrary_work = "OL17623576W"
+
+[scan]
+file = "lettrespaten00unse_4.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettrespaten00unse_4"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Sovereign (1774-1792 : Louis XVI)"
+role = "author"
+
+[[resp]]
+name = "Louis XVI, King of France, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "Amelot de Chaillou, Antoine-Jean, d. 1795"
+role = "author"
+
+[[resp]]
+name = "Imprimerie royale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie royale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_861577"
+
+[[text]]
+file = "lettrespaten00unse_4.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrespaten00unse_4.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrespaten00unse_4.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrespaten00unse_4.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

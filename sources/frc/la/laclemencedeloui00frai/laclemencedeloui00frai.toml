@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "laclemencedeloui00frai"
+type = "pamphlet"
+title = "La clémence de Louis XVI."
+language = "fr"
+place = "Paris"
+date = "1789"
+note = "Caption title. Signed at end: Fraissinet. Imprint from colophon. In praise of Necker and the King after the ceremony of July 17, 1789. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  II, 13775. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page is on the cover. Skewed text. Damaged, stained, loose pages. Uneven binding."
+url = "https://archive.org/details/laclemencedeloui00frai"
+subject = [
+    "Louis XVI, King of France, 1754-1793",
+    "Necker, Jacques, 1732-1804",
+]
+extent = "3 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 18738"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2x39sr5z"
+internet_archive = "laclemencedeloui00frai"
+openlibrary_edition = "OL26201433M"
+openlibrary_work = "OL17597956W"
+
+[scan]
+file = "laclemencedeloui00frai.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/laclemencedeloui00frai"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Fraissinet"
+role = "author"
+
+[[resp]]
+name = "Cailleau, André-Charles, 1731-1798"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie de Cailleau, rue Galande, No. 64"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_839529"
+
+[[text]]
+file = "laclemencedeloui00frai.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "laclemencedeloui00frai.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "laclemencedeloui00frai.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "laclemencedeloui00frai.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

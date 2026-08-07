@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loisdelarpubliqu00fran"
+type = "pamphlet"
+title = "Lois de la République française, an IV.e de la Republique une et indivisible : N.o 180."
+language = "fr"
+place = "A Blois"
+date = "1795"
+note = "Caption title. Imprint from colophon. Comprises the following:. [1] (N.o 1100.) Loi portant proclamation de l'acceptation par le peuple français, de la constitution qui lui a été présentée par la Convention nationale. Du 1.er vendémiaire [23 septembre 1795]. [2] (N.o 1101.) Loi concernant l'acceptation par le peuple français, des décrets des 5 et 13 fructidor [an III? = 22 et 30 août 1795], sur la réélection des deux tiers de la Convention nationale. Du 1.er vendémiaire [23 septembre 1795]. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover."
+url = "https://archive.org/details/loisdelarpubliqu00fran"
+subject = [
+    "France. Convention nationale",
+    "France",
+]
+extent = "3 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 5130"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4wh7n36w"
+internet_archive = "loisdelarpubliqu00fran"
+openlibrary_edition = "OL26212332M"
+openlibrary_work = "OL17608312W"
+
+[scan]
+file = "loisdelarpubliqu00fran.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loisdelarpubliqu00fran"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale du département de Loir et Cher, chez J.F. Billault"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_56244"
+
+[[text]]
+file = "loisdelarpubliqu00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loisdelarpubliqu00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loisdelarpubliqu00fran.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loisdelarpubliqu00fran.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

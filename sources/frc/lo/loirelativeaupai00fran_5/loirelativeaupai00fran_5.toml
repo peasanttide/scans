@@ -1,0 +1,64 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loirelativeaupai00fran_5"
+type = "pamphlet"
+title = "Loi relative au paiement des valeurs stipulées dans les baux à ferme antérieurs au décret du premier brumaire an II, en équivalent de la dîme et d'autres droits supprimés : du 27 brumaire an V de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1796"
+note = """Caption title. At head of title: No. 357. Au nom de la République française. Imprint from colophon. "No. 4"--Bottom of p. [1]. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/loirelativeaupai00fran_5"
+subject = ["Land tenure"]
+extent = "2 p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10348 no. 68"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1zd32v02"
+internet_archive = "loirelativeaupai00fran_5"
+openlibrary_edition = "OL26229379M"
+openlibrary_work = "OL17624413W"
+
+[scan]
+file = "loirelativeaupai00fran_5.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/loirelativeaupai00fran_5"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois, place du Carrousel, et se trouve dans les villes chefs-lieux de département, au bureau de correspondance du Dépôt des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_859194"
+
+[[text]]
+file = "loirelativeaupai00fran_5.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativeaupai00fran_5.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

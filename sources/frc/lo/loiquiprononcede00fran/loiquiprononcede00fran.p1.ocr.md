@@ -1,0 +1,62 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: loiquiprononcede00fran
+page: 1
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 3063
+h: 4211
+dpi: 350
+---
+
+2i5p». )
+
+L O
+
+I>. n°. 114.
+
+D. 11*^ • 604.
+
+Qiiù prononce des peines contre tout propriétaire on cultivateur soumis
+
+à une réquisition en grains , qui n^ satinera pas dans le délai de
+
+huit jours.
+
+Du 3 Pluviôse , l’aji troisième de la République française , une et indivisible.
+
+X iA Convention nationale, après avoir entendu le rapport de son comité d®
+salut public , décrète ;
+
+Article premier.
+
+Tout propriétaire ou cultivateur soumis à une réquisition en grains , et qui n*j
+satisfera pas dans le délai de huit jours, sera arrêté et détenu. Les mandais d’arrêt
+ne pourront être lancés que par les représentans du peuple. Les cultivateurs ou
+proprietaires détenus qui satisferont aux réquisitions , seront de suite mis en liberté.
+
+II.
+
+Indépendamment des peines portées en l’article précédent, ils seront soumis à
+une amende égale à la valeur des grains qu’ils auront négligé ouu-efusé de fournir.
+
+III.
+
+Dans les cas où les propriétaires de grains se prétendraient dans l’impossibilité de
+livrer', les représentans en mission poiuTont seuls les dégrever de leur réquisition ;
+
+' et dans ce cas , ils pe pourront être inquiétés.
+
+IV.
+
+Le prix des réquisitions sera réglé sur le prix courant des marchés à l’époque ou
+elles auront dû être executees, quand même il seroit plus considérable au moment
+de la livraison.
+
+V.
+
+Dans les endroits où il y a deâ marchés établis sans qu’il s’y trouve de mercu-
+riales, à défaut d’approrisionnemens desdits marches, le prix des grains fournis sur
+des réquisions sera payé d’après les mercuriales les plus voisines.
+
+. >«1

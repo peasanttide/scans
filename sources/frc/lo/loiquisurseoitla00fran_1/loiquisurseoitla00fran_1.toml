@@ -1,0 +1,68 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loiquisurseoitla00fran_1"
+type = "pamphlet"
+title = "Loi qui surseoit à la vente des biens des hospices et autres établissemens de bienfaisance : du 9 fructidor, an troisième de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1795"
+note = """Caption title. At head of title: (No. 534.*). At right of title: B. no. 174. D. 1053. "La Convention nationale ... décrète ...". Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/loiquisurseoitla00fran_1"
+subject = [
+    "Government sale of real property",
+    "Restraints on alienation",
+    "Public welfare",
+]
+extent = "[1] p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10346 no. 143"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6k127f4g"
+internet_archive = "loiquisurseoitla00fran_1"
+openlibrary_edition = "OL26230300M"
+openlibrary_work = "OL17625276W"
+
+[scan]
+file = "loiquisurseoitla00fran_1.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/loiquisurseoitla00fran_1"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_861909"
+
+[[text]]
+file = "loiquisurseoitla00fran_1.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquisurseoitla00fran_1.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

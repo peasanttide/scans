@@ -1,0 +1,81 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loiconcernantles00fran_17"
+type = "pamphlet"
+title = "Loi concernant les bons reçus à la Trésorerie, par les rentiers et pensionnaires : du 10 floréal an V de la République française, une et indivisible."
+language = "fr"
+place = "A Paris"
+date = "1797"
+note = """Caption title. At head of title: No. 475. Au nom de la République française. Imprint from colophon. "Nos. 9, 10"--Bottom of p. [1]. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/loiconcernantles00fran_17"
+subject = [
+    "Rent",
+    "Pensions",
+    "Tax administration and procedure",
+    "Payment",
+]
+extent = "2 p. ; 28 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 28015"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6353sw1w"
+internet_archive = "loiconcernantles00fran_17"
+openlibrary_edition = "OL26229349M"
+openlibrary_work = "OL17624383W"
+
+[scan]
+file = "loiconcernantles00fran_17.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loiconcernantles00fran_17"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Depot des lois, place du Carrousel, et se trouve dans les villes chefs-lieux de département, au bureau de correspondance du Dépôt des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_859240"
+
+[[text]]
+file = "loiconcernantles00fran_17.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiconcernantles00fran_17.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiconcernantles00fran_17.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiconcernantles00fran_17.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

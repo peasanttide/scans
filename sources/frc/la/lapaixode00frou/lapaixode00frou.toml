@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lapaixode00frou"
+type = "pamphlet"
+title = "La paix : ode."
+language = "fr"
+place = "A Auxerre"
+date = "1797"
+note = "Caption title. Signed: Par le citoyen Froussard, professeur de belles-lettres à l'Ecole centrale de l'Yonne. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page is on the cover. Skewed text."
+url = "https://archive.org/details/lapaixode00frou"
+subject = ["First Coalition, War of the, 1792-1797"]
+extent = "4 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 18814"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3130w81s"
+internet_archive = "lapaixode00frou"
+openlibrary_edition = "OL26200674M"
+openlibrary_work = "OL17597282W"
+
+[scan]
+file = "lapaixode00frou.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lapaixode00frou"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Froussard, citoyen"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de L. Fournier, imprimeur du département"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_839492"
+
+[[text]]
+file = "lapaixode00frou.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lapaixode00frou.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lapaixode00frou.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lapaixode00frou.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

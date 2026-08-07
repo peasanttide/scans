@@ -1,0 +1,46 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: lettreauxcommett00serv_1
+page: 45
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 2590
+h: 4375
+dpi: 500
+---
+
+tt’moî qui devrois répandre leur sang, je ne
+
+flétrie pas même encore leur nom Il y a
+
+long-temps , peres conscriprs, que certe con-
+juration se trame ; mais n oter la vie qu’aux
+chefs de ces brigands , ce seroit seulement sus-
+pendre nos peines et nos craintes, 'ce seroic
+renfermer ‘DOS maux dans les entrailles de la'
+
+république Que les méchans se retirent
+
+donc , qu’ils se séparent des gens de bien et
+fassent un corps à part : ah ! qu’ils mettent
+les murs de Rome entre eux et nous ; qu’ils
+cessent de ‘tendre des piégés au consul, de
+venir au sénat avec des poignards , et de pré-
+parer des torches pour nous incendier ; qu’on
+lise enfin , sur' le’ front de tout bon citoyen ,
+lesx seritimens qu’il a pour la patrie. Voilà ce
+que Cicéron disoit dans le sénat à Catilina ; et
+voilà ce qu’on auroit dû direau comte de Mira-
+beau , dans le sein de l’Assemblée Nationale;
+înais les Céthégus y étoient ; et Cicéron n’y
+étoit pas. > •
+
+Pouvei-vous , Messieurs , revenir de votre
+surprise? Quoi . M. deMirabeau , cet homme qui
+necessed’écrire,de déclamer, de tonner sur tous
+les sujets , qui semble se multiplier pour occu-
+per les autres de lui ; cet homme dont l’amour
+propre à plus de trompettes que la renommée ,
+Cet homme est accusé depuis six mois , dans
+l’opinion publique du plus 'grand des forfaits,
+€t il n’écrit ni rie parle! il esc muet; il est insen-

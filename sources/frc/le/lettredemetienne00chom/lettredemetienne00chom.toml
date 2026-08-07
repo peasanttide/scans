@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettredemetienne00chom"
+type = "pamphlet"
+title = "Lettre de M. Etienne Chompré aux citoyens de Marseille, du 13 juillet 1790."
+language = "fr"
+place = "A Marseille"
+date = "1790"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover page. Skewed text. Uneven binding. Damaged, stained, marked and/or loose pages."
+url = "https://archive.org/details/lettredemetienne00chom"
+subject = [
+    "Chompré, Etienne, 1741-1811",
+    "Political corruption",
+]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 16272"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t07x1dk26"
+internet_archive = "lettredemetienne00chom"
+openlibrary_edition = "OL26206129M"
+openlibrary_work = "OL17602421W"
+
+[scan]
+file = "lettredemetienne00chom.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettredemetienne00chom"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Chompré, Etienne, 1741-1811"
+role = "author"
+
+[[resp]]
+name = "Chez F. Brebion, imprimeur du Roi & de la ville"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_833973"
+
+[[text]]
+file = "lettredemetienne00chom.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredemetienne00chom.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredemetienne00chom.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredemetienne00chom.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

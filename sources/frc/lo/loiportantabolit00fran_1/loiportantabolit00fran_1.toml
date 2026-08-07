@@ -1,0 +1,95 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loiportantabolit00fran_1"
+type = "pamphlet"
+title = "Loi portant abolition de toutes procédures instruites sur les faits relatifs à la Révolution, aministie générale en faveur des hommes de guerre, et révocation du décret du 1er. août dernier, relatif aux émigrans : donnée à Paris, le 15 septembre 1791"
+language = "fr"
+place = "A Rouen"
+date = "1791"
+note = """Caption title. "Signé Louis. Et plus bas, M.L.F. Duport"--P. 3. "A Rouen, en Directoire ..."--P. 4. Imprint from colophon. Not in Martin & Walter. Révolution française. "Décret de l'Assemblée nationale du 14 septembre 1791"--P. [1]-2. Scanner's note: No title page found. No copyright page found. No table-of-contents pages found."""
+url = "https://archive.org/details/loiportantabolit00fran_1"
+subject = [
+    "Ex post facto laws",
+    "Amnesty",
+]
+extent = "4 p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC suppl. 85 no. 60"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2c87h90d"
+internet_archive = "loiportantabolit00fran_1"
+openlibrary_edition = "OL26235472M"
+openlibrary_work = "OL17630057W"
+
+[scan]
+file = "loiportantabolit00fran_1.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loiportantabolit00fran_1"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Sovereign (1774-1792 : Louis XVI)"
+role = "author"
+
+[[resp]]
+name = "Louis XVI, King of France, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "Duport-Dutertre, Marguerite-Louis-François, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "Oursel, Louis-Joseph, b. 1739"
+role = "publisher"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "Rouen (France). Directoire"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de L. Oursel, imprimeur du roi, rue de la Vicomté"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_859621"
+
+[[text]]
+file = "loiportantabolit00fran_1.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiportantabolit00fran_1.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiportantabolit00fran_1.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiportantabolit00fran_1.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

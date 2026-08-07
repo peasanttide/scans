@@ -1,0 +1,85 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loirelativeauxtr00fran_6"
+type = "pamphlet"
+title = "Loi relative aux transferts de la dette publique : du 28 floréal an 7 (17 mai 1799)"
+language = "fr"
+place = "A Paris"
+date = "1820"
+note = """Caption title. At head of title: Au nom de la République française. Imprint from colophon. "No. 904"--Top of p. [1]. Not in Martin & Walter. Révolution française. "(Modèle). Déclaration de transfert en exécution de la loi du [blank]"--P. 3. Scanner's note: No copyright page found. No table-of-contents pages found. Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/loirelativeauxtr00fran_6"
+subject = [
+    "France. Trésorerie nationale",
+    "Vendors and purchasers",
+    "Recording and registration",
+    "Debts, Public",
+]
+extent = "3 p. ; 28 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10350 no. 34"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t22c45d92"
+internet_archive = "loirelativeauxtr00fran_6"
+openlibrary_edition = "OL26228485M"
+openlibrary_work = "OL17623554W"
+
+[scan]
+file = "loirelativeauxtr00fran_6.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loirelativeauxtr00fran_6"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Directoire exécutif"
+role = "author"
+
+[[resp]]
+name = "Imprimerie royale (France)"
+role = "publisher"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie royale : Se trouve au Dépôt des lois, chez J. Decle, successeur de L. Rondonneau, et seul propriétaire actuel, place du Palais de justice, no. 1"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_859312"
+
+[[text]]
+file = "loirelativeauxtr00fran_6.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativeauxtr00fran_6.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativeauxtr00fran_6.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativeauxtr00fran_6.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

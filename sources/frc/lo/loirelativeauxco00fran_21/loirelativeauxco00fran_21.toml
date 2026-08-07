@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loirelativeauxco00fran_21"
+type = "pamphlet"
+title = "Loi relative aux comptes à présenter au bureau de comptabilité par les payeurs des rentes : du 26 frimaire, l'an troisième de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1794"
+note = """Caption title. At head of title: (No. 211*). At right of title: B. no. 100, D. no. 521. Signed: Reubell, président; Boudin, J.S. Rovere, secrétaires. Imprint from colophon. Not in Martin & Walter. Révolution française. "La Convention nationale ... décrète ..."--P. [1]. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover. Only one numbered page."""
+url = "https://archive.org/details/loirelativeauxco00fran_21"
+subject = [
+    "Accounting",
+    "Debtor and creditor",
+    "Finance, Public",
+]
+extent = "2 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 28312"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6p039m7z"
+internet_archive = "loirelativeauxco00fran_21"
+openlibrary_edition = "OL26227177M"
+openlibrary_work = "OL17622404W"
+
+[scan]
+file = "loirelativeauxco00fran_21.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/loirelativeauxco00fran_21"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Reubell, Jean-François, 1747-1807"
+role = "author"
+
+[[resp]]
+name = "Boudin, Jacques Antoine, 1756-1797"
+role = "author"
+
+[[resp]]
+name = "Rovère, Joseph-Stanislas, 1748-1798"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Depot des lois, place de la Réunion, ci-devant du grand-Carrousel"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_860445"
+
+[[text]]
+file = "loirelativeauxco00fran_21.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativeauxco00fran_21.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

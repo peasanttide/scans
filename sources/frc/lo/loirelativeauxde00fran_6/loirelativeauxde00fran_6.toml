@@ -1,0 +1,66 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loirelativeauxde00fran_6"
+type = "pamphlet"
+title = "Loi relative aux déclarations à faire par les débiteurs des corporations ecclésiastiques ou laïques supprimées, des émigrés, etc. : du 28 floréal, l'an troisième de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1795"
+note = """Caption title. At head of title: (No. 404.*). At right of title: B. no. 149. D. no. 861. "La Convention nationale ... décrète ce qui suit.". Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover. No page numbers."""
+url = "https://archive.org/details/loirelativeauxde00fran_6"
+subject = [
+    "Debtor and creditor",
+    "Refugees",
+    "Church and state",
+]
+extent = "[1] p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10346 no. 64"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1kh5r21w"
+internet_archive = "loirelativeauxde00fran_6"
+
+[scan]
+file = "loirelativeauxde00fran_6.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/loirelativeauxde00fran_6"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_861830"
+
+[[text]]
+file = "loirelativeauxde00fran_6.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativeauxde00fran_6.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

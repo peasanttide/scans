@@ -1,0 +1,65 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "laconventionnati00unse"
+type = "pamphlet"
+title = "A la Convention nationale, sur la loi des émigrés."
+language = "fr"
+place = "Paris"
+date = "1792"
+note = "Scanner's note: Title and cover combined, no physical cover. Stained pages with smudged and faded print. Print is close to the binding and skewed on some pages.  No copyright page found."
+url = "https://archive.org/details/laconventionnati00unse"
+extent = "4 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 8"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7hq7fx8m"
+internet_archive = "laconventionnati00unse"
+
+[scan]
+file = "laconventionnati00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/laconventionnati00unse"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "De l'imprimerie de Valade, fils aîné"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_33305"
+
+[[text]]
+file = "laconventionnati00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "laconventionnati00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "laconventionnati00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "laconventionnati00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"

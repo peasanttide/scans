@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "listedesreprsent00marn"
+type = "pamphlet"
+title = "Liste des représentans du peuple et fonctionnaires publics : élus en l'assemblée électorale du département de la Marne, tenue le 20 vendémiaire, an 4.me [12 octobre 1795], et jours suivans."
+language = "fr"
+place = "A Chaalons"
+date = "1795"
+note = "Caption title. Imprint from colophon. Dated at end: A Châlons, le 4 brumaire, an 4.me de la République, une et indivisible [26 octobre 1795]. Martin & Walter IV 2: 9468. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover."
+url = "https://archive.org/details/listedesreprsent00marn"
+subject = ["Elections"]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 5268"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/txxxxxxxx"
+internet_archive = "listedesreprsent00marn"
+openlibrary_edition = "OL26211821M"
+openlibrary_work = "OL17607821W"
+
+[scan]
+file = "listedesreprsent00marn.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/listedesreprsent00marn"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Marne (France)"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Mercier"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_55313"
+
+[[text]]
+file = "listedesreprsent00marn.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "listedesreprsent00marn.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "listedesreprsent00marn.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "listedesreprsent00marn.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

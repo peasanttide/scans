@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loirelativeauxre00fran_6"
+type = "pamphlet"
+title = "Loi relative aux rentes viagères dues par l'Etat, aux citoyens qui s'enrôlent pour le service de la patrie : du 10 septembre 1792, l'an quatrième de la liberté"
+language = "fr"
+place = "A Paris"
+date = "1793"
+note = """Caption title. At right of title: No. 2426. "L'Assemblée nationale ... décrète ..."--P. [1]. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text. No copyright page found. No table-of-contents pages found."""
+url = "https://archive.org/details/loirelativeauxre00fran_6"
+subject = [
+    "Military pensions",
+    "Survivors' benefits",
+]
+extent = "2 p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10344 no. 94"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3sv2r36g"
+internet_archive = "loirelativeauxre00fran_6"
+openlibrary_edition = "OL26230757M"
+openlibrary_work = "OL17625734W"
+
+[scan]
+file = "loirelativeauxre00fran_6.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loirelativeauxre00fran_6"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Assemblée nationale législative (1791-1792)"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale exécutive du Louvre"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_858667"
+
+[[text]]
+file = "loirelativeauxre00fran_6.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativeauxre00fran_6.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativeauxre00fran_6.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativeauxre00fran_6.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,78 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettredemdevonsh00devo"
+type = "pamphlet"
+title = "Lettre de M. Dévonshire, commandant du district des Récollets, concernant la maison des prêtres de Saint-Lazare du faubourg Saint-Laurent."
+language = "fr"
+place = "Paris"
+date = "1789"
+note = """Caption title. At head of title: De Paris, le 3 août 1789. "Extrait du Journal de Paris"--P. 4. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Skewed text. Title page and cover are combined."""
+url = "https://archive.org/details/lettredemdevonsh00devo"
+subject = ["Clergy"]
+extent = "4 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 17492"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2b906w15"
+internet_archive = "lettredemdevonsh00devo"
+openlibrary_edition = "OL26191247M"
+openlibrary_work = "OL17588070W"
+
+[scan]
+file = "lettredemdevonsh00devo.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettredemdevonsh00devo"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Dévonshire"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_836488"
+
+[[text]]
+file = "lettredemdevonsh00devo.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredemdevonsh00devo.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredemdevonsh00devo.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredemdevonsh00devo.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredemdevonsh00devo.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

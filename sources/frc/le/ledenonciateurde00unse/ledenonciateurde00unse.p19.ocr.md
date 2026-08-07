@@ -1,0 +1,10 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: ledenonciateurde00unse
+page: 19
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 2829
+h: 4556
+dpi: 650
+---

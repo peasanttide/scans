@@ -1,0 +1,90 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loirelativelafab00fran_8"
+type = "pamphlet"
+title = "Loi relative à la fabrication du papier pour les assignats décrétés le 17 mai dernier : donnée à Paris le 12 juin 1791"
+language = "fr"
+place = "A Paris"
+date = "1791"
+note = """
+Caption title. At head of title: No. 1003. "L'Assemblée nationale a décrété, et nous voulons et ordonnons ce qui suit"--P. [1]. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover. 
+Only one numbered page."""
+url = "https://archive.org/details/loirelativelafab00fran_8"
+subject = [
+    "Lagarde, dame",
+    "Assignats",
+    "Paper industry",
+]
+extent = "2 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC suppl. 84 no. 58"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t89h0vp46"
+internet_archive = "loirelativelafab00fran_8"
+openlibrary_edition = "OL26234964M"
+openlibrary_work = "OL17629546W"
+
+[scan]
+file = "loirelativelafab00fran_8.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loirelativelafab00fran_8"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Sovereign (1774-1792 : Louis XVI)"
+role = "author"
+
+[[resp]]
+name = "Louis XVI, King of France, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "Imprimerie royale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie royale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_861157"
+
+[[text]]
+file = "loirelativelafab00fran_8.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativelafab00fran_8.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativelafab00fran_8.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativelafab00fran_8.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,83 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettredemcabrolc00cabr"
+type = "pamphlet"
+title = "Lettre de M. Cabrol, chef de l'armée marseillaise, à MM. les chefs de bataillon, pour être communiquée à tous les Gardes nationales."
+language = "fr"
+place = "A Marseille"
+date = "1791"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  Title on cover.  Damaged, stained pages and cover."
+url = "https://archive.org/details/lettredemcabrolc00cabr"
+subject = [
+    "France. Armée",
+    "Military service, Voluntary",
+]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 15565"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4hn08660"
+internet_archive = "lettredemcabrolc00cabr"
+openlibrary_edition = "OL26205186M"
+openlibrary_work = "OL17601508W"
+
+[scan]
+file = "lettredemcabrolc00cabr.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettredemcabrolc00cabr"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Cabrol"
+role = "author"
+
+[[resp]]
+name = "France. Armée. Garde nationale"
+role = "author"
+
+[[resp]]
+name = "Mossy, Jean, d. 1792"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie de J. Mossy, père & fils, imprimeurs de la nation, du Roi & de la ville"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_832839"
+
+[[text]]
+file = "lettredemcabrolc00cabr.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredemcabrolc00cabr.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredemcabrolc00cabr.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredemcabrolc00cabr.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,91 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lenouveautedeumf00unse"
+type = "pamphlet"
+title = "Le nouveau Te-Deum français."
+language = "fr"
+place = "A Paris"
+date = "1790"
+note = """Caption title. Imprint from colophon. "Paraphrases du Te-Deum, par l'Abbé de Mabli et J.J. Rousseau": p.3-8. Martin & Walter IV 2: 10753. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on cover page. Damaged, stained and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/lenouveautedeumf00unse"
+extent = "8 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 5867"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t84j5kd02"
+internet_archive = "lenouveautedeumf00unse"
+openlibrary_edition = "OL26216806M"
+openlibrary_work = "OL17612625W"
+
+[scan]
+file = "lenouveautedeumf00unse.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/lenouveautedeumf00unse"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "De l'imprimerie de Champigny"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_59638"
+
+[[text]]
+file = "lenouveautedeumf00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lenouveautedeumf00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lenouveautedeumf00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lenouveautedeumf00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lenouveautedeumf00unse.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lenouveautedeumf00unse.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lenouveautedeumf00unse.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lenouveautedeumf00unse.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

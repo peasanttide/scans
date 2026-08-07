@@ -1,0 +1,87 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loirelativelamen00fran"
+type = "pamphlet"
+title = "Loi relative à la menue monnoie d'argent, décrétée le 11 janvier dernier : donnée à Paris, le 28 juillet 1791"
+language = "fr"
+place = "A Paris"
+date = "1791"
+note = """Caption title. At right of title: No. 1150. "Pour le roi. Signé M.L.F. DuPort"--P. 3. Imprint from colophon. Martin & Walter. Révolution française. "Décret de l'Assemblée nationale, du 11 juillet 1791"--P. [1]-2. Bibliography: Martin & Walter.  Révolution française, IV:2, 9143. Scanner's note: No title page found. No copyright page found. No table-of-contents pages found."""
+url = "https://archive.org/details/loirelativelamen00fran"
+subject = [
+    "Silver coins",
+    "Coinage",
+]
+extent = "3 p. ; 25 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC suppl. 85 no. 24"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5r83jq2w"
+internet_archive = "loirelativelamen00fran"
+openlibrary_edition = "OL26235050M"
+openlibrary_work = "OL17629632W"
+
+[scan]
+file = "loirelativelamen00fran.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loirelativelamen00fran"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Sovereign (1774-1792 : Louis XVI)"
+role = "author"
+
+[[resp]]
+name = "Duport-Dutertre, Marguerite-Louis-François, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "Imprimerie royale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie royale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_859585"
+
+[[text]]
+file = "loirelativelamen00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativelamen00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativelamen00fran.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativelamen00fran.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

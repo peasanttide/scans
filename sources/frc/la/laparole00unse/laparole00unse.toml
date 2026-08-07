@@ -1,0 +1,98 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "laparole00unse"
+type = "pamphlet"
+title = "La parole /"
+language = "fr"
+place = "France?"
+date = "1792"
+note = """Caption title. Martin & Walter. Révolution française. "Envoi à Messieurs les députés à l'Assemblée nationale"--P. 8. Bibliography: Martin & Walter.  Révolution française,  IV:1, 27523. Scanner's note: Title page and cover are combined. Damaged, stained, marked and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/laparole00unse"
+subject = ["Pithou de Loinville, Jean-Joseph"]
+extent = "8 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 23794"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8gf63f43"
+internet_archive = "laparole00unse"
+
+[scan]
+file = "laparole00unse.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/laparole00unse"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Pithou de Loinville, Jean-Joseph"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale législative (1791-1792)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_848507"
+
+[[text]]
+file = "laparole00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "laparole00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "laparole00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "laparole00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "laparole00unse.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "laparole00unse.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "laparole00unse.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "laparole00unse.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

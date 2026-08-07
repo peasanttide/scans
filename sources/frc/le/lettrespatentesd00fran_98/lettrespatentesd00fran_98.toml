@@ -1,0 +1,88 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettrespatentesd00fran_98"
+type = "pamphlet"
+title = "Lettres patentes du roi, qui abrogent l'usage du parchemin pour les quittances : données à Versailles le 24 février 1785 : registrées en la Chambre des comptes le 15 avril audit an"
+language = "fr"
+place = "A Paris"
+date = "1785"
+note = "Caption title. Signed: Louis; countersigned: Le bon. de Breteüil. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  Title and cover are combined. Damaged, stained and/or loose pages. Skewed text. The text on the back cover is upside-down."
+url = "https://archive.org/details/lettrespatentesd00fran_98"
+subject = [
+    "Parchment",
+    "Legal documents",
+    "Receipts (Acknowledgments)",
+]
+extent = "3 p. ; 25 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC suppl. 90 no. 22"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4rj9nt84"
+internet_archive = "lettrespatentesd00fran_98"
+openlibrary_edition = "OL26235079M"
+openlibrary_work = "OL17629661W"
+
+[scan]
+file = "lettrespatentesd00fran_98.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettrespatentesd00fran_98"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Sovereign (1774-1792 : Louis XVI)"
+role = "author"
+
+[[resp]]
+name = "Louis XVI, King of France, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "Breteuil, Louis-Auguste Le Tonnelier, baron de, 1730-1807"
+role = "author"
+
+[[resp]]
+name = "Imprimerie royale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie royale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_407068"
+
+[[text]]
+file = "lettrespatentesd00fran_98.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrespatentesd00fran_98.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrespatentesd00fran_98.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrespatentesd00fran_98.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

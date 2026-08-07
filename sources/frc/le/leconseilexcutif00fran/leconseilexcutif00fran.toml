@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "leconseilexcutif00fran"
+type = "pamphlet"
+title = "Le Conseil exécutif provisioire de la République françoise au Prince Év^eque de Rome"
+language = "fr"
+place = "A Paris"
+date = "1792"
+note = "Caption title. Imprint from colophon. Dated at end: Fait au Conseil exécutif, le vingt-trois novembre mil sept cent quatre-vingt-douze. Martin & Walter IV 2: 4014. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."
+url = "https://archive.org/details/leconseilexcutif00fran"
+extent = "3 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9602"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8md4218c"
+internet_archive = "leconseilexcutif00fran"
+openlibrary_edition = "OL26222387M"
+openlibrary_work = "OL17617856W"
+
+[scan]
+file = "leconseilexcutif00fran.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/leconseilexcutif00fran"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Conseil exécutif provisoire (1792-1793)"
+role = "author"
+
+[[resp]]
+name = "France. Conseil exécutif provisoire (1792-1793)"
+role = "author"
+
+[[resp]]
+name = "Catholic Church. Pope (1775-1799 : Pius VI)"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale exécutive du Louvre"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_67879"
+
+[[text]]
+file = "leconseilexcutif00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "leconseilexcutif00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "leconseilexcutif00fran.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "leconseilexcutif00fran.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

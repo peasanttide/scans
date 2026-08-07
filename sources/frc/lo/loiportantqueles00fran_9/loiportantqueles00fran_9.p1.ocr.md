@@ -1,0 +1,55 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: loiportantqueles00fran_9
+page: 1
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 3003
+h: 4209
+dpi: 350
+---
+
+B. n*. 66.
+
+( N°. 107. * )
+
+D. 356 .
+
+P o ita ut que les personnes qui , en exécution de celle du 27 germinal,
+sont sorties de Paris et des places frontières et maritimes , pour -
+ront être autorisées à y rentrer pour faire prononcer leur mariage
+ou leur divorce.
+
+Du 8 Vendémiaire, Pan troisième de la République française , une et indivisible,
+
+Ïja Convention nationale , après avoir entendu le rapport de son comité
+de législation, décrète ce qui suit :
+
+Article premier.
+
+Les comités de surveillance de Paris et des places frontières et maritimes
+pourront autoriser les personnes qui sont sorties en exécution de la loi du 27
+germinal , à y rentrer pour faire prononcer leur mariage ou leur divorce , lors-
+qu’elles justifieront, par un certificat de la municipalité du lieu où elles ont
+demeuré depuis cette loi , qu’elles n’y ont occasionné aucun trouble.
+
+I I
+
+Ces personnes seront tenues de justifier aux comités de surveillance que l’objet
+de leur rentrée est de faire prononcer leur mariage ou leur divorce , et seront
+obligées de sortir desdites communes et places dans le jour qui suivra leur
+mariage ou divorce.
+
+Visé par Le représentant du peuple , inspecteur aux procès -
+verbaux. Sigué Leblanc.
+
+Gollationné à l’original , par nous président et secrétaires de la Convention nationale.
+A Paris , le 9 Vendémiaire, an troisième de la République française , une et indi-
+visible. Signé A. Dumont, président , Cobdjer 9 J, Do rie 9 secrétaires.
+
+Vt>*
+
+& , de l’imprimerie du J)épôt des Rois , place de la Rétinien 3 ci-devant du grand Carrousel,
+
+vàttr
+f .>

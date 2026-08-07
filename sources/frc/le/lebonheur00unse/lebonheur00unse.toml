@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lebonheur00unse"
+type = "pamphlet"
+title = "Le bonheur de la République : stances pour la fête de la paix et du 18 brumaire."
+language = "fr"
+place = "France"
+date = "1801"
+note = "Caption title. Signed: Par André Lacombe, avoué. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page is on the cover. Damaged, stained, and/or loose pages. Uneven binding. Skewed text.  Irregular pagination."
+url = "https://archive.org/details/lebonheur00unse"
+subject = ["Second Coalition, War of the, 1798-1801"]
+extent = "[4] p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 20174"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2r54vx2t"
+internet_archive = "lebonheur00unse"
+openlibrary_edition = "OL26237591M"
+openlibrary_work = "OL17632140W"
+
+[scan]
+file = "lebonheur00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lebonheur00unse"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Lacombe, André, fl. ca. 1800"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_842045"
+
+[[text]]
+file = "lebonheur00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lebonheur00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lebonheur00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lebonheur00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

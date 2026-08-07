@@ -1,0 +1,68 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loirelativelacor00fran"
+type = "pamphlet"
+title = "Loi relative à la correction des décrets portant vente de biens nationaux, & qui suspend l'impression de ces mêmes décrets"
+language = "fr"
+place = "A Laon"
+date = "1791"
+note = "Caption title. Imprint at foot of p. 3. At upper right on p. [1]: N.⁰ 433. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Text extends off of the edge of the page. Title page and cover are combined."
+url = "https://archive.org/details/loirelativelacor00fran"
+subject = [
+    "Finance, Public",
+    "Printing, Public",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 11 no. 10"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t97715j6c"
+internet_archive = "loirelativelacor00fran"
+
+[scan]
+file = "loirelativelacor00fran.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loirelativelacor00fran"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie d'Augustin-Pierre Courtois"
+role = "publisher"
+
+[[text]]
+file = "loirelativelacor00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativelacor00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativelacor00fran.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativelacor00fran.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,95 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loirelativeauxas00fran_9"
+type = "pamphlet"
+title = "Loi relative aux assignats de cinq livres que la Trésorerie nationale est autorisée à fournir à la Caisse des échanges : donnée à Paris, le 11 décembre 1791"
+language = "fr"
+place = "A Paris"
+date = "1791"
+note = """
+Caption title. At right of title: No. 1456. Signed: Louis; countersigned: M.L.F. Du Port. Imprint from colophon. Not in Martin & Walter. Révolution française. "Décret de l'Assemblée nationale, du 30 novembre 1791"--P. [1]-2. Stamp of Duport's signature and the seal of state. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover. 
+Only one numbered page."""
+url = "https://archive.org/details/loirelativeauxas00fran_9"
+subject = [
+    "France. Trésorerie nationale",
+    "France. Caisse des échanges",
+    "Assignats",
+    "Finance, Public",
+]
+extent = "2 p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC suppl. 86 no. 65"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1kh5sr6p"
+internet_archive = "loirelativeauxas00fran_9"
+openlibrary_edition = "OL26235009M"
+openlibrary_work = "OL17629591W"
+
+[scan]
+file = "loirelativeauxas00fran_9.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loirelativeauxas00fran_9"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Sovereign (1774-1792 : Louis XVI)"
+role = "author"
+
+[[resp]]
+name = "Duport-Dutertre, Marguerite-Louis-François, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "Louis XVI, King of France, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale législative (1791-1792)"
+role = "author"
+
+[[resp]]
+name = "Imprimerie royale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie royale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_862026"
+
+[[text]]
+file = "loirelativeauxas00fran_9.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativeauxas00fran_9.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativeauxas00fran_9.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativeauxas00fran_9.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

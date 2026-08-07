@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lescitoyensdelav00noge"
+type = "pamphlet"
+title = "Les citoyens de la ville de Nogent-le-Rotrou, chef-lieu de district : aux citoyens composant la commune de Paris, salut et fraternité ; du 8 juin 1793, l'an deuxi`eme de la République une et indivisible"
+language = "fr"
+place = "Paris"
+date = "1793"
+note = "Caption title. Imprint from colophon. At head of title: Département d'Eure et Loire. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages."
+url = "https://archive.org/details/lescitoyensdelav00noge"
+extent = "3 p. ; 25 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10017"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5v74jq1c"
+internet_archive = "lescitoyensdelav00noge"
+openlibrary_edition = "OL26222401M"
+openlibrary_work = "OL17617870W"
+
+[scan]
+file = "lescitoyensdelav00noge.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lescitoyensdelav00noge"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Nogent-le-Rotrou (France). Citizens"
+role = "author"
+
+[[resp]]
+name = "Paris (France). Commune (1789-1794)"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de la Commune"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_70119"
+
+[[text]]
+file = "lescitoyensdelav00noge.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lescitoyensdelav00noge.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lescitoyensdelav00noge.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lescitoyensdelav00noge.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

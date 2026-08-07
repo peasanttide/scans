@@ -1,0 +1,83 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettreducommanda00lieu"
+type = "pamphlet"
+title = "Lettre du commandant-général à MM. les volontaires de la Garde nationale de Marseille : le 3 juin 1790."
+language = "fr"
+place = "A Marseille"
+date = "1790"
+note = "Caption title. Signed: J.F. Lieutaud, commandant-général de la Garde nationale. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title page and cover are combined. Damaged, stained and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/lettreducommanda00lieu"
+subject = [
+    "Marseille (France). Garde nationale",
+    "Insubordination",
+]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 21382"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2m66rq75"
+internet_archive = "lettreducommanda00lieu"
+openlibrary_edition = "OL26239739M"
+openlibrary_work = "OL17634279W"
+
+[scan]
+file = "lettreducommanda00lieu.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettreducommanda00lieu"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Lieutaud, Jean François"
+role = "author"
+
+[[resp]]
+name = "Mossy, Jean, d. 1792"
+role = "publisher"
+
+[[resp]]
+name = "Marseille (France). Garde nationale"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de J. Mossy, père & fils, imprimeurs de la nation & du roi"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_844498"
+
+[[text]]
+file = "lettreducommanda00lieu.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettreducommanda00lieu.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettreducommanda00lieu.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettreducommanda00lieu.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

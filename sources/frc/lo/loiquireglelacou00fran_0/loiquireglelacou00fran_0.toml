@@ -1,0 +1,91 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loiquireglelacou00fran_0"
+type = "pamphlet"
+title = "Loi qui regle la couleur des affiches : donnée à Paris, le 28 juillet 1791"
+language = "fr"
+place = "A Rouen"
+date = "1792"
+note = """Caption title. "Pour le roi. Signé M.L.F. Duport"--P. 2. "A Rouen, en Directoire ..."--P. 3. Imprint from colophon. Not in Martin & Walter. Révolution française. "Décret de l'Assemblée nationale, du 22 juillet 1791"--P. [1]-2. Scanner's note: No title page found. No copyright page found. No table-of-contents pages found."""
+url = "https://archive.org/details/loiquireglelacou00fran_0"
+subject = [
+    "Signs and signboards",
+    "Bill-posting",
+]
+extent = "3 p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC suppl. 85 no. 22"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t74v1t998"
+internet_archive = "loiquireglelacou00fran_0"
+openlibrary_edition = "OL26235041M"
+openlibrary_work = "OL17629623W"
+
+[scan]
+file = "loiquireglelacou00fran_0.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loiquireglelacou00fran_0"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Sovereign (1774-1792 : Louis XVI)"
+role = "author"
+
+[[resp]]
+name = "Duport-Dutertre, Marguerite-Louis-François, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "Oursel, Louis-Joseph, b. 1739"
+role = "publisher"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "Rouen (France). Directoire"
+role = "author"
+
+[[resp]]
+name = "De l'imp. de Louis Oursel, imprimeur du roi & du département de la Seine Inférieure, rue de la Vicomté"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_859584"
+
+[[text]]
+file = "loiquireglelacou00fran_0.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquireglelacou00fran_0.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquireglelacou00fran_0.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquireglelacou00fran_0.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loixdu15septembr00fran_0"
+type = "pamphlet"
+title = "Loix du 15 septembre 1792, l'an quatrième de la liberté : 1o. Liberté de l'exportation des ouvrages d'orfévrerie & de jouaillerie, 2o. Envoi des loix aux membres de l'Assemblée nationale"
+language = "fr"
+place = "A Paris"
+date = "1792"
+note = """Caption title. At right of title: No. 2515. "L'Assemblée nationale ... décrète ce qui suit"--P. [1]. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text. No title page found. No copyright page found. No table-of-contents pages found."""
+url = "https://archive.org/details/loixdu15septembr00fran_0"
+subject = [
+    "Export controls",
+    "Foreign trade regulation",
+    "Gazettes",
+]
+extent = "3 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 28057"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5fc06x6g"
+internet_archive = "loixdu15septembr00fran_0"
+openlibrary_edition = "OL26229228M"
+openlibrary_work = "OL17624262W"
+
+[scan]
+file = "loixdu15septembr00fran_0.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loixdu15septembr00fran_0"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Assemblée nationale législative (1791-1792)"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale exécutive du Louvre"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_858686"
+
+[[text]]
+file = "loixdu15septembr00fran_0.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loixdu15septembr00fran_0.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loixdu15septembr00fran_0.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loixdu15septembr00fran_0.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

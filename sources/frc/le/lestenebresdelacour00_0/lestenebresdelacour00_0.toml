@@ -1,0 +1,67 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lestenebresdelacour00_0"
+type = "pamphlet"
+title = "Les Tén`ebres de la cour : les lamentations du courtisan citoyen ; pour répondre `a celles du proph`ete Jérémie."
+language = "fr"
+place = "Paris"
+date = "1790"
+note = "Caption title. Imprint from colophon. Martin & Walter IV 2: 17500 [edition 2: 4 p.]. Scanner's note: No copyright page found. No table-of-contents pages found.  Title and cover page are combined. Damaged, stained and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/lestenebresdelacour00_0"
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 8648"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1gj4k14v"
+internet_archive = "lestenebresdelacour00_0"
+openlibrary_edition = "OL26214626M"
+openlibrary_work = "OL17610525W"
+
+[scan]
+file = "lestenebresdelacour00_0.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lestenebresdelacour00_0"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "De l'imprimerie de Laurens junior"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_52263"
+
+[[text]]
+file = "lestenebresdelacour00_0.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lestenebresdelacour00_0.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lestenebresdelacour00_0.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lestenebresdelacour00_0.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

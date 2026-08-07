@@ -1,0 +1,74 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loisrelatives00unse_0"
+type = "pamphlet"
+title = "Lois relatives, à l'amnistie et à la mise en liberté des citoyens condamnés pour des délits autres que le royalisme : du 29 nivose, l'an troisième de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1795"
+note = """Caption title. At head of title: (No. 256*). At right of title: B. no. 113, D. no. 959. Signed: Merlin (de Thionville), ex-président; Borel, Dumont (du Calvados), secrétaires. Imprint from colophon. Not in Martin & Walter. Révolution française. "La Convention nationale autorise ... "--P. [1]. Loi qui autorise le Comité de législation à statuer sur la mise en liberté des citoyens condamnés à la peine de mort ou à d'autres peines, pourvu que les jugemens ne soient causés ni pour délits ordinaires ni pour faits de royalisme -- Loi qui autorise les Comités de législation et de sûreté générale à statuer sur la mise en liberté des personnes condamnées à la déportation en vertu de la loi du 10 mars. B. no. 113, D. no. 596 -- Loi qui étend l'amnistie du 12 frimaire aux personnes condamnées pour avoir pris part à la révolte qui a éclaté dans les départemens formant l'arrondissement des armées de l'Ouest, des côtes de Brest et de Cherbourg. B. no. 113, D. no. 597. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/loisrelatives00unse_0"
+subject = [
+    "Prisoners",
+    "Counterrevolutionaries",
+    "Amnesty",
+]
+extent = "2 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10345 no. 136"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t50g8tb3w"
+internet_archive = "loisrelatives00unse_0"
+
+[scan]
+file = "loisrelatives00unse_0.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/loisrelatives00unse_0"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Merlin de Thionville, Antoine-Christophe, 1762-1833"
+role = "author"
+
+[[resp]]
+name = "Borel, Hyacinthe Marcellin, 1756-1796"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_860472"
+
+[[text]]
+file = "loisrelatives00unse_0.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loisrelatives00unse_0.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,100 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettresdejpbriss00bris"
+type = "pamphlet"
+title = "Lettres de J.P. Brissot a M. Dumouriez, ministre de la guerre."
+language = "fr"
+place = "Paris"
+date = "1792"
+note = """Caption title. Imprint from colophon. Place of publication from Martin & Walter. "Paris, 15 juin 1792"--P. [1]. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  I, 5232. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained, worn pages and cover."""
+url = "https://archive.org/details/lettresdejpbriss00bris"
+subject = [
+    "Brissot de Warville, J.-P. (Jacques-Pierre), 1754-1793",
+    "Dumouriez, Charles François Du Périer, 1739-1823",
+    "France. Armée",
+]
+extent = "7 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 15360"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3rv5fq55"
+internet_archive = "lettresdejpbriss00bris"
+openlibrary_edition = "OL25947899M"
+openlibrary_work = "OL17368952W"
+
+[scan]
+file = "lettresdejpbriss00bris.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/lettresdejpbriss00bris"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Brissot de Warville, J.-P. (Jacques-Pierre), 1754-1793"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie du Patriote françois, place du Théâtre Italien"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_831963"
+
+[[text]]
+file = "lettresdejpbriss00bris.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettresdejpbriss00bris.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettresdejpbriss00bris.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettresdejpbriss00bris.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettresdejpbriss00bris.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettresdejpbriss00bris.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettresdejpbriss00bris.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettresdejpbriss00bris.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

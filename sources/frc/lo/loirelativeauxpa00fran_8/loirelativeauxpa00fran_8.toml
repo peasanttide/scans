@@ -1,0 +1,71 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loirelativeauxpa00fran_8"
+type = "pamphlet"
+title = "Loi relative aux passeports : donnée à Paris, le 13 août 1792, l'an 4e. de la liberté : décret de l'Assemblée nationale, du 13 août 1792, l'an quatrième de la liberté"
+language = "fr"
+place = "A Aix"
+date = "1792"
+note = "Caption title. At head of title: No. 2014. La liberté et l'égalité. Signed: Au nom de la nation ... Danton. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, stained and/or loose pages Skewed text. Uneven binding. Title and cover page are combined."
+url = "https://archive.org/details/loirelativeauxpa00fran_8"
+subject = [
+    "Passports",
+    "Safe-conducts",
+]
+extent = "2 p. ; 25 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC suppl. 86 no. 87"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9091gk24"
+internet_archive = "loirelativeauxpa00fran_8"
+openlibrary_edition = "OL26235040M"
+openlibrary_work = "OL17629622W"
+
+[scan]
+file = "loirelativeauxpa00fran_8.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/loirelativeauxpa00fran_8"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France"
+role = "author"
+
+[[resp]]
+name = "Danton, Georges Jacques, 1759-1794"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale législative (1791-1792)"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de la veuve d'André Adibert, imprimeur [du] département"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_862044"
+
+[[text]]
+file = "loirelativeauxpa00fran_8.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativeauxpa00fran_8.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

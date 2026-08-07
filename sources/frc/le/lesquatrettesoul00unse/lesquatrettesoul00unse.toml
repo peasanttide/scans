@@ -1,0 +1,73 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lesquatrettesoul00unse"
+type = "pamphlet"
+title = "Les quatre têtes, ou la trahison punie."
+language = "fr"
+place = "Paris"
+date = "1789"
+note = "Caption title. Imprint from colophon. Martin & Walter IV 2: 14880 (which specifies: Contre Launay, Flesselles, Foulon et Berthier). Scanner's note: No copyright page found. No table-of-contents pages found. Title is on the cover page. Uneven binding. Skewed text. Damaged, stained, and/or loose pages."
+url = "https://archive.org/details/lesquatrettesoul00unse"
+subject = [
+    "Launay, Bernard René Jourdan de, 1740-1789",
+    "Flesselles, Jacques de, d. 1789",
+    "Foullon, Joseph-François, 1715-1789",
+    "Berthier, Louis Bénigne François, 1737-1789",
+]
+extent = "4 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 7316"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t11p36f6m"
+internet_archive = "lesquatrettesoul00unse"
+openlibrary_edition = "OL26221013M"
+openlibrary_work = "OL17616598W"
+
+[scan]
+file = "lesquatrettesoul00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lesquatrettesoul00unse"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Chez Letellier"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_64018"
+
+[[text]]
+file = "lesquatrettesoul00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lesquatrettesoul00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lesquatrettesoul00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lesquatrettesoul00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

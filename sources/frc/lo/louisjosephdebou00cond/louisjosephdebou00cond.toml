@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "louisjosephdebou00cond"
+type = "pamphlet"
+title = "Louis-Joseph de Bourbon, prince de Condé, aux Français."
+language = "fr"
+place = "France?"
+date = "1795"
+note = "Caption title. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  I, 8019. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, stained pages and cover. Title on cover page."
+url = "https://archive.org/details/louisjosephdebou00cond"
+subject = ["Louis XVIII, King of France, 1755-1824"]
+extent = "4 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 16481"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2t48pg93"
+internet_archive = "louisjosephdebou00cond"
+openlibrary_edition = "OL26197993M"
+openlibrary_work = "OL17594705W"
+
+[scan]
+file = "louisjosephdebou00cond.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/louisjosephdebou00cond"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Condé, Louis Joseph de Bourbon, prince de, 1736-1818"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_834647"
+
+[[text]]
+file = "louisjosephdebou00cond.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "louisjosephdebou00cond.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "louisjosephdebou00cond.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "louisjosephdebou00cond.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

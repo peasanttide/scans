@@ -1,0 +1,90 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loiadditionnelle00fran_5"
+type = "pamphlet"
+title = "Loi additionnelle à celle concernant le brûlement des titres de noblesse existant dans les dépôts publics. : donnée à Paris, le 24 juin 1792, l'an 4e. de la liberté"
+language = "fr"
+place = "A Paris"
+date = "1792"
+note = """Caption title. At right of title: No. 1799. Signed: Louis; countersigned: Duranthon. Imprint from colophon. Variant of Martin & Walter. Révolution française, IV:2, 9143. "Décret de l'Assembée nationale, du 19 juin 1792 ..."--P. [1]-2. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/loiadditionnelle00fran_5"
+subject = [
+    "Titles of honor and nobility",
+    "Genealogical libraries",
+    "Legal documents",
+]
+extent = "2 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10343 no. 60"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3gx9g30t"
+internet_archive = "loiadditionnelle00fran_5"
+
+[scan]
+file = "loiadditionnelle00fran_5.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loiadditionnelle00fran_5"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Sovereign (1774-1792 : Louis XVI)"
+role = "author"
+
+[[resp]]
+name = "Louis XVI, King of France, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "Duranthon, Antoine, 1736-1793"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale législative (1791-1792)"
+role = "author"
+
+[[resp]]
+name = "Imprimerie royale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie royale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_857361"
+
+[[text]]
+file = "loiadditionnelle00fran_5.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiadditionnelle00fran_5.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiadditionnelle00fran_5.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiadditionnelle00fran_5.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

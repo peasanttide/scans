@@ -1,0 +1,84 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "leministredesfin00rame"
+type = "pamphlet"
+title = "Le ministre des finances, au cen. Destrem, membre du Conseil des cinq-cents"
+language = "fr"
+place = "A Paris"
+date = "1798"
+note = "Caption title. At head of title: Paris, le 20 vendémiaire, an 7 de la République française, une et indivisible. Signed: D.V. Ramel. Imprint from colophon. Variant of Martin & Walter. Révolution française, IV:1, 28730. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/leministredesfin00rame"
+subject = ["Finance, Public"]
+extent = "4 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 27131"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1jh8pn9c"
+internet_archive = "leministredesfin00rame"
+openlibrary_edition = "OL26226801M"
+openlibrary_work = "OL17622028W"
+
+[scan]
+file = "leministredesfin00rame.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/leministredesfin00rame"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Ramel de Nogaret, Dominique-Vincent,1760-1829"
+role = "author"
+
+[[resp]]
+name = "Ramel de Nogaret, Dominique-Vincent, 1760-1829"
+role = "author"
+
+[[resp]]
+name = "Destrem, Hugues, 1754-1804"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie de la République"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_867770"
+
+[[text]]
+file = "leministredesfin00rame.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "leministredesfin00rame.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "leministredesfin00rame.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "leministredesfin00rame.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

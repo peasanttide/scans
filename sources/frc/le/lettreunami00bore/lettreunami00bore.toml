@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettreunami00bore"
+type = "pamphlet"
+title = "Lettre à un ami."
+language = "fr"
+place = "France"
+date = "1797"
+note = "Caption title. Signed: Bore, rue de la Michaudière. Not in Martin & Walter. Ré́volution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title found on front cover.  Damaged pages and cover."
+url = "https://archive.org/details/lettreunami00bore"
+subject = [
+    "Boissy d'Anglas, François-Antoine, comte de, 1756-1826",
+    "Dumolard, Joseph Vincent, 1766-1819",
+    "Gibert-Desmolières, Jean-Louis, 1746-1799",
+    "Refugees",
+    "Constitutional law",
+    "Conspiracies",
+]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 15014"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t52g2m68c"
+internet_archive = "lettreunami00bore"
+openlibrary_edition = "OL25945693M"
+openlibrary_work = "OL17366890W"
+
+[scan]
+file = "lettreunami00bore.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettreunami00bore"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Bore"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_831019"
+
+[[text]]
+file = "lettreunami00bore.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettreunami00bore.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettreunami00bore.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettreunami00bore.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

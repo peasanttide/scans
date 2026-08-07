@@ -1,0 +1,67 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loiquiaccordeund00fran_0"
+type = "pamphlet"
+title = "Loi qui accorde un délai pour l'insinuation des actes contenant des dispositions à titre gratuit, à l'égard desquels cette formalité aurait été omise : du 24 germinal, l'an troisième de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1795"
+note = """Caption title. At head of title: (No. 364.*). At right of title: B. no. 137. D. no. 761. "La Convention nationale ... décrète ...". Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover. No page numbers."""
+url = "https://archive.org/details/loiquiaccordeund00fran_0"
+subject = [
+    "Gifts",
+    "Formalities (Law)",
+]
+extent = "[1] p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10346 no. 37"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3nw4mh81"
+internet_archive = "loiquiaccordeund00fran_0"
+openlibrary_edition = "OL26230251M"
+openlibrary_work = "OL17625227W"
+
+[scan]
+file = "loiquiaccordeund00fran_0.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/loiquiaccordeund00fran_0"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_861803"
+
+[[text]]
+file = "loiquiaccordeund00fran_0.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquiaccordeund00fran_0.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

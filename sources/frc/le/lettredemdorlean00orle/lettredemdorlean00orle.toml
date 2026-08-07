@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettredemdorlean00orle"
+type = "pamphlet"
+title = "Lettre de M. d'Orléans, a l'Assemblée nationale : réponse intéressante de M. de la Fayete à ce sujet : résolution de M. Philippe Capet d'assister à la fédération : décision de l'Assemblée à ce sujet : Londres, ce 3 juillet 1790."
+language = "fr"
+place = "Paris"
+date = "1790"
+note = "Caption title. Imprint from colophon. Publication location from Martin & Walter. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  III, 26079. Scanner's note: Title on cover. Inconsistent page size. Skewed text.  No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/lettredemdorlean00orle"
+subject = [
+    "Political refugees",
+    "Repatriation",
+]
+extent = "4 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 12711"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t19k92k9x"
+internet_archive = "lettredemdorlean00orle"
+openlibrary_edition = "OL25927808M"
+openlibrary_work = "OL17350374W"
+
+[scan]
+file = "lettredemdorlean00orle.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettredemdorlean00orle"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Orléans, Louis Philippe Joseph, duc d', 1747-1793"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie du Postillon, de L.L. Girard, rue de Valois, no. 80"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_827205"
+
+[[text]]
+file = "lettredemdorlean00orle.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredemdorlean00orle.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredemdorlean00orle.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredemdorlean00orle.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,83 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettre00club_4"
+type = "pamphlet"
+title = "Lettre /"
+language = "fr"
+place = "Paris"
+date = "1790"
+note = "Caption title. Imprint from colophon. Martin & Walter IV 2: 8770 (which specifies: Contre une lettre antirévolutionnaire). Scanner's note: No title page found. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/lettre00club_4"
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 4922"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9n34x86c"
+internet_archive = "lettre00club_4"
+openlibrary_edition = "OL26213103M"
+openlibrary_work = "OL17609077W"
+
+[scan]
+file = "lettre00club_4.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettre00club_4"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Club des amis de la constitution de Soissons"
+role = "author"
+
+[[resp]]
+name = "Société des amis de la constitution de Paris"
+role = "author"
+
+[[resp]]
+name = "Soissons (France)"
+role = "author"
+
+[[resp]]
+name = "Paris (France)"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie des Amis de la constitution"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_54035"
+
+[[text]]
+file = "lettre00club_4.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00club_4.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00club_4.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00club_4.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

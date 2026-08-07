@@ -1,0 +1,71 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loiquicontinuele00fran"
+type = "pamphlet"
+title = "Loi qui continue les secours accordés aux Belges et autres réfugiés auxquels la faculté de rentrer dans leur pays a été interdite : du 9 vendémiaire, l'an troisième de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1794"
+note = """Caption title. At head of title: (No. 108*). At right of title: B. no. 66, D. 358. Signed: A. Dumont, président; Cordier, J. Borie, L. Louchet, secrétaires. Imprint from colophon. Not in Martin & Walter. Révolution française. "La Convention nationale ... décrète ..."--P. [1]. Scanner's note: Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text. No title page found. No copyright page found. No table-of-contents pages found."""
+url = "https://archive.org/details/loiquicontinuele00fran"
+subject = [
+    "Refugees",
+    "Public welfare",
+]
+extent = "[1] p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10345 no. 66"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7wm6f686"
+internet_archive = "loiquicontinuele00fran"
+openlibrary_edition = "OL26229260M"
+openlibrary_work = "OL17624294W"
+
+[scan]
+file = "loiquicontinuele00fran.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/loiquicontinuele00fran"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Dumont, André, 1764-1838"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépot des lois, place de la Réunion, ci-devant du grand-Carrousel"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_860402"
+
+[[text]]
+file = "loiquicontinuele00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquicontinuele00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

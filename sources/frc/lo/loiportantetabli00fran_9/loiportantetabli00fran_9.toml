@@ -1,0 +1,68 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loiportantetabli00fran_9"
+type = "pamphlet"
+title = "Loi portant établissement provisoire de dépôts nationaux d'étalons pour relever l'espèce des chevaux et des autres animaux utiles à l'agriculture ou aux transports : du 2 germinal, an troisième de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1795"
+note = """Caption title. At head of title: (No. 388.*). At right of title: B. no. 132. D. no. 716. "La Convention nationale ... décrète ..."--P. [1]. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover. Only one numbered page."""
+url = "https://archive.org/details/loiportantetabli00fran_9"
+subject = [
+    "Horses",
+    "Horse farms",
+    "Agricultural laws and legislation",
+]
+extent = "2 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10346 no. 24"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9z088v0h"
+internet_archive = "loiportantetabli00fran_9"
+openlibrary_edition = "OL26230303M"
+openlibrary_work = "OL17625279W"
+
+[scan]
+file = "loiportantetabli00fran_9.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/loiportantetabli00fran_9"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_861790"
+
+[[text]]
+file = "loiportantetabli00fran_9.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiportantetabli00fran_9.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

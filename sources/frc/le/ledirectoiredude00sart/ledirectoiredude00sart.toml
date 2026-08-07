@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "ledirectoiredude00sart"
+type = "pamphlet"
+title = "Le directoire du département de la Sarthe, aux communes de ce département, sur la proclamation de la constitution française"
+language = "fr"
+place = "Au Mans"
+date = "1791"
+note = "Caption title. Imprint from colophon. Dated at end: Le vingt-trois septembre mil sept cent quatre-vingt-onze. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."
+url = "https://archive.org/details/ledirectoiredude00sart"
+subject = [
+    "France",
+    "Festivals",
+]
+extent = "3 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10255 no. 2"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t46q72v8j"
+internet_archive = "ledirectoiredude00sart"
+openlibrary_edition = "OL26223138M"
+openlibrary_work = "OL17618599W"
+
+[scan]
+file = "ledirectoiredude00sart.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/ledirectoiredude00sart"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Sarthe (France). Directoire"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Pivron, imprimeur du département de la Sarthe"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_857507"
+
+[[text]]
+file = "ledirectoiredude00sart.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ledirectoiredude00sart.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ledirectoiredude00sart.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ledirectoiredude00sart.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

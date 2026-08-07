@@ -1,0 +1,67 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "letterroyalgame00unse"
+type = "pamphlet"
+title = "[Letter on royal game lands]"
+language = "fr"
+place = "France"
+date = "1790"
+note = """Caption title. Signed: Bernard (de Ballainvilliers). Dated at head of text: Ce [blank] août 1790. Blank in Newbery's copy filled in: 25. "MM. les maire & officiers municipaux du Montbrun." Added at end in ms. in Newberry's copy: de Montbrun. Not in Martin & Walter. Révolution française. Scanner's note: Title page located on front cover. No copyright page found. No table-of-contents pages found. Worn, damaged and discolored pages and cover. Skewed text. Uneven binding. No pagination."""
+url = "https://archive.org/details/letterroyalgame00unse"
+subject = [
+    "Game laws",
+    "Banners",
+]
+extent = "[1] p. ; 23 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 26483"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9673m27d"
+internet_archive = "letterroyalgame00unse"
+openlibrary_edition = "OL26228884M"
+openlibrary_work = "OL17623953W"
+
+[scan]
+file = "letterroyalgame00unse.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/letterroyalgame00unse"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Ballainvilliers, Simon-Charles-Sébastien Bernard, baron de,1760-1835"
+role = "author"
+
+[[resp]]
+name = "Ballainvilliers, Simon-Charles-Sébastien Bernard, baron de, 1760-1835"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_862213"
+
+[[text]]
+file = "letterroyalgame00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "letterroyalgame00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

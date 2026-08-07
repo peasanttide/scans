@@ -1,0 +1,61 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loiquiordonnelad00fran"
+type = "pamphlet"
+title = "Loi qui ordonne la distribution des secours promis aux habitans des départemens pacifiés, et détermine les peines à infliger à tous les individus qui, après avoir prêté serment à la République, auraient conspiré contre elle : du 30 prairial, l'an troisième de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1795"
+note = """Caption title. At head of title: (No. 438.*). At right of title: B. no. 157. D. no. 924. "La Convention nationale ... décrète ..."--P. [1]. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover. Only one numbered page."""
+url = "https://archive.org/details/loiquiordonnelad00fran"
+subject = [
+    "Treason",
+    "Chouans",
+]
+extent = "2 p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10346 no. 92"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1dk0kk47"
+internet_archive = "loiquiordonnelad00fran"
+
+[scan]
+file = "loiquiordonnelad00fran.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/loiquiordonnelad00fran"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_861858"
+
+[[text]]
+file = "loiquiordonnelad00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquiordonnelad00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

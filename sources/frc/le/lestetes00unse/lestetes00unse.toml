@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lestetes00unse"
+type = "pamphlet"
+title = "Les têtes tondues, sifflées, critiquées et traitées comme elles le méritent."
+language = "fr"
+place = "Paris?"
+date = "1792"
+note = "Caption title. Signed: Pasquet. Imprint from colophon. Not in Martin & Walter. Révolution française. Presents several arguments on why men should not cut their hair. Scanner's note: No title page found. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/lestetes00unse"
+subject = [
+    "Hairdressing",
+    "Masculinity",
+]
+extent = "4 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 23406"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t88h3vh1b"
+internet_archive = "lestetes00unse"
+openlibrary_edition = "OL26236938M"
+openlibrary_work = "OL17631491W"
+
+[scan]
+file = "lestetes00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lestetes00unse"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Pasquet"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie de la rue des Boucheries-Honoré, no. 926"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_848017"
+
+[[text]]
+file = "lestetes00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lestetes00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lestetes00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lestetes00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

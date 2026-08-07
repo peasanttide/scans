@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loiportantetabli00fran_7"
+type = "pamphlet"
+title = "Loi portant établissement à Paris d'un conservatoire des arts et métiers : du 19 vendémiaire, l'an troisième de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1794"
+note = """Caption title. At head of title: (No. 121*). At right of title: B. no. 72, D. no. 383. Signed: Cambacérès, président; Boissy, P. Lozeau, secrétaires. Imprint from colophon. Not in Martin & Walter. Révolution française. "La Convention nationale ... décrète ..."--P. [1]. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/loiportantetabli00fran_7"
+subject = [
+    "Conservatoire impérial des arts et métiers (France)",
+    "Educational law and legislation",
+]
+extent = "2 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10345 no. 68"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3rv5q578"
+internet_archive = "loiportantetabli00fran_7"
+openlibrary_edition = "OL26229921M"
+openlibrary_work = "OL17624952W"
+
+[scan]
+file = "loiportantetabli00fran_7.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/loiportantetabli00fran_7"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Cambacérès, Jean Jacques Régis de, 1753-1824"
+role = "author"
+
+[[resp]]
+name = "Boissy d'Anglas, François-Antoine, comte de, 1756-1826"
+role = "author"
+
+[[resp]]
+name = "Lozeau, Paul-Augustin, -1816"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois, place de la Réunion, ci-devant du grand Carrousel"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_860404"
+
+[[text]]
+file = "loiportantetabli00fran_7.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiportantetabli00fran_7.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

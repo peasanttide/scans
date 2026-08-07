@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loiquiordonneaux00fran_1"
+type = "pamphlet"
+title = "Loi qui ordonne aux étrangers nés dans les pays avec lesquels la République est en guerre, de sortir de France, s'ils n'y sont domiciliés avant le premier janvier 1792 : du 23 messidor, l'an troisième de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1795"
+note = """Caption title. At head of title: (No. 452.*). At right of title: B. no. 162. D. no. 947. "La Convention nationale ... décrète ..."--P. [1]. Imprint from colophon. Not in Martin & Walter. Révolution française. "2o. Loi qui charge le Comité de sûreté générale de tenir la main à l'exécution des lois de police, relatives aux gens sans aveu, aux malveillans, etc. Du 23 messidor, an troisième"--P. 3. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."""
+url = "https://archive.org/details/loiquiordonneaux00fran_1"
+subject = [
+    "Aliens",
+    "Deportation",
+]
+extent = "3 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 28032"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6g214n3g"
+internet_archive = "loiquiordonneaux00fran_1"
+openlibrary_edition = "OL26228812M"
+openlibrary_work = "OL17623881W"
+
+[scan]
+file = "loiquiordonneaux00fran_1.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loiquiordonneaux00fran_1"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_861866"
+
+[[text]]
+file = "loiquiordonneaux00fran_1.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquiordonneaux00fran_1.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquiordonneaux00fran_1.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquiordonneaux00fran_1.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

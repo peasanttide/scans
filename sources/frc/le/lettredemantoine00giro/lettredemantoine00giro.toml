@@ -1,0 +1,84 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettredemantoine00giro"
+type = "pamphlet"
+title = "Lettre de M. Antoine Giroust, capitaine de grenadiers dans le premier bataillon de Seine & Marne, a M. Gossuin, député du département du Nord : suivie d'un ordre du lieutenant-général Arthur-Dillon, et des adresses du premier bataillon de Seine et Marne, et des citoyens d'Avesnes, à l'Assemblée nationale, sur les événemens du 10 août 1792 : imprimés par ordre de l'Assemblée nationale."
+language = "fr"
+place = "Paris"
+date = "1792"
+note = """Caption title. Imprint from colophon. "D'Avesnes, ce 16 août 1792, l'an 4e. de la liberté, & le premier de l'egalité"--P. [1]. "Militaire. No. 102."--Bottom of p. [1]. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Damaged, stained pages and cover. Title on cover page."""
+url = "https://archive.org/details/lettredemantoine00giro"
+subject = [
+    "Dillon, Arthur, comte, 1750-1794",
+    "France. Armée. Bataillon de Seine-et-Marne, Premier",
+    "Royalists",
+]
+extent = "4 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 19116"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6q004m34"
+internet_archive = "lettredemantoine00giro"
+openlibrary_edition = "OL25953096M"
+openlibrary_work = "OL17374014W"
+
+[scan]
+file = "lettredemantoine00giro.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettredemantoine00giro"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Giroust, Antoine"
+role = "author"
+
+[[resp]]
+name = "Dillon, Arthur, comte, 1750-1794"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale législative (1791-1792)"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_840151"
+
+[[text]]
+file = "lettredemantoine00giro.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredemantoine00giro.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredemantoine00giro.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredemantoine00giro.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

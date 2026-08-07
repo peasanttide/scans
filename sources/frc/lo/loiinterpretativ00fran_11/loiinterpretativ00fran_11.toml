@@ -1,0 +1,67 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loiinterpretativ00fran_11"
+type = "pamphlet"
+title = "Loi interprétative de celle du 9 frimaire, an V, concernant les patentes : du 9 pluviose, an V de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1797"
+note = """Caption title. At head of title: No. 407. Au nom de la République française. Imprint from colophon. "Nos. 9, 11"--Bottom of p. [1]. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover. Only one numbered page."""
+url = "https://archive.org/details/loiinterpretativ00fran_11"
+subject = [
+    "Business tax",
+    "Tax incidence",
+]
+extent = "2 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10348 no. 86"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2896bw8v"
+internet_archive = "loiinterpretativ00fran_11"
+openlibrary_edition = "OL26230494M"
+openlibrary_work = "OL17625470W"
+
+[scan]
+file = "loiinterpretativ00fran_11.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/loiinterpretativ00fran_11"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois, place du Carrousel, et se trouve dans les villes chefs-lieux de département, au bureau de corresondance du Dépôt des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_859212"
+
+[[text]]
+file = "loiinterpretativ00fran_11.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiinterpretativ00fran_11.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,64 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loiquiconserveet00fran"
+type = "pamphlet"
+title = "Loi qui conserve et organise les comités de surveillance d'administration des hôpitaux militaires fixes, et des hôpitaux ambulans qui ne suivent point les armées : du 19 ventôse, an troisième de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1795"
+note = """Caption title. At head of title: (No. 317.*). At right of title: B. no. 129. D. no. 693. "La Convention nationale ... décrète ...". Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover. No page numbers."""
+url = "https://archive.org/details/loiquiconserveet00fran"
+subject = ["Military hospitals"]
+extent = "[1] p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10346 no. 12"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1zd32v5g"
+internet_archive = "loiquiconserveet00fran"
+openlibrary_edition = "OL26230802M"
+openlibrary_work = "OL17625779W"
+
+[scan]
+file = "loiquiconserveet00fran.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/loiquiconserveet00fran"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_861778"
+
+[[text]]
+file = "loiquiconserveet00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquiconserveet00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,78 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettreecritemons00barb"
+type = "pamphlet"
+title = "Lettre écrite à monseigneur le comte de Caraman /"
+language = "fr"
+place = "A Marseille"
+date = "1789"
+note = """Caption title. Imprint from colophon. Martin & Walter. Révolution française. "Réponse de monseigneur le comte de Caraman, à M. Barbaroux"--P. 3-4. Bibliography: Martin & Walter.  Révolution française,  I, 1412. Scanner's note: No copyright page found. No table-of-contents pages found.  Skewed text."""
+url = "https://archive.org/details/lettreecritemons00barb"
+subject = ["Barbaroux, Charles-Jean-Marie, 1767-1794"]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 13889"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t50g88d54"
+internet_archive = "lettreecritemons00barb"
+
+[scan]
+file = "lettreecritemons00barb.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettreecritemons00barb"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Barbaroux, Charles-Jean-Marie, 1767-1794"
+role = "author"
+
+[[resp]]
+name = "Caraman, Victor-Maurice de Riquet, comte de, 1727-1807"
+role = "author"
+
+[[resp]]
+name = "Mossy, Jean, d. 1792"
+role = "publisher"
+
+[[resp]]
+name = "De l'imprimerie de Jean Mossy, père & fils, imprimeurs du Roi & de la ville"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_829147"
+
+[[text]]
+file = "lettreecritemons00barb.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettreecritemons00barb.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettreecritemons00barb.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettreecritemons00barb.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

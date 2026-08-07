@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettretoutlemond00beff"
+type = "pamphlet"
+title = "Lettre a tout le monde."
+language = "fr"
+place = "A Paris"
+date = "1790"
+note = "An advertisement for his Lunes. Caption title. Signed: Votre dévoué serviteur & cousin Louis-Abel Beffroy, dit de Reigny, connu sous le nom du Cousin-Jacques, auteur des Lunes, tant anciennes que nouvelles, &c. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  I, 2377. Scanner's note: Title on the cover page.   No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/lettretoutlemond00beff"
+subject = ["Authors and theater"]
+extent = "4 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 14338"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9q28m51p"
+internet_archive = "lettretoutlemond00beff"
+openlibrary_edition = "OL25918954M"
+openlibrary_work = "OL17342062W"
+
+[scan]
+file = "lettretoutlemond00beff.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettretoutlemond00beff"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Beffroy de Reigny, L.-A. (Louis-Abel), 1757-1811"
+role = "author"
+
+[[resp]]
+name = "De l'Imp. du Journal général de politique, de litt. & de commerce, enclos du Temple"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_830101"
+
+[[text]]
+file = "lettretoutlemond00beff.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettretoutlemond00beff.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettretoutlemond00beff.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettretoutlemond00beff.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

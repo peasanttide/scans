@@ -1,0 +1,92 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loirelativeauxde00fran_17"
+type = "pamphlet"
+title = "Loi relative aux dépenses à faire pour découvrir les fabricateurs de faux assignats : donnée à Paris, le 21 mars 1792"
+language = "fr"
+place = "A Paris"
+date = "1792"
+note = """
+Caption title. At right of title: No. 1579. Signed: Louis; countersigned: M.L.F. DuPort. Imprint from colophon. Variant of Martin & Walter. Révolution française, IV:2, 9143. "Décret de l'Assemblée nationale, du 19 mars 1792 ..."--P. [1]-2. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover. 
+Only one numbered page."""
+url = "https://archive.org/details/loirelativeauxde00fran_17"
+subject = [
+    "France. Trésorerie nationale",
+    "Counterfeiters",
+    "Criminal investigation",
+]
+extent = "2 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC suppl. 86 no. 79"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6g216g32"
+internet_archive = "loirelativeauxde00fran_17"
+
+[scan]
+file = "loirelativeauxde00fran_17.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loirelativeauxde00fran_17"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Sovereign (1774-1792 : Louis XVI)"
+role = "author"
+
+[[resp]]
+name = "Louis XVI, King of France, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "Duport-Dutertre, Marguerite-Louis-François, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale législative (1791-1792)"
+role = "author"
+
+[[resp]]
+name = "Imprimerie royale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie royale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_857316"
+
+[[text]]
+file = "loirelativeauxde00fran_17.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativeauxde00fran_17.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativeauxde00fran_17.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativeauxde00fran_17.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

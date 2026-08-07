@@ -1,0 +1,71 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loirelativealen00fran"
+type = "pamphlet"
+title = "Loi relative à l'envoi à faire aux députés, des exemplaires imprimés des décrets, actes du Corps législatif & proclamations"
+language = "fr"
+place = "A Auxerre"
+date = "1792"
+note = """
+Caption title. Imprint at foot of p. 2. At upper right on p. [1]: No. 2439. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. 
+ Title page and cover are combined."""
+url = "https://archive.org/details/loirelativealen00fran"
+subject = ["Printing, Public"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 11 no. 18"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t21c7p34n"
+internet_archive = "loirelativealen00fran"
+
+[scan]
+file = "loirelativealen00fran.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loirelativealen00fran"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Convention nationale"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de L. Fournier"
+role = "publisher"
+
+[[text]]
+file = "loirelativealen00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativealen00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativealen00fran.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativealen00fran.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

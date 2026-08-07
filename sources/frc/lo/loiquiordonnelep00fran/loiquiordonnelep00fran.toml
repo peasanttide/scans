@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loiquiordonnelep00fran"
+type = "pamphlet"
+title = "Loi qui ordonne le prompt jugement des émigrés trouvés sur le territoire de la République, l'expulsion des individus rentrés après déportation, et contient des mesures répressives de toute provocation à l'avilissement de la représentation nationale et au retour de la royauté, etc. : du 12 floréal, an troisième de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1795"
+note = "Caption title. At head of title: (No. 385.*). At right of title: B. no. 140. D. no. 791. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover. Only one numbered page."
+url = "https://archive.org/details/loiquiordonnelep00fran"
+subject = [
+    "Exile (Punishment)",
+    "Political crimes and offenses",
+    "Refugees",
+]
+extent = "3 p. ; 28 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10346 no. 56"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t31311j6t"
+internet_archive = "loiquiordonnelep00fran"
+openlibrary_edition = "OL26230655M"
+openlibrary_work = "OL17625632W"
+
+[scan]
+file = "loiquiordonnelep00fran.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loiquiordonnelep00fran"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépot des lois, place de la Réunion, ci-devant du Grand-Carrouzel"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_861822"
+
+[[text]]
+file = "loiquiordonnelep00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquiordonnelep00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquiordonnelep00fran.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquiordonnelep00fran.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

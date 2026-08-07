@@ -1,0 +1,83 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettredunavignoi00avig"
+type = "pamphlet"
+title = "Lettre d'un Avignois : a un de ses amis."
+language = "fr"
+place = "s.l."
+date = "1791"
+note = "Caption title. Without imprint. About: Imposture du Sieur Mulot dévoilée, by J.S.F. Rovère, published 1791 (Martin & Walter IV 1: 30311). Signed at end: Agricol B... Martin & Walter IV 2: 8482 (which specifies: Au sujet des calomnies de Rovère contre l'Abbé Mulot). Scanner's note: No copyright page found. No table-of-contents pages found.   Title and cover page are combined. Damaged, stained and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/lettredunavignoi00avig"
+subject = [
+    "Rovère, Joseph Stanislas François, Marquis de, 1748-1798",
+    "Mulot, François-Valentin, 1749-1804",
+]
+extent = "4 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 4679"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t02z69763"
+internet_archive = "lettredunavignoi00avig"
+openlibrary_edition = "OL26213044M"
+openlibrary_work = "OL17609017W"
+
+[scan]
+file = "lettredunavignoi00avig.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettredunavignoi00avig"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Avignois"
+role = "author"
+
+[[resp]]
+name = "Agricol B"
+role = "author"
+
+[[resp]]
+name = "B...., Agricol"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_55760"
+
+[[text]]
+file = "lettredunavignoi00avig.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredunavignoi00avig.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredunavignoi00avig.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredunavignoi00avig.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

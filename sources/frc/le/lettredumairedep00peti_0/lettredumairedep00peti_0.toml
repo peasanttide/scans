@@ -1,0 +1,77 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettredumairedep00peti_0"
+type = "pamphlet"
+title = "Lettre du maire de Paris a l'Assemblée nationale, du 6 septembre 1792, l'an 4e. de la liberté, et le premier de l'égalité : imprimée et envoyée aux 83 départemens par ordre de l'Assemblée nationale."
+language = "fr"
+place = "Paris"
+date = "1792"
+note = """Caption title. Signed: Pétion. Imprint from colophon. "Administration. No. 80"--Bottom of p. [1]. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  III, 27049. Scanner's note: No Copyright found. No Table of Contents found. Title on cover. Damaged, stained pages and cover. <br />."""
+url = "https://archive.org/details/lettredumairedep00peti_0"
+extent = "3 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 23589"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t59d2790s"
+internet_archive = "lettredumairedep00peti_0"
+
+[scan]
+file = "lettredumairedep00peti_0.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettredumairedep00peti_0"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "Pétion, J. (Jérôme), 1756-1794"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale législative (1791-1792)"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_848486"
+
+[[text]]
+file = "lettredumairedep00peti_0.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredumairedep00peti_0.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredumairedep00peti_0.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredumairedep00peti_0.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

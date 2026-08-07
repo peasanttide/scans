@@ -1,0 +1,104 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettredemrdandre00andr"
+type = "pamphlet"
+title = "Lettre de Mr. d'André, député de la noblesse de la sénéchaussée d'Aix, à ses commettans : Versailles le 26 juin 1789."
+language = "fr"
+place = "France"
+date = "1789"
+note = """Caption title. Author based on Martin & Walter. Not in Martin & Walter. Révolution française. "Lettre de 44 députés de la noblesse à M. le duc de Luxembourg"--P. 5-8. Scanner's note: No copyright page found. No table-of-contents pages found. Title and cover page combined."""
+url = "https://archive.org/details/lettredemrdandre00andr"
+subject = [
+    "France. États généraux",
+    "Political rights",
+    "Nobility",
+]
+extent = "8 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 13469"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6tx8257p"
+internet_archive = "lettredemrdandre00andr"
+openlibrary_edition = "OL25926249M"
+openlibrary_work = "OL17348876W"
+
+[scan]
+file = "lettredemrdandre00andr.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/lettredemrdandre00andr"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "André, Antoine Balthazard Joseph, baron d', 1739-1825"
+role = "author"
+
+[[resp]]
+name = "Luxembourg, Anne-Charles-Sigismond de Montmorency, duc de, 1737-1803"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_828451"
+
+[[text]]
+file = "lettredemrdandre00andr.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredemrdandre00andr.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredemrdandre00andr.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredemrdandre00andr.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredemrdandre00andr.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredemrdandre00andr.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredemrdandre00andr.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredemrdandre00andr.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

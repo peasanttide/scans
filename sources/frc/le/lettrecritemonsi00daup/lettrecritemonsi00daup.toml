@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettrecritemonsi00daup"
+type = "pamphlet"
+title = "Lettre écrite à Monsieur le Duc de Tonnerre : commandant en chef de la province de Dauphiné ; par la plupart des gentilshommes des baronnies ; le 25 juin 1788."
+language = "fr"
+place = "s.l."
+date = "1788"
+note = "Caption title. Without imprint. About the États généraux. Not in Martin & Walter. Scanner's note: No title page found. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/lettrecritemonsi00daup"
+subject = ["France. Etats généraux"]
+extent = "[3] p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 4944"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t25b55q54"
+internet_archive = "lettrecritemonsi00daup"
+openlibrary_edition = "OL26213326M"
+openlibrary_work = "OL17609303W"
+
+[scan]
+file = "lettrecritemonsi00daup.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettrecritemonsi00daup"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Dauphiné (France)"
+role = "author"
+
+[[resp]]
+name = "Dauphiné (France)"
+role = "author"
+
+[[resp]]
+name = "Tonnerre, Duc de"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_55532"
+
+[[text]]
+file = "lettrecritemonsi00daup.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrecritemonsi00daup.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrecritemonsi00daup.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrecritemonsi00daup.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

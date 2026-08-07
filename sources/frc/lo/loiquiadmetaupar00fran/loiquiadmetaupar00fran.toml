@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loiquiadmetaupar00fran"
+type = "pamphlet"
+title = "Loi qui admet au partage ceux dont les biens ont été séquestrés en vertu de la loi du 17 frimaire an II : du 20 floréal an IV de la République française, une et indivisible"
+language = "fr"
+place = "France"
+date = "1796"
+note = """Caption title. At head of title: No. 164. Au nom de la République française. At right of title: B. 46, No. 391. Signed: Carnot, président; par le Directoire exécutif, le secrétaire général, Lagarde. Imprint from colophon. "No 12"--Bottom of p. [1]. Not in Martin & Walter. Révolution française. "Décret de la Convention nationale, qui ordonne le séquestre des biens des pères et mères dont les enfans sont émigrés, du 17 frimaire an II de la République française ... (No. 1965)"--P. 2. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover. Only one numbered page."""
+url = "https://archive.org/details/loiquiadmetaupar00fran"
+subject = ["Refugee property"]
+extent = "2 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10347 no. 119"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2j72m238"
+internet_archive = "loiquiadmetaupar00fran"
+openlibrary_edition = "OL26230647M"
+openlibrary_work = "OL17625623W"
+
+[scan]
+file = "loiquiadmetaupar00fran.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/loiquiadmetaupar00fran"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Directoire exécutif"
+role = "author"
+
+[[resp]]
+name = "Carnot, Lazare, 1753-1823"
+role = "author"
+
+[[resp]]
+name = "Lagarde, Joseph-Jean, baron, 1755-1840"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_858448"
+
+[[text]]
+file = "loiquiadmetaupar00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquiadmetaupar00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

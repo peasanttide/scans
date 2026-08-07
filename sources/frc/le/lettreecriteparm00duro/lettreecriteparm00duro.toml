@@ -1,0 +1,104 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettreecriteparm00duro"
+type = "pamphlet"
+title = "Lettre écrite par M. Duroux, avocat & capitoul, à M. Douziech, major général des légions patriotiques : Toulouse, le 13 novembre 1789, à onze heures du soir."
+language = "fr"
+place = "France"
+date = "1789"
+note = """Caption title. Not in Martin & Walter. Révolution française. "Acte de désaveu fait par M. Duroux, avocat & capitoul, contenant la profession franche & sincère des sentimens les plus purs de son ame, envers la nation, le roi & ses concitoyens"--P. 5-7. Scanner's note: No copyright page found. No table-of-contents pages found. Damaged, stained pages and cover. Title on cover page."""
+url = "https://archive.org/details/lettreecriteparm00duro"
+subject = ["Duroux, Joseph-Marie"]
+extent = "7 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 18178"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t76t5nb7g"
+internet_archive = "lettreecriteparm00duro"
+openlibrary_edition = "OL26196372M"
+openlibrary_work = "OL17593132W"
+
+[scan]
+file = "lettreecriteparm00duro.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/lettreecriteparm00duro"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Duroux, Joseph-Marie"
+role = "author"
+
+[[resp]]
+name = "Duroux, Joseph-Marie. Acte de désaveu fait par M. Duroux, avocat & capitoul, contenant la profession franche & sincère des sentimens les plus purs de son ame, envers la nation, le roi & ses concitoyens"
+role = "author"
+
+[[resp]]
+name = "Douziech, général, 1745-1793"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_837791"
+
+[[text]]
+file = "lettreecriteparm00duro.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettreecriteparm00duro.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettreecriteparm00duro.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettreecriteparm00duro.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettreecriteparm00duro.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettreecriteparm00duro.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettreecriteparm00duro.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettreecriteparm00duro.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

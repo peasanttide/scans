@@ -1,0 +1,87 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettremgrcomteda00labr"
+type = "pamphlet"
+title = "Lettre à Mgr. Comte d'Artois /"
+language = "fr"
+place = "A Versailles"
+date = "1789"
+note = "Caption title. Imprint from colophon. Dated in contemporary ms.: 1789. Not in Martin & Walter. Scanner's note: Title and cover page are combined. Damaged, stained and/or loose pages. Uneven binding. Skewed text. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/lettremgrcomteda00labr"
+extent = "6 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 4548"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t34221p72"
+internet_archive = "lettremgrcomteda00labr"
+openlibrary_edition = "OL26213173M"
+openlibrary_work = "OL17609149W"
+
+[scan]
+file = "lettremgrcomteda00labr.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/lettremgrcomteda00labr"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Labrit (France). Noblesse"
+role = "author"
+
+[[resp]]
+name = "Louis XVIII, King of France, 1755-1824"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Ph-D. Pierres"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_54081"
+
+[[text]]
+file = "lettremgrcomteda00labr.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettremgrcomteda00labr.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettremgrcomteda00labr.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettremgrcomteda00labr.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettremgrcomteda00labr.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettremgrcomteda00labr.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,84 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettrespatentesd00fran_81"
+type = "pamphlet"
+title = "Lettres patentes du roi, pour l'enregistrement de la convention avec l'evêque, prince de Liege, concernaut [sic] les limites, les communications & le commerce des etats respectifs, du 24 mai 1772 : données à Versailles le 15 du mois de juin 1772 : registrées en Parlement le 30 juin 1772"
+language = "fr"
+place = "France"
+date = "1772"
+note = """Caption title. "Signé Louis. Et plus bas: par le roi, le duc d'Aiguillon"--P. [2]. Imprint from colophon. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, stained and/or loose pages Skewed text. Uneven binding. Title and cover page are combined. Text on the back cover is upside-down."""
+url = "https://archive.org/details/lettrespatentesd00fran_81"
+subject = ["Velbrück, François-Charles de, 1719-1784"]
+extent = "[2] p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC suppl. 90 no. 5"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9n352j03"
+internet_archive = "lettrespatentesd00fran_81"
+openlibrary_edition = "OL26235115M"
+openlibrary_work = "OL17629698W"
+
+[scan]
+file = "lettrespatentesd00fran_81.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettrespatentesd00fran_81"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Sovereign (1715-1774 : Louis XV)"
+role = "author"
+
+[[resp]]
+name = "Louis XV, King of France, 1710-1774"
+role = "author"
+
+[[resp]]
+name = "Aiguillon, Emmanuel-Armand de Vignerot du Plessis de Richelieu, duc d', 1720-1788"
+role = "author"
+
+[[resp]]
+name = "France. Parlement (Paris)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_861564"
+
+[[text]]
+file = "lettrespatentesd00fran_81.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrespatentesd00fran_81.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrespatentesd00fran_81.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrespatentesd00fran_81.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

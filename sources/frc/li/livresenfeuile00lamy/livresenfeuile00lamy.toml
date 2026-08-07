@@ -1,0 +1,69 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "livresenfeuile00lamy"
+type = "pamphlet"
+title = "Livres en feuilles, offerts à un cinquième de moins que le prix proportionné à la valeur actuelle de la fabrication, pour ceux qui en feront l'acquisition avant le 15 thermidor prochain"
+language = "fr"
+place = "Paris"
+date = "1797"
+note = "Caption title. Publication date from BN. Catalogues de libraires. Also published in a quarto edition ([2] p.). Cf. BN. Catalogues de libraires. BN. Catalogues de libraires. With prices. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Title page and cover are combined."
+url = "https://archive.org/details/livresenfeuile00lamy"
+subject = ["Lamy, Pierre-Michel, active 1777-1813"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 11 no. 23"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7gr2j476"
+internet_archive = "livresenfeuile00lamy"
+
+[scan]
+file = "livresenfeuile00lamy.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/livresenfeuile00lamy"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Lamy, Pierre-Michel,active 1777-1813"
+role = "author"
+
+[[resp]]
+name = "Lamy, Pierre-Michel, active 1777-1813"
+role = "author"
+
+[[resp]]
+name = "Lamy"
+role = "publisher"
+
+[[text]]
+file = "livresenfeuile00lamy.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "livresenfeuile00lamy.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "livresenfeuile00lamy.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "livresenfeuile00lamy.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

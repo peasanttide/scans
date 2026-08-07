@@ -1,0 +1,68 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loiportantqueles00fran_23"
+type = "pamphlet"
+title = "Loi portant que les prévenus de délits militaires ont le droit de se choisir des défenseurs dans le lieu où s'instruit la procédure : du 27 fructidor, an IV de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1796"
+note = """Caption title. At head of title: No. 306. Au nom de la République française. At right of title: B. 77. No. 705. Imprint from colophon. "No. 6"--Bottom of p. [1]. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text. Only one numbered page."""
+url = "https://archive.org/details/loiportantqueles00fran_23"
+subject = [
+    "Soldiers",
+    "Courts-martial and courts of inquiry",
+    "Justice, Administration of",
+]
+extent = "2 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10348 no. 45"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0ps2xs05"
+internet_archive = "loiportantqueles00fran_23"
+openlibrary_edition = "OL26229433M"
+openlibrary_work = "OL17624467W"
+
+[scan]
+file = "loiportantqueles00fran_23.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/loiportantqueles00fran_23"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Depot des lois, place du Carrousel"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_859170"
+
+[[text]]
+file = "loiportantqueles00fran_23.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiportantqueles00fran_23.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

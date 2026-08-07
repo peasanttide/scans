@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettre00soci_3"
+type = "pamphlet"
+title = "Lettre /"
+language = "fr"
+place = "A Paris"
+date = "1791"
+note = "Caption title. Imprint from colophon. Dated at end: N^imes, le 25 février 1791, l'an second de la liberté. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on the cover page. Uneven binding. Skewed text. Damaged, stained, and/or loose pages."
+url = "https://archive.org/details/lettre00soci_3"
+subject = ["Political clubs"]
+extent = "4 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 8406"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0sr40673"
+internet_archive = "lettre00soci_3"
+openlibrary_edition = "OL26220816M"
+openlibrary_work = "OL17616401W"
+
+[scan]
+file = "lettre00soci_3.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettre00soci_3"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Société des amis de la constitution de N^imes"
+role = "author"
+
+[[resp]]
+name = "Société des amis de la constitution de N^imes"
+role = "author"
+
+[[resp]]
+name = "Nîmes (France)"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_38551"
+
+[[text]]
+file = "lettre00soci_3.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00soci_3.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00soci_3.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettre00soci_3.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

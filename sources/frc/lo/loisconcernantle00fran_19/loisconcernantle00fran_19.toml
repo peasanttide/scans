@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loisconcernantle00fran_19"
+type = "pamphlet"
+title = "Lois concernant le remplacement des juges de paix, et la manière de proceder dans les tribunaux civils en cas de partage d'opinions : des 12 et 14 prairial an VI de la République française une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1798"
+note = """Caption title. At head of title: No. 711. Au nom de la République française. Imprint from colophon. "No. 2"--Bottom of p. [1]. Not in Martin & Walter. Révolution française. 1o. Loi qui détermine le mode de remplacement provisoire des juges de paix non élus par les assemblées primaires, ou dont la nomination a été annullée -- 2o. Loi relative à la manière de procéder dans les tribunaux civils en cas de partage d'opinions. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."""
+url = "https://archive.org/details/loisconcernantle00fran_19"
+subject = [
+    "Justices of the peace",
+    "Judicial process",
+    "Justice, Administration of",
+]
+extent = "4 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10349 no. 93"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t85j2pc4z"
+internet_archive = "loisconcernantle00fran_19"
+openlibrary_edition = "OL26229648M"
+openlibrary_work = "OL17624681W"
+
+[scan]
+file = "loisconcernantle00fran_19.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loisconcernantle00fran_19"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Depot des lois : Et se trouve dans les villes chef-lieux de département, au bureau de correspondance du Dépôt des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_859932"
+
+[[text]]
+file = "loisconcernantle00fran_19.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loisconcernantle00fran_19.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loisconcernantle00fran_19.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loisconcernantle00fran_19.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

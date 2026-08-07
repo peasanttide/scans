@@ -1,0 +1,71 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lesavignonnoisau00dele"
+type = "pamphlet"
+title = "Les Avignonnois aux François."
+language = "fr"
+place = "France"
+date = "1791"
+note = "Caption title. Signed: Deleutre, député extraordinaire d'Avignon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  II, 9943. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on cover page. Damaged, stained pages and cover."
+url = "https://archive.org/details/lesavignonnoisau00dele"
+extent = "3 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 17231"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t15n17h7j"
+internet_archive = "lesavignonnoisau00dele"
+openlibrary_edition = "OL26203983M"
+openlibrary_work = "OL17600405W"
+
+[scan]
+file = "lesavignonnoisau00dele.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lesavignonnoisau00dele"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Deleutre, J. A"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_835668"
+
+[[text]]
+file = "lesavignonnoisau00dele.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lesavignonnoisau00dele.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lesavignonnoisau00dele.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lesavignonnoisau00dele.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

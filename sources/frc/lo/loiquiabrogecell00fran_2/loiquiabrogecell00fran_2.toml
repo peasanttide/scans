@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loiquiabrogecell00fran_2"
+type = "pamphlet"
+title = "Loi qui abroge celle du 22 thermidor an V, portant autorisation d'exporter le maïs, les haricots et les féveroles : du troisième jour complémentaire an V de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1797"
+note = """Caption title. At head of title: No. 567. Au nom de la République française. Imprint from colophon. "No. 11"--Bottom of p. [1]. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text. Only one numbered page."""
+url = "https://archive.org/details/loiquiabrogecell00fran_2"
+subject = [
+    "Grain trade",
+    "Export controls",
+]
+extent = "2 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10349 no. 33"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t56f10n9r"
+internet_archive = "loiquiabrogecell00fran_2"
+openlibrary_edition = "OL26229088M"
+openlibrary_work = "OL17624122W"
+
+[scan]
+file = "loiquiabrogecell00fran_2.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loiquiabrogecell00fran_2"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Depot des lois, place du Carrousel : Et se trouve dans les villes chef-lieux de département, au bureau de correspondance du Dépôt des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_859870"
+
+[[text]]
+file = "loiquiabrogecell00fran_2.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquiabrogecell00fran_2.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquiabrogecell00fran_2.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquiabrogecell00fran_2.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

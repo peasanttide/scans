@@ -1,0 +1,52 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lanymphede00roya"
+type = "pamphlet"
+title = "La nymphe de l'Aisne"
+language = "fr"
+place = "Soissons"
+date = "1744"
+note = "Binder's title: Conquest du roy. Scanner's note: Title is on the cover. Uneven binding. Skewed text. Irregular pagination. Page numbers have been marked or altered. Damaged, stained, torn and/or loose pages."
+url = "https://archive.org/details/lanymphede00roya"
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "E 5 .L92705 v. 09 no. 07"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8md50f3w"
+internet_archive = "lanymphede00roya"
+
+[scan]
+file = "lanymphede00roya.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/lanymphede00roya"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Royaucourt, de"
+role = "author"
+
+[[resp]]
+name = "Chez la veuve de C. Courtois"
+role = "publisher"
+
+[[text]]
+file = "lanymphede00roya.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lanymphede00roya.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

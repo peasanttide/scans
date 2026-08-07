@@ -1,0 +1,67 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loiinterpretativ00fran_14"
+type = "pamphlet"
+title = "Loi interprétative de l'article II de celle du 21 germinal an V, concernant les ventes des maisons nationales faites avec réserve d'usufruit : du 26 nivose an VI de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1798"
+note = """Caption title. At head of title: No. 647. Au nom de la République française. Imprint from colophon. "No. 10"--Bottom of p. [1]. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover. Only one page number."""
+url = "https://archive.org/details/loiinterpretativ00fran_14"
+subject = [
+    "Usufruct",
+    "Government sale of real property",
+]
+extent = "2 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 28277"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9q29242g"
+internet_archive = "loiinterpretativ00fran_14"
+openlibrary_edition = "OL26226936M"
+openlibrary_work = "OL17622163W"
+
+[scan]
+file = "loiinterpretativ00fran_14.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/loiinterpretativ00fran_14"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Depot des lois, place du Carrousel : Et se trouve dans les villes chef-lieux de département, au bureau de correspondance du Dépôt des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_859904"
+
+[[text]]
+file = "loiinterpretativ00fran_14.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiinterpretativ00fran_14.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

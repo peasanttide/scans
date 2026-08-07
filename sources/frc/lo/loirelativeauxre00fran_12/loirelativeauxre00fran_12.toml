@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loirelativeauxre00fran_12"
+type = "pamphlet"
+title = "Loi relative aux rectifications d'erreurs de noms et prénoms sur le grand-livre de la dette publique : du 8 fructidor an V de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1797"
+note = """Caption title. At head of title: No. 543. Au nom de la République française. Imprint from colophon. "No. 2, 9"--Bottom of p. [1]. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."""
+url = "https://archive.org/details/loirelativeauxre00fran_12"
+subject = [
+    "France. Trésorerie nationale",
+    "Spelling errors",
+    "Finance, Public",
+]
+extent = "3 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10349 no. 18"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t82k1kp77"
+internet_archive = "loirelativeauxre00fran_12"
+openlibrary_edition = "OL26229564M"
+openlibrary_work = "OL17624597W"
+
+[scan]
+file = "loirelativeauxre00fran_12.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loirelativeauxre00fran_12"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Depot des lois, place du Carrousel : Et se trouve dans les villes chefs-lieux de départemens, au bureau de correspondance du Dépôt des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_859855"
+
+[[text]]
+file = "loirelativeauxre00fran_12.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativeauxre00fran_12.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativeauxre00fran_12.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativeauxre00fran_12.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

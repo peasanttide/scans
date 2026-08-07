@@ -1,0 +1,87 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loirelativeauxju00fran_8"
+type = "pamphlet"
+title = "Loi relative aux jugemens de la cour martiale : donnée à Paris, le 12 septembre 1791"
+language = "fr"
+place = "A Paris"
+date = "1792"
+note = """Caption title. At head of title: Armée française. At right of title: No. 1282. "Pour le roi. Signé M.L.F. DuPort"--P. 3. Imprint from colophon. Not in Martin & Walter. Révolution française. "Décret de l'Assemblée nationale, du 9 septembre 1791"--P. [1]-2. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/loirelativeauxju00fran_8"
+subject = [
+    "France. Armée",
+    "Courts-martial and courts of inquiry",
+    "Judgments",
+    "Justice, Administration of",
+]
+extent = "3 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 28126 copy 7"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t55f3zs64"
+internet_archive = "loirelativeauxju00fran_8"
+
+[scan]
+file = "loirelativeauxju00fran_8.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loirelativeauxju00fran_8"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Sovereign (1774-1792 : Louis XVI)"
+role = "author"
+
+[[resp]]
+name = "Duport-Dutertre, Marguerite-Louis-François, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "Imprimerie royale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie royale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_856003"
+
+[[text]]
+file = "loirelativeauxju00fran_8.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativeauxju00fran_8.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativeauxju00fran_8.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativeauxju00fran_8.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,85 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettrecardin00unse"
+type = "pamphlet"
+title = "Lettre de M. le cardinal de Rohan à M. le président de l'Assemblée nationale"
+language = "fr"
+place = "Paris"
+date = "1790"
+note = "Caption title. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française, IV:1, 29687. Scanner's note: Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text. No title page found. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/lettrecardin00unse"
+subject = [
+    "Rohan-Guémené, Louis-René-Édouard, prince de, 1734-1803",
+    "France. Assemblée nationale constituante (1789-1791)",
+    "Libel and slander",
+    "Real property",
+]
+extent = "4 p. ; 24 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 27161"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t11p37p65"
+internet_archive = "lettrecardin00unse"
+openlibrary_edition = "OL26229671M"
+openlibrary_work = "OL17624704W"
+
+[scan]
+file = "lettrecardin00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettrecardin00unse"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Rohan-Guémené, Louis-René-Édouard, prince de,1734-1803"
+role = "author"
+
+[[resp]]
+name = "Rohan-Guémené, Louis-René-Édouard, prince de, 1734-1803"
+role = "author"
+
+[[resp]]
+name = "André, Antoine Balthazard Joseph, baron d', 1739-1825"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Vezard & Le Normant, rue des Prêtres-Saint-Germain-l'Auxerrois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_868079"
+
+[[text]]
+file = "lettrecardin00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrecardin00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrecardin00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettrecardin00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

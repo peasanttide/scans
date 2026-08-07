@@ -1,0 +1,47 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: loirelativelapro00fran
+page: 1
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 2910
+h: 4113
+dpi: 350
+---
+
+(N°.3i*e.t3â*)
+
+IjOI relative à la proposition faite de suspendre l’effet de toutes
+
+créances et actions civiles contre les défenseurs de la patrie. ^°* 21 '
+
+Du 24 Messidor 3 Fan deuxième de la République française , une et indivisible.
+
+D.
+
+IOI.
+
+Tt A Convention nationale, après avoir entendu le rapport de
+son comité de législation sur la proposition de suspendre l’effet
+de toutes créances et actions civiles contre les défenseurs de la
+patrie.
+
+Décrète qu’il n’y a pas lieu à délibérer.
+
+Sur la proposition d’un membre, il a été décrété que le rap-
+port serait imprimé et inséré au bulletin.
+
+Ca'./
+
+103 H i-r
+
+Visé par l’Inspecteur . Signé S. E. Mon ne 1 .
+
+Collationné à l’original, par nous président et secrétaires de la Convention
+nationale. A Paris, le 25 Messidor, an second de la République française,
+une et indivisible. Signé Louis (du Bas -Rhin), président j Bordas 5
+Brival, A» Besson et A. Dumont , secrétaires ,
+
+A Paris, de l’imprimerie du dépôt des lois , place de la I\éyniQD , cbdevant du grand; Carrousel,
+
+ths, îisvbgxsx

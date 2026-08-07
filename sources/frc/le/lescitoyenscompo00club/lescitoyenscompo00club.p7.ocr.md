@@ -1,0 +1,10 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: lescitoyenscompo00club
+page: 7
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 2499
+h: 3927
+dpi: 500
+---

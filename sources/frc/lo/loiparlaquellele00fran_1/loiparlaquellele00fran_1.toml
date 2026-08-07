@@ -1,0 +1,63 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loiparlaquellele00fran_1"
+type = "pamphlet"
+title = "Loi par laquelle les citoyens Van-Grasveld et de Sitter sont reconnus et proclamés ambassadeurs extraordinaires de la République des Provinces-Unies auprès de la République française : du 17 prairial, l'an troisième de la République française"
+language = "fr"
+place = "A Paris"
+date = "1795"
+note = """Caption title. At head of title: (No. 420.*). At right of title: B. no. 153. D. no. 898. "La Convention nationale ... décrète ...". Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text. No page numbers."""
+url = "https://archive.org/details/loiparlaquellele00fran_1"
+extent = "[1] p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 28121"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t15n1c904"
+internet_archive = "loiparlaquellele00fran_1"
+openlibrary_edition = "OL26229762M"
+openlibrary_work = "OL17624795W"
+
+[scan]
+file = "loiparlaquellele00fran_1.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/loiparlaquellele00fran_1"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_861846"
+
+[[text]]
+file = "loiparlaquellele00fran_1.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiparlaquellele00fran_1.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

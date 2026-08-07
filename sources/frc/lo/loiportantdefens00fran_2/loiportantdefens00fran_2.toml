@@ -1,0 +1,70 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loiportantdefens00fran_2"
+type = "pamphlet"
+title = "Loi portant défenses d'annoncer publiquement les journaux et les actes des autorités constituées, autrement que par leur titre : du 5 nivôse, an cinquième de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1796"
+note = """Caption title. At head of title: No. 385. Au nom de la République française. Imprint from colophon. "No. 3"--Bottom of p. [1]. Not in Martin & Walter. Révolution française. "Arrêté du Directoire exécutif, qui ordonne la proclamation, à son de trompe ou de caisse, de la loi ci-dessus, relative à l'annonce des journaux"--P. 2. Scanner's note: No copyright page found. No table-of-contents pages found. Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text. Only one numbered page."""
+url = "https://archive.org/details/loiportantdefens00fran_2"
+subject = [
+    "Journalism and public relations",
+    "Promulgation (Law)",
+    "Press law",
+]
+extent = "2 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 28251"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t31311d9g"
+internet_archive = "loiportantdefens00fran_2"
+
+[scan]
+file = "loiportantdefens00fran_2.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/loiportantdefens00fran_2"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France"
+role = "author"
+
+[[resp]]
+name = "France. Directoire exécutif"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois, place du Carrousel, et se trouve dans les villes chefs-lieux de département, au bureau de correspondance du Dépôt des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_859204"
+
+[[text]]
+file = "loiportantdefens00fran_2.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiportantdefens00fran_2.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

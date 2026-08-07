@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loiquidestinequa00fran"
+type = "pamphlet"
+title = "Loi qui destine quatre millions, valeur fixe, aux encouragemens des fabriques et manufactures nationales : du 6 messidor, an quatrième de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1796"
+note = "Caption title. At head of title: No. 204. Au nom de la République française. At right of title: B. 54, No. 485. Signed: Carnot; par le Directoire exécutif, le secrétaire général, Lagarde. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover. Only one numbered page."
+url = "https://archive.org/details/loiquidestinequa00fran"
+subject = [
+    "France. Ministère de l'intérieur",
+    "Manufacturing industries",
+    "Finance, Public",
+]
+extent = "2 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10347 no. 134"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7sn5bk9d"
+internet_archive = "loiquidestinequa00fran"
+openlibrary_edition = "OL26230556M"
+openlibrary_work = "OL17625532W"
+
+[scan]
+file = "loiquidestinequa00fran.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/loiquidestinequa00fran"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Directoire exécutif"
+role = "author"
+
+[[resp]]
+name = "Carnot, Lazare, 1753-1823"
+role = "author"
+
+[[resp]]
+name = "Lagarde, Joseph-Jean, baron, 1755-1840"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Depot des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_858463"
+
+[[text]]
+file = "loiquidestinequa00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiquidestinequa00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

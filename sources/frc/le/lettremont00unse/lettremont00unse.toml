@@ -1,0 +1,84 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettremont00unse"
+type = "pamphlet"
+title = "Lettre de M. de Montmorin, à M. le président de l'Assemblée nationale"
+language = "fr"
+place = "A Paris"
+date = "1790"
+note = "Caption title. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française, III, 25062. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover."
+url = "https://archive.org/details/lettremont00unse"
+subject = ["Border patrols"]
+extent = "3 p. ; 28 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 27019"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t36165j48"
+internet_archive = "lettremont00unse"
+openlibrary_edition = "OL26226697M"
+openlibrary_work = "OL17621930W"
+
+[scan]
+file = "lettremont00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettremont00unse"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Montmorin-Saint-Hérem, Armand-Marc, comte de,1745-1792"
+role = "author"
+
+[[resp]]
+name = "Montmorin-Saint-Hérem, Armand-Marc, comte de, 1745-1792"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "Imprimerie royale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie royale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_865614"
+
+[[text]]
+file = "lettremont00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettremont00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettremont00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettremont00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

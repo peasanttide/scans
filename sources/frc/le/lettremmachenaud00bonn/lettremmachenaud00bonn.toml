@@ -1,0 +1,74 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettremmachenaud00bonn"
+type = "pamphlet"
+title = "Lettre à M. Machenaud, homme de loi, sur son discours prononcé à la séance des jacobins le 29 janvier 1792 & distribué aux membres de l'Assemblée nationale sous la présidence de M. Guadet 11 février de l'an 4e. de la liberté."
+language = "fr"
+date = "1792"
+note = "Caption title. Signed: Bonnemere, député. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,I, 4122. Scanner's note: Title found on front cover. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/lettremmachenaud00bonn"
+subject = [
+    "Machenaud, François, d. 1792",
+    "Jacobins",
+]
+extent = "4 p ;19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "CaseFRC10869"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9p29x90s"
+internet_archive = "lettremmachenaud00bonn"
+openlibrary_edition = "OL25654420M"
+openlibrary_work = "OL17083923W"
+
+[scan]
+file = "lettremmachenaud00bonn.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettremmachenaud00bonn"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Bonnemère, Joseph-Toussaint,1746-1794"
+role = "author"
+
+[[resp]]
+name = "[Paris] :De l'Imprimerie nationale,"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_824350"
+
+[[text]]
+file = "lettremmachenaud00bonn.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "lettremmachenaud00bonn.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "lettremmachenaud00bonn.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "lettremmachenaud00bonn.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"

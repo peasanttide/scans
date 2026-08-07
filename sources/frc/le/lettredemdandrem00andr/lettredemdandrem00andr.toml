@@ -1,0 +1,71 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettredemdandrem00andr"
+type = "pamphlet"
+title = "Lettre de M. d'André, membre de l'Assemblée nationale, à M. Martin, maire de Marseille."
+language = "fr"
+place = "A Paris"
+date = "1790"
+note = "Caption title. Signed: D'André. Paris, le 25 octobre 1790. Author based on Martin & Walter. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No title page found. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/lettredemdandrem00andr"
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 13470"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3wt3dc1g"
+internet_archive = "lettredemdandrem00andr"
+openlibrary_edition = "OL25926332M"
+openlibrary_work = "OL17348961W"
+
+[scan]
+file = "lettredemdandrem00andr.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettredemdandrem00andr"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "André, Antoine Balthazard Joseph, baron d', 1739-1825"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie de Pain, au Palais-Royal, no. 145"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_828452"
+
+[[text]]
+file = "lettredemdandrem00andr.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredemdandrem00andr.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredemdandrem00andr.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredemdandrem00andr.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

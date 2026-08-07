@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettredemdebeaum00beau"
+type = "pamphlet"
+title = "Lettre de M. de Beaumont, citoyen d'Avignon, à MM. les députés de l'Assemblée nationale."
+language = "fr"
+place = "Paris?"
+date = "1791"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: Title page located on front cover. No copyright page found. No table-of-contents pages found. Worn, damaged pages and cover. Skewed text."
+url = "https://archive.org/details/lettredemdebeaum00beau"
+subject = [
+    "Fallot de Beaumont, Étienne André François de Paule",
+    "Denunciation (Criminal law)",
+]
+extent = "3 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 14295"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8qc4qd97"
+internet_archive = "lettredemdebeaum00beau"
+openlibrary_edition = "OL25920254M"
+openlibrary_work = "OL17343291W"
+
+[scan]
+file = "lettredemdebeaum00beau.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettredemdebeaum00beau"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Beaumont, citoyen d'Avignon"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Postillon, rue Basse-du-Rempart, no. 22"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_829807"
+
+[[text]]
+file = "lettredemdebeaum00beau.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredemdebeaum00beau.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredemdebeaum00beau.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredemdebeaum00beau.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,91 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loiprovisoire00unse"
+type = "pamphlet"
+title = "Loi provisoire, relative aux ci-devant religieux qui voudront continuer de vivre en commun : donnée à Paris, le 20 mars 1791"
+language = "fr"
+place = "A Paris"
+date = "1791"
+note = """Caption title. At right of title: No. 705. "Signé Louis. Et plus bas, M.L.F. DuPort"--P. 2. Imprint from colophon. Martin & Walter. Révolution française. "Décret de l'Assemblée nationale, du 13 mars 1791"--P. [1]-2. Bibliography: Martin & Walter. Révolution française, IV:2, 9143. Scanner's note: Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text. No title page found. No copyright page found. No table-of-contents pages found. Text on the back cover is upside-down."""
+url = "https://archive.org/details/loiprovisoire00unse"
+subject = [
+    "Clergy",
+    "Monasticism and religious orders",
+    "Secularization",
+    "Domicile",
+]
+extent = "2 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 28508"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8ff8xh2d"
+internet_archive = "loiprovisoire00unse"
+
+[scan]
+file = "loiprovisoire00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loiprovisoire00unse"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Sovereign (1774-1792 : Louis XVI)"
+role = "author"
+
+[[resp]]
+name = "Louis XVI, King of France, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "Duport-Dutertre, Marguerite-Louis-François, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "Imprimerie royale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie royale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_852784"
+
+[[text]]
+file = "loiprovisoire00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiprovisoire00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiprovisoire00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loiprovisoire00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

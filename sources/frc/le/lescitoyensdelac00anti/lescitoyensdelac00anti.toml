@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lescitoyensdelac00anti"
+type = "pamphlet"
+title = "... Les citoyens de la commune d'Antibes, département du Var : au Corps législatif."
+language = "fr"
+place = "A Paris"
+date = "1799"
+note = "Caption title. Imprint from colophon. At head of title: Corps législatif. Conseil des cinq-cents. Liberté. Égalité. Antibes, le 15 messidor an 7 de la République française, une et indivisible [3 juillet 1799]. Martin & Walter IV 2: 3407 (which specifies: Sur la journée du 30 prairial [an VII = 18 juin 1799]). Scanner's note: No copyright page found. No table-of-contents pages found.   Title page is on the cover. Skewed text. Damaged, stained, and/or loose pages."
+url = "https://archive.org/details/lescitoyensdelac00anti"
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 1778"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6q007t70"
+internet_archive = "lescitoyensdelac00anti"
+openlibrary_edition = "OL26209205M"
+openlibrary_work = "OL17605457W"
+
+[scan]
+file = "lescitoyensdelac00anti.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lescitoyensdelac00anti"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Antibes (France). Citizens"
+role = "author"
+
+[[resp]]
+name = "France. Corps législatif (1795-1814). Conseil des cinq-cents"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_43510"
+
+[[text]]
+file = "lescitoyensdelac00anti.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lescitoyensdelac00anti.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lescitoyensdelac00anti.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lescitoyensdelac00anti.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

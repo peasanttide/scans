@@ -1,0 +1,40 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: leprincescava00dubo
+page: 23
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 3194
+h: 4923
+dpi: 500
+---
+
+23
+
+LE DESTIN
+
+DE
+
+MONSEIGNEVR
+
+LE PRINCE
+
+DE CONTL
+
+Tire de fon Anagramme.
+
+^ i
+
+'ARMAN DE BOVRBON PRINCE DE
+CONTI, LE REIETTON ILLVSTRE DV
+SANG ROYAL DE FRANCE, ET DV
+SANG DEMI-DIEV DES VERTVEVS
+MONMORENCIS.
+
+ANAGRAMME
+
+ROME: DANS LVY SERA NOMME' VN
+NOBLE CARDINAL, DIGNE SVCCES-'
+SEVR D’VRBAIN VIII. TON PONTIFE,
+ET DVC DIGNE DE MODERER
+TOVTE LA TERRE.

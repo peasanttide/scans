@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "lettredelanjuina00lanj"
+type = "pamphlet"
+title = "Lettre de Lanjuinais a la Convention nationale."
+language = "fr"
+place = "France"
+date = "1794"
+note = "Caption title. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  III, 19107. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged pages.  Inconsistent page size.  Skewed text."
+url = "https://archive.org/details/lettredelanjuina00lanj"
+subject = ["Lanjuinais, J.-D. (Jean-Denis), comte, 1753-1827"]
+extent = "4 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 12148"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t07x1287f"
+internet_archive = "lettredelanjuina00lanj"
+openlibrary_edition = "OL25914852M"
+openlibrary_work = "OL17338156W"
+
+[scan]
+file = "lettredelanjuina00lanj.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/lettredelanjuina00lanj"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Lanjuinais, J.-D. (Jean-Denis), comte, 1753-1827"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_826150"
+
+[[text]]
+file = "lettredelanjuina00lanj.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredelanjuina00lanj.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredelanjuina00lanj.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "lettredelanjuina00lanj.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

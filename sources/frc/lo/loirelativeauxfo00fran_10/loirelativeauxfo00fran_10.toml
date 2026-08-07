@@ -1,0 +1,88 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loirelativeauxfo00fran_10"
+type = "pamphlet"
+title = "Loi relative aux formules de congé & passe-ports du commerce maritime : du 5 septembre 1792, l'an quatrième de la liberté"
+language = "fr"
+place = "A Marseille"
+date = "1792"
+note = """Caption title. At right of title: No. 2378. "Au nom de la nation, le Conseil exécutif provisoire mande & ordonne ... signé Claviere, contre-signé Danton ..."--P. 2. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, stained and/or loose pages Skewed text. Uneven binding. Title and cover page are combined."""
+url = "https://archive.org/details/loirelativeauxfo00fran_10"
+subject = [
+    "Passports",
+    "Safe-conducts",
+    "Maritime law",
+]
+extent = "3 p. ; 24 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC suppl. 86 no. 90"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4dn9bw3t"
+internet_archive = "loirelativeauxfo00fran_10"
+openlibrary_edition = "OL26235051M"
+openlibrary_work = "OL17629633W"
+
+[scan]
+file = "loirelativeauxfo00fran_10.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loirelativeauxfo00fran_10"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale. Conseil exécutif provisoire"
+role = "author"
+
+[[resp]]
+name = "Clavière, Étienne, 1735-1793"
+role = "author"
+
+[[resp]]
+name = "Danton, Georges Jacques, 1759-1794"
+role = "author"
+
+[[resp]]
+name = "Mossy, Jean, d. 1792"
+role = "publisher"
+
+[[resp]]
+name = "De l'imprimerie de Jean Mossy, imprimeur de la nation et du département"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_862047"
+
+[[text]]
+file = "loirelativeauxfo00fran_10.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativeauxfo00fran_10.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativeauxfo00fran_10.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativeauxfo00fran_10.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

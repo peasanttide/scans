@@ -1,0 +1,95 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loirelativelasig00fran"
+type = "pamphlet"
+title = "Loi relative à la signature des procés-verbaux et expositions des décrets de l'Assemblée nationale constituante : donnée à Paris, le 16 octobre 1791"
+language = "fr"
+place = "A Rouen"
+date = "1791"
+note = """Caption title. Signed: Louis; countersigned: M.L. Duport. "Nous administrateurs, du département de la Seine Inférieure ... avons ordonné ..."--P. 2. Imprint from colophon. Not in Martin & Walter. Révolution française. "Decret de l'Assemblée nationale, du vingt-neuf septembre mil sept cent quatre-vingt-onze"--P. [1]-2. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover."""
+url = "https://archive.org/details/loirelativelasig00fran"
+subject = [
+    "Recording and registration",
+    "Formalities (Law)",
+]
+extent = "3 p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC suppl. 86 no. 33"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3b04c90t"
+internet_archive = "loirelativelasig00fran"
+openlibrary_edition = "OL26235202M"
+openlibrary_work = "OL17629785W"
+
+[scan]
+file = "loirelativelasig00fran.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loirelativelasig00fran"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Sovereign (1774-1792 : Louis XVI)"
+role = "author"
+
+[[resp]]
+name = "Louis XVI, King of France, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "Duport-Dutertre, Marguerite-Louis-François, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "Le Boullenger, Jacques-Joseph-Jean-Baptiste, b. 1740"
+role = "publisher"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "Seine-Maritime (France). Directoire"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de J.J. Le Boullenger, imprimeur du roi & du département de la Seine Inférieure, rue du Grand-Maulévrier"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_861995"
+
+[[text]]
+file = "loirelativelasig00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativelasig00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativelasig00fran.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loirelativelasig00fran.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

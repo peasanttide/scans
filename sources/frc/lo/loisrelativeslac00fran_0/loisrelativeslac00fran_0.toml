@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "loisrelativeslac00fran_0"
+type = "pamphlet"
+title = "Lois relatives a la comptabilite : des 10 et 11 messidor, an troisième de la République française une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1795"
+note = """Caption title. At head of title: (No. 445.*). "La Convention nationale ... décrète ..."--P. [1]. Imprint from colophon. Not in Martin & Walter. Révolution française. 1o. Loi qui autorise le Comtié des finances à statuer sur les réclamations des comptables en main-levée de séquestre et d'opposition : du 10 messidor, an troisième de la République française, une et indivisible : B. no. 159. D. no. 931 -- 2o. Loi qui détermine les formalités à observer par les comptables pour la vente de leurs immeubles soumis à l'hypothèque nationale, etc. : du 11 messidor, an troisième de la République française, une et indivisible : B. no. 159. D. no. 933 -- 3o. Loi relative à la la [sic] reddition des comptes des receveurs généraux des domaines de Louis-Stanislas-Xavier Capet, Charles-Philippe Capet et Louis-Philippe-Joseph d'Orléans : du 11 messidor, an troisième de la République française, une et indivisible : B. no. 159. D. no. 932. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."""
+url = "https://archive.org/details/loisrelativeslac00fran_0"
+subject = [
+    "Eminent domain",
+    "Finance, Public",
+]
+extent = "4 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10346 no. 97"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6vx5hg2v"
+internet_archive = "loisrelativeslac00fran_0"
+openlibrary_edition = "OL26230222M"
+openlibrary_work = "OL17625198W"
+
+[scan]
+file = "loisrelativeslac00fran_0.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/loisrelativeslac00fran_0"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Depot des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_861863"
+
+[[text]]
+file = "loisrelativeslac00fran_0.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loisrelativeslac00fran_0.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loisrelativeslac00fran_0.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "loisrelativeslac00fran_0.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
