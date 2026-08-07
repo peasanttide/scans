@@ -1,0 +1,50 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_6539"
+type = "pamphlet"
+title = "[Circular letter, dated: 30 septembre 1789]"
+place = "Paris"
+date = "1789"
+url = "https://archive.org/details/case_frc_6539"
+extent = "2 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+shelfmark = "Case FRC 6539"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t79s7628b"
+internet_archive = "case_frc_6539"
+
+[scan]
+file = "case_frc_6539.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_6539"
+
+[[resp]]
+name = "Paris (France). District des Jacobins Saint-Honoré"
+role = "author"
+
+[[resp]]
+name = "J.C. Desaint, imprimeru du district"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_59497"
+
+[[text]]
+file = "case_frc_6539.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_6539.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

@@ -1,0 +1,73 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "compterendulacon00blau"
+type = "pamphlet"
+title = "Compte rendu a la Convention nationale par Blaux, représentant du peuple, de la dépense par lui faite pendant la mission qu'il a remplie dans les départemens de la Moselle & du Bas-Rhin, depuis le premier février 1793 (vieux style), jusqu'au 28 mai suivant."
+language = "fr"
+date = "1795"
+note = """Caption title. At head of title: Convention nationale. Imprint from colophon. "Etat de la dépense faite par les citoyens Delaporte & Blaux"--P. [1]. Personal expense report. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,I, 3566. Scanner's note: No copyright page found. No table-of-contents pages found."""
+url = "https://archive.org/details/compterendulacon00blau"
+subject = [
+    "Delaporte, Sébastien-François-Christophe, 1760-1823",
+    "France. Convention nationale",
+    "Finance, Public",
+]
+extent = "4 p. ;20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "CaseFRC10820"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t45q7zq86"
+internet_archive = "compterendulacon00blau"
+
+[scan]
+file = "compterendulacon00blau.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/compterendulacon00blau"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Blaux, Nicolas-François,b. 1731"
+role = "author"
+
+[[resp]]
+name = "[Paris] :De l'Imprimerie nationale,"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_823759"
+
+[[text]]
+file = "compterendulacon00blau.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "compterendulacon00blau.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "compterendulacon00blau.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "compterendulacon00blau.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"

@@ -1,0 +1,64 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_1475"
+type = "pamphlet"
+title = "Lettre"
+place = "A Paris"
+date = "1792"
+url = "https://archive.org/details/case_frc_1475"
+subject = [
+    "Civil defense",
+    "Revolution (France : 1789-1799)",
+]
+extent = "4 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+shelfmark = "Case FRC 1475"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0bw2ww01"
+internet_archive = "case_frc_1475"
+
+[scan]
+file = "case_frc_1475.pdf"
+count = 5
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_1475"
+
+[[resp]]
+name = "Bouches-du-Rhône (France)"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie du Surveillant"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_41060"
+
+[[text]]
+file = "case_frc_1475.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_1475.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_1475.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_1475.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

@@ -1,0 +1,69 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "cataloguedelivre00barb"
+type = "pamphlet"
+title = "Catalogue de livres au rabais de plus de cinquante pour cent au-dessous du prix de 1790, franc de port, pour les personnes qui prendront pour cinquante livres et au-dessus"
+language = "fr"
+place = "Paris"
+date = "1797"
+note = "Caption title. Suggested publication date from BN. Catalogues de libraires. Printed in double columns. BN. Catalogues de libraires. With original and discounted prices. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Title page and cover are combined."
+url = "https://archive.org/details/cataloguedelivre00barb"
+subject = ["Barba, Jean-Nicolas, 1769-1846"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 11 no. 1"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2k703j2d"
+internet_archive = "cataloguedelivre00barb"
+
+[scan]
+file = "cataloguedelivre00barb.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/cataloguedelivre00barb"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Barba, Jean-Nicolas,1769-1846"
+role = "author"
+
+[[resp]]
+name = "Barba, Jean-Nicolas, 1769-1846"
+role = "author"
+
+[[resp]]
+name = "Barba"
+role = "publisher"
+
+[[text]]
+file = "cataloguedelivre00barb.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "cataloguedelivre00barb.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "cataloguedelivre00barb.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "cataloguedelivre00barb.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

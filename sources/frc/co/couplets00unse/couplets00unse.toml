@@ -1,0 +1,73 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "couplets00unse"
+type = "pamphlet"
+title = "Couplets patriotiques, pour la fête républicaine du 2 pluviôse an 7, jour anniversaire de la mort du dernier roi des Français /"
+language = "fr"
+place = "France"
+date = "1799"
+note = "Caption title. At head of title: Liberté, égalité, harmonie. Not in Martin & Walter. Révolution française. Scanner's note: Title page and cover are combined. Damaged, stained, marked and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/couplets00unse"
+subject = [
+    "Louis XVI, King of France, 1754-1793",
+    "Festivals",
+]
+extent = "3 p. ; 17 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 23774"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4bp5cc65"
+internet_archive = "couplets00unse"
+
+[scan]
+file = "couplets00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/couplets00unse"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Pipaud"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_848571"
+
+[[text]]
+file = "couplets00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "couplets00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "couplets00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "couplets00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

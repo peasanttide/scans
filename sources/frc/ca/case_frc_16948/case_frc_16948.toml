@@ -1,0 +1,55 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_16948"
+type = "pamphlet"
+title = "Compte rendu à la Convention nationale par Daudenac jeune, représentant du peuple, envoyé en mission près l'armée des côtes de La Rochelle"
+place = "Paris"
+date = "1794"
+url = "https://archive.org/details/case_frc_16948"
+subject = [
+    "France. Convention nationale",
+    "Finance, Public",
+]
+extent = "2 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 16948"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t24b84143"
+internet_archive = "case_frc_16948"
+
+[scan]
+file = "case_frc_16948.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_16948"
+
+[[resp]]
+name = "Daudenac, jeune"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=835241"
+
+[[text]]
+file = "case_frc_16948.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_16948.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

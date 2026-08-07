@@ -1,0 +1,89 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_15600"
+type = "pamphlet"
+title = "Le moine qui n’est pas bête, aux États-généraux"
+place = "Paris"
+date = "1789"
+note = 'Date given by the catalogue as "1789~".'
+url = "https://archive.org/details/case_frc_15600"
+subject = [
+    "Church and state",
+    "Monasticism and religious orders",
+    "Vows",
+    "History",
+    "Storming of the Bastille (France : 1789)",
+]
+extent = "8 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 15600"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t05x7c44k"
+internet_archive = "case_frc_15600"
+
+[scan]
+file = "case_frc_15600.pdf"
+count = 9
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_15600"
+
+[[resp]]
+name = "Ulliac"
+role = "author"
+
+[[resp]]
+name = "Chez Poinçot, libraire, quai des Augustins, no. 41"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "https://i-share.carli.illinois.edu/nby/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=827916"
+
+[[text]]
+file = "case_frc_15600.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_15600.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_15600.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_15600.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_15600.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_15600.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_15600.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_15600.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

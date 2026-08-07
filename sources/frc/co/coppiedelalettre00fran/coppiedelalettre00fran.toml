@@ -1,0 +1,68 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "coppiedelalettre00fran"
+type = "pamphlet"
+title = "Coppie de la lettre de la Compagnie à Mr Roche, directeur"
+language = "fr"
+date = "1774"
+note = "Caption title. At upper left of title: Traites. Circulaire. About the evasion of tariffs on books from foreign countries entering France. Scanner's note: No copyright page found. No table-of-contents pages found. Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Title page and cover are combined."
+url = "https://archive.org/details/coppiedelalettre00fran"
+subject = ["Tariff on books"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 8 no. 79"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0zp9nh5s"
+internet_archive = "coppiedelalettre00fran"
+
+[scan]
+file = "coppiedelalettre00fran.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/coppiedelalettre00fran"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Ferme générale"
+role = "author"
+
+[[resp]]
+name = "France. Ferme générale"
+role = "author"
+
+[[resp]]
+name = "[Paris?"
+role = "publisher"
+
+[[text]]
+file = "coppiedelalettre00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "coppiedelalettre00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "coppiedelalettre00fran.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "coppiedelalettre00fran.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

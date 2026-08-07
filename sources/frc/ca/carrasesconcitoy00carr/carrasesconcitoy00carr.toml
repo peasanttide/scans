@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "carrasesconcitoy00carr"
+type = "pamphlet"
+title = "Carra à ses concitoyens de tous les départemens."
+language = "fr"
+place = "France"
+date = "1793"
+note = "Caption title. At head of title: De la conciergerie, ce 2 du 2e. mois de la république françoise, une et indivisible. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  I, 6245. Scanner's note: No copyright page found. No table-of-contents pages found.   Damaged, stained pages. Uneven binding. Skewed text. Title and cover are combined."
+url = "https://archive.org/details/carrasesconcitoy00carr"
+subject = [
+    "Carra, Jean-Louis, 1743-1793",
+    "Imprisonment",
+]
+extent = "4 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 15791"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1fj7cs3k"
+internet_archive = "carrasesconcitoy00carr"
+openlibrary_edition = "OL25951141M"
+openlibrary_work = "OL17372136W"
+
+[scan]
+file = "carrasesconcitoy00carr.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/carrasesconcitoy00carr"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Carra, Jean-Louis, 1743-1793"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_831905"
+
+[[text]]
+file = "carrasesconcitoy00carr.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "carrasesconcitoy00carr.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "carrasesconcitoy00carr.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "carrasesconcitoy00carr.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

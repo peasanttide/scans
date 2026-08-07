@@ -1,0 +1,85 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "coupletschantesd00delr"
+type = "pamphlet"
+title = "Couplets chantés dans le Temple de la liberté, le jour de l'Apothéose des bustes de Marat, et Le Pelletier."
+language = "fr"
+place = "A Versailles"
+date = "1793"
+note = """Without the music. Caption title. Signed, p. 2: Par le C. Delrieu. Imprint from colophon. Not in Martin & Walter. Révolution française. "Te deum national, ou, Apothéose de Marat et Pelletier ... Paroles du C. Delrieu ; musique du C. Giroux"--P. 2-4. Scanner's note: No copyright page found. No table-of-contents pages found.   Title is on the cover page. Skewed text. Damaged, marked, stained and/or loose pages."""
+url = "https://archive.org/details/coupletschantesd00delr"
+subject = [
+    "Marat, Jean Paul, 1743-1793",
+    "Lepeletier de Saint Fargeau, Michel, 1760-1793",
+    "Revolutionary ballads and songs",
+    "Revolutionary poetry, French",
+]
+extent = "4 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 17259"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1pg6pv6r"
+internet_archive = "coupletschantesd00delr"
+openlibrary_edition = "OL26203632M"
+openlibrary_work = "OL17600069W"
+
+[scan]
+file = "coupletschantesd00delr.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/coupletschantesd00delr"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Delrieu, M. (Etienne-Joseph-Bernard), approximately 1760-1836"
+role = "author"
+
+[[resp]]
+name = "Delrieu, M. (Etienne-Joseph-Bernard), approximately 1760-1836. Te deum nationale, ou, Apothéose de Marat et Pelletier"
+role = "author"
+
+[[resp]]
+name = "Giroust, François, 1737-1799, composer"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie des Beaux-arts, place de la Loi, no. 6"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_835546"
+
+[[text]]
+file = "coupletschantesd00delr.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "coupletschantesd00delr.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "coupletschantesd00delr.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "coupletschantesd00delr.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

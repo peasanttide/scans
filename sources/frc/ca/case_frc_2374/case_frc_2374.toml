@@ -1,0 +1,50 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_2374"
+type = "pamphlet"
+title = "... Noms des membres composant le Comité d'examen des comptes"
+date = "1792"
+url = "https://archive.org/details/case_frc_2374"
+subject = [
+    "France. Convention nationale",
+    "Registers",
+    "Revolution (France : 1789-1799)",
+]
+extent = "2 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+shelfmark = "Case FRC 2374"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t43r69425"
+internet_archive = "case_frc_2374"
+
+[scan]
+file = "case_frc_2374.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_2374"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_46213"
+
+[[text]]
+file = "case_frc_2374.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_2374.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

@@ -1,0 +1,59 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "censvredvlibelle00cath"
+type = "pamphlet"
+title = "Censvre dv libelle intitulé Theotime ov Dialogve instructif sur l'affaire present des Peres Iesuites de Sens"
+language = "fr"
+date = "1650"
+note = """Caption title. "Imprimé par le commandement de Mondit Seigneur.". Scanner's note: No copyright found.  No table of contents found.  Damaged, stained pages and cover.  Title on cover page. <br />No page numbers. <br />."""
+url = "https://archive.org/details/censvredvlibelle00cath"
+subject = [
+    "Theotime",
+    "Censorship",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 1 no. 54"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t55f4f51t"
+internet_archive = "censvredvlibelle00cath"
+
+[scan]
+file = "censvredvlibelle00cath.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/censvredvlibelle00cath"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "Catholic Church.Archdiocese of Sens (France).Archbishop, 1646-1674 (Louis Henri de Pardaillan de Gondrin)"
+role = "author"
+
+[[resp]]
+name = "Catholic Church. Archdiocese of Sens (France). Archbishop, 1646-1674 (Louis Henri de Pardaillan de Gondrin)"
+role = "author"
+
+[[resp]]
+name = "[n.p."
+role = "publisher"
+
+[[text]]
+file = "censvredvlibelle00cath.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "censvredvlibelle00cath.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

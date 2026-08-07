@@ -1,0 +1,61 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_12930"
+type = "pamphlet"
+title = "Compte rendu par le représentant du peuple C.A. Prieur (de la Côte-d'Or), en exécution du décret du 21 nivôse an troisième."
+place = "Paris"
+date = "1795"
+url = "https://archive.org/details/case_frc_12930"
+subject = [
+    "Finance, Public",
+    "France. Convention nationale",
+    "Expenditures, Public",
+    "Public officers",
+    "Employees",
+    "History",
+    "Revolution (France : 1789-1799)",
+    "Economics",
+]
+extent = "2 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 12930"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7kq2sm31"
+internet_archive = "case_frc_12930"
+
+[scan]
+file = "case_frc_12930.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_12930"
+
+[[resp]]
+name = "Prieur-Duvernois, Claude Antoine, 1763-1832"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_828020"
+
+[[text]]
+file = "case_frc_12930.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_12930.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

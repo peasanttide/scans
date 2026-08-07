@@ -1,0 +1,65 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_2230"
+type = "pamphlet"
+title = "Extrait du registre des arrêtés"
+place = "À Paris"
+date = "1795"
+url = "https://archive.org/details/case_frc_2230"
+subject = [
+    "Prisoners of war",
+    "International relations",
+    "Revolution (France : 1789-1799)",
+]
+extent = "2 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+shelfmark = "Case FRC 2230"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0zp9fz35"
+internet_archive = "case_frc_2230"
+
+[scan]
+file = "case_frc_2230.pdf"
+count = 5
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_2230"
+
+[[resp]]
+name = "France. Convention nationale. Comité de salut public"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie de la République"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_46472"
+
+[[text]]
+file = "case_frc_2230.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_2230.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_2230.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_2230.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

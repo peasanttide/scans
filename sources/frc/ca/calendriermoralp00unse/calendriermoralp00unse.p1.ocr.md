@@ -1,0 +1,12 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: calendriermoralp00unse
+page: 1
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 2766
+h: 4789
+dpi: 500
+---
+
+CALENDRIERS.

@@ -1,0 +1,55 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_15272"
+type = "pamphlet"
+title = "Discours prononcé par le citoyen Bréard, en présentant la carte des descentes en Angleterre : suivie d'une notice explicative : séance du 23 pluviôse, an VI"
+place = "Paris"
+date = "1798"
+url = "https://archive.org/details/case_frc_15272"
+subject = [
+    "Anglo-French War (1793-1802)",
+    "Maradan, Claude-François, 1762-1823",
+]
+extent = "2 p. ; 18 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 15272"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6xw9fz42"
+internet_archive = "case_frc_15272"
+
+[scan]
+file = "case_frc_15272.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_15272"
+
+[[resp]]
+name = "Bréard, Jean Jacques, 1750-1840"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=831595"
+
+[[text]]
+file = "case_frc_15272.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_15272.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

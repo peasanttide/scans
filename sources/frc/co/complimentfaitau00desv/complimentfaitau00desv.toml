@@ -1,0 +1,63 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "complimentfaitau00desv"
+type = "pamphlet"
+title = "Compliment fait au roi, à son passage"
+language = "fr"
+date = "1745"
+note = "Binder's title: Retour du roy. Verse. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover.  Uneven binding.  Skewed text.  Irregular pagination.  Page numbers have been altered/defaced.  Damaged, stained, torn and/or loose pages."
+url = "https://archive.org/details/complimentfaitau00desv"
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "E 5 .L92705 v. 04 no. 31"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5jb26w3x"
+internet_archive = "complimentfaitau00desv"
+
+[scan]
+file = "complimentfaitau00desv.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/complimentfaitau00desv"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Des Vignes, Chrisostome"
+role = "author"
+
+[[resp]]
+name = "Bourget"
+role = "publisher"
+
+[[text]]
+file = "complimentfaitau00desv.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "complimentfaitau00desv.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "complimentfaitau00desv.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "complimentfaitau00desv.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

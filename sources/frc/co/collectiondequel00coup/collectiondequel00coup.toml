@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "collectiondequel00coup"
+type = "pamphlet"
+title = "Collection de quelques rapports et divers petits traités /"
+language = "fr"
+place = "Paris"
+date = "1795"
+note = """Caption title. Imprint from colophon. "La souscription est ouverte chez le Jardinier, rue Neuve-Saint-Etienne, no. 6"--P. 3. Agriculture et paturages -- Animaux domestiques -- Bois -- Commerce -- Instrution publique -- Religion et morale. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  I, 8509. Scanner's note: No copyright page found. No table-of-contents pages found."""
+url = "https://archive.org/details/collectiondequel00coup"
+subject = [
+    "Coupé, Jacques-Michel, 1737-1809",
+    "Booksellers and bookselling",
+]
+extent = "3 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 11198"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0fv36d5v"
+internet_archive = "collectiondequel00coup"
+openlibrary_edition = "OL25911518M"
+openlibrary_work = "OL17335164W"
+
+[scan]
+file = "collectiondequel00coup.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/collectiondequel00coup"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Coupé, Jacques-Michel, 1737-1809"
+role = "author"
+
+[[resp]]
+name = "Baudouin, François-Jean, 1759-1838"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie de Baudouin, imprimeur du Corps législatif, place du Carrousel, no. 662"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_824641"
+
+[[text]]
+file = "collectiondequel00coup.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "collectiondequel00coup.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "collectiondequel00coup.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "collectiondequel00coup.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

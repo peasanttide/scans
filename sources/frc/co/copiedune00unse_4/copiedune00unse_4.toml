@@ -1,0 +1,81 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "copiedune00unse_4"
+type = "pamphlet"
+title = "Copie d'une lettre éérite [sic] à M. le marquis de La Fayette, concernant la valeur d'un brave citoyen du faubourg S. Antoine : avis à tsus [sic] les citoyens de suivre cet exemple."
+language = "fr"
+place = "Paris"
+date = "1789"
+note = "Caption title. Signed: Renault. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: Title page and cover are combined. Damaged, stained, marked and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/copiedune00unse_4"
+subject = [
+    "Santerre, Antoine-Joseph, 1752-1809",
+    "Bastille",
+]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 24356"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t43r64w7c"
+internet_archive = "copiedune00unse_4"
+
+[scan]
+file = "copiedune00unse_4.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/copiedune00unse_4"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Renault"
+role = "author"
+
+[[resp]]
+name = "Lafayette, Marie Joseph Paul Yves Roch Gilbert Du Motier, marquis de, 1757-1834"
+role = "author"
+
+[[resp]]
+name = "Volland, Calixte, active 1787-1808"
+role = "publisher"
+
+[[resp]]
+name = "Chez Volland, libraire, quai des Augustins, no. 25"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_849188"
+
+[[text]]
+file = "copiedune00unse_4.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "copiedune00unse_4.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "copiedune00unse_4.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "copiedune00unse_4.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

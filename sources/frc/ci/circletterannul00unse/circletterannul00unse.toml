@@ -1,0 +1,60 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "circletterannul00unse"
+type = "pamphlet"
+title = "[Circular letter on the annulment of certain municipal decrees in Haute-Garonne]"
+language = "fr"
+place = "Toulouse"
+date = "1790"
+note = "Dated at end: Toulouse, le 8 août 1790. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover. No page numbers."
+url = "https://archive.org/details/circletterannul00unse"
+subject = ["Central-local government relations"]
+extent = "[1] p. ; 24 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10298 no. 2"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t22c44m5d"
+internet_archive = "circletterannul00unse"
+openlibrary_edition = "OL26223408M"
+openlibrary_work = "OL17618871W"
+
+[scan]
+file = "circletterannul00unse.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/circletterannul00unse"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Haute-Garonne (France)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_856899"
+
+[[text]]
+file = "circletterannul00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "circletterannul00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

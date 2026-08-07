@@ -1,0 +1,38 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: case_frc_5639
+page: 2
+engine: ABBYY FineReader 11.0
+w: 2306
+h: 3600
+dpi: 300
+---
+
+C’étqlt un nouveau triomphe , citoyens législateurs^
+your tous les républicains,' de voir le départ de ces
+jeunes conscrits. La patrie , ont - ils dit , nous appelle
+am frontières, le législateur a parlé , nous volons sous
+les étendards de la nation. L’enthousiasme étoit général:
+la ga|té franche assaisonnoit leur séjour ici. Enfin , ils
+sont partis sans donner le moindre signe de répugnance,
+et aux cris répétés de mi^e la République ! Mais ce quî
+rendoit pe spectacle encore infiniment plus intéressant,
+p’étoit rencouragement qu’on s’empressoit de leur ins-
+pirer de toutes parts. D’un côté on voyoit des agens,
+comme d’autres Mentors , accompagner jusqu’au chef-
+lieu les conscrits de leur commune , et les entretenir
+dans l’alégresse jqsqu’à l’instant de leur déparç ; de
+l’autre , c’étoit des frères , ,des amis , qui s’eflorçoient
+de leur faire oublier leurs habitudes et leurs liaisons
+amicales pour quitter leurs foyers sans regret. Enfin,
+citoyens législateurs, les ennemis de la République se
+§onl encore agités sans succps , et ils n’opt pu port^
+Je dégoût dans l’ame de la jeunesse.
+
+Salut* et respect^
+
+^r^;zé , J. Birmînger , vice - président ; Wildermel ,
+J. Loetschet, Hauffman : J. Biard, secrétaire
+en chef.
+
+L'IMPRIMERIE NATION^^PV

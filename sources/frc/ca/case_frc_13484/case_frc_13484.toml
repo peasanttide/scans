@@ -1,0 +1,57 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_13484"
+type = "pamphlet"
+title = "Opinion d'Antoine Andrei, député du département de Corse, sur cette question, Quelle est la peine à infliger au ci-devant Roi : prononcée le 17 janvier 1793, l'an deuxième de la République françoise."
+place = "Paris"
+date = "1793"
+url = "https://archive.org/details/case_frc_13484"
+subject = [
+    "Kings and rulers",
+    "Depositions",
+    "History",
+    "Louis XVI, King of France, 1754-1793",
+]
+extent = "2 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 13484"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t42r8mn03"
+internet_archive = "case_frc_13484"
+
+[scan]
+file = "case_frc_13484.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_13484"
+
+[[resp]]
+name = "Andrei, Antonio"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_828204"
+
+[[text]]
+file = "case_frc_13484.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_13484.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

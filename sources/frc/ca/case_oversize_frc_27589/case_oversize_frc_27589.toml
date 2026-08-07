@@ -1,0 +1,68 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_oversize_frc_27589"
+type = "pamphlet"
+title = "Les representans du peuple, près les ports et cotes de Brest et de Lorient : Brest, le vingt-huit fructidor, an second de la Republique française, une et indivisible"
+language = "fr"
+place = "A Brest"
+date = "1794"
+url = "https://archive.org/details/case_oversize_frc_27589"
+subject = [
+    "Fuelwood",
+    "Forests and forestry",
+    "France. Marine",
+    "Military supplies",
+    "Revolution (France : 1789-1799)",
+    "History",
+    "Examinations",
+]
+extent = "1 sheet ; 62 x 47 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "Newberry Library"
+shelfmark = "Case oversize FRC 27589"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1dk03t6j"
+internet_archive = "case_oversize_frc_27589"
+
+[scan]
+file = "case_oversize_frc_27589.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_oversize_frc_27589"
+note = "Scanned on Internet Archive Python library 0.9.2."
+
+[[resp]]
+name = "Faure-Conac, Gilbert-Amable"
+role = "author"
+
+[[resp]]
+name = "Tréhouart, Bernard-Thomas, 1754-1804"
+role = "author"
+
+[[resp]]
+name = "Chez Gauchlet, imprimeur des representans du peuple, place des Fontaines, no. 25"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_868938"
+
+[[text]]
+file = "case_oversize_frc_27589.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "case_oversize_frc_27589.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

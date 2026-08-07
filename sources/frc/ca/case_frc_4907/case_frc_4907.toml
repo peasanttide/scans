@@ -1,0 +1,52 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_4907"
+type = "pamphlet"
+title = "Lettre des pairs : au roi ; du 20 décembre 1788"
+date = "1788"
+url = "https://archive.org/details/case_frc_4907"
+subject = ["Nobility"]
+extent = "[1] p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+shelfmark = "Case FRC 4907"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t09w5w03n"
+internet_archive = "case_frc_4907"
+
+[scan]
+file = "case_frc_4907.pdf"
+count = 5
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_4907"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_55295"
+
+[[text]]
+file = "case_frc_4907.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_4907.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_4907.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_4907.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

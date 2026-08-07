@@ -1,0 +1,56 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_12634"
+type = "pamphlet"
+title = "Projet de résolution, présenté par Monmayou, sur la célébration du décadi : séance du 26 frimaire an 6."
+place = "A Paris"
+date = "1797"
+url = "https://archive.org/details/case_frc_12634"
+subject = [
+    "Festivals",
+    "Rites and ceremonies",
+    "History",
+]
+extent = "2 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 12634"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0wq4rk67"
+internet_archive = "case_frc_12634"
+
+[scan]
+file = "case_frc_12634.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_12634"
+
+[[resp]]
+name = "Monmayou, Joseph, 1761-1821"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_826802"
+
+[[text]]
+file = "case_frc_12634.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_12634.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

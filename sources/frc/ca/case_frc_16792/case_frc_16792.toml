@@ -1,0 +1,56 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_16792"
+type = "pamphlet"
+title = "Avis motivé de J.A. Creuzé Latouche, député du département de la Vienne a la Convention nationale, sur la peine à infliger à Louis Capet"
+place = "Paris"
+date = "1793"
+note = 'Date given by the catalogue as "1793?".'
+url = "https://archive.org/details/case_frc_16792"
+subject = [
+    "Louis XVI, King of France, 1754-1793",
+    "Revolution (France : 1789-1799)",
+]
+extent = "2 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 16792"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7rn86d00"
+internet_archive = "case_frc_16792"
+
+[scan]
+file = "case_frc_16792.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_16792"
+
+[[resp]]
+name = "Creuzé-Latouche, Jacques Antoine, 1749-1800"
+role = "author"
+
+[[resp]]
+name = "De l’Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=834709"
+
+[[text]]
+file = "case_frc_16792.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_16792.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

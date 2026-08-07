@@ -1,0 +1,83 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "compterendulacon00espe"
+type = "pamphlet"
+title = "Compte rendu à la Convention nationale, en exécution de la loi du 21 nivôse an 3, par Espert, représentant du peuple, en mission dans les départements du Var et des Bouches-du-Rhône par décret du 29 brumaire de l'an 3."
+language = "fr"
+place = "A Paris"
+date = "1795"
+note = "Caption title. At head of title: Convention nationale. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  II, 12846. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover."
+url = "https://archive.org/details/compterendulacon00espe"
+subject = [
+    "France. Convention nationale",
+    "Finance, Public",
+]
+extent = "3 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 11650"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t74v1b36b"
+internet_archive = "compterendulacon00espe"
+openlibrary_edition = "OL25924868M"
+openlibrary_work = "OL17347480W"
+
+[scan]
+file = "compterendulacon00espe.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/compterendulacon00espe"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Espert, Jean, 1758-1832"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_824810"
+
+[[text]]
+file = "compterendulacon00espe.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "compterendulacon00espe.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "compterendulacon00espe.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "compterendulacon00espe.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

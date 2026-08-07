@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "copiedelalettre00rhne"
+type = "pamphlet"
+title = "Copie de la lettre"
+language = "fr"
+place = "A Lyon"
+date = "1791"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found. No title page found."
+url = "https://archive.org/details/copiedelalettre00rhne"
+subject = ["France. Sovereign (1774-1792 : Louis XVI)"]
+extent = "4 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9698"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0jt4sb2h"
+internet_archive = "copiedelalettre00rhne"
+openlibrary_edition = "OL26223376M"
+openlibrary_work = "OL17618839W"
+
+[scan]
+file = "copiedelalettre00rhne.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/copiedelalettre00rhne"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Rhône-et-Loire (France). Députés"
+role = "author"
+
+[[resp]]
+name = "Rhône-et-Loire (France). Députés"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie d'Aimé de la Roche"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_68200"
+
+[[text]]
+file = "copiedelalettre00rhne.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "copiedelalettre00rhne.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "copiedelalettre00rhne.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "copiedelalettre00rhne.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

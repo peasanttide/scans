@@ -1,0 +1,51 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_2276"
+type = "pamphlet"
+title = "La Convention nationale aux Armées françaises : 19 octobre 1792, l'an premier de la République"
+place = "Paris"
+date = "1792"
+url = "https://archive.org/details/case_frc_2276"
+subject = ["Revolution (France : 1789-1799)"]
+extent = "[1] p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+shelfmark = "Case FRC 2276"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2m66xt5m"
+internet_archive = "case_frc_2276"
+
+[scan]
+file = "case_frc_2276.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_2276"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_46663"
+
+[[text]]
+file = "case_frc_2276.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_2276.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

@@ -1,0 +1,57 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_14729"
+type = "pamphlet"
+title = "Opinion du citoyen Blaux, député du département de la Moselle, lors du jugement de Louis Capet : le 17 janvier 1793, l'an 2 de la République : imprimée par ordre de la Convention nationale."
+place = "Paris"
+date = "1793"
+url = "https://archive.org/details/case_frc_14729"
+subject = [
+    "Louis XVI, King of France, 1754-1793",
+    "Trials",
+    "Revolution (France : 1789-1799)",
+    "History",
+]
+extent = "2 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 14729"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t86h9bq1g"
+internet_archive = "case_frc_14729"
+
+[scan]
+file = "case_frc_14729.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_14729"
+
+[[resp]]
+name = "Blaux, Nicolas-François, b. 1731"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_830742"
+
+[[text]]
+file = "case_frc_14729.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_14729.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

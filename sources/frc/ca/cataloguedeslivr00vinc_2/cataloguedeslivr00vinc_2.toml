@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "cataloguedeslivr00vinc_2"
+type = "pamphlet"
+title = "Catalogue des livres nouveaux imprimés à Paris, chez Vincent, rue des Mathurins, hôtel de Clugny, & qui se trouvent chez les différens libraires des principales villes de l'Europe, 1774"
+language = "fr"
+place = "Paris?"
+date = "1774"
+note = "Caption title. Head-piece; printed in double columns. Includes prices. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Title page and cover are combined."
+url = "https://archive.org/details/cataloguedeslivr00vinc_2"
+subject = [
+    "Vincent, Philippe, 1724?-1790",
+    "Booksellers and bookselling",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1a no. 152"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9b628752"
+internet_archive = "cataloguedeslivr00vinc_2"
+
+[scan]
+file = "cataloguedeslivr00vinc_2.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/cataloguedeslivr00vinc_2"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Vincent, Philippe,1724?-179"
+role = "author"
+
+[[resp]]
+name = "Vincent, Philippe, 1724?-1790"
+role = "author"
+
+[[resp]]
+name = "Philippe Vincent?"
+role = "publisher"
+
+[[text]]
+file = "cataloguedeslivr00vinc_2.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "cataloguedeslivr00vinc_2.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "cataloguedeslivr00vinc_2.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "cataloguedeslivr00vinc_2.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

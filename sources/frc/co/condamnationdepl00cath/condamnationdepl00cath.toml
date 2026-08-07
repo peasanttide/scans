@@ -1,0 +1,68 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "condamnationdepl00cath"
+type = "pamphlet"
+title = "Condamnation de plusieurs livres contre la religion"
+language = "fr"
+date = "1765"
+note = "Caption title. Without imprint. Detached from an unidentified edition of: Actes de l'Assemblée générale du clergé de France sur la religion, extraits du procèsverbal de ladite assemblée, tenue à Paris ... en mil sept cent soixante-cinq. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text.  Page numbers begin at 4."
+url = "https://archive.org/details/condamnationdepl00cath"
+subject = ["Censorship"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 11 no. 75"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6548d570"
+internet_archive = "condamnationdepl00cath"
+
+[scan]
+file = "condamnationdepl00cath.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/condamnationdepl00cath"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Catholic Church.Assemblée générale du clergé de France"
+role = "author"
+
+[[resp]]
+name = "Catholic Church. Assemblée générale du clergé de France"
+role = "author"
+
+[[resp]]
+name = "[n.p."
+role = "publisher"
+
+[[text]]
+file = "condamnationdepl00cath.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "condamnationdepl00cath.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "condamnationdepl00cath.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "condamnationdepl00cath.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

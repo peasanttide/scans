@@ -1,0 +1,55 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_2031"
+type = "pamphlet"
+title = "... Nouveau table pour la fixation en valeur réelle du montant des obligations contractées depuis le premier janvier 1792 en assignats valeur nominale : séance du 6 germinal, an 4 [26 mars 1796]"
+place = "Paris"
+date = "1796"
+url = "https://archive.org/details/case_frc_2031"
+subject = [
+    "Assignats",
+    "Expenditures, Public",
+    "Revolution (France : 1789-1799)",
+]
+extent = "2 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+shelfmark = "Case FRC 2031"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6c30b26t"
+internet_archive = "case_frc_2031"
+
+[scan]
+file = "case_frc_2031.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_2031"
+
+[[resp]]
+name = "France. Corps législatif (1795-1814). Conseil des cinq-cents"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_43331"
+
+[[text]]
+file = "case_frc_2031.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_2031.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

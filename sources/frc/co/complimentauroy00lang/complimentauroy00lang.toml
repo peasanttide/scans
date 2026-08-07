@@ -1,0 +1,63 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "complimentauroy00lang"
+type = "pamphlet"
+title = "Compliment au roy"
+language = "fr"
+date = "1745"
+note = "Caption title. Binder's title: Retour du roy. Contains verse. Inlaid. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover.  Uneven binding.  Skewed text.  Irregular pagination.  Page numbers have been altered/defaced.  Damaged, stained, torn and/or loose pages."
+url = "https://archive.org/details/complimentauroy00lang"
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "E 5 .L92705 v. 04 no. 33"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0200833h"
+internet_archive = "complimentauroy00lang"
+
+[scan]
+file = "complimentauroy00lang.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/complimentauroy00lang"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Langue-d'Or, Marie Catherine"
+role = "author"
+
+[[resp]]
+name = "[n.p."
+role = "publisher"
+
+[[text]]
+file = "complimentauroy00lang.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "complimentauroy00lang.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "complimentauroy00lang.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "complimentauroy00lang.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

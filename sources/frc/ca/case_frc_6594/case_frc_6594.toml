@@ -1,0 +1,61 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_6594"
+type = "pamphlet"
+title = "Adresse"
+place = "Paris"
+date = "1792"
+url = "https://archive.org/details/case_frc_6594"
+subject = ["Loyalty oaths"]
+extent = "2 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+shelfmark = "Case FRC 6594"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6p03m36g"
+internet_archive = "case_frc_6594"
+
+[scan]
+file = "case_frc_6594.pdf"
+count = 5
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_6594"
+
+[[resp]]
+name = "Paris (France). Section de Henri IV"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_57046"
+
+[[text]]
+file = "case_frc_6594.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_6594.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_6594.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_6594.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

@@ -1,0 +1,52 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_12954"
+type = "pamphlet"
+title = "Méditation, conseil"
+place = "A Paris"
+date = "1795"
+url = "https://archive.org/details/case_frc_12954"
+subject = ["Constitution (France : 1795)"]
+extent = "2 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 12954"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8w99zj67"
+internet_archive = "case_frc_12954"
+
+[scan]
+file = "case_frc_12954.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_12954"
+
+[[resp]]
+name = "Raffron-Detrouillet, Nicolas, 1723-1801"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_828044"
+
+[[text]]
+file = "case_frc_12954.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_12954.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

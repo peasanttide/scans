@@ -1,0 +1,63 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "copielacte00unse"
+type = "pamphlet"
+title = "Copie de l'acte notifié, le 26 février 1790, à MM. les officiers municipaux & membres de la milice nationale, réunis en comité"
+language = "fr"
+place = "France"
+date = "1790"
+note = "Caption title. Signed: Rey. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/copielacte00unse"
+subject = [
+    "Rey, Antoine-Claude",
+    "Political rights, Loss of",
+]
+extent = "2 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 27140"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1fj7m02p"
+internet_archive = "copielacte00unse"
+openlibrary_edition = "OL26227070M"
+openlibrary_work = "OL17622297W"
+
+[scan]
+file = "copielacte00unse.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/copielacte00unse"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Rey, Antoine-Claude"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_867779"
+
+[[text]]
+file = "copielacte00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "copielacte00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

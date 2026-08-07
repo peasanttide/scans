@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "circulaireauxcit00chau"
+type = "pamphlet"
+title = "Circulaire aux citoyens composant le juré d'accusation, pour le trimestre de mars, avril et mai 1793, l'an deuxième de la république française : a la maison commune, le 7 mars 1793"
+language = "fr"
+place = "France"
+date = "1793"
+note = "Caption title. Signed: Le procureur de la commune, Chaumette. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover. No page numbers."
+url = "https://archive.org/details/circulaireauxcit00chau"
+subject = [
+    "Jury duty",
+    "Jury",
+]
+extent = "[1] p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 26599"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0xq24m2v"
+internet_archive = "circulaireauxcit00chau"
+openlibrary_edition = "OL26227229M"
+openlibrary_work = "OL17622456W"
+
+[scan]
+file = "circulaireauxcit00chau.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/circulaireauxcit00chau"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Chaumette, Pierre-Gaspard,1763-1794"
+role = "author"
+
+[[resp]]
+name = "Chaumette, Pierre-Gaspard, 1763-1794"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_863386"
+
+[[text]]
+file = "circulaireauxcit00chau.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "circulaireauxcit00chau.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "circulaireauxcit00chau.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "circulaireauxcit00chau.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

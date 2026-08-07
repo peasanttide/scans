@@ -1,0 +1,67 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "chantdeguerrecon00unse"
+type = "pamphlet"
+title = "Chant de guerre contre l'Autriche : [motto: 5 lines]"
+language = "fr"
+place = "s.l."
+date = "1794"
+note = "Caption title. Without imprint. First line: Que Némésis pour nous venger. Detached from an unidentified work. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined.  Skewed text.  Damaged, stained, and/or loose pages.  Page numbers begin at 26."
+url = "https://archive.org/details/chantdeguerrecon00unse"
+extent = "p. [25]-28 ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 1724"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6q007s3m"
+internet_archive = "chantdeguerrecon00unse"
+openlibrary_edition = "OL26208567M"
+openlibrary_work = "OL17604836W"
+
+[scan]
+file = "chantdeguerrecon00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/chantdeguerrecon00unse"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_46309"
+
+[[text]]
+file = "chantdeguerrecon00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "chantdeguerrecon00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "chantdeguerrecon00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "chantdeguerrecon00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

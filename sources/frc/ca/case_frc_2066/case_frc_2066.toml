@@ -1,0 +1,74 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_2066"
+type = "pamphlet"
+title = "... Second rapport"
+place = "A Paris"
+date = "1796"
+url = "https://archive.org/details/case_frc_2066"
+subject = [
+    "Public lands",
+    "Revolution (France : 1789-1799)",
+]
+extent = "6 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+shelfmark = "Case FRC 2066"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5bc9d87d"
+internet_archive = "case_frc_2066"
+
+[scan]
+file = "case_frc_2066.pdf"
+count = 7
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_2066"
+
+[[resp]]
+name = "France. Corps législatif (1795-1814). Conseil des cinq-cents"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_45232"
+
+[[text]]
+file = "case_frc_2066.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_2066.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_2066.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_2066.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_2066.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_2066.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

@@ -1,0 +1,55 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_7267"
+type = "pamphlet"
+title = "Protestation"
+date = "1788"
+url = "https://archive.org/details/case_frc_7267"
+extent = "2 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+shelfmark = "Case FRC 7267"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8tb6jc35"
+internet_archive = "case_frc_7267"
+
+[scan]
+file = "case_frc_7267.pdf"
+count = 5
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_7267"
+
+[[resp]]
+name = "Provence (France). Cour des comptes, aides et finances"
+role = "author"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_62067"
+
+[[text]]
+file = "case_frc_7267.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_7267.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_7267.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_7267.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

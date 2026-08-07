@@ -1,0 +1,57 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "cataloguedeslivr00voll"
+type = "pamphlet"
+title = "Catalogue des livres que Calixte Volland, imprimeur-libraire, rue des Noyers, no. 34 et 38, section du Panthéon, propose à un prix modique"
+language = "fr"
+place = "Paris"
+date = "1792"
+note = """Caption title. Publication date from BN. Catalogues de libraires. Printed in double columns. "Le même libraire se charge de toutes les commissions pour la France et les pays etrangers, achete des bibliothèques entières, et fournit tous les articles de ses confrères au prix qu'ils les annoncent eux-mêmes"--At end. BN. Catalogues de libraires. With prices in French livres. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Text extends off of the edge of the page. Text may be lost in the binding. Permanent creases may obscure some text. Title page and cover are combined."""
+url = "https://archive.org/details/cataloguedeslivr00voll"
+subject = ["Volland, Calixte, active 1787-1808"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 8 no. 57"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8md4mh69"
+internet_archive = "cataloguedeslivr00voll"
+
+[scan]
+file = "cataloguedeslivr00voll.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/cataloguedeslivr00voll"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Volland, Calixte,active 1787-188"
+role = "author"
+
+[[resp]]
+name = "Volland, Calixte, active 1787-1808"
+role = "bookseller"
+
+[[resp]]
+name = "Calixte Volland"
+role = "publisher"
+
+[[text]]
+file = "cataloguedeslivr00voll.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "cataloguedeslivr00voll.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

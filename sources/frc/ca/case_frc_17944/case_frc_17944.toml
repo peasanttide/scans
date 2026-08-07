@@ -1,0 +1,66 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_17944"
+type = "pamphlet"
+title = "Proclamation faite par le général Dumouriez : imprimée par ordre de l'Assemblée nationale"
+place = "Paris"
+date = "1792"
+url = "https://archive.org/details/case_frc_17944"
+subject = [
+    "First Coalition, War of the (1792-1797)",
+    "Military campaigns",
+    "Military history",
+]
+extent = "2 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 17944"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4fn66r8z"
+internet_archive = "case_frc_17944"
+
+[scan]
+file = "case_frc_17944.pdf"
+count = 5
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_17944"
+
+[[resp]]
+name = "Dumouriez, Charles François Du Périer, 1739-1823"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=837213"
+
+[[text]]
+file = "case_frc_17944.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_17944.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_17944.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_17944.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

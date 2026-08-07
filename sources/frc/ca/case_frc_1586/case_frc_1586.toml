@@ -1,0 +1,52 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_1586"
+type = "pamphlet"
+title = "Ça été, v'la qu'et [i.e. qu'est] fait : Air: Ça ira"
+date = "1790"
+url = "https://archive.org/details/case_frc_1586"
+subject = ["Revolution (France : 1789-1799)"]
+extent = "[2] leaves ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+shelfmark = "Case FRC 1586"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3519f403"
+internet_archive = "case_frc_1586"
+
+[scan]
+file = "case_frc_1586.pdf"
+count = 5
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_1586"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_46786"
+
+[[text]]
+file = "case_frc_1586.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_1586.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_1586.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_1586.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

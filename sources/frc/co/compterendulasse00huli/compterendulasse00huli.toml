@@ -1,0 +1,96 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "compterendulasse00huli"
+type = "pamphlet"
+title = "Compte rendu a l'Assemblée nationale par M. Hulin, ci-devant commissaire du roi près le tribunal criminel d'Avignon, le 28 août 1792, l'an IVe. de la liberté : imprimé par ordre de l'Assemblée nationale."
+language = "fr"
+place = "Paris"
+date = "1792"
+note = """Caption title. Imprint from colophon. Publication date from BM. "Législation. No. 40"--Bottom of p. [1]. Not in Martin & Walter. Révolution française. BM. Bibliography: BM,  CVIII, column 875. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged pages and cover."""
+url = "https://archive.org/details/compterendulasse00huli"
+subject = [
+    "Hulin, Pierre-Augustin, comte, 1758-1841",
+    "Criminal justice, Administration of",
+    "Political crimes and offenses",
+]
+extent = "6 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 19798"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8cg4qt82"
+internet_archive = "compterendulasse00huli"
+openlibrary_edition = "OL26203277M"
+openlibrary_work = "OL17599738W"
+
+[scan]
+file = "compterendulasse00huli.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/compterendulasse00huli"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Hulin, Pierre-Augustin, comte, 1758-1841"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale législative (1791-1792)"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_841149"
+
+[[text]]
+file = "compterendulasse00huli.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "compterendulasse00huli.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "compterendulasse00huli.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "compterendulasse00huli.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "compterendulasse00huli.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "compterendulasse00huli.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

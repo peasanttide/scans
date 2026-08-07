@@ -1,0 +1,45 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_4888"
+type = "pamphlet"
+title = "Lettre"
+date = "1790"
+url = "https://archive.org/details/case_frc_4888"
+extent = "[2] p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+shelfmark = "Case FRC 4888"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7qp1js5v"
+internet_archive = "case_frc_4888"
+
+[scan]
+file = "case_frc_4888.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_4888"
+
+[[resp]]
+name = "Société des amis de la constitution monarchique"
+role = "author"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_54702"
+
+[[text]]
+file = "case_frc_4888.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_4888.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

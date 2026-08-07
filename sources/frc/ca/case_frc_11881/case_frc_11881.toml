@@ -1,0 +1,66 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_11881"
+type = "pamphlet"
+title = "Compte rendu a la Convention nationale, en exécution du décret du 21 nivôse, an 3, par Guermeur & Lemalliaud, représentans du peuple, de la dépense faite pendant leur missuon dans les départemens du Finistère & du Morbihan, depuis le 14 mars 1793 (vieux style) jusqu'au 30 mai suivant."
+place = "A Paris"
+date = "1795"
+url = "https://archive.org/details/case_frc_11881"
+subject = [
+    "France.Convention nationale",
+    "Finance, Public",
+    "Revolution (France : 1789-1799)",
+]
+extent = "3 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 11881"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0ns5j962"
+internet_archive = "case_frc_11881"
+
+[scan]
+file = "case_frc_11881.pdf"
+count = 5
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_11881"
+
+[[resp]]
+name = "Guermeur, Jacques-Tanguy-Marie, 1750-1798"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_825533"
+
+[[text]]
+file = "case_frc_11881.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_11881.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_11881.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_11881.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

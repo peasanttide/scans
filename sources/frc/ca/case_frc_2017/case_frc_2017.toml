@@ -1,0 +1,54 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_2017"
+type = "pamphlet"
+title = "... Extrait du procès-verbal du 27 nivose, l'an 7 de la République française, une et indivisible [16 janvier 1799]"
+place = "A Paris"
+date = "1799"
+url = "https://archive.org/details/case_frc_2017"
+subject = [
+    "Loyalty oaths",
+    "Revolution (France : 1789-1799)",
+]
+extent = "2 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+shelfmark = "Case FRC 2017"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2v465292"
+internet_archive = "case_frc_2017"
+
+[scan]
+file = "case_frc_2017.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_2017"
+
+[[resp]]
+name = "France. Corps législatif (1795-1814). Conseil des cinq-cents. Commission des inspecteurs"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_46547"
+
+[[text]]
+file = "case_frc_2017.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_2017.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

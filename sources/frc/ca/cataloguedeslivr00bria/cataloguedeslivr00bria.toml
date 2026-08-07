@@ -1,0 +1,108 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "cataloguedeslivr00bria"
+type = "pamphlet"
+title = "Catalogue des livres imprimés, ou qui se trouvent en nombre a Paris, chez Antoine-Claude Briasson, libraire, ruë S. Jacques, à la Science"
+language = "fr"
+place = "Paris?"
+date = "1754"
+note = """Caption title. Printed in double columns. Livres de pieté -- Histoire -- Sciences, arts, medecine, chirurgie, &c. -- Littérature -- Droit & politique -- Morale, belles-lettres & poesie -- Theatres -- Assortimens. "L'on trouve chez le même libraire toutes sortes de livres de toutes sciences, tant de France, que les pays etrangers"--P. 6. Scanner's note: No copyright page found. No table-of-contents pages found.   Damaged, stained, torn, and/or loose pages.  Irregular pagination."""
+url = "https://archive.org/details/cataloguedeslivr00bria"
+subject = [
+    "Briasson, Antoine-Claude, 1700-1775",
+    "Latest publication date of books listed: 1754",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 4 no. 13"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t12p0v98t"
+internet_archive = "cataloguedeslivr00bria"
+
+[scan]
+file = "cataloguedeslivr00bria.pdf"
+count = 12
+by = "Internet Archive"
+url = "https://archive.org/details/cataloguedeslivr00bria"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Briasson, Antoine-Claude,17-1775"
+role = "author"
+
+[[resp]]
+name = "Briasson, Antoine-Claude, 1700-1775"
+role = "author"
+
+[[resp]]
+name = "Antoine-Claude Briasson?"
+role = "publisher"
+
+[[text]]
+file = "cataloguedeslivr00bria.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "cataloguedeslivr00bria.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "cataloguedeslivr00bria.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "cataloguedeslivr00bria.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "cataloguedeslivr00bria.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "cataloguedeslivr00bria.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "cataloguedeslivr00bria.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "cataloguedeslivr00bria.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "cataloguedeslivr00bria.p9.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "cataloguedeslivr00bria.p10.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

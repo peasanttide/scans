@@ -1,0 +1,70 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "copiedunelettrec00arle"
+type = "pamphlet"
+title = "Copie d'une lettre écrite d'Arles, le 26 novembre 1791."
+language = "fr"
+place = "s.l."
+date = "1791"
+note = "Caption title. Without imprint. About a civil disturbance in Arles. Not in Martin & Walter. Scanner's note: Title on cover. Damaged, stained pages and cover.<br />No copyright. No table of contents. <br /><br />."
+url = "https://archive.org/details/copiedunelettrec00arle"
+subject = ["Riots"]
+extent = "4 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 2486"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9673h89t"
+internet_archive = "copiedunelettrec00arle"
+
+[scan]
+file = "copiedunelettrec00arle.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/copiedunelettrec00arle"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "Arles (France)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_45145"
+
+[[text]]
+file = "copiedunelettrec00arle.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "copiedunelettrec00arle.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "copiedunelettrec00arle.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "copiedunelettrec00arle.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

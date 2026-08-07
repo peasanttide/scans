@@ -1,0 +1,70 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "coupletschantesp00arme"
+type = "pamphlet"
+title = "Couplets chantés par un volontaire du Régiment de Saint-Mexant, no 7 : au passage de la Garde nationale bordelaise à Tonneins, le 4 juin 1790 ; Air: Avec les jeux dans le village."
+language = "fr"
+place = "s.l."
+date = "1790"
+note = "Caption title. Without imprint. First two lines: O citoyens de cette ville, / Peuple à jamais cher à mon coeur. Not in Martin & Walter. Scanner's note: Title on cover. Damaged, stained pages and cover.<br />No copyright. No table of contents.  Some taped pages. <br /><br /><br />."
+url = "https://archive.org/details/coupletschantesp00arme"
+subject = ["Bordeaux (Aquitaine, France). Garde nationale"]
+extent = "4 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 2570"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6m095d8r"
+internet_archive = "coupletschantesp00arme"
+
+[scan]
+file = "coupletschantesp00arme.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/coupletschantesp00arme"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "Armée. Régiment de Saint-Mexant, no. 7"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_45246"
+
+[[text]]
+file = "coupletschantesp00arme.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "coupletschantesp00arme.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "coupletschantesp00arme.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "coupletschantesp00arme.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

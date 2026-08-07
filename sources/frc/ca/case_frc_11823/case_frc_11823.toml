@@ -1,0 +1,59 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_11823"
+type = "pamphlet"
+title = "Compte rendu par Ch.F.M. Godefroy, représentant du peuple, député de l'Oise, en exécution du décret du 21 nivôse, an 3."
+place = "Paris"
+date = "1795"
+url = "https://archive.org/details/case_frc_11823"
+subject = [
+    "Finance, Public",
+    "France. Convention nationale",
+    "Expenditures, Public",
+    "History",
+    "Revolution (France : 1789-1799)",
+    "Economics",
+]
+extent = "2 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 11823"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t78s9hk5s"
+internet_archive = "case_frc_11823"
+
+[scan]
+file = "case_frc_11823.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_11823"
+
+[[resp]]
+name = "Godefroy, Charles-François-Marie, 1755-1810"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_825414"
+
+[[text]]
+file = "case_frc_11823.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_11823.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

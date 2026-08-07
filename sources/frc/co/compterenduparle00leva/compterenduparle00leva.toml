@@ -1,0 +1,83 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "compterenduparle00leva"
+type = "pamphlet"
+title = "Compte rendu par Levasseur (de la Sarthe), représentant du peuple, des dépenses qu'il a faites dans les différentes missions qu'il a remplies par décrets de la Convention ou arrêtés de ses comités."
+language = "fr"
+place = "Paris"
+date = "1795"
+note = """Caption title. At head of title: Convention nationale. Imprint from colophon. "Imprimé par ordre de la Convention nationale"--P. [1]. Martin & Walter. Révolution française. Personal expense report. Bibliography: Martin & Walter.  Révolution française,  III, 21387. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained and/or loose pages. Uneven binding. Skewed text.  Text extends off of the edge of the page."""
+url = "https://archive.org/details/compterenduparle00leva"
+subject = [
+    "France. Convention nationale",
+    "Finance, Public",
+]
+extent = "3 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 21330"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3zs80f9f"
+internet_archive = "compterenduparle00leva"
+openlibrary_edition = "OL26239706M"
+openlibrary_work = "OL17634246W"
+
+[scan]
+file = "compterenduparle00leva.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/compterenduparle00leva"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Levasseur, René, 1747-1834"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_844446"
+
+[[text]]
+file = "compterenduparle00leva.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "compterenduparle00leva.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "compterenduparle00leva.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "compterenduparle00leva.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

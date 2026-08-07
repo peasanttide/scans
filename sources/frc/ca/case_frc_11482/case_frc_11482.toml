@@ -1,0 +1,58 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_11482"
+type = "pamphlet"
+title = "Projet de résolution proposé au Conseil des cinq-cents, au nom d'une commission spéciale, par Dubois (des Vosges) : séance du 11 ventôse, an 4."
+place = "A Paris"
+date = "1796"
+url = "https://archive.org/details/case_frc_11482"
+subject = [
+    "Tanners",
+    "Real property",
+    "Rent",
+    "History",
+    "Economics",
+]
+extent = "2 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 11482"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2d843v2r"
+internet_archive = "case_frc_11482"
+
+[scan]
+file = "case_frc_11482.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_11482"
+
+[[resp]]
+name = "Dubois, Dieudonné, 1759-1804"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_825020"
+
+[[text]]
+file = "case_frc_11482.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_11482.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

@@ -1,0 +1,50 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_3256"
+type = "pamphlet"
+title = "... Message : Extrait du registre des délibérations"
+place = "Paris"
+date = "1797"
+url = "https://archive.org/details/case_frc_3256"
+extent = "2 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+shelfmark = "Case FRC 3256"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7vm9pc1s"
+internet_archive = "case_frc_3256"
+
+[scan]
+file = "case_frc_3256.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_3256"
+
+[[resp]]
+name = "France. Directoire exécutif"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_47144"
+
+[[text]]
+file = "case_frc_3256.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_3256.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

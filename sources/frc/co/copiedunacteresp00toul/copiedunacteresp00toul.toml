@@ -1,0 +1,69 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "copiedunacteresp00toul"
+type = "pamphlet"
+title = "Copie d'un acte respectueux adressé au grand bailliage de Toulouse /"
+language = "fr"
+place = "s.l."
+date = "1788"
+note = "Caption title. Without imprint. Dated at beginning: L'an mil sept cent quatre-vingt-huit, & le quatrieme jour du mois de juin .. Note at foot of p.[1]: Les ouvriers de nuit sont appellés vulgairement à Toulouse, les Conseillers à la Pierre, parce qu'ils se tiennent sous cette place. Not in Martin & Walter. Scanner's note: Title on cover. Damaged, stained pages and cover.<br />No copyright. No table of contents.  No page numbers. <br /><br /><br />."
+url = "https://archive.org/details/copiedunacteresp00toul"
+extent = "[4] p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 2481"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t33250d8c"
+internet_archive = "copiedunacteresp00toul"
+
+[scan]
+file = "copiedunacteresp00toul.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/copiedunacteresp00toul"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "Toulouse (France)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_42859"
+
+[[text]]
+file = "copiedunacteresp00toul.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "copiedunacteresp00toul.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "copiedunacteresp00toul.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "copiedunacteresp00toul.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

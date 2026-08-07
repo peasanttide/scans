@@ -1,0 +1,58 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_12266"
+type = "pamphlet"
+title = "Rapport et projet de décret sur une demande faite par des officiers suédois pour obtenir du service dans les armées de la République française"
+place = "Paris"
+date = "1793"
+url = "https://archive.org/details/case_frc_12266"
+subject = [
+    "France. Armée",
+    "History",
+    "Eighteenth century",
+    "Defectors",
+    "Military history",
+]
+extent = "2 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 12266"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7vm91r5s"
+internet_archive = "case_frc_12266"
+
+[scan]
+file = "case_frc_12266.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_12266"
+
+[[resp]]
+name = "Lecointre, Laurent, d. 1805"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_826279"
+
+[[text]]
+file = "case_frc_12266.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_12266.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

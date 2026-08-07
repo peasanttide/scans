@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "copieladresse00unse"
+type = "pamphlet"
+title = "Copie de l'adresse du directoire du département de Rhône & Loire, au roi : Lyon, 26 juin 1792, l'an 4eme de la liberté"
+language = "fr"
+place = "Lyon"
+date = "1792"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover. No page numbers."
+url = "https://archive.org/details/copieladresse00unse"
+subject = [
+    "Tuileries Palace (Paris, France)",
+    "Riots",
+    "Counterrevolutionaries",
+]
+extent = "[1] p. ; 24 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10244 no. 49"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t54f6wz4d"
+internet_archive = "copieladresse00unse"
+openlibrary_edition = "OL26222740M"
+openlibrary_work = "OL17618211W"
+
+[scan]
+file = "copieladresse00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/copieladresse00unse"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Rhône-et-Loire (France). Directoire"
+role = "author"
+
+[[resp]]
+name = "Louis XVI, King of France, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_857492"
+
+[[text]]
+file = "copieladresse00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "copieladresse00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "copieladresse00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "copieladresse00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

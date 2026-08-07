@@ -1,0 +1,55 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_4646"
+type = "pamphlet"
+title = "Lettre au roi"
+date = "1788"
+url = "https://archive.org/details/case_frc_4646"
+extent = "2 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+shelfmark = "Case FRC 4646"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2r552d3f"
+internet_archive = "case_frc_4646"
+
+[scan]
+file = "case_frc_4646.pdf"
+count = 5
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_4646"
+
+[[resp]]
+name = "France. Parlement (Paris)"
+role = "author"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_53166"
+
+[[text]]
+file = "case_frc_4646.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_4646.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_4646.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_4646.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

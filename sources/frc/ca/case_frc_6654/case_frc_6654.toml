@@ -1,0 +1,60 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_6654"
+type = "pamphlet"
+title = "... Adresse au Corps législatif, Conseil des anciens"
+place = "A Paris"
+date = "1799"
+url = "https://archive.org/details/case_frc_6654"
+extent = "2 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+shelfmark = "Case FRC 6654"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7gr2bj4n"
+internet_archive = "case_frc_6654"
+
+[scan]
+file = "case_frc_6654.pdf"
+count = 5
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_6654"
+
+[[resp]]
+name = "Paris (France : Canton). Arrondissement, 10"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_60557"
+
+[[text]]
+file = "case_frc_6654.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_6654.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_6654.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_6654.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

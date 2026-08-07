@@ -1,0 +1,88 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "collectionderoma00cuss"
+type = "pamphlet"
+title = "Collection de romans et contes"
+language = "fr"
+place = "Paris?"
+note = """Prospectus for the 1788 edition of La Place's "Collection de romans et contes". Caption title. Newberry's copy imperfect: lacking all after p. 2, possibly including imprint. "Ouvrage proposé par inscription, en huit volumes in-8° avec figures. A Paris, chez Cussac, libraire, galerie de Richelieu, au Palais-Royal, nos 7 & 8"--P. [1]. Scanner's note: No copyright found.  No table of contents found.  Damaged, stained pages.  No page numbers. <br />."""
+url = "https://archive.org/details/collectionderoma00cuss"
+subject = [
+    "La Place, Pierre Antoine de, 1707-1793",
+    "Booksellers and bookselling",
+    "French fiction",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1a no. 51"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t17m5zk2h"
+internet_archive = "collectionderoma00cuss"
+
+[scan]
+file = "collectionderoma00cuss.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/collectionderoma00cuss"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "Cussac, Jean-Baptiste,ca. 175-1816"
+role = "author"
+
+[[resp]]
+name = "Cussac, Jean-Baptiste, ca. 1750-1816"
+role = "author"
+
+[[resp]]
+name = "La Place, Pierre Antoine de, 1707-1793. Collection de romans et contes"
+role = "author"
+
+[[resp]]
+name = "Jean-Baptiste Cussac?"
+role = "publisher"
+
+[[text]]
+file = "collectionderoma00cuss.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "collectionderoma00cuss.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "collectionderoma00cuss.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "collectionderoma00cuss.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "collectionderoma00cuss.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "collectionderoma00cuss.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

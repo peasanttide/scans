@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "compterendulacon00bail"
+type = "pamphlet"
+title = "Compte rendu à la Convention nationale par Bailly, représentant du peuple, envoyé en mission, le 27 brumaire an 3, dans les départemens du Haut et Bas-Rhin, Mont-Terrible, Jura et des Vosges, et revenu à Paris le 12 prairial."
+language = "fr"
+date = "1795"
+note = "Caption title. At head of title: Convention nationale. Imprint from colophon. Personal expense report. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,I, 1229. Scanner's note: Title found on front cover. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/compterendulacon00bail"
+subject = [
+    "France. Convention nationale",
+    "Finance, Public",
+]
+extent = "3 p. ;20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "CaseFRC10591"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6642sd86"
+internet_archive = "compterendulacon00bail"
+
+[scan]
+file = "compterendulacon00bail.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/compterendulacon00bail"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Bailly de Juilly, Edme-Louis-Barthélemy,1760-1819"
+role = "author"
+
+[[resp]]
+name = "A Paris :De l'Imprimerie nationale,"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_823630"
+
+[[text]]
+file = "compterendulacon00bail.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "compterendulacon00bail.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "compterendulacon00bail.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "compterendulacon00bail.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"

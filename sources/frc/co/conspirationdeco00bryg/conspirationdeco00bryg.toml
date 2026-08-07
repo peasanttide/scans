@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "conspirationdeco00bryg"
+type = "pamphlet"
+title = "Conspiration découverte contre la famille royale."
+language = "fr"
+place = "France"
+date = "1790"
+note = """Caption title. Imprint from colophon. "Signé, Jérôme Brygnon"--P. 4. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  Title on front cover. Damaged, stained, worn pages.  Skewed text."""
+url = "https://archive.org/details/conspirationdeco00bryg"
+subject = [
+    "Bourbon, House of",
+    "Conspiracies",
+]
+extent = "4 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 15498"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t85j2dz3s"
+internet_archive = "conspirationdeco00bryg"
+openlibrary_edition = "OL25948056M"
+openlibrary_work = "OL17369109W"
+
+[scan]
+file = "conspirationdeco00bryg.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/conspirationdeco00bryg"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Brygnon, Jérôme"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie patriotique"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_832294"
+
+[[text]]
+file = "conspirationdeco00bryg.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "conspirationdeco00bryg.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "conspirationdeco00bryg.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "conspirationdeco00bryg.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

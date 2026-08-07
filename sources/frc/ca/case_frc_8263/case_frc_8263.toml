@@ -1,0 +1,47 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_8263"
+type = "pamphlet"
+title = "Le serment de la confédération du 14. juillet 1790 : ou L'hommage a la liberté française ; air: Ce mouchoir belle raimonde"
+place = "A Paris"
+date = "1790"
+url = "https://archive.org/details/case_frc_8263"
+subject = ["Revolution (France : 1789-1799)"]
+extent = "[2] p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+shelfmark = "Case FRC 8263"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2w435z8d"
+internet_archive = "case_frc_8263"
+
+[scan]
+file = "case_frc_8263.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_8263"
+
+[[resp]]
+name = "Chez Coulubrier graveur cl^iitre de St. Germain l'Auxerrois passage du Louvre"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_173"
+
+[[text]]
+file = "case_frc_8263.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_8263.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

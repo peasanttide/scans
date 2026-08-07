@@ -1,0 +1,87 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "copie00unse"
+type = "pamphlet"
+title = "Copie de l'état de dépense faite par les citoyens Niou et Billaud-Varennes, représentans du peuple, délégués par la Convention nationale dans les départemens du Nord et Pas-de-Calais, pour une mission qui a commencé le 30 juillet 1793, et fini le 27 août suivan, lequel état a été remis le 31 du même mois d'août aux commissaires de la salle : imprimée par ordre de la Convention nationale."
+language = "fr"
+place = "Paris"
+date = "1795"
+note = "Caption title. At head of title: Convention nationale. Imprint from colophon. Martin & Walter. Révolution française. Personal expense report. Bibliography: Martin & Walter.  Révolution française,  III, 25805. Scanner's note: No title page found. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/copie00unse"
+subject = [
+    "France. Convention nationale",
+    "Finance, Public",
+]
+extent = "3 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 23207"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2s51wq0r"
+internet_archive = "copie00unse"
+openlibrary_edition = "OL26237077M"
+openlibrary_work = "OL17631631W"
+
+[scan]
+file = "copie00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/copie00unse"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Niou, Joseph, 1749-1823"
+role = "author"
+
+[[resp]]
+name = "Billaud-Varenne, 1756-1819"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_847754"
+
+[[text]]
+file = "copie00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "copie00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "copie00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "copie00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

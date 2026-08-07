@@ -1,0 +1,42 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_6953"
+type = "pamphlet"
+title = "Le pour et le contre de la Révolution : sur l'air: C'est ce qui me console; c'est ce qui me désole"
+date = "1790"
+url = "https://archive.org/details/case_frc_6953"
+subject = ["Revolution (France : 1789-1799)"]
+extent = "[1] p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+shelfmark = "Case FRC 6953"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5dc3g23z"
+internet_archive = "case_frc_6953"
+
+[scan]
+file = "case_frc_6953.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_6953"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_61870"
+
+[[text]]
+file = "case_frc_6953.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_6953.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

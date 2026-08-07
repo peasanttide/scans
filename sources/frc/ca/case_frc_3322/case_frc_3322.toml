@@ -1,0 +1,61 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_3322"
+type = "pamphlet"
+title = "... Message : Extrait du registre des délibérations"
+place = "A Paris"
+date = "1799"
+url = "https://archive.org/details/case_frc_3322"
+subject = ["Occupations"]
+extent = "2 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+shelfmark = "Case FRC 3322"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8bg83v88"
+internet_archive = "case_frc_3322"
+
+[scan]
+file = "case_frc_3322.pdf"
+count = 5
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_3322"
+
+[[resp]]
+name = "France. Directoire exécutif"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_49464"
+
+[[text]]
+file = "case_frc_3322.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_3322.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_3322.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_3322.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

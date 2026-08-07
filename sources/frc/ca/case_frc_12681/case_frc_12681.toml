@@ -1,0 +1,61 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_12681"
+type = "pamphlet"
+title = "Compte rendu a la Convention nationale, en exécution du décret du 21 nivôse, an III"
+place = "A Paris"
+date = "1795"
+url = "https://archive.org/details/case_frc_12681"
+subject = [
+    "Finance, Public",
+    "France. Convention nationale",
+    "Expenditures, Public",
+    "Public officers",
+    "Employees",
+    "History",
+    "Revolution (France : 1789-1799)",
+    "Economics",
+]
+extent = "2 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 12681"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t83j88183"
+internet_archive = "case_frc_12681"
+
+[scan]
+file = "case_frc_12681.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_12681"
+
+[[resp]]
+name = "Niou, Joseph, 1749-1823"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_827132"
+
+[[text]]
+file = "case_frc_12681.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_12681.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

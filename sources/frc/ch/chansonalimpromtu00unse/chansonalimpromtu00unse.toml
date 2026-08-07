@@ -1,0 +1,59 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "chansonalimpromtu00unse"
+type = "pamphlet"
+title = "Chanson a l'impromptu sur l'arrivée du roy a Paris"
+language = "fr"
+date = "1744"
+note = "Binder's title: Conquest du roy. Caption title. Inlaid. Scanner's note: No copyright page found. No table-of-contents pages found. Title and cover pages combined."
+url = "https://archive.org/details/chansonalimpromtu00unse"
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "E 5 .L92705 v. 07 no. 17"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2x40v426"
+internet_archive = "chansonalimpromtu00unse"
+
+[scan]
+file = "chansonalimpromtu00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/chansonalimpromtu00unse"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "[Paris"
+role = "publisher"
+
+[[text]]
+file = "chansonalimpromtu00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "chansonalimpromtu00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "chansonalimpromtu00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "chansonalimpromtu00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

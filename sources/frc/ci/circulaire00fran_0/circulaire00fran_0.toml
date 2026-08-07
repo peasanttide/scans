@@ -1,0 +1,59 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "circulaire00fran_0"
+type = "pamphlet"
+title = "Circulaire"
+language = "fr"
+date = "1763"
+note = "Title from opening words of text. Dated at top: A Lille le 20. décembre 1763. Signed at end: Le directeur des Fermes du roi. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text.  Title page and cover are combined."
+url = "https://archive.org/details/circulaire00fran_0"
+subject = [
+    "Book industries and trade",
+    "Prohibited books",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 7 no. 49"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4wh8667q"
+internet_archive = "circulaire00fran_0"
+
+[scan]
+file = "circulaire00fran_0.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/circulaire00fran_0"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Ferme générale"
+role = "author"
+
+[[resp]]
+name = "France. Ferme générale"
+role = "author"
+
+[[resp]]
+name = "[n.p.]"
+role = "publisher"
+
+[[text]]
+file = "circulaire00fran_0.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "circulaire00fran_0.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,69 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "couriermari00unse"
+type = "pamphlet"
+title = "Courier maritime, ou, Le correspondant général de la marine marchande"
+language = "fr"
+place = "A Paris"
+date = "1787"
+note = """Prospectus for "Courrier maritime.". Place of publication and printer statement from colophon. "Permis d'imprimer, le 10 octobre 1787"--P. [2]. Head-piece; printed in double columns. "Le prix de l'abonnement est de 15 liv. par an pour Paris. On souscrit ... au Bureau du Courier maritime, rue de la Verrerie, n°. 95"--P. [2]. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Title page and cover are combined.  Text extends off of the edge of the page."""
+url = "https://archive.org/details/couriermari00unse"
+subject = [
+    "Courrier maritime",
+    "Booksellers and bookselling",
+    "Periodicals",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1d no. 20"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4tj46b3s"
+internet_archive = "couriermari00unse"
+
+[scan]
+file = "couriermari00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/couriermari00unse"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Cailleau, André-Charles, 1731-1798"
+role = "printer"
+
+[[resp]]
+name = "De l'imprimerie de Cailleau, rue Galande, n°. 64"
+role = "publisher"
+
+[[text]]
+file = "couriermari00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "couriermari00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "couriermari00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "couriermari00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

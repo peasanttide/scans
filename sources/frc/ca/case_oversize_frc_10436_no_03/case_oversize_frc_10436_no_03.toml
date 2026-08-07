@@ -1,0 +1,53 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_oversize_frc_10436_no_03"
+type = "pamphlet"
+title = "Extrait du registre des Arretes du directoire du departement de la Drome : seance publique du 1er. janvier 1793, l'an second de la Republique françoise, presens Antoine Melleret, president, Lermy, Duclos, Germigny, Caudeiron, Romieu, Algoud, administrateurs, et Payan, procureur-general-syndic"
+language = "fr"
+place = "A Valence"
+date = "1793"
+url = "https://archive.org/details/case_oversize_frc_10436_no_03"
+subject = [
+    "Formalities (Law)",
+    "Notaries",
+]
+extent = "1 sheet ; 48 x 37 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "Newberry Library"
+shelfmark = "Case oversize FRC 10436 no. 3"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9w13r999"
+internet_archive = "case_oversize_frc_10436_no_03"
+
+[scan]
+file = "case_oversize_frc_10436_no_03.pdf"
+count = 2
+by = "Internet Archive"
+url = "https://archive.org/details/case_oversize_frc_10436_no_03"
+note = "Scanned on Internet Archive Python library 0.9.2."
+
+[[resp]]
+name = "Drome (France). Directoire"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Jean-Jacques Viret"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_851924"
+
+[[text]]
+file = "case_oversize_frc_10436_no_03.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

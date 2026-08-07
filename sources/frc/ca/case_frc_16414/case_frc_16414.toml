@@ -1,0 +1,58 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_16414"
+type = "pamphlet"
+title = "Discours prononcé par Coynde-Lativoliere, député de la communauté de Voreppe, à Monsieur de Berulle, premier président du parlement de Grenoble, le 12 octobre 1788, jour de son passage pour la rentrée"
+place = "France"
+date = "1788"
+url = "https://archive.org/details/case_frc_16414"
+subject = [
+    "Bérulle, Amable-Pierre-Thomas de, 1725-1797",
+    "Political science",
+    "Eighteenth century",
+    "History",
+    "Louis XVI, King of France, 1754-1793",
+]
+extent = "[1] p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 16414"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8wb06v82"
+internet_archive = "case_frc_16414"
+
+[scan]
+file = "case_frc_16414.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_16414"
+
+[[resp]]
+name = "Coynde-Lativoliere"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=834197"
+
+[[text]]
+file = "case_frc_16414.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_16414.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

@@ -1,0 +1,66 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_13200"
+type = "pamphlet"
+title = "Compte rendu par Taillefer, député, des sommes qu'il a reçues & dépensées pour & durant sa mission : imprimé par ordre de la Convention, en vertu de son décret du 21 nivôse."
+place = "A Paris"
+date = "1795"
+url = "https://archive.org/details/case_frc_13200"
+subject = [
+    "Finance, Public",
+    "Officials and employees",
+    "Revolution (France : 1789-1799)",
+]
+extent = "3 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 13200"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0ht7dr9j"
+internet_archive = "case_frc_13200"
+
+[scan]
+file = "case_frc_13200.pdf"
+count = 5
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_13200"
+
+[[resp]]
+name = "Taillefer, J. G. (Jean Guillaume), 1763-1835"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_827730"
+
+[[text]]
+file = "case_frc_13200.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_13200.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_13200.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_13200.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

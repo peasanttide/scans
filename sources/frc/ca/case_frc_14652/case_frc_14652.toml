@@ -1,0 +1,65 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_14652"
+type = "pamphlet"
+title = "[Discourse on republicanism]"
+date = "1791"
+url = "https://archive.org/details/case_frc_14652"
+subject = [
+    "Republicanism",
+    "Constitution (France : 1791)",
+    "Monarchy",
+]
+extent = "4 unnumbered pages ; 22 cm"
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 14652"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6256dg09"
+internet_archive = "case_frc_14652"
+
+[scan]
+file = "case_frc_14652.pdf"
+count = 5
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_14652"
+
+[[resp]]
+name = "Billaud-Varenne, 1756-1819,"
+role = "author"
+
+[[resp]]
+name = "264: 0:France?"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_875165"
+
+[[text]]
+file = "case_frc_14652.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_14652.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_14652.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_14652.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

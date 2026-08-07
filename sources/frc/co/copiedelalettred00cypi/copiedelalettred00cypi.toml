@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "copiedelalettred00cypi"
+type = "pamphlet"
+title = "Copie de la lettre de MM. de Cipieres & de Sinéty, députés de la noblesse de Marseille aux États-généraux, à MM. les commissaires de cet ordre, en ladite ville : Versailles, le 27 juillet 1789."
+language = "fr"
+place = "A Marseille"
+date = "1789"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged pages and cover."
+url = "https://archive.org/details/copiedelalettred00cypi"
+subject = [
+    "Nobility",
+    "Titles of honor and nobility",
+    "Representative government and representation",
+]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 16294"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6rz4961b"
+internet_archive = "copiedelalettred00cypi"
+openlibrary_edition = "OL26205970M"
+openlibrary_work = "OL17602260W"
+
+[scan]
+file = "copiedelalettred00cypi.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/copiedelalettred00cypi"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Cypières, Louis-Antoine, marquis de"
+role = "author"
+
+[[resp]]
+name = "Sinety, André-Louis-Esprit, comte de, 1740-1811"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de la veuve Sibié, imprimeur du Roi & de la ville"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_833995"
+
+[[text]]
+file = "copiedelalettred00cypi.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "copiedelalettred00cypi.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "copiedelalettred00cypi.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "copiedelalettred00cypi.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

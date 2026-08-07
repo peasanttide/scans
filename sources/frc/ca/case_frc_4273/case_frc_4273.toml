@@ -1,0 +1,50 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_4273"
+type = "pamphlet"
+title = "Hymne pour la célébration de la Fête de la souveraineté du peuple : Air: O Mahomet, ton paradis des femmes, etc"
+date = "1798"
+url = "https://archive.org/details/case_frc_4273"
+subject = [
+    "Patriotic music",
+    "Festivals",
+]
+extent = "[2] p. ; 16 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+shelfmark = "Case FRC 4273"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6h18fn0c"
+internet_archive = "case_frc_4273"
+
+[scan]
+file = "case_frc_4273.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_4273"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_47155"
+
+[[text]]
+file = "case_frc_4273.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_4273.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_4273.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

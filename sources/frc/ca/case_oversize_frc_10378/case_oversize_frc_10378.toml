@@ -1,0 +1,55 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_oversize_frc_10378"
+type = "pamphlet"
+title = "Proclamation des administrateurs du departement des Basses Alpes, reunis en session de conseil"
+language = "fr"
+place = "A Digne"
+date = "1790"
+url = "https://archive.org/details/case_oversize_frc_10378"
+subject = [
+    "Requisitions, Military",
+    "France. Armée",
+    "Good faith (Law)",
+    "Eminent domain",
+]
+extent = "1 sheet ; 57 x 39 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "Newberry Library"
+shelfmark = "Case oversize FRC 10378"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4wh77x2r"
+internet_archive = "case_oversize_frc_10378"
+
+[scan]
+file = "case_oversize_frc_10378.pdf"
+count = 2
+by = "Internet Archive"
+url = "https://archive.org/details/case_oversize_frc_10378"
+note = "Scanned on Internet Archive Python library 0.9.2."
+
+[[resp]]
+name = "Basses-Alpes (France)"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de J. Guichard, imprimeur du departement des Basses Alpes"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_72346"
+
+[[text]]
+file = "case_oversize_frc_10378.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,64 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "conseildechancel00fran"
+type = "pamphlet"
+title = "Conseil de Chancellerie"
+language = "fr"
+date = "1760"
+note = "Caption title. Manuscript on paper. The first article (of four) discusses various matters involving printers of several cities of France. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Title page and cover are combined.  Text extends off of the edge of the page."
+url = "https://archive.org/details/conseildechancel00fran"
+subject = ["Printing"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 6 no. 168"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7zm11j12"
+internet_archive = "conseildechancel00fran"
+
+[scan]
+file = "conseildechancel00fran.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/conseildechancel00fran"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Grande Chancellerie"
+role = "author"
+
+[[resp]]
+name = "France. Grande Chancellerie"
+role = "author"
+
+[[text]]
+file = "conseildechancel00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "conseildechancel00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "conseildechancel00fran.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "conseildechancel00fran.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

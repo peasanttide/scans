@@ -1,0 +1,55 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_2372"
+type = "pamphlet"
+title = "... Noms des membres composant le Comité des inspecteurs du secrétariat, de l'imprimerie, et de la salle"
+place = "Paris"
+date = "1792"
+url = "https://archive.org/details/case_frc_2372"
+subject = [
+    "France. Convention nationale",
+    "Registers",
+    "Revolution (France : 1789-1799)",
+]
+extent = "[2] p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+shelfmark = "Case FRC 2372"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0kt2447x"
+internet_archive = "case_frc_2372"
+
+[scan]
+file = "case_frc_2372.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_2372"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_46579"
+
+[[text]]
+file = "case_frc_2372.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_2372.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

@@ -1,0 +1,77 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "copiedelalettrec00bour"
+type = "pamphlet"
+title = "Copie de la lettre écrite à Monsieur, frere du roi /"
+language = "fr"
+place = "s.l."
+date = "1788"
+note = """Caption title. Without imprint. "Malheureux, sans appui, privé du tribunal qui eût fait parvenir aux pieds du trône l'expressopm de nos douleurs, l'auguste frere du meilleur des rois voudra-t-il bien nous protéger auprès de notre souverain ...": p.[1]. Not in Martin & Walter. Scanner's note: Title on cover. Damaged, stained pages and cover.<br />No copyright. No table of contents. <br /><br />."""
+url = "https://archive.org/details/copiedelalettrec00bour"
+extent = "3 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 2495"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6838vg6h"
+internet_archive = "copiedelalettrec00bour"
+
+[scan]
+file = "copiedelalettrec00bour.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/copiedelalettrec00bour"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "Bourg-de-Péage (France)"
+role = "author"
+
+[[resp]]
+name = "Bourg-de-Péage (France)"
+role = "author"
+
+[[resp]]
+name = "Louis XVIII, King of France, 1755-1824"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_45142"
+
+[[text]]
+file = "copiedelalettrec00bour.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "copiedelalettrec00bour.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "copiedelalettrec00bour.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "copiedelalettrec00bour.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

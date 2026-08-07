@@ -1,0 +1,54 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_2219"
+type = "pamphlet"
+title = "Arrêté"
+place = "A Chaalons"
+date = "1795"
+url = "https://archive.org/details/case_frc_2219"
+subject = [
+    "Grain trade",
+    "Revolution (France : 1789-1799)",
+]
+extent = "2 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+shelfmark = "Case FRC 2219"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4mm1rh78"
+internet_archive = "case_frc_2219"
+
+[scan]
+file = "case_frc_2219.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_2219"
+
+[[resp]]
+name = "France. Convention nationale. Comité de salut public"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Mercier"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_43368"
+
+[[text]]
+file = "case_frc_2219.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_2219.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

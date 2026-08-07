@@ -1,0 +1,58 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_19303"
+type = "pamphlet"
+title = "Compte rendu a la Convention nationale, en exécution du décret du 21 nivôse, an 3 : imprimé par ordre de la Convention nationale : copie du compte rendu et déposé au Comité des inspecteurs du palais nationale, par Goupilleau, Michel et Couthon, envoyés dans la principauté de Salm, par décret des 2 et 3 mars, pour y faire exécuter les lois de la République, et transmettre les renseignemens propres à déterminer le mode d'incorporation de cette principauté"
+place = "Paris"
+date = "1795"
+url = "https://archive.org/details/case_frc_19303"
+subject = [
+    "France. Convention nationale",
+    "Expenditures, Public",
+    "Finance, Public",
+    "History",
+    "Revolution (France : 1789-1799)",
+]
+extent = "2 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 19303"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t53f9sq6t"
+internet_archive = "case_frc_19303"
+
+[scan]
+file = "case_frc_19303.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_19303"
+
+[[resp]]
+name = "Goupilleau, Philippe-Charles-Aimé, 1749-1823"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=840427"
+
+[[text]]
+file = "case_frc_19303.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_19303.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

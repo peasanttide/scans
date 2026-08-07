@@ -1,0 +1,71 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "copiefidelledela00nair"
+type = "pamphlet"
+title = "Copie fidelle de la lettre de M. Nairac, député aux États-généraux, datée de Versailles, le mercredi, 15 juillet, 1789, à 4 heures du soir, adressée à M. E. Nairac."
+language = "fr"
+place = "A Bordeaux"
+date = "1789"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Saricks, A. Melvin Coll. Bibliography: Saricks, A.  Melvin Coll.,  I, 4188. Scanner's note: No copyright page found. No table-of-contents pages found. Title page is on the cover. Damaged, stained, and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/copiefidelledela00nair"
+extent = "4 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 23083"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9867rd1f"
+internet_archive = "copiefidelledela00nair"
+openlibrary_edition = "OL26237312M"
+openlibrary_work = "OL17631867W"
+
+[scan]
+file = "copiefidelledela00nair.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/copiefidelledela00nair"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Nairac, Pierre-Paul, 1732-1812?"
+role = "author"
+
+[[resp]]
+name = "[s.n.]"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_847517"
+
+[[text]]
+file = "copiefidelledela00nair.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "copiefidelledela00nair.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "copiefidelledela00nair.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "copiefidelledela00nair.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

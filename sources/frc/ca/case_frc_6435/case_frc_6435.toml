@@ -1,0 +1,50 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_6435"
+type = "pamphlet"
+title = "... Extrait des délibérations du samedi 19 décembre 1789"
+place = "Paris"
+date = "1789"
+url = "https://archive.org/details/case_frc_6435"
+extent = "2 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+shelfmark = "Case FRC 6435"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4dn9k54s"
+internet_archive = "case_frc_6435"
+
+[scan]
+file = "case_frc_6435.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_6435"
+
+[[resp]]
+name = "Paris (France). Commune (1789-1794)"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Lottin l'aîné, & Lottin de S.-Germain"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_57022"
+
+[[text]]
+file = "case_frc_6435.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_6435.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

@@ -1,0 +1,56 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_19758"
+type = "pamphlet"
+title = "[Eulogy for Guy-Jean-Baptiste Target]"
+place = "France"
+date = "1806"
+url = "https://archive.org/details/case_frc_19758"
+subject = [
+    "Target, Guy-Jean-Baptiste, 1733-1807",
+    "Death",
+    "Burial",
+]
+extent = "[2] p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 19758"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8dg1sc2b"
+internet_archive = "case_frc_19758"
+
+[scan]
+file = "case_frc_19758.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_19758"
+
+[[resp]]
+name = "Hom, Gilbert"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=841236"
+
+[[text]]
+file = "case_frc_19758.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_19758.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

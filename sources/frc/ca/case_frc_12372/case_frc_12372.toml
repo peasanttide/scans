@@ -1,0 +1,59 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_12372"
+type = "pamphlet"
+title = "Compte rendu par Levasseur (de la Muerthe), représentant du peuple, en exécution du décret du 21 nivôse, an III, de ses recettes et dépenses pendant deux missions successives : la première, dans les départemens de la Moselle et de la Muerthe : la seconde, à l'armée de la Moselle, qui ont duré l'espace de cinq mois."
+place = "A Paris"
+date = "1795"
+url = "https://archive.org/details/case_frc_12372"
+subject = [
+    "Finance, Public",
+    "France. Convention nationale",
+    "Expenditures, Public",
+    "History",
+    "Revolution (France : 1789-1799)",
+    "Economics",
+]
+extent = "2 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 12372"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t13n6xx9f"
+internet_archive = "case_frc_12372"
+
+[scan]
+file = "case_frc_12372.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_12372"
+
+[[resp]]
+name = "Levasseur, Antoine Louis, 1746-1820"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_825980"
+
+[[text]]
+file = "case_frc_12372.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_12372.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

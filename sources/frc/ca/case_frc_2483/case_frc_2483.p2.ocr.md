@@ -1,0 +1,67 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: case_frc_2483
+page: 2
+engine: ABBYY FineReader 11.0
+w: 2227
+h: 3600
+dpi: 300
+---
+
+»
+
+1 V 1 , •• -
+
+te et amenés à l’Hôtel de C Ville à travers un million de
+cris de Vive la Nation! Le ]Loi a tout ligné, les- hon-
+nêtes gens frémiflbient pour la vie de la Reine , mais
+elle avoitlur: fes genoux le Dauphin; il a été ton pa-
+ratonnere, c’eft l’expreiiion littérale qu’elle a dû enten-
+dre répéter un million de fois.
+
+f ' - • V
+
+Nos prifonniers auguftes arrivèrent fur les 8 heures,
+& de la Ville, allèrent coucher aux Tuileries, ou ils
+vont relier pour jamais ; la Nobleffe & le Clergé cou-
+rent ici les plus grands rifques, il n’eft point de projets
+de maffacre & de famine , qu'on ne leur impute , & en
+vérité ie n’y crois pas; mais le peuple croit tout, peut
+tout & fouvent veut tout. Et c’ett ainli que les diffé-
+rentes fcènes de l’hiftoire fe renouvellent ; les Bour-
+guignons , les Armagnacs , les Cabochiens , la guerre du
+bien public la jacquerie, la ligue , la ironde, tout cela a
+part la fronde a été plus férieufe ; mais nous n y étions
+pas, & nous ne fommes pas au bout, vingt Gardes du
+Corps plus lideles félon lésons, & plus antiocrates ie-
+ion les autres, dévoient êtres éclaires , c eft le mot pour
+dire être pendus aux réverbères C vous voyez que du
+moins la langue s’enrichit;, le Roi a demandé leur
+■grâce: l’Affemblée Nationnale va fe transporter ici,
+& Dieu fait qu’elle peut déformais touf. Le petit Dau-
+phin parut nier aux fenêtres , c’étoit un fpeftacle à
+«mouvoir l’ame la plus dure , on battit des,- mains „ le
+poupon ripofta avec la plus grande activité, on lalua,
+5 tira de la bouche un million de petits baifers, il a voit
+l’air d’un petit ver à foie ourdiffant fon cocon, la Rep
+ne parut à l’ordre des Poiflardes , elle falua & fut fa-
+îuée, le Roi & la Reine s’embrafierent devant elles
+plufieurs fois , Verfailles eft anéanti, Paris eit allez
+calme ; mais que vont faire les Provinces naturellerociR
+jaloufesée Paris P c’eft un allez grand fujetdmquivtude.
+
+L' . a * 4 9 r .* 1 ’ - r ’ t .1
+
+F J %
+
+.■■VC'.-f!
+
+'a
+
+g - C-
+
+-C > # a-
+
+*" * / v /<- -i
+
+? ki> |

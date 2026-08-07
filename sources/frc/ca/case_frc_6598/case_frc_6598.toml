@@ -1,0 +1,60 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_6598"
+type = "pamphlet"
+title = "... Adresse"
+place = "Paris"
+date = "1793"
+url = "https://archive.org/details/case_frc_6598"
+extent = "2 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+shelfmark = "Case FRC 6598"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9p329q0d"
+internet_archive = "case_frc_6598"
+
+[scan]
+file = "case_frc_6598.pdf"
+count = 5
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_6598"
+
+[[resp]]
+name = "Lombards (Paris, France : Section)"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_58707"
+
+[[text]]
+file = "case_frc_6598.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_6598.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_6598.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_6598.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

@@ -1,0 +1,57 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_19030"
+type = "pamphlet"
+title = "Envoi des Amis de la République française, séants à Pontivy, à nos législateurs & libérateurs"
+place = "France"
+date = "1792"
+note = 'Date given by the catalogue as "1792/1795".'
+url = "https://archive.org/details/case_frc_19030"
+subject = [
+    "Political clubs",
+    "History",
+    "Revolution (France : 1789-1799)",
+]
+extent = "[1] p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 19030"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t44r2xq8x"
+internet_archive = "case_frc_19030"
+
+[scan]
+file = "case_frc_19030.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_19030"
+
+[[resp]]
+name = "Georgelin du Cosquer, Barthélémy-Pélage, 1740-1797"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=839838"
+
+[[text]]
+file = "case_frc_19030.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_19030.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

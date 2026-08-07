@@ -1,0 +1,57 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "catalogueavecles00davi"
+type = "pamphlet"
+title = "Catalogue avec les prix pour le libraire, y compris la réliure"
+language = "fr"
+place = "Paris?"
+date = "1750"
+note = "Caption title. Inscription in contemporary hand at head of title on Newberry's copy: David l'aine, lib., rue St. Jacques a Par[is]. Several titles listed were published in 1750. Printed in double columns. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Title page and cover are combined."
+url = "https://archive.org/details/catalogueavecles00davi"
+subject = ["David, Michel-Antoine, 1706?-1769"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 4 no. 28"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6j15p55k"
+internet_archive = "catalogueavecles00davi"
+
+[scan]
+file = "catalogueavecles00davi.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/catalogueavecles00davi"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "David, Michel-Antoine,176?-1769"
+role = "author"
+
+[[resp]]
+name = "David, Michel-Antoine, 1706?-1769"
+role = "author"
+
+[[resp]]
+name = "Michel-Antoine David?"
+role = "publisher"
+
+[[text]]
+file = "catalogueavecles00davi.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "catalogueavecles00davi.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

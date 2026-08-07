@@ -1,0 +1,55 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_2980"
+type = "pamphlet"
+title = "Des républicains des villes, a leurs frères des campagnes"
+date = "1795"
+url = "https://archive.org/details/case_frc_2980"
+subject = [
+    "Royalists",
+    "Constitution (France : 1795)",
+]
+extent = "[4] p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+shelfmark = "Case FRC 2980"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5r83s04b"
+internet_archive = "case_frc_2980"
+
+[scan]
+file = "case_frc_2980.pdf"
+count = 5
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_2980"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_51748"
+
+[[text]]
+file = "case_frc_2980.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_2980.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_2980.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_2980.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

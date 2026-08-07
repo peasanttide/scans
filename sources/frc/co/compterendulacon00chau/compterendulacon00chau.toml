@@ -1,0 +1,73 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "compterendulacon00chau"
+type = "pamphlet"
+title = "Compte rendu à la Convention nationale, en exécution de la loi du 21 nivôse par Cl. Fr. X. Chauvier, représentant du peuple, député du département de la Haute-Saone, envoyé par décret du 17 nivôse dernier dans les départemens de la Corrèze & de la Dordogne, & de retour à Paris le premier prairial présent mois."
+language = "fr"
+date = "1795"
+note = "Caption title. At head of title: Convention nationale. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,I, 7134. Scanner's note: Title found on front cover. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/compterendulacon00chau"
+subject = [
+    "France. Convention nationale",
+    "Finance, Public",
+]
+extent = "3 p. ;20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "CaseFRC11127"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t27976g6x"
+internet_archive = "compterendulacon00chau"
+lccn = "nuc87406760"
+
+[scan]
+file = "compterendulacon00chau.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/compterendulacon00chau"
+ppi = 650
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Chauvier, Claude-François-Xavier,1748-1814"
+role = "author"
+
+[[resp]]
+name = "[Paris] :De l'Imprimerie nationale,"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_824449"
+
+[[text]]
+file = "compterendulacon00chau.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "compterendulacon00chau.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "compterendulacon00chau.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "compterendulacon00chau.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"

@@ -1,0 +1,83 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "compterenduparan00pomm"
+type = "pamphlet"
+title = "Compte rendu par André Pomme, représentant du peuple, des dépenses qu'il a faites dans trois missions qui lui ont été confiées par la Convention Nationale ; imprimé en exécution du décret du 21 nivôse dernier."
+language = "fr"
+place = "A Paris"
+date = "1795"
+note = "Caption title. At head of title: Convention nationale. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  IV:1, 27738."
+url = "https://archive.org/details/compterenduparan00pomm"
+subject = [
+    "France. Convention nationale",
+    "Finance, Public",
+]
+extent = "3 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 12870"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3324pw2n"
+internet_archive = "compterenduparan00pomm"
+openlibrary_edition = "OL25931263M"
+openlibrary_work = "OL17353490W"
+
+[scan]
+file = "compterenduparan00pomm.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/compterenduparan00pomm"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Pomme, André, 1756-1842"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_827536"
+
+[[text]]
+file = "compterenduparan00pomm.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "compterenduparan00pomm.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "compterenduparan00pomm.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "compterenduparan00pomm.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

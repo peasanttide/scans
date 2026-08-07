@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "copiedelalettree00grio"
+type = "pamphlet"
+title = "Copie de la lettre écrite par le procureur-général-syndic du département du Gard, à MM. du directoire & procureur-syndic du district d [blank] : Nismes, 12 juin 1792, l'an quatrième de la liberté"
+language = "fr"
+place = "France"
+date = "1792"
+note = "Caption title. At head of title: Departement du Gard. La nation la loi et le roi. At right of title: Volontaires nationaux. Signed: Le procureur-général-syndic du département du Gard ... Griolet. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/copiedelalettree00grio"
+subject = [
+    "Military service, Voluntary",
+    "Military administration",
+]
+extent = "[3] p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 26782"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0vq82r6d"
+internet_archive = "copiedelalettree00grio"
+openlibrary_edition = "OL26226513M"
+openlibrary_work = "OL17621780W"
+
+[scan]
+file = "copiedelalettree00grio.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/copiedelalettree00grio"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Griolet"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_868384"
+
+[[text]]
+file = "copiedelalettree00grio.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "copiedelalettree00grio.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "copiedelalettree00grio.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "copiedelalettree00grio.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

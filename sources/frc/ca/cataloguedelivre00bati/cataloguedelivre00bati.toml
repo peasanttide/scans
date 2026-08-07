@@ -1,0 +1,69 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "cataloguedelivre00bati"
+type = "pamphlet"
+title = "Catalogue de livres en feuilles, proposés à un rabais considérable, jusqu'au 30 frimaire, an 4, chez Batilliot frères, imprimeurs-libraires, rue des Noyers, numéro 7, la porte cochère en face celle des Lavandiers, à Paris"
+language = "fr"
+place = "Paris"
+date = "1795"
+note = "Caption title. Printed in double columns. BN. Catalogues de libraires. With prices. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Title page and cover are combined."
+url = "https://archive.org/details/cataloguedelivre00bati"
+subject = ["Batilliot frères"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 11 no. 2"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8pc8md2t"
+internet_archive = "cataloguedelivre00bati"
+
+[scan]
+file = "cataloguedelivre00bati.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/cataloguedelivre00bati"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Batilliot frères"
+role = "author"
+
+[[resp]]
+name = "Batilliot frères, author"
+role = "bookseller"
+
+[[resp]]
+name = "Batilliot frères"
+role = "publisher"
+
+[[text]]
+file = "cataloguedelivre00bati.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "cataloguedelivre00bati.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "cataloguedelivre00bati.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "cataloguedelivre00bati.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

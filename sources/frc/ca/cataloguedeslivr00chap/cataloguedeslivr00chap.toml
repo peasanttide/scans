@@ -1,0 +1,53 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "cataloguedeslivr00chap"
+type = "pamphlet"
+title = "Catalogue des livres nouveaux qui se trouvent à Bordeaux, chez les freres Chappuis, libraires, 1772"
+language = "fr"
+place = "Bordeaux"
+date = "1772"
+note = "Caption title. Printed in double columns. With prices. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, stained, torn, and/or loose pages.  Irregular pagination.  Title and cover page are combined."
+url = "https://archive.org/details/cataloguedeslivr00chap"
+subject = ["Chappuis frères"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 4 no. 19"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t20d0pf12"
+internet_archive = "cataloguedeslivr00chap"
+
+[scan]
+file = "cataloguedeslivr00chap.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/cataloguedeslivr00chap"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Chappuis frères"
+role = "author"
+
+[[resp]]
+name = "Frères Chappuis"
+role = "publisher"
+
+[[text]]
+file = "cataloguedeslivr00chap.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "cataloguedeslivr00chap.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

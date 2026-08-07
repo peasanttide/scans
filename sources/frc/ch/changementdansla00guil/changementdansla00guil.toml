@@ -1,0 +1,84 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "changementdansla00guil"
+type = "pamphlet"
+title = "Changement dans la distribution du local."
+language = "fr"
+place = "Paris"
+date = "1789"
+note = "Caption title. At head of title: Assemblée nationale. Signed: Guillotin, commissaire. Imprint from colophon. Publication date from Martin & Walter. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  II, 16126. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover."
+url = "https://archive.org/details/changementdansla00guil"
+subject = [
+    "France. Assemblée nationale constituante (1789-1791)",
+    "Buildings",
+    "Conference rooms",
+]
+extent = "4 p. ; 18 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 11898"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t85j27w3t"
+internet_archive = "changementdansla00guil"
+openlibrary_edition = "OL25925034M"
+openlibrary_work = "OL17347647W"
+
+[scan]
+file = "changementdansla00guil.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/changementdansla00guil"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Guillotin, Joseph Ignace, 1738-1814"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_825660"
+
+[[text]]
+file = "changementdansla00guil.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "changementdansla00guil.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "changementdansla00guil.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "changementdansla00guil.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

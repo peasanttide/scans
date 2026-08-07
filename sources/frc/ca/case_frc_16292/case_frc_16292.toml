@@ -1,0 +1,55 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_16292"
+type = "pamphlet"
+title = "Compliment de la Chambre des comptes de Dijon : fait au parlement, les chambres assemblées, le 15 octobre 1788"
+place = "France"
+date = "1788"
+url = "https://archive.org/details/case_frc_16292"
+subject = [
+    "Political science",
+    "Eighteenth century",
+]
+extent = "2 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 16292"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0ns5sm9f"
+internet_archive = "case_frc_16292"
+
+[scan]
+file = "case_frc_16292.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_16292"
+
+[[resp]]
+name = "Cinqfonds"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=833993"
+
+[[text]]
+file = "case_frc_16292.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_16292.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

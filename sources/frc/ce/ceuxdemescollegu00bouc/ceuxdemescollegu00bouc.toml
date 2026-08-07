@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "ceuxdemescollegu00bouc"
+type = "pamphlet"
+title = "A ceux de mes collègues qui ne sont qu'égarés."
+language = "fr"
+place = "Paris"
+date = "1793"
+note = "Caption title. Signed: Boucher de Saint-Sauveur, député de Paris. Imprint from colophon. Publisher location from Martin & Walter. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  I, 4436. Scanner's note: No copyright page found. No table-of-contents pages found. Title on front cover."
+url = "https://archive.org/details/ceuxdemescollegu00bouc"
+subject = ["Louis XVI, King of France, 1754-1793"]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 15056"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t41s1pd24"
+internet_archive = "ceuxdemescollegu00bouc"
+openlibrary_edition = "OL25945315M"
+openlibrary_work = "OL17366527W"
+
+[scan]
+file = "ceuxdemescollegu00bouc.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/ceuxdemescollegu00bouc"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Boucher de Saint Sauveur, Antoine, 1723-1805"
+role = "author"
+
+[[resp]]
+name = "De l'impr. de Mayer & compagnie, rue St. Martin, no. 219, presque vis-à-vis le rue Maubuée"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_830933"
+
+[[text]]
+file = "ceuxdemescollegu00bouc.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ceuxdemescollegu00bouc.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ceuxdemescollegu00bouc.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ceuxdemescollegu00bouc.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

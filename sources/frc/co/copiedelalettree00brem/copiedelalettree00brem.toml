@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "copiedelalettree00brem"
+type = "pamphlet"
+title = "Copie de la lettre écrite au district de Marseille /"
+language = "fr"
+place = "A Aix"
+date = "1790"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on front cover. Damaged and stained pages."
+url = "https://archive.org/details/copiedelalettree00brem"
+subject = ["Brémond-Julien, Antoine"]
+extent = "3 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 15279"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6vx58016"
+internet_archive = "copiedelalettree00brem"
+openlibrary_edition = "OL25947988M"
+openlibrary_work = "OL17369042W"
+
+[scan]
+file = "copiedelalettree00brem.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/copiedelalettree00brem"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Brémond-Julien, Antoine"
+role = "author"
+
+[[resp]]
+name = "Chez Pierre-Joseph Calmen, imprimeur du Roi, rue Plate-forme"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_831601"
+
+[[text]]
+file = "copiedelalettree00brem.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "copiedelalettree00brem.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "copiedelalettree00brem.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "copiedelalettree00brem.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

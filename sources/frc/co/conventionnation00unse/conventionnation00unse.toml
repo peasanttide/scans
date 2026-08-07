@@ -1,0 +1,97 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "conventionnation00unse"
+type = "pamphlet"
+title = "Convention nationale, journal de ses séances"
+language = "fr"
+place = "Paris?"
+date = "1792"
+note = """Prospectus for "Convention nationale, journal de ses séances.". Proposed title never published? Caption title. "On s'abonne chez Devaux, libraire, au Palais-Royal, no. 181, et au bureau, rue de Chartres, n°. 382"--P. [3]. "Je commencerai le 15 du mois d'octobre"--P. [4]. "Le prix de l'abonnement est de six livres par mois pour Paris, et sept livres pour les départemens"--P. [3]. Ms. annotations. Scanner's note: No copyright found.  No table of contents found.  Damaged, stained pages and cover.  No numbered pages. <br /><br />."""
+url = "https://archive.org/details/conventionnation00unse"
+subject = [
+    "Convention nationale, journal de ses séances",
+    "Booksellers and bookselling",
+    "Periodicals",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1d no. 29"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8sb9q35f"
+internet_archive = "conventionnation00unse"
+
+[scan]
+file = "conventionnation00unse.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/conventionnation00unse"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "Devaux, Jean-Baptiste, d. 1799"
+role = "bookseller"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Devaux?"
+role = "publisher"
+
+[[text]]
+file = "conventionnation00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "conventionnation00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "conventionnation00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "conventionnation00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "conventionnation00unse.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "conventionnation00unse.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "conventionnation00unse.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "conventionnation00unse.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,55 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "complimentdesdam00coca"
+type = "pamphlet"
+title = "Compliment des dames poissardes"
+language = "fr"
+date = "1744"
+note = "Caption title. Binder's title: Conquest du roy. Inlaid. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover.  Uneven binding.  Skewed text.  Irregular pagination.  Some page numbers are altered or defaced."
+url = "https://archive.org/details/complimentdesdam00coca"
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "E 5 .L92705 v. 07 no. 09"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t15n28k8q"
+internet_archive = "complimentdesdam00coca"
+
+[scan]
+file = "complimentdesdam00coca.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/complimentdesdam00coca"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Cocasse,Madame"
+role = "author"
+
+[[resp]]
+name = "Cocasse, Madame"
+role = "author"
+
+[[resp]]
+name = "[Paris?"
+role = "publisher"
+
+[[text]]
+file = "complimentdesdam00coca.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "complimentdesdam00coca.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

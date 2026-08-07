@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "charlesfran00cath"
+type = "pamphlet"
+title = "Charles-François de Lomenie de Brienne par la grace de Dieu et du St. Siege Apostolique Evêque de Coutances"
+language = "fr"
+date = "1703"
+note = "Caption title. Manuscript on paper. Relating, chiefly, to Cas de conscience proposé par un confesseur de province, variously attributed to Abbé Eustace, or Bernard Couet. Dated 26 March 1703. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text.  Title page and cover are combined."
+url = "https://archive.org/details/charlesfran00cath"
+subject = ["Censorship"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 3 no. 4"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1rg1bw8r"
+internet_archive = "charlesfran00cath"
+
+[scan]
+file = "charlesfran00cath.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/charlesfran00cath"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Catholic Church.Diocese of Coutances (France).Bishop (1668-1720: Charles François de Loménie de Brienne)"
+role = "author"
+
+[[resp]]
+name = "Catholic Church. Diocese of Coutances (France). Bishop (1668-1720: Charles François de Loménie de Brienne)"
+role = "author"
+
+[[resp]]
+name = "Eustace, abbé. Cas de conscience"
+role = "author"
+
+[[resp]]
+name = "Couet, Bernard, 1666-1736. Cas de conscience"
+role = "author"
+
+[[text]]
+file = "charlesfran00cath.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "charlesfran00cath.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "charlesfran00cath.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "charlesfran00cath.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "copiedelalettre00vers"
+type = "pamphlet"
+title = "Copie de la lettre"
+language = "fr"
+place = "A Versailles"
+date = "1793"
+note = "Caption title. Imprint from colophon. Dated on p.3: Fait en séance publique, `a Versailles, le 20 juin 1793, l'an deuxi`eme de la République française. Martin & Walter IV 2: 17971. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover."
+url = "https://archive.org/details/copiedelalettre00vers"
+extent = "3 p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10313"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3qv8nc9x"
+internet_archive = "copiedelalettre00vers"
+openlibrary_edition = "OL26222955M"
+openlibrary_work = "OL17618415W"
+
+[scan]
+file = "copiedelalettre00vers.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/copiedelalettre00vers"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Versailles (France)"
+role = "author"
+
+[[resp]]
+name = "Ille-et-Vilaine (France)"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie du département de Seine & Oise"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_71952"
+
+[[text]]
+file = "copiedelalettre00vers.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "copiedelalettre00vers.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "copiedelalettre00vers.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "copiedelalettre00vers.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,50 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_6605"
+type = "pamphlet"
+title = "... Extrait du procès-verbal"
+place = "Paris"
+date = "1793"
+url = "https://archive.org/details/case_frc_6605"
+extent = "2 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+shelfmark = "Case FRC 6605"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9188qq8b"
+internet_archive = "case_frc_6605"
+
+[scan]
+file = "case_frc_6605.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_6605"
+
+[[resp]]
+name = "Paris (France). Section du Mail"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_58503"
+
+[[text]]
+file = "case_frc_6605.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_6605.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

@@ -1,0 +1,88 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "collectioncomple00dupl"
+type = "pamphlet"
+title = "Collection complette des œuvres de J.J. Rousseau"
+language = "fr"
+place = "Paris?"
+date = "1783"
+note = """Prospectus for an edition of Rousseau's complete works, published 1774-1783. "Cette collection complette se vend à Paris, chez Pierre J. Duplain, libraire, rue de l'ancienne Comédie Françoise, cour du Commerce.". Newberry's copy tightly trimmed, possibly removing imprint. Possibly published in 1783; text indicates that the edition of Rousseau's works has just been completed. "Prix, 10 liv. le vol. en feuilles, & 1 l. 10 sols chaque estampe.". Inscription: Monsieur Adanson, rue Vivienne, Paris. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Title page and cover are combined."""
+url = "https://archive.org/details/collectioncomple00dupl"
+subject = [
+    "Rousseau, Jean-Jacques, 1712-1778",
+    "Booksellers and bookselling",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1a no. 74"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8kd7kk8k"
+internet_archive = "collectioncomple00dupl"
+
+[scan]
+file = "collectioncomple00dupl.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/collectioncomple00dupl"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Duplain, Pierre-Jacques"
+role = "author"
+
+[[resp]]
+name = "Rousseau, Jean-Jacques, 1712-1778. Works. 1774"
+role = "author"
+
+[[resp]]
+name = "Adanson, Michel, 1727-1806, former owner. ICN"
+role = "author"
+
+[[resp]]
+name = "Pierre-Jacques Duplain?"
+role = "publisher"
+
+[[text]]
+file = "collectioncomple00dupl.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "collectioncomple00dupl.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "collectioncomple00dupl.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "collectioncomple00dupl.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "collectioncomple00dupl.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "collectioncomple00dupl.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

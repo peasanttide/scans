@@ -1,0 +1,62 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_oversize_frc_10387"
+type = "pamphlet"
+title = "Audience du Tribunal de la police correctionnelle, seant a Pont-de-Vaux, departement de l'Ain : du six vendemiaire, an cinq de la Republique française, une et indivisible"
+language = "fr"
+place = "A Pont-de-Vaux"
+date = "1796"
+note = 'Date given by the catalogue as "1796/1797".'
+url = "https://archive.org/details/case_oversize_frc_10387"
+subject = [
+    "Forestry law and legislation",
+    "Justice, Administration of",
+    "Tax administration and procedure",
+    "Corps, Geneviève Adélaïde",
+]
+extent = "1 sheet ; 93 x 43 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "Newberry Library"
+shelfmark = "Case oversize FRC 10387"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4jm6z06t"
+internet_archive = "case_oversize_frc_10387"
+
+[scan]
+file = "case_oversize_frc_10387.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_oversize_frc_10387"
+note = "Scanned on Internet Archive Python library 0.9.2."
+
+[[resp]]
+name = "Pont-de-Vaux (France). Tribunal de la police correctionnelle"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Moiroud"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_72347"
+
+[[text]]
+file = "case_oversize_frc_10387.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "case_oversize_frc_10387.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

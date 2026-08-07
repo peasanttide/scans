@@ -1,0 +1,58 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_12491"
+type = "pamphlet"
+title = "Projet de loi relatif à une demande de la commune de Vone, district de Vouziers, département des Ardennes,  pour obtenir une somme de 772,623 liv., pour indemnité des dommages & pertes occasionnés par l'invasion des ennemis & des émigrés sur son territoire & notamment par l'incendie du 24 septembre dernier"
+place = "Paris"
+date = "1792"
+url = "https://archive.org/details/case_frc_12491"
+subject = [
+    "War damage compensation",
+    "Finance, Public",
+    "First Coalition, War of the (1792-1797)",
+    "Revolution (France : 1789-1799)",
+    "History",
+]
+extent = "2 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 12491"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4nk84t3j"
+internet_archive = "case_frc_12491"
+
+[scan]
+file = "case_frc_12491.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_12491"
+
+[[resp]]
+name = "Mallarmé, François-Réné-Auguste, 1756-1835"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_826721"
+
+[[text]]
+file = "case_frc_12491.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_12491.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

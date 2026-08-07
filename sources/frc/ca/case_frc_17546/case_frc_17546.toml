@@ -1,0 +1,47 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_17546"
+type = "pamphlet"
+title = "Rapport par Doche-Delisle (de la Charente) sur les droits de greffe : séance du premier ventose an 7 : errata"
+place = "A Paris"
+date = "1799"
+url = "https://archive.org/details/case_frc_17546"
+extent = "[1] p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 17546"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t46q70h3t"
+internet_archive = "case_frc_17546"
+
+[scan]
+file = "case_frc_17546.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_17546"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=836320"
+
+[[text]]
+file = "case_frc_17546.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_17546.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

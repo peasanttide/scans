@@ -1,0 +1,57 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_oversize_frc_10469_no_13"
+type = "pamphlet"
+title = "Loi relative aux passe-ports : du 28 vendemiaire, an VI de la Republique française"
+language = "fr"
+place = "A Agen"
+date = "1797"
+note = 'Date given by the catalogue as "1797/1798".'
+url = "https://archive.org/details/case_oversize_frc_10469_no_13"
+subject = [
+    "Passports",
+    "International travel regulations",
+    "Law and legislation",
+    "Revolution (France : 1789-1799)",
+    "Confiscations and contributions",
+]
+extent = "p. ; cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "Newberry Library"
+shelfmark = "Case oversize FRC 10469 no. 13"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0004tb0q"
+internet_archive = "case_oversize_frc_10469_no_13"
+
+[scan]
+file = "case_oversize_frc_10469_no_13.pdf"
+count = 2
+by = "Internet Archive"
+url = "https://archive.org/details/case_oversize_frc_10469_no_13"
+note = "Scanned on Internet Archive Python library 0.9.2."
+
+[[resp]]
+name = "France. Corps legislatif (1795-1814)"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie du departement"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_851840"
+
+[[text]]
+file = "case_oversize_frc_10469_no_13.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

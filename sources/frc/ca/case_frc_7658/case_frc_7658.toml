@@ -1,0 +1,55 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_7658"
+type = "pamphlet"
+title = "Les regrets de Mr. de Favras conspirateur contre l'état : Air: Hé! quoi déja je vois le jour"
+date = "1790"
+url = "https://archive.org/details/case_frc_7658"
+subject = [
+    "Favras, Thomas de Mahy, marquis de, 744-1790",
+    "Revolution (France : 1789-1799)",
+]
+extent = "[2] p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+shelfmark = "Case FRC 7658"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5r83s02c"
+internet_archive = "case_frc_7658"
+
+[scan]
+file = "case_frc_7658.pdf"
+count = 5
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_7658"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_63379"
+
+[[text]]
+file = "case_frc_7658.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_7658.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_7658.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_7658.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

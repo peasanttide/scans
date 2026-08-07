@@ -1,0 +1,51 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_6417"
+type = "pamphlet"
+title = "Discours de M. le premier président : au Châtelet ; le 15 septembre 1788, les pairs y séant"
+date = "1788"
+url = "https://archive.org/details/case_frc_6417"
+extent = "[2] p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+shelfmark = "Case FRC 6417"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t62572173"
+internet_archive = "case_frc_6417"
+
+[scan]
+file = "case_frc_6417.pdf"
+count = 5
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_6417"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_58916"
+
+[[text]]
+file = "case_frc_6417.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_6417.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_6417.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_6417.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

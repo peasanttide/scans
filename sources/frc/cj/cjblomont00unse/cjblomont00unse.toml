@@ -1,0 +1,93 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "cjblomont00unse"
+type = "pamphlet"
+title = "C.J.B. Lomont a ses collegues"
+language = "fr"
+place = "Paris"
+date = "1795"
+note = """Caption title. Imprint from colophon. Dated at end: Ce 16 fructidor, an 3. de la République française. Not in Martin & Walter. Révolution française. "Lomont a Chenier"--P. 2-3. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/cjblomont00unse"
+subject = [
+    "Lomont, Claude-Jean-Baptiste, 1748-1830",
+    "Chénier, Marie-Joseph, 1764-1811",
+    "France. Convention nationale",
+    "Parliamentary practice",
+]
+extent = "3 p. ; 25 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 26914"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9v175p7f"
+internet_archive = "cjblomont00unse"
+openlibrary_edition = "OL26226977M"
+openlibrary_work = "OL17622204W"
+
+[scan]
+file = "cjblomont00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/cjblomont00unse"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Lomont, Claude-Jean-Baptiste,1748-1830"
+role = "author"
+
+[[resp]]
+name = "Lomont, Claude-Jean-Baptiste, 1748-1830"
+role = "author"
+
+[[resp]]
+name = "Chénier, Marie-Joseph, 1764-1811"
+role = "author"
+
+[[resp]]
+name = "Hacquard, André-François, 1770-"
+role = "publisher"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie d'Hacquart, rue de Lille, no. 478"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_866661"
+
+[[text]]
+file = "cjblomont00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "cjblomont00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "cjblomont00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "cjblomont00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

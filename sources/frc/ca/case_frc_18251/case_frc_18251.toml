@@ -1,0 +1,68 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_18251"
+type = "pamphlet"
+title = "Pétition au Corps législatif"
+place = "France"
+date = "1796"
+url = "https://archive.org/details/case_frc_18251"
+subject = [
+    "Agriculture",
+    "Taxation",
+    "Law",
+    "Tax exemption",
+    "Commercial policy",
+]
+extent = "4 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 18251"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6p036t01"
+internet_archive = "case_frc_18251"
+
+[scan]
+file = "case_frc_18251.pdf"
+count = 5
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_18251"
+
+[[resp]]
+name = "Duvrac, Pierre"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=837879"
+
+[[text]]
+file = "case_frc_18251.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_18251.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_18251.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_18251.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

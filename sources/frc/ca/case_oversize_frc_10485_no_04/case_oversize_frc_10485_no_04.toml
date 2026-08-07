@@ -1,0 +1,63 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_oversize_frc_10485_no_04"
+type = "pamphlet"
+title = "Le ministre de la guerre, aux commissaires du Directoire executif près les administrations centrales de departement et de canton, et aux agens militaires"
+language = "fr"
+date = "1796"
+url = "https://archive.org/details/case_oversize_frc_10485_no_04"
+subject = [
+    "Draft",
+    "Military law",
+    "France. Armee",
+    "Recruiting and enlistment",
+]
+extent = "[2] p. ; 33 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "Newberry Library"
+shelfmark = "Case oversize FRC 10485 no. 4"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0jt4fp3b"
+internet_archive = "case_oversize_frc_10485_no_04"
+
+[scan]
+file = "case_oversize_frc_10485_no_04.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_oversize_frc_10485_no_04"
+
+[[resp]]
+name = "Petiet, Claude, 1749-1806"
+role = "author"
+
+[[resp]]
+name = "France. Ministère de la guerre"
+role = "author"
+
+[[resp]]
+name = "France"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_851854"
+
+[[text]]
+file = "case_oversize_frc_10485_no_04.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "case_oversize_frc_10485_no_04.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

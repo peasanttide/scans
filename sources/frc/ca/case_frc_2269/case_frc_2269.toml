@@ -1,0 +1,56 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_2269"
+type = "pamphlet"
+title = "Commission extraordinaire des vingt-quatre : établie par décret du premier octobre"
+place = "Paris"
+date = "1792"
+url = "https://archive.org/details/case_frc_2269"
+subject = [
+    "Baudouin, François-Jean, 1759-1838",
+    "Trials",
+    "Revolution (France : 1789-1799)",
+]
+extent = "2 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "Martin & Walter.  Révolution française,  IV:2, 4406"
+shelfmark = "Case FRC 2269"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t02z6nr02"
+internet_archive = "case_frc_2269"
+
+[scan]
+file = "case_frc_2269.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_2269"
+
+[[resp]]
+name = "France. Commission des vingt-quatre"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_43576"
+
+[[text]]
+file = "case_frc_2269.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_2269.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

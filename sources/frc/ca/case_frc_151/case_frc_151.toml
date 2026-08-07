@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_151"
+type = "pamphlet"
+title = "Adresse a messieurs les electeurs du département de l’Izere, convoqués à Moirans"
+language = "fr"
+place = "A Paris"
+date = "1790"
+url = "https://archive.org/details/case_frc_151"
+subject = [
+    "Revolution (France : 1789-1799)",
+    "France. Assemblée nationale constituante (1789-1791)",
+    "Religious aspects",
+    "Church and state",
+    "Clergy",
+    "Economic history",
+]
+extent = "7 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 151"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t29926f47"
+internet_archive = "case_frc_151"
+
+[scan]
+file = "case_frc_151.pdf"
+count = 5
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_151"
+note = "Scanned on Internet Archive Python library 0.9.2."
+
+[[resp]]
+name = "Auteur du mémoire intitulé: Suppression nécessaire des ordres mendians"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "https://i-share.carli.illinois.edu/nby/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=36062"
+
+[[text]]
+file = "case_frc_151.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "case_frc_151.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "case_frc_151.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "case_frc_151.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

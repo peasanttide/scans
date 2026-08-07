@@ -1,0 +1,61 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_11235"
+type = "pamphlet"
+title = "Compte rendu a la Convention nationale, en exécution du décret du 21 nivôse, an 3, par Crassous, représentant du peuple, de la dépense faite pendant sa mission dans les départemens de Seine-et-Oise et Paris, depuis le 16 nivôse an 2, jusqu'à la fin de thermidor, sept mois et demi."
+place = "A Paris"
+date = "1795"
+url = "https://archive.org/details/case_frc_11235"
+subject = [
+    "Finance, Public",
+    "France. Convention nationale",
+    "Expenditures, Public",
+    "Public officers",
+    "Employees",
+    "History",
+    "Revolution (France : 1789-1799)",
+    "Economics",
+]
+extent = "2 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 11235"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6sz13274"
+internet_archive = "case_frc_11235"
+
+[scan]
+file = "case_frc_11235.pdf"
+count = 2
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_11235"
+
+[[resp]]
+name = "Crassous, Joseph-Augustin, 1745-1829"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_823853"
+
+[[text]]
+file = "case_frc_11235.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_11235.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

@@ -1,0 +1,41 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_3183"
+type = "pamphlet"
+title = "Réponse"
+date = "1788"
+url = "https://archive.org/details/case_frc_3183"
+extent = "[1] p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+shelfmark = "Case FRC 3183"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3713gw73"
+internet_archive = "case_frc_3183"
+
+[scan]
+file = "case_frc_3183.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_3183"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_50223"
+
+[[text]]
+file = "case_frc_3183.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_3183.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

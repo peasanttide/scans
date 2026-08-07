@@ -1,0 +1,68 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_15762"
+type = "pamphlet"
+title = "Compte rendu en exécution du décret du 21 nivôse, an 3, par Carnot, représentant du peuple : de ses dépenses dans les diverses missions qu'il a remplies"
+place = "Paris"
+date = "1795"
+url = "https://archive.org/details/case_frc_15762"
+subject = [
+    "Finance, Public",
+    "Expenditures, Public",
+    "Public officers",
+    "Employees",
+    "History",
+]
+extent = "2 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 15762"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0wq50w14"
+internet_archive = "case_frc_15762"
+
+[scan]
+file = "case_frc_15762.pdf"
+count = 5
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_15762"
+
+[[resp]]
+name = "Carnot, Lazare, 1753-1823"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=833179"
+
+[[text]]
+file = "case_frc_15762.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_15762.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_15762.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_15762.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

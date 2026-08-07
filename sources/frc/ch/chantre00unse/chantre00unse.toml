@@ -1,0 +1,83 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "chantre00unse"
+type = "pamphlet"
+title = "Chant republicain, sur la bataille de Fleurus /"
+language = "fr"
+place = "Paris"
+date = "1794"
+note = """Caption title. Publisher from colophon. Publication location from Martin & Walter. Without the music. "Exécuté au concert du peuple, musique de Catel."--P. [1]. "Le Commission de l'instruction publique, arrête l'impression et l'envoie du Chant républicain ..."--P. 4. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  III, 20118. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/chantre00unse"
+subject = [
+    "Fleurus, Battle of, Fleurus, Belgium, 1794",
+    "Patriotic poetry, French",
+]
+extent = "4 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 20950"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9285k519"
+internet_archive = "chantre00unse"
+openlibrary_edition = "OL26238775M"
+openlibrary_work = "OL17633311W"
+
+[scan]
+file = "chantre00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/chantre00unse"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Le Brun, Ponce Denis Ecouchard, 1729-1807"
+role = "author"
+
+[[resp]]
+name = "Catel, Charles-Simon, 1773-1830"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale. Comité d'instruction publique"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie de la Commission de l'instruction publique"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_843289"
+
+[[text]]
+file = "chantre00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "chantre00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "chantre00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "chantre00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

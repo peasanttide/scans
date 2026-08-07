@@ -1,0 +1,88 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "copiedelalettrea00less"
+type = "pamphlet"
+title = "Copie de la lettre adressée par le ministre de l'intérieur à MM. du directoire & procureur-général-syndic du département de l'Aude, à Carcassonne : Paris, le 23 juin 1791"
+language = "fr"
+place = "A Carcassonne"
+date = "1791"
+note = """Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. "Copie du décret de l'Assemblée nationale, du 23 juin 1791"--P. [3]-[4]. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/copiedelalettrea00less"
+subject = ["Louis XVI, King of France, 1754-1793"]
+extent = "[4] p. ; 24 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 26905"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2t48tq30"
+internet_archive = "copiedelalettrea00less"
+openlibrary_edition = "OL26227083M"
+openlibrary_work = "OL17622310W"
+
+[scan]
+file = "copiedelalettrea00less.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/copiedelalettrea00less"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Lessart, Claude-Antoine Valdec de,1741 or 1742-1792"
+role = "author"
+
+[[resp]]
+name = "Lessart, Claude-Antoine Valdec de, 1741 or 1742-1792"
+role = "author"
+
+[[resp]]
+name = "Heirisson, Raymond, 1742-1823"
+role = "publisher"
+
+[[resp]]
+name = "Aude (France). Directoire"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de R. Heirisson, imprimeur du roi & du département"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_866652"
+
+[[text]]
+file = "copiedelalettrea00less.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "copiedelalettrea00less.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "copiedelalettrea00less.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "copiedelalettrea00less.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

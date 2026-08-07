@@ -1,0 +1,108 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "copiedelalettree00cour"
+type = "pamphlet"
+title = "Copie de la lettre écrite à la municipalité de Toulouse /"
+language = "fr"
+place = "France"
+date = "1790"
+note = """Caption title. "Moissac, le 25 mai 1790, après deux heures après midi"--P. 2. Not in Martin & Walter. Ré́volution française. "Copie de la lettre écrite à M. Douziech, commandant de la Garde nationale à Toulouse, par M. Courpon, major-général, commandant un détachement de la Garde nationale bordelaise"--P.3-4. "Copie de la lettre écrite par M. de Saint-Priest à la municipalité de Montauban, le 20 mai 1790"--P. 5-6. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on the cover page. Skewed text. Damaged, loose pages."""
+url = "https://archive.org/details/copiedelalettree00cour"
+subject = [
+    "Toulouse (France). Garde nationale",
+    "Bordeaux (Aquitaine, France). Garde nationale",
+    "Military administration",
+]
+extent = "6 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 16703"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7gr1x43f"
+internet_archive = "copiedelalettree00cour"
+openlibrary_edition = "OL26199738M"
+openlibrary_work = "OL17596405W"
+
+[scan]
+file = "copiedelalettree00cour.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/copiedelalettree00cour"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Courpon, Jean Guillaume, 1729-1794"
+role = "author"
+
+[[resp]]
+name = "Douziech, général, 1745-1793"
+role = "author"
+
+[[resp]]
+name = "Saint-Priest, François-Emmanuel Guignard, comte de, 1735-1821"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_834390"
+
+[[text]]
+file = "copiedelalettree00cour.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "copiedelalettree00cour.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "copiedelalettree00cour.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "copiedelalettree00cour.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "copiedelalettree00cour.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "copiedelalettree00cour.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "copiedelalettree00cour.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "copiedelalettree00cour.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

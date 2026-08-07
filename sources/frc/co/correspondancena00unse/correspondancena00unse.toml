@@ -1,0 +1,89 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "correspondancena00unse"
+type = "pamphlet"
+title = "Correspondance nationale"
+language = "fr"
+place = "Paris"
+date = "1791"
+note = """Caption title. Printer statement from colophon. "Le premier n°. du journal paroîtra le 15 février 1791"--P. 3. "On souscrit à Paris, au bureau de la Correspondance nationale, rue de Condé, n°. 10, chez les directeurs des postes, et chez les principaux libraires du royaume"--P. 4. "Le prix de l'abonnement sera, pour Paris, de 3 livres par mois, 36 livres par an; pour les départemens, de 3 livres 12 sols par mois, 42 livres par an"--P. 3. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/correspondancena00unse"
+subject = [
+    "Correspondance nationale",
+    "Booksellers and bookselling",
+    "Periodicals",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1d no. 17"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2x40g998"
+internet_archive = "correspondancena00unse"
+
+[scan]
+file = "correspondancena00unse.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/correspondancena00unse"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "De l'imprimerie de la Correspondance nationale, rue de Condé, n°. 10"
+role = "publisher"
+
+[[text]]
+file = "correspondancena00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "correspondancena00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "correspondancena00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "correspondancena00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "correspondancena00unse.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "correspondancena00unse.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "correspondancena00unse.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "correspondancena00unse.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,83 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "compterenduparfr00frog"
+type = "pamphlet"
+title = "Compte rendu par Froger, député de la Sarthe, de la dépense faite en sa dernière mission."
+language = "fr"
+place = "Paris"
+date = "1795"
+note = "Caption title. At head of title: Convention nationale. Imprint from colophon. Martin & Walter. Révolution française. Personal expense report. Bibliography: Martin & Walter.  Révolution française,  II, 14004. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover."
+url = "https://archive.org/details/compterenduparfr00frog"
+subject = [
+    "France. Convention nationale",
+    "Finance, Public",
+]
+extent = "3 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 11712"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2b90049p"
+internet_archive = "compterenduparfr00frog"
+openlibrary_edition = "OL25924314M"
+openlibrary_work = "OL17346933W"
+
+[scan]
+file = "compterenduparfr00frog.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/compterenduparfr00frog"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Froger-Plisson, Louis Joseph, 1752-1821"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_825485"
+
+[[text]]
+file = "compterenduparfr00frog.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "compterenduparfr00frog.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "compterenduparfr00frog.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "compterenduparfr00frog.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

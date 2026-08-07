@@ -1,0 +1,54 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_2346"
+type = "pamphlet"
+title = "Liste des citoyens indiqués pour le Ministre de la guerre par la voie du scrutin par les députés à la Convention nationale"
+place = "Paris"
+date = "1792"
+url = "https://archive.org/details/case_frc_2346"
+subject = [
+    "France. Ministère de la guerre",
+    "Revolution (France : 1789-1799)",
+]
+extent = "2 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+shelfmark = "Case FRC 2346"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1hj1z786"
+internet_archive = "case_frc_2346"
+
+[scan]
+file = "case_frc_2346.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_2346"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_43642"
+
+[[text]]
+file = "case_frc_2346.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_2346.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

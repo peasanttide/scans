@@ -1,0 +1,61 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_13159"
+type = "pamphlet"
+title = "Compte rendu à la Convention nationale, en exécution du décret du 21 nivôse, par Servières & Gleyzal, représentans du peuple."
+place = "Paris"
+date = "1795"
+url = "https://archive.org/details/case_frc_13159"
+subject = [
+    "Finance, Public",
+    "France. Convention nationale",
+    "Expenditures, Public",
+    "Public officers",
+    "Employees",
+    "History",
+    "Revolution (France : 1789-1799)",
+    "Economics",
+]
+extent = "2 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 13159"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2896093p"
+internet_archive = "case_frc_13159"
+
+[scan]
+file = "case_frc_13159.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_13159"
+
+[[resp]]
+name = "Servière, Laurent, 1759-1799"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_827977"
+
+[[text]]
+file = "case_frc_13159.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_13159.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

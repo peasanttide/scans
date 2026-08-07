@@ -1,0 +1,96 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "cataloguedeslivr00veuv"
+type = "pamphlet"
+title = "Catalogue des livres qui se vendent à Paris chez la veuve Estienne et fils, libraires, rue Saint Jacques, à la Vertu, 1745"
+language = "fr"
+place = "Paris?"
+date = "1745"
+note = "Caption title. Head- and tail-pieces; printed in double columns. With prices. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination."
+url = "https://archive.org/details/cataloguedeslivr00veuv"
+subject = [
+    "Veuve Estienne",
+    "Estienne, Jacques, 1720?-1795",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 4 no. 46"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1qg4d237"
+internet_archive = "cataloguedeslivr00veuv"
+
+[scan]
+file = "cataloguedeslivr00veuv.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/cataloguedeslivr00veuv"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Veuve Estienne"
+role = "author"
+
+[[resp]]
+name = "Estienne, Jacques, 1720?-1795"
+role = "bookseller"
+
+[[resp]]
+name = "Veuve Estienne? :;Jacques Estienne?"
+role = "publisher"
+
+[[text]]
+file = "cataloguedeslivr00veuv.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "cataloguedeslivr00veuv.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "cataloguedeslivr00veuv.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "cataloguedeslivr00veuv.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "cataloguedeslivr00veuv.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "cataloguedeslivr00veuv.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "cataloguedeslivr00veuv.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "cataloguedeslivr00veuv.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

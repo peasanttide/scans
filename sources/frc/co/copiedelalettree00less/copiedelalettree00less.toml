@@ -1,0 +1,84 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "copiedelalettree00less"
+type = "pamphlet"
+title = "Copie de la lettre écrite par M. Delessart, ministre des finances, à MM. du directoire & procureur-général-syndic du département du Rhône & Loire : Paris, le premier mars 1791"
+language = "fr"
+place = "France"
+date = "1791"
+note = "Not in Martin & Walter. Révolution française. Corrects an erratum in the law of 25 December 1790, regarding crimes commited in forests. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/copiedelalettree00less"
+subject = [
+    "Promulgation (Law)",
+    "Mistake (Law)",
+    "Rural crimes",
+]
+extent = "[1] p. ; 25 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 26904"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t80k7hg4x"
+internet_archive = "copiedelalettree00less"
+openlibrary_edition = "OL26226899M"
+openlibrary_work = "OL17622126W"
+
+[scan]
+file = "copiedelalettree00less.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/copiedelalettree00less"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Lessart, Claude-Antoine Valdec de,1741 or 1742-1792"
+role = "author"
+
+[[resp]]
+name = "Lessart, Claude-Antoine Valdec de, 1741 or 1742-1792"
+role = "author"
+
+[[resp]]
+name = "Rhône-et-Loire (France). Directoire"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_866651"
+
+[[text]]
+file = "copiedelalettree00less.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "copiedelalettree00less.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "copiedelalettree00less.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "copiedelalettree00less.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

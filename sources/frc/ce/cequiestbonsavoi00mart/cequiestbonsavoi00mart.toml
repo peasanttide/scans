@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "cequiestbonsavoi00mart"
+type = "pamphlet"
+title = "Ce qui est bon a savoir, ou, Réponses des concessionnaires du Forez, aux objections contenues dans les divers mémoires de quelques propriétaires de cette ci-devant province."
+language = "fr"
+place = "France?"
+date = "1789"
+note = """Caption title. Signed: Martel. Imprint from colophon. "Au mois de juillet 1789, les concessionnaires des mines de Roche-la-Molière commençoient à jouir..."--P. 4. Not in Martin & Walter. Révolution française. BN. Bibliography: BN,  CVII, column 872. Scanner's note: Title page and cover are combined. Damaged, stained, marked and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/cequiestbonsavoi00mart"
+subject = [
+    "Coal mines and mining",
+    "Mines and mineral resources",
+]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 22102"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9770r71k"
+internet_archive = "cequiestbonsavoi00mart"
+openlibrary_edition = "OL26240594M"
+openlibrary_work = "OL17635117W"
+
+[scan]
+file = "cequiestbonsavoi00mart.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/cequiestbonsavoi00mart"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Martel"
+role = "author"
+
+[[resp]]
+name = "Chaignieau, François, 1757-1832"
+role = "publisher"
+
+[[resp]]
+name = "De l'imprimerie des frères Chaignieau, rue & aux petites ecuries de Chartres"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_845833"
+
+[[text]]
+file = "cequiestbonsavoi00mart.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "cequiestbonsavoi00mart.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "cequiestbonsavoi00mart.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "cequiestbonsavoi00mart.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

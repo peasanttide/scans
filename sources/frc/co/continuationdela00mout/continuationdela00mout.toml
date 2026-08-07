@@ -1,0 +1,78 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "continuationdela00mout"
+type = "pamphlet"
+title = "Continuation de la Description des arts"
+language = "fr"
+place = "Paris?"
+date = "1780"
+note = """Prospectus for "Description des arts et métiers", issued by the Académie royal des sciences, 1761-1789. Caption title. "Le sieur Moutard continuera de vendre les Arts séparés, de manière que chaque artiste pourra acquérir la description particuliere de l'art qui le concerne"--P. [2]. "Les personnes qui voudront acquérir la collection entiere, portée actuellement à 86 cahiers, auront une remise de moitié, & l'acquisition pourra même se faire en trois payements égaux ... Il sera libre à ceux qui voudront payer à la fois 640 liv. de retirer leur collection entiere"--P. [2]. "Ordre que l'on peut observer pour relier la collection des Arts et métiers, & qui est le même que celui qu'on a suivi pour l'exemplaire de l'Académie royale des sciences": p. [3]-[4]. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Title page and cover are combined."""
+url = "https://archive.org/details/continuationdela00mout"
+subject = [
+    "Description des arts et métiers",
+    "Booksellers and bookselling",
+    "Technical publishing",
+    "Art literature",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1a no. 116"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6742fz4m"
+internet_archive = "continuationdela00mout"
+
+[scan]
+file = "continuationdela00mout.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/continuationdela00mout"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Moutard, Nicolas-Léger,b. 1742?"
+role = "author"
+
+[[resp]]
+name = "Moutard, Nicolas-Léger, b. 1742?"
+role = "author"
+
+[[resp]]
+name = "Académie royale des sciences (France)"
+role = "author"
+
+[[resp]]
+name = "Nicolas-Léger Moutard?"
+role = "publisher"
+
+[[text]]
+file = "continuationdela00mout.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "continuationdela00mout.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "continuationdela00mout.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "continuationdela00mout.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

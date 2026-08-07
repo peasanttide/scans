@@ -1,0 +1,55 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_5188"
+type = "pamphlet"
+title = "Assemblée des trois ordres de la ville de Lyon : tenue en la grande salle de l'Hôtel commun de ladite ville ; présidée par messieurs les prévôts des marchands & echevins de la ville, y commandant ; à laquelle ont assisté un très-grand nombre de citoyens de tout état"
+date = "1789"
+url = "https://archive.org/details/case_frc_5188"
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+shelfmark = "Case FRC 5188"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5gb7hv01"
+internet_archive = "case_frc_5188"
+
+[scan]
+file = "case_frc_5188.pdf"
+count = 5
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_5188"
+
+[[resp]]
+name = "Lyon (France)"
+role = "author"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_56068"
+
+[[text]]
+file = "case_frc_5188.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_5188.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_5188.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_5188.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

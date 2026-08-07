@@ -1,0 +1,46 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_1179"
+type = "pamphlet"
+title = "Aux Gardes nationales de Paris"
+date = "1790"
+url = "https://archive.org/details/case_frc_1179"
+subject = ["Revolution (France : 1789-1799)"]
+extent = "[2] p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+shelfmark = "Case FRC 1179"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4sj6x000"
+internet_archive = "case_frc_1179"
+
+[scan]
+file = "case_frc_1179.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_1179"
+
+[[resp]]
+name = "Frère d'un garde national de Metz tué à Nancy"
+role = "author"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_41448"
+
+[[text]]
+file = "case_frc_1179.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_1179.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

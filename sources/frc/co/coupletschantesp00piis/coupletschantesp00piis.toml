@@ -1,0 +1,70 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "coupletschantesp00piis"
+type = "pamphlet"
+title = "Couplets chantés par M. Piis, au club national du Palais-Royal, sur la fédération qui aura lieu le 14 juillet."
+language = "fr"
+place = "Paris"
+date = "1790"
+note = """Caption title. Imprint from colophon. "Sur l'air, On doit soixante mille francs"---P. [1]. Place and date of publication from Martin & Walter. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  III, 27378. Scanner's note: Title page and cover are combined. Damaged, stained, marked and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/coupletschantesp00piis"
+subject = ["Bastille Day"]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 23765"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7wm6k79s"
+internet_archive = "coupletschantesp00piis"
+
+[scan]
+file = "coupletschantesp00piis.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/coupletschantesp00piis"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Piis, Pierre-Antoine-Augustin de, 1755-1832"
+role = "author"
+
+[[resp]]
+name = "Quai des Augustins no. 41"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_848562"
+
+[[text]]
+file = "coupletschantesp00piis.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "coupletschantesp00piis.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "coupletschantesp00piis.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "coupletschantesp00piis.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

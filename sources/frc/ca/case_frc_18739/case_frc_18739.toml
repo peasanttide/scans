@@ -1,0 +1,68 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_18739"
+type = "pamphlet"
+title = "La clémence de Louis XVI"
+place = "Paris"
+date = "1789"
+note = 'Date given by the catalogue as "1789?".'
+url = "https://archive.org/details/case_frc_18739"
+subject = [
+    "Louis XVI, King of France, 1754-1793",
+    "Necker, Jacques, 1732-1804",
+    "Political science",
+    "Revolution (France : 1789-1799)",
+]
+extent = "3 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 18739"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1wd8ws3t"
+internet_archive = "case_frc_18739"
+
+[scan]
+file = "case_frc_18739.pdf"
+count = 5
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_18739"
+
+[[resp]]
+name = "Fraissinet"
+role = "author"
+
+[[resp]]
+name = "De l’Imprimerie de Cailleau, rue Galande, No. 64"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=839529"
+
+[[text]]
+file = "case_frc_18739.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_18739.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_18739.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_18739.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

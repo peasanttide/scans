@@ -1,0 +1,41 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: copiedelalettree00clav
+page: 1
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 2823
+h: 3773
+dpi: 350
+---
+
+Copie de la lettre écrite par le Ministre des Con-
+tributions publiques au Directoire du Dépar-
+tement de Mayenne et Loire.
+
+Paris , il juin 1792 , l’an 4 e * < 1 ® U Liberté*.'
+
+J Ai reçu , Messieurs , la lettre que vous m’avez fait
+l’ honneur de né écrire le 4 de ce mois , par laquelle vous
+demandez , si les cautioiinements que sont tenus de fournir
+les adjudicataires de la perception des Contributions fon-
+cière , nobiliaire et des Patentes , doivent être passés devant
+notaires , et s'ils sont sujets à l’ enregistre me n t.
+
+Il n’y a pas de nécessité de passer ces cautionnements
+devant notaires ; ds peuvent être reçus parle Conseil de la
+Commune -, à l’égard de leur assujettissejnent au droit
+d’ êjiregistrement ? V article deux de la premi ire section de
+la première classe du Tarif , porte formellement que les
+cautionnements des Trésoriers , Receveurs et Commis , pour
+sûreté des deniers qui leur sont confiés , seront sujets au
+droit de j sols par too livres-, cependant sur les récla-
+mations qui ont eu lieu contre la perception de ce droit ,
+sur les cautionnements des adjudicataires de la perc< ptlon
+de la Contribution foncière ? mobdiade et des Patentes
+dans chaque Municipalité , Mr. Tarbé a cru devoir
+soumettre cette question à l’ Assemblée Nationale 5 je la
+
+THE NEWBERRY
+
+U&RARY

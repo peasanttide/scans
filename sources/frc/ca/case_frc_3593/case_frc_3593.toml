@@ -1,0 +1,52 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_3593"
+type = "pamphlet"
+title = "Du samedi 6 décembre 1788"
+date = "1788"
+url = "https://archive.org/details/case_frc_3593"
+subject = ["Taxation"]
+extent = "2 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+shelfmark = "Case FRC 3593"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3tv0200h"
+internet_archive = "case_frc_3593"
+
+[scan]
+file = "case_frc_3593.pdf"
+count = 5
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_3593"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_50904"
+
+[[text]]
+file = "case_frc_3593.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_3593.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_3593.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_3593.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

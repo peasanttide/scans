@@ -1,0 +1,56 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_oversize_frc_10458_no_14"
+type = "pamphlet"
+title = "Jugement rendu par la Commission militaire, seante a Bordeaux, qui acquitte Antoine Gardissan, scieur de bois, natif de Montaignaget, district de Saint-Flour, y demeurant, Pierre Douhet, porte-faix, natif et domicilie de Grissol, Pierre Portefaix porte-faix de son metier, natif du Moulin-Saint-Michel, commune de Saint-Georges, Denis Colas, fils aine, marchand de fer, natif et domicilie de Bordeaux, François Fontenille, marchand graisseux, natif de Sardos, domicilie A Bordeaux : du 26 prairial, l'an second de la Republique française, une et indivisible"
+language = "fr"
+place = "A Bordeaux"
+date = "1794"
+url = "https://archive.org/details/case_oversize_frc_10458_no_14"
+subject = [
+    "Trials, litigation, etc.",
+    "Girondists",
+    "Letal status, laws, etc.",
+    "Political crimes and offenses",
+    "Public opinion",
+]
+extent = "1 sheet ; 52 x 43 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "Newberry Library"
+shelfmark = "Case oversize FRC 10458 no. 14"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8tb5sn0t"
+internet_archive = "case_oversize_frc_10458_no_14"
+
+[scan]
+file = "case_oversize_frc_10458_no_14.pdf"
+count = 2
+by = "Internet Archive"
+url = "https://archive.org/details/case_oversize_frc_10458_no_14"
+note = "Scanned on Internet Archive Python library 0.9.2."
+
+[[resp]]
+name = "France. Commission militaire (Bordeaux)"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Silva Lafforest, imprimeur de la Commission militaire, place Gemmappe, no. 41"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_853823"
+
+[[text]]
+file = "case_oversize_frc_10458_no_14.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

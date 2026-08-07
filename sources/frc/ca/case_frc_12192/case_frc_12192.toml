@@ -1,0 +1,56 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_12192"
+type = "pamphlet"
+title = "Compte rendu par le représentant du peuple Laurence, des frais de sa mission dans les départemens de la Haute-Garonne, du Gers & du Tarn."
+place = "Paris"
+date = "1795"
+url = "https://archive.org/details/case_frc_12192"
+subject = [
+    "Finance, Public",
+    "France. Convention nationale",
+    "Expenditures, Public",
+]
+extent = "2 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 12192"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0sr3nw81"
+internet_archive = "case_frc_12192"
+
+[scan]
+file = "case_frc_12192.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_12192"
+
+[[resp]]
+name = "Laurence, André-François, 1762-1823"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_825811"
+
+[[text]]
+file = "case_frc_12192.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_12192.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

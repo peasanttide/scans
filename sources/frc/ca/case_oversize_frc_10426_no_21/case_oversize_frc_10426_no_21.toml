@@ -1,0 +1,58 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_oversize_frc_10426_no_21"
+type = "pamphlet"
+title = "Decret de la Convention nationale, du 23 juillet 1793, l'an second de la Republique françoise, relatif A une nouvelle organisation du Tribunal extraordinaire & revolutionnaire"
+language = "fr"
+place = "A Aix"
+date = "1793"
+url = "https://archive.org/details/case_oversize_frc_10426_no_21"
+subject = [
+    "Court administration",
+    "France. Tribunal révolutionnaire",
+    "Privileges and immunities",
+]
+extent = "1 sheet ; 40 x 30 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "Newberry Library"
+shelfmark = "Case oversize FRC 10426 no. 21"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1wd8jb3v"
+internet_archive = "case_oversize_frc_10426_no_21"
+
+[scan]
+file = "case_oversize_frc_10426_no_21.pdf"
+count = 2
+by = "Internet Archive"
+url = "https://archive.org/details/case_oversize_frc_10426_no_21"
+note = "Scanned on Internet Archive Python library 0.9.2."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale. Comité de sûreté générale; France.Convention nationale. Comité militaire"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de la veuve d'Andre Adibert, imprimeur du departement"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_852684"
+
+[[text]]
+file = "case_oversize_frc_10426_no_21.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

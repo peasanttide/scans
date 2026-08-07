@@ -1,0 +1,42 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: case_oversize_frc_27578
+page: 1
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 2850
+h: 3600
+dpi: 300
+---
+
+Foc- i.
+
+DEPARTEMENT
+
+; j
+
+DE PARIS.
+
+CONVOCATION
+
+DES ÉLECTEURS DU DÉPARTEMENT.
+
+1 ■ ■■■—— fl
+
+Le Procureur-Général-Syndic convoque les Eledeurs du
+Département de Paris au Bourg de l'Egalité , dans l’Eglife
+Paroiffiale, pour le 1 1 du préfent mois de Novembre, dix
+heures du matin > à l’effet de procéder , aux termes de
+l’article IX du Décret du 19 Odobre 1792, relatif au re-
+nouvellement des Corps adminiftratifs & judiciaires , à l’Élec-
+tion des Préfident, Acculateur public & Greffier du Tribunal
+criminel du Département de Paris.
+
+A Paris le 7 Novembre / 792 , l an premier de la République
+Francaife.
+
+BERTHELOT.
+
+r }
+
+De lTraprirtierie de B^ALLA'RD,’ Imprimeur du Département de Parti, rue des Mathurins.

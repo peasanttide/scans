@@ -1,0 +1,54 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_0913"
+type = "pamphlet"
+title = "Projet de décret concernant les fournitures, vivres et fourrages de l'Armée : fondé sur l'économie de l'administration, l'assurance de la facilité des approvisionnemens, l'avantage public et particulier des départemens, la clarté de la comptabilité, l'intérêt de l'Armée & le bien général de la nation"
+place = "A Paris"
+date = "1791"
+url = "https://archive.org/details/case_frc_0913"
+subject = [
+    "Armed Forces--Supplies and stores",
+    "Revolution (France : 1789-1799)",
+]
+extent = "2 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+shelfmark = "Case FRC 913"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2z377r6c"
+internet_archive = "case_frc_0913"
+
+[scan]
+file = "case_frc_0913.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_0913"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_39233"
+
+[[text]]
+file = "case_frc_0913.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_0913.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

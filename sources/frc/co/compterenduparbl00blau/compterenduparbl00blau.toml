@@ -1,0 +1,60 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "compterenduparbl00blau"
+type = "pamphlet"
+title = "Compte rendu par Blaux, représentant du peuple, des dépenses qu'il a faites dans sa mission dans le département de la Somme."
+language = "fr"
+date = "1795"
+note = "Caption title. At head of title: Convention nationale, liber. égal. Imprint from colophon. Personal expense report. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,I, 3567."
+url = "https://archive.org/details/compterenduparbl00blau"
+subject = [
+    "France. Convention nationale",
+    "Finance, Public",
+]
+extent = "[1] p. ;20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "CaseFRC10821"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9r24099p"
+internet_archive = "compterenduparbl00blau"
+
+[scan]
+file = "compterenduparbl00blau.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/compterenduparbl00blau"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Blaux, Nicolas-François,b. 1731"
+role = "author"
+
+[[resp]]
+name = "[Paris] :De l'Imprimerie nationale,"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_823762"
+
+[[text]]
+file = "compterenduparbl00blau.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "compterenduparbl00blau.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"

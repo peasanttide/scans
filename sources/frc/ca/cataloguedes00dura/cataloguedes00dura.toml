@@ -1,0 +1,84 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "cataloguedes00dura"
+type = "pamphlet"
+title = "[Catalogue des livres]"
+language = "fr"
+place = "Paris?"
+date = "1756"
+note = """Newberry's copy signed at end in ms.: Durand. Printed at head of text: A Paris le [blank] 1756; date on Newberry's copy completed in ms.: 6 8bre. Printed in double columns. Includes "nouveautés" and books printed or acquired 1754-1756. With prices. Contemporary ms. annotations. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. No pagination. Text extends off of the edge of the page. Title page and cover are combined."""
+url = "https://archive.org/details/cataloguedes00dura"
+subject = [
+    "Durand, Laurent, 1712?-1763",
+    "Etrennes mignones, curieuses et utiles",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 4 no. 45"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t48q1q17h"
+internet_archive = "cataloguedes00dura"
+
+[scan]
+file = "cataloguedes00dura.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/cataloguedes00dura"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Durand, Laurent,1712?-1763"
+role = "author"
+
+[[resp]]
+name = "Durand, Laurent, 1712?-1763"
+role = "author"
+
+[[resp]]
+name = "Laurent Durand?"
+role = "publisher"
+
+[[text]]
+file = "cataloguedes00dura.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "cataloguedes00dura.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "cataloguedes00dura.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "cataloguedes00dura.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "cataloguedes00dura.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "cataloguedes00dura.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

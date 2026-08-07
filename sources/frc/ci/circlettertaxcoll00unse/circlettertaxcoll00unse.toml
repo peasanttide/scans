@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "circlettertaxcoll00unse"
+type = "pamphlet"
+title = "[Circular letter on tax collection in Basse-Normandie]"
+language = "fr"
+place = "France"
+date = "1790"
+note = """Signed: Les députés composant la commission-intermédiaire provinciale de Basse-Normandie .. At head of text: Caen, 12 mars 1790. Text begins: La rentrée, Messieurs, & le recouvrement des impositions de 1790, importent tellement au bonheur de la nation, qu vous regarderez certainement l'opération de la confection des rôles .. "La commission-intermédiaire, à MM. les officiers municipaux d [blank]"--Bottom of p. [1]. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages. No page numbers."""
+url = "https://archive.org/details/circlettertaxcoll00unse"
+subject = [
+    "Tax collection",
+    "Fiscal policy",
+]
+extent = "[3] p. ; 24 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10021 no. 4"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8nd12x5r"
+internet_archive = "circlettertaxcoll00unse"
+openlibrary_edition = "OL26222838M"
+openlibrary_work = "OL17618310W"
+
+[scan]
+file = "circlettertaxcoll00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/circlettertaxcoll00unse"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Basse-Normandie (France). Commission intermédiaire-provinciale"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_854863"
+
+[[text]]
+file = "circlettertaxcoll00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "circlettertaxcoll00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "circlettertaxcoll00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "circlettertaxcoll00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

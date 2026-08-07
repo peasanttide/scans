@@ -1,0 +1,67 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_11665"
+type = "pamphlet"
+title = "Compte rendu en exécution du décret du 21 nivôse an III de la République"
+place = "Paris"
+date = "1795"
+url = "https://archive.org/details/case_frc_11665"
+subject = [
+    "France. Convention nationale",
+    "Appropriations and expenditures",
+    "Finance, Public",
+    "Revolution (France : 1789-1799)",
+]
+extent = "3 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 11665"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8ff8jz2p"
+internet_archive = "case_frc_11665"
+
+[scan]
+file = "case_frc_11665.pdf"
+count = 5
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_11665"
+
+[[resp]]
+name = "Faure, Balthazar, 1746-1805"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_824825"
+
+[[text]]
+file = "case_frc_11665.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_11665.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_11665.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_11665.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "coupletsextraits00lema"
+type = "pamphlet"
+title = "Couplets extraits du cahier de la fête."
+language = "fr"
+place = "Paris"
+note = """Caption title. Signed: Lemaire. Imprint from colophon. "L'epoux de l'institutrice lui adressera ces couplets pour terminer la fête donnée par les enfans. Air: Tandis que tout sommeille"--P. [1]. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/coupletsextraits00lema"
+subject = [
+    "Teachers",
+    "Education",
+    "Festivals",
+]
+extent = "4 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 21143"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6b333q1v"
+internet_archive = "coupletsextraits00lema"
+openlibrary_edition = "OL26238531M"
+openlibrary_work = "OL17633065W"
+
+[scan]
+file = "coupletsextraits00lema.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/coupletsextraits00lema"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Le Maire, Ant.-Franç. (Antoine-François), 1758-"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Debarle, quai des Augustins, no. 17"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_844180"
+
+[[text]]
+file = "coupletsextraits00lema.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "coupletsextraits00lema.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "coupletsextraits00lema.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "coupletsextraits00lema.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

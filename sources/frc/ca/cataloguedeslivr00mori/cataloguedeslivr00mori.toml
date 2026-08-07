@@ -1,0 +1,57 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "cataloguedeslivr00mori"
+type = "pamphlet"
+title = "Catalogue des livres à vendre au rabais, jusqu'au 30 frimaire inclusiv., à Paris, chez Morin, libraire & commissionnaire, rue Christine, no. 12"
+language = "fr"
+place = "Paris"
+date = "1795"
+note = "Caption title. Publication date based on the use of a date from the French Republican Calendar, in use beginning in 1793, and a reference to assignats, paper money that was in general circulation 1789-1796. With prices. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Title page and cover are combined."
+url = "https://archive.org/details/cataloguedeslivr00mori"
+subject = ["Morin, J.-F. , -1799?"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 11 no. 27"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0ps3dd69"
+internet_archive = "cataloguedeslivr00mori"
+
+[scan]
+file = "cataloguedeslivr00mori.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/cataloguedeslivr00mori"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Morin, J.-F. ,-1799?"
+role = "author"
+
+[[resp]]
+name = "Morin, J.-F. , -1799?"
+role = "author"
+
+[[resp]]
+name = "Morin"
+role = "publisher"
+
+[[text]]
+file = "cataloguedeslivr00mori.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "cataloguedeslivr00mori.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

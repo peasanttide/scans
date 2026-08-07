@@ -1,0 +1,48 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "chansondunjoyeux00unse"
+type = "pamphlet"
+title = "Chanson d'un joyeux grivois, à l'endroit de la prise de Menin"
+language = "fr"
+place = "Paris"
+date = "1744"
+note = "Binder's title: Conquest du roy. Caption title. Inlaid. Scanner's note: No copyright page found. No table-of-contents pages found. Title and cover pages combined."
+url = "https://archive.org/details/chansondunjoyeux00unse"
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "E 5 .L92705 v. 07 no. 18"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t00066b1h"
+internet_archive = "chansondunjoyeux00unse"
+
+[scan]
+file = "chansondunjoyeux00unse.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/chansondunjoyeux00unse"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Gonichon"
+role = "publisher"
+
+[[text]]
+file = "chansondunjoyeux00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "chansondunjoyeux00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

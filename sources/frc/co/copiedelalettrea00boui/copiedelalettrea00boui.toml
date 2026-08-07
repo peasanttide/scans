@@ -1,0 +1,71 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "copiedelalettrea00boui"
+type = "pamphlet"
+title = "Copie de la lettre adressée par M. de Bouillé, à M. de Noue"
+language = "fr"
+place = "France?"
+date = "1790"
+note = "Caption title. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover. No page numbers."
+url = "https://archive.org/details/copiedelalettrea00boui"
+subject = [
+    "France. Armée. Garde nationale",
+    "Insurgency",
+]
+extent = "[1] p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 26533"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4rj9kz64"
+internet_archive = "copiedelalettrea00boui"
+openlibrary_edition = "OL26228455M"
+openlibrary_work = "OL17623523W"
+
+[scan]
+file = "copiedelalettrea00boui.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/copiedelalettrea00boui"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Bouillé, François-Claude-Amour, marquis de,1739-1800"
+role = "author"
+
+[[resp]]
+name = "Bouillé, François-Claude-Amour, marquis de, 1739-1800"
+role = "author"
+
+[[resp]]
+name = "Nouë, M. de"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_862648"
+
+[[text]]
+file = "copiedelalettrea00boui.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "copiedelalettrea00boui.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,35 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: case_frc_5574
+page: 1
+engine: ABBYY FineReader 11.0
+w: 2315
+h: 3600
+dpi: 300
+---
+
+F/2. C
+riT7y
+
+LES MONARCHISTES A L’AGONIE,
+
+o u
+
+VERS
+
+ADRESSÉS
+
+AU ROI,
+
+SUR SA CONVALESCENCE, -
+Par Us Députés de la Nation Française ,
+
+Et présentés hier pir M. de Mirabeau*
+
+A PARIS,
+
+De l’Imprimerie N A t i o n i. E
+
+s *
+
+Mé- U/ |o|1J

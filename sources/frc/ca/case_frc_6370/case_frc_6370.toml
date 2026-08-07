@@ -1,0 +1,45 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_6370"
+type = "pamphlet"
+title = "Arrêté"
+date = "1787"
+url = "https://archive.org/details/case_frc_6370"
+extent = "2 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+shelfmark = "Case FRC 6370"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6n06k686"
+internet_archive = "case_frc_6370"
+
+[scan]
+file = "case_frc_6370.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_6370"
+
+[[resp]]
+name = "France. Parlement (Paris)"
+role = "author"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_59477"
+
+[[text]]
+file = "case_frc_6370.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_6370.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "compterendulacon00bara"
+type = "pamphlet"
+title = "Compte rendu à la Convention et à la nation, en exécution du décret du 21 nivôse de l'an III, par Jean-François Barailon, représentant du peuple, député par le département de la Creuse, envoyé en mission dans dix-sept départements, par décret du 21 germinal an III, pour l'établissement des écoles primaires, des écoles centrales, & pour assurer l'exécution des lois relatives à l'instruction publique."
+language = "fr"
+date = "1795"
+note = "Caption title. At head of title: Convention nationale. Imprint from colophon. Personal expense report. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,I, 1362. Scanner's note: Title found on front cover. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/compterendulacon00bara"
+subject = [
+    "France. Convention nationale",
+    "Finance, Public",
+]
+extent = "3 p. ;20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "CaseFRC10620"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9r240948"
+internet_archive = "compterendulacon00bara"
+
+[scan]
+file = "compterendulacon00bara.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/compterendulacon00bara"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Barailon, Jean-François,1743-1816"
+role = "author"
+
+[[resp]]
+name = "A Paris :De l'Imprimerie nationale,"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_823660"
+
+[[text]]
+file = "compterendulacon00bara.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "compterendulacon00bara.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "compterendulacon00bara.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "compterendulacon00bara.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"

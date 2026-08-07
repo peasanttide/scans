@@ -1,0 +1,54 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_2287"
+type = "pamphlet"
+title = "Décret"
+place = "A Paris"
+date = "1793"
+url = "https://archive.org/details/case_frc_2287"
+subject = [
+    "Promulgation (Law)",
+    "Revolution (France : 1789-1799)",
+]
+extent = "2 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+shelfmark = "Case FRC 2287"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t07x1t63q"
+internet_archive = "case_frc_2287"
+
+[scan]
+file = "case_frc_2287.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_2287"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale exécutive du Louvre"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_43866"
+
+[[text]]
+file = "case_frc_2287.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_2287.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

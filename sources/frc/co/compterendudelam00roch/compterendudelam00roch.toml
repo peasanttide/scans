@@ -1,0 +1,91 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "compterendudelam00roch"
+type = "pamphlet"
+title = "Compte rendu de la mission des représentans du peuple Rochegude, Defermon & C.A. Prieur (de la Côte d'Or), chargés de parcourir les côtes maritimes depuis l'Orient jusqu'à Dunkerque, en vertu des décrets des 13 & 22 janvier 1793 : imprimé en exécution du décret du 21 nivose, an 3."
+language = "fr"
+place = "Paris"
+date = "1795"
+note = "Caption title. At head of title: Convention nationale. Imprint from colophon. Martin & Walter. Révolution française. Personal expense report. Bibliography: Martin & Walter.  Révolution française,  IV:1, 29583. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover."
+url = "https://archive.org/details/compterendudelam00roch"
+subject = [
+    "France. Convention nationale",
+    "Finance, Public",
+]
+extent = "4 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 13052"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t86h99x84"
+internet_archive = "compterendudelam00roch"
+openlibrary_edition = "OL25931234M"
+openlibrary_work = "OL17353461W"
+
+[scan]
+file = "compterendudelam00roch.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/compterendudelam00roch"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Rochegude, Henri Pascal de, 1741-1834"
+role = "author"
+
+[[resp]]
+name = "Defermon, Jacques, comte, 1752-1831"
+role = "author"
+
+[[resp]]
+name = "Prieur-Duvernois, Claude Antoine, 1763-1832"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_827650"
+
+[[text]]
+file = "compterendudelam00roch.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "compterendudelam00roch.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "compterendudelam00roch.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "compterendudelam00roch.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,64 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_2214"
+type = "pamphlet"
+title = "... Arrêté"
+place = "À Paris"
+date = "1795"
+url = "https://archive.org/details/case_frc_2214"
+subject = [
+    "Starch industry",
+    "Revolution (France : 1789-1799)",
+]
+extent = "2 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+shelfmark = "Case FRC 2214"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7np7h087"
+internet_archive = "case_frc_2214"
+
+[scan]
+file = "case_frc_2214.pdf"
+count = 5
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_2214"
+
+[[resp]]
+name = "France. Convention nationale. Comité de salut public"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_42987"
+
+[[text]]
+file = "case_frc_2214.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_2214.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_2214.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_2214.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

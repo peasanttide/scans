@@ -1,0 +1,59 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_12319"
+type = "pamphlet"
+title = "Compte rendu par S.P. Lejeune, des dépenses qu'il a faites pendant sa mission dans les départemens de la Vienne & de l'Indre."
+place = "Paris"
+date = "1795"
+url = "https://archive.org/details/case_frc_12319"
+subject = [
+    "Finance, Public",
+    "France. Convention nationale",
+    "Expenditures, Public",
+    "History",
+    "Revolution (France : 1789-1799)",
+    "Economics",
+]
+extent = "2 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 12319"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5z659s0v"
+internet_archive = "case_frc_12319"
+
+[scan]
+file = "case_frc_12319.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_12319"
+
+[[resp]]
+name = "Lejeune, S. P. (Silvain Phalier), 1758-1827"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_827046"
+
+[[text]]
+file = "case_frc_12319.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_12319.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

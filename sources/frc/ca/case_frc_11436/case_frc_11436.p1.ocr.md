@@ -1,0 +1,43 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: case_frc_11436
+page: 1
+engine: ABBYY FineReader 11.0
+w: 2217
+h: 3600
+dpi: 300
+---
+
+r .aiws...* 1 . '■*■' f" '-- 1 - J ’~ r
+
+CORPS LÉGISLATIF.
+
+CONSEIL DES CINQ - CEN 1 S.
+
+===== f£C
+
+1 //Y3G-
+
+addition
+
+Au projet de résolution présenté par TreiUiard ,
+la question intentionnelle ,
+
+sur
+
+PROPOSÉE
+
+Par D E S M O L I N.
+
+s <•
+
+Séance du 20 Vendémiaire an
+
+A B. T.
+
+laf-îvp^ à la moralité üU' îan , ci ’
+
+na ure du délit, soit du débal. Le tribunal sera ten
+d’y déübéver sur-le-champ ; et s’il rejette la questro
+
+Lî-RÀKÏ ,

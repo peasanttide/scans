@@ -1,0 +1,55 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_14383"
+type = "pamphlet"
+title = "Organisation du pouvoir judiciaire : vue sommaire des différences les plus remarquables entre le projet du Comité & le projet anglois dont l'auteur, Mr. Bentham, a fait hommage à l'Assemblée nationale ; son plan est accompangé de toutes ses preuves, & d'une critique détaillée de l'ouvrage du Comité."
+date = "1790"
+url = "https://archive.org/details/case_frc_14383"
+subject = [
+    "Justice, Administration of",
+    "Courts",
+    "Dummies (Bookselling)",
+]
+extent = "2 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 14383"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8bg7g899"
+internet_archive = "case_frc_14383"
+
+[scan]
+file = "case_frc_14383.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_14383"
+
+[[resp]]
+name = "Bentham, Jeremy, 1748-1832"
+role = "author"
+
+[[resp]]
+name = "France"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_829835"
+
+[[text]]
+file = "case_frc_14383.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_14383.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

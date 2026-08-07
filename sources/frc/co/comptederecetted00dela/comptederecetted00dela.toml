@@ -1,0 +1,83 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "comptederecetted00dela"
+type = "pamphlet"
+title = "Compte de recette & dépenses de la mission que j'ai remplie dans les départemens des Ardennes & de la Meuse depuis le 28 thermidor, an II, jusqu'au 4 frimaire suivant, & dans le département de Seine & Oise depuis le 26 frimaire jusqu'au 20 germinal, an III."
+language = "fr"
+place = "Paris"
+date = "1795"
+note = "Caption title. At head of title: Convention nationale. Signed: Ch. Delacroix. Imprint from colophon. Not in Martin & Walter. Révolution française. Personal expense report. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged pages and cover."
+url = "https://archive.org/details/comptederecetted00dela"
+subject = [
+    "France. Convention nationale",
+    "Finance, Public",
+]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 17145"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5bc90d58"
+internet_archive = "comptederecetted00dela"
+openlibrary_edition = "OL26203733M"
+openlibrary_work = "OL17600171W"
+
+[scan]
+file = "comptederecetted00dela.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/comptederecetted00dela"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Delacroix de Constant, Charles, 1741-1805"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_835473"
+
+[[text]]
+file = "comptederecetted00dela.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "comptederecetted00dela.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "comptederecetted00dela.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "comptederecetted00dela.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

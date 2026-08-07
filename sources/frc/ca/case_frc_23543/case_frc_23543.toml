@@ -1,0 +1,74 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_23543"
+type = "pamphlet"
+title = "Conseils patriotiques"
+language = "fr"
+place = "A Paris"
+date = "1790"
+note = 'Date given by the catalogue as "1790-1799?".'
+url = "https://archive.org/details/case_frc_23543"
+subject = [
+    "Revolution (France : 1789-1799)",
+    "History",
+    "Contrafacta",
+    "Economics",
+]
+extent = "1 vocal score ([2] p.) ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 23543"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6546pc2t"
+internet_archive = "case_frc_23543"
+
+[scan]
+file = "case_frc_23543.pdf"
+count = 5
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_23543"
+note = "Scanned on Internet Archive Python library 0.9.2."
+
+[[resp]]
+name = "Rouget de Lisle, Claude Joseph, 1760-1836"
+role = "author"
+
+[[resp]]
+name = "Chez Imbault rue St Honoré no. 627"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "https://i-share.carli.illinois.edu/nby/nby/nby/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=848310"
+
+[[text]]
+file = "case_frc_23543.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "case_frc_23543.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "case_frc_23543.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "case_frc_23543.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

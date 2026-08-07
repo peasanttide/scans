@@ -1,0 +1,69 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "cataloguedeslivr00heri_1"
+type = "pamphlet"
+title = "Catalogue des livres du fonds de librairie de Herissant fils, libraire à Paris, rue des Fossés de M. le prince, vis-à-vis le petit hôtel de Condé"
+language = "fr"
+place = "Paris"
+date = "1771"
+note = """Caption title. Dated, p. [1]: 1771. Binding prices, p. [1]. Two variants noted, one in which the section"Livres sous presse" appears on p. 3-4 and one in which this section appears entirely on p. 4. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text.  Title page and cover are combined."""
+url = "https://archive.org/details/cataloguedeslivr00heri_1"
+subject = ["Hérissant, Claude-Jean-Baptiste, 1719-1775"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 4 no. 59"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9286129k"
+internet_archive = "cataloguedeslivr00heri_1"
+
+[scan]
+file = "cataloguedeslivr00heri_1.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/cataloguedeslivr00heri_1"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Hérissant, Claude-Jean-Baptiste,1719-1775"
+role = "author"
+
+[[resp]]
+name = "Hérissant, Claude-Jean-Baptiste, 1719-1775"
+role = "author"
+
+[[resp]]
+name = "Herissant fils"
+role = "publisher"
+
+[[text]]
+file = "cataloguedeslivr00heri_1.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "cataloguedeslivr00heri_1.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "cataloguedeslivr00heri_1.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "cataloguedeslivr00heri_1.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

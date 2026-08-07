@@ -1,0 +1,99 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "coupdilsurlacond00duva"
+type = "pamphlet"
+title = "Coup-d'œil sur la conduite de Louis XVI /"
+language = "fr"
+place = "A Paris"
+date = "1792"
+note = """Caption title. At head of title: Convention nationale. Imprint from colophon. "Législation. No. 133"--Bottom of p. [1]. Martin & Walter. Révolution française. Includes bibliographical references. Bibliography: Martin & Walter.  Révolution française,  II, 12563. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, stained pages and cover. Title on cover page."""
+url = "https://archive.org/details/coupdilsurlacond00duva"
+subject = [
+    "Louis XVI, King of France, 1754-1793",
+    "First Coalition, War of the, 1792-1797",
+]
+extent = "6 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 18219"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6k122c2j"
+internet_archive = "coupdilsurlacond00duva"
+openlibrary_edition = "OL26196271M"
+openlibrary_work = "OL17593032W"
+
+[scan]
+file = "coupdilsurlacond00duva.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/coupdilsurlacond00duva"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Duval, Charles François Marie, 1750-1829"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "Louis XVI Trial and Execution Collection (Newberry Library) ICN"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_837814"
+
+[[text]]
+file = "coupdilsurlacond00duva.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "coupdilsurlacond00duva.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "coupdilsurlacond00duva.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "coupdilsurlacond00duva.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "coupdilsurlacond00duva.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "coupdilsurlacond00duva.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

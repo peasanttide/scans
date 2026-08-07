@@ -1,0 +1,60 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_oversize_frc_27584"
+type = "pamphlet"
+title = "Tableau de l'organisation sociale de la Republique française /"
+language = "fr"
+place = "Paris"
+date = "1799"
+url = "https://archive.org/details/case_oversize_frc_27584"
+subject = [
+    "Public administration",
+    "Political science",
+    "History",
+    "Confiscations",
+    "Examinations",
+]
+extent = "1 sheet ; 76 x 55 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "Newberry Library"
+shelfmark = "Case oversize FRC 27584"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1rg0dr7x"
+internet_archive = "case_oversize_frc_27584"
+
+[scan]
+file = "case_oversize_frc_27584.pdf"
+count = 2
+by = "Internet Archive"
+url = "https://archive.org/details/case_oversize_frc_27584"
+note = "Scanned on Internet Archive Python library 0.9.2."
+
+[[resp]]
+name = "Chabaud-Latour, Antoine-George-François, baron de, 1769-1832"
+role = "author"
+
+[[resp]]
+name = "France. Corps législatif (1795-1814). Conseil des cinq-cents. Commission des cinq-cents"
+role = "author"
+
+[[resp]]
+name = "Baudouin, imprimeur du Corps legislatif et de l'Institut national"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_868933"
+
+[[text]]
+file = "case_oversize_frc_27584.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

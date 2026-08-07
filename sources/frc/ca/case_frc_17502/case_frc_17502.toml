@@ -1,0 +1,52 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_17502"
+type = "pamphlet"
+title = "Extrait de la lettre écrite par le baron de Dietrich, maire de Strasbourg, à M. le prince de Broglie, député à l'Assemblée nationale, le 21 novembre 1790"
+place = "France"
+date = "1790"
+url = "https://archive.org/details/case_frc_17502"
+subject = ["Criminal justice, Administration of"]
+extent = "[2] p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 17502"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6q007q1r"
+internet_archive = "case_frc_17502"
+
+[scan]
+file = "case_frc_17502.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_17502"
+
+[[resp]]
+name = "Dietrich, Philippe-Frédéric, baron de, 1748-1793"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=836075"
+
+[[text]]
+file = "case_frc_17502.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_17502.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

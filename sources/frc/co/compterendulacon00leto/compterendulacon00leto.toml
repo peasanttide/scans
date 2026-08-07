@@ -1,0 +1,83 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "compterendulacon00leto"
+type = "pamphlet"
+title = "Compte rendu a la Convention nationale par le représentant du peuple Letourneur (de la Sarthe), des recettes et dépenses par lui faites dans ses deux missions à l'armée du Nord et dans les départemens de l'Orne, la Sarthe et la Mayenne."
+language = "fr"
+place = "Paris"
+date = "1795"
+note = "Caption title. At head of title: Convention nationale. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  III, 21319. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page."
+url = "https://archive.org/details/compterendulacon00leto"
+subject = [
+    "France. Convention nationale",
+    "Finance, Public",
+]
+extent = "4 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 12363"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t71w0618s"
+internet_archive = "compterendulacon00leto"
+openlibrary_edition = "OL25915552M"
+openlibrary_work = "OL17338850W"
+
+[scan]
+file = "compterendulacon00leto.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/compterendulacon00leto"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Letourneur, Emmanuel-Pierre, 1755-1830"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_827090"
+
+[[text]]
+file = "compterendulacon00leto.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "compterendulacon00leto.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "compterendulacon00leto.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "compterendulacon00leto.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

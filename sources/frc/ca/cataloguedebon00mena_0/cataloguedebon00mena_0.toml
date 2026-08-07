@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "cataloguedebon00mena_0"
+type = "pamphlet"
+title = "Catalogue de bons livres, qui se vendront jusqu'au 15 aout"
+language = "fr"
+place = "Paris"
+date = "1823"
+note = "Caption title. At head of title: Rabais. Imprint from colophon. Latest publication date of books listed: 1823. Printed in triple columns. Includes original and discounted prices. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Text extends off of the edge of the page. Text may be lost in the binding. Permanent creases may obscure some text. Title page and cover are combined."
+url = "https://archive.org/details/cataloguedebon00mena_0"
+subject = [
+    "Ménard et Desenne",
+    "Booksellers and bookselling",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 5 no. 13"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t43r6jm68"
+internet_archive = "cataloguedebon00mena_0"
+
+[scan]
+file = "cataloguedebon00mena_0.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/cataloguedebon00mena_0"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Ménard et Desenne"
+role = "author"
+
+[[resp]]
+name = "Constant-Chantpie, Jean-Baptiste, 1786-"
+role = "printer"
+
+[[resp]]
+name = "Imprimerie de Constant-Chantpie, rue Ste-Anne, no 20"
+role = "publisher"
+
+[[text]]
+file = "cataloguedebon00mena_0.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "cataloguedebon00mena_0.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "cataloguedebon00mena_0.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "cataloguedebon00mena_0.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

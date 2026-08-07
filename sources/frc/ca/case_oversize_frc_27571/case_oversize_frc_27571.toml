@@ -1,0 +1,62 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_oversize_frc_27571"
+type = "pamphlet"
+title = "Certificat de visite"
+language = "fr"
+date = "1796"
+note = 'Date given by the catalogue as "1796/1797".'
+url = "https://archive.org/details/case_oversize_frc_27571"
+subject = [
+    "Draft",
+    "Law",
+    "Military discharge",
+    "Health officers",
+    "France. Armee",
+    "Medicine",
+    "Examinations",
+]
+extent = "1 sheet ([1] p.) ; 31 x 19 cm"
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "Newberry Library"
+shelfmark = "Case oversize FRC 27571"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5z656m5s"
+internet_archive = "case_oversize_frc_27571"
+
+[scan]
+file = "case_oversize_frc_27571.pdf"
+count = 2
+by = "Internet Archive"
+url = "https://archive.org/details/case_oversize_frc_27571"
+note = "Scanned on Internet Archive Python library 0.9.2."
+
+[[resp]]
+name = "Gironde (France),"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale;  France. Directoire exécutif"
+role = "author"
+
+[[resp]]
+name = "Bordeaux?"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_871110"
+
+[[text]]
+file = "case_oversize_frc_27571.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

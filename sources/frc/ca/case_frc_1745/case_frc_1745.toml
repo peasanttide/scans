@@ -1,0 +1,64 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_1745"
+type = "pamphlet"
+title = "... Aux citoyens représentans du peuple, membre du Conseil des cinq-cents : du 20 floréal, an 7 de la République française, une et indivisible [9 mai 1799]"
+place = "A Paris"
+date = "1799"
+url = "https://archive.org/details/case_frc_1745"
+subject = [
+    "Assassination",
+    "Revolution (France : 1789-1799)",
+]
+extent = "2 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+shelfmark = "Case FRC 1745"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6q00n057"
+internet_archive = "case_frc_1745"
+
+[scan]
+file = "case_frc_1745.pdf"
+count = 5
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_1745"
+
+[[resp]]
+name = "Châtillon-sur-Loing (France)"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_45494"
+
+[[text]]
+file = "case_frc_1745.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_1745.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_1745.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_1745.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

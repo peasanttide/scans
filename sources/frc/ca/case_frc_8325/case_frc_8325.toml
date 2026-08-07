@@ -1,0 +1,54 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_8325"
+type = "pamphlet"
+title = "La Société des amis de la constitution, séante aux Jacobins, a Paris : aux sociétés affiliées ; Paris, ce 4 juin 1792, l'an 4 de la liberté"
+place = "Paris"
+date = "1792"
+url = "https://archive.org/details/case_frc_8325"
+subject = [
+    "Jacobins",
+    "Political clubs",
+]
+extent = "2 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+shelfmark = "Case FRC 8325"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8md4c126"
+internet_archive = "case_frc_8325"
+
+[scan]
+file = "case_frc_8325.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_8325"
+
+[[resp]]
+name = "Club des Jacobins"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie du Patriote patriotique"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_7053"
+
+[[text]]
+file = "case_frc_8325.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_8325.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

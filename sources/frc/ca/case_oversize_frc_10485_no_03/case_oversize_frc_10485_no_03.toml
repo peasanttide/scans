@@ -1,0 +1,67 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_oversize_frc_10485_no_03"
+type = "pamphlet"
+title = "Le ministre de la guerre, aux commissaires du Directoire executif près les administrations departementales et munciipales, ainsi qu'aux agens militaires charges par le gouvernement de faire executer la loi du 4 frimaire"
+language = "fr"
+date = "1796"
+url = "https://archive.org/details/case_oversize_frc_10485_no_03"
+subject = [
+    "France. Armee. Infanterie",
+    "Operational readiness (Military science)",
+    "Military policy",
+    "Military law",
+    "History",
+    "First Coalition, War of the (1792-1797)",
+    "Finance",
+]
+extent = "[2] p. ; 33 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "Newberry Library"
+shelfmark = "Case oversize FRC 10485 no. 3"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5r83180w"
+internet_archive = "case_oversize_frc_10485_no_03"
+
+[scan]
+file = "case_oversize_frc_10485_no_03.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_oversize_frc_10485_no_03"
+note = "Scanned on Internet Archive Python library 0.9.2."
+
+[[resp]]
+name = "Aubert-Dubayet, Jean-Baptiste Annibal, 1757-1797"
+role = "author"
+
+[[resp]]
+name = "France. Ministère de la guerre"
+role = "author"
+
+[[resp]]
+name = "France"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_851853"
+
+[[text]]
+file = "case_oversize_frc_10485_no_03.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "case_oversize_frc_10485_no_03.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

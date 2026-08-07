@@ -1,0 +1,60 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "contrepoison00cous"
+type = "pamphlet"
+title = "Contre-poison"
+language = "fr"
+place = "A Paris"
+date = "1792"
+note = "Imprint at foot of broadside. Scanner's note: No copyright page found. No table-of-contents pages found. Title and cover pages combined."
+url = "https://archive.org/details/contrepoison00cous"
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 11 no. 8"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8ff9g13m"
+internet_archive = "contrepoison00cous"
+
+[scan]
+file = "contrepoison00cous.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/contrepoison00cous"
+ppi = 350
+note = "Scanned on fold1.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Cousin,attorney, Paris"
+role = "author"
+
+[[resp]]
+name = "Cousin, attorney, Paris"
+role = "author"
+
+[[resp]]
+name = "Ridel, Yves"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Plassan"
+role = "publisher"
+
+[[text]]
+file = "contrepoison00cous.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "contrepoison00cous.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

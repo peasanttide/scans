@@ -1,0 +1,85 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "cinquiemeanne00buis"
+type = "pamphlet"
+title = "Cinquieme année, ou année 1786 de la Bibliotheque physico-économique, instructive et amusante"
+language = "fr"
+place = "Paris?"
+date = "1785"
+note = """Prospectus for v. 5 of Bibliotheque physico-économique, instructive et amusante. Caption title. "On s'adresse à Paris au sieur Buisson, libraire, Hôtel de Mesgrigny, rue des Poitevins, no. 16"--P. [2]. "Permis d'imprimer, ce 23 novembre 1785"--P. [2]. "Chaque année se vend seule ou séparement, au prix de 2 liv. 12 s. le volume, broché, rendu franc de port par la poste dans tout le royaume"--P. [2]. Scanner's note: No copyright found.  No table of contents found.  Damaged, stained pages.  No page numbers. <br />."""
+url = "https://archive.org/details/cinquiemeanne00buis"
+subject = [
+    "Bibliothèque physico-économique, instructive et amusante",
+    "Booksellers and bookselling",
+    "Periodicals",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1a no. 21"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1wd9jj4d"
+internet_archive = "cinquiemeanne00buis"
+
+[scan]
+file = "cinquiemeanne00buis.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/cinquiemeanne00buis"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "Buisson, François,1753-1814"
+role = "author"
+
+[[resp]]
+name = "Buisson, François, 1753-1814"
+role = "author"
+
+[[resp]]
+name = "Buisson?"
+role = "publisher"
+
+[[text]]
+file = "cinquiemeanne00buis.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "cinquiemeanne00buis.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "cinquiemeanne00buis.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "cinquiemeanne00buis.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "cinquiemeanne00buis.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "cinquiemeanne00buis.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

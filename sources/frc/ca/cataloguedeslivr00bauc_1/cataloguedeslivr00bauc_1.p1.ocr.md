@@ -1,0 +1,21 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: cataloguedeslivr00bauc_1
+page: 1
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 3147
+h: 4452
+dpi: 500
+---
+
+44
+
+• rz
+
+f
+
+73/Hic4f£>
+£ 7&o
+
+n&s

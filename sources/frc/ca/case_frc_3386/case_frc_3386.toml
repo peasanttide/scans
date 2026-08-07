@@ -1,0 +1,60 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_3386"
+type = "pamphlet"
+title = "... Message : Extrait du registre des délibérations"
+place = "A Paris"
+date = "1799"
+url = "https://archive.org/details/case_frc_3386"
+extent = "2 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+shelfmark = "Case FRC 3386"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6h18fn2b"
+internet_archive = "case_frc_3386"
+
+[scan]
+file = "case_frc_3386.pdf"
+count = 5
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_3386"
+
+[[resp]]
+name = "France. Consulat (1799-1804)"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_50635"
+
+[[text]]
+file = "case_frc_3386.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_3386.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_3386.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_3386.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

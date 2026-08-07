@@ -1,0 +1,51 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_7185"
+type = "pamphlet"
+title = "Programme de la fête de la souveraineté du peuple : qui doit se célébrer le 30 ventose, an 7 de la République [20 mars 1799] ; dans l'enceinte du palais du Conseil des anciens"
+place = "A Paris"
+date = "1799"
+url = "https://archive.org/details/case_frc_7185"
+subject = ["Festivals"]
+extent = "2 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+shelfmark = "Case FRC 7185"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4hn0nv05"
+internet_archive = "case_frc_7185"
+
+[scan]
+file = "case_frc_7185.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_7185"
+
+[[resp]]
+name = "France. Corps législatif (1795-1814). Conseil des anciens"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_62079"
+
+[[text]]
+file = "case_frc_7185.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_7185.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

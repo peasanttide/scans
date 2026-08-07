@@ -1,0 +1,51 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_4214"
+type = "pamphlet"
+title = "Les habitans de la commune de Landrecies : au Conseil des cinq-cents ; Landrecies, le 4 nivose, an 7 de la République française, une et indivisible [24 décembre 1798]"
+place = "A Paris"
+date = "1798"
+url = "https://archive.org/details/case_frc_4214"
+subject = ["Draft"]
+extent = "2 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+shelfmark = "Case FRC 4214"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6sz1qp3q"
+internet_archive = "case_frc_4214"
+
+[scan]
+file = "case_frc_4214.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_4214"
+
+[[resp]]
+name = "Landrecies (France). Citizens"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_51557"
+
+[[text]]
+file = "case_frc_4214.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_4214.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

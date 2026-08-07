@@ -1,0 +1,55 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_2311"
+type = "pamphlet"
+title = "... État sommaire des bouches-de-feu, et autres approvisionnemens de guerre, existant dans la ville de Mayence, au moment de sa prise : imprimé par ordre de la Convention nationale"
+place = "Paris"
+date = "1792"
+url = "https://archive.org/details/case_frc_2311"
+subject = [
+    "Ordnance",
+    "Enemy property",
+    "Revolution (France : 1789-1799)",
+]
+extent = "2 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+shelfmark = "Case FRC 2311"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8nd1cw6h"
+internet_archive = "case_frc_2311"
+
+[scan]
+file = "case_frc_2311.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_2311"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_43062"
+
+[[text]]
+file = "case_frc_2311.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_2311.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

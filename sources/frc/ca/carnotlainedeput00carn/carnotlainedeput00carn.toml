@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "carnotlainedeput00carn"
+type = "pamphlet"
+title = "Carnot l'ainé, député du département du Pas-de-Calais, à ses collègues."
+language = "fr"
+place = "Paris"
+date = "1792"
+note = """Caption title. Imprint from colophon. "5 janvier, l'an 4 de la liberté françoise"--P. 3. "Militaire, I."--Bottom of p. [1]. Martin & Walter. Révolution française. Following an attempt by officers to turn over the fortifications at Perpignan to the enemy, Carnot reacts by suggesting the partial destruction of citadels in France. Bibliography: Martin & Walter.  Révolution française,  I, 6141. Scanner's note: No copyright page found. No table-of-contents pages found. Damaged pages and cover.  Title on cover page."""
+url = "https://archive.org/details/carnotlainedeput00carn"
+subject = [
+    "France. Armée",
+    "Fortification",
+]
+extent = "3 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 15758"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5w71cw9k"
+internet_archive = "carnotlainedeput00carn"
+openlibrary_edition = "OL25951643M"
+openlibrary_work = "OL17372640W"
+
+[scan]
+file = "carnotlainedeput00carn.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/carnotlainedeput00carn"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Carnot, Lazare, 1753-1823"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_833175"
+
+[[text]]
+file = "carnotlainedeput00carn.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "carnotlainedeput00carn.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "carnotlainedeput00carn.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "carnotlainedeput00carn.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

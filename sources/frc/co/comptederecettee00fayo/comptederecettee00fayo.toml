@@ -1,0 +1,83 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "comptederecettee00fayo"
+type = "pamphlet"
+title = "Compte de recette et de dépense du représentant du peuple Fayolle, pendant sa mission dans les départements de l'Ain, Mont-Blanc, Isère, Drôme, Hautes-Alpes & Ardèche, pour y surveiller & activer la réparation des routes."
+language = "fr"
+place = "Paris"
+date = "1795"
+note = "Caption title. At head of title: Convention nationale. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  II, 13272. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover."
+url = "https://archive.org/details/comptederecettee00fayo"
+subject = [
+    "France. Convention nationale",
+    "Finance, Public",
+]
+extent = "3 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 11676"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9r25nz7g"
+internet_archive = "comptederecettee00fayo"
+openlibrary_edition = "OL25924881M"
+openlibrary_work = "OL17347493W"
+
+[scan]
+file = "comptederecettee00fayo.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/comptederecettee00fayo"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Fayolle, Jean Raymond, 1746-1821"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_824836"
+
+[[text]]
+file = "comptederecettee00fayo.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "comptederecettee00fayo.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "comptederecettee00fayo.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "comptederecettee00fayo.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

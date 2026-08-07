@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "catchismepatriot00bonn"
+type = "pamphlet"
+title = "Catéchisme patriotique /"
+language = "fr"
+place = "s.l."
+date = "1789"
+note = "Caption title. Without imprint. Opening sentences: D. Qu'est-ce que Necker? R. C'est le restaurateur de la liberté en France. Not in Martin & Walter. Scanner's note: No title page found. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/catchismepatriot00bonn"
+subject = [
+    "Necker, Jacques, 1732-1804",
+    "Women in politics",
+]
+extent = "4 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 1659"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4jm79f1r"
+internet_archive = "catchismepatriot00bonn"
+openlibrary_edition = "OL26207955M"
+openlibrary_work = "OL17604231W"
+
+[scan]
+file = "catchismepatriot00bonn.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/catchismepatriot00bonn"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Bonne citoyenne"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_43549"
+
+[[text]]
+file = "catchismepatriot00bonn.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "catchismepatriot00bonn.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "catchismepatriot00bonn.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "catchismepatriot00bonn.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

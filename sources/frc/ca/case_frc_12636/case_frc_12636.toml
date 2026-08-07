@@ -1,0 +1,60 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_12636"
+type = "pamphlet"
+title = "Projet de décret présenté au nom du Comité des finances par Monnot, membre de ce Comité, pour le paiement des gratifications & pensions accordées par la loi du 28 août dernier, aux gardes des ports, quais & îles de Paris, supprimés & non remplacés."
+place = "Paris"
+date = "1792"
+url = "https://archive.org/details/case_frc_12636"
+subject = [
+    "Pensions",
+    "Severance pay",
+    "Public officers",
+    "Employees",
+    "Employees--Dismissal of",
+    "Revolution (France : 1789-1799)",
+    "History",
+]
+extent = "2 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 12636"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t05x73v17"
+internet_archive = "case_frc_12636"
+
+[scan]
+file = "case_frc_12636.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_12636"
+
+[[resp]]
+name = "Monnot, Jacques-François-Charles, b. 1743"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_826804"
+
+[[text]]
+file = "case_frc_12636.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_12636.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

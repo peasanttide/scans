@@ -1,0 +1,69 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "coupdilsurlinter00chau"
+type = "pamphlet"
+title = "Coup-d'œil sur l'intérieur de la République française, ou, Esquisse des principes d'une révolution morale."
+language = "fr"
+date = "1799"
+note = """Signed, p. 35: P. Chaussard. "A Versailles, de l'Imprimerie de Locard fils"--P. 35. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,I, 7090. Scanner's note: Title found on front cover. No copyright page found. No table-of-contents pages found."""
+url = "https://archive.org/details/coupdilsurlinter00chau"
+subject = ["Revolutions"]
+extent = "35 p. ;22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "CaseFRC11126"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t04x8b05x"
+internet_archive = "coupdilsurlinter00chau"
+
+[scan]
+file = "coupdilsurlinter00chau.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/coupdilsurlinter00chau"
+ppi = 650
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Chaussard, Pierre Jean-Baptiste,1766-1823"
+role = "author"
+
+[[resp]]
+name = "A Paris :Chez Moutardier, Libraire, Quai des Augustins, no. 28 :Chez Lebour, Galerie de Bois, no. 229, Palais-Egalité, et chez tous les marchands de nouveautés,"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_824448"
+
+[[text]]
+file = "coupdilsurlinter00chau.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "coupdilsurlinter00chau.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "coupdilsurlinter00chau.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "coupdilsurlinter00chau.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"

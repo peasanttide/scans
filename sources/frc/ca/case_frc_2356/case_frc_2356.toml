@@ -1,0 +1,55 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_2356"
+type = "pamphlet"
+title = "Liste des membres composant le Comité des décrets"
+place = "Paris"
+date = "1792"
+url = "https://archive.org/details/case_frc_2356"
+subject = [
+    "France. Convention nationale",
+    "Registers",
+    "Revolution (France : 1789-1799)",
+]
+extent = "[2] p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+shelfmark = "Case FRC 2356"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t03z3pm96"
+internet_archive = "case_frc_2356"
+
+[scan]
+file = "case_frc_2356.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_2356"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_46657"
+
+[[text]]
+file = "case_frc_2356.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_2356.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

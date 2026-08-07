@@ -1,0 +1,58 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_11424"
+type = "pamphlet"
+title = "Projet de résolution présenté par Dequin (de l'Aisne), à la suite d'un rapport fait au nom d'une commission spéciale, sur deux questions relatives aux baux des domaines nationaux faits à longues années : séance du 30 nivôse an 5."
+place = "Paris"
+date = "1797"
+url = "https://archive.org/details/case_frc_11424"
+subject = [
+    "Bailments",
+    "Public lands",
+    "History",
+    "Revolution (France : 1789-1799)",
+    "Economics",
+]
+extent = "2 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 11424"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5gb6w73k"
+internet_archive = "case_frc_11424"
+
+[scan]
+file = "case_frc_11424.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_11424"
+
+[[resp]]
+name = "Dequin, Louis-Henri-René, 1762-1821"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_826369"
+
+[[text]]
+file = "case_frc_11424.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_11424.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

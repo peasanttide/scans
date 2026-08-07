@@ -1,0 +1,83 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "compterenduparph00goup"
+type = "pamphlet"
+title = "Compte rendu par Ph.Ch.Ai. Goupilleau des dépenses qu'il a faites dans les diverses commissions dont il a été chargé par la Convention nationale."
+language = "fr"
+place = "Paris"
+date = "1795"
+note = "Caption title. At head of title: Convention nationale. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  II, 15395. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover."
+url = "https://archive.org/details/compterenduparph00goup"
+subject = [
+    "France. Convention nationale",
+    "Finance, Public",
+]
+extent = "4 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 11856"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0004vh87"
+internet_archive = "compterenduparph00goup"
+openlibrary_edition = "OL25924464M"
+openlibrary_work = "OL17347087W"
+
+[scan]
+file = "compterenduparph00goup.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/compterenduparph00goup"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Goupilleau, Philippe-Charles-Aimé, 1749-1823"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_825296"
+
+[[text]]
+file = "compterenduparph00goup.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "compterenduparph00goup.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "compterenduparph00goup.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "compterenduparph00goup.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

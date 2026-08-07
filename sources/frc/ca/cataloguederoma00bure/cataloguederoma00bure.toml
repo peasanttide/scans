@@ -1,0 +1,59 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "cataloguederoma00bure"
+type = "pamphlet"
+title = "Catalogue de romans, tant anciens que modernes, à vendre au rabais"
+language = "fr"
+place = "Paris"
+note = "Caption title. Many of the books listed were published in the 1790s. With prices. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Title page and cover are combined."
+url = "https://archive.org/details/cataloguederoma00bure"
+subject = [
+    "Bureau de la correspondance (Paris, France)",
+    "French literature",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 11 no. 21"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1ck41896"
+internet_archive = "cataloguederoma00bure"
+
+[scan]
+file = "cataloguederoma00bure.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/cataloguederoma00bure"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Bureau de la correspondance (Paris, France)"
+role = "author"
+
+[[resp]]
+name = "Bureau de la correspondance (Paris, France), author"
+role = "bookseller"
+
+[[resp]]
+name = "Bureau de correspondance"
+role = "publisher"
+
+[[text]]
+file = "cataloguederoma00bure.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "cataloguederoma00bure.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

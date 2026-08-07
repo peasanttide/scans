@@ -1,0 +1,93 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "cataloguedeslivr00dore"
+type = "pamphlet"
+title = "Catalogue des livres qui se trouvent à Paris chez Dorez, libraire, rue Saint-Jacques, près celle du Plâtre"
+language = "fr"
+place = "Paris"
+date = "1774"
+note = """Caption title. Publication information from BN. Head-piece; printed in double columns. BN. Catalogues de libraires. "Livres nouveaux": p. 4. With prices. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/cataloguedeslivr00dore"
+subject = ["Dorez, Jean Didier, fl. 1774-1788"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 4 no. 41"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6vx61x28"
+internet_archive = "cataloguedeslivr00dore"
+
+[scan]
+file = "cataloguedeslivr00dore.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/cataloguedeslivr00dore"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Dorez, Jean Didier,fl. 1774-1788"
+role = "author"
+
+[[resp]]
+name = "Dorez, Jean Didier, fl. 1774-1788"
+role = "author"
+
+[[resp]]
+name = "Dorez"
+role = "publisher"
+
+[[text]]
+file = "cataloguedeslivr00dore.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "cataloguedeslivr00dore.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "cataloguedeslivr00dore.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "cataloguedeslivr00dore.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "cataloguedeslivr00dore.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "cataloguedeslivr00dore.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "cataloguedeslivr00dore.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "cataloguedeslivr00dore.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

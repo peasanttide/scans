@@ -1,0 +1,71 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "contributionpatr00cham"
+type = "pamphlet"
+title = "Contribution patriotique"
+language = "fr"
+date = "1790"
+note = "Caption title. Without imprint. Circular letter, dated 30 March 1790, transmitting: Extrait du Journal des débats & des décrets de l'Assemblée nationale, du samedi 27 mars 1790 .. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Title page and cover are combined."
+url = "https://archive.org/details/contributionpatr00cham"
+subject = [
+    "Booksellers and bookselling",
+    "Printing industry",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 11 no. 5"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3034g900"
+internet_archive = "contributionpatr00cham"
+
+[scan]
+file = "contributionpatr00cham.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/contributionpatr00cham"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Chambre Syndicale des Libraires et des Imprimeurs, Paris"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "[Paris"
+role = "publisher"
+
+[[text]]
+file = "contributionpatr00cham.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "contributionpatr00cham.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "contributionpatr00cham.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "contributionpatr00cham.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

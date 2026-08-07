@@ -1,0 +1,73 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "censurasacraefac00univ_4"
+type = "pamphlet"
+title = "Censura Sacrae Facvltatis Theologiae Cadomensis lata in controversias F. Pauli Antonij Galois, et in libellum cui titulus est: Moiens faciles, &c"
+language = "la"
+place = "Cadomi"
+date = "1685"
+note = "Caption title. Imprint at foot of p. 4. Dated 1 December 1685. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Text extends off of the edge of the page. Title page and cover are combined."
+url = "https://archive.org/details/censurasacraefac00univ_4"
+subject = ["Censorship"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 2 no. 62"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9p32h535"
+internet_archive = "censurasacraefac00univ_4"
+
+[scan]
+file = "censurasacraefac00univ_4.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/censurasacraefac00univ_4"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Université de Caen.Faculté de théologie"
+role = "author"
+
+[[resp]]
+name = "Université de Caen. Faculté de théologie"
+role = "author"
+
+[[resp]]
+name = "Galois, Antoine. Moiens faciles"
+role = "author"
+
+[[resp]]
+name = "Typis Joannis Guesnon"
+role = "publisher"
+
+[[text]]
+file = "censurasacraefac00univ_4.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "la"
+
+[[text]]
+file = "censurasacraefac00univ_4.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "la"
+
+[[text]]
+file = "censurasacraefac00univ_4.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "la"
+
+[[text]]
+file = "censurasacraefac00univ_4.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "la"

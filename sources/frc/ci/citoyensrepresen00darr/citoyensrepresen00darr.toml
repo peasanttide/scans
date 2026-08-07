@@ -1,0 +1,83 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "citoyensrepresen00darr"
+type = "pamphlet"
+title = "Citoyens représentans."
+language = "fr"
+place = "Paris"
+note = "Caption title. At head of title: Liberté. Égalité. Signed at end: Darroux, président de la Société populaire de l'unité. Partenay, secrétaire. Lu à la société populaire, 4 pluviôse. Imprint from colophon. Not in Martin & Walter. Ré́volution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."
+url = "https://archive.org/details/citoyensrepresen00darr"
+subject = [
+    "Military supplies",
+    "Monopolies",
+    "Markets",
+]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 16929"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7jq5zw6z"
+internet_archive = "citoyensrepresen00darr"
+openlibrary_edition = "OL26199290M"
+openlibrary_work = "OL17595956W"
+
+[scan]
+file = "citoyensrepresen00darr.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/citoyensrepresen00darr"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Darroux"
+role = "author"
+
+[[resp]]
+name = "Société populaire de l'unité"
+role = "author"
+
+[[resp]]
+name = "Prudhomme, Louis Marie, 1752-1830"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie de Prudhomme"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_835222"
+
+[[text]]
+file = "citoyensrepresen00darr.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "citoyensrepresen00darr.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "citoyensrepresen00darr.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "citoyensrepresen00darr.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

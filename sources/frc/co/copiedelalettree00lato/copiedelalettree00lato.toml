@@ -1,0 +1,88 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "copiedelalettree00lato"
+type = "pamphlet"
+title = "Copie de la lettre écrite par M. de La Tour-du-Pin, ministre de la guerre, à M. de Rostaing, président du Comité militaire, le 24 octobre 1790"
+language = "fr"
+place = "A Paris"
+date = "1790"
+note = "Caption title. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française, III, 19552. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover."
+url = "https://archive.org/details/copiedelalettree00lato"
+subject = [
+    "France. Armée",
+    "Military discharge",
+    "Battle casualties",
+]
+extent = "3 p. ; 24 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 26873"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5w71m30t"
+internet_archive = "copiedelalettree00lato"
+openlibrary_edition = "OL26226725M"
+openlibrary_work = "OL17621958W"
+
+[scan]
+file = "copiedelalettree00lato.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/copiedelalettree00lato"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "La Tour-du-Pin Gouvernet, Jean-Frédéric, comte de,1727-1794"
+role = "author"
+
+[[resp]]
+name = "La Tour-du-Pin Gouvernet, Jean-Frédéric, comte de, 1727-1794"
+role = "author"
+
+[[resp]]
+name = "Rostaing, Just Antoine Henri Marie, 1740-1826"
+role = "author"
+
+[[resp]]
+name = "Imprimerie royale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie royale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_866621"
+
+[[text]]
+file = "copiedelalettree00lato.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "copiedelalettree00lato.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "copiedelalettree00lato.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "copiedelalettree00lato.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

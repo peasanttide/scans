@@ -1,0 +1,56 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_11459"
+type = "pamphlet"
+title = "Couplets chantés par un élève de l'École-centrale de l'Yonne à la distribution des prix de l'an VIII."
+date = "1799"
+url = "https://archive.org/details/case_frc_11459"
+subject = [
+    "Patriotic poetry, French",
+    "History",
+    "Revolution (France : 1789-1799)",
+    "Pamphlets",
+]
+extent = "2 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 11459"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3033n22h"
+internet_archive = "case_frc_11459"
+
+[scan]
+file = "case_frc_11459.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_11459"
+
+[[resp]]
+name = "Deville, Albéric, 1773-1832"
+role = "author"
+
+[[resp]]
+name = "France?"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_824984"
+
+[[text]]
+file = "case_frc_11459.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_11459.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

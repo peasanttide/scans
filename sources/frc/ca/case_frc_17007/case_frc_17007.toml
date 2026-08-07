@@ -1,0 +1,66 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_17007"
+type = "pamphlet"
+title = "Discours prononcé à la Convention nationale, le 29 mars 1793 par le citoyen David, député, en offrant un tableau de sa composition, représentant Michel Lepelletier au lit de mort"
+place = "Paris"
+date = "1793"
+note = 'Date given by the catalogue as "1793?".'
+url = "https://archive.org/details/case_frc_17007"
+subject = [
+    "Lepeletier de Saint Fargeau, Michel, 1760-1793",
+    "Art and state",
+]
+extent = "3 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 17007"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5hb45f8j"
+internet_archive = "case_frc_17007"
+
+[scan]
+file = "case_frc_17007.pdf"
+count = 5
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_17007"
+
+[[resp]]
+name = "David, Jacques Louis, 1748-1825"
+role = "author"
+
+[[resp]]
+name = "De l’Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=825538"
+
+[[text]]
+file = "case_frc_17007.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_17007.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_17007.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_17007.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

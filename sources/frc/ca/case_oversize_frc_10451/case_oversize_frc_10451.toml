@@ -1,0 +1,56 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_oversize_frc_10451"
+type = "pamphlet"
+title = "Au nom de la Republique française, une et indivisible : les administrateurs commissaires du departement d'Indre et Loire et administrateurs du district de Chinon, aux citoyens de Chinon"
+language = "fr"
+place = "A Chinon"
+date = "1792"
+url = "https://archive.org/details/case_oversize_frc_10451"
+subject = [
+    "First Coalition, War of the (1792-1797)",
+    "Politics and government",
+    "War and emergency powers",
+    "Law and legislation",
+    "Public opinion",
+]
+extent = "1 sheet ; 50 x 39 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "Newberry Library"
+shelfmark = "Case oversize FRC 10451"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9g49cm01"
+internet_archive = "case_oversize_frc_10451"
+
+[scan]
+file = "case_oversize_frc_10451.pdf"
+count = 2
+by = "Internet Archive"
+url = "https://archive.org/details/case_oversize_frc_10451"
+note = "Scanned on Internet Archive Python library 0.9.2."
+
+[[resp]]
+name = "Indre-et-Loire (France)"
+role = "author"
+
+[[resp]]
+name = "Chez F. Breton, imp. du district"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_72545"
+
+[[text]]
+file = "case_oversize_frc_10451.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,51 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_5212"
+type = "pamphlet"
+title = "L'administration centrale du département de la Lys : a la députation de ce département"
+place = "A Paris"
+date = "1798"
+url = "https://archive.org/details/case_frc_5212"
+subject = ["Draft"]
+extent = "2 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+shelfmark = "Case FRC 5212"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8x97n20w"
+internet_archive = "case_frc_5212"
+
+[scan]
+file = "case_frc_5212.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_5212"
+
+[[resp]]
+name = "Lys (France)"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_55107"
+
+[[text]]
+file = "case_frc_5212.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_5212.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

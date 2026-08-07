@@ -1,0 +1,73 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "circletterpay00unse"
+type = "pamphlet"
+title = "[Circular letter on payment of expenses related to the États-généraux]"
+language = "fr"
+place = "France"
+date = "1789"
+note = """
+At head of text: Villefranche, le [blank] juillet 1789. Communauté de [blank]. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover. 
+No page numbers."""
+url = "https://archive.org/details/circletterpay00unse"
+subject = [
+    "France. États généraux",
+    "Local finance",
+]
+extent = "[2] p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10316 no. 2"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t59d22g0z"
+internet_archive = "circletterpay00unse"
+openlibrary_edition = "OL26223139M"
+openlibrary_work = "OL17618600W"
+
+[scan]
+file = "circletterpay00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/circletterpay00unse"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_856922"
+
+[[text]]
+file = "circletterpay00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "circletterpay00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "circletterpay00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "circletterpay00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

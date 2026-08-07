@@ -1,0 +1,60 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_3875"
+type = "pamphlet"
+title = "Extrait des registres des délibérations"
+place = "Paris"
+date = "1790"
+url = "https://archive.org/details/case_frc_3875"
+extent = "2 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+shelfmark = "Case FRC 3875"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7xm3r518"
+internet_archive = "case_frc_3875"
+
+[scan]
+file = "case_frc_3875.pdf"
+count = 5
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_3875"
+
+[[resp]]
+name = "France. Armée. Bataillon de Henri IV"
+role = "author"
+
+[[resp]]
+name = "De l'imp. de la ve. Delaguette"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_51413"
+
+[[text]]
+file = "case_frc_3875.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_3875.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_3875.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_3875.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

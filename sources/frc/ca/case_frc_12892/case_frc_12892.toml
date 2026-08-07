@@ -1,0 +1,61 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_12892"
+type = "pamphlet"
+title = "Compte de recettes et dépenses de Portiez (de l'Oise), représentant du peuple, pendant sa mission dans la Belgique & dans la Hollande."
+place = "Paris"
+date = "1795"
+url = "https://archive.org/details/case_frc_12892"
+subject = [
+    "Finance, Public",
+    "France. Convention nationale",
+    "Expenditures, Public",
+    "Public officers",
+    "Employees",
+    "History",
+    "Revolution (France : 1789-1799)",
+    "Economics",
+]
+extent = "2 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 12892"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7zm04f60"
+internet_archive = "case_frc_12892"
+
+[scan]
+file = "case_frc_12892.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_12892"
+
+[[resp]]
+name = "Portiez, Louis François René, 1765-1810"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_827558"
+
+[[text]]
+file = "case_frc_12892.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_12892.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

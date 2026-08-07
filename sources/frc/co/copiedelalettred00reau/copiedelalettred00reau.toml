@@ -1,0 +1,74 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "copiedelalettred00reau"
+type = "pamphlet"
+title = "Copie de la lettre de M. Réaud, curé de Léognan, à M. Duranthon, procureur-syndic du district de Bordeaux."
+language = "fr"
+place = "A Bordeaux"
+date = "1791"
+note = "Caption title. At head of title: Prix, deux sous. Imprint from colophon. Dated, p. 2: Le 20 janiver 1791. Not in Martin & Walter. Révolution française. Scanner's note: Title page and cover are combined. Damaged, stained, marked and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/copiedelalettred00reau"
+subject = ["France"]
+extent = "7 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 24311"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7qp1df9n"
+internet_archive = "copiedelalettred00reau"
+
+[scan]
+file = "copiedelalettred00reau.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/copiedelalettred00reau"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Réaud"
+role = "author"
+
+[[resp]]
+name = "Duranthon, Antoine, 1736-1793"
+role = "author"
+
+[[resp]]
+name = "Chez A. Levieux, imprimeur du district"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_849375"
+
+[[text]]
+file = "copiedelalettred00reau.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "copiedelalettred00reau.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "copiedelalettred00reau.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "copiedelalettred00reau.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

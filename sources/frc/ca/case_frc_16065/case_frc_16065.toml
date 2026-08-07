@@ -1,0 +1,68 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_16065"
+type = "pamphlet"
+title = "Extrait d'une lettre de M. Charrier de la Roche, prévôt-curé d'Ainay, député de la sénéchaussée de Lyon, à une personne qui paraissait étonnée de ce qu'il n'avoit pas signé la déclaration d'une partie de l'Assemblée, sur la religion : Paris, 20 mai 1790"
+place = "France"
+date = "1790"
+url = "https://archive.org/details/case_frc_16065"
+subject = [
+    "Charrier de La Roche, Louis, 1738-1827",
+    "France. Assemblée nationale constituante (1789-1791)",
+    "Church history",
+    "Eighteenth century",
+    "History",
+]
+extent = "2 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 16065"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2n63kf28"
+internet_archive = "case_frc_16065"
+
+[scan]
+file = "case_frc_16065.pdf"
+count = 5
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_16065"
+
+[[resp]]
+name = "Charrier de La Roche, Louis, 1738-1827"
+role = "author"
+
+[[resp]]
+name = "s.n.]"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=832444"
+
+[[text]]
+file = "case_frc_16065.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_16065.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_16065.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_16065.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

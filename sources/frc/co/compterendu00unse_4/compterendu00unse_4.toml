@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "compterendu00unse_4"
+type = "pamphlet"
+title = "Compte rendu, par le conseil exécutif provisoire, à la Convention nationale, relatif aux départemens troublés."
+language = "fr"
+place = "Paris"
+date = "1792"
+note = """Caption title. At head of title: Convention nationale. Signed at end: Lebrun. Publisher name from colophon. "Imprimé par ordre de la Convention, et envoyé aux départemens et aux armées.". Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  III, 20128. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/compterendu00unse_4"
+subject = ["Counterrevolutions"]
+extent = "3 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 20957"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9382m21j"
+internet_archive = "compterendu00unse_4"
+openlibrary_edition = "OL26238387M"
+openlibrary_work = "OL17632917W"
+
+[scan]
+file = "compterendu00unse_4.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/compterendu00unse_4"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Lebrun-Tondu, Pierre Henri Marie, b. 1754"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_843666"
+
+[[text]]
+file = "compterendu00unse_4.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "compterendu00unse_4.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "compterendu00unse_4.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "compterendu00unse_4.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,60 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "coupletsdesrejou00unse"
+type = "pamphlet"
+title = "Couplets des rejouissances publiques"
+language = "fr"
+place = "Paris?"
+date = "1745"
+note = "Caption title. Binder's title: Bataille de Fontenay. Inlaid. Scanner's note: No copyright page found. No table-of-contents pages found.  Skewed text."
+url = "https://archive.org/details/coupletsdesrejou00unse"
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "E 5 .L92705 v. 03 no. 48"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4gn48628"
+internet_archive = "coupletsdesrejou00unse"
+
+[scan]
+file = "coupletsdesrejou00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/coupletsdesrejou00unse"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Gissey"
+role = "publisher"
+
+[[text]]
+file = "coupletsdesrejou00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "coupletsdesrejou00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "coupletsdesrejou00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "coupletsdesrejou00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,52 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: case_frc_1856
+page: 2
+engine: ABBYY FineReader 11.0
+w: 2288
+h: 3600
+dpi: 300
+---
+
+a
+
+Extrait du registre des délibérations des commis^-
+saires de la comptabilité nationale.
+
+Cejourd’hui vingt floréal an sept de la République
+fmnçaise, une et indivisible , heure de midi , en exécu-
+tiôn de la loi du i5 ventôse an six, les commissaires de
+la Comptabilité nationale , réunis dans le lieu ordinaire
+de leurs séances , portes ouvertes ; en présence d’un
+grand nombre d’employés de cette administration et de
+plusieurs autres citoyens, ont procédé, dans la forme ré-
+glée par leur arrêté du vingt-neuf floréal an cinq , et
+entre trois seulement , au tirage qui doit déterminer pour
+cette année la sortie de l’un d’eux, les deux autres com-
+missaires étant sortis en l’an cinq et en l’an six, et ayant
+ete reélus l’un et l’autre pour cinq ans.
+
+Par l’événement de ce tirage, le commissaire sortant
+est le citoyen Féval.
+
+Les commissaires de la Comptabilité nationale en ont
+dressé le^jprésent procès-verbal, signé d’eux , dont expé-.
+dition sera à l’instant envoyée à l’un et à l’autre Conseils
+du corps législatif.
+
+Féval , Saucourt , Colliat, Regardix et
+Goussaru.
+
+A PARIS , DE LIMPRIMERIE NATIONALE,
+
+Floréal an 7.
+
+rî
+
+>
+
+79
+
+!<
+
+^/CAO^

@@ -1,0 +1,61 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "courrierdesspect00lepa"
+type = "pamphlet"
+title = "Courrier des spectacles, journal des théatres"
+language = "fr"
+place = "Paris?"
+date = "1797"
+note = """Prospectus for "Courrier des spectacles," which began publication in 1797. Caption title. "Monsieur, ce journal paroissant de nature à vous intéresser, nous avons cru devoir vous le faire connoître. Nous vous saluons bien parfaitement, Le Pan et Desanteul, rédacteurs.". "Ce journal paroît tous les jours, depuis le 18 nivose (7 janvier) dernier.". "On s'abonne au bureau du Courrier des spectacles, rue Saint-Guillaume, n°. 1150, et dans les départemens, chez les principaux libraires; le prix pour trois mois est de 7 liv. 10 s. pour Paris, et de 9 liv. pour les départemens.". Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Title page and cover are combined.  Text extends off of the edge of the page.  Text lost in binding."""
+url = "https://archive.org/details/courrierdesspect00lepa"
+subject = [
+    "Courrier des spectacles",
+    "Booksellers and bookselling",
+    "Periodicals",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1d no. 23"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9b628733"
+internet_archive = "courrierdesspect00lepa"
+
+[scan]
+file = "courrierdesspect00lepa.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/courrierdesspect00lepa"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Le Pan"
+role = "author"
+
+[[resp]]
+name = "Desanteul, E.-N.-F"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[text]]
+file = "courrierdesspect00lepa.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "courrierdesspect00lepa.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

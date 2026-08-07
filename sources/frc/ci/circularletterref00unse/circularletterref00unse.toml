@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "circularletterref00unse"
+type = "pamphlet"
+title = "[Circular letter on refugee property in Gard, France]"
+language = "fr"
+place = "Nîmes"
+date = "1792"
+note = """"MM. les maire et officiers municipaux d [blank]"--Bottom of p. [1]. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.   Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages.  No page numbers."""
+url = "https://archive.org/details/circularletterref00unse"
+subject = ["Refugee property"]
+extent = "[3] p. ; 32 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9831 no. 35"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8sb96n2z"
+internet_archive = "circularletterref00unse"
+openlibrary_edition = "OL26224061M"
+openlibrary_work = "OL17619516W"
+
+[scan]
+file = "circularletterref00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/circularletterref00unse"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Gard (France)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_854351"
+
+[[text]]
+file = "circularletterref00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "circularletterref00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "circularletterref00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "circularletterref00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,12 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: catholiqveremons00lava
+page: 3
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 2427
+h: 4154
+dpi: 500
+---
+
+i.riîi/:jai mÊÊli

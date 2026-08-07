@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "circularletterda00pari"
+type = "pamphlet"
+title = "[Circular letter, dated: ce [blank] juin 1792]"
+language = "fr"
+place = "s.l."
+date = "1792"
+note = """Without imprint. "Les citoyens et citoyennes ... sont ... invités ... de vouloir bien remettre ... l'offrande pour laquelle ils voudront bien concourir aux frais de la guerre.". Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on cover page. Damaged, stained and/or loose pages. Uneven binding. Skewed text. No page numbers."""
+url = "https://archive.org/details/circularletterda00pari"
+subject = ["War, Cost of"]
+extent = "[2] leaves ; 18 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 6596"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1wd8z89t"
+internet_archive = "circularletterda00pari"
+openlibrary_edition = "OL26218315M"
+openlibrary_work = "OL17614020W"
+
+[scan]
+file = "circularletterda00pari.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/circularletterda00pari"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Paris (France). Section de l'Isle-Saint-Louis"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_59120"
+
+[[text]]
+file = "circularletterda00pari.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "circularletterda00pari.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "circularletterda00pari.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "circularletterda00pari.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

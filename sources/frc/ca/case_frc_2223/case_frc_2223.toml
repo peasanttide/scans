@@ -1,0 +1,61 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_2223"
+type = "pamphlet"
+title = "... Le Comité de salut public aux autorités civiles et militaires, et à tous les citoyens"
+place = "À Paris"
+date = "1795"
+url = "https://archive.org/details/case_frc_2223"
+subject = ["Revolution (France : 1789-1799)"]
+extent = "2 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+shelfmark = "Case FRC 2223"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8z94nx7n"
+internet_archive = "case_frc_2223"
+
+[scan]
+file = "case_frc_2223.pdf"
+count = 5
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_2223"
+
+[[resp]]
+name = "France. Convention nationale. Comité de salut public"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie de la République"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_44632"
+
+[[text]]
+file = "case_frc_2223.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_2223.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_2223.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_2223.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

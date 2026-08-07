@@ -1,0 +1,52 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_16997"
+type = "pamphlet"
+title = "Discours prononcé par Daunou sur un ouvrage qui a pour titre, Abrégé de l'histoire de la Grèce : séance du 19 ventose an 7"
+place = "A Paris"
+date = "1799"
+url = "https://archive.org/details/case_frc_16997"
+subject = ["Bernard, Jean-Baptiste, 1747-1808. Abrégé de l’histoire de la Grèce."]
+extent = "2 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 16997"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0ms8rq77"
+internet_archive = "case_frc_16997"
+
+[scan]
+file = "case_frc_16997.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_16997"
+
+[[resp]]
+name = "Daunou, P. C. F. (Pierre Claude François), 1761-1840"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=835248"
+
+[[text]]
+file = "case_frc_16997.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_16997.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

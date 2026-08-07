@@ -1,0 +1,100 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "confessiondemari00bous"
+type = "pamphlet"
+title = "Confession de Marie-Antoinette à M. de Tallerand-Perrigord, ci-devant archeveque de Reims, et depuis escamoteur de la Sainte-Empoule : grande querelle entre Charles Libre et Louis l'Esclave, détenu au Temple comme banque-routier ayant fait fallite à l'honneur et à la probité."
+language = "fr"
+place = "Paris"
+date = "1792"
+note = """Caption title. Signed: Je suis Louis L'esclave, Charles Libre; je me nomme Boussemart, et suis patriote, sans moustache. Imprint from colophon. Martin & Walter. Révolution française. "Discussion entre Charles Libre et Louis l'Esclave"--P. 3-8. Bibliography: Martin & Walter.  Révolution française,  I, 4849. Scanner's note: No copyright page found. No table-of-contents pages found. Title page located on front cover. Damaged, worn pages. Skewed text."""
+url = "https://archive.org/details/confessiondemari00bous"
+subject = [
+    "Louis XVI, King of France, 1754-1793",
+    "Marie Antoinette, Queen, consort of Louis XVI, King of France, 1755-1793",
+    "Talleyrand-Périgord, Alexandre Angélique de, 1736-1821",
+]
+extent = "8 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 15200"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3xt0km7r"
+internet_archive = "confessiondemari00bous"
+openlibrary_edition = "OL25944732M"
+openlibrary_work = "OL17365987W"
+
+[scan]
+file = "confessiondemari00bous.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/confessiondemari00bous"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Boussemart, Charles"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Feret, rue du Marché-Palu, vis-à-vis celle Notre-Dame"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_831442"
+
+[[text]]
+file = "confessiondemari00bous.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "confessiondemari00bous.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "confessiondemari00bous.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "confessiondemari00bous.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "confessiondemari00bous.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "confessiondemari00bous.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "confessiondemari00bous.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "confessiondemari00bous.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,61 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_oversize_frc_10436_no_06"
+type = "pamphlet"
+title = "Mesures de surete generale : extrait du proces-verbal des seances du conseil du departement de la Drome en permanence, auquel etoient reunis les deputes des dept districts du ressort : seance publique du 2 juillet 1793, l'an 2 de la Republique : presens Melleret, president, Bossan, Algoud, Duclos, Craponne-Duvillard, Bes, Romieu, Blanchard, Long de Gigors, Archinard, Faure, Laget, Long de Condorcet, Bellier, Lambert, Ayme, Bergier, Ithier, Bernard, Chancel, Caudeiron, Armand, Lermy, Germigni, administrateurs du departeemnt, Charlon, Charvat, Biscarrat, Daly, Marcel, Deydier & Imbert, administrateurs & deputes des sept districts du ressort, & Payan, procureur-general-syndic du departement"
+language = "fr"
+place = "A Valence"
+date = "1793"
+url = "https://archive.org/details/case_oversize_frc_10436_no_06"
+subject = [
+    "Public safety",
+    "Politics and government",
+    "Reign of Terror (France : 1793-1794)",
+    "Public opinion",
+]
+extent = "1 sheet ; 49 x 38 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "Newberry Library"
+shelfmark = "Case oversize FRC 10436 no. 6"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t60627h0w"
+internet_archive = "case_oversize_frc_10436_no_06"
+
+[scan]
+file = "case_oversize_frc_10436_no_06.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_oversize_frc_10436_no_06"
+note = "Scanned on Internet Archive Python library 0.9.2."
+
+[[resp]]
+name = "Drome (France). Conseil"
+role = "author"
+
+[[resp]]
+name = "Chez P. Aurel, imprimeur du departement de la Drome"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_851927"
+
+[[text]]
+file = "case_oversize_frc_10436_no_06.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "case_oversize_frc_10436_no_06.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

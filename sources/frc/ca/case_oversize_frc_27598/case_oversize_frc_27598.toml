@@ -1,0 +1,61 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_oversize_frc_27598"
+type = "pamphlet"
+title = "Proces sans exemple, soutenu par J.F. Magenthies, ancien negociant, ne A Saint-Lis, diocèse de Toulouse, le 5 avril 1745, A compter du 16 aout 1781, jusqu'A ce jour"
+language = "fr"
+date = "1789"
+url = "https://archive.org/details/case_oversize_frc_27598"
+subject = [
+    "Debtor and creditor",
+    "Appellate procedure",
+    "Remedies (Law)",
+    "Magenthies, Jean-Franc?ois",
+    "Trials, litigation, etc.",
+    "Imprisonment",
+    "Examinations",
+]
+extent = "1 sheet ; 54 x 41 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "Newberry Library"
+shelfmark = "Case oversize FRC 27598"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t76t5bn88"
+internet_archive = "case_oversize_frc_27598"
+
+[scan]
+file = "case_oversize_frc_27598.pdf"
+count = 2
+by = "Internet Archive"
+url = "https://archive.org/details/case_oversize_frc_27598"
+note = "Scanned on Internet Archive Python library 0.9.2."
+
+[[resp]]
+name = "Magenthies, Jean-François"
+role = "author"
+
+[[resp]]
+name = "Vendée (France). Armée catholique et royale"
+role = "author"
+
+[[resp]]
+name = "France"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_868947"
+
+[[text]]
+file = "case_oversize_frc_27598.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

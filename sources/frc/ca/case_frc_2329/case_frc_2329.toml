@@ -1,0 +1,55 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_2329"
+type = "pamphlet"
+title = "... Liste d'inscriptions de candidats pour le renouvellement de la commission chargée de surveiller la rédaction du bulletin : conformément au décret du 3 nivôse ; du 4 nivôse"
+place = "Paris"
+date = "1793"
+url = "https://archive.org/details/case_frc_2329"
+subject = [
+    "France. Convention nationale",
+    "Registers",
+    "Revolution (France : 1789-1799)",
+]
+extent = "[1] p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+shelfmark = "Case FRC 2329"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2q581h17"
+internet_archive = "case_frc_2329"
+
+[scan]
+file = "case_frc_2329.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_2329"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_44812"
+
+[[text]]
+file = "case_frc_2329.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_2329.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

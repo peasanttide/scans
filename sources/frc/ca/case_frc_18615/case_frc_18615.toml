@@ -1,0 +1,58 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_18615"
+type = "pamphlet"
+title = "Chanson patriotique en l'honneur des généreux citoyens volontaires de Lisieux : qui se dévouent à la défense de la liberté & de l'égalité"
+place = "France"
+note = 'Date given by the catalogue as "179u", unreadable.'
+url = "https://archive.org/details/case_frc_18615"
+subject = [
+    "Soldiers",
+    "Songs",
+    "Music",
+    "Revolutionary ballads and songs",
+    "Eighteenth century",
+]
+extent = "[2] p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 18615"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t59d2033n"
+internet_archive = "case_frc_18615"
+
+[scan]
+file = "case_frc_18615.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_18615"
+
+[[resp]]
+name = "Feugrés, M. de"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=839061"
+
+[[text]]
+file = "case_frc_18615.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_18615.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

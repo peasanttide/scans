@@ -1,0 +1,84 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "compterendulacon00ruhl"
+type = "pamphlet"
+title = "Compte rendu a la Convention nationale, en exécution du décret du 21 nivôse dernier, par Philippe Ruhl, représentant du peuple, des dépenses qu'il a faites dans les différentes missions qu'il a remplies."
+language = "fr"
+place = "Paris"
+date = "1795"
+note = "Caption title. At head of title: Convention nationale. Imprint from colophon. Martin & Walter. Révolution française. Personal expense report. Bibliography: Martin & Walter.  Révolution française,  IV:1, 30427."
+url = "https://archive.org/details/compterendulacon00ruhl"
+subject = [
+    "France. Convention nationale",
+    "Finance, Public",
+]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 13114"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7mp9sn8h"
+internet_archive = "compterendulacon00ruhl"
+lccn = "nuc87717224"
+openlibrary_edition = "OL25931186M"
+openlibrary_work = "OL17353414W"
+
+[scan]
+file = "compterendulacon00ruhl.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/compterendulacon00ruhl"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Rühl, Philippe-Jacques, 1737-1795"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_827834"
+
+[[text]]
+file = "compterendulacon00ruhl.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "compterendulacon00ruhl.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "compterendulacon00ruhl.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "compterendulacon00ruhl.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,73 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "circularprim00unse"
+type = "pamphlet"
+title = "[Circular letter on primogeniture]"
+language = "fr"
+place = "France"
+date = "1790"
+note = "At head of text Paris, le 17 août de l'an second de la liberté des François. Signed: F. Lanthenas, D.M. président, P.J. Viaud, avocat au parlement, secrétaire de la Société des amis de l'union et de l'égalité dans les familles, rue Haute-Feuille, no. 22. Not in Martin & Walter. Révolution française. On Lanthenas's appeal to the Assemblée nationale for the abolition of primogeniture. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover. No page numbers."
+url = "https://archive.org/details/circularprim00unse"
+subject = [
+    "Lanthenas, François, 1754-1799",
+    "Société des amis de l'union et de l'égalité dans les familles",
+    "Distribution of decedents' estates",
+    "Inheritance and succession",
+]
+extent = "[2] p. ; 23 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 26866"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3c01b06f"
+internet_archive = "circularprim00unse"
+openlibrary_edition = "OL26227320M"
+openlibrary_work = "OL17622548W"
+
+[scan]
+file = "circularprim00unse.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/circularprim00unse"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Lanthenas, François,1754-1799"
+role = "author"
+
+[[resp]]
+name = "Lanthenas, François, 1754-1799"
+role = "author"
+
+[[resp]]
+name = "Société des amis de l'union et de l'égalité dans les familles"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_866614"
+
+[[text]]
+file = "circularprim00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "circularprim00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

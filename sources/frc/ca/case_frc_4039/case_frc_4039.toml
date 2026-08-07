@@ -1,0 +1,57 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_4039"
+type = "pamphlet"
+title = "La gaytée nationale : pot-pourri dédié à nos freres d'armes ; air de pantoufle"
+place = "Paris"
+date = "1790"
+url = "https://archive.org/details/case_frc_4039"
+subject = ["Revolution (France : 1789-1799)"]
+extent = "[2] leaves ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+shelfmark = "Case FRC 4039"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8ff96j50"
+internet_archive = "case_frc_4039"
+
+[scan]
+file = "case_frc_4039.pdf"
+count = 5
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_4039"
+
+[[resp]]
+name = "Chez l'auteur md. de musique au Palais royal passage de l'Empereur du côté de la rue Vivienne No.98"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_48684"
+
+[[text]]
+file = "case_frc_4039.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_4039.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_4039.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_4039.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

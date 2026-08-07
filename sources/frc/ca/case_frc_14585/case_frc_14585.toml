@@ -1,0 +1,58 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_14585"
+type = "pamphlet"
+title = "Le mouvement français"
+place = "Paris?"
+date = "1802"
+url = "https://archive.org/details/case_frc_14585"
+subject = [
+    "Revolutionary ballads and songs",
+    "Revolution (France : 1789-1799)",
+    "History",
+    "Songs",
+    "Music",
+]
+extent = "1 sheet : music ; 19 x 25 cm., folded to 19 x 13 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 14585"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6547h43g"
+internet_archive = "case_frc_14585"
+
+[scan]
+file = "case_frc_14585.pdf"
+count = 2
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_14585"
+
+[[resp]]
+name = "Bésol"
+role = "author"
+
+[[resp]]
+name = "Chez Frere passage du Saumon"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_830543"
+
+[[text]]
+file = "case_frc_14585.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_14585.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

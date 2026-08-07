@@ -1,0 +1,62 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_oversize_frc_10436_no_05"
+type = "pamphlet"
+title = "Extrait du procès-verbal des seances du conseil du departement de la Drome en permanence : seance publique du 7 juin 1793, l'an 2e. de la Republique : presens Melleret, president, Bossan, Lermy, Lambert Caudeiron, Gaud, Chancel, Armand, Algoud, Viot, Long de Gigors, Germigny, Archinard, Claude Payan, Blanchard, Faure, Bernard, Long de Condorcet, administrateurs, & Payan procureur-general-syndic"
+language = "fr"
+place = "A Valence"
+date = "1793"
+url = "https://archive.org/details/case_oversize_frc_10436_no_05"
+subject = [
+    "Counterrevolutionaries",
+    "Conspiracies",
+    "Central-local government relations",
+    "Politics and government",
+    "Public opinion",
+]
+extent = "1 sheet ; 42 x 30 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "Newberry Library"
+shelfmark = "Case oversize FRC 10436 no. 5"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t78s9df3s"
+internet_archive = "case_oversize_frc_10436_no_05"
+
+[scan]
+file = "case_oversize_frc_10436_no_05.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_oversize_frc_10436_no_05"
+note = "Scanned on Internet Archive Python library 0.9.2."
+
+[[resp]]
+name = "Drome (France). Conseil"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Pierre Aurel"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_851926"
+
+[[text]]
+file = "case_oversize_frc_10436_no_05.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "case_oversize_frc_10436_no_05.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,47 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_7257"
+type = "pamphlet"
+title = "Prospectus"
+place = "Paris"
+date = "1793"
+url = "https://archive.org/details/case_frc_7257"
+subject = ["Jemappes, Battle of (Belgium : 1792)"]
+extent = "[2] p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+shelfmark = "Case FRC 7257"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4cp2j824"
+internet_archive = "case_frc_7257"
+
+[scan]
+file = "case_frc_7257.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_7257"
+
+[[resp]]
+name = "De l'imprimerie de P. de Lormel"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_62196"
+
+[[text]]
+file = "case_frc_7257.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_7257.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

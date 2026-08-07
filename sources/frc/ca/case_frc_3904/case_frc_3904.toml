@@ -1,0 +1,41 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_3904"
+type = "pamphlet"
+title = "Fable sur le temps present : en décembre 1788"
+date = "1788"
+url = "https://archive.org/details/case_frc_3904"
+extent = "[2] p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+shelfmark = "Case FRC 3904"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4zh22f81"
+internet_archive = "case_frc_3904"
+
+[scan]
+file = "case_frc_3904.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_3904"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_47618"
+
+[[text]]
+file = "case_frc_3904.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_3904.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

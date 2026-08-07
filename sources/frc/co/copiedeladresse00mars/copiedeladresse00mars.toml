@@ -1,0 +1,77 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "copiedeladresse00mars"
+type = "pamphlet"
+title = "Copie de l'adresse /"
+language = "fr"
+place = "Paris"
+date = "1793"
+note = """Caption title. Imprint from colophon. "Votre perfidie est à son comble; trop long-tems déjà, vous avez occupé le poste honorable que vous étiez indignes de remplir ...": p.[1]. "Copie de la lettre écrite aux quarante-huit sections de Paris, aux Jacobins, aux cordeliers, aux fauxbourgs St.-Antoine et St.-Marceau, par la Société des amis de la liberté et de l'égalité de Marseille, en date du 17 mars 1793, l'an 2me. de la République française": p.3-4. Martin & Walter IV 2: 4683. Scanner's note: Title on cover. Damaged, stained pages and cover.<br />No copyright. No table of contents. <br /><br />."""
+url = "https://archive.org/details/copiedeladresse00mars"
+extent = "4 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 2491"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4tj3jz62"
+internet_archive = "copiedeladresse00mars"
+
+[scan]
+file = "copiedeladresse00mars.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/copiedeladresse00mars"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "Marseille (France). Citizens"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Société des amis de la liberté et de l'égalité de Marseille"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie patriotique et républicaine"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_44359"
+
+[[text]]
+file = "copiedeladresse00mars.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "copiedeladresse00mars.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "copiedeladresse00mars.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "copiedeladresse00mars.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,57 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_14591"
+type = "pamphlet"
+title = "Opinion d'Alexandre Besson, député du département du Doubs, sur cette question, quelle peine sera infligée à Louis Capet?."
+place = "Paris"
+date = "1793"
+url = "https://archive.org/details/case_frc_14591"
+subject = [
+    "Louis XVI, King of France, 1754-1793",
+    "Trials",
+    "Revolution (France : 1789-1799)",
+    "History",
+]
+extent = "2 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 14591"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2x39k86p"
+internet_archive = "case_frc_14591"
+
+[scan]
+file = "case_frc_14591.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_14591"
+
+[[resp]]
+name = "Besson, Alexandre, 1758-1826"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_830374"
+
+[[text]]
+file = "case_frc_14591.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_14591.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

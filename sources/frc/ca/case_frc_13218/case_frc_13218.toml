@@ -1,0 +1,61 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_13218"
+type = "pamphlet"
+title = "Compte rendu par Thibaudeau, des dépenses qu'il a faites pendant sa mission près l'armée des côtes de la Rochelle."
+place = "Paris"
+date = "1795"
+url = "https://archive.org/details/case_frc_13218"
+subject = [
+    "France. Convention nationale",
+    "Expenditures, Public",
+    "Finance, Public",
+    "Public officers",
+    "Employees",
+    "Revolution (France : 1789-1799)",
+    "History",
+    "Economics",
+]
+extent = "2 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 13218"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t52g2hj36"
+internet_archive = "case_frc_13218"
+
+[scan]
+file = "case_frc_13218.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_13218"
+
+[[resp]]
+name = "Thibaudeau, Antoine-Claire, comte, 1765-1854"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_827748"
+
+[[text]]
+file = "case_frc_13218.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_13218.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

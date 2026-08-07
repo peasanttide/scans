@@ -1,0 +1,83 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "comparaisondelal00marc"
+type = "pamphlet"
+title = "Comparaison de la loi du 3 brumaire avec le projet pour la remplacer /"
+language = "fr"
+place = "Paris"
+date = "1796"
+note = "Caption title. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  III, 22988. Scanner's note: No copyright page found. No table-of-contents pages found.  Title on cover. Inconsistent page size. Skewed text."
+url = "https://archive.org/details/comparaisondelal00marc"
+subject = [
+    "Political refugees",
+    "Amnesty",
+]
+extent = "4 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 12521"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9k40hq9w"
+internet_archive = "comparaisondelal00marc"
+openlibrary_edition = "OL25927925M"
+openlibrary_work = "OL17350491W"
+
+[scan]
+file = "comparaisondelal00marc.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/comparaisondelal00marc"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Marchoux, Jean-François-Nicolas, b. 1754"
+role = "author"
+
+[[resp]]
+name = "France. Corps législatif (1795-1814). Conseil des cinq-cents"
+role = "author"
+
+[[resp]]
+name = "Baudouin, François-Jean, 1759-1838"
+role = "publisher"
+
+[[resp]]
+name = "De l'imprimerie de Baudouin, place du Carrousel, no. 662"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_826751"
+
+[[text]]
+file = "comparaisondelal00marc.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "comparaisondelal00marc.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "comparaisondelal00marc.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "comparaisondelal00marc.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

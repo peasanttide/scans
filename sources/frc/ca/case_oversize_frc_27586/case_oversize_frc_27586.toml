@@ -1,0 +1,62 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_oversize_frc_27586"
+type = "pamphlet"
+title = "Le general de brigade commandant la 10me. division militaire, aux requisitionnaires, conscrits et deserteurs A l'interieur de la division"
+language = "fr"
+place = "A Auch"
+date = "1800"
+url = "https://archive.org/details/case_oversize_frc_27586"
+subject = [
+    "Military deserters",
+    "Draftees",
+    "Military offenses",
+    "History",
+    "Law",
+    "Confiscations",
+    "Examinations",
+]
+extent = "1 sheet ; 46 x 36 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "Newberry Library"
+shelfmark = "Case oversize FRC 27586"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t95763j8s"
+internet_archive = "case_oversize_frc_27586"
+
+[scan]
+file = "case_oversize_frc_27586.pdf"
+count = 2
+by = "Internet Archive"
+url = "https://archive.org/details/case_oversize_frc_27586"
+note = "Scanned on Internet Archive Python library 0.9.2."
+
+[[resp]]
+name = "Commes, Jean Andre"
+role = "author"
+
+[[resp]]
+name = "France. Corps législatif (1795-1814). Conseil des cinq-cents. Commission des cinq-cents"
+role = "author"
+
+[[resp]]
+name = "Chez F. Labat, imprimeur de la prefecture du departement du Gers"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_868935"
+
+[[text]]
+file = "case_oversize_frc_27586.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,65 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_11737"
+type = "pamphlet"
+title = "Opinion de Gauthier (du Calvados) sur le rapport de la commission spéciale chargée d'examiner, 1o. les réclamations des co-partageans & co-obligés solidaires avec des émigrés, 2o. si les créanciers des émigrés seront privés du droit de poursuivre leurs cautions simples & solidaires : séance du 21 germinal an 6."
+place = "A Paris"
+date = "1798"
+url = "https://archive.org/details/case_frc_11737"
+subject = [
+    "Debtor and creditor",
+    "Refugee property",
+]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 11737"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0ns5j99h"
+internet_archive = "case_frc_11737"
+
+[scan]
+file = "case_frc_11737.pdf"
+count = 5
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_11737"
+
+[[resp]]
+name = "Gauthier, Pierre, 1758-1824"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_825515"
+
+[[text]]
+file = "case_frc_11737.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_11737.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_11737.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_11737.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

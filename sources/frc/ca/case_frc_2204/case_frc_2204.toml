@@ -1,0 +1,61 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_2204"
+type = "pamphlet"
+title = "Les représentans du peuple composant le Comité d'instruction publique : a tous les citoyens français, et particulièrement aux corps constitués, aux bataillons et aux sociétés populaires"
+place = "Paris"
+date = "1792"
+url = "https://archive.org/details/case_frc_2204"
+subject = ["Revolution (France : 1789-1799)"]
+extent = "2 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+shelfmark = "Case FRC 2204"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3zs85j6d"
+internet_archive = "case_frc_2204"
+
+[scan]
+file = "case_frc_2204.pdf"
+count = 5
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_2204"
+
+[[resp]]
+name = "France. Convention nationale. Comité d'instruction publique"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_46358"
+
+[[text]]
+file = "case_frc_2204.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_2204.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_2204.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_2204.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

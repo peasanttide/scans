@@ -1,0 +1,52 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_15463"
+type = "pamphlet"
+title = "Préparation a la fête de Noel"
+place = "Paris?"
+date = "1791"
+url = "https://archive.org/details/case_frc_15463"
+subject = ["Christmas service"]
+extent = "[1] sheet ; 20 x 25 cm., folded to 20 x 13 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 15463"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6935w01d"
+internet_archive = "case_frc_15463"
+
+[scan]
+file = "case_frc_15463.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_15463"
+
+[[resp]]
+name = "Saint Paul (Paris, France : Parish)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=831937"
+
+[[text]]
+file = "case_frc_15463.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_15463.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

@@ -1,0 +1,96 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "cataloguedeslivr00mari_0"
+type = "pamphlet"
+title = "Catalogue des livres imprimez a Paris chez Pierre-Jean Mariette, ruë Saint Jacques aux Colonnes d'Hercule, 1738"
+language = "fr"
+place = "Paris"
+date = "1738"
+note = """Caption title. Publication information from BN. Printed in double columns. BN. Catalogues de libraires. Catalog of books on diverse topics, primarily religion, history, architecture, painting, and calligraphy. "Catalogue des livres provenant du fond de Messieurs Emery & Saugrain qui se trouvent chez le même libraire": p. 6. "Livres provenans du fond de M. Denys Mariette, qui se trouvent chez le même libraire": p. 7-8. "Livres a l'usage de l'ordre de Cisteaux": p. 8. With prices. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Title page and cover are combined."""
+url = "https://archive.org/details/cataloguedeslivr00mari_0"
+subject = [
+    "Mariette, Pierre-Jean, 1694-1774",
+    "Religious literature, French",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 4 no. 83"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t77t3cr6m"
+internet_archive = "cataloguedeslivr00mari_0"
+
+[scan]
+file = "cataloguedeslivr00mari_0.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/cataloguedeslivr00mari_0"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Mariette, Pierre-Jean,1694-1774"
+role = "author"
+
+[[resp]]
+name = "Mariette, Pierre-Jean, 1694-1774"
+role = "author"
+
+[[resp]]
+name = "Pierre-Jean Mariette"
+role = "publisher"
+
+[[text]]
+file = "cataloguedeslivr00mari_0.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "cataloguedeslivr00mari_0.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "cataloguedeslivr00mari_0.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "cataloguedeslivr00mari_0.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "cataloguedeslivr00mari_0.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "cataloguedeslivr00mari_0.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "cataloguedeslivr00mari_0.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "cataloguedeslivr00mari_0.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,63 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "creationdelamili00lafa"
+type = "pamphlet"
+title = "Creation de la milice parisienne : Air de la Retraite."
+language = "fr"
+place = "s.l."
+date = "1789"
+note = "Caption title. Imprint date from colophon. Dedication (in left margin on 2d leaf recto): Aux Gads. [i.e. Gardes] francaises [sic]. A Mr de La Fayette. Song, without music. Opening lines: Va ma Silvie / Toute la vie / Je ferai gloire / De la victoire / De nos grenadiers. Printed from an engraved plate. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found.  Title and cover pages are combined.  Damaged, stained pages.  Skewed text.  No page numbers."
+url = "https://archive.org/details/creationdelamili00lafa"
+extent = "[2] leaves ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 2591"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6935wd85"
+internet_archive = "creationdelamili00lafa"
+openlibrary_edition = "OL26211095M"
+openlibrary_work = "OL17607167W"
+
+[scan]
+file = "creationdelamili00lafa.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/creationdelamili00lafa"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Lafayette, Marie Joseph Paul Yves Roch Gilbert Du Motier, marquis de, 1757-1834"
+role = "author"
+
+[[resp]]
+name = "Gardes nationales de France"
+role = "author"
+
+[[resp]]
+name = "s.n.]"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_44707"
+
+[[text]]
+file = "creationdelamili00lafa.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "creationdelamili00lafa.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

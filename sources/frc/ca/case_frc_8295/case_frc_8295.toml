@@ -1,0 +1,54 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_8295"
+type = "pamphlet"
+title = "Société des jeunes Français : base d'une école centrale d'expériences, sous les auspices de J. J. Rousseau ; etablie, d'apr`es un arr^eté du directoire du département de Paris, au ci-devant prieuré de Saint-Martin-des-Champs, rue Saint-Martin, `a Paris ; [motto: 1 line]"
+place = "Paris"
+date = "1792"
+url = "https://archive.org/details/case_frc_8295"
+subject = [
+    "Education",
+    "Societies, etc.",
+]
+extent = "[2] p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+shelfmark = "Case FRC 8295"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0vq8c85c"
+internet_archive = "case_frc_8295"
+
+[scan]
+file = "case_frc_8295.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_8295"
+
+[[resp]]
+name = "Société des jeunes français"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie du Patriote françois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_5687"
+
+[[text]]
+file = "case_frc_8295.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_8295.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

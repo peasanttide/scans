@@ -1,0 +1,65 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "cataloguedesdiff00desa"
+type = "pamphlet"
+title = "Catalogue des différents cayers qui composent la Description des arts et métiers"
+language = "fr"
+place = "Paris"
+date = "1775"
+note = """Caption title. Probably detached from a volume of Description des arts et métiers; includes "fautes à corriger dans la préface" and catchword "Préface" on p. [2]. Volumes listed as "sous presse" on p. [2] were published around 1775 or later. Includes prices. Scanner's note: No copyright page found. No table-of-contents pages found. Title and cover pages combined."""
+url = "https://archive.org/details/cataloguedesdiff00desa"
+subject = [
+    "Desaint, Catherine-Michelle, fl. 1771-1808",
+    "Saillant & Nyon",
+    "Description des arts et métiers",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 4 no. 1"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t78t0dp0d"
+internet_archive = "cataloguedesdiff00desa"
+
+[scan]
+file = "cataloguedesdiff00desa.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/cataloguedesdiff00desa"
+ppi = 350
+note = "Scanned on fold1.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Desaint, Catherine-Michelle, fl. 1771-1808"
+role = "publisher"
+
+[[resp]]
+name = "Saillant & Nyon"
+role = "publisher"
+
+[[resp]]
+name = "Académie royale des sciences (France)"
+role = "author"
+
+[[resp]]
+name = "Saillant & Nyon :;Veuve Desaint"
+role = "publisher"
+
+[[text]]
+file = "cataloguedesdiff00desa.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "cataloguedesdiff00desa.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

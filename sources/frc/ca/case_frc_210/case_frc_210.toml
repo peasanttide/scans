@@ -1,0 +1,88 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_210"
+type = "pamphlet"
+title = "Adresse aux habitans des campagnes de la Vendée"
+language = "fr"
+place = "A Saumur"
+date = "1795"
+url = "https://archive.org/details/case_frc_210"
+subject = ["Revolution (France : 1789-1799)"]
+extent = "8 p. ; 18 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 210"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3xs9rh62"
+internet_archive = "case_frc_210"
+
+[scan]
+file = "case_frc_210.pdf"
+count = 9
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_210"
+note = "Scanned on Internet Archive Python library 0.9.2."
+
+[[resp]]
+name = "De l'Imprimerie nationale, Chez Degout"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "https://i-share.carli.illinois.edu/nby/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=34676"
+
+[[text]]
+file = "case_frc_210.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "case_frc_210.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "case_frc_210.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "case_frc_210.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "case_frc_210.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "case_frc_210.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "case_frc_210.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "case_frc_210.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

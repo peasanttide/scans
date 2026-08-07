@@ -1,0 +1,56 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_oversize_frc_10468_no_02"
+type = "pamphlet"
+title = "Loi relative aux adjudans-generaux de l'armee & aux aides-de-camp : donnee A Paris, le 24 novembre 1790"
+language = "fr"
+place = "A Nismes"
+date = "1790"
+url = "https://archive.org/details/case_oversize_frc_10468_no_02"
+subject = [
+    "France. Armee",
+    "Officers",
+    "Military law",
+    "Politics and government",
+    "Law and legislation",
+]
+extent = "1 sheet ; 48 x 36 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "Newberry Library"
+shelfmark = "Case oversize FRC 10468 no. 2"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t82k14010"
+internet_archive = "case_oversize_frc_10468_no_02"
+
+[scan]
+file = "case_oversize_frc_10468_no_02.pdf"
+count = 2
+by = "Internet Archive"
+url = "https://archive.org/details/case_oversize_frc_10468_no_02"
+note = "Scanned on Internet Archive Python library 0.9.2."
+
+[[resp]]
+name = "France. Assemblee nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "Chez C. Belle, imprimeur du roi & du departement du Gard, rue des Fourbisseurs"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_853358"
+
+[[text]]
+file = "case_oversize_frc_10468_no_02.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

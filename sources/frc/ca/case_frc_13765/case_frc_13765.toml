@@ -1,0 +1,52 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_13765"
+type = "pamphlet"
+title = "Discours prononcé par Baborier, sur un hommage fait au Conseil : séance du 23 ventose an 7."
+place = "A Paris"
+date = "1799"
+url = "https://archive.org/details/case_frc_13765"
+subject = ["Book donations"]
+extent = "2 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 13765"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9s22rt2p"
+internet_archive = "case_frc_13765"
+
+[scan]
+file = "case_frc_13765.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_13765"
+
+[[resp]]
+name = "Baborier, François, 1746-1811"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_829098"
+
+[[text]]
+file = "case_frc_13765.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_13765.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

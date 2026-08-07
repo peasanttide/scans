@@ -1,0 +1,60 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_oversize_frc_27592"
+type = "pamphlet"
+title = "Instruction de l'agent national provisoire du district de Grenoble a ses concitoyens, sur l'execution de la loi du maximum"
+language = "fr"
+place = "A Grenoble"
+date = "1793"
+url = "https://archive.org/details/case_oversize_frc_27592"
+subject = [
+    "Price regulation",
+    "Revolution (France : 1789-1799)",
+    "Economics",
+    "History",
+    "Examinations",
+]
+extent = "1 sheet ; 54 x 43 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "Newberry Library"
+shelfmark = "Case oversize FRC 27592"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7jq5nk5q"
+internet_archive = "case_oversize_frc_27592"
+
+[scan]
+file = "case_oversize_frc_27592.pdf"
+count = 2
+by = "Internet Archive"
+url = "https://archive.org/details/case_oversize_frc_27592"
+note = "Scanned on Internet Archive Python library 0.9.2."
+
+[[resp]]
+name = "Hilaire"
+role = "author"
+
+[[resp]]
+name = "Guermeur, Jacques-Tanguy-Marie, 1750-1798; Grenot, Antoine"
+role = "author"
+
+[[resp]]
+name = "Chez J.M. Cuchet, imprimeur du departement de l'Isere"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_868941"
+
+[[text]]
+file = "case_oversize_frc_27592.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

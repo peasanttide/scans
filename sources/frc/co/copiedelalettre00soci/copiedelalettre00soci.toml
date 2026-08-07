@@ -1,0 +1,86 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "copiedelalettre00soci"
+type = "pamphlet"
+title = "... Copie de la lettre /"
+language = "fr"
+place = "Paris"
+date = "1793"
+note = "Caption title. Imprint from colophon. At head of title: Société des amis de la liberté et de l'égalité, séante aux ci-devant Jacobins Saint-Honoré, à Paris. About a break in relations with the Jacobins. Martin & Walter IV 2: 4705. Scanner's note: Title on cover. Damaged, stained pages and cover.<br />No copyright. No table of contents. <br /><br />."
+url = "https://archive.org/details/copiedelalettre00soci"
+subject = ["Jacobins"]
+extent = "3 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 2498"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5s80dz6g"
+internet_archive = "copiedelalettre00soci"
+
+[scan]
+file = "copiedelalettre00soci.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/copiedelalettre00soci"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "Société des amis de la liberté et de l'égalité de Rennes"
+role = "author"
+
+[[resp]]
+name = "Société des amis de la liberté et de l'égalité de Rennes"
+role = "author"
+
+[[resp]]
+name = "Duval, Charles François Marie, 1750-1829"
+role = "author"
+
+[[resp]]
+name = "Société des amis de la liberté et de l'égalité séante aux ci-devant Jacobins"
+role = "author"
+
+[[resp]]
+name = "Rennes (France)"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de L. Potier de Lille"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_43498"
+
+[[text]]
+file = "copiedelalettre00soci.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "copiedelalettre00soci.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "copiedelalettre00soci.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "copiedelalettre00soci.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

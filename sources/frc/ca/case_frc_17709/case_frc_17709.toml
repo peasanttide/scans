@@ -1,0 +1,55 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_17709"
+type = "pamphlet"
+title = "Discours prononcé par le citoyen Dubois-Fontanelle, président du Lycée, à la premiere séance publique, tenue dans la grande salle du Musée, le 30 thermidor, an sept"
+place = "France"
+date = "1799"
+url = "https://archive.org/details/case_frc_17709"
+subject = [
+    "Lycée de Grenoble",
+    "Education",
+]
+extent = "[2] p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 17709"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0fv3m832"
+internet_archive = "case_frc_17709"
+
+[scan]
+file = "case_frc_17709.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_17709"
+
+[[resp]]
+name = "Dubois-Fontanelle, Jean Gaspard, 1737-1812"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=836734"
+
+[[text]]
+file = "case_frc_17709.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_17709.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

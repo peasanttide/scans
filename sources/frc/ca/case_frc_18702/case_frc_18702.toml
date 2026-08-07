@@ -1,0 +1,55 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_18702"
+type = "pamphlet"
+title = "Le ministre de la police générale de la République à ses concitoyens"
+place = "Paris"
+date = "1799"
+url = "https://archive.org/details/case_frc_18702"
+subject = [
+    "Political science",
+    "History",
+]
+extent = "[2] p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 18702"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6f240j96"
+internet_archive = "case_frc_18702"
+
+[scan]
+file = "case_frc_18702.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_18702"
+
+[[resp]]
+name = "Fouché, Joseph, duc d'Otrante, 1759-1820"
+role = "author"
+
+[[resp]]
+name = "De l’Imprimerie de la République, brumaire an VIII"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=839239"
+
+[[text]]
+file = "case_frc_18702.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_18702.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

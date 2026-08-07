@@ -1,0 +1,57 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_5593"
+type = "pamphlet"
+title = "La Montagne : chanson patriotique ; avec accompt. de guittare ; air: De la croisée"
+place = "Paris"
+date = "1793"
+url = "https://archive.org/details/case_frc_5593"
+subject = ["Montagnards"]
+extent = "[2] leaves ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+shelfmark = "Case FRC 5593"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t01z9mv19"
+internet_archive = "case_frc_5593"
+
+[scan]
+file = "case_frc_5593.pdf"
+count = 5
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_5593"
+
+[[resp]]
+name = "Chez Frere, passage du Saumon"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_58058"
+
+[[text]]
+file = "case_frc_5593.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_5593.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_5593.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_5593.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

@@ -1,0 +1,51 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: case_frc_11727
+page: 1
+engine: ABBYY FineReader 11.0
+w: 2220
+h: 3600
+dpi: 300
+---
+
+>'■<?.<£ v-r- • T/ 3 <2/
+
+c Q N V E N f ï 6 N N A T I O N A L E ."'
+
+,> '' '** ' \
+
+COMPTE RENDU fe"
+
+i o zn
+
+A LA CONVENTION NATIONALE,
+
+' \
+
+En exécution du décret du 21 nivôse, an 3 ,
+
+Par P. A. G A RR AU,
+
+REPRÉSENTANT DU PEUPLE,
+
+V
+
+Envoyé en million près l’armée des Pyrénées-Occidentales ;
+
+Concernant les taxes révolutiojm aires p
+offrandes & dons patriotiques ^ &c.
+
+Imprime par ordre de la Convention national,!*
+
+R. IEN IMPOSÉ.
+
+Rien reçu.
+
+Sainte-Foy, ce 7 Pluviôse, l’an 3 de la République UH*
+et indivisible. Garrau.
+
+** • y
+
+A PARIS, DE L’IMPRIMERIE NATIONALE.
+
+Pluviôse, l’an III,

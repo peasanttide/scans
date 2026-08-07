@@ -1,0 +1,67 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_17775"
+type = "pamphlet"
+title = "Motion de M. l’évêque de Chalons-sur-Marne, sur l’association de bienfaisance judiciaire"
+place = "A Paris"
+date = "1790"
+note = 'Date given by the catalogue as "1790?".'
+url = "https://archive.org/details/case_frc_17775"
+subject = [
+    "Legal assistance to the poor",
+    "Legal aid",
+    "Justice, Administration of",
+]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 17775"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3tt9np50"
+internet_archive = "case_frc_17775"
+
+[scan]
+file = "case_frc_17775.pdf"
+count = 5
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_17775"
+
+[[resp]]
+name = "Clermont-Tonnerre, Anne-Antoine-Jules de, 1749-1830"
+role = "author"
+
+[[resp]]
+name = "De l’Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=833758"
+
+[[text]]
+file = "case_frc_17775.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_17775.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_17775.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_17775.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

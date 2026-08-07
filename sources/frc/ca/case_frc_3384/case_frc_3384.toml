@@ -1,0 +1,61 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_3384"
+type = "pamphlet"
+title = "... Message : Extrait du registre des délibérations"
+place = "Paris"
+date = "1799"
+url = "https://archive.org/details/case_frc_3384"
+subject = ["Disabled veterans"]
+extent = "2 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+shelfmark = "Case FRC 3384"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6zw6w46t"
+internet_archive = "case_frc_3384"
+
+[scan]
+file = "case_frc_3384.pdf"
+count = 5
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_3384"
+
+[[resp]]
+name = "France. Directoire exécutif"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_51386"
+
+[[text]]
+file = "case_frc_3384.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_3384.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_3384.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_3384.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

@@ -1,0 +1,58 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_19115"
+type = "pamphlet"
+title = "Rapport fait par Girot-Pouzol au nom d'une commission spéciale sur la résolution du Conseil des cinq-cents, en date du 18 fructidor an 5, sur les mesures de salut public : séance de la nuit du 18 au 19 fructidor an 5"
+place = "A Paris"
+date = "1797"
+url = "https://archive.org/details/case_frc_19115"
+subject = [
+    "National security",
+    "Deportees",
+    "Elections",
+    "History",
+    "Coup d'état (France : 1797)",
+]
+extent = "2 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 19115"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4bp54318"
+internet_archive = "case_frc_19115"
+
+[scan]
+file = "case_frc_19115.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_19115"
+
+[[resp]]
+name = "Girot-Pouzol, Jean Baptiste, 1753-1822"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=840150"
+
+[[text]]
+file = "case_frc_19115.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_19115.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

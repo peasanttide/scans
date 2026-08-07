@@ -1,0 +1,60 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "comptedelarecett00bayl"
+type = "pamphlet"
+title = "Compte de la recette & de la dépense faite par Moyse Bayle & Boisset, représentans du peuple, pour leur mission dans les départemens de la Drôme & des Bouches-du-Rhône, pendant les mois de mars, avril & mai 1793 (vieux style)."
+language = "fr"
+date = "1795"
+note = """Caption title. At head of title: Convention nationale. Imprint from colophon. "Imprimé en exécution du décret du 21 nivôse de la troisième année de la République une, indivisible & démocratique.". Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,I, 2153. Scanner's note: Title found on front cover. No copyright page found. No table-of-contents pages found."""
+url = "https://archive.org/details/comptedelarecett00bayl"
+subject = [
+    "France. Convention nationale",
+    "Finance, Public",
+]
+extent = "2 p. ;20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "CaseFRC10668"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1kh3mv9n"
+internet_archive = "comptedelarecett00bayl"
+
+[scan]
+file = "comptedelarecett00bayl.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/comptedelarecett00bayl"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Bayle, Moïse Antoine Pierre Jean,1755-1815?"
+role = "author"
+
+[[resp]]
+name = "[Paris] :De l'Imprimerie nationale,"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_824297"
+
+[[text]]
+file = "comptedelarecett00bayl.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "comptedelarecett00bayl.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"

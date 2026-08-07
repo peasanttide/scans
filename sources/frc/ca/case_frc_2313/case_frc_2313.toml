@@ -1,0 +1,54 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_2313"
+type = "pamphlet"
+title = "... Extrait du registre des délibérations du Conseil-exécutif provisoire : séance du 25 septembre 1792, l'an premier de la République ; imprimé par ordre de la Convention nationale, envoyé aux 83 départemens & à l'Armée"
+place = "Paris"
+date = "1792"
+url = "https://archive.org/details/case_frc_2313"
+subject = [
+    "International relations",
+    "Revolution (France : 1789-1799)",
+]
+extent = "[1] p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+shelfmark = "Case FRC 2313"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9m387x1d"
+internet_archive = "case_frc_2313"
+
+[scan]
+file = "case_frc_2313.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_2313"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_43089"
+
+[[text]]
+file = "case_frc_2313.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_2313.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

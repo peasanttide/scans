@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "comptedfinitif00fran"
+type = "pamphlet"
+title = "... Compte définitif /"
+language = "fr"
+place = "Paris"
+date = "1792"
+note = "Caption title. Imprint from colophon. At head of title: Convention nationale. Dated at end: Paris, le 27 novembre 1792, l'an premier de la République. Summary inventory of confiscated items of value. Martin & Walter IV 2: 4369. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on cover page. Damaged, stained and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/comptedfinitif00fran"
+subject = ["Confiscations"]
+extent = "3 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 2257"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0102864s"
+internet_archive = "comptedfinitif00fran"
+openlibrary_edition = "OL26218405M"
+openlibrary_work = "OL17614111W"
+
+[scan]
+file = "comptedfinitif00fran.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/comptedfinitif00fran"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale. Comité de sûreté générale"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale. Comité de sûreté générale"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_48093"
+
+[[text]]
+file = "comptedfinitif00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "comptedfinitif00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "comptedfinitif00fran.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "comptedfinitif00fran.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

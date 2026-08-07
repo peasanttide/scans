@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "circularletter00panc"
+type = "pamphlet"
+title = "[Circular letter to subscribers to the Encyclopédie méthodique"
+language = "fr"
+date = "1788"
+note = "Dated at end: Paris, novembre 1788. Signed in ms.: C. Panckoucke. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Title page and cover are combined."
+url = "https://archive.org/details/circularletter00panc"
+subject = [
+    "Encyclopédie méthodique, ou par ordre des matières",
+    "Publishers and publishing",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 7 no. 13"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2c88019b"
+internet_archive = "circularletter00panc"
+
+[scan]
+file = "circularletter00panc.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/circularletter00panc"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Panckoucke"
+role = "author"
+
+[[resp]]
+name = "Panckoucke, publisher, Paris"
+role = "author"
+
+[[resp]]
+name = "Panckoucke, Charles Joseph, 1736-1798"
+role = "author"
+
+[[resp]]
+name = "Paris"
+role = "publisher"
+
+[[text]]
+file = "circularletter00panc.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "circularletter00panc.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "circularletter00panc.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "circularletter00panc.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

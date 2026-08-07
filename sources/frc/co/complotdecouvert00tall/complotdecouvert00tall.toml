@@ -1,0 +1,81 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "complotdecouvert00tall"
+type = "pamphlet"
+title = "Complot découvert a Perpignan pour une contre-révolution."
+language = "fr"
+place = "Marseille?"
+date = "1790"
+note = """Caption title. Imprint from colophon. "Extrait d'une lettre lue à l'Assemblée patriotique des amis de la constitution de Marseille, l'an second de la liberté, par un democrate. Compilé par Tassy"--P. 4. Not in Martin & Walter. Révolution française. Scanner's note: Skewed text. Damaged, stained and/or loose pages."""
+url = "https://archive.org/details/complotdecouvert00tall"
+subject = [
+    "Conspiracy",
+    "Counterrevolutionaries",
+]
+extent = "4 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 25612"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2q57xv70"
+internet_archive = "complotdecouvert00tall"
+
+[scan]
+file = "complotdecouvert00tall.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/complotdecouvert00tall"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Tallien, Jean-Lambert, 1767-1912"
+role = "author"
+
+[[resp]]
+name = "Tassy"
+role = "editor"
+
+[[resp]]
+name = "Société des amis de la constitution (Marseille, France)"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de F. Brebion, près la Loge"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_858977"
+
+[[text]]
+file = "complotdecouvert00tall.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "complotdecouvert00tall.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "complotdecouvert00tall.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "complotdecouvert00tall.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

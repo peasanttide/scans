@@ -1,0 +1,61 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_1468"
+type = "pamphlet"
+title = "La botte de foin : ou mort tragique du Sr Foulon, ministre de quarante-huit heures ; suivie de celle de l'intendant de Paris"
+place = "A Paris"
+date = "1789"
+url = "https://archive.org/details/case_frc_1468"
+subject = [
+    "Foullon, Joseph-François, 1715-1789",
+    "Bertier de Sauvigny, Louis-Bénigne-François de, 1737-1789",
+    "Revolution (France : 1789-1799)",
+]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+shelfmark = "Case FRC 1468"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5fc0gz3s"
+internet_archive = "case_frc_1468"
+
+[scan]
+file = "case_frc_1468.pdf"
+count = 5
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_1468"
+
+[[resp]]
+name = "Chez Maradan"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_45389"
+
+[[text]]
+file = "case_frc_1468.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_1468.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_1468.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_1468.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

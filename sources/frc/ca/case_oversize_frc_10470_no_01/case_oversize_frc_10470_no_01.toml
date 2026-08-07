@@ -1,0 +1,59 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_oversize_frc_10470_no_01"
+type = "pamphlet"
+title = "Adresse du conseil-general du departement de Loir et Cher, a ses concitoyens"
+language = "fr"
+place = "A Blois"
+date = "1793"
+url = "https://archive.org/details/case_oversize_frc_10470_no_01"
+subject = [
+    "Constitutional law",
+    "Constitution (France : 1793)",
+    "History",
+    "Revolution (France : 1789-1799)",
+]
+extent = "1 sheet ; 54 x 42 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "Newberry Library"
+shelfmark = "Case oversize FRC 10470 no. 1"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3615q85d"
+internet_archive = "case_oversize_frc_10470_no_01"
+
+[scan]
+file = "case_oversize_frc_10470_no_01.pdf"
+count = 2
+by = "Internet Archive"
+url = "https://archive.org/details/case_oversize_frc_10470_no_01"
+note = "Scanned on Internet Archive Python library 0.9.2."
+
+[[resp]]
+name = "Loir-et-Cher (France). Conseil general"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale. Comite de salut public; France. Convention nationale. Comite de sûreté générale; France. Convention nationale. Comite de législation"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale du departement de Loir et Cher, chez J.F. Billault"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_72606"
+
+[[text]]
+file = "case_oversize_frc_10470_no_01.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

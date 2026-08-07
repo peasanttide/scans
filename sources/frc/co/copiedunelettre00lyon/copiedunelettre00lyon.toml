@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "copiedunelettre00lyon"
+type = "pamphlet"
+title = "... Copie d'une lettre /"
+language = "fr"
+place = "Paris"
+date = "1792"
+note = """Caption title. Imprint from colophon. At head of title: Société des amis de la liberté et de l'égalité. Dated on p.4: Lyon, le 7 décembre 1792, l'an premier de la République françoise. The approval for printing given by the Society is dated 14 December 1792. See p.4. "... nous serons à Lyon ce que vous êtes à Paris, le fléau des aristocrates ... la verge qui frappera les intrigues & les ambitieux ...": p.2. Martin & Walter IV 2: 9242 (another edition of this text is Martin & Walter IV 2: 9243). Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover."""
+url = "https://archive.org/details/copiedunelettre00lyon"
+extent = "4 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 5192"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1mh2xb9k"
+internet_archive = "copiedunelettre00lyon"
+openlibrary_edition = "OL26212740M"
+openlibrary_work = "OL17608723W"
+
+[scan]
+file = "copiedunelettre00lyon.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/copiedunelettre00lyon"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Lyon (France)"
+role = "author"
+
+[[resp]]
+name = "Société des amis de la liberté et de l'égalité"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de L. Potier de Lille"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_53449"
+
+[[text]]
+file = "copiedunelettre00lyon.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "copiedunelettre00lyon.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "copiedunelettre00lyon.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "copiedunelettre00lyon.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

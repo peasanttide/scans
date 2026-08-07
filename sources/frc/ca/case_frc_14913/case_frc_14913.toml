@@ -1,0 +1,55 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_14913"
+type = "pamphlet"
+title = "Discours de Lucien Bonaparte, président du Conseil des cinq-cents, aux troupes, au milieu de la cour du palais de Saint-Cloud, le 19 brumaire an 8"
+place = "A Saint-Cloud"
+date = "1799"
+url = "https://archive.org/details/case_frc_14913"
+subject = [
+    "Coup d'état (France : 1799)",
+    "History",
+]
+extent = "2 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 14913"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4sj6hp6w"
+internet_archive = "case_frc_14913"
+
+[scan]
+file = "case_frc_14913.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_14913"
+
+[[resp]]
+name = "Bonaparte, Lucien, prince de Canino, 1775-1840"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=831699"
+
+[[text]]
+file = "case_frc_14913.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_14913.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

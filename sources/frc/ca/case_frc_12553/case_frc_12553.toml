@@ -1,0 +1,59 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_12553"
+type = "pamphlet"
+title = "Compte rendu à la Convention nationale, en exécution du décret du 21 nivôse dernier, par Mauduyt, représentant du peuple, député par le département de Seine & Marne, des dépenses qu'il a faites pendant la mission qu'il a remplie, en mars et avril 1793 (vieux style), dans les départemens de l'Oise et de Seine et Marne."
+place = "A Paris"
+date = "1795"
+url = "https://archive.org/details/case_frc_12553"
+subject = [
+    "Finance, Public",
+    "France. Convention nationale",
+    "Expenditures, Public",
+    "History",
+    "Revolution (France : 1789-1799)",
+    "Economics",
+]
+extent = "2 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 12553"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0ns5jb6h"
+internet_archive = "case_frc_12553"
+
+[scan]
+file = "case_frc_12553.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_12553"
+
+[[resp]]
+name = "Mauduyt, Pierre François Ange, 1760-1833"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_826783"
+
+[[text]]
+file = "case_frc_12553.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_12553.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

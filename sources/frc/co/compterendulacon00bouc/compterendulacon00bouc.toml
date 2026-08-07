@@ -1,0 +1,60 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "compterendulacon00bouc"
+type = "pamphlet"
+title = "Compte rendu à la Convention nationale, en exécution de son décret du 21 nivôse dernier"
+language = "fr"
+date = "1795"
+note = "Caption title. At head of title: Convention nationale. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,I, 4444."
+url = "https://archive.org/details/compterendulacon00bouc"
+subject = [
+    "France. Convention nationale",
+    "Finance, Public",
+]
+extent = "2 p. ;20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "CaseFRC10925"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t03z19535"
+internet_archive = "compterendulacon00bouc"
+
+[scan]
+file = "compterendulacon00bouc.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/compterendulacon00bouc"
+ppi = 650
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Bouchereau, Augustin-François,1756-1841"
+role = "author"
+
+[[resp]]
+name = "[Paris] :De l'Imprimerie nationale,"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_823896"
+
+[[text]]
+file = "compterendulacon00bouc.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "compterendulacon00bouc.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"

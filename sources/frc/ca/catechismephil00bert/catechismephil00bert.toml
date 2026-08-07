@@ -1,0 +1,67 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "catechismephil00bert"
+type = "pamphlet"
+title = "Catéchisme philosophique, ou, Recueil d'observations propres à défendre la religion chrétienne contre ses ennemis"
+language = "fr"
+place = "Paris?"
+date = "1776"
+note = """Prospectus for: Catéchisme philosophique, ou, Recueil d'observations propres à défendre la religion chrétienne contre ses ennemis / par M. l'abbé Flexier de Réval. Paris : Charles-Pierre Berton, 1777. Caption title. "Vol. in-8°. de près de 700 p., 6 [livres]"--P. [1]. Bookseller's catalog (p. [2]) includes books published 1774-1776. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Title page and cover are combined."""
+url = "https://archive.org/details/catechismephil00bert"
+subject = [
+    "Feller, F.-X. de (François-Xavier), 1735-1802",
+    "Berton, Charles-Pierre, d. 1788",
+    "Booksellers and bookselling",
+    "Religious literature",
+    "Catechisms",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1e no. 6"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0vq8mr61"
+internet_archive = "catechismephil00bert"
+
+[scan]
+file = "catechismephil00bert.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/catechismephil00bert"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Berton, Charles-Pierre,d. 1788"
+role = "author"
+
+[[resp]]
+name = "Berton, Charles-Pierre, d. 1788"
+role = "author"
+
+[[resp]]
+name = "Feller, F.-X. de (François-Xavier), 1735-1802. Catéchisme philosophique"
+role = "author"
+
+[[resp]]
+name = "Charles-Pierre Berton?"
+role = "publisher"
+
+[[text]]
+file = "catechismephil00bert.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "catechismephil00bert.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

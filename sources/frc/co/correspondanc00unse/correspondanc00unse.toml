@@ -1,0 +1,65 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "correspondanc00unse"
+type = "pamphlet"
+title = "Correspondance secrette, ou, Lettre d'un négociant en gros a un de ses pairs."
+language = "fr"
+place = "Bordeaux?"
+date = "1790"
+note = "Caption title. Possibly published in Bordeaux around 1790 based on references in the text to Bordeaux and the États-généraux held in 1789. Signatures: [A]². Head-piece. Not in Bibliothèque nationale (France). Catalogue de l'histoire de la Révolution française. Forms part of the French Revolution Collection at the Newberry Library. Copy bound with other titles: No. 32 of 45 titles bound together."
+url = "https://archive.org/details/correspondanc00unse"
+subject = ["France. États généraux"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case HD9747.F72 D68 1784 no. 32"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6451px43"
+internet_archive = "correspondanc00unse"
+
+[scan]
+file = "correspondanc00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/correspondanc00unse"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "French Revolution Collection (Newberry Library) ICN"
+role = "author"
+
+[[resp]]
+name = "[publisher not identified]"
+role = "publisher"
+
+[[text]]
+file = "correspondanc00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "correspondanc00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "correspondanc00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "correspondanc00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

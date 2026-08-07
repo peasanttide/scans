@@ -1,0 +1,74 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "copiedunelettrem00meng"
+type = "pamphlet"
+title = "Copie d'une lettre à M. Picquenard : officier de la Garde nationale parisienne, place & section de Louis XIV ; l'original est resté entre ses mains /"
+language = "fr"
+place = "Paris"
+date = "1791"
+note = "Caption title. Imprint from colophon. Martin & Walter IV 2: 4676 (which specifies: Sur l'émigration d'un grand nombre d'officiers et sur le civisme de ceux qui sont restés). Scanner's note: Title on cover. Damaged, stained pages and cover.<br />No copyright. No table of contents. <br /><br />."
+url = "https://archive.org/details/copiedunelettrem00meng"
+subject = ["France. Armée"]
+extent = "3 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 2485"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0ps2tw9m"
+internet_archive = "copiedunelettrem00meng"
+
+[scan]
+file = "copiedunelettrem00meng.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/copiedunelettrem00meng"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "M.***, en garnison en la ville de Dunkerque"
+role = "author"
+
+[[resp]]
+name = "Picquenard"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de L. Potier de Lille"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_44735"
+
+[[text]]
+file = "copiedunelettrem00meng.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "copiedunelettrem00meng.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "copiedunelettrem00meng.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "copiedunelettrem00meng.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

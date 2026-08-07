@@ -1,0 +1,64 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_959"
+type = "pamphlet"
+title = "Projet de Déclaration des droits de l'homme en société : présenté le 17 août 1787 [i.e. 1789]"
+place = "A Paris"
+date = "1789"
+url = "https://archive.org/details/case_frc_959"
+subject = [
+    "Déclaration des droits de l'homme et du citoyen (France)",
+    "Revolution (France : 1789-1799)",
+]
+extent = "4 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+shelfmark = "Case FRC 959"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t89h12z8k"
+internet_archive = "case_frc_959"
+
+[scan]
+file = "case_frc_959.pdf"
+count = 5
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_959"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791). Comité chargé de l'examen des Déclarations de droits"
+role = "author"
+
+[[resp]]
+name = "Chez Baudouin"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_39928"
+
+[[text]]
+file = "case_frc_959.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_959.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_959.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_959.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

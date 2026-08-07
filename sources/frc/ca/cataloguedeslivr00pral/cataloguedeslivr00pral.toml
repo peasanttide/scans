@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "cataloguedeslivr00pral"
+type = "pamphlet"
+title = "Catalogue des livres imprimez a Paris, chez Pralard, cloître Saint Julien le Pauvre, au bas de la ruë Saint Jacques, à l'Occasion"
+language = "fr"
+place = "Paris"
+date = "1732"
+note = "Caption title. Publication date based on publication dates of books listed. Head-piece. Printed in double columns. Catalog of primarily religious literature. With prices. Ms. annotations. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Text extends off of the edge of the page. Text may be lost in the binding. Permanent creases may obscure some text. Title page and cover are combined."
+url = "https://archive.org/details/cataloguedeslivr00pral"
+subject = [
+    "Pralard, Jacques-Henri, d. 1749",
+    "Religious literature, French",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 4 no. 91"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0005tk07"
+internet_archive = "cataloguedeslivr00pral"
+
+[scan]
+file = "cataloguedeslivr00pral.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/cataloguedeslivr00pral"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Pralard, Jacques-Henri,d. 1749"
+role = "author"
+
+[[resp]]
+name = "Pralard, Jacques-Henri, d. 1749"
+role = "author"
+
+[[resp]]
+name = "Jacques-Henri Pralard"
+role = "publisher"
+
+[[text]]
+file = "cataloguedeslivr00pral.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "cataloguedeslivr00pral.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "cataloguedeslivr00pral.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "cataloguedeslivr00pral.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

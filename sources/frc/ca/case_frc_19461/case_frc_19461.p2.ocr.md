@@ -1,0 +1,48 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: case_frc_19461
+page: 2
+engine: ABBYY FineReader 11.0
+w: 2273
+h: 3600
+dpi: 300
+---
+
+t 2
+
+ilépiiWiqne, et qui déjà avoit fourni dix-neuf bataillon?
+<le volontaires , ])lus de deux mille conscrits de la pre-
+jTiIère classe ont entendn la voix de la patrie , ont été
+enfouie faire inscrire leurs noigs sur le livre des héros,
+et voient aux armées avec cet enthousiasme républicain
+qui signala les baux jours de la révolution,
+
+Le 2C) brumaire , cinq cents jeunes conscrits , réunis
+au chei-lieii , précédés d’une musique guerrière , ac-
+compagnés de l’administration centrale et autres auto-
+rités constituées, partirent de Bourg pour l’armée d’I-
+talie, auxclianls la Victoire, la Marseillaise et le
+JDépart , et aux cris de vive la Kè publique l
+
+Les jours sidvans , d’autres détacbemens sont succes-
+sivement paitis avec la même alégresse.
+
+En vain le royalisme et le fanatisme ont redoublé
+d’intrigue pour corrompre nos jeunes défenseurs, l’ad-
+ministration centrale et la majorité des municipalités
+ont comprimé leurs manœuvres, et déployé dans cetta
+
+circonstance un zèle digne d’éloges.
+
+(
+
+J^en demande la mention honorable au procès-verbal,
+
+lia mention honorable et l’impression ont été or-
+données.
+
+r;. . ■ I — — i — ;
+
+DE L’EMPRIiViERIE NATIONALE. Frimaire an 74
+
+»

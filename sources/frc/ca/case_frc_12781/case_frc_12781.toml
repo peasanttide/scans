@@ -1,0 +1,59 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_12781"
+type = "pamphlet"
+title = "Compte rendu a la Convention nationale, conformément au décret du 21 nivôse, par Pérard, député de Maine-&-Loire, de ce qi'il a perçu, dépensé ou rendu, relativement à la mission dont il a été chargé."
+place = "Paris"
+date = "1795"
+url = "https://archive.org/details/case_frc_12781"
+subject = [
+    "Finance, Public",
+    "France. Convention nationale",
+    "Expenditures, Public",
+    "History",
+    "Revolution (France : 1789-1799)",
+    "Economics",
+]
+extent = "2 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 12781"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2w42jc8z"
+internet_archive = "case_frc_12781"
+
+[scan]
+file = "case_frc_12781.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_12781"
+
+[[resp]]
+name = "Pérard, Charles François Jean, 1760-1833"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_827005"
+
+[[text]]
+file = "case_frc_12781.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_12781.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

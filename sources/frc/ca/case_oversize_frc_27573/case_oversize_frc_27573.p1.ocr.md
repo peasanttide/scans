@@ -1,0 +1,45 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: case_oversize_frc_27573
+page: 1
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 2386
+h: 3600
+dpi: 300
+---
+
+Signature de l’Actionnaire.
+
+Tcc n aæ
+
+X-i edit Corsaire màté en bricq, connu par la supériorité de sa marche de
+soixante-dix pieds de tête en tête, vingt pieds de bau , percé a seize’ sa
+bords, dont deux de chasse et deux de retraite, garni de pierriers , espingoles
+fus.ls, pistolets, sabres, lances, haches d’abordage, chandeliers, filets de basl
+tingage, coffre d’armes, etc.
+
+Armé de quatre-vingt-dix à cent hommes d’équipage', dont l’Etat-major de
+dix à douze Officiers.
+
+Les actions seront de 1000 livres valeur métallique, avec liberté de n’en
+prendre qu’une demie.
+
+Les Actionnaires et l’Armateur se conformeront du reste aux cond
+détaillées dans le prospectus d’armement, dont ceci n’est que le précis; le<
+taine suivra les instructions particulières qui lui seront données.
+
+Il sera fourni à chaque Actionnaire un compte détaillé d’armement
+fera connoître à chacun le montant total de la mise-hors.
+
+L’Equipage aura un tiers dans le net produit des prises ; les intéressés les
+tiers. Elles seront vendues en argent, autant nue faire se . ;i
+
+Je soussigné , Armateur du Corsaire l’Espérance, reconuois avoir regu de
+MA la somme de ( /oi/Û
+
+poui^participer , de ce jour, aux bons et mauvais événements qui pourront
+résulter de 1 armement et mise-hors dudit Corsaire. j/\
+
+Nota. L’ordre de recevoir au bat du présent, pour les personnes absentes
+vaudra à une procuration.

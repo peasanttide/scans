@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "cabinetlitterair00vauf"
+type = "pamphlet"
+title = "Cabinet littéraire national, au Palais royal : ou Magasin de librairie, journaux, gazettes, & de tous les papiers publics ; objets concernant l'Assemblée nationale, & autres papiers publics qui se donnent à lire par abonnement ou par séance /"
+language = "fr"
+place = "Paris"
+date = "1791"
+note = "Caption title. Imprint from colophon. Dated in contemporary ms. at head of p.[1]: 4. 8bre [octobre] 1791. Not in Martin & Walter. Scanner's note: No title page found. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/cabinetlitterair00vauf"
+subject = [
+    "France. Assemblée nationale constituante (1789-1791)",
+    "Booksellers' catalogs",
+]
+extent = "4 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 1591"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9382d668"
+internet_archive = "cabinetlitterair00vauf"
+openlibrary_edition = "OL26208124M"
+openlibrary_work = "OL17604407W"
+
+[scan]
+file = "cabinetlitterair00vauf.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/cabinetlitterair00vauf"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Vaufleury, Madame"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de L. Potier de Lille"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_46105"
+
+[[text]]
+file = "cabinetlitterair00vauf.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "cabinetlitterair00vauf.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "cabinetlitterair00vauf.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "cabinetlitterair00vauf.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

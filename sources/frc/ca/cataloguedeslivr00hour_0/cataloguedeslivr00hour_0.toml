@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "cataloguedeslivr00hour_0"
+type = "pamphlet"
+title = "Catalogue des livres qui se vendent chez Charles-Maurice d'Houry pere, imprimeur-libraire de Monseigneur le duc d'Orleans, rue Vieille Bouclerie"
+language = "fr"
+place = "Paris"
+date = "1750"
+note = """Caption title. Publication information from BN. Head-piece. BN. Catalogues de libraires. Catalog comprised mostly of listings for medical literature. "Livres d'assortimens"--P. 2-4. With prices. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Title page and cover are combined."""
+url = "https://archive.org/details/cataloguedeslivr00hour_0"
+subject = [
+    "Houry, Charles-Maurice d', 1688-1755",
+    "Medical literature",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 4 no. 63"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9091z95s"
+internet_archive = "cataloguedeslivr00hour_0"
+
+[scan]
+file = "cataloguedeslivr00hour_0.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/cataloguedeslivr00hour_0"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Houry, Charles-Maurice d',1688-1755"
+role = "author"
+
+[[resp]]
+name = "Houry, Charles-Maurice d', 1688-1755"
+role = "author"
+
+[[resp]]
+name = "Charles-Maurice d'Houry"
+role = "publisher"
+
+[[text]]
+file = "cataloguedeslivr00hour_0.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "cataloguedeslivr00hour_0.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "cataloguedeslivr00hour_0.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "cataloguedeslivr00hour_0.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

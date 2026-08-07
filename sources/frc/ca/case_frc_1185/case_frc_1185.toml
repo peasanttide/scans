@@ -1,0 +1,45 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_1185"
+type = "pamphlet"
+title = "Au juges de Louis XVI : un véritable ami du peuple et de l'humanité"
+date = "1792"
+url = "https://archive.org/details/case_frc_1185"
+subject = [
+    "Louis XVI, King of France, 1754-1793",
+    "Revolution (France : 1789-1799)",
+]
+extent = "2 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+shelfmark = "Case FRC 1185"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1ck3tp2b"
+internet_archive = "case_frc_1185"
+
+[scan]
+file = "case_frc_1185.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_1185"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_40874"
+
+[[text]]
+file = "case_frc_1185.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_1185.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

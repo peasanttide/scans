@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "chansonpatriotiq00guen"
+type = "pamphlet"
+title = "Chanson patriotique sur le succès de nos armées : adressée a la jeunesse française /"
+language = "fr"
+place = "A Avalon"
+date = "1795"
+note = """Caption title. "Air: Sur un sopha dans un boudoir, &c."--P. [1]. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on front cover. Damaged and stained pages.  Skewed text."""
+url = "https://archive.org/details/chansonpatriotiq00guen"
+subject = [
+    "Moreau, Jean Victor Marie, 1763-1813",
+    "First Coalition, War of the, 1792-1797",
+    "Revolutionary ballads and songs",
+]
+extent = "3 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 19488"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1dk09q4q"
+internet_archive = "chansonpatriotiq00guen"
+openlibrary_edition = "OL25946229M"
+openlibrary_work = "OL17367408W"
+
+[scan]
+file = "chansonpatriotiq00guen.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/chansonpatriotiq00guen"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Guéniot, Ch. Fr"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie d'Antoine Aubry"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_840752"
+
+[[text]]
+file = "chansonpatriotiq00guen.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "chansonpatriotiq00guen.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "chansonpatriotiq00guen.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "chansonpatriotiq00guen.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

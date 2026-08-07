@@ -1,0 +1,74 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_3227"
+type = "pamphlet"
+title = "... Message : Extrait du registre des délibérations"
+place = "A Paris"
+date = "1796"
+url = "https://archive.org/details/case_frc_3227"
+subject = [
+    "Paper money",
+    "Public lands",
+]
+extent = "3 p., [1] leaf of plates (folded table) ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+shelfmark = "Case FRC 3227"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t66455m2p"
+internet_archive = "case_frc_3227"
+
+[scan]
+file = "case_frc_3227.pdf"
+count = 7
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_3227"
+
+[[resp]]
+name = "France. Directoire exécutif"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_46947"
+
+[[text]]
+file = "case_frc_3227.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_3227.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_3227.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_3227.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_3227.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_3227.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

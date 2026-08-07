@@ -1,0 +1,85 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "claviculeduch00deza"
+type = "pamphlet"
+title = "Clavicule du cheval, ou, Tableau des connoissances relatives a cet animal"
+language = "fr"
+place = "Paris"
+date = "1776"
+note = """Prospectus for La Fosse's "Clavicule du cheval.". Caption title. "Permis d'imprimer ce 21 may 1776.". Text within double line border. "Prix 4 [l.] 10 s.". Ms. annotations. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Title page and cover are combined."""
+url = "https://archive.org/details/claviculeduch00deza"
+subject = [
+    "La Fosse, Étienne-Guillaume, d. 1765",
+    "Booksellers and bookselling",
+    "Veterinary literature",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1a no. 70"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5gb7s97j"
+internet_archive = "claviculeduch00deza"
+
+[scan]
+file = "claviculeduch00deza.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/claviculeduch00deza"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Dezauche, J"
+role = "author"
+
+[[resp]]
+name = "La Fosse, Étienne-Guillaume, d. 1765. Clavicule du cheval"
+role = "author"
+
+[[resp]]
+name = "Se vendent a Paris chez Dezauche, graveur, rue St. Severin, la porte cochère faisant face à la rue de la Harpe"
+role = "publisher"
+
+[[text]]
+file = "claviculeduch00deza.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "claviculeduch00deza.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "claviculeduch00deza.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "claviculeduch00deza.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "claviculeduch00deza.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "claviculeduch00deza.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

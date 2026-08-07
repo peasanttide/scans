@@ -1,0 +1,65 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_17443"
+type = "pamphlet"
+title = "Compte rendu a la Convention nationale, en exécution du décret du 21 nivôse de l'an III"
+place = "A Paris"
+date = "1795"
+url = "https://archive.org/details/case_frc_17443"
+subject = [
+    "France. Convention nationale",
+    "Finance, Public",
+]
+extent = "[1] p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 17443"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2w42sp3g"
+internet_archive = "case_frc_17443"
+
+[scan]
+file = "case_frc_17443.pdf"
+count = 5
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_17443"
+
+[[resp]]
+name = "Desrues, Philippe-François, 1761-1821"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=835931"
+
+[[text]]
+file = "case_frc_17443.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_17443.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_17443.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_17443.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

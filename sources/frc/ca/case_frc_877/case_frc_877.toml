@@ -1,0 +1,54 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_877"
+type = "pamphlet"
+title = "Par ordre de l’Assemblée nationale"
+place = "A Paris"
+date = "1790"
+url = "https://archive.org/details/case_frc_877"
+subject = [
+    "Traffic regulations",
+    "Revolution (France : 1789-1799)",
+]
+extent = "[2] p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+shelfmark = "Case FRC 877"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8rc2gk4q"
+internet_archive = "case_frc_877"
+
+[scan]
+file = "case_frc_877.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_877"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791). Comité des domaines"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=39346"
+
+[[text]]
+file = "case_frc_877.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_877.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

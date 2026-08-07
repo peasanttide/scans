@@ -1,0 +1,60 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_13371"
+type = "pamphlet"
+title = "Invention du citoyen Abinet."
+date = "1789"
+url = "https://archive.org/details/case_frc_13371"
+subject = [
+    "Boots",
+    "Shoes",
+    "Footwear industry",
+]
+extent = "1 sheet ([2] p.) : ill ; 19 x 30 cm. folded to 19 x 12 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 13371"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6256df2t"
+internet_archive = "case_frc_13371"
+
+[scan]
+file = "case_frc_13371.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_13371"
+
+[[resp]]
+name = "Abinet, P"
+role = "author"
+
+[[resp]]
+name = "Paris?"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_828428"
+
+[[text]]
+file = "case_frc_13371.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_13371.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_13371.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

@@ -1,0 +1,57 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_19730"
+type = "pamphlet"
+title = "A messieurs les députés de la vicomté hors les murs de Paris"
+place = "France"
+date = "1789"
+url = "https://archive.org/details/case_frc_19730"
+subject = [
+    "Necker, Jacques, 1732-1804",
+    "Political science",
+    "History",
+    "Revolution (France : 1789-1799)",
+]
+extent = "2 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 19730"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4sj6hp5d"
+internet_archive = "case_frc_19730"
+
+[scan]
+file = "case_frc_19730.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_19730"
+
+[[resp]]
+name = "Heudier"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=841177"
+
+[[text]]
+file = "case_frc_19730.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_19730.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

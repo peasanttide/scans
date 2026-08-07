@@ -1,0 +1,53 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "cataloguedeslivr00dela_0"
+type = "pamphlet"
+title = "Catalogue des livres qui se trouvent à Paris chez Delaplace, libraire et commissionnaire, rue de Sorbonne, no. 376"
+language = "fr"
+place = "Paris"
+date = "1795"
+note = "Caption title. With prices in livres. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Text extends off of the edge of the page. Text may be lost in the binding. Permanent creases may obscure some text. Title page and cover are combined."
+url = "https://archive.org/details/cataloguedeslivr00dela_0"
+subject = ["Delaplace"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 8 no. 18"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t86j07s6g"
+internet_archive = "cataloguedeslivr00dela_0"
+
+[scan]
+file = "cataloguedeslivr00dela_0.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/cataloguedeslivr00dela_0"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Delaplace"
+role = "author"
+
+[[resp]]
+name = "Delaplace"
+role = "publisher"
+
+[[text]]
+file = "cataloguedeslivr00dela_0.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "cataloguedeslivr00dela_0.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

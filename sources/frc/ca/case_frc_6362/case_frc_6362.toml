@@ -1,0 +1,55 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_6362"
+type = "pamphlet"
+title = "Arrêté"
+date = "1787"
+url = "https://archive.org/details/case_frc_6362"
+extent = "2 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+shelfmark = "Case FRC 6362"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t72v7zt2x"
+internet_archive = "case_frc_6362"
+
+[scan]
+file = "case_frc_6362.pdf"
+count = 5
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_6362"
+
+[[resp]]
+name = "France. Parlement (Paris)"
+role = "author"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_59808"
+
+[[text]]
+file = "case_frc_6362.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_6362.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_6362.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_6362.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

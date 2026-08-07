@@ -1,0 +1,81 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "confessiondetous00tall"
+type = "pamphlet"
+title = "Confession de tous ceux qui ont cherché à trahir la nation françoise : a Louis XVI, pere des François : août 1789."
+language = "fr"
+place = "France"
+date = "1789"
+note = "At head of title: Feuille gratis. Signed: Vidaillet. Variant of Martin & Walter. Révolution française, IV:1, 33505. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover. Uneven binding. Skewed text. Damaged, stained and/or loose pages."
+url = "https://archive.org/details/confessiondetous00tall"
+subject = [
+    "Revolutionaries",
+    "Monarchy",
+]
+extent = "8 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 26110"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t77t31z46"
+internet_archive = "confessiondetous00tall"
+
+[scan]
+file = "confessiondetous00tall.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/confessiondetous00tall"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Tallien, Jean-Lambert, 1767-2400"
+role = "author"
+
+[[resp]]
+name = "Vidaillet"
+role = "author"
+
+[[resp]]
+name = "Louis XVI, King of France, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_865644"
+
+[[text]]
+file = "confessiondetous00tall.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "confessiondetous00tall.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "confessiondetous00tall.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "confessiondetous00tall.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

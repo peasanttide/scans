@@ -1,0 +1,74 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "cantique00unse"
+type = "pamphlet"
+title = "Cantique : chanté dans le Temple de la raison, à Mende, le deuxième décadi de frimaire."
+language = "fr"
+place = "Mende"
+date = "1793"
+note = """Caption title. At head of title: Liberté. Égalité. Signed, p. [3] : Par le sans-culotte Tarteron. "Air: Allons enfans de la patrie"--P. [1]. "Fait à Mende, ce 20 frimaire l'an second de la République, une et indivisible"--At end. Not in Martin & Walter. Révolution française. Scanner's note: Skewed text. Damaged, stained and/or loose pages."""
+url = "https://archive.org/details/cantique00unse"
+subject = ["Patriotism"]
+extent = "[4] p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 25604"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3kx0r352"
+internet_archive = "cantique00unse"
+
+[scan]
+file = "cantique00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/cantique00unse"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Tallien, Jean-Lambert, 1767-1904"
+role = "author"
+
+[[resp]]
+name = "Tarteron"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_857873"
+
+[[text]]
+file = "cantique00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "cantique00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "cantique00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "cantique00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

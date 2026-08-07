@@ -1,0 +1,42 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_2483"
+type = "pamphlet"
+title = "Copie d'une lettre de Paris, en date du jeudi 8 octobre à neuf heures du matin, 1789"
+date = "1789"
+url = "https://archive.org/details/case_frc_2483"
+subject = ["Revolution (France : 1789-1799)"]
+extent = "2 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+shelfmark = "Case FRC 2483"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t07x1t65p"
+internet_archive = "case_frc_2483"
+
+[scan]
+file = "case_frc_2483.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_2483"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_50489"
+
+[[text]]
+file = "case_frc_2483.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_2483.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

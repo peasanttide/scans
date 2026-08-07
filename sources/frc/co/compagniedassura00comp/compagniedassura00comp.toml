@@ -1,0 +1,95 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "compagniedassura00comp"
+type = "pamphlet"
+title = "Compagnie d'assurances sur la vie : extrait des registres de l'administration de ladite compagnie, du mercredi 28 juillet 1790 : proposition pour l'établissement d'une caisse de secours en faveur des domestiques de tout age."
+language = "fr"
+place = "Paris"
+date = "1790"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No title page found. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/compagniedassura00comp"
+subject = [
+    "Household employees",
+    "Life insurance",
+]
+extent = "6 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 16303"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7zm0cf8v"
+internet_archive = "compagniedassura00comp"
+openlibrary_edition = "OL26206265M"
+openlibrary_work = "OL17602560W"
+
+[scan]
+file = "compagniedassura00comp.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/compagniedassura00comp"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Compagnie d'assurances sur la vie"
+role = "author"
+
+[[resp]]
+name = "Lottin de Saint Germain, Jean-Roch, b. 1754"
+role = "publisher"
+
+[[resp]]
+name = "Lottin, Augustin-Martin, 1726-1793"
+role = "publisher"
+
+[[resp]]
+name = "De l'imprimerie de Lottin l'aîné, et J.-R. Lottin, imprimeurs ordinaires de la ville, rue S.-André-des-Arcs (no 27)"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_43111"
+
+[[text]]
+file = "compagniedassura00comp.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "compagniedassura00comp.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "compagniedassura00comp.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "compagniedassura00comp.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "compagniedassura00comp.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "compagniedassura00comp.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

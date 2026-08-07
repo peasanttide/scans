@@ -1,0 +1,68 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "chansonsurlairda00unse"
+type = "pamphlet"
+title = "Chanson, sur l'air: Dans les Gardes françaises."
+language = "fr"
+place = "s.l."
+date = "1790"
+note = "Caption title. Without imprint. First line: Prélat hors de l'église. A satire on the French clergy. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined.  Skewed text.  Damaged, stained, and/or loose pages.  No page numbers."
+url = "https://archive.org/details/chansonsurlairda00unse"
+subject = ["Clergy"]
+extent = "[3] p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 1716"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8dg1sf5p"
+internet_archive = "chansonsurlairda00unse"
+openlibrary_edition = "OL26208545M"
+openlibrary_work = "OL17604814W"
+
+[scan]
+file = "chansonsurlairda00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/chansonsurlairda00unse"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_46495"
+
+[[text]]
+file = "chansonsurlairda00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "chansonsurlairda00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "chansonsurlairda00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "chansonsurlairda00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

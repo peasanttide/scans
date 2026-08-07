@@ -1,0 +1,101 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "cataloguedeslivr00vinc_1"
+type = "pamphlet"
+title = "Catalogue des livres nouveaux imprimés à Paris, chez Vincent, rue des Mathurins, hôtel de Clugny, & qui se trouvent chez les différens libraires des principales villes de l'Europe, 1773"
+language = "fr"
+place = "Paris"
+date = "1773"
+note = """Caption title. Head-piece; printed in double columns. Includes prospectus for Charles-Louis Richard's "Analyse des conciles généraux et particuliers.". Includes prices. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Title page and cover are combined."""
+url = "https://archive.org/details/cataloguedeslivr00vinc_1"
+subject = [
+    "Vincent, Philippe, 1724?-1790",
+    "Richard, Charles-Louis, 1711-1794",
+    "Booksellers and bookselling",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1a no. 151"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1wd9jj3x"
+internet_archive = "cataloguedeslivr00vinc_1"
+
+[scan]
+file = "cataloguedeslivr00vinc_1.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/cataloguedeslivr00vinc_1"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Vincent, Philippe,1724?-179"
+role = "author"
+
+[[resp]]
+name = "Vincent, Philippe, 1724?-1790"
+role = "author"
+
+[[resp]]
+name = "Richard, Charles-Louis, 1711-1794. Analyse des conciles généraux et particuliers"
+role = "author"
+
+[[resp]]
+name = "[Vincent]"
+role = "publisher"
+
+[[text]]
+file = "cataloguedeslivr00vinc_1.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "cataloguedeslivr00vinc_1.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "cataloguedeslivr00vinc_1.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "cataloguedeslivr00vinc_1.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "cataloguedeslivr00vinc_1.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "cataloguedeslivr00vinc_1.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "cataloguedeslivr00vinc_1.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "cataloguedeslivr00vinc_1.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,60 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "cataloguedeslivr00giss"
+type = "pamphlet"
+title = "Catalogue des livres qui se vendent à Paris chez Henry-Simon-Pierre Gissey, libraire-imprimeur, ruë de la Vieille Bouclerie, près le pont S. Michel, à l'Arbre de Jessé, tant de ceux qu'il a imprimés, que ceux qu'il a acquis du fonds de feu M. Roulland"
+language = "fr"
+place = "Paris?"
+date = "1740"
+note = """Caption title. Latest publication date listed of the books advertised: 1737; some books listed as "sous presse" were probably published in the 1740s. Head-piece; printed in double columns. Advertises primarily religious literature and some historical works. With prices. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text.  Title page and cover are combined."""
+url = "https://archive.org/details/cataloguedeslivr00giss"
+subject = [
+    "Gissey, Henri-Simon-Pierre, 1691?-1761",
+    "Religious literature, French",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 4 no. 49"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t94802w0r"
+internet_archive = "cataloguedeslivr00giss"
+
+[scan]
+file = "cataloguedeslivr00giss.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/cataloguedeslivr00giss"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Gissey, Henri-Simon-Pierre,1691?-1761"
+role = "author"
+
+[[resp]]
+name = "Gissey, Henri-Simon-Pierre, 1691?-1761"
+role = "author"
+
+[[resp]]
+name = "Henri-Simon-Pierre Gissey?"
+role = "publisher"
+
+[[text]]
+file = "cataloguedeslivr00giss.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "cataloguedeslivr00giss.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,52 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_2865_copy_02"
+type = "pamphlet"
+title = "La demande et la réponse : pourquoi le roi n'a-t-il pas été prêter son serment à l'autel?"
+date = "1790"
+url = "https://archive.org/details/case_frc_2865_copy_02"
+subject = ["Louis XVI, King of France, 1754-1793"]
+extent = "[2] p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+shelfmark = "Case FRC 2865"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t57d89k77"
+internet_archive = "case_frc_2865_copy_02"
+
+[scan]
+file = "case_frc_2865_copy_02.pdf"
+count = 5
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_2865_copy_02"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_44270"
+
+[[text]]
+file = "case_frc_2865_copy_02.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_2865_copy_02.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_2865_copy_02.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_2865_copy_02.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

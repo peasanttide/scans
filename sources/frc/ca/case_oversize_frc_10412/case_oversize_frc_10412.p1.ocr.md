@@ -1,0 +1,49 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: case_oversize_frc_10412
+page: 1
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 2348
+h: 3600
+dpi: 300
+---
+
+SECTION
+
+A n M r. s.
+
+L G A L I T É.
+
+LIBERTÉ.
+
+LE COMITÉ DE SALUT PUBLIC
+
+ration révolutionnaire du salpêtre, qui a dû se faire dans
+ton district, en exécution de la loi du i4 Frimaire, depuis
+
+dans la première décade de Vendémiaire. ,
+
+Les Membres du Comité de Salut public ,
+
+Signé , Carnot, Eschasseriaüx, Fourcroy, Thuriot,
+R. Lindet, C. a. Prieur, Delmas, Laloy, Cochon,
+Bréard, Merlin (de Douay ) et Treilhard.
+
+-
+
+( (? s I Tu
+
+A V ylgent national près le District
+
+d
+
+trouveras, ci-joint, le modèle d’un État de la fabri-
+
+la publication de cette loi , jusqu’à la fin de la deuxième
+année.
+
+Tu voudras bien faire cet État , en te conformant au
+modèle et à l’instruction qui y est jointe, et nous l’envoyer
+
+/

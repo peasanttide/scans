@@ -1,0 +1,68 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "clemenspapa00cath"
+type = "pamphlet"
+title = "Clemens Papa XI. Ad perpetuam rei memoriam"
+language = "la"
+date = "1708"
+note = "Manuscript on paper. Title from opening lines of text. Condemns Quesnel's French translation of the New Testament, with commentaries. Dated 13 July 1708. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Page numbers 3-6 appear to be missing.  Title page and cover are combined."
+url = "https://archive.org/details/clemenspapa00cath"
+subject = ["Bible"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 3 no. 26"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0sr4gx8s"
+internet_archive = "clemenspapa00cath"
+
+[scan]
+file = "clemenspapa00cath.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/clemenspapa00cath"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Catholic Church.Pope (1700-1721 : Clement XI)"
+role = "author"
+
+[[resp]]
+name = "Catholic Church. Pope (1700-1721 : Clement XI)"
+role = "author"
+
+[[resp]]
+name = "[n.p."
+role = "publisher"
+
+[[text]]
+file = "clemenspapa00cath.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "la"
+
+[[text]]
+file = "clemenspapa00cath.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "la"
+
+[[text]]
+file = "clemenspapa00cath.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "la"
+
+[[text]]
+file = "clemenspapa00cath.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "la"

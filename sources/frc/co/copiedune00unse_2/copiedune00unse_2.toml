@@ -1,0 +1,74 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "copiedune00unse_2"
+type = "pamphlet"
+title = "Copie d'une lettre ecrite a M. de Monteils /"
+language = "fr"
+place = "Paris"
+date = "1791"
+note = "Caption title. Imprint from colophon. Place of publication from Martin & Walter. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  III, 24730. Scanner's note: No Copyright found. No Table of Contents found. Title on cover page. Damaged, stained pages and cover. <br />."
+url = "https://archive.org/details/copiedune00unse_2"
+subject = ["Clergy"]
+extent = "4 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 22704"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1dk0pp78"
+internet_archive = "copiedune00unse_2"
+
+[scan]
+file = "copiedune00unse_2.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/copiedune00unse_2"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "Moles, curé"
+role = "author"
+
+[[resp]]
+name = "Monteils, M. de"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de J. Giroüard, rue du Bout-du-Monde, près la rue Montmartre, no. 47"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_846822"
+
+[[text]]
+file = "copiedune00unse_2.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "copiedune00unse_2.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "copiedune00unse_2.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "copiedune00unse_2.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,89 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "compterenduparal00ysab"
+type = "pamphlet"
+title = "Compte rendu par Alexandre Ysabeau et Etienne Neveu, représentans du peuple envoyés dans les départemens des Hautes et Basses-Pyrenées pour activer la levée de trois cent mille hommes, ordonnée par la Convention nationale, de leurs dépenses et leurs recettes depuis la date du 11 mars 1793 jusques au 19 mai de la même année, époque à laquelle ils ont cessé de travailler en commun."
+language = "fr"
+place = "A Paris"
+date = "1795"
+note = """
+Caption title. At head of title: Convention nationale. Imprint from colophon. "A Paris, le 30 vendémiaire, l'an 4 de la République"--P. 3. Martin & Walter. Révolution française. Personal expense report. Bibliography: Martin & Walter.  Révolution française,  IV:1, 33939. Scanner's note: No copyright page found. No table-of-contents pages found.
+Title on cover.  Damaged pages. Skewed text."""
+url = "https://archive.org/details/compterenduparal00ysab"
+subject = [
+    "France. Convention nationale",
+    "Finance, Public",
+]
+extent = "3 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 13363"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5z65807h"
+internet_archive = "compterenduparal00ysab"
+openlibrary_edition = "OL25926953M"
+openlibrary_work = "OL17349560W"
+
+[scan]
+file = "compterenduparal00ysab.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/compterenduparal00ysab"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Ysabeau, Claude-Alexandre, 1754-1831"
+role = "author"
+
+[[resp]]
+name = "Neveu, Étienne, 1755-1830"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_828173"
+
+[[text]]
+file = "compterenduparal00ysab.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "compterenduparal00ysab.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "compterenduparal00ysab.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "compterenduparal00ysab.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

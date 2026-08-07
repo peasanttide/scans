@@ -1,0 +1,48 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_7274"
+type = "pamphlet"
+title = "Qu'est-ce que les honnêtes gens d'aujourd'hui? : Vaudeville. Air: Il ne nous faut que du salpêtre"
+place = "A Auxerre"
+date = "1796"
+note = 'Date given by the catalogue as "1796-1797".'
+url = "https://archive.org/details/case_frc_7274"
+subject = ["Revolution (France : 1789-1799)"]
+extent = "2 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+shelfmark = "Case FRC 7274"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t80k7sz0k"
+internet_archive = "case_frc_7274"
+
+[scan]
+file = "case_frc_7274.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_7274"
+
+[[resp]]
+name = "De l'imprimerie de Baillif"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_62024"
+
+[[text]]
+file = "case_frc_7274.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_7274.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

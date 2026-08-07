@@ -1,0 +1,52 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_5348"
+type = "pamphlet"
+title = "Maximes du vrai patriote : chanson sur l'air de Renaud d'Ast"
+date = "1791"
+url = "https://archive.org/details/case_frc_5348"
+subject = ["Revolution (France : 1789-1799)"]
+extent = "3 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+shelfmark = "Case FRC 5348"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7tn2ng32"
+internet_archive = "case_frc_5348"
+
+[scan]
+file = "case_frc_5348.pdf"
+count = 5
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_5348"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_57533"
+
+[[text]]
+file = "case_frc_5348.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_5348.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_5348.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_5348.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

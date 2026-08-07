@@ -1,0 +1,83 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "compterenduparac00tell"
+type = "pamphlet"
+title = "Compte rendu par A.C. Tellier, représentant du peuple, de ses recettes et dépenses pendant sa mission dans les départemens de Rhône, Loire, Saone-et-Loire, l'Ain et l'Isère."
+language = "fr"
+place = "A Paris"
+date = "1795"
+note = "Caption title. At head of title: Convention nationale. Imprint from colophon. Martin & Walter. Révolution française. Personal expense report. Bibliography: Martin & Walter.  Révolution française,  IV:1, 32305. Scanner's note: No title page found. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/compterenduparac00tell"
+subject = [
+    "France. Convention nationale",
+    "Finance, Public",
+]
+extent = "3 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 13207"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8gf5j194"
+internet_archive = "compterenduparac00tell"
+openlibrary_edition = "OL25926392M"
+openlibrary_work = "OL17349022W"
+
+[scan]
+file = "compterenduparac00tell.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/compterenduparac00tell"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Tellier, Amand-Constant, 1755-1795"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_827737"
+
+[[text]]
+file = "compterenduparac00tell.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "compterenduparac00tell.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "compterenduparac00tell.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "compterenduparac00tell.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

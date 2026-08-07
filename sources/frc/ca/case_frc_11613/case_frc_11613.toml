@@ -1,0 +1,59 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_11613"
+type = "pamphlet"
+title = "Compte rendu en exécution du décret du 21 nivôse, par Dupuy fils, représentant du peuple, de ce qu'il a dépensé dans sa mission à Lyon."
+place = "A Paris"
+date = "1795"
+url = "https://archive.org/details/case_frc_11613"
+subject = [
+    "Finance, Public",
+    "France. Convention nationale",
+    "Expenditures, Public",
+    "History",
+    "Revolution (France : 1789-1799)",
+    "Economics",
+]
+extent = "2 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 11613"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5m950t9v"
+internet_archive = "case_frc_11613"
+
+[scan]
+file = "case_frc_11613.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_11613"
+
+[[resp]]
+name = "Dupuy, J.-B. (Jean-Baptiste)"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_825435"
+
+[[text]]
+file = "case_frc_11613.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_11613.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

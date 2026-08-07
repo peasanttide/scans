@@ -1,0 +1,65 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_11242"
+type = "pamphlet"
+title = "Discours prononcé par Cretet, en faisant hommage au Conseil au nom du citoyen Legras, d'un ouvrage contenant le projet d'un code des faillites, surséances, cessions judiciaires et banqueroutes : séance du 18 germinal an 7."
+place = "A Paris"
+date = "1799"
+url = "https://archive.org/details/case_frc_11242"
+subject = [
+    "Debts, Public",
+    "Finance, Public",
+]
+extent = "3 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 11242"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2v45hg39"
+internet_archive = "case_frc_11242"
+
+[scan]
+file = "case_frc_11242.pdf"
+count = 5
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_11242"
+
+[[resp]]
+name = "Cretet, M. (Emmanuel), 1747-1809"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_823860"
+
+[[text]]
+file = "case_frc_11242.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_11242.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_11242.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_11242.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

@@ -1,0 +1,61 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "consultationimpr00jeha"
+type = "pamphlet"
+title = "Consultation imprimée en 1729, pour le sieur Jehannot :"
+language = "fr"
+place = "Paris"
+date = "1739"
+note = "Caption title. Imprint from colophon. Head-piece. No. 44 of 54 titles bound together."
+url = "https://archive.org/details/consultationimpr00jeha"
+subject = [
+    "Jehannot, sieur",
+    "Inheritance and succession",
+    "Customary law",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio KJV5795 .A35 1728 no. 44"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t73v5n10g"
+internet_archive = "consultationimpr00jeha"
+
+[scan]
+file = "consultationimpr00jeha.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/consultationimpr00jeha"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Jehannot, sieur"
+role = "author"
+
+[[resp]]
+name = "Knapen, Marguerite, -1749, printer"
+role = "publisher"
+
+[[resp]]
+name = "De l'imprimerie de la veuve d'André Knapen, au milieu du Pont S. Michel"
+role = "publisher"
+
+[[text]]
+file = "consultationimpr00jeha.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "consultationimpr00jeha.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

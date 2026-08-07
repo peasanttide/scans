@@ -1,0 +1,69 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "cataloguedeslivr00henr"
+type = "pamphlet"
+title = "Catalogue des livres imprimés qui se trouvent en nombre à Paris chez Henry, ruë S. Jacques, vis-à-vis S. Yves, à S. Loüis et aux Armes de la reine"
+language = "fr"
+place = "Paris?"
+date = "1730"
+note = """Catalog of primarily religious literature. Caption title. Several books listed were published in 1730. Printed in double columns. "Oeuvres du R.P. Thomassin, prêtre de l'Oratoire": p. [3]-[4]. With prices. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. No pagination. Title page and cover are combined."""
+url = "https://archive.org/details/cataloguedeslivr00henr"
+subject = [
+    "Henry, Worle",
+    "Thomassin, Louis, 1619-1695",
+    "Religious literature, French",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 4 no. 56"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6tx9113x"
+internet_archive = "cataloguedeslivr00henr"
+
+[scan]
+file = "cataloguedeslivr00henr.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/cataloguedeslivr00henr"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Henry, Worle"
+role = "author"
+
+[[resp]]
+name = "Worle Henry?"
+role = "publisher"
+
+[[text]]
+file = "cataloguedeslivr00henr.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "cataloguedeslivr00henr.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "cataloguedeslivr00henr.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "cataloguedeslivr00henr.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,84 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "copiedelalettred00rola"
+type = "pamphlet"
+title = "Copie de la lettre du ministre de l'intérieur, adressée au département de Maine et Loire : le 22 septembre 1792, l'an 4 de la liberté et le premier de l'égalité"
+language = "fr"
+place = "France"
+date = "1792"
+note = """Caption title. At left of title: Les corps administratifs de France. Signed, p. 2: Roland. Variant of Martin & Walter. Révolution française, IV:1, 29752. "Extrait du registre des délibérations du Conseil exécutif provisoire. Du 21 septembre 1792 ..."--P. 2-3. Scanner's note: Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text. No title page found. No copyright page found. No table-of-contents pages found."""
+url = "https://archive.org/details/copiedelalettred00rola"
+subject = ["Central-local government relations"]
+extent = "3 p. ; 25 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 27172"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t83j8mk4g"
+internet_archive = "copiedelalettred00rola"
+openlibrary_edition = "OL26229107M"
+openlibrary_work = "OL17624141W"
+
+[scan]
+file = "copiedelalettred00rola.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/copiedelalettred00rola"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Roland de La Platière, Jean-Marie,1734-1793"
+role = "author"
+
+[[resp]]
+name = "Roland de La Platière, Jean-Marie, 1734-1793"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale. Conseil exécutif provisoire"
+role = "author"
+
+[[resp]]
+name = "France. Ministère de l'intérieur"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_868095"
+
+[[text]]
+file = "copiedelalettred00rola.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "copiedelalettred00rola.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "copiedelalettred00rola.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "copiedelalettred00rola.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

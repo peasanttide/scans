@@ -1,0 +1,60 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "condamnationetpr00cath"
+type = "pamphlet"
+title = "Condamnation et prohibition faite par nostre tres Saint Pere le Pape Innocent XII. du livre imprimé à Paris l'an 1697. qui a pour titre:"
+language = "fr"
+date = "1697"
+note = "Caption title. The work in question is by Fénelon. Extracted from an unidentified publication; the extract is perhaps incomplete. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Pages begin with 5.  Title page and cover are combined."
+url = "https://archive.org/details/condamnationetpr00cath"
+subject = ["Censorship"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 2 no. 85"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0tr1hv32"
+internet_archive = "condamnationetpr00cath"
+
+[scan]
+file = "condamnationetpr00cath.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/condamnationetpr00cath"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Catholic Church.Pope (1691-1700 : Innocent XII)"
+role = "author"
+
+[[resp]]
+name = "Catholic Church. Pope (1691-1700 : Innocent XII)"
+role = "author"
+
+[[resp]]
+name = "Fénelon, François de Salignac de La Mothe-, 1651-1715. Explication des maximes des saints"
+role = "author"
+
+[[resp]]
+name = "[n.p."
+role = "publisher"
+
+[[text]]
+file = "condamnationetpr00cath.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "condamnationetpr00cath.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

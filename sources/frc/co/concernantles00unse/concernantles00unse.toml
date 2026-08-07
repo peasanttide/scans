@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "concernantles00unse"
+type = "pamphlet"
+title = "Lois concernant les émigrés : des 13 et 21 ventose, an V de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1797"
+note = """Caption title. At head of title: No. 446. Au nom de la République française. Imprint from colophon. "No. 12"--Bottom of p. [1]. Not in Martin & Walter. Révolution française. 1o. Loi qui determine le mode de partage des biens provenant d'emigrés, appartenant à la République par indivis avec d'autres co-propriétaires -- 2o. Loi concernant la radiation des individus portés sur la liste des emigrés après leur mort. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."""
+url = "https://archive.org/details/concernantles00unse"
+subject = [
+    "Refugees",
+    "Refugee property",
+]
+extent = "3 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10348 no. 101"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9964pw0k"
+internet_archive = "concernantles00unse"
+openlibrary_edition = "OL26230530M"
+openlibrary_work = "OL17625506W"
+
+[scan]
+file = "concernantles00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/concernantles00unse"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Depot des lois, place du Carrousel, et se trouve dans les villes chefs-lieux de département, au bureau de correspondance du Dépôt des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_859227"
+
+[[text]]
+file = "concernantles00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "concernantles00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "concernantles00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "concernantles00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,58 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_14618"
+type = "pamphlet"
+title = "Opinion motivée de François-Siméon Bezard, député de l'Oise à la Convention nationale, sur la peine à infliger à Louis Capet."
+place = "Paris"
+date = "1793"
+url = "https://archive.org/details/case_frc_14618"
+subject = [
+    "Capital punishment",
+    "Louis XVI, King of France, 1754-1793",
+    "Trials",
+    "Revolution (France : 1789-1799)",
+    "History",
+]
+extent = "2 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 14618"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t53f9jf6b"
+internet_archive = "case_frc_14618"
+
+[scan]
+file = "case_frc_14618.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_14618"
+
+[[resp]]
+name = "Bézard, François-Siméon, 1760-1849"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_830401"
+
+[[text]]
+file = "case_frc_14618.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_14618.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

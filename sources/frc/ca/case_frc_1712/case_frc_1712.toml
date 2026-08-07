@@ -1,0 +1,58 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_1712"
+type = "pamphlet"
+title = "Chanson patriotique : air: Mourir pour sa patrie"
+place = "A Auxerre"
+date = "1795"
+note = 'Date given by the catalogue as "1795-1796".'
+url = "https://archive.org/details/case_frc_1712"
+subject = ["Revolution (France : 1789-1799)"]
+extent = "[2] p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+shelfmark = "Case FRC 1712"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3325cb1n"
+internet_archive = "case_frc_1712"
+
+[scan]
+file = "case_frc_1712.pdf"
+count = 5
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_1712"
+
+[[resp]]
+name = "De l'imprimerie de L. Fournier"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_46293"
+
+[[text]]
+file = "case_frc_1712.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_1712.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_1712.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_1712.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

@@ -1,0 +1,50 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_5126"
+type = "pamphlet"
+title = "Adresse"
+place = "s.l."
+date = "1792"
+url = "https://archive.org/details/case_frc_5126"
+extent = "[2] p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+shelfmark = "Case FRC 5126"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3wt43r6g"
+internet_archive = "case_frc_5126"
+
+[scan]
+file = "case_frc_5126.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_5126"
+
+[[resp]]
+name = "Loiret (France)"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de L.P. Couret"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_52653"
+
+[[text]]
+file = "case_frc_5126.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_5126.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

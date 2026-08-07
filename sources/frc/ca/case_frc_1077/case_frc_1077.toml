@@ -1,0 +1,65 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_1077"
+type = "pamphlet"
+title = "L'Assemblée nationale a l'Armée française"
+place = "Paris"
+date = "1791"
+note = 'Date given by the catalogue as "1791-1792".'
+url = "https://archive.org/details/case_frc_1077"
+subject = [
+    "Military readiness",
+    "Revolution (France : 1789-1799)",
+]
+extent = "2 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+shelfmark = "Case FRC 1077"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t56f18p81"
+internet_archive = "case_frc_1077"
+
+[scan]
+file = "case_frc_1077.pdf"
+count = 5
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_1077"
+
+[[resp]]
+name = "France. Assemblée nationale législative (1791-1792)"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_41378"
+
+[[text]]
+file = "case_frc_1077.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_1077.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_1077.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_1077.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

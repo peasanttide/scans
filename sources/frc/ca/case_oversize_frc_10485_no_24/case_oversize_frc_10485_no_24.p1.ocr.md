@@ -1,0 +1,66 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: case_oversize_frc_10485_no_24
+page: 1
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 2447
+h: 3600
+dpi: 300
+---
+
+BUREAU
+
+DE L’INSPECTION’.
+
+Ncta. Les réponses à faire
+au Ministre , doivent relater
+exactement la date des lettres
+rju’on en a reçues, et porter en
+marge l’indication ci-dessus
+du Bureau , afin d’éviter tout
+retard dans l’expédition des
+affaires.
+
+Paris j le j S Alvose , an y de la République
+
+française , une et indivisible. C < '•*«<
+
+* U lf
+
+r^c
+
+Le Ministre de la Guerre, 1 ° v 6
+
+Aux Administrations centrales et municipales de la République,
+et aux Commissaires du Directoire exécutif employés près
+d’elles.
+
+Je suis instruit , Citoyens , qu'un grand nombre de Réquisitionnaires
+et de Conscrits appelés aux années par les lois des 23 fructidor et
+3 vendémiaire derniers , ne se rendent point h la destination qui leur
+est assignée en quittant leurs foyers : beaucoup désertent en route , et
+î ont , sans doute , cacher leur lâcheté dans les grandes cités, oit il
+est moins facile de les atteindre ; d’autres quittent le territoire de
+la République, et vont chercher un asile sur des terres étrangères ; il
+en est même qui n ont pas rougi de se ranger au nombre des ennemis
+de la République , en se réunissant aux factieux qui ont voulu mécon-
+naître ses lois. Il importe essentiellement que de tels délits soient
+réprimes , et que les coupables subissent les peines déterminées par les
+lots. Pour atteindre ce but , j’ai pensé qu’il était à propos d’obliger
+les parens et curateurs des Réquisitionnaires ou Conscrits, à justifier
+par lettres ou certificats authentiques , de l’activité de leurs enfans ou
+pupilles dans un corps quelconque , ou de la légitimité des causes de
+leur non -présence aux armées. Depuis long- temps les Commissaires
+du Directoire doivent avoir l’état nominatif des Réquisitionnaires
+qui avaient quitté leurs drapeaux pour rentrer dans leurs foyers ; les
+Administrations ont maintenant celui de tous les Conscrits de la
+première c lai se : il leur est donc très- facile d’exiger des parens ou
+curateurs des Réquisitionnaires ou Conscrits , la preuve qu’ils ont
+rejoint leur poste , ou qu’il ne s’en sont dispensés que pour cause
+
+it ■ -i
+
+t '
+
+cause

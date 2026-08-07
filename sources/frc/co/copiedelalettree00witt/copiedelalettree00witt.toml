@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "copiedelalettree00witt"
+type = "pamphlet"
+title = "Copie de la lettre écrite par M. de Wittgenstein, commandant général de l'armée du Midi, à MM. les administrateurs du département des Bouches-du-Rhône, en leur envoyant communiquer ses lettres de service par son aide-de-camp colonel : au St.-Esprit, le 4 avril 1792"
+language = "fr"
+place = "France"
+date = "1792"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text. No title page found. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/copiedelalettree00witt"
+subject = ["Civil-military relations"]
+extent = "[3] p. ; 25 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 27272"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7kq3561m"
+internet_archive = "copiedelalettree00witt"
+openlibrary_edition = "OL26229442M"
+openlibrary_work = "OL17624476W"
+
+[scan]
+file = "copiedelalettree00witt.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/copiedelalettree00witt"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Wittgenstein-Berleburg, Georg Ernst zu Sayn"
+role = "author"
+
+[[resp]]
+name = "Bouches-du-Rhône (France)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_868195"
+
+[[text]]
+file = "copiedelalettree00witt.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "copiedelalettree00witt.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "copiedelalettree00witt.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "copiedelalettree00witt.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

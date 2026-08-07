@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "circlettertaxpoli00unse"
+type = "pamphlet"
+title = "[Circular letter on tax policy in Basse-Normandie]"
+language = "fr"
+place = "France"
+date = "1790"
+note = "At head of text: Caen 26 janvier 1790. Signed: Les députés composant la commission intermédiaire provinciale de Basse-Normandie .. At end: La commission intermédiaire à MM. de la municipalité d [blank]. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages. No page numbers."
+url = "https://archive.org/details/circlettertaxpoli00unse"
+subject = [
+    "Tax administration and procedure",
+    "Fiscal policy",
+]
+extent = "[1] p. ; 23 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10021 no. 3"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3vt6rw8j"
+internet_archive = "circlettertaxpoli00unse"
+openlibrary_edition = "OL26222511M"
+openlibrary_work = "OL17617982W"
+
+[scan]
+file = "circlettertaxpoli00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/circlettertaxpoli00unse"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Basse-Normandie (France). Commission intermédiaire-provinciale"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_854862"
+
+[[text]]
+file = "circlettertaxpoli00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "circlettertaxpoli00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "circlettertaxpoli00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "circlettertaxpoli00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

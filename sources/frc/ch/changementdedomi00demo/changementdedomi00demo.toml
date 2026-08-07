@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "changementdedomi00demo"
+type = "pamphlet"
+title = "Changement de domicile"
+language = "fr"
+place = "Paris?"
+date = "1795"
+note = "Caption title. Demoraine moved to rue du Petit-Pont in 1795. Cf. Delalain, P. Imprimerie à Paris, 1789-1813, p. 56. Scanner's note: No copyright found.  No table of contents found.  Damaged, stained pages and cover.  No page numbers. <br /><br />."
+url = "https://archive.org/details/changementdedomi00demo"
+subject = [
+    "Demoraine, Jean-Baptiste",
+    "Booksellers and bookselling",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 6 no. 4"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9f53bz0v"
+internet_archive = "changementdedomi00demo"
+
+[scan]
+file = "changementdedomi00demo.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/changementdedomi00demo"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "Demoraine, Jean-Baptiste"
+role = "author"
+
+[[resp]]
+name = "Demoraine?"
+role = "publisher"
+
+[[text]]
+file = "changementdedomi00demo.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "changementdedomi00demo.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "changementdedomi00demo.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "changementdedomi00demo.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "changementdedomi00demo.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "changementdedomi00demo.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

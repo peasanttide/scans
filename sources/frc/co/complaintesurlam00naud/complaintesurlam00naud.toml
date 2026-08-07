@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "complaintesurlam00naud"
+type = "pamphlet"
+title = "Complainte sur la mort de Louis le dernier."
+language = "fr"
+place = "Paris"
+date = "1793"
+note = """Caption title. Signed: Par Naudin, patriote de la section du Panthéon François. "Sur l'air, De Chambort"--P. [1]. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title page is on the cover. Damaged, stained, and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/complaintesurlam00naud"
+subject = ["Louis XVI, King of France, 1754-1793"]
+extent = "4 p. ; 17 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 23097"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4pk5mq35"
+internet_archive = "complaintesurlam00naud"
+openlibrary_edition = "OL26236975M"
+openlibrary_work = "OL17631529W"
+
+[scan]
+file = "complaintesurlam00naud.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/complaintesurlam00naud"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Naudin"
+role = "author"
+
+[[resp]]
+name = "De l'imp. de Feret, rue du Marché-Palu"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_847530"
+
+[[text]]
+file = "complaintesurlam00naud.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "complaintesurlam00naud.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "complaintesurlam00naud.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "complaintesurlam00naud.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,83 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "compterendulacon00gouj"
+type = "pamphlet"
+title = "Compte rendu à la Convention nationale, par Goujon, député par le département de Seine & Oise, de ce qu'il a perçu ou fait percevoir pendant sa mission près les armées du Rhin & de la Moselle, & de l'emploi qu'il en a fait, conformément au décret du 21 nivôse dernier."
+language = "fr"
+place = "Paris"
+date = "1795"
+note = "Caption title. At head of title: Convention nationale. Liberté, égalité, fraternité, la république démocratique, une & indivisible, ou la mort. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  II, 15324. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover page."
+url = "https://archive.org/details/compterendulacon00gouj"
+subject = [
+    "France. Convention nationale",
+    "Finance, Public",
+]
+extent = "4 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 11838"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2992z557"
+internet_archive = "compterendulacon00gouj"
+openlibrary_edition = "OL25923973M"
+openlibrary_work = "OL17346615W"
+
+[scan]
+file = "compterendulacon00gouj.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/compterendulacon00gouj"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Goujon, Jean-Marie-Claude-Alexandre, 1766-1795"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_825280"
+
+[[text]]
+file = "compterendulacon00gouj.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "compterendulacon00gouj.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "compterendulacon00gouj.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "compterendulacon00gouj.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

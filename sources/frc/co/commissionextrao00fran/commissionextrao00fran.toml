@@ -1,0 +1,82 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "commissionextrao00fran"
+type = "pamphlet"
+title = "Commission extraordinaire des vingt-quatre : établie par décret du premier octobre"
+language = "fr"
+place = "Paris"
+date = "1792"
+note = "Caption title. At head of title: Convention nationale. Imprint from colophon. Dated on p.[1]: Fait à Paris ... le 28 octobre, l'an premier de la République française. Martin & Walter. Révolution française. Exculpation of François-Jean Baudouin, printer for the Convention nationale. Bibliography: Martin & Walter.  Révolution française, IV:2, 4406. Scanner's note: No copyright page found. No table-of-contents pages found.  Title and cover are combined. Uneven binding. Skewed text. Damaged, stained and/or loose pages."
+url = "https://archive.org/details/commissionextrao00fran"
+subject = ["Baudouin, François-Jean, 1759-1838"]
+extent = "2 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing DC137.08 .F73 v.7, no. 1"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t13n7h91x"
+internet_archive = "commissionextrao00fran"
+
+[scan]
+file = "commissionextrao00fran.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/commissionextrao00fran"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Commission des vingt-quatre"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "Louis XVI Trial and Execution Collection (Newberry Library) ICN"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_43576"
+
+[[text]]
+file = "commissionextrao00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "commissionextrao00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "commissionextrao00fran.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "commissionextrao00fran.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

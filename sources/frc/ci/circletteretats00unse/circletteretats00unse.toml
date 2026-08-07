@@ -1,0 +1,74 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "circletteretats00unse"
+type = "pamphlet"
+title = "[Circular letter on the États-généraux of 1789]"
+language = "fr"
+place = "France"
+date = "1789"
+note = """
+At head of text: Villefranche-de-Rouergue, le 23 juillet 1789. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover. 
+No page numbers."""
+url = "https://archive.org/details/circletteretats00unse"
+subject = [
+    "France. États généraux",
+    "Rouergue (France). Noblesse",
+    "Representative government and representation",
+]
+extent = "[1] p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10316 no. 3"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1fj7kj2f"
+internet_archive = "circletteretats00unse"
+openlibrary_edition = "OL26223017M"
+openlibrary_work = "OL17618477W"
+
+[scan]
+file = "circletteretats00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/circletteretats00unse"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_856923"
+
+[[text]]
+file = "circletteretats00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "circletteretats00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "circletteretats00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "circletteretats00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

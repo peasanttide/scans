@@ -1,0 +1,77 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "conversationentr00char"
+type = "pamphlet"
+title = "Conversation entre M. de Calonne et Mme. de la Motte, relative à la nouvelle du renvoi de cet ex-ministre en France, par les Anglais."
+language = "fr"
+place = "Marseille?"
+date = "1789"
+note = """Caption title. Signed: Chardonnel, éditeur. Imprint from colophon. "Sur l'imprimé de Paris"--Colophon. Variant of Martin & Walter. Révolution française, I, 6836. Hayden. French Revolutionary pamphlets. Bibliography: Hayden.  French Revolutionary pamphlets  232. Scanner's note: No title page found. No copyright page found. No table-of-contents pages found."""
+url = "https://archive.org/details/conversationentr00char"
+subject = [
+    "Necker, Jacques, 1732-1804",
+    "Calonne, Charles Alexandre de, 1734-1802",
+    "La Motte, Jeanne de Saint-Rémy de Valois, comtesse de, 1756-1791",
+]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 15623"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1tf4th05"
+internet_archive = "conversationentr00char"
+lccn = "nuc87394399"
+openlibrary_edition = "OL26203918M"
+openlibrary_work = "OL17600339W"
+
+[scan]
+file = "conversationentr00char.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/conversationentr00char"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Chardonnel"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de F. Brebion, imprimeur du Roi"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_832167"
+
+[[text]]
+file = "conversationentr00char.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "conversationentr00char.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "conversationentr00char.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "conversationentr00char.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

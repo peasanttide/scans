@@ -1,0 +1,54 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_3258"
+type = "pamphlet"
+title = "... Message : Extrait du registre des délibérations"
+place = "A Paris"
+date = "1797"
+url = "https://archive.org/details/case_frc_3258"
+subject = [
+    "Napoleon I, Emperor of the French, 1769-1821",
+    "Foreign relations",
+]
+extent = "2 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+shelfmark = "Case FRC 3258"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5t77ts5b"
+internet_archive = "case_frc_3258"
+
+[scan]
+file = "case_frc_3258.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_3258"
+
+[[resp]]
+name = "France. Directoire exécutif"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_47134"
+
+[[text]]
+file = "case_frc_3258.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_3258.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

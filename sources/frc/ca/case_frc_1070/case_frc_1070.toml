@@ -1,0 +1,55 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_1070"
+type = "pamphlet"
+title = "Acte du Corps législatif : imprimé par ordre de l'Assemblée nationale"
+place = "Paris"
+date = "1792"
+url = "https://archive.org/details/case_frc_1070"
+subject = [
+    "Military readiness",
+    "Revolution (France : 1789-1799)",
+]
+extent = "2 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "Martin & Walter,  IV 2: 2032"
+shelfmark = "Case FRC 1070"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0zp9fz6m"
+internet_archive = "case_frc_1070"
+
+[scan]
+file = "case_frc_1070.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_1070"
+
+[[resp]]
+name = "France. Assemblée nationale législative (1791-1792)"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_42453"
+
+[[text]]
+file = "case_frc_1070.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_1070.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

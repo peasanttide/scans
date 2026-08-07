@@ -1,0 +1,81 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_2501"
+type = "pamphlet"
+title = "Copie de quelques pièces intéressantes, trouvées à la Bastille : où l'on voit la manière dont M. Delaunay se défaisoit des mauvais sujets"
+place = "Paris"
+date = "1789"
+url = "https://archive.org/details/case_frc_2501"
+subject = [
+    "Delaunay d'Angers, Joseph, 1752-1794",
+    "Bastille",
+    "Revolution (France : 1789-1799)",
+]
+extent = "8 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+shelfmark = "Case FRC 2501"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2v465324"
+internet_archive = "case_frc_2501"
+
+[scan]
+file = "case_frc_2501.pdf"
+count = 9
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_2501"
+
+[[resp]]
+name = "De l'imprimerie de P. de Lormel"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_45418"
+
+[[text]]
+file = "case_frc_2501.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_2501.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_2501.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_2501.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_2501.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_2501.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_2501.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_2501.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

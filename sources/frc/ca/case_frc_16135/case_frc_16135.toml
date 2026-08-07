@@ -1,0 +1,56 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_16135"
+type = "pamphlet"
+title = "Rapport fait au nom du Comité de salut public par Chazal, le 21 ventôse, l'an troisième de la République française, une et indivisible, sur les prétendus rassemblemens d'hommes armés dans les environs de Paris"
+place = "À Paris"
+date = "1795"
+url = "https://archive.org/details/case_frc_16135"
+subject = [
+    "Civil-military relations",
+    "History",
+    "Revolution (France : 1789-1799)",
+]
+extent = "2 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 16135"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8jd9wx7r"
+internet_archive = "case_frc_16135"
+
+[scan]
+file = "case_frc_16135.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_16135"
+
+[[resp]]
+name = "Chazal, J. P. (Jean-Pierre), 1766-1840"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=833370"
+
+[[text]]
+file = "case_frc_16135.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_16135.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

@@ -1,0 +1,62 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_oversize_frc_27588"
+type = "pamphlet"
+title = "Les representans du peuple, deputes par la Convention nationale, près l'armee des Alpes, et dans divers departemens de la Republique, etant actuellement A Lyon"
+language = "fr"
+place = "A Ville-Affranchie Lyon"
+date = "1793"
+url = "https://archive.org/details/case_oversize_frc_27588"
+subject = [
+    "Central-local government relations",
+    "Reign of Terror (France : 1793-1794)",
+    "History",
+    "Public Officers",
+    "Law",
+    "Confiscations",
+    "Examinations",
+]
+extent = "1 sheet ; 54 x 43 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "Newberry Library"
+shelfmark = "Case oversize FRC 27588"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t59d1mn3w"
+internet_archive = "case_oversize_frc_27588"
+
+[scan]
+file = "case_oversize_frc_27588.pdf"
+count = 1
+by = "Internet Archive"
+url = "https://archive.org/details/case_oversize_frc_27588"
+note = "Scanned on Internet Archive Python library 0.9.2."
+
+[[resp]]
+name = "Delaporte, Sebastien-François-Christophe, 1760-1823"
+role = "author"
+
+[[resp]]
+name = "Couthon, Georges Auguste, 1755-1794; Maignet, Étienne Christophe, 1758-1834"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie d'Amable Leroy, place St.-Jean"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_868937"
+
+[[text]]
+file = "case_oversize_frc_27588.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

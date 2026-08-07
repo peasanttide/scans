@@ -1,0 +1,54 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_13888"
+type = "pamphlet"
+title = "Discours adressé à l'assemblée électorale par Charles Barbaroux de Marseille, élu député du département des Bouches-du-Rhône à la Convention nationale le 5 septembre 1792, l'an 4e. de la liberté, & la Ier. de l'égalité."
+date = "1792"
+url = "https://archive.org/details/case_frc_13888"
+subject = [
+    "Political Science",
+    "Revolution (France : 1789-1799)",
+]
+extent = "2 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 13888"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5m950t5x"
+internet_archive = "case_frc_13888"
+
+[scan]
+file = "case_frc_13888.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_13888"
+
+[[resp]]
+name = "Barbaroux, Charles-Jean-Marie, 1767-1794"
+role = "author"
+
+[[resp]]
+name = "France"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_829146"
+
+[[text]]
+file = "case_frc_13888.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_13888.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

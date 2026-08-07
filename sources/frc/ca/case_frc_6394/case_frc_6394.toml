@@ -1,0 +1,50 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_6394"
+type = "pamphlet"
+title = "... Arrêté portant convocation des quarante-huit sections pour le mardi 17 juillet 1792 : à l'effet de délibérer sur un projet d'adresse à l'Armée ; extrait du registre des délibérations du corps municipal ; du vendredi 6 juillet 1792. l'an quatriéme de la liberté"
+place = "Paris"
+date = "1792"
+url = "https://archive.org/details/case_frc_6394"
+extent = "2 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+shelfmark = "Case FRC 6394"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9m387x4v"
+internet_archive = "case_frc_6394"
+
+[scan]
+file = "case_frc_6394.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_6394"
+
+[[resp]]
+name = "Paris (France). Commune (1789-1794)"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de la municipalité"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_57934"
+
+[[text]]
+file = "case_frc_6394.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_6394.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

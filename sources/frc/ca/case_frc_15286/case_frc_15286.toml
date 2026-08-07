@@ -1,0 +1,68 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_15286"
+type = "pamphlet"
+title = "Discours prononcé par Bremontier, sur le deṕart des conscrits du département de la Seine-Inférieure : séance du 24 frimaire an 7"
+place = "A Paris"
+date = "1798"
+url = "https://archive.org/details/case_frc_15286"
+subject = [
+    "France. Armée",
+    "Recruiting and enlistment",
+    "Soldiers",
+    "Draft",
+    "Political science",
+]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 15286"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9h46rz07"
+internet_archive = "case_frc_15286"
+
+[scan]
+file = "case_frc_15286.pdf"
+count = 5
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_15286"
+
+[[resp]]
+name = "Brémontier, Georges Thomas"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=831608"
+
+[[text]]
+file = "case_frc_15286.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_15286.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_15286.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_15286.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

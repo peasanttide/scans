@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "cataloguedufonds00latt"
+type = "pamphlet"
+title = "Catalogue du fonds du sieur Lattré, graveur ordinaire de Monseigneur le dauphin, rue Saint-Jacques, près la fontaine Saint-Severin, à la Ville de Bordeaux, à Paris"
+language = "fr"
+place = "Paris?"
+date = "1770"
+note = """Caption title. Latest date noted in text: 1770. Printed in double columns. Atlas -- Plans des villes -- Écrans nouveaux -- Cartes d'une feuille. "On trouve chez ledit sieur des plans de Paris de toutes grandeurs, toutes les cartes de la France, publiées par l'Académie, avec une carte générale des 175 feuilles, par ordre de leur publication, divisée par province, ainsi que tout ce qu'on peur desirer en géographie. Tout ce fonds est nouveau"--At end. With prices. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Title page and cover are combined."""
+url = "https://archive.org/details/cataloguedufonds00latt"
+subject = [
+    "Lattré, Jean",
+    "Maps",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 4 no. 68"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t89h1bf5q"
+internet_archive = "cataloguedufonds00latt"
+
+[scan]
+file = "cataloguedufonds00latt.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/cataloguedufonds00latt"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Lattré, Jean"
+role = "author"
+
+[[resp]]
+name = "Jean Lattré?"
+role = "publisher"
+
+[[text]]
+file = "cataloguedufonds00latt.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "cataloguedufonds00latt.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "cataloguedufonds00latt.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "cataloguedufonds00latt.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "cataloguedufonds00latt.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "cataloguedufonds00latt.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

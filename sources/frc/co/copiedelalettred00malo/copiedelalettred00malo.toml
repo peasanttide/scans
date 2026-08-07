@@ -1,0 +1,77 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "copiedelalettred00malo"
+type = "pamphlet"
+title = "Copie de la lettre de M. Mallouet à MM. les maire-consuls de Toulon : 15 décembre 1789."
+language = "fr"
+place = "A Marseille"
+date = "1789"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined.  Damaged, stained, marked and/or loose pages.  Uneven binding.  Skewed text."
+url = "https://archive.org/details/copiedelalettred00malo"
+subject = [
+    "Albert de Rioms, François-Hector, comte d', 1728-1802",
+    "France. Marine",
+    "Civil-military relations",
+    "Riots",
+]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 21869"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9188jr8q"
+internet_archive = "copiedelalettred00malo"
+openlibrary_edition = "OL26240314M"
+openlibrary_work = "OL17634838W"
+
+[scan]
+file = "copiedelalettred00malo.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/copiedelalettred00malo"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Malouet, Pierre-Victor, baron, 1740-1814"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de P.A. Favet, imprimeur du roi & de la ville, rue du Pavillon"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_845473"
+
+[[text]]
+file = "copiedelalettred00malo.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "copiedelalettred00malo.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "copiedelalettred00malo.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "copiedelalettred00malo.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

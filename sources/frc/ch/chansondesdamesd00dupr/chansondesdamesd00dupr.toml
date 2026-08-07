@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "chansondesdamesd00dupr"
+type = "pamphlet"
+title = "Chanson des dames des marchés S. Paul, des Quinze-vingts, la Halle et d'Aguesseau /"
+language = "fr"
+place = "France"
+date = "1789"
+note = "Caption title. Date based on Martin & Walter. Head-piece. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  II, 12312. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover.  Skewed text.  Uneven binding."
+url = "https://archive.org/details/chansondesdamesd00dupr"
+subject = ["Revolutionary ballads and songs"]
+extent = "5 [i.e. 3] p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 11609"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t77t2dp2t"
+internet_archive = "chansondesdamesd00dupr"
+openlibrary_edition = "OL25923978M"
+openlibrary_work = "OL17346621W"
+
+[scan]
+file = "chansondesdamesd00dupr.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/chansondesdamesd00dupr"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Dupray, Madame"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_825431"
+
+[[text]]
+file = "chansondesdamesd00dupr.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "chansondesdamesd00dupr.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "chansondesdamesd00dupr.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "chansondesdamesd00dupr.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

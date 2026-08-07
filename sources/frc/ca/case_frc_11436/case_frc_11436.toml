@@ -1,0 +1,56 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_11436"
+type = "pamphlet"
+title = "Addition au projet de résolution présenté par Treilhard, sur la question intentionnelle"
+place = "A Paris"
+date = "1796"
+url = "https://archive.org/details/case_frc_11436"
+subject = [
+    "Procedure (Law)",
+    "Courts",
+    "History",
+]
+extent = "2 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 11436"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0fv3c01m"
+internet_archive = "case_frc_11436"
+
+[scan]
+file = "case_frc_11436.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_11436"
+
+[[resp]]
+name = "Desmolin, Jean Baptiste, 1751-1843"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_827472"
+
+[[text]]
+file = "case_frc_11436.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_11436.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

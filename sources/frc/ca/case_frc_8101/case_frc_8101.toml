@@ -1,0 +1,51 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_8101"
+type = "pamphlet"
+title = "L'administration municipale de la commune de Rouen : aux membres composant la députation du département de la Seine-Inférieure ; Rouen, le 26 frimaire, an 7 de la République française, une et indivisible [16 décembre 1798]"
+place = "Paris"
+date = "1798"
+url = "https://archive.org/details/case_frc_8101"
+subject = ["Draft"]
+extent = "2 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+shelfmark = "Case FRC 8101"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3907jp6j"
+internet_archive = "case_frc_8101"
+
+[scan]
+file = "case_frc_8101.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_8101"
+
+[[resp]]
+name = "Rouen (France)"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_6549"
+
+[[text]]
+file = "case_frc_8101.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_8101.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

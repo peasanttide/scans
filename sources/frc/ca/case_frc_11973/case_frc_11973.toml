@@ -1,0 +1,56 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_11973"
+type = "pamphlet"
+title = "Rapport et projet de décret sur l'indemnité réclamée par les inspecteurs-généraux, visiteurs-principaux et visiteurs des rôles, supprimés par décret du 4 décembre dernier"
+place = "Paris"
+date = "1793"
+url = "https://archive.org/details/case_frc_11973"
+subject = [
+    "Public officers",
+    "Employees",
+    "Wages",
+]
+extent = "2 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 11973"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1sf7jt16"
+internet_archive = "case_frc_11973"
+
+[scan]
+file = "case_frc_11973.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_11973"
+
+[[resp]]
+name = "Isoré, Jacques, 1758-1839"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_826325"
+
+[[text]]
+file = "case_frc_11973.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_11973.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

@@ -1,0 +1,42 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_5055"
+type = "pamphlet"
+title = "Liste des autorités qui condamnent le serment exigé du clergé. Liste des partisans du serment exigé du clergé"
+date = "1790"
+url = "https://archive.org/details/case_frc_5055"
+subject = ["Clergy"]
+extent = "[2] p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+shelfmark = "Case FRC 5055"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2h75v50w"
+internet_archive = "case_frc_5055"
+
+[scan]
+file = "case_frc_5055.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_5055"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_52609"
+
+[[text]]
+file = "case_frc_5055.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_5055.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

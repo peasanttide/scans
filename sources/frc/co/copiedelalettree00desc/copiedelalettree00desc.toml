@@ -1,0 +1,88 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "copiedelalettree00desc"
+type = "pamphlet"
+title = "Copie de la lettre écrite par le ministre des contributions publiques, aux administrateurs du Directoire du département de Maine et Loire : Paris, le 21  brumaire, an second de la République française, une et indivisible"
+language = "fr"
+place = "A Angers"
+date = "1793"
+note = """Caption title. Signed: Destournelles. Imprint from colophon. Not in Martin & Walter. Révolution française. "Les administrateurs composant le Directoire du département de Maine et Loire"--P. 4. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."""
+url = "https://archive.org/details/copiedelalettree00desc"
+subject = [
+    "Taxation",
+    "Grain trade",
+    "Finance, Public",
+]
+extent = "4 p. . ; 25 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 26666"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8qc55k59"
+internet_archive = "copiedelalettree00desc"
+openlibrary_edition = "OL26228865M"
+openlibrary_work = "OL17623934W"
+
+[scan]
+file = "copiedelalettree00desc.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/copiedelalettree00desc"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Des Champs des Tournelles, Louis-Grégoire,1744-1795"
+role = "author"
+
+[[resp]]
+name = "Des Champs des Tournelles, Louis-Grégoire, 1744-1795"
+role = "author"
+
+[[resp]]
+name = "Mame, Charles-Pierre, 1747-1825"
+role = "publisher"
+
+[[resp]]
+name = "Maine-et-Loire (France). Directoire"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale, chez Mame, imprimeur du département"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_864806"
+
+[[text]]
+file = "copiedelalettree00desc.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "copiedelalettree00desc.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "copiedelalettree00desc.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "copiedelalettree00desc.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

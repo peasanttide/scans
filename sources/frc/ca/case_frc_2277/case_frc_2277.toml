@@ -1,0 +1,61 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_2277"
+type = "pamphlet"
+title = "La Convention nationale aux Armées françaises : 19 octobre 1792, l'an premier de la République"
+place = "Paris"
+date = "1791"
+url = "https://archive.org/details/case_frc_2277"
+subject = ["Revolution (France : 1789-1799)"]
+extent = "[2] p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+shelfmark = "Case FRC 2277"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9x11hz42"
+internet_archive = "case_frc_2277"
+
+[scan]
+file = "case_frc_2277.pdf"
+count = 5
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_2277"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_44851"
+
+[[text]]
+file = "case_frc_2277.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_2277.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_2277.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_2277.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

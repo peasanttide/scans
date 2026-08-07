@@ -1,0 +1,54 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_2343"
+type = "pamphlet"
+title = "... Liste des candidats pour la nomination du ministre de la Guerre"
+place = "Paris"
+date = "1792"
+url = "https://archive.org/details/case_frc_2343"
+subject = [
+    "France. Ministère de la guerre",
+    "Revolution (France : 1789-1799)",
+]
+extent = "[1] p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+shelfmark = "Case FRC 2343"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6160147d"
+internet_archive = "case_frc_2343"
+
+[scan]
+file = "case_frc_2343.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_2343"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_42870"
+
+[[text]]
+file = "case_frc_2343.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_2343.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

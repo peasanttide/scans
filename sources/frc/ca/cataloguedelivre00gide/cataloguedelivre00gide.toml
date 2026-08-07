@@ -1,0 +1,57 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "cataloguedelivre00gide"
+type = "pamphlet"
+title = "Catalogue de livres a vendre, chez Gide, libraire, Palais Égalité, nos 13 et 14"
+language = "fr"
+place = "Paris"
+date = "1796"
+note = "Caption title. Lists several books published in 1796. With prices. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Text extends off of the edge of the page. Text may be lost in the binding. Permanent creases may obscure some text. Title page and cover are combined."
+url = "https://archive.org/details/cataloguedelivre00gide"
+subject = ["Gide, Théophile-Étienne, 1768-1837"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 8 no. 25"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7hq9mx8f"
+internet_archive = "cataloguedelivre00gide"
+
+[scan]
+file = "cataloguedelivre00gide.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/cataloguedelivre00gide"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Gide, Théophile-Étienne,1768-1837"
+role = "author"
+
+[[resp]]
+name = "Gide, Théophile-Étienne, 1768-1837"
+role = "author"
+
+[[resp]]
+name = "Gide"
+role = "publisher"
+
+[[text]]
+file = "cataloguedelivre00gide.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "cataloguedelivre00gide.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

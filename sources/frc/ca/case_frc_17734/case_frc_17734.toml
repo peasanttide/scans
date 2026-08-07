@@ -1,0 +1,55 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_17734"
+type = "pamphlet"
+title = "Adresse des députés des premier et second bataillons de la Gironde allant aux frontières, à l'Assemblée nationale"
+place = "Paris"
+date = "1792"
+url = "https://archive.org/details/case_frc_17734"
+subject = [
+    "Militia",
+    "Military history",
+]
+extent = "2 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 17734"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8z948n1m"
+internet_archive = "case_frc_17734"
+
+[scan]
+file = "case_frc_17734.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_17734"
+
+[[resp]]
+name = "Ducarpe"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=837122"
+
+[[text]]
+file = "case_frc_17734.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_17734.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

@@ -1,0 +1,55 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_1087"
+type = "pamphlet"
+title = "Extrait du procès-verbal"
+place = "Paris"
+date = "1792"
+url = "https://archive.org/details/case_frc_1087"
+subject = [
+    "Internal security",
+    "Military readiness",
+    "Revolution (France : 1789-1799)",
+]
+extent = "2 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+shelfmark = "Case FRC 1087"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5s80sw26"
+internet_archive = "case_frc_1087"
+
+[scan]
+file = "case_frc_1087.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_1087"
+
+[[resp]]
+name = "France. Assemblée nationale législative (1791-1792)"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_41859"
+
+[[text]]
+file = "case_frc_1087.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_1087.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

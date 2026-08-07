@@ -1,0 +1,51 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_5123"
+type = "pamphlet"
+title = "Les administrateurs du département du Loiret : au président du Corps législatif du Conseil des cinq-cents ; Orléans, le 16 frimaire, an 7 de la République française, une et indivisible [6 décembre 1798]"
+place = "A Paris"
+date = "1798"
+url = "https://archive.org/details/case_frc_5123"
+subject = ["Draft"]
+extent = "2 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+shelfmark = "Case FRC 5123"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t63542x11"
+internet_archive = "case_frc_5123"
+
+[scan]
+file = "case_frc_5123.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_5123"
+
+[[resp]]
+name = "Loiret (France)"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_54663"
+
+[[text]]
+file = "case_frc_5123.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_5123.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

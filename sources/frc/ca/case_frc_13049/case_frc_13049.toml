@@ -1,0 +1,61 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_13049"
+type = "pamphlet"
+title = "Copie du compte rendu par les citoyens Duval & Robin, représentans du peuple : compte que les citoyens Robin & Duval, représentans du peuple, rendent à leurs collègues membres du Comité des inspecteurs, de leur mission dans les papeteries du Marais, de Courtalain & d'Essonne."
+place = "Paris"
+date = "1795"
+url = "https://archive.org/details/case_frc_13049"
+subject = [
+    "Finance, Public",
+    "France. Convention nationale",
+    "Expenditures, Public",
+    "Public officers",
+    "Employees",
+    "History",
+    "Revolution (France : 1789-1799)",
+    "Economics",
+]
+extent = "2 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 13049"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t86h9bp6f"
+internet_archive = "case_frc_13049"
+
+[scan]
+file = "case_frc_13049.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_13049"
+
+[[resp]]
+name = "Robin, Louis-Antonin-Joseph, 1757-1802"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_827647"
+
+[[text]]
+file = "case_frc_13049.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_13049.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

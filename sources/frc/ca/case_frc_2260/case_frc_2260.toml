@@ -1,0 +1,64 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_2260"
+type = "pamphlet"
+title = "Extrait du registre des arrêtés"
+place = "À Paris"
+date = "1795"
+url = "https://archive.org/details/case_frc_2260"
+subject = [
+    "Postal service",
+    "Revolution (France : 1789-1799)",
+]
+extent = "2 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+shelfmark = "Case FRC 2260"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9f533f64"
+internet_archive = "case_frc_2260"
+
+[scan]
+file = "case_frc_2260.pdf"
+count = 5
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_2260"
+
+[[resp]]
+name = "France. Convention nationale. Comité des transports, postes et messageries"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie de la République"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_45665"
+
+[[text]]
+file = "case_frc_2260.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_2260.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_2260.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_2260.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

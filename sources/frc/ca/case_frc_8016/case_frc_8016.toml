@@ -1,0 +1,52 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_8016"
+type = "pamphlet"
+title = "La réunion calvadocienne : le jour de la Fédération, le 10 août 1793, l'an 2e de la République une indivisible ; Air: Allons, enfans de la patrie.."
+date = "1793"
+url = "https://archive.org/details/case_frc_8016"
+subject = ["Revolution (France : 1789-1799)"]
+extent = "3 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+shelfmark = "Case FRC 8016"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9v17g51j"
+internet_archive = "case_frc_8016"
+
+[scan]
+file = "case_frc_8016.pdf"
+count = 5
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_8016"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_101665"
+
+[[text]]
+file = "case_frc_8016.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_8016.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_8016.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_8016.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

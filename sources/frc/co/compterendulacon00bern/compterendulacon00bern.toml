@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "compterendulacon00bern"
+type = "pamphlet"
+title = "Compte rendu a la Convention nationale, en exécution du décret du 21 nivôse an 3, par Bernard (de Xaintes), représentant du peuple, des dépenses faites pendant ses deux missions, dans les départemens du Jura, du Doubs, de l'Ain, de la Haute-Saone, du Mont-Terrible, de la Côte-d'Or, et Saone-et-Loire imprimé par ordre de la Convention nationale."
+language = "fr"
+date = "1795"
+note = "Caption title. At head of title: Convention nationale. Imprint from colophon. Personal expense report. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,I, 2838. Scanner's note: Title found on front cover. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/compterendulacon00bern"
+subject = [
+    "France. Convention nationale",
+    "Finance, Public",
+]
+extent = "4 p. ;22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "CaseFRC10759"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t74t9nd8r"
+internet_archive = "compterendulacon00bern"
+
+[scan]
+file = "compterendulacon00bern.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/compterendulacon00bern"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Bernard de Saintes, André-Antoine des Zeuzines,1751-1819"
+role = "author"
+
+[[resp]]
+name = "A Paris :De l'Imprimerie nationale,"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_823698"
+
+[[text]]
+file = "compterendulacon00bern.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "compterendulacon00bern.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "compterendulacon00bern.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "compterendulacon00bern.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"

@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "copiedelalettree00main"
+type = "pamphlet"
+title = "Copie de la lettre écrite par le directoire du département de Mayenne et Loire, aux directoires de districts, le 27 février 1792"
+language = "fr"
+place = "France"
+date = "1792"
+note = "Caption title. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover page. Damaged, stained, and/or loose pages. Uneven binding. Skewed text. No page numbers."
+url = "https://archive.org/details/copiedelalettree00main"
+subject = [
+    "Registration tax",
+    "Business tax",
+]
+extent = "[3] p. ; 28 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC suppl. 123 no. 6"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6rz4gm3r"
+internet_archive = "copiedelalettree00main"
+openlibrary_edition = "OL26235673M"
+openlibrary_work = "OL17630230W"
+
+[scan]
+file = "copiedelalettree00main.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/copiedelalettree00main"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Maine-et-Loire (France). Directoire"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_861422"
+
+[[text]]
+file = "copiedelalettree00main.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "copiedelalettree00main.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "copiedelalettree00main.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "copiedelalettree00main.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

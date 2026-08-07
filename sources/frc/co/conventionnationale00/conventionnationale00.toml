@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "conventionnationale00"
+type = "pamphlet"
+title = "... Convention nationale. Comité de sureté générale. Du 4 germinal, l'an 3e. de la République française, une et indivisible [24 mars 1795] : aux agens nationaux de district"
+language = "fr"
+place = "s.l."
+date = "1795"
+note = "Caption title. Without imprint. At head of title: Egalité. Liberté. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."
+url = "https://archive.org/details/conventionnationale00"
+extent = "3 p. ; 24 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9661"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4vj0ns7q"
+internet_archive = "conventionnationale00"
+openlibrary_edition = "OL26222834M"
+openlibrary_work = "OL17618306W"
+
+[scan]
+file = "conventionnationale00.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/conventionnationale00"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale. Comité de sûreté générale"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale. Comité de sûreté générale"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_68006"
+
+[[text]]
+file = "conventionnationale00.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "conventionnationale00.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "conventionnationale00.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "conventionnationale00.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

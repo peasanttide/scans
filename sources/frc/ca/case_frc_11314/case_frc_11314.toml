@@ -1,0 +1,55 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_11314"
+type = "pamphlet"
+title = "Considération additionnelle, a l'opinion émise sur la liberté de la presse : séance du 28 ventôse, an IV"
+place = "A Paris"
+date = "1796"
+url = "https://archive.org/details/case_frc_11314"
+subject = [
+    "Freedom of the press",
+    "Government and the press",
+]
+extent = "2 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 11314"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3vt6f929"
+internet_archive = "case_frc_11314"
+
+[scan]
+file = "case_frc_11314.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_11314"
+
+[[resp]]
+name = "Debry, Jean-Antoine-Joseph, 1760-1834"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_824962"
+
+[[text]]
+file = "case_frc_11314.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_11314.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

@@ -1,0 +1,55 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_oversize_frc_10449"
+type = "pamphlet"
+title = "Extrait du procès-verbal des seances du directoire de departement de l'Herault : du samedi neuvième juillet 1791"
+language = "fr"
+place = "A Montpellier"
+date = "1791"
+url = "https://archive.org/details/case_oversize_frc_10449"
+subject = [
+    "Secularization",
+    "Revolution (France : 1789-1799)",
+    "Law and legislation",
+    "Public opinion",
+]
+extent = "1 sheet ; 44 x 33 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "Newberry Library"
+shelfmark = "Case oversize FRC 10449"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0rr6hv59"
+internet_archive = "case_oversize_frc_10449"
+
+[scan]
+file = "case_oversize_frc_10449.pdf"
+count = 2
+by = "Internet Archive"
+url = "https://archive.org/details/case_oversize_frc_10449"
+note = "Scanned on Internet Archive Python library 0.9.2."
+
+[[resp]]
+name = "Herault (France). Directoire"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie Jean Martel aine"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_72549"
+
+[[text]]
+file = "case_oversize_frc_10449.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,62 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_13722"
+type = "pamphlet"
+title = "Rapport fait par P.J. Audouin, sur une difficulté relative aux professeurs des écoles centrales : séance du 5 thermidor, l'an 4."
+place = "A Paris"
+date = "1796"
+url = "https://archive.org/details/case_frc_13722"
+subject = ["Teachers--Selection and appointment"]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 13722"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1ck36347"
+internet_archive = "case_frc_13722"
+
+[scan]
+file = "case_frc_13722.pdf"
+count = 5
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_13722"
+
+[[resp]]
+name = "Audouin, Pierre Jean, 1764-"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_828930"
+
+[[text]]
+file = "case_frc_13722.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_13722.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_13722.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_13722.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

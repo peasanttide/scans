@@ -1,0 +1,62 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_oversize_frc_27578"
+type = "pamphlet"
+title = "Convocation des electeurs du departement"
+language = "fr"
+place = "Paris"
+date = "1792"
+url = "https://archive.org/details/case_oversize_frc_27578"
+subject = [
+    "Voting",
+    "Public officers",
+    "Employees",
+    "Employee selection",
+    "History",
+    "Refugees",
+    "Examinations",
+]
+extent = "1 sheet ; 52 x 42 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "Newberry Library"
+shelfmark = "Case oversize FRC 27578"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9h46dh1r"
+internet_archive = "case_oversize_frc_27578"
+
+[scan]
+file = "case_oversize_frc_27578.pdf"
+count = 2
+by = "Internet Archive"
+url = "https://archive.org/details/case_oversize_frc_27578"
+note = "Scanned on Internet Archive Python library 0.9.2."
+
+[[resp]]
+name = "Paris (France : Department)"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale;  France. Directoire exécutif"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Ballard, imprimeur du departement de Paris, rue des Mathurins"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_868927"
+
+[[text]]
+file = "case_oversize_frc_27578.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

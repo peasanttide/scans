@@ -1,0 +1,46 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_2835"
+type = "pamphlet"
+title = "Délibération"
+date = "1790"
+url = "https://archive.org/details/case_frc_2835"
+subject = ["Revolution (France : 1789-1799)"]
+extent = "2 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+shelfmark = "Case FRC 2835"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9867z002"
+internet_archive = "case_frc_2835"
+
+[scan]
+file = "case_frc_2835.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_2835"
+
+[[resp]]
+name = "France. Armée. Légion de St.-Barthélemi, Seconde"
+role = "author"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_43459"
+
+[[text]]
+file = "case_frc_2835.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_2835.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

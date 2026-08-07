@@ -1,0 +1,55 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_4269"
+type = "pamphlet"
+title = "Hymne chantée le 10 messidor, an 5 [28 juin 1797], jour de la Fête de l'agriculture"
+place = "s.l."
+date = "1797"
+url = "https://archive.org/details/case_frc_4269"
+subject = [
+    "Patriotic music",
+    "Festivals",
+]
+extent = "2 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+shelfmark = "Case FRC 4269"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8rc2gk37"
+internet_archive = "case_frc_4269"
+
+[scan]
+file = "case_frc_4269.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_4269"
+
+[[resp]]
+name = "De l'imprimerie de Carpentier"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_47742"
+
+[[text]]
+file = "case_frc_4269.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_4269.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_4269.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

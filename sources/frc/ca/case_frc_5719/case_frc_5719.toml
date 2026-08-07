@@ -1,0 +1,50 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_5719"
+type = "pamphlet"
+title = "Adresse"
+place = "Paris"
+date = "1792"
+url = "https://archive.org/details/case_frc_5719"
+extent = "2 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+shelfmark = "Case FRC 5719"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9b620s0h"
+internet_archive = "case_frc_5719"
+
+[scan]
+file = "case_frc_5719.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_5719"
+
+[[resp]]
+name = "Nancy (France)"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_57093"
+
+[[text]]
+file = "case_frc_5719.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_5719.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

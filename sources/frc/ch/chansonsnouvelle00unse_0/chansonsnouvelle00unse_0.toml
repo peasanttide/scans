@@ -1,0 +1,68 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "chansonsnouvelle00unse_0"
+type = "pamphlet"
+title = "Chansons nouvelles : contenant la joie & le contentement de tout le peuple français, sur la convocation des Etats-généraux, qui se tiendront à Versailles par ordre du roi, le 27 du mois d'avril 1789."
+language = "fr"
+place = "s.l."
+date = "1789"
+note = "Caption title. Without imprint. The first number, without title, has opening lines: Vive le roi, / Louis Seize le débonnaire .. The other number (p.3-4) has title: Autre, sur le même sujet. First two lines: Ah! qu'elle [sic] heureuse nouvelle / Pour tout le peuple français. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined.  Skewed text.  Damaged, stained, and/or loose pages."
+url = "https://archive.org/details/chansonsnouvelle00unse_0"
+subject = ["France. Etats généraux"]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 1721"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6qz78p4g"
+internet_archive = "chansonsnouvelle00unse_0"
+openlibrary_edition = "OL26208629M"
+openlibrary_work = "OL17604900W"
+
+[scan]
+file = "chansonsnouvelle00unse_0.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/chansonsnouvelle00unse_0"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_43096"
+
+[[text]]
+file = "chansonsnouvelle00unse_0.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "chansonsnouvelle00unse_0.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "chansonsnouvelle00unse_0.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "chansonsnouvelle00unse_0.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

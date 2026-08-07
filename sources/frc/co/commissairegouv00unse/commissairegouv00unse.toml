@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "commissairegouv00unse"
+type = "pamphlet"
+title = "... Le commissaire du gouvernement pr`es le Tribunal civil de l'arrondissement de Riom : au commissaires de police et adjoints de maire du m^eme arrondissement"
+language = "fr"
+place = "s.l."
+date = "1800"
+note = "Caption title. Without imprint. At head of title: Liberté, égalité. Riom, le 1re. vendémiaire an 9 de la République française [23 septembre 1800]. At upper left on p.[1]: Département du Puy-de-D^ome. Tribunal civil de l'arrondissement de Riom. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover. No page numbers."
+url = "https://archive.org/details/commissairegouv00unse"
+extent = "[3] p. ; 25 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10165"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t31310m4b"
+internet_archive = "commissairegouv00unse"
+openlibrary_edition = "OL26222976M"
+openlibrary_work = "OL17618436W"
+
+[scan]
+file = "commissairegouv00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/commissairegouv00unse"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Riom (France). Tribunal civil"
+role = "author"
+
+[[resp]]
+name = "Puy-de-Dôme (France)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_71289"
+
+[[text]]
+file = "commissairegouv00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "commissairegouv00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "commissairegouv00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "commissairegouv00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

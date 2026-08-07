@@ -1,0 +1,87 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "camilleoulett00dela"
+type = "pamphlet"
+title = "Camille, ou, Lettres de deux filles de ce siecle"
+language = "fr"
+place = "A Paris"
+date = "1785"
+note = """Prospectus for "Camille, ou, Lettres de deux filles de ce siècle", generally attributed to Samuel de Constant, sometimes to Isabelle de Charrière. Cf. Barbier, A.A. Ouvrages anonymes, t. 1, column 483. Caption title. "Permis d'imprimer, le 22 avril 1785"--P. [4]. "Prix, 8 liv. broché"--P. [1]. Includes prospectus for Nicolas Bricaire de La Dixmerie's "Les dangers d'un premier choix" and brief descriptions of 4 other titles sold by Delalain. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Title page and cover are combined."""
+url = "https://archive.org/details/camilleoulett00dela"
+subject = [
+    "Constant, Samuel de",
+    "Bricaire de La Dixmerie, Nicolas, 1731-1791",
+    "Delalain, Louis-Alexandre, 1749?-1798",
+    "Booksellers and bookselling",
+    "Epistolary fiction",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1a no. 61"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2n64762c"
+internet_archive = "camilleoulett00dela"
+
+[scan]
+file = "camilleoulett00dela.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/camilleoulett00dela"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Delalain, Louis-Alexandre,1749?-1798"
+role = "author"
+
+[[resp]]
+name = "Delalain, Louis-Alexandre, 1749?-1798"
+role = "author"
+
+[[resp]]
+name = "Constant, Samuel de. Camille"
+role = "author"
+
+[[resp]]
+name = "Bricaire de La Dixmerie, Nicolas, 1731-1791. Dangers d'un premier choix"
+role = "author"
+
+[[resp]]
+name = "Charrière, Isabelle de, 1740-1805"
+role = "author"
+
+[[resp]]
+name = "Chez Delalain le jeune, libraire, rue Saint-Jacques, n° 13"
+role = "publisher"
+
+[[text]]
+file = "camilleoulett00dela.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "camilleoulett00dela.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "camilleoulett00dela.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "camilleoulett00dela.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

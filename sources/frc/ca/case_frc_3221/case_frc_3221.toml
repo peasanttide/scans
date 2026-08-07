@@ -1,0 +1,60 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_3221"
+type = "pamphlet"
+title = "... Extrait des registres"
+place = "À Paris"
+date = "1799"
+url = "https://archive.org/details/case_frc_3221"
+extent = "[2] p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+shelfmark = "Case FRC 3221"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t77t3491g"
+internet_archive = "case_frc_3221"
+
+[scan]
+file = "case_frc_3221.pdf"
+count = 5
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_3221"
+
+[[resp]]
+name = "France. Directoire exécutif"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie de la République"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_49188"
+
+[[text]]
+file = "case_frc_3221.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_3221.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_3221.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_3221.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

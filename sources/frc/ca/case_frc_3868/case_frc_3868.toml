@@ -1,0 +1,57 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_3868"
+type = "pamphlet"
+title = "Extrait des lettres officielles arrivées de Brest : Bordeaux, le 30 prairial, l'an deux de la République française, une & indivisible [18 juin 1784]"
+place = "A Toulouse"
+date = "1794"
+url = "https://archive.org/details/case_frc_3868"
+subject = ["Anglo-French War (1793-1802)"]
+extent = "2 p. ; 23 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+shelfmark = "Case FRC 3868"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t84j5xh30"
+internet_archive = "case_frc_3868"
+
+[scan]
+file = "case_frc_3868.pdf"
+count = 5
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_3868"
+
+[[resp]]
+name = "Chez le Montagnard Viallanes"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_48967"
+
+[[text]]
+file = "case_frc_3868.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_3868.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_3868.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_3868.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

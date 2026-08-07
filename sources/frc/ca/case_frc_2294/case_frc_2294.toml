@@ -1,0 +1,56 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_2294"
+type = "pamphlet"
+title = "Décret"
+place = "A Paris"
+date = "1793"
+url = "https://archive.org/details/case_frc_2294"
+subject = [
+    "Political corruption",
+    "Public officers",
+    "Employees",
+    "Revolution (France : 1789-1799)",
+]
+extent = "2 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+shelfmark = "Case FRC 2294"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0wq5d582"
+internet_archive = "case_frc_2294"
+
+[scan]
+file = "case_frc_2294.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_2294"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale exécutive du Louvre"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_42834"
+
+[[text]]
+file = "case_frc_2294.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_2294.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

@@ -1,0 +1,62 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_15041"
+type = "pamphlet"
+title = "Compliment de la communauté des notaires"
+place = "France"
+note = 'Date given by the catalogue as "179u", unreadable.'
+url = "https://archive.org/details/case_frc_15041"
+subject = ["Notaries"]
+extent = "2 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 15041"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6159mv11"
+internet_archive = "case_frc_15041"
+
+[scan]
+file = "case_frc_15041.pdf"
+count = 5
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_15041"
+
+[[resp]]
+name = "Bouche, Charles François, 1737-1795"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=830816"
+
+[[text]]
+file = "case_frc_15041.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_15041.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_15041.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_15041.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

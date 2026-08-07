@@ -1,0 +1,62 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_oversize_frc_10410"
+type = "pamphlet"
+title = "Extrait du registre des deliberations du Comitemilitaire de la Convention nationale, du premier floreal, l'an trois de la Republique française une et indivisible : mode d'execution pour la formation de la Garde nationale parisienne"
+language = "fr"
+date = "1795"
+url = "https://archive.org/details/case_oversize_frc_10410"
+subject = [
+    "Paris (France). Garde nationale",
+    "Central-local government relations",
+]
+extent = "[2] p. ; 34 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "Newberry Library"
+shelfmark = "Case oversize FRC 10410"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9p31jz6z"
+internet_archive = "case_oversize_frc_10410"
+
+[scan]
+file = "case_oversize_frc_10410.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_oversize_frc_10410"
+note = "Scanned on Internet Archive Python library 0.9.2."
+
+[[resp]]
+name = "France. Convention nationale. Comitemilitaire"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "France"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_72488"
+
+[[text]]
+file = "case_oversize_frc_10410.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "case_oversize_frc_10410.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

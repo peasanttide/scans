@@ -1,0 +1,61 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_12931"
+type = "pamphlet"
+title = "Compte rendu par le citoyen Prost, des recettes et dépenses de sa mission a l'armée d'Italie : du 20 thermidor de l'an II de la République française une & indivisible."
+place = "Paris"
+date = "1795"
+url = "https://archive.org/details/case_frc_12931"
+subject = [
+    "Finance, Public",
+    "France. Convention nationale",
+    "Expenditures, Public",
+    "Public officers",
+    "Employees",
+    "History",
+    "Revolution (France : 1789-1799)",
+    "Economics",
+]
+extent = "2 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 12931"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6sz1337k"
+internet_archive = "case_frc_12931"
+
+[scan]
+file = "case_frc_12931.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_12931"
+
+[[resp]]
+name = "Prost, Claude Charles, 1742-1804"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_828021"
+
+[[text]]
+file = "case_frc_12931.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_12931.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

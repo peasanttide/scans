@@ -1,0 +1,47 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_4272"
+type = "pamphlet"
+title = "Hymne patriotique : pour l'anniversaire de la chûte du dernier tyran-roi ; Air: En détestant les rois"
+place = "A Auxerre"
+date = "1796"
+url = "https://archive.org/details/case_frc_4272"
+subject = ["Patriotic music"]
+extent = "2 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+shelfmark = "Case FRC 4272"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3mw7vm5n"
+internet_archive = "case_frc_4272"
+
+[scan]
+file = "case_frc_4272.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_4272"
+
+[[resp]]
+name = "De l'imprimerie de Baillif"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_50284"
+
+[[text]]
+file = "case_frc_4272.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_4272.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

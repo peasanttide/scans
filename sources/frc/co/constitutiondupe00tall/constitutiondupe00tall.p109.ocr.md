@@ -1,0 +1,46 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: constitutiondupe00tall
+page: 109
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 2477
+h: 4160
+dpi: 500
+---
+
+( 109 )
+
+I
+
+TITRE VIII.
+
+Dü Pouvoir Judiciaire.
+
+A
+
+SECTION!.
+
+Règles générales,
+
+■ 1
+
+CCLVL Aucune fonction judiciaire, n’est
+remplie que par des citoyens Bataves , ayant
+atteint Page complet de trente ans.
+
+Outre cette clause, la loi peut encore met-
+tre à ce choix d’autres restrictions.
+
+CCLVII. Dans aucun Tribunal il ne peut
+siéger simultanément ni des Juges ni des Ac-
+cusateurs publics qui soient parens l’un de
+l’autre en ligne ascendante ou descendante ,
+ou à titre de frères , d’oncle et de neveu , soit
+par consanguinité , soit par alliance.
+
+CCLVIIL Les membres de tous les Tribu-*
+naux sont en tout tems rééligibles , à leur sor-
+tie de leurs fonctions , aux termes de la loi,
+
+CCLIX, Nul membre n’est destitué que

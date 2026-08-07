@@ -1,0 +1,58 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_15495"
+type = "pamphlet"
+title = "Hymne en mémoire des succès de la République : dédiée aux bienfaiteurs de l'humanité, aux vengeurs et aux deffenseurs de la liberté et de l'égalité : pour le 20 messidor"
+place = "Paris"
+date = "1793"
+url = "https://archive.org/details/case_frc_15495"
+subject = [
+    "Revolutionary ballads and songs",
+    "Eighteenth century",
+    "History",
+    "Revolution (France : 1789-1799)",
+    "Songs",
+]
+extent = "1 sheet ([2] p.) : music ; 20 x 26 cm., folded to 20 x 13 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 15495"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3kx0ff3v"
+internet_archive = "case_frc_15495"
+
+[scan]
+file = "case_frc_15495.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_15495"
+
+[[resp]]
+name = "Buard, fils"
+role = "author"
+
+[[resp]]
+name = "Chez Frère, passage du Saumon Rue Montmartre"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=832291"
+
+[[text]]
+file = "case_frc_15495.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_15495.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

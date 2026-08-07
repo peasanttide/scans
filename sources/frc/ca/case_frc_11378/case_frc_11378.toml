@@ -1,0 +1,65 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_11378"
+type = "pamphlet"
+title = "Compte rendu par le citoyen Delcher, représentant du peuple, de la dépense par lui faite dans sa mission à l'armée des Pyrénées-Occidentales, pendant les mois de fructidor & suivans, jusques & compris germinal de l'an 3 de la République une & indivisible."
+place = "Paris"
+date = "1795"
+url = "https://archive.org/details/case_frc_11378"
+subject = [
+    "Finance, Public",
+    "France. Armée",
+]
+extent = "3 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 11378"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2798zd32"
+internet_archive = "case_frc_11378"
+
+[scan]
+file = "case_frc_11378.pdf"
+count = 5
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_11378"
+
+[[resp]]
+name = "Delcher, Joseph Etienne, 1752-1812"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_825070"
+
+[[text]]
+file = "case_frc_11378.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_11378.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_11378.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_11378.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

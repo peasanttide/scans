@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "coursdebanquegen00goud"
+type = "pamphlet"
+title = "Cours de banque générale et l'art de tenir les livres en parties doubles"
+language = "fr"
+place = "Marseille"
+date = "1784"
+note = """Advertisement for courses on banking and accounting taught by Goudard. "Permis d'imprimer. A Marseille le 6 octobre 1784"--P. [3]. Head-piece. "Le prix d'un cours séparément est de trois louis d'or, fournitures comprises, & de quatre-vingt-seize livres pour ceux qui suivront les deux cours"--P. [2]. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Title page and cover are combined."""
+url = "https://archive.org/details/coursdebanquegen00goud"
+subject = [
+    "Banks and banking",
+    "Accounting",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1c no. 35"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9h47dp78"
+internet_archive = "coursdebanquegen00goud"
+
+[scan]
+file = "coursdebanquegen00goud.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/coursdebanquegen00goud"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Goudard,maître écrivain"
+role = "author"
+
+[[resp]]
+name = "Goudard, maître écrivain"
+role = "author"
+
+[[resp]]
+name = "Goudard?"
+role = "publisher"
+
+[[text]]
+file = "coursdebanquegen00goud.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "coursdebanquegen00goud.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "coursdebanquegen00goud.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "coursdebanquegen00goud.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

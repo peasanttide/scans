@@ -1,0 +1,58 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_19531"
+type = "pamphlet"
+title = "Discours prononcé par Guillard, sur une réclamation présentée au conseil contre la résolution qui a ordonné le dépôt des restes du général Chérin dans mausolée élevé au général Marceau, près Coblentz : séance du 17 messidor an 7"
+place = "A Paris"
+date = "1799"
+url = "https://archive.org/details/case_frc_19531"
+subject = [
+    "Chérin, Louis-Nicolas-Hyacinthe, 1762-1799",
+    "Death",
+    "Burial",
+    "Political science",
+    "Revolution (France : 1789-1799)",
+]
+extent = "2 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 19531"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t34220x4b"
+internet_archive = "case_frc_19531"
+
+[scan]
+file = "case_frc_19531.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_19531"
+
+[[resp]]
+name = "Guillard, Jérôme, 1763-1808"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=840783"
+
+[[text]]
+file = "case_frc_19531.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_19531.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

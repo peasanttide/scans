@@ -1,0 +1,52 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_18565"
+type = "pamphlet"
+title = "Discours du citoyen Fera, preÌsident du deÌpartement du Loiret, prononceÌ en preÌsence des corps administratifs & du conseil geÌneÌral de la commune d'OrleÌans, aÌ€ la force armeÌe employeÌe aÌ€ Baugenci, pour dissiper des rassemblemens qui se portoient sur cette ville"
+place = "A Orléans"
+date = "1790"
+note = 'Date given by the catalogue as "1790/1799". Discours du citoyen Fera.'
+url = "https://archive.org/details/case_frc_18565"
+subject = ["Militia"]
+extent = "2 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+shelfmark = "Case FRC 18565"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9p31xq9t"
+internet_archive = "case_frc_18565"
+
+[scan]
+file = "case_frc_18565.pdf"
+count = 2
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_18565"
+
+[[resp]]
+name = "Fera"
+role = "author"
+
+[[resp]]
+name = "Chez Jacob l’aîné, imprimerie du département, rue de l’Écrivinerie, no. 1"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=839032"
+
+[[text]]
+file = "case_frc_18565.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_18565.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

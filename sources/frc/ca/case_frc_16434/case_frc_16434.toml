@@ -1,0 +1,56 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_16434"
+type = "pamphlet"
+title = "Discours de M. Collot-d'Herbois, défenseur officieux des soldats de Châteauvieux : prononcé le lundi 9 avril 1792 : imprimé par ordre de l'Assemblée nationale"
+place = "Paris"
+date = "1792"
+url = "https://archive.org/details/case_frc_16434"
+subject = [
+    "France. Armée",
+    "Political science",
+    "Revolution (France : 1789-1799)",
+]
+extent = "2 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 16434"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9d55p84d"
+internet_archive = "case_frc_16434"
+
+[scan]
+file = "case_frc_16434.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_16434"
+
+[[resp]]
+name = "Collot d'Herbois, Jean-Marie, 1750-1796"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=834149"
+
+[[text]]
+file = "case_frc_16434.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_16434.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

@@ -1,0 +1,83 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "copieducompteren00lemo"
+type = "pamphlet"
+title = "Copie du compte rendu a la Convention nationale, en exécution du décret du 21 nivôse, an 3 /"
+language = "fr"
+place = "A Paris"
+date = "1795"
+note = "Caption title. At head of title: Convention nationale. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  III, 20889. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page."
+url = "https://archive.org/details/copieducompteren00lemo"
+subject = [
+    "France. Convention nationale",
+    "Finance, Public",
+]
+extent = "3 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 12338"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7mp9q73w"
+internet_archive = "copieducompteren00lemo"
+openlibrary_edition = "OL25915628M"
+openlibrary_work = "OL17338929W"
+
+[scan]
+file = "copieducompteren00lemo.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/copieducompteren00lemo"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Lemoine, Joachim Thadée Louis, 1747-"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_827065"
+
+[[text]]
+file = "copieducompteren00lemo.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "copieducompteren00lemo.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "copieducompteren00lemo.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "copieducompteren00lemo.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

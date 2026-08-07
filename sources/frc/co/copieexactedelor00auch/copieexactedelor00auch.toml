@@ -1,0 +1,73 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "copieexactedelor00auch"
+type = "pamphlet"
+title = "Copie exacte de l'ordonnance rendue par le tribune du district d'Auch : & de la décision du Comité ecclésiastique ; dont les originaux sont déposés en lieu sûr."
+language = "fr"
+place = "s.l."
+date = "1791"
+note = """Caption title. Without imprint. Dated at end: ... ce 3 février 1791. About the status of clergy who have not subscribed to the required "serment civique.". Martin & Walter IV 2: 4718. Scanner's note: Title on cover. Damaged, stained pages and cover.<br />No copyright. No table of contents. <br /><br />."""
+url = "https://archive.org/details/copieexactedelor00auch"
+subject = [
+    "Clergy",
+    "Church and state",
+]
+extent = "3 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 2504"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1bk6dw0x"
+internet_archive = "copieexactedelor00auch"
+
+[scan]
+file = "copieexactedelor00auch.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/copieexactedelor00auch"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "Auch (France)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_50783"
+
+[[text]]
+file = "copieexactedelor00auch.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "copieexactedelor00auch.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "copieexactedelor00auch.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "copieexactedelor00auch.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

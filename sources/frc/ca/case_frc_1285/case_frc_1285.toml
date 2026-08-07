@@ -1,0 +1,42 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_1285"
+type = "pamphlet"
+title = "Avis aux citoyens : pour la nomination des electeurs, dans les différentes assemblées partielles de la ville de Paris"
+date = "1789"
+url = "https://archive.org/details/case_frc_1285"
+subject = ["Revolution (France : 1789-1799)"]
+extent = "[2] p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+shelfmark = "Case FRC 1285"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t46q7cs9v"
+internet_archive = "case_frc_1285"
+
+[scan]
+file = "case_frc_1285.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_1285"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_42419"
+
+[[text]]
+file = "case_frc_1285.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_1285.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

@@ -1,0 +1,73 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "citoyen00unse"
+type = "pamphlet"
+title = "... Citoyen : Les circonstances pénibles o`u s'est trouvé la municipalité, depuis sa lettre circulaire du 16 niv^ose dernier, ne lui permettent pas encore de satisfaire au remboursement des sommes qui lui furent avancées `a cette époque .."
+language = "fr"
+place = "s.l."
+date = "1795"
+note = """
+Circular letter, without title or imprint. Title statement from opening words of text. At head of text: Dijon, 24 messidor, an 3 [12 juillet 1795]. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover. 
+No page numbers."""
+url = "https://archive.org/details/citoyen00unse"
+extent = "[2] p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9739"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3mw7jq2t"
+internet_archive = "citoyen00unse"
+openlibrary_edition = "OL26223378M"
+openlibrary_work = "OL17618841W"
+
+[scan]
+file = "citoyen00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/citoyen00unse"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Dijon (France)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_68311"
+
+[[text]]
+file = "citoyen00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "citoyen00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "citoyen00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "citoyen00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

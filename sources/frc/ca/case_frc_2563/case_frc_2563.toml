@@ -1,0 +1,45 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_2563"
+type = "pamphlet"
+title = "Couplets a l'occasion de la fête patriotique, donnée par M. le Comte J. Dubarry, dans son hôtel : Sur l'air: Dans le sein d'une cruelle"
+date = "1790"
+url = "https://archive.org/details/case_frc_2563"
+subject = [
+    "Barry-Ceres, Jean, Comte du, 1722-1811",
+    "Revolution (France : 1789-1799)",
+]
+extent = "[1] p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+shelfmark = "Case FRC 2563"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t49p8gg53"
+internet_archive = "case_frc_2563"
+
+[scan]
+file = "case_frc_2563.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_2563"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_51435"
+
+[[text]]
+file = "case_frc_2563.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_2563.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

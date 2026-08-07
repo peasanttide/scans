@@ -1,0 +1,58 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: constitutiondela00fran_0
+page: 29
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 2519
+h: 4375
+dpi: 500
+---
+
+/
+
+/
+
+adresses au directoire, en la' personne' de son pré-
+sident. “ -*% I
+
+142: Le- directoire exe'ciitif ne peut délibérer j
+s’d n’y a trois membres présens au moins.'
+
+143. 11 se choisit, hors de son sein, un secré-
+taire qiii contre signe les expédiions, et rédige
+des délibérations sur un registre où chaque membre,
+a le dréit de faire inscrire son avis motivé.
+
+Le directoire peut, ''quand il le juge à proposi
+délibérer sans l’assistance de son secrétaire; en ce
+cas les délibérations sont rédigées sur un registre
+particulier j par l’un des membres du directoire.
+
+144. Le directoire pourvoit, d’après les lois,
+'à la sûreté extérieure ou intérieure de la- Ré-
+publique.
+
+Il peut faire des proclamations conformes aux
+lois et pour leur exécution.
+
+11 dispose de la force armée, sans qu’en aucun
+cas, le directoire collectivement, ni aucun de ses
+membres , puisse la commander , ni pendant le
+temps de ses fonctions , ni pendant les deux
+années qui suivent immédiatement l’expiration de
+ces mêmes .fonctions.
+
+145. Si le directoire est informé qu’il se trame
+quelque conspiration contre la sûreté extérieure
+ou intérieure de l’Etat, il peut décerner des man-^
+dats d’amener et des mandats d’arrêt contre ceux
+qui en sont présumés les auteurs ou les complices ;
+il peut les interroger : mais il est obligé , sous
+les peines portées contre le crime de détention
+arbitraire, de les renvoyer par- devant i’oflicier de
+police, dans le délai de deux jours, pour procéder
+suivant les lois.
+
+146. Le directoire nomme les generaux en
+chef; il ne peut les choisir parmi les parens ou

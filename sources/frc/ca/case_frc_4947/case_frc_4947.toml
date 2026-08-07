@@ -1,0 +1,41 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_4947"
+type = "pamphlet"
+title = "Lettre écrite de Nismes : le 5 mai 1790"
+date = "1790"
+url = "https://archive.org/details/case_frc_4947"
+extent = "2 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+shelfmark = "Case FRC 4947"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4cp2j81n"
+internet_archive = "case_frc_4947"
+
+[scan]
+file = "case_frc_4947.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_4947"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_56066"
+
+[[text]]
+file = "case_frc_4947.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_4947.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

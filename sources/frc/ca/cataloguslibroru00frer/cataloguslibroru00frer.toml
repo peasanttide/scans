@@ -1,0 +1,92 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "cataloguslibroru00frer"
+type = "pamphlet"
+title = "Catalogus librorum recentiorum, venales Prostantium"
+language = "la"
+place = "Geneva?"
+date = "1750"
+note = """Caption title. Printed in double columns. "Livres que nous avons finis l'année 1749": p. 4. "Nous imprimons": p. 4. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, stained, torn, and/or loose pages."""
+url = "https://archive.org/details/cataloguslibroru00frer"
+subject = [
+    "Frères Cramer et Claude Philibert",
+    "Religious literature",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 4 no. 24"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t56f1kc77"
+internet_archive = "cataloguslibroru00frer"
+
+[scan]
+file = "cataloguslibroru00frer.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/cataloguslibroru00frer"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Frères Cramer et Claude Philibert"
+role = "author"
+
+[[resp]]
+name = "Frères Cramer et Claude Philibert?"
+role = "publisher"
+
+[[text]]
+file = "cataloguslibroru00frer.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "la"
+
+[[text]]
+file = "cataloguslibroru00frer.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "la"
+
+[[text]]
+file = "cataloguslibroru00frer.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "la"
+
+[[text]]
+file = "cataloguslibroru00frer.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "la"
+
+[[text]]
+file = "cataloguslibroru00frer.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "la"
+
+[[text]]
+file = "cataloguslibroru00frer.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "la"
+
+[[text]]
+file = "cataloguslibroru00frer.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "la"
+
+[[text]]
+file = "cataloguslibroru00frer.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "la"

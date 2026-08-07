@@ -1,0 +1,62 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_oversize_frc_27587"
+type = "pamphlet"
+title = "Proclamation des representants du peuple envoyes près l'armee des Alpes, & dans differents departements de la Republique, aux citoyens des departements reunis sous les murs de Lyon"
+language = "fr"
+place = "A Lyon"
+date = "1793"
+url = "https://archive.org/details/case_oversize_frc_27587"
+subject = [
+    "Military discharge",
+    "France. Armee des Alpes",
+    "Military offenses",
+    "History",
+    "Law",
+    "Confiscations",
+    "Examinations",
+]
+extent = "1 sheet ; 54 x 42 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "Newberry Library"
+shelfmark = "Case oversize FRC 27587"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6m08sk5m"
+internet_archive = "case_oversize_frc_27587"
+
+[scan]
+file = "case_oversize_frc_27587.pdf"
+count = 2
+by = "Internet Archive"
+url = "https://archive.org/details/case_oversize_frc_27587"
+note = "Scanned on Internet Archive Python library 0.9.2."
+
+[[resp]]
+name = "Couthon, Georges Auguste, 1755-1794"
+role = "author"
+
+[[resp]]
+name = "Maignet, Étienne Christophe, 1758-1834; Delaporte, Sébastien-François-Christophe, 1760-1823;  France. Armée des Alpes"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie d'Aime Vatar, aux halles de la Grenette"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_868936"
+
+[[text]]
+file = "case_oversize_frc_27587.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

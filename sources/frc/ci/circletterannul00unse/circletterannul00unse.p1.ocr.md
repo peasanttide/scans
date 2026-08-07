@@ -1,0 +1,44 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: circletterannul00unse
+page: 1
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 2521
+h: 3588
+dpi: 350
+---
+
+M E s s I E U R s.
+
+Nous Sommes chargés par le Roi de vous taire pafler des
+exemplaires de 1* Arrêt du Conteil du 1 1 Juillet dernier y cjui
+annulle les Délibérations prifes par quelques Municipalités ,
+relativement au droit de Champart , Terrage & autres.
+
+Pour prévenir les faufles interprétations que Ton pourroit
+donner aux Décrets de l’Affemblée Nationale fur ce point ,
+
+Sa Majesté délire que vous le faffiez publier , afficher & lire >
+au Prône de la Paroiffe.
+
+Nous avons l’honneur d’être.
+
+Messieurs
+
+Vos très-humbles & très-
+obéiffans ferviteurs ,
+
+Les Commiffaires du Roi pour la
+formation du Département de
+la Haute-Garonne.
+
+A D H E M A R.
+
+Payez à l’Exprès
+
+B A L S A C.
+
+M A L P E L.
+
+Touloufs k 8 Août ly^o.

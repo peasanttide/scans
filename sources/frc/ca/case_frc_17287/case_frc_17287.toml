@@ -1,0 +1,52 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_17287"
+type = "pamphlet"
+title = "Discours prononcé par Denisart, en présentant l'adresse du canton de Réunion-sur-Oise, département de l'Aisne : séance du 12 thermidor an 7"
+place = "A Paris"
+date = "1799"
+url = "https://archive.org/details/case_frc_17287"
+subject = ["Revolution (France : 1789-1799)"]
+extent = "3 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 17287"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9n34wh3n"
+internet_archive = "case_frc_17287"
+
+[scan]
+file = "case_frc_17287.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_17287"
+
+[[resp]]
+name = "Denisart, Jean-Louis, 1763-1844"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=835624"
+
+[[text]]
+file = "case_frc_17287.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_17287.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

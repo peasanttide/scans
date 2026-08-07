@@ -1,0 +1,70 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "complaintedeloui00loui"
+type = "pamphlet"
+title = "Complainte de Louis XVI dans sa prison : air nouveau."
+language = "fr"
+place = "France"
+date = "1793"
+note = "Caption title. First line: Il est minuit, tout m'abandonne. Not in Martin & Walter. Révolution française. Scanner's note: No copyright. No table of contents. Title on cover. Damaged, stained pages and cover. <br />."
+url = "https://archive.org/details/complaintedeloui00loui"
+subject = ["Louis XVI, King of France, 1754-1793"]
+extent = "4 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 1843"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9b61mk2v"
+internet_archive = "complaintedeloui00loui"
+
+[scan]
+file = "complaintedeloui00loui.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/complaintedeloui00loui"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "Louis XVI Trial and Execution Collection (Newberry Library) ICN"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_44362"
+
+[[text]]
+file = "complaintedeloui00loui.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "complaintedeloui00loui.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "complaintedeloui00loui.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "complaintedeloui00loui.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

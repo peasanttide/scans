@@ -1,0 +1,61 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_12742"
+type = "pamphlet"
+title = "Compte rendu, en exécution du décret du 21 nivôse, l'an 3"
+place = "A Paris"
+date = "1795"
+url = "https://archive.org/details/case_frc_12742"
+subject = [
+    "Finance, Public",
+    "France. Convention nationale",
+    "Expenditures, Public",
+    "Public officers",
+    "Employees",
+    "History",
+    "Revolution (France : 1789-1799)",
+    "Economics",
+]
+extent = "2 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 12742"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2q57cw7t"
+internet_archive = "case_frc_12742"
+
+[scan]
+file = "case_frc_12742.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_12742"
+
+[[resp]]
+name = "Paganel, Pierre, 1745-1826"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_827236"
+
+[[text]]
+file = "case_frc_12742.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_12742.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

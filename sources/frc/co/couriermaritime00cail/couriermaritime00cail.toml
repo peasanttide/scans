@@ -1,0 +1,57 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "couriermaritime00cail"
+type = "pamphlet"
+title = "Courier maritime"
+language = "fr"
+place = "A Paris"
+date = "1787"
+note = """Prospectus for "Courrier maritime.". Place of publication and printer statement from colophon. "Permis d'imprimer & distribuer, le 29 décembre 1787"--P. [2]. Printed in double columns. "Le prix de l'abonnement est de 15 livres par an pour Paris, & de 20 livres pour la province, port franc dans tout le royaume. On souscrit en tout temps & à toutes époques, pourvu que ce soit pour une année entière. A Paris, au Bureau du Courier maritime, rue de la Verrerie, n°. 95"--P. [2]. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Title page and cover are combined.  Text extends off of the edge of the page.  Text lost in binding."""
+url = "https://archive.org/details/couriermaritime00cail"
+subject = [
+    "Courrier maritime",
+    "Booksellers and bookselling",
+    "Periodicals",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1d no. 21"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3hx71d1h"
+internet_archive = "couriermaritime00cail"
+
+[scan]
+file = "couriermaritime00cail.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/couriermaritime00cail"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Cailleau, André-Charles, 1731-1798"
+role = "printer"
+
+[[resp]]
+name = "De l'imprimerie de Cailleau, rue Galande, n°. 64"
+role = "publisher"
+
+[[text]]
+file = "couriermaritime00cail.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "couriermaritime00cail.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

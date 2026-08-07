@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "copiedelalettree00gara"
+type = "pamphlet"
+title = "Copie de la lettre écrite par le ministre de l'intérieur, aux citoyens administrateurs des départemens : Paris, le 30 avril 1793, l'an second de la République : extrait des registres des délibérations du Conseil exécutif provisoire, du 20 avril 1793, l'an second de la République"
+language = "fr"
+place = "France"
+date = "1793"
+note = "Caption title. Signed: Le ministre de l'intérieur ... Garat. At left of title: 1re. division. Circulaire. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/copiedelalettree00gara"
+subject = [
+    "Russians",
+    "First Coalition, War of the, 1792-1797",
+]
+extent = "[2] p. ; 24 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 26747"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9382h03c"
+internet_archive = "copiedelalettree00gara"
+openlibrary_edition = "OL26226395M"
+openlibrary_work = "OL17621662W"
+
+[scan]
+file = "copiedelalettree00gara.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/copiedelalettree00gara"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Garat, Dominique-Joseph, comte,1749-1833"
+role = "author"
+
+[[resp]]
+name = "Garat, Dominique-Joseph, comte, 1749-1833"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale. Conseil exécutif provisoire"
+role = "author"
+
+[[resp]]
+name = "France. Ministère de l'intérieur"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_868317"
+
+[[text]]
+file = "copiedelalettree00gara.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "copiedelalettree00gara.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

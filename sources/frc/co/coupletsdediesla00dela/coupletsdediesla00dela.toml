@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "coupletsdediesla00dela"
+type = "pamphlet"
+title = "Couplets dédiés à la propagande révolutionnaire /"
+language = "fr"
+place = "Paris"
+date = "1789"
+note = """Caption title. At head of title: Liberté, égalité. "Air: Dans le sein d'une cruelle"--P. [1]. Imprint from colophon. Publisher location from Martin & Walter. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  II, 9808. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover."""
+url = "https://archive.org/details/coupletsdediesla00dela"
+subject = ["Revolutionary poetry, French"]
+extent = "3 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 17182"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3tt9nb03"
+internet_archive = "coupletsdediesla00dela"
+openlibrary_edition = "OL26205407M"
+openlibrary_work = "OL17601729W"
+
+[scan]
+file = "coupletsdediesla00dela.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/coupletsdediesla00dela"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Delatre, Z"
+role = "author"
+
+[[resp]]
+name = "Brosselard, Emmanuel, 1763-1840"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie de Brosselard, quai ci-devant Conty, no 1873"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_836991"
+
+[[text]]
+file = "coupletsdediesla00dela.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "coupletsdediesla00dela.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "coupletsdediesla00dela.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "coupletsdediesla00dela.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,62 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_17452"
+type = "pamphlet"
+title = "Discours du citoyen Destournelles, ministre des contributions publiques, a la Convention nationale : du 16 juin 1793, l'an deuxième de la République"
+place = "Paris"
+date = "1793"
+url = "https://archive.org/details/case_frc_17452"
+subject = ["Des Champs des Tournelles, Louis-Grégoire, 1744-1795"]
+extent = "2 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 17452"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3033wc0g"
+internet_archive = "case_frc_17452"
+
+[scan]
+file = "case_frc_17452.pdf"
+count = 5
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_17452"
+
+[[resp]]
+name = "Des Champs des Tournelles, Louis-Grégoire, 1744-1795"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=835940"
+
+[[text]]
+file = "case_frc_17452.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_17452.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_17452.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_17452.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

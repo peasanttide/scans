@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_12279"
+type = "pamphlet"
+title = "Rapport sur l'entier retirement des mandats"
+place = "Paris"
+date = "1797"
+url = "https://archive.org/details/case_frc_12279"
+subject = [
+    "Paper money",
+    "Currency question",
+]
+extent = "6 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 12279"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1ng9f67n"
+internet_archive = "case_frc_12279"
+
+[scan]
+file = "case_frc_12279.pdf"
+count = 7
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_12279"
+
+[[resp]]
+name = "Lecouteulx de Canteleu, Jean-Barthélemy, comte, 1746-1818"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_826288"
+
+[[text]]
+file = "case_frc_12279.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_12279.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_12279.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_12279.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_12279.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_12279.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

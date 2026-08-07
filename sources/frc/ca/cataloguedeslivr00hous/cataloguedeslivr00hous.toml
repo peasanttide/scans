@@ -1,0 +1,57 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "cataloguedeslivr00hous"
+type = "pamphlet"
+title = "Catalogue des livres en feuilles qui se trouvent rue Neuve-Eustache, no 8, chez J.M. Housset, gendre du citoyen Mérigot, libraire à Paris"
+language = "fr"
+place = "Paris"
+date = "1795"
+note = "Caption title. Imprint from colophon. Printed in double columns. With prices. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Text extends off of the edge of the page. Text may be lost in the binding. Permanent creases may obscure some text. Title page and cover are combined."
+url = "https://archive.org/details/cataloguedeslivr00hous"
+subject = ["Housset, J. M"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 8 no. 31"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9g50ct8h"
+internet_archive = "cataloguedeslivr00hous"
+
+[scan]
+file = "cataloguedeslivr00hous.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/cataloguedeslivr00hous"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Housset, J. M"
+role = "author"
+
+[[resp]]
+name = "Gueffier, Pierre-François, -1803?"
+role = "printer"
+
+[[resp]]
+name = "De l'imprimerie de Gueffier, rue Gît-le-Cœur, no. 16"
+role = "publisher"
+
+[[text]]
+file = "cataloguedeslivr00hous.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "cataloguedeslivr00hous.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

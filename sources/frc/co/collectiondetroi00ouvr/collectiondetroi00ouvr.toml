@@ -1,0 +1,69 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "collectiondetroi00ouvr"
+type = "pamphlet"
+title = "Collection de trois cents volumes, petit format in-18, avec figures, qui se trouvent chez Ouvrier, libraire, rue Saint-André-des-Arts, no. 41, à Paris"
+language = "fr"
+place = "Paris"
+date = "1795"
+note = "Caption title. Printed in double columns. With prices in assignats and French livres. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Text extends off of the edge of the page. Text may be lost in the binding. Permanent creases may obscure some text. Title page and cover are combined."
+url = "https://archive.org/details/collectiondetroi00ouvr"
+subject = ["Ouvrier, Jean-François, active 1794-1805"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 8 no. 47"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3616qh5x"
+internet_archive = "collectiondetroi00ouvr"
+
+[scan]
+file = "collectiondetroi00ouvr.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/collectiondetroi00ouvr"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Ouvrier, Jean-François,active 1794-185"
+role = "author"
+
+[[resp]]
+name = "Ouvrier, Jean-François, active 1794-1805"
+role = "author"
+
+[[resp]]
+name = "Ouvrier"
+role = "publisher"
+
+[[text]]
+file = "collectiondetroi00ouvr.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "collectiondetroi00ouvr.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "collectiondetroi00ouvr.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "collectiondetroi00ouvr.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

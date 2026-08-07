@@ -1,0 +1,55 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_17518"
+type = "pamphlet"
+title = "Lettre d'Arthur Dillon a Camille Desmoulins : prison de la mairie, 8 juillet"
+place = "France"
+date = "1793"
+url = "https://archive.org/details/case_frc_17518"
+subject = [
+    "Dillon, Arthur, comte, 1750-1794",
+    "Reign of Terror (France : 1793-1794)",
+]
+extent = "2 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 17518"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9w143r85"
+internet_archive = "case_frc_17518"
+
+[scan]
+file = "case_frc_17518.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_17518"
+
+[[resp]]
+name = "Dillon, Arthur, comte, 1750-1794"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=836220"
+
+[[text]]
+file = "case_frc_17518.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_17518.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

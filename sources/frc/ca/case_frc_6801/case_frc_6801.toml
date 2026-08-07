@@ -1,0 +1,51 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_6801"
+type = "pamphlet"
+title = "Pétition / des jeunes gens en réquisition de la Section des Droits de l'homme ; imprimée par ordre de la Convention nationale"
+place = "Paris"
+date = "1792"
+url = "https://archive.org/details/case_frc_6801"
+subject = ["Draft"]
+extent = "2 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+shelfmark = "Case FRC 6801"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t70w3x20w"
+internet_archive = "case_frc_6801"
+
+[scan]
+file = "case_frc_6801.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_6801"
+
+[[resp]]
+name = "Paris (France). Sections des Droits de l'homme"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_60198"
+
+[[text]]
+file = "case_frc_6801.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_6801.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

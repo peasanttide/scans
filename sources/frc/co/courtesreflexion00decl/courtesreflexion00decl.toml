@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "courtesreflexion00decl"
+type = "pamphlet"
+title = "Courtes réflexions d'un citoyen de Paris sur le rachat des lods & ventes."
+language = "fr"
+place = "Paris?"
+date = "1790"
+note = "Caption title. Signed: Decle, citoyen du district des Feuillans. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: Title page located on front cover. No copyright page found. No table-of-contents pages found. Worn, damaged and discolored pages and cover. Skewed text."
+url = "https://archive.org/details/courtesreflexion00decl"
+subject = [
+    "Feudal law",
+    "Real property",
+]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 17070"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0ht7ng9v"
+internet_archive = "courtesreflexion00decl"
+openlibrary_edition = "OL26203747M"
+openlibrary_work = "OL17600185W"
+
+[scan]
+file = "courtesreflexion00decl.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/courtesreflexion00decl"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Decle, citoyen du district des Feuillans"
+role = "author"
+
+[[resp]]
+name = "Quillau, Franç̧̧ois-Augustin, 1743-1804"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie de Quillau, rue du Fouarre no. 3"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_836287"
+
+[[text]]
+file = "courtesreflexion00decl.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "courtesreflexion00decl.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "courtesreflexion00decl.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "courtesreflexion00decl.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

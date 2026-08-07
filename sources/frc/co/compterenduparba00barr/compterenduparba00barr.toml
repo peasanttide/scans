@@ -1,0 +1,84 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "compterenduparba00barr"
+type = "pamphlet"
+title = "Compte rendu par Barras, représentant du peuple, le premier vendémiaire an III de la République française une & indivisible."
+language = "fr"
+date = "1795"
+note = 'Caption title. At head of title: Convention nationale. Égalité. Liberté. "Imprimé par ordre de la Convention nationale.". Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,I, 1776.'
+url = "https://archive.org/details/compterenduparba00barr"
+subject = [
+    "France. Convention nationale",
+    "Grain",
+]
+extent = "6 p. ;20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "CaseFRC10642"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2c85bd3c"
+internet_archive = "compterenduparba00barr"
+
+[scan]
+file = "compterenduparba00barr.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/compterenduparba00barr"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Barras, Paul,vicomte de,1755-1829"
+role = "author"
+
+[[resp]]
+name = "A Paris :De l'Imprimerie nationale,"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_824270"
+
+[[text]]
+file = "compterenduparba00barr.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "compterenduparba00barr.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "compterenduparba00barr.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "compterenduparba00barr.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "compterenduparba00barr.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "compterenduparba00barr.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"

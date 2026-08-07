@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "circlettertax00unse_0"
+type = "pamphlet"
+title = "[Circular letter on taxation in Provence]"
+language = "fr"
+place = "France"
+date = "1790"
+note = "At head of text: Aix, le 10 avril 1790. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover. No page numbers."
+url = "https://archive.org/details/circlettertax00unse_0"
+subject = [
+    "Tax administration and procedure",
+    "Real property",
+]
+extent = "[3] p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10160 no. 3"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3nw4kk71"
+internet_archive = "circlettertax00unse_0"
+openlibrary_edition = "OL26223181M"
+openlibrary_work = "OL17618642W"
+
+[scan]
+file = "circlettertax00unse_0.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/circlettertax00unse_0"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Provence (France)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_855066"
+
+[[text]]
+file = "circlettertax00unse_0.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "circlettertax00unse_0.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "circlettertax00unse_0.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "circlettertax00unse_0.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

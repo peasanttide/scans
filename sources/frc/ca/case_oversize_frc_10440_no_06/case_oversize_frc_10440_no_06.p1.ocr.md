@@ -1,0 +1,59 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: case_oversize_frc_10440_no_06
+page: 1
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 2719
+h: 3600
+dpi: 300
+---
+
+Les séances du conseil & du
+
+Directoire du Département font publiques ,
+làuf pour les objets de fureté générale.
+
+Le Conseil étant en furveillance perma-
+nente y s’aflemble toutes les fois que les
+affaires f exigent. Il a chaque femaine , les
+Lundi , Mercredi & Samedi , à fix heures
+du foir , trois féances qui font plus fpéciale-
+ment confacrées aux affaires générales.
+
+Le Directoire s’aflemble tous les jours ,
+à dix heures du matin , fauf le Dimanche.
+
+Les Citoyens pétitionnaires doivent re-
+mettre au Secrétariat leurs demandes & les
+papiers qui les accompagnent. Ceux qui
+défirent parler au Directoire ou au Conlèil
+affemblés , doivent en prévenir M. le
+Préfident.
+
+Les Citoyens pétitionnaires font admis
+
+par M. le Préfident à préfenter , de vive
+voix , telles obfèrvations qu’ils eftimeront
+convenables.
+
+Les -Citoyens prtfens aux fiances ne
+donneront aucun ligne d’approbation ni
+d’improbation.
+
+Les Citoyens Sc tous les fonctionnaires pu*
+blicsquiadrefferont parla poffe des réclama*
+tionsou quelques objets delèrvice au Confeil
+ou au Direftoire du Département , mettront
+leurs paquets fous deux bandes croifées»
+Les lettres qui feroient fermées différem-
+ment , & qui ne feroient point affranchies, ne
+feront pas ouvertes.
+
+Fait à Nifmes , le 22 Août 1792, l’an
+quatrième de la Liberté.
+
+Le Secrétaire-Général 1
+Signé y Rigal.
+
+A N 1 SMES, de l’Imprimerie Nationale, chez J. GAU DE, Imprimeur du Département du Gard. 17921

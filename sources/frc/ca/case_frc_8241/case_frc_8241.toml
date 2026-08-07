@@ -1,0 +1,51 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_8241"
+type = "pamphlet"
+title = "L'administration de la municipalité de Sens : au Conseil des anciens"
+place = "A Paris"
+date = "1799"
+url = "https://archive.org/details/case_frc_8241"
+subject = ["Draft"]
+extent = "2 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+shelfmark = "Case FRC 8241"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6f24cv6b"
+internet_archive = "case_frc_8241"
+
+[scan]
+file = "case_frc_8241.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_8241"
+
+[[resp]]
+name = "Sens-sur-Yonne (France)"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_6811"
+
+[[text]]
+file = "case_frc_8241.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_8241.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

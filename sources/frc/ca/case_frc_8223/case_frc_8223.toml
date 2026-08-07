@@ -1,0 +1,51 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_8223"
+type = "pamphlet"
+title = "Les administrateurs du département de Seine-et-Marne : au Conseil des cinq-cents ; Melun, ce 19 frimaire, an 7 de la République française, une & indivisible [9 décembre 1798]"
+place = "A Paris"
+date = "1798"
+url = "https://archive.org/details/case_frc_8223"
+subject = ["Draft"]
+extent = "2 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+shelfmark = "Case FRC 8223"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t74v21m4r"
+internet_archive = "case_frc_8223"
+
+[scan]
+file = "case_frc_8223.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_8223"
+
+[[resp]]
+name = "Seine-et-Marne (France)"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_6945"
+
+[[text]]
+file = "case_frc_8223.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_8223.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

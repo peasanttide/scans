@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "cataloguedeslivr00lott"
+type = "pamphlet"
+title = "Catalogue des livres qui se trouvent chez Augustin-Martin Lottin, libraire & imprimeur, à Paris, rue S. Jacques, au Coq"
+language = "fr"
+place = "Paris"
+date = "1756"
+note = """Caption title. Jean-Paul Péronnet's Élévations du chrétien malade et mourant and t. 2. of Saint Augustine's S. Augustin contre l'incredulité, publised by Lottin in 1756 and 1757 respectively, are listed as "sous presse.". Head-piece. Printed in double columns. Calalog of primarily religious literature. "Livres d'assortimens": p. 3-4. With prices. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Title page and cover are combined."""
+url = "https://archive.org/details/cataloguedeslivr00lott"
+subject = [
+    "Lottin, Augustin-Martin, 1726-1793",
+    "Religious literature, French",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 4 no. 76"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9w14rh9c"
+internet_archive = "cataloguedeslivr00lott"
+
+[scan]
+file = "cataloguedeslivr00lott.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/cataloguedeslivr00lott"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Lottin, Augustin-Martin,1726-1793"
+role = "author"
+
+[[resp]]
+name = "Lottin, Augustin-Martin, 1726-1793"
+role = "author"
+
+[[resp]]
+name = "Augustin-Martin Lottin"
+role = "publisher"
+
+[[text]]
+file = "cataloguedeslivr00lott.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "cataloguedeslivr00lott.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "cataloguedeslivr00lott.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "cataloguedeslivr00lott.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

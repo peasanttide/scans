@@ -1,0 +1,92 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "copiedunde00unse"
+type = "pamphlet"
+title = "Copie d'une lettre du citoyen Roland, ministre de l'intérieur, aux citoyens administrateurs du département de Maine et Loire : Paris, 20 octobre 1792, l'an premier de la République"
+language = "fr"
+place = "A Angers"
+date = "1792"
+note = """Caption title. "Les administrateurs composant le directoire du département de Maine et Loire ... arrêté que cette lettre sera réimprimée ..."--P. 2-3. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text. No title page found. No copyright page found. No table-of-contents pages found."""
+url = "https://archive.org/details/copiedunde00unse"
+subject = [
+    "Catholic Church",
+    "Church and state",
+    "Finance, Public",
+]
+extent = "3 p. ; 23 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 27173"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1ng9ss1h"
+internet_archive = "copiedunde00unse"
+openlibrary_edition = "OL26229286M"
+openlibrary_work = "OL17624320W"
+
+[scan]
+file = "copiedunde00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/copiedunde00unse"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Roland de La Platière, Jean-Marie,1734-1793"
+role = "author"
+
+[[resp]]
+name = "Roland de La Platière, Jean-Marie, 1734-1793"
+role = "author"
+
+[[resp]]
+name = "Mame, Charles-Pierre, 1747-1825"
+role = "publisher"
+
+[[resp]]
+name = "France. Ministère de l'intérieur"
+role = "author"
+
+[[resp]]
+name = "Maine-et-Loire (France). Directoire"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale, chez Mame, imp. du département de Maine et Loire"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_868096"
+
+[[text]]
+file = "copiedunde00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "copiedunde00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "copiedunde00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "copiedunde00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

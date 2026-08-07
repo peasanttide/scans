@@ -1,0 +1,60 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "compterendulacon00amar"
+type = "pamphlet"
+title = "Compte rendu à la Convention nationale, en exécution du décret du 21 nivôse dernier"
+language = "fr"
+date = "1795"
+note = """Caption title. At head of title: Convention nationale. "Imprimé par ordre de la Convention nationale.". Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,I, 201. Scanner's note: Title found on front cover. No copyright page found. No table-of-contents pages found."""
+url = "https://archive.org/details/compterendulacon00amar"
+subject = [
+    "France. Convention nationale",
+    "Finance, Public",
+]
+extent = "2 p. ;20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "CaseFRC10534"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4qk0fz5m"
+internet_archive = "compterendulacon00amar"
+
+[scan]
+file = "compterendulacon00amar.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/compterendulacon00amar"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Amar, Jean-Baptiste-André,1755-1816"
+role = "author"
+
+[[resp]]
+name = "[Paris] :De l'Imprimerie nationale,"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_823774"
+
+[[text]]
+file = "compterendulacon00amar.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "compterendulacon00amar.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"

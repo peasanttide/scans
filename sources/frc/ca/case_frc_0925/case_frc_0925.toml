@@ -1,0 +1,66 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_0925"
+type = "pamphlet"
+title = "Projet de décret sur les baux a loyer et a ferme au-dessus de neuf ans"
+place = "Paris"
+date = "1791"
+url = "https://archive.org/details/case_frc_0925"
+subject = [
+    "Farms",
+    "Rental housing",
+    "Law and legislation",
+    "Revolution (France : 1789-1799)",
+]
+extent = "2 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+shelfmark = "Case FRC 925"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t43r69393"
+internet_archive = "case_frc_0925"
+
+[scan]
+file = "case_frc_0925.pdf"
+count = 5
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_0925"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791). Comité féodal"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_39059"
+
+[[text]]
+file = "case_frc_0925.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_0925.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_0925.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_0925.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

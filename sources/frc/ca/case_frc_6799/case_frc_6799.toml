@@ -1,0 +1,60 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_6799"
+type = "pamphlet"
+title = "Pétition"
+place = "Paris"
+date = "1792"
+url = "https://archive.org/details/case_frc_6799"
+extent = "4 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+shelfmark = "Case FRC 6799"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2993ns6f"
+internet_archive = "case_frc_6799"
+
+[scan]
+file = "case_frc_6799.pdf"
+count = 5
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_6799"
+
+[[resp]]
+name = "Faubourg Saint-Antoine (Paris, France)"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_60355"
+
+[[text]]
+file = "case_frc_6799.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_6799.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_6799.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_6799.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

@@ -1,0 +1,55 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_15652"
+type = "pamphlet"
+title = "Projet de résolution présenté par Calonne : séance du 4 fructidor an V"
+place = "A Paris"
+date = "1797"
+url = "https://archive.org/details/case_frc_15652"
+subject = [
+    "Administrative and political divisions",
+    "History",
+]
+extent = "2 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 15652"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6547rd7w"
+internet_archive = "case_frc_15652"
+
+[scan]
+file = "case_frc_15652.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_15652"
+
+[[resp]]
+name = "Calonne d'Avesnes, Charles François, 1744-1840"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=832260"
+
+[[text]]
+file = "case_frc_15652.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_15652.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

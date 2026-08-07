@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "complimentauroi00oudi"
+type = "pamphlet"
+title = "Compliment au Roi /"
+language = "fr"
+place = "France"
+date = "1791"
+note = """Caption title. Martin & Walter. Révolution française. "Couplets patriotiques des dames de la rue neuve des Bons-Enfans ... par M. Déduit, auteur patriote"--P. 2-4. Bibliography: Martin & Walter.  Révolution française,  III, 26120. Scanner's note: No copyright page found. No table-of-contents pages found.  Title on cover. Inconsistent page size. Skewed text."""
+url = "https://archive.org/details/complimentauroi00oudi"
+subject = [
+    "Louis XVI, King of France, 1754-1793",
+    "Political poetry, French",
+]
+extent = "4 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 12714"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5gb6tj67"
+internet_archive = "complimentauroi00oudi"
+openlibrary_edition = "OL25927810M"
+openlibrary_work = "OL17350376W"
+
+[scan]
+file = "complimentauroi00oudi.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/complimentauroi00oudi"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Oudin, Élisabeth Duval"
+role = "author"
+
+[[resp]]
+name = "Déduit"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_827208"
+
+[[text]]
+file = "complimentauroi00oudi.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "complimentauroi00oudi.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "complimentauroi00oudi.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "complimentauroi00oudi.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

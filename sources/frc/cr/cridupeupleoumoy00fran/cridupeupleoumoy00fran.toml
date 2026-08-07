@@ -1,0 +1,71 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "cridupeupleoumoy00fran"
+type = "pamphlet"
+title = "Cri du peuple : ou Moyen de paix adressé aux États-généraux."
+language = "fr"
+place = "A Paris"
+date = "1789"
+note = "Caption title. Imprint from colophon. Martin & Walter IV 2: 4911. Scanner's note: No copyright. No table of contents. Title on cover. Damaged, stained pages and cover."
+url = "https://archive.org/details/cridupeupleoumoy00fran"
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 2626"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9s231686"
+internet_archive = "cridupeupleoumoy00fran"
+openlibrary_edition = "OL26209292M"
+openlibrary_work = "OL17605546W"
+
+[scan]
+file = "cridupeupleoumoy00fran.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/cridupeupleoumoy00fran"
+ppi = 400
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Etats généraux"
+role = "author"
+
+[[resp]]
+name = "Chez Lacloye"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_43356"
+
+[[text]]
+file = "cridupeupleoumoy00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "cridupeupleoumoy00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "cridupeupleoumoy00fran.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "cridupeupleoumoy00fran.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "corpslgislatifco00fran"
+type = "pamphlet"
+title = "Corps législatif. Conseil des cinq-cents : du troisième jour conplémentaire an 7 [19 septembre 1799]"
+language = "fr"
+place = "A Paris"
+date = "1799"
+note = "Caption title. Imprint from colophon. Without a real title. Opening sentence: La Commission des inspecteurs du Palais des Cinq-cents arrête que la fête de la République, pour le premier vendémiaire an 8 [23 septembre 1799], sera célébrée ainsi qu'il suit:. Not in Martin & Walter. Scanner's note: No title page found. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/corpslgislatifco00fran"
+subject = ["Festivals"]
+extent = "3 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 2015"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2x39tp7f"
+internet_archive = "corpslgislatifco00fran"
+openlibrary_edition = "OL26209216M"
+openlibrary_work = "OL17605468W"
+
+[scan]
+file = "corpslgislatifco00fran.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/corpslgislatifco00fran"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Corps législatif (1795-1814). Conseil des cinq-cents. Commission des inspecteurs"
+role = "author"
+
+[[resp]]
+name = "France. Corps législatif (1795-1814). Conseil des cinq-cents. Commission des inspecteurs"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_43487"
+
+[[text]]
+file = "corpslgislatifco00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "corpslgislatifco00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "corpslgislatifco00fran.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "corpslgislatifco00fran.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

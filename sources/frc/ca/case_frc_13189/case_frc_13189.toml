@@ -1,0 +1,57 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_13189"
+type = "pamphlet"
+title = "Devoirs et sentimens d'un bon citoyen, rédigés par Julien Souhait, pour faire suite a la Déclaration des droits de l'homme."
+place = "A Paris"
+date = "1795"
+url = "https://archive.org/details/case_frc_13189"
+subject = [
+    "Déclaration des droits de l'homme et du citoyen (France)",
+    "Republicanism",
+    "Revolution (France : 1789-1799)",
+    "History",
+]
+extent = "[1] p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 13189"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3fz22k5x"
+internet_archive = "case_frc_13189"
+
+[scan]
+file = "case_frc_13189.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_13189"
+
+[[resp]]
+name = "Souhait, Julien-Joseph, 1759-1842"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_827719"
+
+[[text]]
+file = "case_frc_13189.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_13189.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

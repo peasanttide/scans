@@ -1,0 +1,57 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_11597"
+type = "pamphlet"
+title = "Nouvelle rédaction du projet de résolution présenté par J.P.F. Duplantier, sur la nomination des électeurs, dans la séance du 12 ventose an 7."
+place = "A Paris"
+date = "1799"
+url = "https://archive.org/details/case_frc_11597"
+subject = [
+    "Election law",
+    "Opposition (Political science)",
+    "Representative government and representation",
+    "History",
+]
+extent = "2 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 11597"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4rj97h3q"
+internet_archive = "case_frc_11597"
+
+[scan]
+file = "case_frc_11597.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_11597"
+
+[[resp]]
+name = "Duplantier, Jacques Paul Fronton, 1764-1814"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_825244"
+
+[[text]]
+file = "case_frc_11597.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_11597.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

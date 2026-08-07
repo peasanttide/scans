@@ -1,0 +1,61 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_1776"
+type = "pamphlet"
+title = "Les citizens d'Arras soussignés : aux représentans du peuple composant la députation du département du Pas-de-Calais"
+place = "A Arras"
+date = "1795"
+url = "https://archive.org/details/case_frc_1776"
+subject = ["Revolution (France : 1789-1799)"]
+extent = "4 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+shelfmark = "Case FRC 1776"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1ck3tp1v"
+internet_archive = "case_frc_1776"
+
+[scan]
+file = "case_frc_1776.pdf"
+count = 5
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_1776"
+
+[[resp]]
+name = "Arras (France). Citizens"
+role = "author"
+
+[[resp]]
+name = "De l'imp. de la citoyenne Nicolas"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_43093"
+
+[[text]]
+file = "case_frc_1776.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_1776.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_1776.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_1776.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

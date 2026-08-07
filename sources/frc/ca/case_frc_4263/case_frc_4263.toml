@@ -1,0 +1,51 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_4263"
+type = "pamphlet"
+title = "... Hommage des Irlandais-unis de *** : au Corps législatif de la République française"
+place = "A Paris"
+date = "1798"
+url = "https://archive.org/details/case_frc_4263"
+subject = ["Foreign relations"]
+extent = "2 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+shelfmark = "Case FRC 4263"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5q86r343"
+internet_archive = "case_frc_4263"
+
+[scan]
+file = "case_frc_4263.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_4263"
+
+[[resp]]
+name = "United Irishmen"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_49327"
+
+[[text]]
+file = "case_frc_4263.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_4263.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

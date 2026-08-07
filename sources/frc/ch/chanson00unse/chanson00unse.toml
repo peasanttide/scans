@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "chanson00unse"
+type = "pamphlet"
+title = "Chanson républicaine : composeé par un bon luron, en vuidant un flacon, au rétour de la procession qui s'est faite en mémoire de la prise de Toulon, et en se chauffant les doigts, parcequ'il avoit bien froid."
+language = "fr"
+place = "France"
+date = "1793"
+note = """Caption title. Signed: Par le C. Pierre Parizot, capitaine de la 1ère compagnie du bataillon du couchant de la commune de Sens. "Sur l'air de la Carmagnole"--P. [1]. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title page is on the cover. Damaged, stained, and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/chanson00unse"
+subject = ["First Coalition, War of the, 1792-1797"]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 23395"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5dc38c7f"
+internet_archive = "chanson00unse"
+openlibrary_edition = "OL26237114M"
+openlibrary_work = "OL17631668W"
+
+[scan]
+file = "chanson00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/chanson00unse"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Parizot, Pierre"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_848006"
+
+[[text]]
+file = "chanson00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "chanson00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "chanson00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "chanson00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

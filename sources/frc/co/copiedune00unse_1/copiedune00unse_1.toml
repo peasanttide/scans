@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "copiedune00unse_1"
+type = "pamphlet"
+title = "Copie d'une lettre écrite de Marseille, le 18 mai 1789, à M. D**, acutellement à Bordeaux, sur l'enlévement de Camalet."
+language = "fr"
+place = "France"
+date = "1789"
+note = "Caption title. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained, marked and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/copiedune00unse_1"
+subject = [
+    "Camalet, Guillaume, 1758-1789",
+    "Serial murderers",
+]
+extent = "3 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 22144"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t32285j82"
+internet_archive = "copiedune00unse_1"
+openlibrary_edition = "OL26240779M"
+openlibrary_work = "OL17635302W"
+
+[scan]
+file = "copiedune00unse_1.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/copiedune00unse_1"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Masset,"
+role = "author"
+
+[[resp]]
+name = "Masset, Me"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_846060"
+
+[[text]]
+file = "copiedune00unse_1.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "copiedune00unse_1.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "copiedune00unse_1.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "copiedune00unse_1.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

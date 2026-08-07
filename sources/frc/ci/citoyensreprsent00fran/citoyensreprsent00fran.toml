@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "citoyensreprsent00fran"
+type = "pamphlet"
+title = "Citoyens représentans du peuple : Les porteurs de quittance de remboursement de portions des actions de l'ancienne Compagnie des eaux de Paris et assurances, sont encore `a vous demander justice"
+language = "fr"
+place = "Paris"
+date = "1793"
+note = "Circular letter, without title, but with imprint. Title statement from opening sentence of text. Signed and dated at end: Lacoste syndic, en exécution du décret du 1 ao^ut 1793. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages."
+url = "https://archive.org/details/citoyensreprsent00fran"
+subject = ["Compagnie des eaux de Paris"]
+extent = "4 p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9560"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t21c73n2t"
+internet_archive = "citoyensreprsent00fran"
+openlibrary_edition = "OL26221944M"
+openlibrary_work = "OL17617444W"
+
+[scan]
+file = "citoyensreprsent00fran.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/citoyensreprsent00fran"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Laurens a^iné"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_67812"
+
+[[text]]
+file = "citoyensreprsent00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "citoyensreprsent00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "citoyensreprsent00fran.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "citoyensreprsent00fran.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

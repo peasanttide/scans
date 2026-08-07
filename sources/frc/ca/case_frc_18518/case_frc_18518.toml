@@ -1,0 +1,52 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_18518"
+type = "pamphlet"
+title = "Discours prononcé par Favard, en présentant au Conseil, au nom du citoyen Artaud, libraire, un ouvrage intitulé, Cours d'études encyclopédiques, ou, Nouvelle encyclopédie élémentaire, par le citoyen Pagès (du Cantal) : séance du 7 messidor an 7"
+place = "A Paris"
+date = "1799"
+url = "https://archive.org/details/case_frc_18518"
+subject = ["Revolution (France : 1789-1799)"]
+extent = "2 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 18518"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1gj4j26v"
+internet_archive = "case_frc_18518"
+
+[scan]
+file = "case_frc_18518.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_18518"
+
+[[resp]]
+name = "Favard de Langlade, Guillaume Jean, 1762-1831"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=838859"
+
+[[text]]
+file = "case_frc_18518.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_18518.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

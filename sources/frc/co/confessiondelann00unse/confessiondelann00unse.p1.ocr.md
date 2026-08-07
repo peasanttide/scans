@@ -1,0 +1,16 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: confessiondelann00unse
+page: 1
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 2522
+h: 4288
+dpi: 500
+---
+
+■à
+
+3*7
+
+/H — OJ

@@ -1,0 +1,60 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_5804"
+type = "pamphlet"
+title = "Adresse"
+place = "A Paris"
+date = "1790"
+url = "https://archive.org/details/case_frc_5804"
+extent = "2 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+shelfmark = "Case FRC 5804"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9q29bk8h"
+internet_archive = "case_frc_5804"
+
+[scan]
+file = "case_frc_5804.pdf"
+count = 5
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_5804"
+
+[[resp]]
+name = "Nord (France : Dept.)"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_57465"
+
+[[text]]
+file = "case_frc_5804.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_5804.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_5804.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_5804.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

@@ -1,0 +1,57 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "case_frc_16671"
+type = "pamphlet"
+title = "Réflexions de M. l'abbé d'Abbecourt sur la motion de M. de Foucault"
+place = "Paris"
+date = "1790"
+url = "https://archive.org/details/case_frc_16671"
+subject = [
+    "Foucault de Lardimalie, Louis, marquis de, 1755-1805",
+    "Libel and slander",
+    "Political science",
+    "Revolution (France : 1789-1799)",
+]
+extent = "2 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 16671"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2p60m98z"
+internet_archive = "case_frc_16671"
+
+[scan]
+file = "case_frc_16671.pdf"
+count = 3
+by = "Internet Archive"
+url = "https://archive.org/details/case_frc_16671"
+
+[[resp]]
+name = "Coulmiers, François Simonnet de, sieur d'Escolmiers, 1741-1818"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=833934"
+
+[[text]]
+file = "case_frc_16671.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "case_frc_16671.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
