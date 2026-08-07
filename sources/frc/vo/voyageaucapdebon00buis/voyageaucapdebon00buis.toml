@@ -1,0 +1,90 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "voyageaucapdebon00buis"
+type = "pamphlet"
+title = "Voyage au Cap de Bonne-Espérance"
+language = "fr"
+place = "A Paris"
+date = "1787"
+note = """Prospectus for French translation of Sparrman's "Resa till Goda Hopps-udden". Caption title. "Cet ouvrage se vend à Paris, chez Buisson, libraire, Hôtel de Mesgrigny, rue des Poitevins; il forme trois vol. in 8° ... imprimés par M. Didot le jeune sur beau caractère de Cicero neuf ... Et deux vol. in-4° ... imprimés sur beau caractère de S. Augustin neuf"--P. 1. Imprint from colophon. Printed in double columns. Includes prospectuses for French translation of John Gillies' "The history of ancient Greece" and for François Soulés' "Histoire des troubles de l'Amérique anglaise". Includes prices sewn or bound. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Title page and cover are combined."""
+url = "https://archive.org/details/voyageaucapdebon00buis"
+subject = [
+    "Sparrman, Anders, 1748-1820",
+    "Gillies, John, 1747-1836",
+    "Soulés, François, 1748-1809",
+    "Booksellers and bookselling",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1a no. 23"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6m09ss46"
+internet_archive = "voyageaucapdebon00buis"
+
+[scan]
+file = "voyageaucapdebon00buis.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/voyageaucapdebon00buis"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Buisson, François,1753-1814"
+role = "author"
+
+[[resp]]
+name = "Buisson, François, 1753-1814"
+role = "author"
+
+[[resp]]
+name = "Sparrman, Anders, 1748-1820. Resa till Goda Hopps-udden. French"
+role = "author"
+
+[[resp]]
+name = "Gillies, John, 1747-1836. History of ancient Greece. French"
+role = "author"
+
+[[resp]]
+name = "Soulés, François, 1748-1809. Histoire des troubles de l'Amérique anglaise"
+role = "author"
+
+[[resp]]
+name = "Imprimerie de Monsieur"
+role = "printer"
+
+[[resp]]
+name = "De l'Imprimerie de Monsieur"
+role = "publisher"
+
+[[text]]
+file = "voyageaucapdebon00buis.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "voyageaucapdebon00buis.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "voyageaucapdebon00buis.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "voyageaucapdebon00buis.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

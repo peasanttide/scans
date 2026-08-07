@@ -1,0 +1,68 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "visiterenduealouis00"
+type = "pamphlet"
+title = "Visite rendue `a Louis XVI : par les habitans des fauxbourgs St. Antoine & St. Marceau, le 10 juin 1792 ; air: Recois dans ton galetas."
+language = "fr"
+place = "s.l."
+date = "1792"
+note = "Caption title. Without imprint. Song; without the music. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover. No page numbers."
+url = "https://archive.org/details/visiterenduealouis00"
+subject = ["France. Sovereign (1774-1792 : Louis XVI)"]
+extent = "[4] p. ; 15 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 9009"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4gn39972"
+internet_archive = "visiterenduealouis00"
+openlibrary_edition = "OL26219833M"
+openlibrary_work = "OL17615514W"
+
+[scan]
+file = "visiterenduealouis00.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/visiterenduealouis00"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_65541"
+
+[[text]]
+file = "visiterenduealouis00.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "visiterenduealouis00.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "visiterenduealouis00.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "visiterenduealouis00.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

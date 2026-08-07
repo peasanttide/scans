@@ -1,0 +1,51 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "voeuxpourleretab00goni"
+type = "pamphlet"
+title = "Voeux pour le retablissement de la santé de Sa Majeste"
+language = "fr"
+date = "1744"
+note = "Binder's title: Conquest du roy. Caption title. Verse. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover.  Uneven binding.  Skewed text.  Irregular pagination.  Page numbers have been altered/defaced.  Damaged, stained, torn and/or loose pages."
+url = "https://archive.org/details/voeuxpourleretab00goni"
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "E 5 .L92705 v. 06 no. 51"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0kt2rd2j"
+internet_archive = "voeuxpourleretab00goni"
+
+[scan]
+file = "voeuxpourleretab00goni.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/voeuxpourleretab00goni"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Gonichon, Jean Baptiste"
+role = "author"
+
+[[resp]]
+name = "[Paris"
+role = "publisher"
+
+[[text]]
+file = "voeuxpourleretab00goni.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "voeuxpourleretab00goni.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

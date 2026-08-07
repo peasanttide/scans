@@ -1,0 +1,96 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "voeu00tour"
+type = "pamphlet"
+title = "Voeu /"
+language = "fr"
+place = "Paris"
+date = "1790"
+note = "Caption title. Imprint from colophon. Martin & Walter IV 2: 17613. Scanner's note: No copyright page found. No table-of-contents pages found.  Title and cover page are combined. Damaged, stained and/or loose pages. Uneven binding. Skewed text.  Page numbering error."
+url = "https://archive.org/details/voeu00tour"
+subject = ["Assignats"]
+extent = "8 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 8762"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9p31zc2c"
+internet_archive = "voeu00tour"
+openlibrary_edition = "OL26214766M"
+openlibrary_work = "OL17610665W"
+
+[scan]
+file = "voeu00tour.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/voeu00tour"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Tours (France)"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Vezard & Le Normant"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_64702"
+
+[[text]]
+file = "voeu00tour.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "voeu00tour.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "voeu00tour.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "voeu00tour.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "voeu00tour.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "voeu00tour.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "voeu00tour.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "voeu00tour.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

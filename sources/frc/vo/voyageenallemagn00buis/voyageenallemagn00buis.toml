@@ -1,0 +1,88 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "voyageenallemagn00buis"
+type = "pamphlet"
+title = "Voyage en Allemagne"
+language = "fr"
+place = "A Paris"
+date = "1787"
+note = """Prospectus for French translation of the English translation ("Travels through Germany", translated by P.H. Maty) of Riesbeck's "Briefe eines reisenden Franzosen über Deutschland.". Caption title. "Permis d'imprimer le 13 octobre 1787"--P. [2]. "Trois volumes in-8°. Prix, 11 liv. broché; 14 liv. relié; & franc de port par la poste, dans tout le royaume, 12 liv. 10 s. broché"--P. [1]. Scanner's note: No copyright found.  No table of contents found.  Damaged, stained pages.  No page numbers. <br />."""
+url = "https://archive.org/details/voyageenallemagn00buis"
+subject = [
+    "Riesbeck, Johann Kaspar, 1754-1786",
+    "Booksellers and bookselling",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1a no. 24"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6b33jn39"
+internet_archive = "voyageenallemagn00buis"
+
+[scan]
+file = "voyageenallemagn00buis.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/voyageenallemagn00buis"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "Buisson, François,1753-1814"
+role = "author"
+
+[[resp]]
+name = "Buisson, François, 1753-1814"
+role = "author"
+
+[[resp]]
+name = "Riesbeck, Johann Kaspar, 1754-1786. Briefe eines reisenden Franzosen über Deutschland. French"
+role = "author"
+
+[[resp]]
+name = "Chez Buisson, libraire, Hôtel de Mesgrigny, rue des Poitevins, no. 13"
+role = "publisher"
+
+[[text]]
+file = "voyageenallemagn00buis.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "voyageenallemagn00buis.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "voyageenallemagn00buis.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "voyageenallemagn00buis.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "voyageenallemagn00buis.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "voyageenallemagn00buis.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

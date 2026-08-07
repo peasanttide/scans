@@ -1,0 +1,64 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "voyagedaslinte00coch"
+type = "pamphlet"
+title = "Voyage dans l'intérieur des États-Unis"
+language = "fr"
+place = "Paris?"
+date = "1797"
+note = """Prospectus for: Voyage dans l'intérieur des États-Unis / par Ferdinand-M. Bayard. Paris : Cocheris, an 5 [1797]. Caption title. "Un volume in-8o. de 400 pages, imprimé sur papier carré-fin, caractères de cicéro Didot. Prix broché, 4 liv. et 5 liv. 6 s. franc de port par la poste pour les départemens et pays conquis ou réunis. A Paris, chez R.L. Cocheris, imprimeur-libraire, cloître Saint-Benoît, no. 352, section des Thermes"--P. [1]. "Avis. Le citoyen Cocheris, imprimeur et libraire, ... se charge, aux conditions les plus modérées en faveur des librairies des départemens ou étrangers ..."--P. [2]. Scanner's note: No copyright found.  No table of contents found.  Damaged, stained pages and cover.  Title on cover. <br />No page numbers.  Varying page sizes. <br />."""
+url = "https://archive.org/details/voyagedaslinte00coch"
+subject = [
+    "Bayard, Ferdinand-M. (Ferdinand-Marie), 1763-approximately 1818",
+    "Booksellers and bookselling",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 8 no. 15"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0fv48205"
+internet_archive = "voyagedaslinte00coch"
+
+[scan]
+file = "voyagedaslinte00coch.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/voyagedaslinte00coch"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "Cocheris, R. L.,active approximately 1796-approximately 18"
+role = "author"
+
+[[resp]]
+name = "Cocheris, R. L., active approximately 1796-approximately 1800"
+role = "author"
+
+[[resp]]
+name = "Bayard, Ferdinand-M. (Ferdinand-Marie), 1763-approximately 1818. Voyage dans l'intérieur des États-Unis"
+role = "author"
+
+[[resp]]
+name = "R.L. Cocheris?"
+role = "publisher"
+
+[[text]]
+file = "voyagedaslinte00coch.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "voyagedaslinte00coch.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

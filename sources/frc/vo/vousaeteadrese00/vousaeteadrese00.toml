@@ -1,0 +1,71 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "vousaeteadrese00"
+type = "pamphlet"
+title = "... Il vous a été adressé, messieurs, dans le courant du mois de novembre dernier, des exemplaires de la déclaration du roi du 9 octobre, sur le décret de l'Assemblée nationale concernant la contribution patriotique.."
+language = "fr"
+place = "s.l."
+date = "1790"
+note = "Circular letter, without title and imprint. Title statement from opening sentence of the text. At head of text: Caen, le 18 septembre 1790. Signed at end: Les administrateurs & procureur-syndic composant le district de Caen. Not in Martin & Walter. Scanner's note: No title page found. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/vousaeteadrese00"
+extent = "[2] p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9498"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8z94bx6f"
+internet_archive = "vousaeteadrese00"
+openlibrary_edition = "OL26221866M"
+openlibrary_work = "OL17617366W"
+
+[scan]
+file = "vousaeteadrese00.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/vousaeteadrese00"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Caen (France)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_67577"
+
+[[text]]
+file = "vousaeteadrese00.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "vousaeteadrese00.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "vousaeteadrese00.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "vousaeteadrese00.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

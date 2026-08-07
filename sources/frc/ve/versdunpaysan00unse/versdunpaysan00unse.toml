@@ -1,0 +1,59 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "versdunpaysan00unse"
+type = "pamphlet"
+title = "Vers d'un paysan de Choisy-le-Roy"
+language = "fr"
+date = "1745"
+note = "Binder's title: Campagne du roy, 1745. Caption title. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover page.  Uneven binding.  Skewed text."
+url = "https://archive.org/details/versdunpaysan00unse"
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "E 5 .L92705 v. 02 no. 40"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9t212b60"
+internet_archive = "versdunpaysan00unse"
+
+[scan]
+file = "versdunpaysan00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/versdunpaysan00unse"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "[n.p."
+role = "publisher"
+
+[[text]]
+file = "versdunpaysan00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "versdunpaysan00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "versdunpaysan00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "versdunpaysan00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

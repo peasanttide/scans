@@ -1,0 +1,73 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "ventealami00mout"
+type = "pamphlet"
+title = "Vente à l'amiable et à prix fixe avec un rabais considérable de très-beaux livres, dont une partie provient de la bibliothèque d'un amateur"
+language = "fr"
+place = "Paris"
+date = "1803"
+note = "Caption title. Imprint from colophon. Announcement on p. 4 for t. 4-8 of: Abrégé de l'Histoire générale des voyages faits en Europe / par le continuateur de l'Abrégé de l'Histoire générale des voyages faite par La Harpe [i.e. Victor Delpuech de Comeiras]. Paris : Moutardier, 1803-1805. Without prices. No. 6 of 17 titles bound together. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Title page and cover are combined."
+url = "https://archive.org/details/ventealami00mout"
+subject = ["Moutardier, Nicolas, 1763-1807"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 10"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t09w64g17"
+internet_archive = "ventealami00mout"
+
+[scan]
+file = "ventealami00mout.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/ventealami00mout"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Moutardier, Nicolas,1763-187"
+role = "author"
+
+[[resp]]
+name = "Moutardier, Nicolas, 1763-1807"
+role = "bookseller"
+
+[[resp]]
+name = "Laurens, Jean-Joseph, 1751-1833"
+role = "printer"
+
+[[resp]]
+name = "De l'imprimerie de Laurens aîné, rue d'Argenteuil, no. 212"
+role = "publisher"
+
+[[text]]
+file = "ventealami00mout.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ventealami00mout.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ventealami00mout.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ventealami00mout.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,88 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "voyagehistori00arks"
+type = "pamphlet"
+title = "Voyage historique de l'Amerique meridionale"
+language = "fr"
+place = "A Amsterdam et a Leipzig"
+date = "1752"
+note = """Prospectus for French translation of Antonio de Ulloa and Jorge Juan's "Relación histórica del viage a la América Meridional.". "Ceux qui auront envie de souscrire peuvent s'adresser à Amsterdam & à Leipzig chez les imprimeurs de l'ouvrage, à Basle chez Mrs. Leonard Vischer Fils & Birr, banquiers, à Genève chez les Freres Cramer & Claude Philibert, à Lausanne chez M.M. Bousquet & Compagnie, & chez les principaux libraires des autres villes de l'Europe"--P. [4]. Title vignette; tail-piece. Includes itemized price list, with separate prices for maps, plans, frontispieces, etc. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Title page and cover are combined."""
+url = "https://archive.org/details/voyagehistori00arks"
+subject = [
+    "Ulloa, Antonio de, 1716-1795",
+    "Booksellers and bookselling",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1a no. 5"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5x695x5m"
+internet_archive = "voyagehistori00arks"
+
+[scan]
+file = "voyagehistori00arks.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/voyagehistori00arks"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Arkstée et Merkus"
+role = "author"
+
+[[resp]]
+name = "Ulloa, Antonio de, 1716-1795. Relación histórica del viage a la América Meridional. French"
+role = "author"
+
+[[resp]]
+name = "Juan, Jorge, 1713-1773"
+role = "author"
+
+[[resp]]
+name = "Leonard Vischer Fils & Birr"
+role = "bookseller"
+
+[[resp]]
+name = "Frères Cramer et Claude Philibert"
+role = "bookseller"
+
+[[resp]]
+name = "Marc-Michel Bousquet & Compagnie"
+role = "bookseller"
+
+[[resp]]
+name = "Chez Arkstée & Merkus"
+role = "publisher"
+
+[[text]]
+file = "voyagehistori00arks.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "voyagehistori00arks.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "voyagehistori00arks.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "voyagehistori00arks.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,85 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "vivelarepublique00falc"
+type = "pamphlet"
+title = "Vive la République : liberté, égalité, indépendance : grande et importante victoire."
+language = "fr"
+place = "France"
+date = "1800"
+note = """Caption title. Signed: Au quartier-général des patriotes grenoblois, le 2 messidor an 8 de la République française, une et indivisible. Falcon. Not in Martin & Walter. Révolution française. "Barradere, commissaire des guerres, au citoyen Mazade, commissaire des guerres, faisant fonctions d'ordonnateur"--P. 3. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."""
+url = "https://archive.org/details/vivelarepublique00falc"
+subject = [
+    "Napoleon I, Emperor of the French, 1769-1821",
+    "Melas, Michael Friedrich Benedikt von, 1729-1806",
+    "Marengo, Battle of, Marengo, Italy, 1800",
+    "Second Coalition, War of the, 1798-1801",
+]
+extent = "3 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 18415"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t58d4xj33"
+internet_archive = "vivelarepublique00falc"
+openlibrary_edition = "OL26202737M"
+openlibrary_work = "OL17599203W"
+
+[scan]
+file = "vivelarepublique00falc.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/vivelarepublique00falc"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Falcon"
+role = "author"
+
+[[resp]]
+name = "Barradere"
+role = "author"
+
+[[resp]]
+name = "Mazade-Percin, Julien-Bernard-Dorothée de, 1750-1823"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_838137"
+
+[[text]]
+file = "vivelarepublique00falc.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "vivelarepublique00falc.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "vivelarepublique00falc.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "vivelarepublique00falc.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

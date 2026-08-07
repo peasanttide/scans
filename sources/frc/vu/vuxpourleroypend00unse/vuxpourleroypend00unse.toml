@@ -1,0 +1,46 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "vuxpourleroypend00unse"
+type = "pamphlet"
+title = "Vœux pour le roy pendant sa campagne"
+language = "fr"
+note = "Binder's title: Conquest du roy. Poem. Caption title. Scanner's note: Title is on the cover. Uneven binding. Skewed text. Irregular pagination. Page numbers have been marked or altered. Damaged, stained, torn and/or loose pages."
+url = "https://archive.org/details/vuxpourleroypend00unse"
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "E 5 .L92705 v. 09 no. 12"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t50g9qr8t"
+internet_archive = "vuxpourleroypend00unse"
+
+[scan]
+file = "vuxpourleroypend00unse.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/vuxpourleroypend00unse"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "[n.p."
+role = "publisher"
+
+[[text]]
+file = "vuxpourleroypend00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "vuxpourleroypend00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

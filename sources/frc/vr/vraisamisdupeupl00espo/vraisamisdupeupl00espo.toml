@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "vraisamisdupeupl00espo"
+type = "pamphlet"
+title = "Vrais amis du peuple"
+language = "fr"
+place = "Paris"
+date = "1790"
+note = """Caption title. Imprint from colophon. "C'est `a vous que s'adressent des matelots qui ont tout sacrifié pour l'intér^et de leur patrie ... Ces matelots, embarqués sur le corsaire l'Espoir ... ont pris, le 18 mars dernier, le navire le Constant, chasseur du port de Meppen, ville dépendante de l'ev^eché de Munster en Allemagne ...": p.[1]. Martin & Walter IV 2: 18139 (which specifies: Par l'équipage du corsaire l'Espoir). Scanner's note: No copyright page found. No table-of-contents pages found.  Title on cover. Damaged, stained pages and cover.  Uneven binding. Skewed text."""
+url = "https://archive.org/details/vraisamisdupeupl00espo"
+subject = [
+    "France. Marine",
+    "Sea control",
+]
+extent = "4 p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10323"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2s51sc7d"
+internet_archive = "vraisamisdupeupl00espo"
+openlibrary_edition = "OL26223004M"
+openlibrary_work = "OL17618464W"
+
+[scan]
+file = "vraisamisdupeupl00espo.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/vraisamisdupeupl00espo"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Espoir (Ship)"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de la rue d'Argenteuil, no. 211"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_72039"
+
+[[text]]
+file = "vraisamisdupeupl00espo.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "vraisamisdupeupl00espo.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "vraisamisdupeupl00espo.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "vraisamisdupeupl00espo.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

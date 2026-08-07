@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "verbaldresseparl00vauc"
+type = "pamphlet"
+title = "Verbal dressé par le tribunal criminel du département de Vaucluse, séant a Avignon, de la reconnoissance de Bonnaud d'Archimbaud, ci-devant noble, mis hors de la loi par jugement rendu à Bedouin l'infame, le 9 prairial : du 24 prairial"
+language = "fr"
+place = "A Avignon"
+date = "1794"
+note = "Caption title. Imprint from colophon. Dated at end: Le 14 prairial, an second de la République française, une & indivisible. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover."
+url = "https://archive.org/details/verbaldresseparl00vauc"
+subject = [
+    "Bonnaud d'Archimbaud, Louis-Alphonse, b. 1743?",
+    "Trials (Political crimes and offenses)",
+]
+extent = "4 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10310 no. 6"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t07x1h889"
+internet_archive = "verbaldresseparl00vauc"
+openlibrary_edition = "OL26222915M"
+openlibrary_work = "OL17618374W"
+
+[scan]
+file = "verbaldresseparl00vauc.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/verbaldresseparl00vauc"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Vaucluse (France : Department). Tribunal criminel"
+role = "author"
+
+[[resp]]
+name = "Bérenguier, Alphonse, 1747?-1820?"
+role = "publisher"
+
+[[resp]]
+name = "Chez Alphonse Berenguier, & compagnies, imprimeurs du département de Vaucluse"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_856916"
+
+[[text]]
+file = "verbaldresseparl00vauc.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "verbaldresseparl00vauc.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "verbaldresseparl00vauc.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "verbaldresseparl00vauc.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,71 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "voeudesartistes00unse"
+type = "pamphlet"
+title = "Voeu des artistes."
+language = "fr"
+place = "s.l."
+date = "1789"
+note = "Caption title. Imprint from colophon. Martin & Walter IV 2: 18059 (which supplies the date: 1789; and specifies: Demandant que les beaux-arts soient dirigés par un homme capable). Scanner's note: No copyright page found. No table-of-contents pages found. Title is on cover page. Damaged, stained and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/voeudesartistes00unse"
+subject = [
+    "Art",
+    "Artists",
+]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 9030"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7fr50927"
+internet_archive = "voeudesartistes00unse"
+openlibrary_edition = "OL26220436M"
+openlibrary_work = "OL17616054W"
+
+[scan]
+file = "voeudesartistes00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/voeudesartistes00unse"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Chez Gueffier jeune"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_65657"
+
+[[text]]
+file = "voeudesartistes00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "voeudesartistes00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "voeudesartistes00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "voeudesartistes00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
