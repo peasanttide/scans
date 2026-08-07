@@ -1,0 +1,85 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "projetgeneraldes00gaut"
+type = "pamphlet"
+title = "Projet général des planches anatomiques du sieur Gautier"
+language = "fr"
+place = "Paris?"
+date = "1749"
+note = """Prospectus for collections of anatomical prints by Gautier Dagoty. Caption title. "Le sieur Gautier espére pouvoir completter cet ouvrage dans le courant de l'année 1749 & 1750; il demeure présentement rue de la Harpe, après la rue Poupée, la seconde maison neuve, à droite"--P. [1]. Prix de l'ouvrage -- Total -- Façon de vernir les planches anatomiques & les tableaux imprimés du sieur Gautier -- Avis aux relieurs. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Title page and cover are combined."""
+url = "https://archive.org/details/projetgeneraldes00gaut"
+subject = [
+    "Gautier Dagoty, 1717-1785",
+    "Booksellers and bookselling",
+    "Biological illustration",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1c no. 32"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t78t0dm9v"
+internet_archive = "projetgeneraldes00gaut"
+
+[scan]
+file = "projetgeneraldes00gaut.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/projetgeneraldes00gaut"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Gautier Dagoty,1717-1785"
+role = "author"
+
+[[resp]]
+name = "Gautier Dagoty, 1717-1785"
+role = "author"
+
+[[resp]]
+name = "Gautier Dagoty?"
+role = "publisher"
+
+[[text]]
+file = "projetgeneraldes00gaut.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "projetgeneraldes00gaut.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "projetgeneraldes00gaut.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "projetgeneraldes00gaut.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "projetgeneraldes00gaut.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "projetgeneraldes00gaut.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

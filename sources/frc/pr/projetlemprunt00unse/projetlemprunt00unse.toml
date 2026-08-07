@@ -1,0 +1,88 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "projetlemprunt00unse"
+type = "pamphlet"
+title = "Projet de l'emprunt progressif de cent millions décrété par le Corps législatif"
+language = "fr"
+place = "Paris"
+date = "1799"
+note = "Caption title. At head of title: Corps législatif. Conseil des anciens. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française, I, 6991. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."
+url = "https://archive.org/details/projetlemprunt00unse"
+subject = [
+    "Progressive taxation",
+    "Loans",
+    "Finance, Public",
+]
+extent = "4 p. ; 25 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 26595"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5dc35m2x"
+internet_archive = "projetlemprunt00unse"
+openlibrary_edition = "OL26227374M"
+openlibrary_work = "OL17622602W"
+
+[scan]
+file = "projetlemprunt00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/projetlemprunt00unse"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Chassiron,1753-1826"
+role = "author"
+
+[[resp]]
+name = "Chassiron, 1753-1826"
+role = "author"
+
+[[resp]]
+name = "France. Corps législatif (1795-1814). Conseil des anciens"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_863382"
+
+[[text]]
+file = "projetlemprunt00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "projetlemprunt00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "projetlemprunt00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "projetlemprunt00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

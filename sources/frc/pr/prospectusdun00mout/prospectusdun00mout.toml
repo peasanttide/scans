@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "prospectusdun00mout"
+type = "pamphlet"
+title = "Prospectus d'un nouveau receuil de voyages, particuliérement au nord de l'Europe & de l'Asie"
+language = "fr"
+place = "Paris"
+date = "1784"
+note = """Prospectus for: Nouveau recueil de voyages au nord de l'Europe et de l'Asie. Genève : Paul Barde ; Paris : Moutard : Mérigot le jeune, 1785-1786. Caption title. "La souscription sera ouverte jusqu'à la publication de la premiere livraison, qui se fera au premier septembre prochain ... Les personnes qui désirent s'inscrire pour cette précieuse collection ... sont seulement priées de faire leur soumission chez un des librairies ci-dessous nommés ... A Paris, chez Moutard, imprimeur-libraire de la reine, rue des Mathurins, chez Merigot le jeune, libraire, quai des Augustins. Et chez les libraires des principales villes de l'Europe"--P. 4. Printing privilege dated: 21 décembre 1784. Includes prices. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Text extends off of the edge of the page. Text may be lost in the binding. Permanent creases may obscure some text. Title page and cover are combined."""
+url = "https://archive.org/details/prospectusdun00mout"
+subject = [
+    "Nouveau recueil de voyages au nord de l'Europe et de l'Asie",
+    "Booksellers and bookselling",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 8 no. 46"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t71w16d9k"
+internet_archive = "prospectusdun00mout"
+
+[scan]
+file = "prospectusdun00mout.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/prospectusdun00mout"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Moutard, Nicolas-Léger,1742?-"
+role = "author"
+
+[[resp]]
+name = "Moutard, Nicolas-Léger, 1742?-"
+role = "author"
+
+[[resp]]
+name = "Mérigot, Jean-Gabriel, 1738?-1818"
+role = "bookseller"
+
+[[resp]]
+name = "Moutard :;Merigot le jeune"
+role = "publisher"
+
+[[text]]
+file = "prospectusdun00mout.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectusdun00mout.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectusdun00mout.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectusdun00mout.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

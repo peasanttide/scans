@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "projetdecirculai00club"
+type = "pamphlet"
+title = "... Projet de circulaire pour les sociétés affiliées."
+language = "fr"
+place = "Paris"
+date = "1792"
+note = "Caption title. Imprint from colophon. At head of title: Société des amis de la constitution, séante aux Jacobins, a Paris. Dated at end: ... séance du 12 septembre 1792, l'an quatri`eme de la liberté et le premier de l'égalité .. Martin & Walter IV 2: 16708. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on the cover page. Uneven binding. Skewed text. Damaged, stained, and/or loose pages."
+url = "https://archive.org/details/projetdecirculai00club"
+subject = ["Jacobins"]
+extent = "3 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 8329"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1ck3hd1j"
+internet_archive = "projetdecirculai00club"
+openlibrary_edition = "OL26220882M"
+openlibrary_work = "OL17616467W"
+
+[scan]
+file = "projetdecirculai00club.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/projetdecirculai00club"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Club des Jacobins"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie du Patriote françois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_17458"
+
+[[text]]
+file = "projetdecirculai00club.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "projetdecirculai00club.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "projetdecirculai00club.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "projetdecirculai00club.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,83 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "prospectusetavis00mout"
+type = "pamphlet"
+title = "Prospectus et avis particuliers de la librairie"
+language = "fr"
+place = "Paris?"
+date = "1789"
+note = """Prospectuses for French translations of "Universal history, from the earliest account of time to the present" and Edward Gibbon's "History of the decline and fall of the Roman Empire" and for Desessarts' "Dictionnaire universel de police", as well as listings of titles sold by Nicolas-Léger Moutard. Caption title. Printed in double columns. Includes prices. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Title page and cover are combined."""
+url = "https://archive.org/details/prospectusetavis00mout"
+subject = [
+    "Gibbon, Edward, 1737-1794",
+    "Desessarts, Nicolas Toussaint Lemoyne, 1744-1810",
+    "Moutard, Nicolas-Léger, b. 1742?",
+    "Universal history, from the earliest account of time to the present",
+    "Booksellers and bookselling",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1a no. 123"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9f53bx1w"
+internet_archive = "prospectusetavis00mout"
+
+[scan]
+file = "prospectusetavis00mout.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/prospectusetavis00mout"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Moutard, Nicolas-Léger,b. 1742?"
+role = "author"
+
+[[resp]]
+name = "Moutard, Nicolas-Léger, b. 1742?"
+role = "author"
+
+[[resp]]
+name = "Gibbon, Edward, 1737-1794. History of the decline and fall of the Roman Empire. French"
+role = "author"
+
+[[resp]]
+name = "Desessarts, Nicolas Toussaint Lemoyne, 1744-1810. Dictionnaire universel de police"
+role = "author"
+
+[[resp]]
+name = "Nicolas-Léger Moutard?"
+role = "publisher"
+
+[[text]]
+file = "prospectusetavis00mout.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectusetavis00mout.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectusetavis00mout.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectusetavis00mout.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

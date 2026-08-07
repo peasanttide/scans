@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "ptitionindividue00pari"
+type = "pamphlet"
+title = "Pétition individuelle /"
+language = "fr"
+place = "Paris"
+date = "1792"
+note = "Caption title. Imprint from colophon. Martin & Walter IV 2: 13836 (which specifies: Contre le roi). Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on cover page. Contents are on the back cover. Damaged, stained and/or loose pages. Uneven binding. Skewed text.  Text extends off of the edge of the page."
+url = "https://archive.org/details/ptitionindividue00pari"
+subject = ["France. Sovereign (1774-1792 : Louis XVI)"]
+extent = "4 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 6809"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t79s6v744"
+internet_archive = "ptitionindividue00pari"
+openlibrary_edition = "OL26217831M"
+openlibrary_work = "OL17613556W"
+
+[scan]
+file = "ptitionindividue00pari.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/ptitionindividue00pari"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Paris (France). Sections des Quatre-Nations"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale législative (1791-1792)"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_60339"
+
+[[text]]
+file = "ptitionindividue00pari.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ptitionindividue00pari.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ptitionindividue00pari.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ptitionindividue00pari.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

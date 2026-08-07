@@ -1,0 +1,101 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "prospectus00moss"
+type = "pamphlet"
+title = "Prospectus"
+language = "fr"
+place = "A Marseille"
+date = "1784"
+note = """Prospectus for Charles François Bouche's "Essai sur l'histoire de Provence.". Caption title. "On souscrit à Marseille, chez Jean Mossy, imprimeur dudit ouvrage. A Aix, chez David, imprimeur-libraire, Surre, libraire. A Toulon, Mallard, imprimeur-libraire, Surre, libraire, Boery, libraire. A Arles, Gaudion, libraire. A Nimes, Gaude pere & fils, libraires. A Montpellier, Rigaud, Pons & compe., libraires. A Beziers, Barbut, imprimeur-libraire. A Bordeaux, Labottieres freres, imprimeurs-libraires, Chappius freres, libraires, Gintrac, libraire, Bergeret, libraire. A Rouen, Leboucher, libraire. A Paris, Delalain jeune, libraire, rue St. Jacques, Debure aîné, libraire, quai des Augustins, Nyon aîné, libraire, rue du Jardinet, Veuve Duchesne, libraire, rue St. Jacques. A Lyon, Rosset, libraire, rue Merciere, Jacquenod, libraire, idem. A Grenoble, Giroud, imprimeur-libraire. Et à [blank] chez [blank]. Et chez les principaux libraires de l'Europe"--P. 4. Place of publication and printer statement from colophon. "Cet ouvrage paroîtra dans le courant de janvier prochain 1785, sans retard. Il est sous presse"--P. 4. Head-piece. "Les deux volumes en feuilles coûteront 18 liv."--P. 4. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/prospectus00moss"
+subject = [
+    "Bouche, Charles François, 1737-1795",
+    "Booksellers and bookselling",
+    "History publishing",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1b no. 54"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9m38hd3z"
+internet_archive = "prospectus00moss"
+
+[scan]
+file = "prospectus00moss.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/prospectus00moss"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Mossy, Jean,d. 1792"
+role = "author"
+
+[[resp]]
+name = "Mossy, Jean, d. 1792"
+role = "author"
+
+[[resp]]
+name = "Bouche, Charles François, 1737-1795. Essai sur l'histoire de Provence"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Jean Mossy, imprimeur du roi, de la Marine, libraire, sur la Canebière, à côté du Bureau des draps"
+role = "publisher"
+
+[[text]]
+file = "prospectus00moss.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectus00moss.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectus00moss.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectus00moss.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectus00moss.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectus00moss.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectus00moss.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectus00moss.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

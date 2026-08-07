@@ -1,0 +1,82 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "principesderegen00tall"
+type = "pamphlet"
+title = "Principes de régénération du royaume, ou, Combinaison patriotique, en faveur de l'Etat & du bien public : présentée a N.S. les États-généraux, en leur Assemblée nationale à Paris, en novembre 1789 : extrait d'un mémoire sur une nouvelle branche d'administration, propre à rémedier à la maladie de l'Etat, du 15 novembre 1781 /"
+language = "fr"
+place = "Paris"
+date = "1789"
+note = "Caption title. M. de Vausenville is Guillaume Le Roberger. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: Uneven binding. Skewed text. Damaged, stained and/or loose pages."
+url = "https://archive.org/details/principesderegen00tall"
+subject = ["Finance, Public"]
+extent = "4 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 26013"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3713dh6v"
+internet_archive = "principesderegen00tall"
+
+[scan]
+file = "principesderegen00tall.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/principesderegen00tall"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Tallien, Jean-Lambert, 1767-2306"
+role = "author"
+
+[[resp]]
+name = "Le Roberger, Guillaume"
+role = "author"
+
+[[resp]]
+name = "Cailleau, André-Charles, 1731-1798"
+role = "publisher"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Cailleau, rue Galande, no. 64"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_863645"
+
+[[text]]
+file = "principesderegen00tall.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "principesderegen00tall.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "principesderegen00tall.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "principesderegen00tall.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

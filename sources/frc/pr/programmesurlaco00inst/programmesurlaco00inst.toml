@@ -1,0 +1,77 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "programmesurlaco00inst"
+type = "pamphlet"
+title = "Programme sur la continuation de la Notice des manuscrits"
+language = "fr"
+place = "Paris"
+date = "1798"
+note = "Caption title. At head of title: Institut national. Imprint from colophon. Place and date of publication from BM. BM. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text.  Title page and cover are combined."
+url = "https://archive.org/details/programmesurlaco00inst"
+subject = [
+    "Institut national des sciences et des arts (France)",
+    "Académie des inscriptions & belles-lettres (France)",
+    "Bibliothèque nationale de France",
+    "Notices et extraits des manuscrits de la Bibliothèque nationale et autre bibliothèques",
+    "Manuscripts",
+    "Catalogs",
+    "Periodicals",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 6 no. 7"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t03z3z40w"
+internet_archive = "programmesurlaco00inst"
+
+[scan]
+file = "programmesurlaco00inst.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/programmesurlaco00inst"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Institut national des sciences et des arts (France)"
+role = "author"
+
+[[resp]]
+name = "Baudouin, François-Jean, 1759-1838"
+role = "printer"
+
+[[resp]]
+name = "Baudouin, imprimeur de l'Institut national"
+role = "publisher"
+
+[[text]]
+file = "programmesurlaco00inst.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "programmesurlaco00inst.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "programmesurlaco00inst.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "programmesurlaco00inst.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,82 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "petitionducitoye00sans"
+type = "pamphlet"
+title = "Pétition du citoyen Sans, ci-devant professeur de physique, a la Convention nationale, en faveur des enfans en convulsions."
+language = "fr"
+place = "A Paris"
+date = "1793"
+note = "Caption title. Imprint from colophon. Supplied date of publication from BM. Not in Martin & Walter. Révolution française. BM. Bibliography: BM,  CCXII, column 857. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained, marked and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/petitionducitoye00sans"
+subject = [
+    "Convulsions in children",
+    "Electrotherapeutics",
+    "Public health",
+]
+extent = "4 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 25046"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6353zj5d"
+internet_archive = "petitionducitoye00sans"
+
+[scan]
+file = "petitionducitoye00sans.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/petitionducitoye00sans"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Sans, abbé"
+role = "author"
+
+[[resp]]
+name = "Didot, Pierre-François, 1731-1795"
+role = "publisher"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Didot jeune"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_850311"
+
+[[text]]
+file = "petitionducitoye00sans.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "petitionducitoye00sans.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "petitionducitoye00sans.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "petitionducitoye00sans.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

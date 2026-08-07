@@ -1,0 +1,53 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "prospectusdun00unse_0"
+type = "pamphlet"
+title = "Prospectus d'un nouveau journal"
+language = "fr"
+place = "Paris?"
+date = "1790"
+note = """Prospectus for "Le courier de l'hymen.". Caption title. "On s'abonnera depuis le premier janvier 1791, au bureau, rue Serpente, n°. 9"--P. 2. "Le prix de l'abonnement est de 24 liv. par an pour Paris, 12 l. pour six mois, et six liv. pour trois mois, et 30 liv. pour les quatre-vingt-trois départemens"--P. 2. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Title page and cover are combined."""
+url = "https://archive.org/details/prospectusdun00unse_0"
+subject = [
+    "Courier de l'hymen",
+    "Booksellers and bookselling",
+    "Women's periodicals",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1d no. 22"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8cg5d71q"
+internet_archive = "prospectusdun00unse_0"
+
+[scan]
+file = "prospectusdun00unse_0.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/prospectusdun00unse_0"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[text]]
+file = "prospectusdun00unse_0.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectusdun00unse_0.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

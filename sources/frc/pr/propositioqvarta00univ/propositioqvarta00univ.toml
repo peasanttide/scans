@@ -1,0 +1,71 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "propositioqvarta00univ"
+type = "pamphlet"
+title = "Propositio qvartae columnae theseos vesperiarum"
+language = "la"
+date = "1677"
+note = "Caption title. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Title page and cover are combined. No title page found. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/propositioqvarta00univ"
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 2 no. 44"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t53g0cc3v"
+internet_archive = "propositioqvarta00univ"
+
+[scan]
+file = "propositioqvarta00univ.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/propositioqvarta00univ"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Université de Paris.Faculté de théologie"
+role = "author"
+
+[[resp]]
+name = "Université de Paris. Faculté de théologie"
+role = "author"
+
+[[resp]]
+name = "Gobinet, Jean, fl. 1676"
+role = "author"
+
+[[resp]]
+name = "[Paris"
+role = "publisher"
+
+[[text]]
+file = "propositioqvarta00univ.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "la"
+
+[[text]]
+file = "propositioqvarta00univ.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "la"
+
+[[text]]
+file = "propositioqvarta00univ.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "la"
+
+[[text]]
+file = "propositioqvarta00univ.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "la"

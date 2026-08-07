@@ -1,0 +1,82 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "petitionantoine00unse"
+type = "pamphlet"
+title = "Pétition : Antoine Maurel, a la Convention nationale"
+language = "fr"
+place = "France"
+date = "1793"
+note = "Caption title. Variant of Martin & Walter. Révolution française, III, 23557. Protests the Convention nationale's decree of 9 nivôse an II overturning the nullification of his conviction. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover."
+url = "https://archive.org/details/petitionantoine00unse"
+subject = [
+    "Maurel, Antoine",
+    "Seine-et-Oise (France). Tribunal criminel",
+    "France. Convention nationale",
+    "Courts of last resort",
+    "Appellate procedure",
+]
+extent = "4 p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 26984"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7mq05m91"
+internet_archive = "petitionantoine00unse"
+openlibrary_edition = "OL26227141M"
+openlibrary_work = "OL17622368W"
+
+[scan]
+file = "petitionantoine00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/petitionantoine00unse"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Maurel, Antoine"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_865580"
+
+[[text]]
+file = "petitionantoine00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "petitionantoine00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "petitionantoine00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "petitionantoine00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

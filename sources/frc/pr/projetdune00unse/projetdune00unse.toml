@@ -1,0 +1,84 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "projetdune00unse"
+type = "pamphlet"
+title = "Projet d'une banque nationale : présenté à l'Assemblée nationale /"
+language = "fr"
+place = "A Paris"
+date = "1789"
+note = """Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. "Plan de la loterie"--P. 4. Scanner's note: No copyright page found. No table-of-contents pages found.   Title page is on the cover. Damaged, stained, and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/projetdune00unse"
+subject = [
+    "Finance, Public",
+    "Banks and banking",
+    "Lotteries",
+]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 22937"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5z65rp59"
+internet_archive = "projetdune00unse"
+openlibrary_edition = "OL26236881M"
+openlibrary_work = "OL17631434W"
+
+[scan]
+file = "projetdune00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/projetdune00unse"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Moses, E.-J"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_847494"
+
+[[text]]
+file = "projetdune00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "projetdune00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "projetdune00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "projetdune00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

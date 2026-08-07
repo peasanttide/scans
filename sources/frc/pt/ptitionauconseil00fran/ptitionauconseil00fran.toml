@@ -1,0 +1,84 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "ptitionauconseil00fran"
+type = "pamphlet"
+title = "... Pétition au Conseil des cinq-cents."
+language = "fr"
+place = "Paris"
+date = "1795"
+note = "Caption title. Imprint from colophon. At head of title: Égalite [i.e. Égalité]. Liberté. Martin & Walter IV 2: 13692 (which specifies: Pour demander le maintien des trois cents compagnies de vétérans). Scanner's note: No copyright page found. No table-of-contents pages found. Title is on cover page. Damaged, stained and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/ptitionauconseil00fran"
+subject = ["Veterans"]
+extent = "6 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 6770"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6n067c2d"
+internet_archive = "ptitionauconseil00fran"
+openlibrary_edition = "OL26217774M"
+openlibrary_work = "OL17613499W"
+
+[scan]
+file = "ptitionauconseil00fran.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/ptitionauconseil00fran"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Corps législatif (1795-1814). Conseil des cinq-cents"
+role = "author"
+
+[[resp]]
+name = "Baudouin, imprimeur du Corps législatif"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_60534"
+
+[[text]]
+file = "ptitionauconseil00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ptitionauconseil00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ptitionauconseil00fran.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ptitionauconseil00fran.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ptitionauconseil00fran.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ptitionauconseil00fran.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

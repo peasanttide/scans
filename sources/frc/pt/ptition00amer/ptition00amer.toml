@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "ptition00amer"
+type = "pamphlet"
+title = "Pétition /"
+language = "fr"
+place = "A Paris"
+date = "1790"
+note = """Caption title. Imprint from colophon. At lower left on p.[1]: Procès-verbal, No.461. "Nous vous prions, chers amis, de croire que nous ne sommes & ne serons jamais des rebelles ...": p.2. Martin & Walter IV 2: 13718. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on cover page. Damaged, stained and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/ptition00amer"
+subject = ["France. Marine"]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 6780"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t82k1hv84"
+internet_archive = "ptition00amer"
+openlibrary_edition = "OL26217884M"
+openlibrary_work = "OL17613609W"
+
+[scan]
+file = "ptition00amer.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/ptition00amer"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "America (Ship)"
+role = "author"
+
+[[resp]]
+name = "Société des amis de la constitution"
+role = "author"
+
+[[resp]]
+name = "Chez Baudouin"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_60978"
+
+[[text]]
+file = "ptition00amer.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ptition00amer.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ptition00amer.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ptition00amer.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

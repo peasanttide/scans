@@ -1,0 +1,105 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "principesfondame00zoll"
+type = "pamphlet"
+title = "Principes fondamentaux concernant les transactions entre particuliers."
+language = "fr"
+place = "Paris"
+date = "1797"
+note = """
+Caption title. Signed: Zollikofer. Imprint from colophon. Publisher location from Martin & Walter. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  IV:1, 33984. Scanner's note: No copyright page found. No table-of-contents pages found.
+Title on cover.  Damaged pages. Skewed text."""
+url = "https://archive.org/details/principesfondame00zoll"
+subject = [
+    "Debtor and creditor",
+    "Trade regulation",
+]
+extent = "8 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 13367"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0fv3964x"
+internet_archive = "principesfondame00zoll"
+openlibrary_edition = "OL25926978M"
+openlibrary_work = "OL17349585W"
+
+[scan]
+file = "principesfondame00zoll.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/principesfondame00zoll"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Zollikofer de Sonnenberg, J. C"
+role = "author"
+
+[[resp]]
+name = "France. Corps législatif (1795-1814)"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie des affiches, rue neuve-S.-Augustin, maison de la Correspondance, no. 582"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_828177"
+
+[[text]]
+file = "principesfondame00zoll.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "principesfondame00zoll.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "principesfondame00zoll.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "principesfondame00zoll.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "principesfondame00zoll.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "principesfondame00zoll.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "principesfondame00zoll.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "principesfondame00zoll.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

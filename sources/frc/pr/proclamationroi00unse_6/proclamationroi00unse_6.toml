@@ -1,0 +1,84 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "proclamationroi00unse_6"
+type = "pamphlet"
+title = "Proclamation du roi, relative aux assignats décrétés par l'Assemblée nationale : du 19 avril 1790"
+language = "fr"
+place = "A Poitiers"
+date = "1790"
+note = """Caption title. "Signé Louis. Et plus bas, par le roi, de Saint-Priest"--P. 3. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages."""
+url = "https://archive.org/details/proclamationroi00unse_6"
+subject = [
+    "Assignats",
+    "Payment",
+    "Finance, Public",
+]
+extent = "3 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10143 no. 3"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t21c73p47"
+internet_archive = "proclamationroi00unse_6"
+openlibrary_edition = "OL26222796M"
+openlibrary_work = "OL17618267W"
+
+[scan]
+file = "proclamationroi00unse_6.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/proclamationroi00unse_6"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Sovereign (1774-1792 : Louis XVI)"
+role = "author"
+
+[[resp]]
+name = "Louis XVI, King of France, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "Saint-Priest, François-Emmanuel Guignard, comte de, 1735-1821"
+role = "author"
+
+[[resp]]
+name = "Chez M.-V. Chevrier, imprimeur du roi, rue S.-François, près la cour consulaire"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_855121"
+
+[[text]]
+file = "proclamationroi00unse_6.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "proclamationroi00unse_6.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "proclamationroi00unse_6.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "proclamationroi00unse_6.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

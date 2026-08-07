@@ -1,0 +1,109 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "prospectus00gatt"
+type = "pamphlet"
+title = "Prospectus"
+language = "fr"
+place = "A Paris"
+date = "1791"
+note = """Prospectus for "École de politique", edited by Antoine Jeudy Du Gour. Caption title. "On souscrit à Paris chez Gattey, au Palais-Royal, et chez Retiers, directeur du bureau de l'Ami du roi, hôtel de Carignan, rue Bailleul"--P. 2. Place of publication and printer from colophon. Model subscription form on p. 2 dated 1791. "Le prix est de 4 liv. 10 sous le volume"--P. [1]. Includes catalog of books sold by Gattey. Ms annotations. Scanner's note: No copyright found.  No table of contents found.  Damaged, stained pages and cover.  <br />."""
+url = "https://archive.org/details/prospectus00gatt"
+subject = [
+    "Gattey, François-Charles, 1756-1794",
+    "École de politique",
+    "Booksellers and bookselling",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1b no. 31"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1sf8fw55"
+internet_archive = "prospectus00gatt"
+
+[scan]
+file = "prospectus00gatt.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/prospectus00gatt"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "Gattey, François-Charles,1756-1794"
+role = "author"
+
+[[resp]]
+name = "Gattey, François-Charles, 1756-1794"
+role = "author"
+
+[[resp]]
+name = "Du Gour, Antoine Jeudy, 1766-approximately 1840"
+role = "author"
+
+[[resp]]
+name = "Retiers"
+role = "bookseller"
+
+[[resp]]
+name = "Valade, veuve, fl. 1784-1799"
+role = "printer"
+
+[[resp]]
+name = "De l'imprimerie de la veuve Valade, rue des Noyers"
+role = "publisher"
+
+[[text]]
+file = "prospectus00gatt.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectus00gatt.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectus00gatt.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectus00gatt.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectus00gatt.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectus00gatt.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectus00gatt.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectus00gatt.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

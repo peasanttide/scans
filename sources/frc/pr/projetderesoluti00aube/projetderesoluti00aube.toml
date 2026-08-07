@@ -1,0 +1,83 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "projetderesoluti00aube"
+type = "pamphlet"
+title = "Projet de résolution présenté par Aubert contenant réformation d'une erreur relative à la somme mise à la disposition du Ministre des finances par la loi du 13 fructidor an 6, pour le paiement des employés des commissions supprimées par la loi du 2 messidor précédent : séance du 26 frimaire an 7."
+language = "fr"
+place = "A Paris"
+date = "1798"
+note = "Caption title. At head of title: Corps législatif. Conseil des cinq-cents. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  I, 620. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover."
+url = "https://archive.org/details/projetderesoluti00aube"
+subject = [
+    "France. Corps législatif (1795-1814)",
+    "Finance, Public",
+]
+extent = "3 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 13672"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t07x1366g"
+internet_archive = "projetderesoluti00aube"
+openlibrary_edition = "OL25921780M"
+openlibrary_work = "OL17344628W"
+
+[scan]
+file = "projetderesoluti00aube.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/projetderesoluti00aube"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Aubert, François, 1736-1820"
+role = "author"
+
+[[resp]]
+name = "France. Corps législatif (1795-1814). Conseil des cinq-cents"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_828997"
+
+[[text]]
+file = "projetderesoluti00aube.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "projetderesoluti00aube.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "projetderesoluti00aube.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "projetderesoluti00aube.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

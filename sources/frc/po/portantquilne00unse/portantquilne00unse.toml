@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "portantquilne00unse"
+type = "pamphlet"
+title = "Loi portant qu'il ne sera fait aucun usage de la poudre dans les fêtes publiques, pendant toute la durée de la guerre, etc. : du 9 fructidor, l'an deuxième de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1794"
+note = """Caption title. At head of title: (No. 68* 2). At right of title: B. no. 46, D. 246. Signed: Voulland ex-président; Bentabolle et Lecointre, secrétaires. Imprint from colophon. Not in Martin & Walter. Révolution française. "La Convention nationale ... décrète ..."--P. [1]. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/portantquilne00unse"
+subject = [
+    "Gunpowder",
+    "Festivals",
+]
+extent = "[1] p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10345 no. 39"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0kt1v39r"
+internet_archive = "portantquilne00unse"
+openlibrary_edition = "OL26229244M"
+openlibrary_work = "OL17624278W"
+
+[scan]
+file = "portantquilne00unse.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/portantquilne00unse"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Voulland, Jean-Henri, 1751-1801"
+role = "author"
+
+[[resp]]
+name = "Bentabole, Pierre-Louis, 1753-1798"
+role = "author"
+
+[[resp]]
+name = "Lecointre, Laurent, d. 1805"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois, place de la Réunion, ci-devant du grand Carousel"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_860375"
+
+[[text]]
+file = "portantquilne00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "portantquilne00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

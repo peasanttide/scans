@@ -1,0 +1,88 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "projetderesoluti00vill"
+type = "pamphlet"
+title = "Projet de résolution présenté par Villers : séance du 25 prairial an 6"
+language = "fr"
+place = "Paris"
+date = "1798"
+note = "Caption title. At head of title: Corps législatif. Conseil des cinq-cents. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française, IV:1, 33642. Scanner's note: Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text. No title page found. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/projetderesoluti00vill"
+subject = [
+    "Eminent domain",
+    "Finance, Public",
+    "Land tenure",
+]
+extent = "4 p. ; 25 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 27266"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2t48v49p"
+internet_archive = "projetderesoluti00vill"
+openlibrary_edition = "OL26229148M"
+openlibrary_work = "OL17624182W"
+
+[scan]
+file = "projetderesoluti00vill.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/projetderesoluti00vill"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Villers, François-Toussaint,1749-1807"
+role = "author"
+
+[[resp]]
+name = "Villers, François-Toussaint, 1749-1807"
+role = "author"
+
+[[resp]]
+name = "France. Corps législatif (1795-1814). Conseil des cinq-cents"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_868189"
+
+[[text]]
+file = "projetderesoluti00vill.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "projetderesoluti00vill.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "projetderesoluti00vill.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "projetderesoluti00vill.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

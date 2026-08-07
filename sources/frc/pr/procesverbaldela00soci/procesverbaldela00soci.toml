@@ -1,0 +1,84 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "procesverbaldela00soci"
+type = "pamphlet"
+title = "... Proces-verbal de la séance du 26 pluviose [an II? = 14 février 1794?] /"
+language = "fr"
+place = "St. Omer"
+date = "1794"
+note = "Caption title. Imprint from colophon. At head of title: Guerre aux factieux. Vive le peuple. Respect a la Convention. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on the cover page. Uneven binding. Skewed text. Damaged, stained, and/or loose pages."
+url = "https://archive.org/details/procesverbaldela00soci"
+subject = ["Political clubs"]
+extent = "4 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 8444"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1tf4x072"
+internet_archive = "procesverbaldela00soci"
+openlibrary_edition = "OL26221082M"
+openlibrary_work = "OL17616667W"
+
+[scan]
+file = "procesverbaldela00soci.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/procesverbaldela00soci"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Société populaire de Saint-Omer"
+role = "author"
+
+[[resp]]
+name = "Société populaire de Saint-Omer"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Saint-Omer (Pas-de-Calais, France)"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de J.B. Golglon"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_29214"
+
+[[text]]
+file = "procesverbaldela00soci.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "procesverbaldela00soci.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "procesverbaldela00soci.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "procesverbaldela00soci.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

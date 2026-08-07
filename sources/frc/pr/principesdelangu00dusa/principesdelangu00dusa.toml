@@ -1,0 +1,88 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "principesdelangu00dusa"
+type = "pamphlet"
+title = "Principes de langue et d'orthographe françoise"
+language = "fr"
+place = "A Paris"
+date = "1779"
+note = """Prospectus for Dusambourg's "Principes de langue et d'orthographe françoise.". Proposed work never published. Caption title. Place of publication and printer statement from colophon. "Permis d'imprimer, le 9 novembre 1779"--P. [2]. "Mon adresse est: Au Bureau d'étude & d'expédition, rue d'Orléans Saint Honoré"--P. [2]. Scanner's note: No copyright found.  No table of contents found.  Damaged, stained pages and cover.   No numbered pages.  Tight margins.<br /><br />."""
+url = "https://archive.org/details/principesdelangu00dusa"
+subject = [
+    "Dusambourg, M",
+    "Publishers and publishing",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1c no. 26"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1kh66n75"
+internet_archive = "principesdelangu00dusa"
+
+[scan]
+file = "principesdelangu00dusa.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/principesdelangu00dusa"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "Dusambourg,M"
+role = "author"
+
+[[resp]]
+name = "Dusambourg, M"
+role = "author"
+
+[[resp]]
+name = "Prault, Laurent François, 1712-1780"
+role = "printer"
+
+[[resp]]
+name = "De l'imprimerie de Prault, imprimeur du roi, quai de Gêvres"
+role = "publisher"
+
+[[text]]
+file = "principesdelangu00dusa.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "principesdelangu00dusa.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "principesdelangu00dusa.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "principesdelangu00dusa.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "principesdelangu00dusa.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "principesdelangu00dusa.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

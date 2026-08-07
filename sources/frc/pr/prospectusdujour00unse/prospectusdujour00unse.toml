@@ -1,0 +1,77 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "prospectusdujour00unse"
+type = "pamphlet"
+title = "Prospectus du Journal général de France, pour l'année 1792"
+language = "fr"
+place = "Paris?"
+date = "1791"
+note = """Caption title. "Des gens de lettres ... se réuniront encore de zèle et d'efforts, pour donner à ce journal l'intérêt que la matière exige. Ce sera au 1er janvier prochain qu'ils pourront offrir au public le fruit des mesures qu'ils auront prises"--P. 2. Printed in double columns. "L'abonnement de ce journal, qui paroît tous les jours, est de 30 liv. pour Paris, et 36 liv. pour la province, port franc. Le bureau est rue Neuve-Saint-Augustin, hôtel de la Correspondance"--Bottom of p. 2. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/prospectusdujour00unse"
+subject = [
+    "Journal général de France (Paris, France : 1785)",
+    "Booksellers and bookselling",
+    "Periodicals",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1d no. 74"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t75t9b022"
+internet_archive = "prospectusdujour00unse"
+
+[scan]
+file = "prospectusdujour00unse.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/prospectusdujour00unse"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[text]]
+file = "prospectusdujour00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectusdujour00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectusdujour00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectusdujour00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectusdujour00unse.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectusdujour00unse.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

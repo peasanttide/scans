@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "proclamation00puyd"
+type = "pamphlet"
+title = "Proclamation"
+language = "fr"
+place = "A Clermont-Ferrand"
+date = "1791"
+note = "Caption title. Imprint from colophon. Dated at end: Fait en directoire du département, le dix janvier mil sept cent quatre-vingt-onze. Martin & Walter IV 2: 14839. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."
+url = "https://archive.org/details/proclamation00puyd"
+extent = "4 p. ; 25 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10162"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9t204b6f"
+internet_archive = "proclamation00puyd"
+openlibrary_edition = "OL26223414M"
+openlibrary_work = "OL17618877W"
+
+[scan]
+file = "proclamation00puyd.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/proclamation00puyd"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Puy-de-Dôme (France)"
+role = "author"
+
+[[resp]]
+name = "Puy-de-Dôme (France)"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie d'Antoine Delcros"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_71272"
+
+[[text]]
+file = "proclamation00puyd.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "proclamation00puyd.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "proclamation00puyd.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "proclamation00puyd.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

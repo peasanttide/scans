@@ -1,0 +1,105 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "prospectusdune00mann"
+type = "pamphlet"
+title = "Prospectus d'une édition complète des Ouvrages imprimés et manuscrits de d'Anville, et des 62 cartes qui y sont annexées, proposée par souscription, sans aucune avance de fonds"
+language = "fr"
+place = "Paris"
+date = "1834"
+note = """Prospectus for: Œuvres d'Anville / publiées par M. de Manne. Paris : Imprimerie royale, 1834. Caption title. "On peur recourir ... à la Notice des ouvrages de M. d'Anville ... qui se trouve à Paris, chez le cit. Demanne, l'un des premiers employés de la Bibliothèque nationale, y demeurant; chez Fuchs, libraire, rue des Mathurins, et chez les libraires ci-dessous ... [15 others in 12 other places]"--P. 5-6. Printed in 1802. Cf. blank subscription form, p. [1] at end. Includes prices, with or without subscription, on p. 2. No. 7 of 17 titles bound together. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Title page and cover are combined."""
+url = "https://archive.org/details/prospectusdune00mann"
+subject = [
+    "Anville, Jean Baptiste Bourguignon d', 1697-1782",
+    "Map publishing",
+    "Booksellers and bookselling",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 10"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3hx71d7d"
+internet_archive = "prospectusdune00mann"
+
+[scan]
+file = "prospectusdune00mann.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/prospectusdune00mann"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Manne,M. de(Louis Charles Joseph),1773-1832"
+role = "author"
+
+[[resp]]
+name = "Manne, M. de (Louis Charles Joseph), 1773-1832"
+role = "bookseller"
+
+[[resp]]
+name = "Fuchs, Jean-Jacques, active 1792-1804"
+role = "bookseller"
+
+[[resp]]
+name = "Anville, Jean Baptiste Bourguignon d', 1697-1782. Works. 1834"
+role = "author"
+
+[[resp]]
+name = "Demanne :;Fuchs"
+role = "publisher"
+
+[[text]]
+file = "prospectusdune00mann.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectusdune00mann.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectusdune00mann.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectusdune00mann.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectusdune00mann.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectusdune00mann.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectusdune00mann.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectusdune00mann.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

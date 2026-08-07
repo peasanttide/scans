@@ -1,0 +1,74 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "proclamation00fran_19"
+type = "pamphlet"
+title = "Proclamation"
+language = "fr"
+place = "A Epinal"
+date = "1793"
+note = "Caption title. Imprint from colophon. At upper right on p.[1]: Police des grandes routes. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."
+url = "https://archive.org/details/proclamation00fran_19"
+subject = ["Police"]
+extent = "4 p. ; 23 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9610"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t22c44j8z"
+internet_archive = "proclamation00fran_19"
+
+[scan]
+file = "proclamation00fran_19.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/proclamation00fran_19"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Conseil exécutif provisoire (1792-1793)"
+role = "author"
+
+[[resp]]
+name = "France. Conseil exécutif provisoire (1792-1793)"
+role = "author"
+
+[[resp]]
+name = "Chez Haener"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_67919"
+
+[[text]]
+file = "proclamation00fran_19.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "proclamation00fran_19.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "proclamation00fran_19.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "proclamation00fran_19.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

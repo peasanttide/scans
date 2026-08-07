@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "petitiondes48sec00deco"
+type = "pamphlet"
+title = "Pétition des 48 Sections de Paris à l'Assemblée Nationale."
+language = "fr"
+place = "A Paris"
+date = "1792"
+note = "Caption title. Signed: Décorcelle, Simonne, Commissaires rédacteurs. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  II, 9551. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, stained pages. Damaged, uneven binding. Skewed text."
+url = "https://archive.org/details/petitiondes48sec00deco"
+subject = [
+    "Lafayette, Marie Joseph Paul Yves Roch Gilbert Du Motier, marquis de, 1757-1834",
+    "Political corruption",
+    "Denunciation (Criminal law)",
+]
+extent = "4 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 11330"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t64509p3j"
+internet_archive = "petitiondes48sec00deco"
+openlibrary_edition = "OL25911970M"
+openlibrary_work = "OL17335620W"
+
+[scan]
+file = "petitiondes48sec00deco.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/petitiondes48sec00deco"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Décorcelle"
+role = "author"
+
+[[resp]]
+name = "Simonne, Jean-Claude"
+role = "author"
+
+[[resp]]
+name = "De l'Imp. de Mayer & Compagnie"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_824979"
+
+[[text]]
+file = "petitiondes48sec00deco.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "petitiondes48sec00deco.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "petitiondes48sec00deco.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "petitiondes48sec00deco.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

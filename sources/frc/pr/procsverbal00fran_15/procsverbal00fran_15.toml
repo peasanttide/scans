@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "procsverbal00fran_15"
+type = "pamphlet"
+title = "Procès-verbal /"
+language = "fr"
+place = "A Paris"
+date = "1790"
+note = "Caption title. Imprint from colophon. Martin & Walter IV 2: 14541 (which specifies: Manifestation en l'honneur de MM. Agasse). Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover page. Damaged, stained and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/procsverbal00fran_15"
+subject = ["Agasse, frères"]
+extent = "4 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 7148"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7bs3wp8g"
+internet_archive = "procsverbal00fran_15"
+openlibrary_edition = "OL26220652M"
+openlibrary_work = "OL17616236W"
+
+[scan]
+file = "procsverbal00fran_15.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/procsverbal00fran_15"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Armée. Bataillon Saint-Honoré, Premier"
+role = "author"
+
+[[resp]]
+name = "France. Armée. Bataillon Saint-Honoré, Premier"
+role = "author"
+
+[[resp]]
+name = "Chez Baudouin"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_61719"
+
+[[text]]
+file = "procsverbal00fran_15.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "procsverbal00fran_15.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "procsverbal00fran_15.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "procsverbal00fran_15.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

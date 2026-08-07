@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "projetdedecretim00fran"
+type = "pamphlet"
+title = "... Projet de decret : imprimé par ordre de la Convention nationale."
+language = "fr"
+place = "Paris"
+date = "1794"
+note = """Caption title. Imprint from colophon. At head of title: Convention nationale. "Les prix de toutes les denrées et marchandises, soumises à la loi du maximum, dans les lieux de production ou de fabrication, sont ceux déterminés dans les tableaux du maximum qui viennent d'être présentés par la Commission des subsistances et des approvisionnemens de la République": p.[1]. Martin & Walter IV 2: 4560 (which supplies the date: 4 ventôse an II = 22 février 1794). Scanner's note: No copyright page found. No table-of-contents pages found.   Title is on cover page. Damaged, stained and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/projetdedecretim00fran"
+subject = ["Prices"]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 2402"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7gr20s54"
+internet_archive = "projetdedecretim00fran"
+openlibrary_edition = "OL26218384M"
+openlibrary_work = "OL17614090W"
+
+[scan]
+file = "projetdedecretim00fran.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/projetdedecretim00fran"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_44823"
+
+[[text]]
+file = "projetdedecretim00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "projetdedecretim00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "projetdedecretim00fran.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "projetdedecretim00fran.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

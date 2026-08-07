@@ -1,0 +1,68 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "projetorganis00unse"
+type = "pamphlet"
+title = "Projet d'organisation provisoire pour la Garde nationale du district de Lyon : [motto: 2 lines]"
+language = "fr"
+place = "A Lyon"
+date = "1791"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Scanner's note: No title page found. No copyright page found. Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages."
+url = "https://archive.org/details/projetorganis00unse"
+subject = ["Lyon (France). Garde nationale"]
+extent = "4 p. ; 25 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10149"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2b90cq8c"
+internet_archive = "projetorganis00unse"
+openlibrary_edition = "OL26222461M"
+openlibrary_work = "OL17617932W"
+
+[scan]
+file = "projetorganis00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/projetorganis00unse"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "De l'imprimerie d'Aimé de la Roche"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_71175"
+
+[[text]]
+file = "projetorganis00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "projetorganis00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "projetorganis00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "projetorganis00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

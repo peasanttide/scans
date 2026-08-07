@@ -1,0 +1,21 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: procesverbaldesconfer00
+page: 164
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 2482
+h: 4230
+dpi: 500
+---
+
+15^
+
+n’a nullement infifté pour que fon projet fîit
+lu le premier ».
+
+En conféquence M. le Diredeur-généraî â,
+fait la ledure du mémoire arrêté entre MJM*
+les CommifFaires dju Roi en ces termes ;
+
+‘ /

@@ -1,0 +1,78 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "precissurlacondu00raff"
+type = "pamphlet"
+title = "Précis sur la conduite du citoyen Deudon, Brabançon, depuis qu'il s'est réfugié en France, jusqu'à présent : et exposé fidèle de sa situation /"
+language = "fr"
+place = "Paris"
+date = "1794"
+note = "Caption title. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  IV:1, 28598. Scanner's note: No Copyright found. No Table of Contents found. Title on cover. Damaged, stained pages and cover. <br />."
+url = "https://archive.org/details/precissurlacondu00raff"
+subject = [
+    "Deudon, citoyen",
+    "Refugees",
+    "Criminal justice, Administration of",
+]
+extent = "4 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 24221"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5p89jv5s"
+internet_archive = "precissurlacondu00raff"
+
+[scan]
+file = "precissurlacondu00raff.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/precissurlacondu00raff"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "Raffron-Detrouillet, Nicolas, 1723-1801"
+role = "author"
+
+[[resp]]
+name = "Guffroy, A. B. J. (Armand Benoît Joseph), 1740-1800"
+role = "publisher"
+
+[[resp]]
+name = "De l'imprimerie de Guffroy, rue Honoré, no. 35, cour des ci-devant capucins"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_848834"
+
+[[text]]
+file = "precissurlacondu00raff.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "precissurlacondu00raff.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "precissurlacondu00raff.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "precissurlacondu00raff.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

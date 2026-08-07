@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "procsverbal00lyon"
+type = "pamphlet"
+title = "... Procès-verbal /"
+language = "fr"
+place = "Paris"
+date = "1793"
+note = "Caption title. Imprint from colophon. At head of title: Convention nationale. About the trial of Louis XVI. Martin & Walter IV 2: 9262. Scanner's note: Title page located on front cover. No copyright page found. No table-of-contents pages found. Worn, damaged and discolored pages and cover. Skewed text."
+url = "https://archive.org/details/procsverbal00lyon"
+subject = ["France. Sovereign (1774-1792 : Louis XVI)"]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 5203"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t41s1vs43"
+internet_archive = "procsverbal00lyon"
+openlibrary_edition = "OL26212737M"
+openlibrary_work = "OL17608720W"
+
+[scan]
+file = "procsverbal00lyon.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/procsverbal00lyon"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Lyon (France)"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_54285"
+
+[[text]]
+file = "procsverbal00lyon.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "procsverbal00lyon.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "procsverbal00lyon.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "procsverbal00lyon.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

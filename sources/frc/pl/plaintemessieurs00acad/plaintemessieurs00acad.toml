@@ -1,0 +1,63 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "plaintemessieurs00acad"
+type = "pamphlet"
+title = "Plainte a Messieurs les auteurs de l'Academie franc̦ois"
+language = "fr"
+date = "1744"
+note = "Caption title. Verse. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover page.  Uneven binding.  Skewed text."
+url = "https://archive.org/details/plaintemessieurs00acad"
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "E 5 .L92705 v. 02 no. 44"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0bw3hz4p"
+internet_archive = "plaintemessieurs00acad"
+
+[scan]
+file = "plaintemessieurs00acad.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/plaintemessieurs00acad"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Académie franc̦oise, Paris"
+role = "author"
+
+[[resp]]
+name = "[Metz"
+role = "publisher"
+
+[[text]]
+file = "plaintemessieurs00acad.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "plaintemessieurs00acad.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "plaintemessieurs00acad.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "plaintemessieurs00acad.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

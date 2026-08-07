@@ -1,0 +1,99 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "projetdedecretau00laka"
+type = "pamphlet"
+title = "Projet de décret au nom des Comités d'instruction publique, de la guerre, des finances et de la marine : sur la réunion du 10 août /"
+language = "fr"
+place = "Paris"
+date = "1793"
+note = "Caption title. At head of title: Convention nationale. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  III, 18582. Scanner's note: No copyright page found. No table-of-contents pages found. Title page is on the cover. Damaged, stained, and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/projetdedecretau00laka"
+subject = [
+    "France. Armée",
+    "France. Marine",
+]
+extent = "3 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 20371"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3xt0z31p"
+internet_archive = "projetdedecretau00laka"
+openlibrary_edition = "OL26237700M"
+openlibrary_work = "OL17632249W"
+
+[scan]
+file = "projetdedecretau00laka.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/projetdedecretau00laka"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Lakanal, Joseph, 1762-1845"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale. Comité d'instruction publique"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale. Comité de la guerre"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale. Comité des finances"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale. Comité de marine"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_842699"
+
+[[text]]
+file = "projetdedecretau00laka.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "projetdedecretau00laka.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "projetdedecretau00laka.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "projetdedecretau00laka.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

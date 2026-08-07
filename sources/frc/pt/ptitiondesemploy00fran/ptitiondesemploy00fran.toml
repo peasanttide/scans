@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "ptitiondesemploy00fran"
+type = "pamphlet"
+title = "Pétition des employés des messageries : a l'Assemblée nationale"
+language = "fr"
+place = "Paris"
+date = "1791"
+note = "Caption title. Imprint from colophon. Martin & Walter IV 2: 13768 (which specifies: Au sujet de leur traitement). Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages."
+url = "https://archive.org/details/ptitiondesemploy00fran"
+subject = ["Transportation"]
+extent = "4 p. ; 25 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10099"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5w71kk91"
+internet_archive = "ptitiondesemploy00fran"
+openlibrary_edition = "OL26222691M"
+openlibrary_work = "OL17618162W"
+
+[scan]
+file = "ptitiondesemploy00fran.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/ptitiondesemploy00fran"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Ballard"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_71040"
+
+[[text]]
+file = "ptitiondesemploy00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ptitiondesemploy00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ptitiondesemploy00fran.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ptitiondesemploy00fran.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

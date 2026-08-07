@@ -1,0 +1,65 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "procesverbaux00mequ"
+type = "pamphlet"
+title = "Procès-verbaux de l'Assemblée nationale, mis par ordre de matières, ou, Collection des motions, rapports, décrets, &c. présentés dans leur ordre naturel"
+language = "fr"
+place = "Paris?"
+date = "1790"
+note = """Prospectus for "Procès-verbaux de l'Assemblée nationale", the collected proceedings and documents of the Assemblée nationale constituante, 1789-1791. Caption title. "Prix, 10 livres par volume cartonné, franc de port par tout le royaume, & 9 livres 10 sous, pris à Paris, chez Méquignon junior, libraire, rue de la Harpe. Le second volume est sous presse, & paroitra incessamment"--P. [2]. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Title page and cover are combined."""
+url = "https://archive.org/details/procesverbaux00mequ"
+subject = [
+    "France. Assemblée nationale constituante (1789-1791)",
+    "Booksellers and bookselling",
+    "Government publications",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1a no. 112"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t02z6x65m"
+internet_archive = "procesverbaux00mequ"
+
+[scan]
+file = "procesverbaux00mequ.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/procesverbaux00mequ"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Mequignon, Paul-Denys,fl. 1788-1813"
+role = "author"
+
+[[resp]]
+name = "Mequignon, Paul-Denys, fl. 1788-1813"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791). Procès-verbaux de l'Assemblée nationale"
+role = "author"
+
+[[resp]]
+name = "Paul-Denys Méquignon?"
+role = "publisher"
+
+[[text]]
+file = "procesverbaux00mequ.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "procesverbaux00mequ.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

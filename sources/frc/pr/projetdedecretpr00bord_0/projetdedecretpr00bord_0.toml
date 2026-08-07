@@ -1,0 +1,87 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "projetdedecretpr00bord_0"
+type = "pamphlet"
+title = "Projet de décret proposé le 28 octobre 1791, à l'Assemblée nationale, par M. Bordas, député du département de la Haute-Vienne, sur les mesures à prendre pour réprimer & pour arrêter les émigrations."
+language = "fr"
+place = "Paris"
+date = "1791"
+note = """Caption title. "... à compter du premier janvier 1792"--P. 3. Imprint from colophon. "Administration. I"--Bottom of p. [1]. Martin & Walter. Révolution française. Forms part of the French Revolution Collection at the Newberry Library. Bibliography: Martin & Walter.  Révolution française, I, 4197. Scanner's note: No copyright found. No table of contents found. Title on cover. Damaged, stained pages and cover. <br />."""
+url = "https://archive.org/details/projetdedecretpr00bord_0"
+subject = [
+    "Refoulement",
+    "Royal houses",
+    "Military deserters",
+    "Courts-martial and courts of inquiry",
+]
+extent = "4 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 27644"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6645391b"
+internet_archive = "projetdedecretpr00bord_0"
+
+[scan]
+file = "projetdedecretpr00bord_0.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/projetdedecretpr00bord_0"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "Bordas, Pardoux, 1748-1842"
+role = "author"
+
+[[resp]]
+name = "French Revolution Collection (Newberry Library) ICN"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale législative (1791-1792)"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_824359"
+
+[[text]]
+file = "projetdedecretpr00bord_0.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "projetdedecretpr00bord_0.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "projetdedecretpr00bord_0.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "projetdedecretpr00bord_0.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

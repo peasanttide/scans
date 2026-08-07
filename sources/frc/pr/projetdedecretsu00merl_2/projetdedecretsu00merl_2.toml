@@ -1,0 +1,84 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "projetdedecretsu00merl_2"
+type = "pamphlet"
+title = "Projet de décret, sur le jugement du Tribunal révolutionnaire, du 26 frimaire dernier, concernant les membres du Comité révolutionnaire de Nantes, présenté en forme d'amendement à la séance du 21 pluviôse /"
+language = "fr"
+place = "Paris"
+date = "1795"
+note = """Caption title. At head of title: Convention nationale. "Imprimé par ordre de la Convention nationale.". Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  III, 24034. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover."""
+url = "https://archive.org/details/projetdedecretsu00merl_2"
+subject = [
+    "Nantes (France). Comité révolutionnaire",
+    "France. Tribunal révolutionnaire",
+    "Criminal procedure",
+]
+extent = "3 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 12588"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0ht7cb5t"
+internet_archive = "projetdedecretsu00merl_2"
+openlibrary_edition = "OL25928775M"
+openlibrary_work = "OL17351242W"
+
+[scan]
+file = "projetdedecretsu00merl_2.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/projetdedecretsu00merl_2"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Merlin, M. (Philippe-Antoine), 1754-1838"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_827434"
+
+[[text]]
+file = "projetdedecretsu00merl_2.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "projetdedecretsu00merl_2.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "projetdedecretsu00merl_2.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "projetdedecretsu00merl_2.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

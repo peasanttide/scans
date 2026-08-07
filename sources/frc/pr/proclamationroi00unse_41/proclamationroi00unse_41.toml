@@ -1,0 +1,87 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "proclamationroi00unse_41"
+type = "pamphlet"
+title = "Proclamation du roi, sur la solemnité de la publication de l'acte du corps législatif, qui déclare la patrie en danger : du 25 juillet 1792, l'an 4e. de la liberté"
+language = "fr"
+place = "A Angers"
+date = "1792"
+note = """Caption title. At head of title: Liberté Constitution 1791. Droits de l'homme egalite. "Signé, Louis. Et plus bas, Champion"--P. 2. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No title page found. No copyright page found. Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages."""
+url = "https://archive.org/details/proclamationroi00unse_41"
+subject = [
+    "Promulgation (Law)",
+    "Government publications",
+]
+extent = "3 p. ; 24 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10143 no. 39"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6f242w62"
+internet_archive = "proclamationroi00unse_41"
+openlibrary_edition = "OL26222616M"
+openlibrary_work = "OL17618087W"
+
+[scan]
+file = "proclamationroi00unse_41.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/proclamationroi00unse_41"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Sovereign (1774-1792 : Louis XVI)"
+role = "author"
+
+[[resp]]
+name = "Louis XVI, King of France, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "Champion de Cicé, Jérôme Marie, comte, 1735-1810"
+role = "author"
+
+[[resp]]
+name = "Mame, Charles-Pierre, 1747-1825"
+role = "publisher"
+
+[[resp]]
+name = "Chez Mame, imprimeur du département de Maine et Loire"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_855157"
+
+[[text]]
+file = "proclamationroi00unse_41.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "proclamationroi00unse_41.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "proclamationroi00unse_41.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "proclamationroi00unse_41.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

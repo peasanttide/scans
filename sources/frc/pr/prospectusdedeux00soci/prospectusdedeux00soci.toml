@@ -1,0 +1,84 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "prospectusdedeux00soci"
+type = "pamphlet"
+title = "Prospectus de deux ouvrages periodiques de musique, a l'usage des f^etes nationales"
+language = "fr"
+place = "Paris"
+date = "1794"
+note = "Caption title. Imprint from colophon. Signed and dated at end: Au nom de la Société des artistes musiciens de la Garde-nationale-parisienne ... A Paris, ce 27 ventose, an II. de la République, une et indivisible [17 mars 1794]. The titles of the periodicals are not specified. Martin & Walter ZIV 2: 14765. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages.  No page numbers.  Text is lost in the binding."
+url = "https://archive.org/details/prospectusdedeux00soci"
+subject = ["Music"]
+extent = "4 p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10152"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t31310m3v"
+internet_archive = "prospectusdedeux00soci"
+openlibrary_edition = "OL26223380M"
+openlibrary_work = "OL17618843W"
+
+[scan]
+file = "prospectusdedeux00soci.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/prospectusdedeux00soci"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Société des artistes musiciens de la Garde-nationale-parisienne"
+role = "author"
+
+[[resp]]
+name = "Société des artistes musiciens de la Garde-nationale-parisienne"
+role = "author"
+
+[[resp]]
+name = "Institut national de musique"
+role = "author"
+
+[[resp]]
+name = "Paris (France). Garde nationale"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de la rue Fiacre, No.2"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_71270"
+
+[[text]]
+file = "prospectusdedeux00soci.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectusdedeux00soci.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectusdedeux00soci.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectusdedeux00soci.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

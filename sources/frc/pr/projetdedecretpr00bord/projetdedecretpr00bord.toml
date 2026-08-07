@@ -1,0 +1,74 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "projetdedecretpr00bord"
+type = "pamphlet"
+title = "Projet de décret proposé le 28 octobre 1791, à l'Assemblée nationale, par M. Bordas, député du département de la Haute-Vienne, sur les mesures à prendre pour réprimer & pour arrêter les émigrations."
+language = "fr"
+date = "1791"
+note = """Caption title. "... à compter du premier janvier 1792"--P. 3. Imprint from colophon. "Administration. I"--Bottom of p. [1]. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,I, 4197. Scanner's note: Title found on front cover. No copyright page found. No table-of-contents pages found."""
+url = "https://archive.org/details/projetdedecretpr00bord"
+subject = [
+    "Refoulement",
+    "Royal houses",
+    "Military deserters",
+    "Courts-martial and courts of inquiry",
+]
+extent = "4 p. ;21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "CaseFRC10878"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3xs8rf0w"
+internet_archive = "projetdedecretpr00bord"
+
+[scan]
+file = "projetdedecretpr00bord.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/projetdedecretpr00bord"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Bordas, Pardoux,1748-1842"
+role = "author"
+
+[[resp]]
+name = "[Paris] :De l'Imprimerie nationale,"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_824359"
+
+[[text]]
+file = "projetdedecretpr00bord.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "projetdedecretpr00bord.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "projetdedecretpr00bord.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "projetdedecretpr00bord.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"

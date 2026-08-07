@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "protestationsole00hohe"
+type = "pamphlet"
+title = "Protestation solemnelle du grand-chapitre de la cathédrale de Strasbourg, adressée au département."
+language = "fr"
+place = "France?"
+date = "1790"
+note = "Caption title. Signed: Joseph, prince de Hohenlohe-Bartenstein, p.t. senior, coadjuteur de Breslau. Not in Martin & Walter. Révolution française. Scanner's note: Title page located on front cover. No copyright page found. No table-of-contents pages found. Worn, damaged and discolored pages and cover. Skewed text."
+url = "https://archive.org/details/protestationsole00hohe"
+subject = [
+    "Secularization",
+    "Clergy",
+]
+extent = "p. ; cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 19755"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5jb15p8v"
+internet_archive = "protestationsole00hohe"
+openlibrary_edition = "OL26202832M"
+openlibrary_work = "OL17599301W"
+
+[scan]
+file = "protestationsole00hohe.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/protestationsole00hohe"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Hohenlohe-Bartenstein, Joseph, prince de"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_841233"
+
+[[text]]
+file = "protestationsole00hohe.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "protestationsole00hohe.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "protestationsole00hohe.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "protestationsole00hohe.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

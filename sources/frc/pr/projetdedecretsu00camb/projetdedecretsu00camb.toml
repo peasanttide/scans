@@ -1,0 +1,69 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "projetdedecretsu00camb"
+type = "pamphlet"
+title = "Projet de décret sur les créances payables en pays étrangers, présenté par Cambon, député par le département de l'Hérault, au nom de la Commission des finances."
+language = "fr"
+date = "1793"
+note = 'Caption title. At head of title: Convention nationale. Imprint from colophon. "12 septembre 1793"--Session date from Martin & Walter. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,I, 5912.'
+url = "https://archive.org/details/projetdedecretsu00camb"
+subject = ["Debts, Public"]
+extent = "4 p. ;19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "CaseFRC11032"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6254nk0s"
+internet_archive = "projetdedecretsu00camb"
+
+[scan]
+file = "projetdedecretsu00camb.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/projetdedecretsu00camb"
+ppi = 650
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Cambon, Joseph,1756-1820"
+role = "author"
+
+[[resp]]
+name = "[Paris] :De l'Imprimerie nationale,"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_824172"
+
+[[text]]
+file = "projetdedecretsu00camb.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "projetdedecretsu00camb.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "projetdedecretsu00camb.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "projetdedecretsu00camb.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"

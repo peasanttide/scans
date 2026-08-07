@@ -1,0 +1,88 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "plaintesourequet00bonn"
+type = "pamphlet"
+title = "Plaintes, ou, Requète d'un citoyen actif a l'Assemblée nationale."
+language = "fr"
+place = "France?"
+date = "1790"
+note = "Caption title. Signed: Bonnaffox. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  I, 4060. Scanner's note: No copyright page found. No table-of-contents pages found. Damaged, stained pages and cover. Title on cover."
+url = "https://archive.org/details/plaintesourequet00bonn"
+subject = ["Nobility"]
+extent = "6 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 14945"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1vf1sc80"
+internet_archive = "plaintesourequet00bonn"
+openlibrary_edition = "OL26191354M"
+openlibrary_work = "OL17588179W"
+
+[scan]
+file = "plaintesourequet00bonn.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/plaintesourequet00bonn"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Bonnaffox"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_830770"
+
+[[text]]
+file = "plaintesourequet00bonn.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "plaintesourequet00bonn.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "plaintesourequet00bonn.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "plaintesourequet00bonn.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "plaintesourequet00bonn.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "plaintesourequet00bonn.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

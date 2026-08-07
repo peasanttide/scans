@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "ptitionprsentela00pari"
+type = "pamphlet"
+title = "Pétition présentée a l'Assemblée nationale : le 18 décembre 1791 /"
+language = "fr"
+place = "Paris"
+date = "1791"
+note = "Caption title. Imprint from colophon. At lower left on p.[1]: Colonie. No.10. About the Constitution of 1791. This edition not in Martin & Walter (cf. IV 2: 12786). Scanner's note: No copyright page found. No table-of-contents pages found. Title is on cover page. Damaged, stained and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/ptitionprsentela00pari"
+subject = ["France"]
+extent = "4 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 6577"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0tr10k8p"
+internet_archive = "ptitionprsentela00pari"
+openlibrary_edition = "OL26218707M"
+openlibrary_work = "OL17614414W"
+
+[scan]
+file = "ptitionprsentela00pari.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/ptitionprsentela00pari"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Paris (France). Section du Fauxbourg-Montmartre"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale législative (1791-1792)"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_57522"
+
+[[text]]
+file = "ptitionprsentela00pari.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ptitionprsentela00pari.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ptitionprsentela00pari.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ptitionprsentela00pari.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

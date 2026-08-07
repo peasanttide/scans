@@ -1,0 +1,84 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "projetdedecretre00cout"
+type = "pamphlet"
+title = "Projet de décret relatif aux émigrés, destiné à être proposé à l'Assemblée nationale dans la séance du samedi 22 octobre 1791 /"
+language = "fr"
+place = "Paris"
+date = "1791"
+note = """Caption title. Imprint from colophon. "Administration"--Bottom of p. [1]. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  I, 8683. Scanner's note: No copyright page found. No table-of-contents pages found."""
+url = "https://archive.org/details/projetdedecretre00cout"
+subject = [
+    "Louis XVIII, King of France, 1755-1824",
+    "Refugees",
+    "Emigration and immigration law",
+]
+extent = "4 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 11222"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0qr9g24x"
+internet_archive = "projetdedecretre00cout"
+openlibrary_edition = "OL25912820M"
+openlibrary_work = "OL17336343W"
+
+[scan]
+file = "projetdedecretre00cout.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/projetdedecretre00cout"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Couthon, Georges Auguste, 1755-1794"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale législative (1791-1792)"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_823840"
+
+[[text]]
+file = "projetdedecretre00cout.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "projetdedecretre00cout.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "projetdedecretre00cout.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "projetdedecretre00cout.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

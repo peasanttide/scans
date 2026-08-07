@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "pouvoirs00drom"
+type = "pamphlet"
+title = "Pouvoirs"
+language = "fr"
+place = "s.l."
+date = "1792"
+note = "Caption title. Without imprint. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages."
+url = "https://archive.org/details/pouvoirs00drom"
+subject = [
+    "Vaucluse (France : Department)",
+    "Louvese (France)",
+]
+extent = "3 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9766"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6741wk6n"
+internet_archive = "pouvoirs00drom"
+openlibrary_edition = "OL26223449M"
+openlibrary_work = "OL17618912W"
+
+[scan]
+file = "pouvoirs00drom.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/pouvoirs00drom"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Drôme (France)"
+role = "author"
+
+[[resp]]
+name = "Bouches-du-Rhône (France)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_68419"
+
+[[text]]
+file = "pouvoirs00drom.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "pouvoirs00drom.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "pouvoirs00drom.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "pouvoirs00drom.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

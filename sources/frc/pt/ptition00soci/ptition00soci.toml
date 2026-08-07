@@ -1,0 +1,83 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "ptition00soci"
+type = "pamphlet"
+title = "Pétition /"
+language = "fr"
+place = "A Paris"
+date = "1791"
+note = "Caption title. Imprint from colophon. At lower left on p.[1]: Procès-verbal. No.539. Addressed to the Assemblée nationale. About the fate of the explorer Jean François Lapérouse. Martin & Walter IV 2: 13723. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on cover page. Damaged, stained and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/ptition00soci"
+subject = [
+    "La Pérouse, Jean-François de Galaup, comte de, 1741-1788",
+    "Explorers",
+]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 6782"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t46q71z13"
+internet_archive = "ptition00soci"
+openlibrary_edition = "OL26217699M"
+openlibrary_work = "OL17613424W"
+
+[scan]
+file = "ptition00soci.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/ptition00soci"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Société d'histoire naturelle de Paris"
+role = "author"
+
+[[resp]]
+name = "Société d'histoire naturelle de Paris"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "Chez Baudouin"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_61126"
+
+[[text]]
+file = "ptition00soci.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ptition00soci.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ptition00soci.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ptition00soci.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

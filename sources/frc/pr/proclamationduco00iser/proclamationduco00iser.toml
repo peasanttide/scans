@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "proclamationduco00iser"
+type = "pamphlet"
+title = "Proclamation du conseil permanent du département de l'Isere, aux municipalités de son ressort, pour l'exécution de la loi du vingt-deux juillet, & celles du vingt-cinq du même mois, & la réquisition de M. Montesquiou, général de l'armée du Midi"
+language = "fr"
+place = "A Grenoble"
+date = "1792"
+note = "Caption title. Imprint from colophon. Dated at end: Le 10 août 1792, l'an 4e. de la liberté. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.   Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages."
+url = "https://archive.org/details/proclamationduco00iser"
+subject = [
+    "France. Armée. Garde nationale",
+    "Military service, Voluntary",
+    "First Coalition, War of the, 1792-1797",
+]
+extent = "4 p. ; 24 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9874 no. 14"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t17m5d81c"
+internet_archive = "proclamationduco00iser"
+openlibrary_edition = "OL26223982M"
+openlibrary_work = "OL17619438W"
+
+[scan]
+file = "proclamationduco00iser.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/proclamationduco00iser"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Isère (France)"
+role = "author"
+
+[[resp]]
+name = "Cuchet, Joseph-Marie, 1760-1808"
+role = "publisher"
+
+[[resp]]
+name = "Chez J.M. Cuchet, imprimeur de la ville"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_855806"
+
+[[text]]
+file = "proclamationduco00iser.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "proclamationduco00iser.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "proclamationduco00iser.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "proclamationduco00iser.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

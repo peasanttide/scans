@@ -1,0 +1,83 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "proclamationdela00lyon"
+type = "pamphlet"
+title = "Proclamation de la municipalité de Lyon : extrait de la délibération du conseil général de la commune de Lyon : du 13 mars 1792"
+language = "fr"
+place = "A Lyon"
+date = "1792"
+note = "Caption title. Signed, p. 3: Champagneux. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages."
+url = "https://archive.org/details/proclamationdela00lyon"
+subject = [
+    "Spectators",
+    "Theaters",
+]
+extent = "4 p. ; 25 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9938 no. 17"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4jm7cw4v"
+internet_archive = "proclamationdela00lyon"
+openlibrary_edition = "OL26223698M"
+openlibrary_work = "OL17619153W"
+
+[scan]
+file = "proclamationdela00lyon.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/proclamationdela00lyon"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Lyon (France). Conseil général"
+role = "author"
+
+[[resp]]
+name = "Donin de Rosière de Champagneux, Luc-Antoine, 1744-1807"
+role = "author"
+
+[[resp]]
+name = "Le Roy, Amable"
+role = "publisher"
+
+[[resp]]
+name = "De l'imprimerie d'Amable Le Roy, place St. Jean"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_854550"
+
+[[text]]
+file = "proclamationdela00lyon.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "proclamationdela00lyon.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "proclamationdela00lyon.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "proclamationdela00lyon.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

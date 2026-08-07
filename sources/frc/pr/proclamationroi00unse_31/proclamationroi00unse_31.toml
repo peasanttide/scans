@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "proclamationroi00unse_31"
+type = "pamphlet"
+title = "Proclamation du roi, du 12 novembre 1791"
+language = "fr"
+place = "A Chaalons"
+date = "1791"
+note = """Caption title. At head of title: La loi et le roi. "Signé Louis. Et plus bas, Delessart"--P. 4. Imprint from colophon. Not in Martin & Walter. Révolution française. Variant of BM, LXXVII, column 238. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages."""
+url = "https://archive.org/details/proclamationroi00unse_31"
+extent = "4 p. ; 25 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10143 no. 29"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5bc93b82"
+internet_archive = "proclamationroi00unse_31"
+openlibrary_edition = "OL26223084M"
+openlibrary_work = "OL17618545W"
+
+[scan]
+file = "proclamationroi00unse_31.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/proclamationroi00unse_31"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Sovereign (1774-1792 : Louis XVI)"
+role = "author"
+
+[[resp]]
+name = "Louis XVI, King of France, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "Lessart, Claude-Antoine Valdec de, 1741 or 1742-1792"
+role = "author"
+
+[[resp]]
+name = "Chez Collignon, imprimeur du département de la Marne, grand'rue"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_855147"
+
+[[text]]
+file = "proclamationroi00unse_31.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "proclamationroi00unse_31.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "proclamationroi00unse_31.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "proclamationroi00unse_31.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

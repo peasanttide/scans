@@ -1,0 +1,81 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "petitionauconsei00tall"
+type = "pamphlet"
+title = "Pétition au Conseil des cinq-cents."
+language = "fr"
+place = "France"
+date = "1795"
+note = "Caption title. Signed: Thomassin. Suggested date of publication from BM. BM. Martin & Walter. Révolution française. Monogram stamp: SDL. Bibliography: BM,  CCXXXVII, column 895. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover. Skewed text. Damaged, stained and/or loose pages."
+url = "https://archive.org/details/petitionauconsei00tall"
+subject = [
+    "France. Corps législatif (1795-1814). Conseil des cinq-cents",
+    "Government publications",
+]
+extent = "3 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 25714"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2v462f4b"
+internet_archive = "petitionauconsei00tall"
+
+[scan]
+file = "petitionauconsei00tall.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/petitionauconsei00tall"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Tallien, Jean-Lambert, 1767-2013"
+role = "author"
+
+[[resp]]
+name = "Thomassin"
+role = "author"
+
+[[resp]]
+name = "France. Corps législatif (1795-1814). Conseil des cinq-cents"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_860221"
+
+[[text]]
+file = "petitionauconsei00tall.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "petitionauconsei00tall.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "petitionauconsei00tall.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "petitionauconsei00tall.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

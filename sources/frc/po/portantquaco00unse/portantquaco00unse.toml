@@ -1,0 +1,67 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "portantquaco00unse"
+type = "pamphlet"
+title = "Loi portant qu'à compter du premier nivôse, les pensions accordées par la République seront payées par les payeurs établis dans les départemens : du 11 fructidor, an troisième de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1795"
+note = """Caption title. At head of title: (No. 521.*). At right of title: B. no. 175. D. 1055. "La Convention nationale ... décrète ..."--P. [1]. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/portantquaco00unse"
+subject = [
+    "Pensions",
+    "Finance, Public",
+]
+extent = "2 p. ; 28 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10346 no. 144"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t03z3dn5d"
+internet_archive = "portantquaco00unse"
+openlibrary_edition = "OL26230690M"
+openlibrary_work = "OL17625667W"
+
+[scan]
+file = "portantquaco00unse.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/portantquaco00unse"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Depot des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_861910"
+
+[[text]]
+file = "portantquaco00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "portantquaco00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

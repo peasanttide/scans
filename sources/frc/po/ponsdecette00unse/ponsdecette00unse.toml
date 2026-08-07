@@ -1,0 +1,73 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "ponsdecette00unse"
+type = "pamphlet"
+title = "Pons, de cette, departement de l'Hérault, au directeur Barras."
+language = "fr"
+place = "France"
+date = "1798"
+note = "Caption title. At head of title: Paris, le 16 prairial, l'an 6 de la République française. Signed: Pons, cadet. Martin & Walter. Révolution française. On the dismissal of the department's administration. Bibliography: Martin & Walter.  Révolution française,  IV:1, 27785. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined.  Damaged, stained, marked and/or loose pages.  Uneven binding.  Skewed text."
+url = "https://archive.org/details/ponsdecette00unse"
+subject = [
+    "Representative government and representation",
+    "Central-local government relations",
+]
+extent = "4 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 23875"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t80k7nt3k"
+internet_archive = "ponsdecette00unse"
+
+[scan]
+file = "ponsdecette00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/ponsdecette00unse"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Pons, André, 1772-1853"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_848685"
+
+[[text]]
+file = "ponsdecette00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ponsdecette00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ponsdecette00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ponsdecette00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

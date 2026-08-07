@@ -1,0 +1,101 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "prospectus00blin"
+type = "pamphlet"
+title = "Prospectus"
+language = "fr"
+place = "Paris?"
+date = "1786"
+note = """Caption title. "On se fait inscrire chez Blin, maître imprimeur en taille-douce, place Maubert, no. 17, vis-à-vis la rue des Trois-Portes, à Paris"--P. 4. "Permis d'imprimer, le 5 septembre 1786"--P. 4. "Chaque livraison, composée de quatre estampes, savoir, deux portraits & deux actions, se payera 8 liv. pour les souscripteurs à Paris, & 9 liv. pour la province, port franc."--P. 3. Scanner's note: No copyright found.  No table of contents found.  Damaged, stained pages and cover.  <br />."""
+url = "https://archive.org/details/prospectus00blin"
+subject = [
+    "Blin, Pierre, printer",
+    "Booksellers and bookselling",
+    "Illustrated books",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1a no. 16"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3vt7bc5s"
+internet_archive = "prospectus00blin"
+
+[scan]
+file = "prospectus00blin.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/prospectus00blin"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "Blin, Pierre,printer"
+role = "author"
+
+[[resp]]
+name = "Blin, Pierre"
+role = "printer"
+
+[[resp]]
+name = "Blin, Pierre, printer. Portraits des grands hommes, femmes illustres, et sujets mémorables de France"
+role = "author"
+
+[[resp]]
+name = "Blin?"
+role = "publisher"
+
+[[text]]
+file = "prospectus00blin.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectus00blin.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectus00blin.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectus00blin.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectus00blin.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectus00blin.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectus00blin.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectus00blin.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

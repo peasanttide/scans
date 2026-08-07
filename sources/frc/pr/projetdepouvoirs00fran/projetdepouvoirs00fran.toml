@@ -1,0 +1,71 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "projetdepouvoirs00fran"
+type = "pamphlet"
+title = "Projet de pouvoirs : à donner aux députés à la Convention nationale ; proposé aux assemblées primaires."
+language = "fr"
+place = "A Marseille"
+date = "1792"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on the cover page. Uneven binding. Skewed text. Damaged, stained, and/or loose pages."
+url = "https://archive.org/details/projetdepouvoirs00fran"
+extent = "4 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 7228"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t85j2n40g"
+internet_archive = "projetdepouvoirs00fran"
+openlibrary_edition = "OL26220810M"
+openlibrary_work = "OL17616395W"
+
+[scan]
+file = "projetdepouvoirs00fran.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/projetdepouvoirs00fran"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie d'Auguste Mossy"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_61737"
+
+[[text]]
+file = "projetdepouvoirs00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "projetdepouvoirs00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "projetdepouvoirs00fran.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "projetdepouvoirs00fran.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

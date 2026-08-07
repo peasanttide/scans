@@ -1,0 +1,69 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "proclamation00mont_2"
+type = "pamphlet"
+title = "Proclamation /"
+language = "fr"
+place = "Montauban"
+date = "1790"
+note = "Caption title. Imprint from colophon. About the aftermath of the massacre at Montauban, 10 May 1790. Martin & Walter IV 2: 10221. Scanner's note: No copyright page found. No table-of-contents pages found.  Title and cover page are combined. Skewed text. Uneven binding. Damaged, stained and/or loose pages."
+url = "https://archive.org/details/proclamation00mont_2"
+extent = "4 p. ; 23 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 5607"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t48q13f8x"
+internet_archive = "proclamation00mont_2"
+
+[scan]
+file = "proclamation00mont_2.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/proclamation00mont_2"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Montauban (France)"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Vincent Teulieres"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_59078"
+
+[[text]]
+file = "proclamation00mont_2.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "proclamation00mont_2.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "proclamation00mont_2.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "proclamation00mont_2.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

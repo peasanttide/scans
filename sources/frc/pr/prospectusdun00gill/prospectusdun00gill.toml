@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "prospectusdun00gill"
+type = "pamphlet"
+title = "Prospectus d'un nouveau manuel typographique, ou traité des moyens mécaniques qui concourent à la confection physique des livres"
+language = "fr"
+place = "Paris"
+date = "1806"
+note = """Caption title. Proposed work never published? Printer statement from colophon. "Nota. Je publierai sous peu les conditions de la souscription"--P. 4. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Title page and cover are combined."""
+url = "https://archive.org/details/prospectusdun00gill"
+subject = [
+    "Gillé, Joseph-Gaspard, d. 1826",
+    "Booksellers and bookselling",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1c no. 33"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2d850x57"
+internet_archive = "prospectusdun00gill"
+
+[scan]
+file = "prospectusdun00gill.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/prospectusdun00gill"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Gillé, Joseph-Gaspard,d. 1826"
+role = "author"
+
+[[resp]]
+name = "Gillé, Joseph-Gaspard, d. 1826"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Gillé, rue Jean-de-Beauvais, no. 28"
+role = "publisher"
+
+[[text]]
+file = "prospectusdun00gill.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectusdun00gill.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectusdun00gill.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectusdun00gill.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

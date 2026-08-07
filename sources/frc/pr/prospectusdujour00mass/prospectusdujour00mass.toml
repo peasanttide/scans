@@ -1,0 +1,97 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "prospectusdujour00mass"
+type = "pamphlet"
+title = "Prospectus du Journal des savans"
+language = "fr"
+place = "A Paris"
+date = "1791"
+note = """"Le prix sera toujours le même, 16 liv. pour Paris et 20 liv. 4 s. pour la province. On ne souscrira que pour l'année entiere ... Il sera imprimé à l'Imprimerie des sourds et muets ... On s'adressera, pour souscrire, à M. Masset, économe de cet établissement, dans l'ancienne maision claustrale des célestins, près l'Arsenal"--P. vj. Title vignette. "Bureau du Journal des savans, établi en 1665": p. vij-viij. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Title page and cover are combined.  Text extends off of the edge of the page.  Text lost in binding."""
+url = "https://archive.org/details/prospectusdujour00mass"
+subject = [
+    "Journal des savans",
+    "Booksellers and bookselling",
+    "Periodicals",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1d no. 61"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t25b5sp16"
+internet_archive = "prospectusdujour00mass"
+
+[scan]
+file = "prospectusdujour00mass.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/prospectusdujour00mass"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Masset"
+role = "bookseller"
+
+[[resp]]
+name = "Imprimerie des sourds-muets"
+role = "printer"
+
+[[resp]]
+name = "De l'Imprimerie des sourds et muets, dans l'ancienne maison claustrale des célestins, près l'Arsenal"
+role = "publisher"
+
+[[text]]
+file = "prospectusdujour00mass.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectusdujour00mass.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectusdujour00mass.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectusdujour00mass.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectusdujour00mass.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectusdujour00mass.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectusdujour00mass.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectusdujour00mass.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

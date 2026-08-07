@@ -1,0 +1,83 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "petitionfaitepar00arna"
+type = "pamphlet"
+title = "Pétition faite par Monsieur Honoré Arnavon, au Conseil-général de la commune."
+language = "fr"
+place = "A Marseille"
+date = "1790"
+note = "Caption title. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  I, 517. Scanner's note: No copyright page found. No table-of-contents pages found.  Skewed text.  Title is on the cover."
+url = "https://archive.org/details/petitionfaitepar00arna"
+subject = [
+    "Meat",
+    "Food supply",
+]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 13624"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1rg0f99g"
+internet_archive = "petitionfaitepar00arna"
+openlibrary_edition = "OL25920638M"
+openlibrary_work = "OL17343631W"
+
+[scan]
+file = "petitionfaitepar00arna.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/petitionfaitepar00arna"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Arnavon, Honoré, officier muncipal"
+role = "author"
+
+[[resp]]
+name = "Marseille (France). Conseil général"
+role = "author"
+
+[[resp]]
+name = "Mossy, Jean, d. 1792"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie de J. Mossy, père & fils, imprimeurs de la nation, du roi & de la ville"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_828559"
+
+[[text]]
+file = "petitionfaitepar00arna.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "petitionfaitepar00arna.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "petitionfaitepar00arna.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "petitionfaitepar00arna.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

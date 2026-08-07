@@ -1,0 +1,81 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "prospectusdelhis00debu"
+type = "pamphlet"
+title = "Prospectus de l'Histoire naturelle éclaircie dans une de ses parties principales, la conchyliologie"
+language = "fr"
+place = "Paris"
+date = "1772"
+note = """Prospectus for the third edition of Dézallier d'Argenville's "La conchyliologie, ou, Histoire naturelle des coquilles de mer, d'eau douce, terrestres et fossiles.". Caption title. "Troisieme édition, considérablement augmentée de descriptions et de figures en taille-douce ... par Mrs de Favanne pere et fils: 2 vol. in-4°, grand papier, proposés par souscription. A Paris, chez Debure pere, quai des Augustins. M.DCC.LXXII."--P. [1]. Imprint from colophon. Head- and tail-pieces. Includes prices. "Liste des planches de cette IIIe édition" on last page. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text.  Title page and cover are combined."""
+url = "https://archive.org/details/prospectusdelhis00debu"
+subject = [
+    "Dézallier d'Argenville, A.-J. (Antoine-Joseph), 1680-1765",
+    "Booksellers and bookselling",
+    "Science publishing",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1a no. 54"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4gn3wf0h"
+internet_archive = "prospectusdelhis00debu"
+
+[scan]
+file = "prospectusdelhis00debu.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/prospectusdelhis00debu"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Debure, Guillaume,1734-182"
+role = "author"
+
+[[resp]]
+name = "Debure, Guillaume, 1734-1820"
+role = "author"
+
+[[resp]]
+name = "Dézallier d'Argenville, A.-J. (Antoine-Joseph), 1680-1765. Conchyliologie"
+role = "author"
+
+[[resp]]
+name = "Houry, Laurent-Charles d', 1717?-1786"
+role = "printer"
+
+[[resp]]
+name = "De l'imprimerie de L.-C. d'Houry, rue de la Vieille-Bouclerie"
+role = "publisher"
+
+[[text]]
+file = "prospectusdelhis00debu.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectusdelhis00debu.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectusdelhis00debu.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectusdelhis00debu.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

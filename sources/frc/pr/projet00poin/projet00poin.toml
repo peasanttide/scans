@@ -1,0 +1,100 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "projet00poin"
+type = "pamphlet"
+title = "Projet"
+language = "fr"
+place = "A Paris"
+date = "1797"
+note = "Caption on p.[3]: [In a cartouche: Point central des arts et métiers séant au Louvre] Extrait du proc`es verbal de la Société du point- central des arts et metiers. Du 14 prairial an V [2 juin 1797]. Martin & Walter IV 2: 14722. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."
+url = "https://archive.org/details/projet00poin"
+subject = ["Panthéon (Paris, France)"]
+extent = "8 p. ; 28 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10151"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t88h3r51m"
+internet_archive = "projet00poin"
+openlibrary_edition = "OL26223546M"
+openlibrary_work = "OL17619011W"
+
+[scan]
+file = "projet00poin.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/projet00poin"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Point central des arts et métiers"
+role = "author"
+
+[[resp]]
+name = "Point central des arts et métiers"
+role = "author"
+
+[[resp]]
+name = "Chez Sobry ; Chez Gerome ; Chez Nouvion ; Chez la citoyenne Guyot ; Chez le portier du jardin de l'Infante an [i.e. au] Louvre"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_71233"
+
+[[text]]
+file = "projet00poin.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "projet00poin.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "projet00poin.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "projet00poin.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "projet00poin.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "projet00poin.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "projet00poin.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "projet00poin.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

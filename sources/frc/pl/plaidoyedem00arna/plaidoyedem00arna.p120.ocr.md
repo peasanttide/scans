@@ -1,0 +1,12 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: plaidoyedem00arna
+page: 120
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 2030
+h: 3460
+dpi: 300
+---
+
+Égarai I ni I

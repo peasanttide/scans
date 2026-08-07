@@ -1,0 +1,92 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "projetdeloi00unse_0"
+type = "pamphlet"
+title = "Projet de loi, sur les subsistances /"
+language = "fr"
+place = "Paris"
+date = "1793"
+note = """Caption title. At head of title: Convention nationale. Imprint from colophon. "Imprimé par ordre des Comités de commerce & d'agriculture"--P. [1]. "25 avril 1793"--Session date from Martin & Walter. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  III, 21389. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/projetdeloi00unse_0"
+subject = [
+    "Food supply",
+    "Grain trade",
+    "Agricultural laws and legislation",
+]
+extent = "4 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 21331"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7gr25f66"
+internet_archive = "projetdeloi00unse_0"
+openlibrary_edition = "OL26239683M"
+openlibrary_work = "OL17634223W"
+
+[scan]
+file = "projetdeloi00unse_0.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/projetdeloi00unse_0"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Levasseur, René, 1747-1834"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale. Comité de commerce et des approvisionnemens"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale. Comité d'agriculture"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_844447"
+
+[[text]]
+file = "projetdeloi00unse_0.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "projetdeloi00unse_0.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "projetdeloi00unse_0.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "projetdeloi00unse_0.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

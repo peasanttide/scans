@@ -1,0 +1,90 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "proclamationroi00unse_38"
+type = "pamphlet"
+title = "Proclamation du roi, concernant les observations & expériences à faire par les commissaires de l'Académie des sciences, pour l'exécution de la loi du 22 août 1790, qui a ordonné l'uniformité des poids & mésures : du 10 juin 1792, l'an 4e. de la liberté"
+language = "fr"
+place = "A Paris"
+date = "1792"
+note = """Caption title. "Signé Louis. Et plus bas Roland"--P. 3. Imprint from colophon. Not in Martin & Walter. Révolution française. BM. Bibliography: BM, LXXVII, column 241. Scanner's note: No title page found. No copyright page found. Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages."""
+url = "https://archive.org/details/proclamationroi00unse_38"
+subject = [
+    "Méchain, Pierre, 1744-1804",
+    "Delambre, J. B. J. (Jean Baptiste Joseph), 1749-1822",
+    "Meridians (Geodesy)",
+    "Scientific expeditions",
+    "Weights and measures",
+]
+extent = "3 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10143 no. 36"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6353rz4t"
+internet_archive = "proclamationroi00unse_38"
+openlibrary_edition = "OL26222783M"
+openlibrary_work = "OL17618254W"
+
+[scan]
+file = "proclamationroi00unse_38.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/proclamationroi00unse_38"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Sovereign (1774-1792 : Louis XVI)"
+role = "author"
+
+[[resp]]
+name = "Louis XVI, King of France, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "Roland de La Platière, Jean-Marie, 1734-1793"
+role = "author"
+
+[[resp]]
+name = "Imprimerie royale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie royale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_855154"
+
+[[text]]
+file = "proclamationroi00unse_38.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "proclamationroi00unse_38.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "proclamationroi00unse_38.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "proclamationroi00unse_38.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

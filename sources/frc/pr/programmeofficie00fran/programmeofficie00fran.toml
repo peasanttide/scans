@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "programmeofficie00fran"
+type = "pamphlet"
+title = "Programme officiel : de la cérémonie du Te Deum ; qui sera chanté le 28 germinal an 10 [18 avril 1802], dans l'Église métropolitaine de Notre-Dame."
+language = "fr"
+place = "Paris"
+date = "1802"
+note = "Caption title. Imprint from colophon. Opening words: A six heures, du matin, le premier consul promulgera la loi sur les cultes .. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on cover page. Damaged, stained and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/programmeofficie00fran"
+subject = [
+    "Catholic Church",
+    "Church and state",
+    "Festivals",
+]
+extent = "4 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 7189"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1fj7k61g"
+internet_archive = "programmeofficie00fran"
+openlibrary_edition = "OL26220843M"
+openlibrary_work = "OL17616428W"
+
+[scan]
+file = "programmeofficie00fran.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/programmeofficie00fran"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Consulat (1799-1804)"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_61413"
+
+[[text]]
+file = "programmeofficie00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "programmeofficie00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "programmeofficie00fran.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "programmeofficie00fran.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

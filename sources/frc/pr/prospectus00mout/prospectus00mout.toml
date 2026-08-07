@@ -1,0 +1,106 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "prospectus00mout"
+type = "pamphlet"
+title = "Prospectus"
+language = "fr"
+place = "Paris"
+date = "1774"
+note = """Prospectus for Philippe Louis Gérard's "Comte de Valmont". Caption title. "Chez Moutard, libraire de Madame la Dauphine, rue du Hurepoix, à Saint Ambroise"--P. [1]. Imprint from colophon. "Permis d'imprimer, ce 17 avril 1774"--P. 4. "Trois volumes in 12, avec dix figures en taille-douce, dédiés a Madame la Dauphine"--P. [1]. Bookseller's catalog with prices on p. 4. Scanner's note: No copyright found.  No table of contents found.  Damaged, stained pages and cover.  <br />."""
+url = "https://archive.org/details/prospectus00mout"
+subject = [
+    "Gérard, Philippe Louis, 1737-1813",
+    "Moutard, Nicolas-Léger, b. 1742?",
+    "Booksellers and bookselling",
+    "Epistolary fiction",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1a no. 118"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3228kx7g"
+internet_archive = "prospectus00mout"
+
+[scan]
+file = "prospectus00mout.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/prospectus00mout"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "Moutard, Nicolas-Léger,b. 1742?"
+role = "author"
+
+[[resp]]
+name = "Moutard, Nicolas-Léger, b. 1742?"
+role = "author"
+
+[[resp]]
+name = "Gérard, Philippe Louis, 1737-1813. Comte de Valmont"
+role = "author"
+
+[[resp]]
+name = "Gueffier, Pierre-François, d. 1803?"
+role = "printer"
+
+[[resp]]
+name = "De l'imprimerie de Gueffier, au bas de la rue de la Harpe"
+role = "publisher"
+
+[[text]]
+file = "prospectus00mout.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectus00mout.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectus00mout.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectus00mout.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectus00mout.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectus00mout.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectus00mout.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectus00mout.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

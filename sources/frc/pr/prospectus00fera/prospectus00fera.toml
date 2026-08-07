@@ -1,0 +1,97 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "prospectus00fera"
+type = "pamphlet"
+title = "Prospectus"
+language = "fr"
+place = "Paris"
+date = "1790"
+note = """Prospectus for a collection of maps by Férat of the departments of France. Caption title. Printer statement and date of publication from colophon. "On recevra le prix des souscriptions, place Vendôme, n° 4, au vestibule, lieu où le sieur Ferat est occupé depuis le premier janvier dernier"--P. 4. Includes prices. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Title page and cover are combined."""
+url = "https://archive.org/details/prospectus00fera"
+subject = [
+    "Férat, Pierre Sebastien",
+    "Booksellers and bookselling",
+    "Map publishing",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1c no. 28"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9w14rh7d"
+internet_archive = "prospectus00fera"
+
+[scan]
+file = "prospectus00fera.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/prospectus00fera"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Férat, Pierre Sebastien"
+role = "author"
+
+[[resp]]
+name = "Hérissant, Marie-Nicole, -1798"
+role = "printer"
+
+[[resp]]
+name = "De l'impr. de la Ve Herissant, rue N. Notre-Dame"
+role = "publisher"
+
+[[text]]
+file = "prospectus00fera.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectus00fera.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectus00fera.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectus00fera.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectus00fera.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectus00fera.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectus00fera.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectus00fera.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

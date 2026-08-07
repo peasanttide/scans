@@ -1,0 +1,96 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "projetdunsupp00fran"
+type = "pamphlet"
+title = "Projet d'un supplément à la Collection des conciles du pere Labbe"
+language = "fr"
+place = "A Paris"
+date = "1730"
+note = """Prospectus for a supplement to "Sacrosancta concilia ad legiam editionem exacta," Philippe Labbe and Gabriel Cossart's compilation of the councils of the Catholic Church. Proposed edition never published? Caption title. Also published in Latin under title: Monitum de supplemento Collectionis Labbeanae conciliorum. Head-piece. "On imprimera ce supplément de même forme, grandeur & caractère que les Conciles du P. Labbe, & on n'en tirera qu'un petit nombre d'exemplaires, sur le prix desquels on accordera un benefice à ceux qui en retiendront par avance. On n'en imprimera aucun en grand papier que pour ceux qui les demanderont"--P. 2. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained, marked and/or loose pages. Uneven binding. Skewed text. Irregular pagination."""
+url = "https://archive.org/details/projetdunsupp00fran"
+subject = [
+    "Catholic Church",
+    "Booksellers and bookselling",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1b no. 7"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5r841g5c"
+internet_archive = "projetdunsupp00fran"
+
+[scan]
+file = "projetdunsupp00fran.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/projetdunsupp00fran"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Labbe, Philippe, 1607-1667"
+role = "author"
+
+[[resp]]
+name = "Cossart, Gabriel, 1615-1674"
+role = "author"
+
+[[resp]]
+name = "Briasson, Antoine-Claude, 1700-1775"
+role = "bookseller"
+
+[[resp]]
+name = "Fabri & Barrillot"
+role = "bookseller"
+
+[[resp]]
+name = "Catholic Church. Sacrosancta concilia ad legiam editionem exacta"
+role = "author"
+
+[[resp]]
+name = "Chez Briasson, libraire, ruë S. Jacques, à la Science, et a Geneve, chez Fabri & Barrillot"
+role = "publisher"
+
+[[text]]
+file = "projetdunsupp00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "projetdunsupp00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "projetdunsupp00fran.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "projetdunsupp00fran.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "projetdunsupp00fran.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "projetdunsupp00fran.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

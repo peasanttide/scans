@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "prierelassemblen00fran"
+type = "pamphlet"
+title = "Priere a l'Assemblée nationale : pour les entrepreneurs de bâtimens, ouvriers & fournisseurs des bâtimens du roi & de la reine."
+language = "fr"
+place = "Paris"
+date = "1790"
+note = "Caption title. Imprint from colophon. Martin & Walter IV 2: 14371. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover."
+url = "https://archive.org/details/prierelassemblen00fran"
+subject = ["Shipbuilding"]
+extent = "4 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 7060"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2t48rn6q"
+internet_archive = "prierelassemblen00fran"
+openlibrary_edition = "OL26213446M"
+openlibrary_work = "OL17609423W"
+
+[scan]
+file = "prierelassemblen00fran.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/prierelassemblen00fran"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de N.H. Nyon"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_62161"
+
+[[text]]
+file = "prierelassemblen00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prierelassemblen00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prierelassemblen00fran.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prierelassemblen00fran.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

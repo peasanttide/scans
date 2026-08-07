@@ -1,0 +1,83 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "pournotrenouveau00chom"
+type = "pamphlet"
+title = "Pour notre nouveau tribunal : a l'assemblée patriotique de Marseille."
+language = "fr"
+place = "A Marseille"
+date = "1790"
+note = "Caption title. Signed: A Marseille, le 22 novembre, l'an second de la liberté. E. Chompré, officier municipal. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover page. Skewed text. Uneven binding. Damaged, stained, marked and/or loose pages."
+url = "https://archive.org/details/pournotrenouveau00chom"
+subject = [
+    "Justice, Administration of",
+    "Judges",
+]
+extent = "4 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 16276"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t59d1zr5b"
+internet_archive = "pournotrenouveau00chom"
+openlibrary_edition = "OL26206318M"
+openlibrary_work = "OL17602613W"
+
+[scan]
+file = "pournotrenouveau00chom.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/pournotrenouveau00chom"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Chompré, Etienne, 1741-1811"
+role = "author"
+
+[[resp]]
+name = "Marseille (France). Assemblée patriotique"
+role = "author"
+
+[[resp]]
+name = "Mossy, Jean, d. 1792"
+role = "publisher"
+
+[[resp]]
+name = "De l'imprimerie de J. Mossy, père & fils, imprimeurs de la nation & du Roi"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_833977"
+
+[[text]]
+file = "pournotrenouveau00chom.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "pournotrenouveau00chom.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "pournotrenouveau00chom.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "pournotrenouveau00chom.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

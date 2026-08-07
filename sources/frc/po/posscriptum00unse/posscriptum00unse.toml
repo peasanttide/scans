@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "posscriptum00unse"
+type = "pamphlet"
+title = "Post-scriptum au rapport fait au nom du Comité de la marine, le 27 juillet 1790 /"
+language = "fr"
+place = "A Paris"
+date = "1790"
+note = "Caption title. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  III, 22710. Scanner's note: Title page and cover are combined. Damaged, stained, marked and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/posscriptum00unse"
+subject = [
+    "Gaultier de Biauzat, Jean-François, 1739-1815",
+    "France. Assemblée nationale constituante (1789-1791). Comité de la marine",
+    "France. Marine",
+]
+extent = "4 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 21908"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t49p89k4w"
+internet_archive = "posscriptum00unse"
+openlibrary_edition = "OL26240081M"
+openlibrary_work = "OL17634604W"
+
+[scan]
+file = "posscriptum00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/posscriptum00unse"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Malouet, Pierre-Victor, baron, 1740-1814"
+role = "author"
+
+[[resp]]
+name = "Malouet, Pierre-Victor, baron, 1740-1814. Rapport fait à l'Assemblée nationale, au nom du Comité de la marine, par M. Malouet, dans la séance du 27 juillet"
+role = "author"
+
+[[resp]]
+name = "Chez Baudouin, imprimeur de l'Assemblée nationale, rue du Foin S. Jacques, no. 31"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_845587"
+
+[[text]]
+file = "posscriptum00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "posscriptum00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "posscriptum00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "posscriptum00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

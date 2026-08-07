@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "procsverbaldutra00fran"
+type = "pamphlet"
+title = "Procès-verbal : du transport de l'oriflamme de l'Armée françoise a la salle de l'Assemblée nationale."
+language = "fr"
+place = "A Paris"
+date = "1790"
+note = "Caption title. Imprint from colophon. At lower left on p.[1]: Procès-verb. No.350. Opening words: Le quatorze juillet, mil sept cent quatre-vingt-dix, après la cérémonie de la Fédération .. Dated at end: A Paris, le 15 juillet 1790. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Skewed text. Uneven binding. Damaged, stained, and/or loose pages.  Faint text."
+url = "https://archive.org/details/procsverbaldutra00fran"
+subject = [
+    "France. Armée",
+    "Bastille Day",
+]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 891"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2s51pz7s"
+internet_archive = "procsverbaldutra00fran"
+openlibrary_edition = "OL26207446M"
+openlibrary_work = "OL17603720W"
+
+[scan]
+file = "procsverbaldutra00fran.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/procsverbaldutra00fran"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "Chez Baudouin"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_40111"
+
+[[text]]
+file = "procsverbaldutra00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "procsverbaldutra00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "procsverbaldutra00fran.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "procsverbaldutra00fran.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

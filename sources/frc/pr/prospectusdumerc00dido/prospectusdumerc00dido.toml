@@ -1,0 +1,97 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "prospectusdumerc00dido"
+type = "pamphlet"
+title = "Prospectus du Mercure de France"
+language = "fr"
+place = "Paris?"
+date = "1800"
+note = """Prospectus for "Mercure de France, littéraire et politique," published 1800-1805. Caption title. "On souscrit a Paris, chez P.N.F. Didot le jeune, imprimeur-libraire, quai des Augustins, n°. 22; chez tous les libraires des principales villes de France et de l'etranger; et chez tous les directeurs de la poste aux lettres"--P. 3. "Le prix de la souscription ... est de 36 francs par l'année, 18 fr. pour six mois, et 9 fr. pour trois mois"--P. 3. Ms. annotations. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Title page and cover are combined."""
+url = "https://archive.org/details/prospectusdumerc00dido"
+subject = [
+    "Mercure de France, littéraire et politique",
+    "Booksellers and bookselling",
+    "Periodicals",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1d no. 83"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t85j36w5r"
+internet_archive = "prospectusdumerc00dido"
+
+[scan]
+file = "prospectusdumerc00dido.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/prospectusdumerc00dido"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Didot, Pierre-Nicolas-Firmin,1769-1836"
+role = "author"
+
+[[resp]]
+name = "Didot, Pierre-Nicolas-Firmin, 1769-1836"
+role = "author"
+
+[[resp]]
+name = "P.N.F. Didot?"
+role = "publisher"
+
+[[text]]
+file = "prospectusdumerc00dido.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectusdumerc00dido.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectusdumerc00dido.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectusdumerc00dido.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectusdumerc00dido.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectusdumerc00dido.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectusdumerc00dido.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectusdumerc00dido.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

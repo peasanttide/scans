@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "paralleleentrele00loui"
+type = "pamphlet"
+title = "Parallèle entre le bail à ferme et celui à domaine congéable."
+language = "fr"
+place = "Paris?"
+date = "1795"
+note = """Caption title. Place of publication from BM. "Il serait peut-être à desirer que le Conseil des 500 prit la résolution suivante ... "--P. 4. Not in Martin & Walter. Révolution française. BN. BM. Bibliography: BN,  C, column 723. Scanner's note: No Copyright found. No Table of Contents found. Title on cover page. Damaged, stained pages and cover. <br /><br />."""
+url = "https://archive.org/details/paralleleentrele00loui"
+subject = [
+    "Land tenure",
+    "Bailments",
+    "Farm tenancy",
+    "Landlord and tenant",
+]
+extent = "4 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 21645"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6062t77q"
+internet_archive = "paralleleentrele00loui"
+
+[scan]
+file = "paralleleentrele00loui.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/paralleleentrele00loui"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "Louis, homme de loi"
+role = "author"
+
+[[resp]]
+name = "France. Corps législatif (1795-1814). Conseil des cinq-cents"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_844644"
+
+[[text]]
+file = "paralleleentrele00loui.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "paralleleentrele00loui.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "paralleleentrele00loui.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "paralleleentrele00loui.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

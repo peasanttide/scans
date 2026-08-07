@@ -1,0 +1,63 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: portantquele00unse
+page: 1
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 3105
+h: 4003
+dpi: 350
+---
+
+( N.’’ 565. * )
+
+L O I
+
+B. n.'^ i8r.
+
+1). n.” J i TJ,
+
+Portant que Les pere^ fils y/t'ère ^ oncle ^ neveu et époux des enugrés ,
+les alliés au même degré , les ministres du culte insermentés , etc.
+ne pourront continuer d'exercer des fonctions publiques.
+
+Du 5.® jour complémentaire , an troisième de la République française , une et in<iivisib:e.
+
+Ti A Convention nationale, après avoir entendu le rapport de son comité de
+
+législation , décrète ce cpui suit ;
+
+/
+
+Article premier.
+
+Les père, fils, frère, oncle, neveu et époux des émigré.s , les allié.s au même
+degré, les ministres du culte insersiientéi , ceux qui, ayant prêté les serniens or-
+donnés , les ont rétractés ou modifiés, cesseront , dès la pubJicaiion du présent
+décret, à peine de forfaiture et de faux , toutes fonctions administratives, niuru-
+cipales et judiciaires , ensemble toutes fonctions , comme commissaires, agen.s ou
+s)us-agens employés dans les -commissions exécutives et dans les comités de !a
+Convention, sans C|ue ni les uns ai les autres puissent les continuer sous piétc.xte
+du défaut de remplacement.
+
+IT. La disposition de l’article précédent est applicable aux coramandans de
+garde nationale sédentaire.
+
+IIL I.a disposition des articles précédons ne s’applique point aux parens de ceux
+qui, sans être définitivement rayés de la liste des émigrés, se trouvent compris
+dans les arrêtés des administrations de district et de département qui ont donné
+leur avis pour la radiation.
+
+IV. Les juges et commissaires nationaux et accusateurs publics sortant par
+par l’effet du présent décret , seront remplacés par les suppiéans; et à leur défaut,
+par ceux que les juges restans choisiront.
+
+Les juges de paix seront remplacés par les directoires de district.
+
+Les administrateurs, procureurs-généraux, procureurs-syndics , léseront par
+les représentans du peuple en mission; sinon, et en leur absence du lieu, par
+les membres restans.
+
+C h.
+
+'V;

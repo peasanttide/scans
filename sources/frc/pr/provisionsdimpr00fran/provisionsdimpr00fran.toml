@@ -1,0 +1,56 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "provisionsdimpr00fran"
+type = "pamphlet"
+title = "Provisions d'imprimeur du roi, pour Jean Fleuriau"
+language = "fr"
+date = "1652"
+note = """Caption title. Appointing Fleuriau "imprimeur ordinaire du roi". Imperfect? t.-p. wanting? Scanner's note: No title page found. No copyright page found. No table-of-contents pages found."""
+url = "https://archive.org/details/provisionsdimpr00fran"
+subject = ["Fleuriau, Jean, fl. 1660"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 1 no. 57"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9382zv5x"
+internet_archive = "provisionsdimpr00fran"
+
+[scan]
+file = "provisionsdimpr00fran.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/provisionsdimpr00fran"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Sovereign (1643-1715 : Louis XIV)"
+role = "author"
+
+[[resp]]
+name = "France. Sovereign (1643-1715 : Louis XIV)"
+role = "author"
+
+[[resp]]
+name = "[Paris"
+role = "publisher"
+
+[[text]]
+file = "provisionsdimpr00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "provisionsdimpr00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,81 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "prospectus00hess"
+type = "pamphlet"
+title = "Prospectus"
+language = "fr"
+place = "A Paris"
+date = "1779"
+note = """Probably a prospectus for Robert de Hesseln's "Nouvelle topographie, ou, Description détaillée de la France". "On souscrit au Bureau topographique, cour des Prémontrés, rue Haute-Feuille.". Printer's monogram device on t.p. "Les souscripteurs payeront 3 liv. 12 sols pour chaque carte ou plan topographique, accompagné du discours in folio ... Ceux qui n'auront pas souscrit paieront 6 liv. pour chacun des plans ou cartes, accompagné du discours explicatif"--P. [4]. Plan général de la Nouvelle topographie, ou, Description détaillée de la France -- Conditions -- Modèle de souscription -- Avis intéressant. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Title page and cover are combined."""
+url = "https://archive.org/details/prospectus00hess"
+subject = [
+    "Hesseln, Robert de",
+    "Booksellers and bookselling",
+    "Map publishing",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1a no. 97"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7pp4sc6p"
+internet_archive = "prospectus00hess"
+
+[scan]
+file = "prospectus00hess.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/prospectus00hess"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Hesseln, Robert de"
+role = "author"
+
+[[resp]]
+name = "Hesseln, Robert de. Nouvelle topographie"
+role = "author"
+
+[[resp]]
+name = "Baudeau, M. l'abbé (Nicolas), 1730-1792?"
+role = "author"
+
+[[resp]]
+name = "Lambert, Michel, 1722?-1787"
+role = "printer"
+
+[[resp]]
+name = "De l'imprimerie de Michel Lambert, rue de la Harpe, près S. Côme"
+role = "publisher"
+
+[[text]]
+file = "prospectus00hess.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectus00hess.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectus00hess.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectus00hess.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "projetdedecretre00camb"
+type = "pamphlet"
+title = "Projet de décret relatif à la comptabilité des récépissés de contributions acquittées en grains, en exécution des lois des 11 janvier & 23 août 1793 (vieux style)"
+language = "fr"
+date = "1793"
+note = 'Caption title. At head of title: Convention nationale. Imprint from colophon. "24 frimaire an II"--Session date from Martin & Walter. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,I, 5916.'
+url = "https://archive.org/details/projetdedecretre00camb"
+subject = [
+    "Agriculture",
+    "Tax collection",
+]
+extent = "3 p. ;19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "CaseFRC11034"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3dz38s55"
+internet_archive = "projetdedecretre00camb"
+
+[scan]
+file = "projetdedecretre00camb.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/projetdedecretre00camb"
+ppi = 650
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Cambon, Joseph,1756-1820"
+role = "author"
+
+[[resp]]
+name = "[Paris] :De l'Imprimerie nationale,"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_824174"
+
+[[text]]
+file = "projetdedecretre00camb.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "projetdedecretre00camb.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "projetdedecretre00camb.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "projetdedecretre00camb.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"

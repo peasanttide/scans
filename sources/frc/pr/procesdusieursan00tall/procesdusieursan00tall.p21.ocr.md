@@ -1,0 +1,50 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: procesdusieursan00tall
+page: 21
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 2943
+h: 4966
+dpi: 500
+---
+
+(
+
+[s* ]
+
+s» de Vincennes , et comme le corps municipal s’ea
+î» est chargé , je ne puis do-nner ni conseil , ni
+5> ordre à ce sujet, qu’après avoir pris les siens,
+j’ai fait passer votre lettre à M. de Gerville.
+
+J’ai l'honneur d’être , etc. Signé , Lafayette,,
+Voilà , messieurs , voilà le noyau de ce comité
+de surveillance , créé pour juger le sieur San-
+terre , et une partie des soldats de son détache-
+ment ; ce ridicule tribunal , qui d’abord a fait
+la terreur, puis la risée des patriotes; de ce tribu-
+nal mort né , dont les ennemis du sieur Santerre ^
+SC sont , comme par hasard , trouvés être membres'
+et former la majorité ; de ce tribunal reprouvé par
+la loi , et avili par l’opinion publique ; de ce tri-
+bunal enfin , où le sieur Santerre a paru avec la
+noble assurance que donne la vertu et l'honneur ,
+où il a toujours annoncé que son seul désir étoit
+que sa conduite fût connue , qu’elle fût jugée ,
+mais dans un tribunal compétent et autorisé par
+la loi.
+
+En effet, le sieur Santerre n’a jamais eu qu’un
+cri pour réclamer la ioi\ il n’a jamais manifesté
+qu’un vœu , il n’a jamais eu qu’un objet , celui de
+soumettre aux tribunaux , aux juges du peuple ,
+la cause de ses adversaires et la sienne.
+
+Il n’a pu être indifférent jà des imputations aussi
+atroces , qui ont compromis son honneur , sa
+fortune et sa vie ,... dès le lendemain il en auroit
+rendu plainte en justice , mais il a cru devoir en
+déférer à son bataillon , dont l’assemblée générale
+
+B 3

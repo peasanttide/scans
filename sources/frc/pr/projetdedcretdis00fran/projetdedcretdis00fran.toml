@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "projetdedcretdis00fran"
+type = "pamphlet"
+title = "Projet de décret : a discuter à la séance de l'Assemblée nationale, du 19 février 1790."
+language = "fr"
+place = "A Paris"
+date = "1790"
+note = "Caption title. Imprint from colophon. Martin & Walter IV 2: 1848 (which specifies: défense des propriétés et rentrée des impôts). Scanner's note: No title page found. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/projetdedcretdis00fran"
+subject = [
+    "Real property tax",
+    "Taxation",
+]
+extent = "4 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 937"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8vb35x0h"
+internet_archive = "projetdedcretdis00fran"
+openlibrary_edition = "OL26207146M"
+openlibrary_work = "OL17603410W"
+
+[scan]
+file = "projetdedcretdis00fran.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/projetdedcretdis00fran"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_40193"
+
+[[text]]
+file = "projetdedcretdis00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "projetdedcretdis00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "projetdedcretdis00fran.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "projetdedcretdis00fran.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

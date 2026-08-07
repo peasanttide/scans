@@ -1,0 +1,118 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "prospectus00peri"
+type = "pamphlet"
+title = "Prospectus"
+language = "fr"
+place = "Paris?"
+date = "1786"
+note = """Caption title. "Permis d'imprimer, ce 15 novembre 1786"--P. 8. "Le bureau du Journal des trois regnes est à Paris, chez Perisse, libraire, sur le pont Saint-Michel, au Soleil d'or, chez lequel on souscrira ... On pourra encore souscrire à Strasbourg chez Treutel, a Lyon chez les freres Perisse, rue Merciere, a Bordeaux chez les freres Chappuy, libraires. A Nismes chez M. Boyer-Brun, rue de la Trésorerie. A Turin chez Reycends, freres, a Milan chez les mêmes, a Lille en Flandres chez Jacquet, a Bruxelles chez Desjardin, a Berne chez Haller, libraires"--P. 7-8. "Le prix de l'abonnement est de vingt-sept livres, franc de port par-tout le royaume"--P. 7. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Text extends off of the edge of the page. Text may be lost in the binding. Permanent creases may obscure some text. Title page and cover are combined."""
+url = "https://archive.org/details/prospectus00peri"
+subject = [
+    "Nature considérée sous ses différens aspects",
+    "Booksellers and bookselling",
+    "Natural history literature",
+    "Periodicals",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1d no. 87"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5hb4t758"
+internet_archive = "prospectus00peri"
+
+[scan]
+file = "prospectus00peri.pdf"
+count = 14
+by = "Internet Archive"
+url = "https://archive.org/details/prospectus00peri"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Périsse, Louis"
+role = "bookseller"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[text]]
+file = "prospectus00peri.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectus00peri.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectus00peri.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectus00peri.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectus00peri.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectus00peri.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectus00peri.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectus00peri.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectus00peri.p9.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectus00peri.p10.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectus00peri.p11.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectus00peri.p12.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

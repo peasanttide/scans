@@ -1,0 +1,92 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "proclamationroi00unse_20"
+type = "pamphlet"
+title = "Proclamation du roi, sur le décret de l'Assemblée nationale, qui règle la forme du bouton uniforme des gardes nationales de France : du 21 septembre 1790"
+language = "fr"
+place = "A Paris"
+date = "1790"
+note = """Caption title. "Signé Louis. Et plus bas, par le roi, Guignard"--P. 2. Imprint from colophon. Not in Martin & Walter. Révolution française. BM. "Décret de l'Assemblée nationale, du 5 septembre 1790"--P. [1]-2. "Modèle du bouton uniforme des gardes nationales de France"--P. 2. Bibliography: BM, LXXVII, column 226. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages."""
+url = "https://archive.org/details/proclamationroi00unse_20"
+subject = [
+    "France. Armée. Garde nationale",
+    "Buttons",
+    "Clothing and dress",
+]
+extent = "2 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10143 no. 17"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t89h0s13c"
+internet_archive = "proclamationroi00unse_20"
+openlibrary_edition = "OL26222445M"
+openlibrary_work = "OL17617915W"
+
+[scan]
+file = "proclamationroi00unse_20.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/proclamationroi00unse_20"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Sovereign (1774-1792 : Louis XVI)"
+role = "author"
+
+[[resp]]
+name = "Louis XVI, King of France, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "Saint-Priest, François-Emmanuel Guignard, comte de, 1735-1821"
+role = "author"
+
+[[resp]]
+name = "Nyon, Nicolas-Henri, b. 1751?"
+role = "publisher"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de N.H. Nyon, rue Mignon Saint-André-des-Arts"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_855135"
+
+[[text]]
+file = "proclamationroi00unse_20.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "proclamationroi00unse_20.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "proclamationroi00unse_20.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "proclamationroi00unse_20.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

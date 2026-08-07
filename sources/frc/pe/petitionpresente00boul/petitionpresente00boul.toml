@@ -1,0 +1,83 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "petitionpresente00boul"
+type = "pamphlet"
+title = "Pétition presentée au Directoire exécutif, et au ministre des finances, par les acquéreurs du ci-devant château de Chantilly"
+place = "Paris?"
+date = "1795"
+note = "Caption title. Signed: Boulée et Damoye. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française, I, 4626. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."
+url = "https://archive.org/details/petitionpresente00boul"
+subject = [
+    "Château de Chantilly (Chantilly, France)",
+    "Government sale of real property",
+    "Vendors and purchasers",
+]
+extent = "4 p. ; 25 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 26534"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0wq5418z"
+internet_archive = "petitionpresente00boul"
+openlibrary_edition = "OL26228903M"
+openlibrary_work = "OL17623972W"
+
+[scan]
+file = "petitionpresente00boul.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/petitionpresente00boul"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Boulée"
+role = "author"
+
+[[resp]]
+name = "Damoye"
+role = "author"
+
+[[resp]]
+name = "France. Directoire exécutif"
+role = "author"
+
+[[resp]]
+name = "France. Ministère des finances"
+role = "author"
+
+[[resp]]
+name = "Bertrandq Uniquet, imprimeur du Prytanée francais rue Germain-l'Auxerrois, no. 53"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_862649"
+
+[[text]]
+file = "petitionpresente00boul.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "petitionpresente00boul.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "petitionpresente00boul.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "petitionpresente00boul.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

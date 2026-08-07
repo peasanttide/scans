@@ -1,0 +1,68 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "prixcourantdesma00unse"
+type = "pamphlet"
+title = "Prix courant des marchandises sur la place de Bordeaux : du 23 messidor, quatrième année [11 juillet 1796]"
+language = "fr"
+place = "On s'abonne à Bordeaux"
+date = "1796"
+note = "Caption title. Imprint at foot of p.[1]. Not in Martin & Walter. Scanner's note: Title and cover page are combined. Damaged, stained and/or loose pages. Uneven binding. Skewed text. No copyright page found. No table-of-contents pages found. No page numbers."
+url = "https://archive.org/details/prixcourantdesma00unse"
+subject = ["Prices"]
+extent = "[4] p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 7086"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4wh7n46b"
+internet_archive = "prixcourantdesma00unse"
+openlibrary_edition = "OL26213329M"
+openlibrary_work = "OL17609306W"
+
+[scan]
+file = "prixcourantdesma00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/prixcourantdesma00unse"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Chez Racle et Barrié"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_61624"
+
+[[text]]
+file = "prixcourantdesma00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prixcourantdesma00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prixcourantdesma00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prixcourantdesma00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

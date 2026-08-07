@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "ptitiondesmarcha00fran_1"
+type = "pamphlet"
+title = "Pétition des marchands de vin en gros de la ville de Rouen : a l'Assemblée nationale"
+language = "fr"
+place = "s.l."
+date = "1791"
+note = "Caption title. Imprint from colophon. Martin & Walter IV 2: 13796 (which specifies: Au sujet des vins en entrep^ots ayant payé des droits, avant la suppression de ces droits). Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages."
+url = "https://archive.org/details/ptitiondesmarcha00fran_1"
+subject = [
+    "Wine industry",
+    "Tariff on wine",
+]
+extent = "4 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10104"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9w14637d"
+internet_archive = "ptitiondesmarcha00fran_1"
+openlibrary_edition = "OL26222553M"
+openlibrary_work = "OL17618024W"
+
+[scan]
+file = "ptitiondesmarcha00fran_1.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/ptitiondesmarcha00fran_1"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie du Postillon"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_71053"
+
+[[text]]
+file = "ptitiondesmarcha00fran_1.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ptitiondesmarcha00fran_1.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ptitiondesmarcha00fran_1.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ptitiondesmarcha00fran_1.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

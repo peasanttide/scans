@@ -1,0 +1,101 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "prospectusdutrib00onfr"
+type = "pamphlet"
+title = "Prospectus du Tribut de la Société nationale des neuf sœurs"
+language = "fr"
+place = "Paris"
+date = "1790"
+note = """Prospectus for "Tribut de la Société nationale des neuf sœurs," published 1790-1792. Caption title. Printer statement from colophon. "M. Onfroy, libraire, demeurant rue St. Victor, recevra la souscription qui est par année de 12 liv. pour Paris, et de 15 liv. 12 sols pour la province"--P. 4. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Text extends off of the edge of the page. Text may be lost in the binding. Permanent creases may obscure some text. Title page and cover are combined."""
+url = "https://archive.org/details/prospectusdutrib00onfr"
+subject = [
+    "Tribut de la Société nationale des neuf sœurs",
+    "Booksellers and bookselling",
+    "Scholarly periodicals",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1d no. 98"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7qp1t91z"
+internet_archive = "prospectusdutrib00onfr"
+
+[scan]
+file = "prospectusdutrib00onfr.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/prospectusdutrib00onfr"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Onfroy, Eugène, d. 1809"
+role = "bookseller"
+
+[[resp]]
+name = "Didot, Pierre-François, 1731-1795"
+role = "printer"
+
+[[resp]]
+name = "Société nationale des neuf sœurs"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de P. Fr. Didot le jeune"
+role = "publisher"
+
+[[text]]
+file = "prospectusdutrib00onfr.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectusdutrib00onfr.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectusdutrib00onfr.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectusdutrib00onfr.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectusdutrib00onfr.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectusdutrib00onfr.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectusdutrib00onfr.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectusdutrib00onfr.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

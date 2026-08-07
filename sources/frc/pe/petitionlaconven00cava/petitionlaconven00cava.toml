@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "petitionlaconven00cava"
+type = "pamphlet"
+title = "Pétition à la Convention nationale par François-Edmond Cavailhon, sur une invention télégraphique."
+language = "fr"
+place = "Paris"
+date = "1794"
+note = "Caption title. At head of title: Du 15 brumaire, l'an III de la République française, une et indivisble. Imprint from colophon. Place of publication from Martin & Walter. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  I, 6393. Scanner's note: No copyright page found. No table-of-contents pages found.   Title page and cover are combined.  Uneven binding.  Skewed text.  Damaged, stained pages."
+url = "https://archive.org/details/petitionlaconven00cava"
+subject = [
+    "Communications, Military",
+    "Telegraph",
+]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 15871"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t89h0k94z"
+internet_archive = "petitionlaconven00cava"
+openlibrary_edition = "OL25950958M"
+openlibrary_work = "OL17371944W"
+
+[scan]
+file = "petitionlaconven00cava.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/petitionlaconven00cava"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Cavailhon, François Edmond"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Pougin, rue des Pères, no. 9"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_833069"
+
+[[text]]
+file = "petitionlaconven00cava.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "petitionlaconven00cava.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "petitionlaconven00cava.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "petitionlaconven00cava.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

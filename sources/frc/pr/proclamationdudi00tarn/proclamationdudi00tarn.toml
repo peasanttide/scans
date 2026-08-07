@@ -1,0 +1,71 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "proclamationdudi00tarn"
+type = "pamphlet"
+title = "Proclamation du directoire du départment du Tarn concernant la tranquillité publique : du 19 février 1791, séance du matin"
+language = "fr"
+place = "A Castres"
+date = "1791"
+note = "Caption title. At head of title: La nation la loi & le roi. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."
+url = "https://archive.org/details/proclamationdudi00tarn"
+extent = "3 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10296 no. 7"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t87h6q81c"
+internet_archive = "proclamationdudi00tarn"
+openlibrary_edition = "OL26223291M"
+openlibrary_work = "OL17618752W"
+
+[scan]
+file = "proclamationdudi00tarn.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/proclamationdudi00tarn"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Tarn (France). Directoire"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de P.G.D. Robert, docteur en philosophie, imprimeur du roi & du département du Tarn"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_856894"
+
+[[text]]
+file = "proclamationdudi00tarn.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "proclamationdudi00tarn.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "proclamationdudi00tarn.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "proclamationdudi00tarn.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

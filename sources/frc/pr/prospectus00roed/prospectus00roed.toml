@@ -1,0 +1,81 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "prospectus00roed"
+type = "pamphlet"
+title = "Prospectus"
+language = "fr"
+place = "Paris"
+date = "1796"
+note = """Prospectus for "Journal d'économie publique, de morale, et de politique," which began publication in 1796. Caption title. Printer statement from colophon. "A compter du 10 fructidor prochain, il paroîtra tous les dix jours un numéro de ce journal"--P. 2. "On s'abonne pour trois mois, six mois & un an, à raison de 24 liv. par an pour Paris, & de 27 liv. pour les départemens. On reçoit les abonnemens au bureau du Journal de Paris, rue J.-J. Rousseau, n°. 14"--P. 2. Ms. annotations. Scanner's note: No copyright found.  No table of contents found.  Damaged, stained pages and cover.   No numbered pages.<br /><br />."""
+url = "https://archive.org/details/prospectus00roed"
+subject = [
+    "Journal d'économie publique, de morale, et de politique",
+    "Booksellers and bookselling",
+    "Periodicals",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1d no. 37"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0zp9nk3q"
+internet_archive = "prospectus00roed"
+
+[scan]
+file = "prospectus00roed.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/prospectus00roed"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "Roederer, P.-L. (Pierre-Louis), 1754-1835"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie du Journal de Paris"
+role = "publisher"
+
+[[text]]
+file = "prospectus00roed.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectus00roed.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectus00roed.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectus00roed.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectus00roed.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectus00roed.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

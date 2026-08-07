@@ -1,0 +1,10 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: proclamationroi00unse_15
+page: 4
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 3160
+h: 4370
+dpi: 350
+---

@@ -1,0 +1,81 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "piecesnuptiales00herr"
+type = "pamphlet"
+title = "Pieces nuptiales, ou, Representation et explication de quelques pieces inventées et gravées en taille douce a l'occasion de plusieurs noces"
+language = "fr"
+place = "Zurich?"
+date = "1740"
+note = """Prospectus for Herrliberger's "Pieces nuptiales". Caption title. Parallel title in German on p. [1]: Hochzeit-Kupfer, oder, Vorstellung und Erklaehrung einiger Kupferstiche, welche bey anlaesse Vershiedenen Hochzeit-Feste. Includes descriptions of 7 allegorical prints in "Pieces nuptiales". Scanner's note: No copyright page found. No table-of-contents pages found. Title and cover pages combined."""
+url = "https://archive.org/details/piecesnuptiales00herr"
+subject = [
+    "Herrliberger, David, 1697-1777",
+    "Publishers and publishing",
+    "Prints",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1a no. 88"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4tj4b34s"
+internet_archive = "piecesnuptiales00herr"
+
+[scan]
+file = "piecesnuptiales00herr.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/piecesnuptiales00herr"
+ppi = 500
+note = "Scanned on fold1.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Herrliberger, David,1697-1777"
+role = "author"
+
+[[resp]]
+name = "Herrliberger, David, 1697-1777"
+role = "author"
+
+[[resp]]
+name = "Herrliberger, David, 1697-1777. Pieces nuptiales"
+role = "author"
+
+[[resp]]
+name = "Picart, Bernard, 1673-1733"
+role = "author"
+
+[[resp]]
+name = "David Herrliberger?"
+role = "publisher"
+
+[[text]]
+file = "piecesnuptiales00herr.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "piecesnuptiales00herr.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "piecesnuptiales00herr.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "piecesnuptiales00herr.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,84 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "petitiondeshabit00vall"
+type = "pamphlet"
+title = "Pétition des habitans de la ville de S.-Omer, département du Pas-de-Calais /"
+language = "fr"
+place = "Paris"
+date = "1795"
+note = "Caption title. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  IV:1, 33105. Scanner's note: Title and cover page are combined. Uneven binding. Damaged pages. Inconsistent page size. Skewed text."
+url = "https://archive.org/details/petitiondeshabit00vall"
+subject = ["Public welfare"]
+extent = "3 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 13293"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t41s1hz27"
+internet_archive = "petitiondeshabit00vall"
+openlibrary_edition = "OL25926489M"
+openlibrary_work = "OL17349117W"
+
+[scan]
+file = "petitiondeshabit00vall.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/petitiondeshabit00vall"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Valle, H"
+role = "author"
+
+[[resp]]
+name = "Senlec"
+role = "author"
+
+[[resp]]
+name = "Baudri"
+role = "author"
+
+[[resp]]
+name = "Gorsas, Antoine-Joseph, 1752-1793"
+role = "publisher"
+
+[[resp]]
+name = "De l'imprimerie d'Antoine-Joseph Gorsas, rue Tiquetonne, no. 7"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_827921"
+
+[[text]]
+file = "petitiondeshabit00vall.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "petitiondeshabit00vall.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "petitiondeshabit00vall.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "petitiondeshabit00vall.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

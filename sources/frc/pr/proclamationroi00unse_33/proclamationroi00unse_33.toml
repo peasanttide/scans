@@ -1,0 +1,84 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "proclamationroi00unse_33"
+type = "pamphlet"
+title = "Proclamation du roi, pour l'accélération du recouvrement des rôles d'à-compte sur les contributions foncière & mobiliaire de 1791 : du 15 décembre 1791"
+language = "fr"
+place = "A Bourg"
+date = "1791"
+note = """Caption title. "Signé Louis. Et plus bas, Tarbé"--P. 3. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No title page found. No copyright page found. Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages."""
+url = "https://archive.org/details/proclamationroi00unse_33"
+subject = [
+    "Taxation",
+    "Recording and registration",
+    "Finance, Public",
+]
+extent = "4 p. ; 28 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10143 no. 31"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3fz2d654"
+internet_archive = "proclamationroi00unse_33"
+openlibrary_edition = "OL26222786M"
+openlibrary_work = "OL17618257W"
+
+[scan]
+file = "proclamationroi00unse_33.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/proclamationroi00unse_33"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Sovereign (1774-1792 : Louis XVI)"
+role = "author"
+
+[[resp]]
+name = "Louis XVI, King of France, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "Tarbé, Louis-Hardouin, 1753-1806"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de C.C.G. Philipon"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_855149"
+
+[[text]]
+file = "proclamationroi00unse_33.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "proclamationroi00unse_33.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "proclamationroi00unse_33.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "proclamationroi00unse_33.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

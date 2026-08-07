@@ -1,0 +1,71 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "prisedemdebourbo00unse"
+type = "pamphlet"
+title = "Prise de M. de Bourbon-Bussy et de ses volontaires."
+language = "fr"
+place = "s.l."
+date = "1790"
+note = """Caption title. Without imprint. About "... la lettre ... touchant le nouveau projet de contre-révolution de M. de Bourbon-Bussy ..." (cf. p.[1]). Martin & Walter IV 2: 14416 (which supplies the date: 24 octobre 1790). Scanner's note: Title and cover page are combined. Damaged, stained and/or loose pages. Uneven binding. Skewed text. No copyright page found. No table-of-contents pages found."""
+url = "https://archive.org/details/prisedemdebourbo00unse"
+subject = [
+    "Mignot de Bussy, Antoine François Marie",
+    "Counterrevolutions",
+]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 7081"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0dv6m48h"
+internet_archive = "prisedemdebourbo00unse"
+openlibrary_edition = "OL26212822M"
+openlibrary_work = "OL17608789W"
+
+[scan]
+file = "prisedemdebourbo00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/prisedemdebourbo00unse"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_62107"
+
+[[text]]
+file = "prisedemdebourbo00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prisedemdebourbo00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prisedemdebourbo00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prisedemdebourbo00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

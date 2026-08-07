@@ -1,0 +1,57 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "proposalsforpubl00brow"
+type = "pamphlet"
+title = "Proposals for publishing by subscription The civil and natural history of Jamaica"
+language = "en"
+place = "London?"
+date = "1756"
+note = """Prospectus for: The civil and natural history of Jamaica / by Patrick Browne. London, 1756. Caption title. Newberry's copy torn at bottom, possibly removing imprint. "The price to subscribers will be two guineas in sheets.". Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Title page and cover are combined. Text extends off of the edge of the page.  Text is obscured by creases and torn edges."""
+url = "https://archive.org/details/proposalsforpubl00brow"
+subject = [
+    "Browne, Patrick, 1720?-1790",
+    "Booksellers and bookselling",
+    "Natural history literature",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1e no. 15"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7zm11j0k"
+internet_archive = "proposalsforpubl00brow"
+
+[scan]
+file = "proposalsforpubl00brow.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/proposalsforpubl00brow"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Browne, Patrick, 1720?-1790. Civil and natural history of Jamaica"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[text]]
+file = "proposalsforpubl00brow.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "en"
+
+[[text]]
+file = "proposalsforpubl00brow.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "en"

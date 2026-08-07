@@ -1,0 +1,90 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "plansuivantleque00bull"
+type = "pamphlet"
+title = "Plan suivant lequel se continue l'Herbier de la France"
+language = "fr"
+place = "A Paris"
+date = "1784"
+note = """Prospectus for Bulliard's "Herbier de la France.". Caption title. Place of publication and publisher statement from colophon. "La première division de l'Herbier de la France est completté."--P. [1]. The "première division" was completed in 1784. Includes prices. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text.  Title page and cover are combined."""
+url = "https://archive.org/details/plansuivantleque00bull"
+subject = [
+    "Bulliard, Pierre, 1752-1793",
+    "Booksellers and bookselling",
+    "Botanical literature",
+    "Botanical illustration",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1c no. 16"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0vq8mq91"
+internet_archive = "plansuivantleque00bull"
+
+[scan]
+file = "plansuivantleque00bull.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/plansuivantleque00bull"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Bulliard, Pierre,1752-1793"
+role = "author"
+
+[[resp]]
+name = "Bulliard, Pierre, 1752-1793"
+role = "author"
+
+[[resp]]
+name = "Bulliard, Pierre, 1752-1793. Herbier de la France"
+role = "author"
+
+[[resp]]
+name = "Didot, Pierre-François, 1731-1795"
+role = "bookseller"
+
+[[resp]]
+name = "Barrois, Théophile"
+role = "bookseller"
+
+[[resp]]
+name = "Belin, François, 1748-1808"
+role = "bookseller"
+
+[[resp]]
+name = "Chez l'auteur (M. Bulliard), rue des Postes, au coin de celle du Cheval vert, Didot le jeune, Barrois le jeune, libraires, quai des Augustins, Belin, libraire, rue Saint-Jacques"
+role = "publisher"
+
+[[text]]
+file = "plansuivantleque00bull.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "plansuivantleque00bull.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "plansuivantleque00bull.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "plansuivantleque00bull.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

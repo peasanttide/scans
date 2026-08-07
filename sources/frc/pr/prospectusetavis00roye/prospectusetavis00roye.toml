@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "prospectusetavis00roye"
+type = "pamphlet"
+title = "Prospectus et avis particuliers de la libraire"
+language = "fr"
+place = "Paris?"
+date = "1789"
+note = """Prospectus for an edition of the collected works of Voltaire. Caption title. "Cette edition ... formera 22 vol. in-8. ... Le terme de la souscription qui est actuellement ouverte à Paris chez M. Royez, libraire, quai & près des Augustins, & en Europe chez les principaux libraires, ne sera prorogé, pour Paris, que jusqu'au quinze avril de l'année 1789"--P. 3. Printed in double columns. "Le prix de la collection entière sera de 99 liv. broch."--P. 3. Includes advertisements for other titles sold by Royez. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Title page and cover are combined."""
+url = "https://archive.org/details/prospectusetavis00roye"
+subject = [
+    "Voltaire, 1694-1778",
+    "Booksellers and bookselling",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1a no. 137"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3wt4c73m"
+internet_archive = "prospectusetavis00roye"
+
+[scan]
+file = "prospectusetavis00roye.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/prospectusetavis00roye"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Royez, Jean-François,1757?-1823"
+role = "author"
+
+[[resp]]
+name = "Royez, Jean-François, 1757?-1823"
+role = "author"
+
+[[resp]]
+name = "Voltaire, 1694-1778. Works"
+role = "author"
+
+[[resp]]
+name = "Jean-François Royez?"
+role = "publisher"
+
+[[text]]
+file = "prospectusetavis00roye.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectusetavis00roye.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectusetavis00roye.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectusetavis00roye.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

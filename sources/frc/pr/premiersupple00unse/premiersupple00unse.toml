@@ -1,0 +1,87 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "premiersupple00unse"
+type = "pamphlet"
+title = "Premier supplément a l'Instruction générale sur l'administration et le recouvrement des produits et capitaux des domaines nationaux"
+language = "fr"
+place = "A Paris"
+date = "1792"
+note = "Caption title. Signed: Amelot. Imprint from colophon. Variant of Martin & Walter. Révolution française, I, 210. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."
+url = "https://archive.org/details/premiersupple00unse"
+subject = [
+    "Tax administration and procedure",
+    "Finance, Public",
+]
+extent = "4 p. ; 28 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 26432"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0ns5wg11"
+internet_archive = "premiersupple00unse"
+openlibrary_edition = "OL26227025M"
+openlibrary_work = "OL17622252W"
+
+[scan]
+file = "premiersupple00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/premiersupple00unse"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Amelot de Chaillou, Antoine-Jean,d. 1795"
+role = "author"
+
+[[resp]]
+name = "Amelot de Chaillou, Antoine-Jean, d. 1795"
+role = "author"
+
+[[resp]]
+name = "Amelot de Chaillou, Antoine-Jean, d. 1795. Instruction générale sur l'administration, le recouvrement des produits et capitaux, et sur le paiement des frais des domaines nationaux"
+role = "author"
+
+[[resp]]
+name = "Imprimerie de Didot jeune"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie de Didot le jeune"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_862133"
+
+[[text]]
+file = "premiersupple00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "premiersupple00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "premiersupple00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "premiersupple00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

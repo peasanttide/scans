@@ -1,0 +1,69 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "projetdadressepa1789cher"
+type = "pamphlet"
+title = "Projet d'adresse par M. Chéron, député du département de Seine et Oise l'Assemblée nationale aux français."
+language = "fr"
+date = "1789"
+note = """Caption title. Imprint from colophon. "Diplomatie. G"--Bottom of p. [1]. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,I, 7378. Scanner's note: Title found on front cover. No copyright page found. No table-of-contents pages found."""
+url = "https://archive.org/details/projetdadressepa1789cher"
+subject = ["Nationalism"]
+extent = "3 p. ;20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "CaseFRC11138"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3mw5g363"
+internet_archive = "projetdadressepa1789cher"
+
+[scan]
+file = "projetdadressepa1789cher.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/projetdadressepa1789cher"
+ppi = 650
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Chéron, L. C.(Louis Claude),1758-1807"
+role = "author"
+
+[[resp]]
+name = "A Paris :De l'Imprimerie nationale,"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_824460"
+
+[[text]]
+file = "projetdadressepa1789cher.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "projetdadressepa1789cher.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "projetdadressepa1789cher.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "projetdadressepa1789cher.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"

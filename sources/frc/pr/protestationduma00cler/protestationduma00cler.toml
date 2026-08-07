@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "protestationduma00cler"
+type = "pamphlet"
+title = "[Protestation du marquis de Clermont-Mont-Saint-Jean devant l'Assemblée constituante, contre la réunion de Bugey au département de la Bresse, 18 octobre 1789]."
+language = "fr"
+place = "A Paris"
+date = "1789"
+note = "Text begins: Messieurs, l'impossibilité d'obtenir la parole. Signed: Le marquis de Clermont-Mont-Saint-jean. Paris, ce 18 octobre 1789. Title supplied by BN. Supplied title from Martin & Walter: Protestation contre la réunion du Bugey au département de la Bresse. 18 octobre 1789. Imprint from colophon. BN. Martin & Walter. Révolution française. Bibliography: BN,  XXIX, column 1218. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover."
+url = "https://archive.org/details/protestationduma00cler"
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 16330"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1hj1hk7t"
+internet_archive = "protestationduma00cler"
+openlibrary_edition = "OL26198411M"
+openlibrary_work = "OL17595117W"
+
+[scan]
+file = "protestationduma00cler.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/protestationduma00cler"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Clermont-Mont-Saint-Jean, Jacques, marquis de, 1752-1827"
+role = "author"
+
+[[resp]]
+name = "Clermont-Mont-Saint-Jean, Jacques, marquis de, 1752-1827. Protestation contre la réunion du Bugey au département de la Bresse"
+role = "author"
+
+[[resp]]
+name = "Baudouin, François-Jean, 1759-1838"
+role = "publisher"
+
+[[resp]]
+name = "Chez Baudouin, imprimeur de l'Assemblée nationale, rue Saint-Honoré, maison conventuelle des capucins, no. 426"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_833753"
+
+[[text]]
+file = "protestationduma00cler.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "protestationduma00cler.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "protestationduma00cler.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "protestationduma00cler.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

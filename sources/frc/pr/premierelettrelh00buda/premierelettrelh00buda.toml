@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "premierelettrelh00buda"
+type = "pamphlet"
+title = "Première lettre à l'Historien, sur le message envoyé au Conseil des cinq-cents par le Directoire exécutif : le rapport de Savary, les disours des Président du Conseil de guerre, et Commissaire du pouvoir exécutif, et la lettre écrite par Merlin à ce tribunal."
+language = "fr"
+place = "Paris"
+date = "1797"
+note = """Caption title. Signed at end: F.D. Budan. "1er. germinal, an 5"--P. [1]. Place of publication from Martin & Walter. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  I, 5515. Scanner's note: No copyright page found. No table-of-contents pages found.  Title on front cover. Damaged, stained, worn pages.  Skewed text."""
+url = "https://archive.org/details/premierelettrelh00buda"
+subject = [
+    "France. Directoire exécutif",
+    "L'Historien",
+    "Judgments",
+]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 15497"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6k11zz9x"
+internet_archive = "premierelettrelh00buda"
+openlibrary_edition = "OL25948163M"
+openlibrary_work = "OL17369217W"
+
+[scan]
+file = "premierelettrelh00buda.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/premierelettrelh00buda"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Budan de Boislaurent, Ferdinand Franc̦ois Désiré"
+role = "author"
+
+[[resp]]
+name = "Imprimerie de Du Pont"
+role = "publisher"
+
+[[resp]]
+name = "De l'imprimerie de Du Pont, rue de l'Oratoire"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_832293"
+
+[[text]]
+file = "premierelettrelh00buda.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "premierelettrelh00buda.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "premierelettrelh00buda.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "premierelettrelh00buda.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

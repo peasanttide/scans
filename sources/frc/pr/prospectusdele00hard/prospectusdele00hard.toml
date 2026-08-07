@@ -1,0 +1,98 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "prospectusdele00hard"
+type = "pamphlet"
+title = "Prospectus de l'edition complette des Œuvres de M. Charles Bonnet, membre de diverses académies"
+language = "fr"
+place = "A Paris"
+date = "1778"
+note = """Caption title. "Déclaration de M. Charles Bonnet" (p. 2) dated June 1, 1778. Text indicates the first installment of Bonnet's works will be available in January 1779. Cf. p. 3. "On aura pour la somme de 96 liv. la collection complette ... des Œuvres de M. Bonnet en 8 vol. in-4°. Passé le premier d'avril, ils seront payés 120 liv. Et pareillement pour l'edition en 16 vol. in-8°, on payera 56 liv., & passé le premier d'avril, 72 liv."--P. 3. Includes advertisements for three other titles sold by Hardouin. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Title page and cover are combined."""
+url = "https://archive.org/details/prospectusdele00hard"
+subject = [
+    "Bonnet, Charles, 1720-1793",
+    "Booksellers and bookselling",
+    "Philosophical literature",
+    "Science publishing",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1a no. 84"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4km5032k"
+internet_archive = "prospectusdele00hard"
+
+[scan]
+file = "prospectusdele00hard.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/prospectusdele00hard"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Hardouin, Robert-André"
+role = "author"
+
+[[resp]]
+name = "Bonnet, Charles, 1720-1793. Works. 1779"
+role = "author"
+
+[[resp]]
+name = "Chez Hardouin, libraire, rue des Prêtres-Saint-Germain-l'Auxerrois"
+role = "publisher"
+
+[[text]]
+file = "prospectusdele00hard.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectusdele00hard.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectusdele00hard.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectusdele00hard.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectusdele00hard.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectusdele00hard.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectusdele00hard.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectusdele00hard.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

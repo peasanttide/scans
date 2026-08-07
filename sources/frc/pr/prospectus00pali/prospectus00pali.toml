@@ -1,0 +1,109 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "prospectus00pali"
+type = "pamphlet"
+title = "Prospectus"
+language = "fr"
+place = "Paris"
+date = "1777"
+note = """Caption title. Printer statement from colophon. "Permis d'imprimer, ce 7 décembre 1776"--P. 4. "Ce journal ... paraîtra tous les quinze jours, à commencer du 15 janvier 1777"--P. 3. "Les auteurs du Journal français, ayant donné leur confiance au sieur Moutard, libraire-imprimeur de la reine. On souscrira chez lui, quai des Augustins, près le pont Saint-Michel"--P. 4. "Le prix de la souscription sera de 24 liv. franc de port, par tout le royaume"--P. 4. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Title page and cover are combined."""
+url = "https://archive.org/details/prospectus00pali"
+subject = [
+    "Journal français (Paris, France : 1777)",
+    "Booksellers and bookselling",
+    "Periodicals",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1d no. 71"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1sf8fw4p"
+internet_archive = "prospectus00pali"
+
+[scan]
+file = "prospectus00pali.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/prospectus00pali"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Palissot de Montenoy, Charles,173-1814"
+role = "author"
+
+[[resp]]
+name = "Palissot de Montenoy, Charles, 1730-1814"
+role = "author"
+
+[[resp]]
+name = "Clément, M. (Jean Marie Bernard), 1742-1812"
+role = "author"
+
+[[resp]]
+name = "Moutard, Nicolas-Léger, b. 1742?"
+role = "bookseller"
+
+[[resp]]
+name = "Houry, Marie-Élisabeth d', d. 1783"
+role = "printer"
+
+[[resp]]
+name = "De l'imprimerie de la veuve d'Houry, rue Saint Severin"
+role = "publisher"
+
+[[text]]
+file = "prospectus00pali.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectus00pali.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectus00pali.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectus00pali.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectus00pali.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectus00pali.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectus00pali.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectus00pali.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

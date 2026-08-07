@@ -1,0 +1,66 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "prospectus00meri"
+type = "pamphlet"
+title = "Prospectus"
+language = "fr"
+place = "A Paris"
+date = "1789"
+note = """Prospectus for Auguste Louis Rossel de Cercy's "Collection de dix-huit combats de mer". Caption title. "On souscrit à Paris, chez Mérigot le jeune, libraire, quai des Augustins, au coin de la rue Pavée, n° 38"--P. [2]. Imprint from colophon. "Permis d'imprimer, le 22 janvier 1789"--P. [2]. "Il paroîtra chaque année, à dater du mois de mai 1790, deux estampes, dont le prix sera de 36 livres pour les souscripteurs seulement ... ; chacune sera de 24 livres pour les personnes qui n'auront pas souscrit"--P. [1]-[2]. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Title page and cover are combined."""
+url = "https://archive.org/details/prospectus00meri"
+subject = [
+    "Rossel de Cercy, Auguste Louis, marquis de, 1736?-1824?",
+    "Booksellers and bookselling",
+    "Illustrated books",
+    "Prints",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1a no. 113"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7gr2m08q"
+internet_archive = "prospectus00meri"
+
+[scan]
+file = "prospectus00meri.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/prospectus00meri"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Mérigot, Jean-Gabriel"
+role = "author"
+
+[[resp]]
+name = "Rossel de Cercy, Auguste Louis, marquis de, 1736?-1824? Collection de dix-huit combats de mer"
+role = "author"
+
+[[resp]]
+name = "Stoupe, M. (Jean-Georges-Antoine), -1808"
+role = "printer"
+
+[[resp]]
+name = "De l'imprimerie de Stoupe"
+role = "publisher"
+
+[[text]]
+file = "prospectus00meri.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectus00meri.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

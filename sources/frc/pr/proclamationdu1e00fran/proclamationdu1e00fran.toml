@@ -1,0 +1,87 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "proclamationdu1e00fran"
+type = "pamphlet"
+title = "Proclamation : du 1.er frimaire, an 6.e de la République française, une et indivisible [21 novembre 1797] /"
+language = "fr"
+place = "À Paris"
+date = "1797"
+note = "Caption title. Imprint from colophon. Martin & Walter IV 2: 5678 (which specifies: nécessité d'une descente en Angleterre). Scanner's note: No copyright found. No table of contents found. Title on cover. Damaged, stained pages and cover.  Skewed text."
+url = "https://archive.org/details/proclamationdu1e00fran"
+extent = "6 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 3211"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6d270h07"
+internet_archive = "proclamationdu1e00fran"
+openlibrary_edition = "OL26213847M"
+openlibrary_work = "OL17609809W"
+
+[scan]
+file = "proclamationdu1e00fran.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/proclamationdu1e00fran"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Directoire exécutif"
+role = "author"
+
+[[resp]]
+name = "France. Directoire exécutif"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie de la République"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_50195"
+
+[[text]]
+file = "proclamationdu1e00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "proclamationdu1e00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "proclamationdu1e00fran.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "proclamationdu1e00fran.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "proclamationdu1e00fran.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "proclamationdu1e00fran.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,93 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "prospectusdujour00robe"
+type = "pamphlet"
+title = "Prospectus du Journal d'État et du citoyen"
+language = "fr"
+place = "Paris"
+date = "1789"
+note = """Prospectus for "Journal d'État et du citoyen," published in 1789. Caption title. Printer statement from colophon. Printed on light blue paper. "Ce journal sera composé d'une feuille in-8°. par semaine; elle paroîtra tous les jeudis. Le prix de la souscription pour un mois sera de 2 liv. 8 sols pour Paris & de 3 liv. pour la province, franc de port par la poste. L'abonnement ne pourra être moins de trois mois"--P. [1]. Scanner's note: No copyright found.  No table of contents found.  Damaged, stained pages and cover.  Only one numbered page.  Tight margins. <br /><br />."""
+url = "https://archive.org/details/prospectusdujour00robe"
+subject = [
+    "Journal d'État et du citoyen",
+    "Booksellers and bookselling",
+    "Periodicals",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1d no. 39"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4wh8687m"
+internet_archive = "prospectusdujour00robe"
+
+[scan]
+file = "prospectusdujour00robe.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/prospectusdujour00robe"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "Robert, Louise Félicité,1758-1821"
+role = "author"
+
+[[resp]]
+name = "Robert, Louise Félicité, 1758-1821"
+role = "author"
+
+[[resp]]
+name = "Toulan"
+role = "bookseller"
+
+[[resp]]
+name = "Nyon, Nicolas-Henri, b. 1751?"
+role = "printer"
+
+[[resp]]
+name = "De l'imprimerie de N.H. Nyon, rue Mignon"
+role = "publisher"
+
+[[text]]
+file = "prospectusdujour00robe.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectusdujour00robe.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectusdujour00robe.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectusdujour00robe.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectusdujour00robe.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectusdujour00robe.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

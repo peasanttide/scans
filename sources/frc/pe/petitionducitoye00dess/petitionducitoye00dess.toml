@@ -1,0 +1,95 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "petitionducitoye00dess"
+type = "pamphlet"
+title = "Pétition du citoyen Dessalle, maçon, a la Convention nationale"
+language = "fr"
+place = "France"
+date = "1794"
+note = """Caption title. Not in Martin & Walter. Révolution française. "Section de l'unité. Extrait du registre des délibérations de l'Assemblée générale. présidence du citoyen Perrot. Séance du dixième jour de ventose, l'an 2 de la République française, une & indivisible"--P. 3-4. "Section de l'unite. Comité civil"--P. 5. "Section de l'unité. Comité révolutionnaire"--P. 6. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."""
+url = "https://archive.org/details/petitionducitoye00dess"
+subject = [
+    "Dessalle, citoyen",
+    "Debtor and creditor",
+]
+extent = "6 p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 26665"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2m66np9f"
+internet_archive = "petitionducitoye00dess"
+openlibrary_edition = "OL26228965M"
+openlibrary_work = "OL17624033W"
+
+[scan]
+file = "petitionducitoye00dess.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/petitionducitoye00dess"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Dessalle, citoyen"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Unité (Paris, France : Section)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_864805"
+
+[[text]]
+file = "petitionducitoye00dess.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "petitionducitoye00dess.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "petitionducitoye00dess.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "petitionducitoye00dess.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "petitionducitoye00dess.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "petitionducitoye00dess.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

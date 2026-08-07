@@ -1,0 +1,68 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "prierearistocrat00unse"
+type = "pamphlet"
+title = "Priere aristocratique."
+language = "fr"
+place = "s.l."
+date = "1789"
+note = "Caption title. Without imprint. Martin & Walter IV 2: 14374. Scanner's note: No title page found. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/prierearistocrat00unse"
+subject = ["Nobility"]
+extent = "3 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 7061"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5dc33j26"
+internet_archive = "prierearistocrat00unse"
+openlibrary_edition = "OL3386148M"
+openlibrary_work = "OL17609143W"
+
+[scan]
+file = "prierearistocrat00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/prierearistocrat00unse"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_61784"
+
+[[text]]
+file = "prierearistocrat00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prierearistocrat00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prierearistocrat00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prierearistocrat00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

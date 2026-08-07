@@ -1,0 +1,84 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "picesimprimespar00fran"
+type = "pamphlet"
+title = "... Pièces imprimées par ordre de la Convention nationale : séance du premier brumaire, l'an 3 de la République [22 octobre 1794]"
+language = "fr"
+place = "Paris"
+date = "1794"
+note = "Caption title. Imprint from colophon. At head of title: Convention nationale. Martin & Walter IV 2: 13932 (which specifies: Sur les attentats contre la représentation nationale). Scanner's note: No copyright page found. No table-of-contents pages found. Title is on cover page. Damaged, stained and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/picesimprimespar00fran"
+subject = ["Political crimes and offenses"]
+extent = "6 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 6845"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4pk5gf5w"
+internet_archive = "picesimprimespar00fran"
+openlibrary_edition = "OL26217818M"
+openlibrary_work = "OL17613543W"
+
+[scan]
+file = "picesimprimespar00fran.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/picesimprimespar00fran"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_60972"
+
+[[text]]
+file = "picesimprimespar00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "picesimprimespar00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "picesimprimespar00fran.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "picesimprimespar00fran.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "picesimprimespar00fran.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "picesimprimespar00fran.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,71 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "parolesdunfranai00lafa"
+type = "pamphlet"
+title = "Paroles d'un Français patriote : dédié à Mr. La Fayette ; Air: On compterais les diamans."
+language = "fr"
+place = "s.l."
+date = "1790"
+note = "Caption title. Without imprint. The music is an unaccompanied melody for unspecified voice. Printed from an engraved plate. Martin & Walter IV 2: 13468. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on cover page. Damaged, stained and/or loose pages. Uneven binding. Skewed text. No page numbers."
+url = "https://archive.org/details/parolesdunfranai00lafa"
+extent = "[2] leaves ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 6683"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0ps2vz31"
+internet_archive = "parolesdunfranai00lafa"
+openlibrary_edition = "OL26217599M"
+openlibrary_work = "OL17613324W"
+
+[scan]
+file = "parolesdunfranai00lafa.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/parolesdunfranai00lafa"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Lafayette, Marie Joseph Paul Yves Roch Gilbert Du Motier, marquis de, 1757-1834"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_60664"
+
+[[text]]
+file = "parolesdunfranai00lafa.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "parolesdunfranai00lafa.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "parolesdunfranai00lafa.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "parolesdunfranai00lafa.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

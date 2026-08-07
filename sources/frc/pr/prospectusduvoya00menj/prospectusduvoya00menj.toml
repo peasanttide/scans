@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "prospectusduvoya00menj"
+type = "pamphlet"
+title = "Prospectus du Voyage de la Sicile, de Malte et de Lipari"
+language = "fr"
+place = "A Paris"
+date = "1781"
+note = """Prospectus for Hoüel's "Voyage pittoresque des isles de Sicile, de Malte et de Lipari". Caption title. "On souscrira chez M. Menjaud, notaire, rue Saint-Honoré, entre la rue des Poulies & celle de l'Arbre-Sec"--P. 4. Imprint from colophon. "Cet ouvrage consistera en 300 planches, qui feront cinquante livraisons ... On en donnera six par livraison, accompagnée du texte; chaque livraison se paiera 12 liv. tout compris"--P. 4. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Title page and cover are combined."""
+url = "https://archive.org/details/prospectusduvoya00menj"
+subject = [
+    "Hoüel, Jean-Pierre-Laurent, 1735-1813",
+    "Booksellers and bookselling",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1a no. 111"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9189065v"
+internet_archive = "prospectusduvoya00menj"
+
+[scan]
+file = "prospectusduvoya00menj.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/prospectusduvoya00menj"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Menjaud, Jean"
+role = "author"
+
+[[resp]]
+name = "Hoüel, Jean-Pierre-Laurent, 1735-1813. Voyage pittoresque des isles de Sicile, de Malte et de Lipari"
+role = "author"
+
+[[resp]]
+name = "Imprimerie de Monsieur"
+role = "printer"
+
+[[resp]]
+name = "De l'Imprimerie de Monsieur"
+role = "publisher"
+
+[[text]]
+file = "prospectusduvoya00menj.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectusduvoya00menj.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectusduvoya00menj.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectusduvoya00menj.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,92 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "proclamationduro00fran_20"
+type = "pamphlet"
+title = "Proclamation du roi, concernant le recouvrement de droit annuel qui reste dû par les vendans boissons pour l'année 1791 : du 27 novembre 1791"
+language = "fr"
+place = "A Rouen"
+date = "1791"
+note = """Caption title. At right of title: Département. No. 8. "Signé, Louis. Et plus bas, Tarbé"--P. 3. "A Rouen, en Conseil général ..."--P. 4. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained and/or loose pages. Skewed text."""
+url = "https://archive.org/details/proclamationduro00fran_20"
+subject = [
+    "Business tax",
+    "Vintners",
+    "Finance, Public",
+]
+extent = "4 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC suppl. 92 no. 6"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9n352j1k"
+internet_archive = "proclamationduro00fran_20"
+openlibrary_edition = "OL26234984M"
+openlibrary_work = "OL17629566W"
+
+[scan]
+file = "proclamationduro00fran_20.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/proclamationduro00fran_20"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Sovereign (1774-1792 : Louis XVI)"
+role = "author"
+
+[[resp]]
+name = "Louis XVI, King of France, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "Tarbé, Louis-Hardouin, 1753-1806"
+role = "author"
+
+[[resp]]
+name = "Oursel, Louis-Joseph, b. 1739"
+role = "publisher"
+
+[[resp]]
+name = "Rouen (France). Conseil général"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de L. Oursel, imprimeur du roi, & du département de la Seine Inférieure, rue de la Vicomté"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_861597"
+
+[[text]]
+file = "proclamationduro00fran_20.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "proclamationduro00fran_20.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "proclamationduro00fran_20.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "proclamationduro00fran_20.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

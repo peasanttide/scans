@@ -1,0 +1,67 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "portantquele00unse"
+type = "pamphlet"
+title = "Loi portant que les père, fils, frère, oncle, neveu et époux des époux des émigrés, les alliés au même degré, les ministres du culte inssermenté, etc. ne pourrant continuer d'exercer des fonctions publiques : du jour 5 complémentaire, an troisième de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1795"
+note = """Caption title. At head of title: (No. 565.*). At right of title: B. no. 181. D. no. 1114. "La Convention nationale ... décrète ce qui suit"--P. [1]. Imprint from colophon. Not in Martin & Walter. Révolution française. "Loi additionalle à celle ci-dessus, du sixième jour complémentaire, an troisième. B. no. 181. D. 1115"--P. 2. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/portantquele00unse"
+subject = [
+    "Political rights, Loss of",
+    "Nominations for office",
+]
+extent = "2 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10346 no. 168"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6c30233h"
+internet_archive = "portantquele00unse"
+openlibrary_edition = "OL26230090M"
+openlibrary_work = "OL17625066W"
+
+[scan]
+file = "portantquele00unse.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/portantquele00unse"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Depot des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_861934"
+
+[[text]]
+file = "portantquele00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "portantquele00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

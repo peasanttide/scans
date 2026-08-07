@@ -1,0 +1,99 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "prieredehenriqua00fran"
+type = "pamphlet"
+title = "Priere de Henri Quatre, général de l'Armée française : avant la bataille de Coutras ; adressée a Louis Seize, chef de la Nation française, après la séance paternelle à l'Assemblée nationale /"
+language = "fr"
+place = "s.l."
+date = "1789"
+note = """Caption title. Without imprint. "Liste de quelques personnes mises à la Bastille en différens tems, avec les sujets de leur détention": p.4-8. "M. Necker, que le roi rappelle, est attendu avec impatience": p.8. This edition not in Martin & Walter (cf. IV 2: 14376). Scanner's note: No title page found. No copyright page found. No table-of-contents pages found."""
+url = "https://archive.org/details/prieredehenriqua00fran"
+subject = [
+    "Necker, Jacques, 1732-1804",
+    "Bastille",
+]
+extent = "8 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 7062"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1hj1kq5g"
+internet_archive = "prieredehenriqua00fran"
+openlibrary_edition = "OL26213184M"
+openlibrary_work = "OL17609160W"
+
+[scan]
+file = "prieredehenriqua00fran.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/prieredehenriqua00fran"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Sovereign (1774-1792 : Louis XVI)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_62162"
+
+[[text]]
+file = "prieredehenriqua00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prieredehenriqua00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prieredehenriqua00fran.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prieredehenriqua00fran.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prieredehenriqua00fran.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prieredehenriqua00fran.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prieredehenriqua00fran.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prieredehenriqua00fran.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

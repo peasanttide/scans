@@ -1,0 +1,113 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "prospectus00vass"
+type = "pamphlet"
+title = "Prospectus"
+language = "fr"
+place = "Paris"
+date = "1784"
+note = """Prospectus for "Traduction du théâtre anglois depuis l'origine des spectacles jusqu'à nos jours," translated by Cornélie Wouters de Vasse. Caption title. "On soucrira à Paris chez la Veuve Ballard & fils, imprimeurs du roi, rue des Mathurins, quartier S. Jacques, chez Mérigot l'aîné, libraire au boulevard de la porte S. Martin & sous le vestibule de l'Opéra, chez Mérigot le jeune, libraire, quai des Augustins, chez Belin, libraire, rue S. Jacques, chez Renaut, libraire, rue S. Jacques, et au Bureau du théâtre anglois, n°. 6, rue Saint-Appoline, porte S. Martin"--P. 4. Printer from colophon. "Permis d'imprimer le 13 mars 1784"--P. 4. "Le prix de la souscription est de 36 livres par an pour Paris & de 42 liv. pour la province & les pays étrangers, franc de port ... L'ouvrage, pour ceux qui n'auront pas souscrit, se vendra à raison de 4 liv. le volume"--P. 3. Scanner's note: No copyright found.  No table of contents found.  Damaged, stained pages and cover.  <br />."""
+url = "https://archive.org/details/prospectus00vass"
+subject = [
+    "Traduction du théâtre anglois depuis l'origine des spectacles jusqu'à nos jours",
+    "Booksellers and bookselling",
+    "English drama",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1b no. 1"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6645f33r"
+internet_archive = "prospectus00vass"
+
+[scan]
+file = "prospectus00vass.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/prospectus00vass"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "Vasse, Cornélie Wouters, baronne de, 1737?-1802"
+role = "author"
+
+[[resp]]
+name = "Mérigot, Jacques François"
+role = "bookseller"
+
+[[resp]]
+name = "Mérigot, Jean-Gabriel"
+role = "bookseller"
+
+[[resp]]
+name = "Belin, François, 1748-1808"
+role = "bookseller"
+
+[[resp]]
+name = "Renaut, libraire"
+role = "bookseller"
+
+[[resp]]
+name = "Veuve Ballard & fils"
+role = "printer"
+
+[[resp]]
+name = "De l'imprimerie de la Veuve Ballard & fils, imprimeurs du roi, rue des Mathurins"
+role = "publisher"
+
+[[text]]
+file = "prospectus00vass.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectus00vass.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectus00vass.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectus00vass.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectus00vass.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectus00vass.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectus00vass.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectus00vass.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

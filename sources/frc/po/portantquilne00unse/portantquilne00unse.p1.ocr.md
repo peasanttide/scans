@@ -1,0 +1,58 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: portantquilne00unse
+page: 1
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 3231
+h: 4351
+dpi: 350
+---
+
+.(N®. 68. * 4)
+
+LOI
+
+Poftant qii ii ne sera Jalt auciiri usage de La poudre dans Lesjetes
+publiques , pendant toute La durée de La guerre , etc.
+
+Du 9 Fructidor, l’an d«uxième de la République française, une et indivisible.
+
+La Convention nationale , après avoir entendu le rapport du
+comité de salut public, décrète :
+
+Articletremier.
+
+Pendant toute la durée de la guerre, il ne sera fait aucun usage
+de la poudre dans les fêtes publiques.
+
+I I.
+
+Toutes salves d’artilleri© lors de la réception des commandans de
+terre ou de mer sont pareillement supprimées.
+
+I I 1.
+
+Les usages pratiqués à la mer pour la reconnaissance des vaisseaux
+et pour assurer les pavillons , continueront d’avoir lieu.
+
+Visé par Le représentant du peuple^ inspecteur aux procès-verbaux.
+
+Signé Bouillerot.
+
+Collationné à l’original , par nous président et secrétaires de la Convention nationale.
+A Paris, le lo Fruetidor , an second de la République française, une et indivisible.
+Signé VüULLAND ex-président'^ Bentabolle et Lecointre , secrétaires.
+
+B.N°. 46.
+D. 246.
+
+I? ’
+
+■ i !
+
+A Paris de Ruiprimerie du Dépôt des Lois , place de la Réunion , ci-devant du grand Carousel.
+
+IttîT
+
+V'fSfr

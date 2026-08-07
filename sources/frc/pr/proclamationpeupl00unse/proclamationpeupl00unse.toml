@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "proclamationpeupl00unse"
+type = "pamphlet"
+title = "... Proclamation au nom du peuple français : l'an second de la République française [1793]"
+language = "fr"
+place = "A Nevers"
+date = "1793"
+note = "Caption title. Imprint from colophon. At head of title: Departement de la Nievre. Dated at end: Fait `a Paris, le 18 juillet mil sept cent quatre- vingt-treize, l'an second de la République françoise. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages."
+url = "https://archive.org/details/proclamationpeupl00unse"
+extent = "4 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10015"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9h46v810"
+internet_archive = "proclamationpeupl00unse"
+openlibrary_edition = "OL26222578M"
+openlibrary_work = "OL17618049W"
+
+[scan]
+file = "proclamationpeupl00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/proclamationpeupl00unse"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Nièvre (France)"
+role = "author"
+
+[[resp]]
+name = "Nièvre (France)"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de J. B. Lefebvre le jeune, imp. du département de la Ni`evre"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_70123"
+
+[[text]]
+file = "proclamationpeupl00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "proclamationpeupl00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "proclamationpeupl00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "proclamationpeupl00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

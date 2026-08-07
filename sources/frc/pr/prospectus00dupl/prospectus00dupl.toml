@@ -1,0 +1,102 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "prospectus00dupl"
+type = "pamphlet"
+title = "Prospectus"
+language = "fr"
+place = "Paris"
+date = "1786"
+note = """Caption title. "Les personnes qui voudront faire insérer quelques articles dans cette feuille ... sont priées d'adresser les paquets & lettres, ainsi que les livres, franc de port, à Pierre J. Duplain, libraire à Paris, cour du Commerce, rue de l'Ancienne Comédie Françoise, chez lequel on s'abonne. Le prix de l'abonnement est de 9 liv. 12 sols, port franc par-tout le royaume"--P. 2. Printer statement from colophon. Bookseller's advertisement (p. 3) includes a title published in 1786. Scanner's note: No copyright found.  No table of contents found.  Damaged, stained pages and cover.  <br />."""
+url = "https://archive.org/details/prospectus00dupl"
+subject = [
+    "Gazette de santé",
+    "Booksellers and bookselling",
+    "Medical publishing",
+    "Periodicals",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1d no. 33"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0102sk2z"
+internet_archive = "prospectus00dupl"
+
+[scan]
+file = "prospectus00dupl.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/prospectus00dupl"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "Duplain, Pierre-Jacques"
+role = "author"
+
+[[resp]]
+name = "Ballard, Marie-Anne-Geneviève, fl. 1765-1789"
+role = "printer"
+
+[[resp]]
+name = "Ballard, Pierre-Robert-Christophe, 1744-1812"
+role = "printer"
+
+[[resp]]
+name = "De l'imprimerie de la veuve Ballard & fils, imprimeurs du roi, rue des Mathurins"
+role = "publisher"
+
+[[text]]
+file = "prospectus00dupl.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectus00dupl.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectus00dupl.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectus00dupl.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectus00dupl.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectus00dupl.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectus00dupl.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectus00dupl.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

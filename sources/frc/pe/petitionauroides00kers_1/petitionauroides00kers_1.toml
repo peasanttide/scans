@@ -1,0 +1,95 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "petitionauroides00kers_1"
+type = "pamphlet"
+title = "Pétition au roi des Français, trouvée dans les papiers du roi : lue à la séance du 6 décembre 1792."
+language = "fr"
+place = "A Paris"
+date = "1792"
+note = """Caption title. Signed at end: Kersaint, l'aîné, Administrateur du département de Paris. Imprint from colophon. "Imprimée par ordre de la Convention nationale, et envoyée aux 84 départemens.". First line of p. 6: "vant passer de cet exercice ... "; other editions have variant typesetting. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française, II, 17733. Scanner's note: No copyright page found. No table-of-contents pages found. Damaged, stained pages and cover. Title on cover."""
+url = "https://archive.org/details/petitionauroides00kers_1"
+subject = [
+    "Louis XVI, King of France, 1754-1793",
+    "Nobility",
+    "Clergy",
+    "Constitutional history",
+]
+extent = "6 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 27670"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8jf06z9t"
+internet_archive = "petitionauroides00kers_1"
+
+[scan]
+file = "petitionauroides00kers_1.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/petitionauroides00kers_1"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Kersaint, Armand-Guy, 1742-1793"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_841510"
+
+[[text]]
+file = "petitionauroides00kers_1.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "petitionauroides00kers_1.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "petitionauroides00kers_1.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "petitionauroides00kers_1.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "petitionauroides00kers_1.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "petitionauroides00kers_1.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

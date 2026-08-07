@@ -1,0 +1,92 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "proclamationroi00unse_13"
+type = "pamphlet"
+title = "Proclamation du roi, sur un décret de l'Assemblée nationale du 9 juillet 1790, relatif à la fédération du 14, au rang qu'y occupera l'Assemblée nationale, et à la formule du serment du roi : donnée à Paris, le 11 juillet 1790"
+language = "fr"
+place = "Paris"
+date = "1791"
+note = """Caption title. "Signé, Louis, et plus bas, par le roi, Guignard"--P. 3. Imprint from colophon. Not in Martin & Walter. Révolution française. "Décret de l'Assemblée nationale, du 9 juillet 1790"--P. [1]-3. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages."""
+url = "https://archive.org/details/proclamationroi00unse_13"
+subject = [
+    "France. Armée",
+    "Prerogative, Royal",
+    "Loyalty oaths",
+]
+extent = "3 p. ; 28 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10143 no. 10"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0ps2wv52"
+internet_archive = "proclamationroi00unse_13"
+openlibrary_edition = "OL26222533M"
+openlibrary_work = "OL17618004W"
+
+[scan]
+file = "proclamationroi00unse_13.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/proclamationroi00unse_13"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Sovereign (1774-1792 : Louis XVI)"
+role = "author"
+
+[[resp]]
+name = "Louis XVI, King of France, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "Saint-Priest, François-Emmanuel Guignard, comte de, 1735-1821"
+role = "author"
+
+[[resp]]
+name = "Prault, Louis-François, 1734-1806"
+role = "publisher"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Prault D.S.M., imprim. de l'Assemblée electoraee [sic], cour de Palais"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_855128"
+
+[[text]]
+file = "proclamationroi00unse_13.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "proclamationroi00unse_13.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "proclamationroi00unse_13.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "proclamationroi00unse_13.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

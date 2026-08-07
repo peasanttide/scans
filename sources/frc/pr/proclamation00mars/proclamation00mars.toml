@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "proclamation00mars"
+type = "pamphlet"
+title = "Proclamation /"
+language = "fr"
+place = "A Marseille"
+date = "1791"
+note = "Caption title. Imprint from colophon. Dated at end: Fait à Marseille, dans la Maison commune, le 9 avril 1791. Martin & Walter IV 2: 9514. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover."
+url = "https://archive.org/details/proclamation00mars"
+subject = ["Mirabeau, Honoré-Gabriel de Riquetti, comte de, 1749-1791"]
+extent = "4 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 5321"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/txxxxxxxx"
+internet_archive = "proclamation00mars"
+openlibrary_edition = "OL26212199M"
+openlibrary_work = "OL17608180W"
+
+[scan]
+file = "proclamation00mars.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/proclamation00mars"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Marseille (France)"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de J. Mossy, père & fils"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_55116"
+
+[[text]]
+file = "proclamation00mars.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "proclamation00mars.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "proclamation00mars.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "proclamation00mars.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

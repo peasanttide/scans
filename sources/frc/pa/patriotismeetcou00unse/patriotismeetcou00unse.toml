@@ -1,0 +1,71 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "patriotismeetcou00unse"
+type = "pamphlet"
+title = "Patriotisme et courage généreux des citoyens et citoyennes de Paris : aux travaux du Champ de Mars, pour le soutien de la constitution & de la liberté française."
+language = "fr"
+place = "Paris"
+date = "1790"
+note = "Caption title. Imprint from colophon. Page 4 numbered 6. Martin & Walter IV 2: 13522. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on cover page. Damaged, stained and/or loose pages. Uneven binding. Skewed text. Page numbers skip from 3 to 6. Irregular pagination."
+url = "https://archive.org/details/patriotismeetcou00unse"
+subject = [
+    "Champ-de-Mars (Paris, France)",
+    "Paris (France). Citizens",
+]
+extent = "6 [i.e. 4] p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 6707"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1gj4kh3n"
+internet_archive = "patriotismeetcou00unse"
+openlibrary_edition = "OL26217880M"
+openlibrary_work = "OL17613605W"
+
+[scan]
+file = "patriotismeetcou00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/patriotismeetcou00unse"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "De l'imprimerie de Calais & Dubois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_60180"
+
+[[text]]
+file = "patriotismeetcou00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "patriotismeetcou00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "patriotismeetcou00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "patriotismeetcou00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

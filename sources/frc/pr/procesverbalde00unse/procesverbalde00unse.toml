@@ -1,0 +1,98 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "procesverbalde00unse"
+type = "pamphlet"
+title = "Proces-verbal de l'Assemblée nationale"
+language = "fr"
+place = "A Paris"
+date = "1789"
+note = """Prospectus for "Procès-verbal de l'Assemblée nationale," published 1789-1791. Caption title. Place of publication and printer statement from colophon. "Le Procès-verbal de l'Assemblée nationale commence au 17 juin"--P. 2. "On souscrit à Paris, chez Baudouin, imprimeur de l'Assemblée nationale, rue du Foin St.-Jacques, n°. 31"--P. 3. List of 32 other booksellers in 32 other cities where one may also subscribe, p. 3-4. "Le prix de l'abonnement ... est pour Paris et Versailles de 18 livres, et de 21 livres pour la province"--P. [1]-2. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Text extends off of the edge of the page. Text may be lost in the binding. Permanent creases may obscure some text. Title page and cover are combined."""
+url = "https://archive.org/details/procesverbalde00unse"
+subject = [
+    "France. Assemblée nationale constituante (1789-1791)",
+    "Booksellers and bookselling",
+    "Government publications",
+    "Periodicals",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1d no. 91"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3wt4c813"
+internet_archive = "procesverbalde00unse"
+
+[scan]
+file = "procesverbalde00unse.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/procesverbalde00unse"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Baudouin, François-Jean, 1759-1838"
+role = "printer"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791). Procès-verbal de l'Assemblée nationale"
+role = "author"
+
+[[resp]]
+name = "Chez Baudouin, imprimeur de l'Assemblée nationale, rue du Foin-Saint-Jacques, n°. 31"
+role = "publisher"
+
+[[text]]
+file = "procesverbalde00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "procesverbalde00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "procesverbalde00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "procesverbalde00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "procesverbalde00unse.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "procesverbalde00unse.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "procesverbalde00unse.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "procesverbalde00unse.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

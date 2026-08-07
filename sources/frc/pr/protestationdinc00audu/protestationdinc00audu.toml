@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "protestationdinc00audu"
+type = "pamphlet"
+title = "Protestation d'incompétence, dictée par Reine-Louise Audu, accusée dans l'affaire des 5 & 6 octobre 1789, & lue publiquement en l'une des salles du Châtelet, par M. de La Huproie, le 30 septembre 1790."
+language = "fr"
+place = "Paris"
+date = "1790"
+note = "Caption title. Imprint from colophon. Publisher location from Martin & Walter. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  I, 830. Scanner's note: No copyright page found. No table-of-contents pages found. Stained and damaged pages and cover."
+url = "https://archive.org/details/protestationdinc00audu"
+subject = [
+    "Paris (France). Châtelet",
+    "Jurisdiction",
+]
+extent = "3 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 13740"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8tb5qc2c"
+internet_archive = "protestationdinc00audu"
+openlibrary_edition = "OL25910026M"
+openlibrary_work = "OL17333976W"
+
+[scan]
+file = "protestationdinc00audu.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/protestationdinc00audu"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Audu, Reine-Louise"
+role = "author"
+
+[[resp]]
+name = "De l'Impri[m]erie de Roland, rue Thibautodé, no. 7"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_828846"
+
+[[text]]
+file = "protestationdinc00audu.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "protestationdinc00audu.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "protestationdinc00audu.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "protestationdinc00audu.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

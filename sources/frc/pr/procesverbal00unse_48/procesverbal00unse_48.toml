@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "procesverbal00unse_48"
+type = "pamphlet"
+title = "Proc`es-verbal : du serment solemnel pr^eté par les deux compagnies du Bataillon des chasseurs corses, en garnison au Puy, chef-lieu du département de la Haute-Loire ; conjointement avec les Gardes nationales de cette ville, la maréchaussée & les autres citoyens de tout ^age & tout sexe ; le 14 juillet 1790 ; extrait des registres de la maison commune"
+language = "fr"
+place = "s.l."
+date = "1790"
+note = "Caption title. Without imprint. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages."
+url = "https://archive.org/details/procesverbal00unse_48"
+subject = [
+    "France. Armée. Bataillon des chasseurs corses",
+    "Puy (France). Garde nationale",
+]
+extent = "3 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10140"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1wd9040g"
+internet_archive = "procesverbal00unse_48"
+openlibrary_edition = "OL26222371M"
+openlibrary_work = "OL17617840W"
+
+[scan]
+file = "procesverbal00unse_48.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/procesverbal00unse_48"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Puy (France)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_71186"
+
+[[text]]
+file = "procesverbal00unse_48.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "procesverbal00unse_48.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "procesverbal00unse_48.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "procesverbal00unse_48.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

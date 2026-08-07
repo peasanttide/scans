@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "precisdemleprinc00cont"
+type = "pamphlet"
+title = "Précis de M. le prince de Conty."
+language = "fr"
+place = "France"
+date = "1789"
+note = "Caption title. Signed: L.F.J. de Bourbon. Ce 10 septembre 1789. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Skewed text."
+url = "https://archive.org/details/precisdemleprinc00cont"
+subject = ["Conti, Louis-François-Joseph de Bourbon, prince de, 1734-1814"]
+extent = "4 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 16581"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3mw7dx78"
+internet_archive = "precisdemleprinc00cont"
+openlibrary_edition = "OL26197942M"
+openlibrary_work = "OL17594654W"
+
+[scan]
+file = "precisdemleprinc00cont.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/precisdemleprinc00cont"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Conti, Louis-François-Joseph de Bourbon, prince de, 1734-1814"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_835357"
+
+[[text]]
+file = "precisdemleprinc00cont.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "precisdemleprinc00cont.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "precisdemleprinc00cont.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "precisdemleprinc00cont.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,96 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "prospectusduvoya00sain"
+type = "pamphlet"
+title = "Prospectus du Voyage pittoresque de l'Italie"
+language = "fr"
+place = "Paris"
+date = "1778"
+note = """Prospectus for Saint Non's "Voyage pittoresque à Naples et en Sicile.". Caption title. "A Paris, ce 19 octobre 1778"--Imprimatur, p. 7. "On engage les amateurs à faire parvenir leurs soumissions qui seront enregistrées suivant l'ordre de leur réception, & l'on s'adressera pour cet effet à M. de Lafosse, graveur ...: sa demeure est place & rue du Carousel, vis-à-vis les Tuileries"--P. 5. "Le prix de chaque livraison ..., etant composée de huit estampes, est de 12 liv."--P. 4. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text.  Title page and cover are combined."""
+url = "https://archive.org/details/prospectusduvoya00sain"
+subject = [
+    "Saint Non, Jean Claude Richard de, 1727-1791",
+    "Booksellers and bookselling",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1b no. 40"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6tx9123c"
+internet_archive = "prospectusduvoya00sain"
+
+[scan]
+file = "prospectusduvoya00sain.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/prospectusduvoya00sain"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Saint Non, Jean Claude Richard de, 1727-1791. Voyage pittoresque à Naples et en Sicile"
+role = "author"
+
+[[resp]]
+name = "Delafosse, Jean Baptiste, 1721-1775"
+role = "bookseller"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[text]]
+file = "prospectusduvoya00sain.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectusduvoya00sain.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectusduvoya00sain.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectusduvoya00sain.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectusduvoya00sain.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectusduvoya00sain.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectusduvoya00sain.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectusduvoya00sain.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

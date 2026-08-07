@@ -1,0 +1,68 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "prixcourantengro00unse"
+type = "pamphlet"
+title = "Prix courant en gros des marchandises sur la place de Bordeaux : du 9 germinal, septième année [27 mars 1799]"
+language = "fr"
+place = "A Bordeaux"
+date = "1799"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Scanner's note: No title page found. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/prixcourantengro00unse"
+subject = ["Prices"]
+extent = "[4] p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 7087"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/txxxxxxxx"
+internet_archive = "prixcourantengro00unse"
+openlibrary_edition = "OL26212490M"
+openlibrary_work = "OL17608471W"
+
+[scan]
+file = "prixcourantengro00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/prixcourantengro00unse"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "De l'imprimerie de Racle"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_61906"
+
+[[text]]
+file = "prixcourantengro00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prixcourantengro00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prixcourantengro00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prixcourantengro00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

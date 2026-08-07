@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "projetderesoluti00fran"
+type = "pamphlet"
+title = "... Projet de resolution : séance du 20 fructidor, an 4 [6 septembre 1796]"
+language = "fr"
+place = "A Paris"
+date = "1796"
+note = """Caption title. Imprint from colophon. At head of title: Corps législatif. Conseil des cinq-cents. "... la loi du 4 brumaire dernier [26 octobre 1795] a prononcé une amnistie; mais ... les dispositions de cette loi laissent des incertitudes qu'on ne sauroit trop se hâter de faire cesser ...": p.[1]. Martin & Walter IV 2: 3932. Scanner's note: No copyright. No table of contents. Title on cover. Damaged, stained pages and cover."""
+url = "https://archive.org/details/projetderesoluti00fran"
+subject = ["Amnesty"]
+extent = "3 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 2045"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3sv2mx0p"
+internet_archive = "projetderesoluti00fran"
+openlibrary_edition = "OL26209248M"
+openlibrary_work = "OL17605500W"
+
+[scan]
+file = "projetderesoluti00fran.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/projetderesoluti00fran"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Corps législatif (1795-1814). Conseil des cinq-cents"
+role = "author"
+
+[[resp]]
+name = "France. Corps législatif (1795-1814). Conseil des cinq-cents"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_46259"
+
+[[text]]
+file = "projetderesoluti00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "projetderesoluti00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "projetderesoluti00fran.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "projetderesoluti00fran.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

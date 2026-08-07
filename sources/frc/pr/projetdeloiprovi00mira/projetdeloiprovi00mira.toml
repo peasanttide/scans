@@ -1,0 +1,78 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "projetdeloiprovi00mira"
+type = "pamphlet"
+title = "Projet de loi provisoire pour servir de supplément à la loi martiale, a discuter dans la séance de l'Assemblée nationale du 22 février 1790 /"
+language = "fr"
+place = "France"
+date = "1790"
+note = "Caption title. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  III, 24519. Scanner's note: Title page and cover are combined. Damaged, stained, marked and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/projetdeloiprovi00mira"
+subject = [
+    "War and emergency powers",
+    "Martial law",
+    "Civil-military relations",
+]
+extent = "4 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 22653"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t79s7194g"
+internet_archive = "projetdeloiprovi00mira"
+
+[scan]
+file = "projetdeloiprovi00mira.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/projetdeloiprovi00mira"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Mirabeau, Honoré-Gabriel de Riquetti, comte de, 1749-1791"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_847134"
+
+[[text]]
+file = "projetdeloiprovi00mira.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "projetdeloiprovi00mira.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "projetdeloiprovi00mira.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "projetdeloiprovi00mira.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

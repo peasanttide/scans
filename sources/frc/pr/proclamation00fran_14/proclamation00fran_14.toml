@@ -1,0 +1,77 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "proclamation00fran_14"
+type = "pamphlet"
+title = "Proclamation"
+language = "fr"
+place = "A Epinal"
+date = "1792"
+note = "Caption title. Imprint from colophon. Martin & Walter IV 2: 4028. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."
+url = "https://archive.org/details/proclamation00fran_14"
+extent = "4 p. ; 23 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9605"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1rg0vh6p"
+internet_archive = "proclamation00fran_14"
+
+[scan]
+file = "proclamation00fran_14.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/proclamation00fran_14"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Conseil exécutif provisoire (1792-1793)"
+role = "author"
+
+[[resp]]
+name = "France. Conseil exécutif provisoire (1792-1793)"
+role = "author"
+
+[[resp]]
+name = "Vosges (France)"
+role = "author"
+
+[[resp]]
+name = "Chez Haener"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_67909"
+
+[[text]]
+file = "proclamation00fran_14.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "proclamation00fran_14.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "proclamation00fran_14.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "proclamation00fran_14.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

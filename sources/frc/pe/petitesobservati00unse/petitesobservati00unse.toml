@@ -1,0 +1,68 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "petitesobservati00unse"
+type = "pamphlet"
+title = "Petites observations sur deux grand théâtres : dont la réunion doit coûter dix millions au gouvernement."
+language = "fr"
+place = "Paris"
+date = "1795"
+note = """Caption title. Imprint from colophon. About "La réunion projetée des Artistes françois au Théâtre des arts ..." (cf. p.2). Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on cover page. Damaged, stained and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/petitesobservati00unse"
+subject = ["Theaters"]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 6757"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0tr10h98"
+internet_archive = "petitesobservati00unse"
+openlibrary_edition = "OL26217947M"
+openlibrary_work = "OL17613673W"
+
+[scan]
+file = "petitesobservati00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/petitesobservati00unse"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "De l'imprimerie des Enfans-Aveugles"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_60353"
+
+[[text]]
+file = "petitesobservati00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "petitesobservati00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "petitesobservati00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "petitesobservati00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

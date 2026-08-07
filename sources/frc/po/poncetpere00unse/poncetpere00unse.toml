@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "poncetpere00unse"
+type = "pamphlet"
+title = "Poncet père, à ses concitoyens"
+language = "fr"
+place = "France"
+date = "1793"
+note = "Caption title. Signed: Paris, le 5 août 1793 ... J.J. Poncet. Martin & Walter. Révolution française. Describes the conflict between his son, capitaine in the Armée du Nord, and Westermann. Bibliography: Martin & Walter.  Révolution française, III, 27764. Scanner's note: No copyright page found. No table-of-contents pages found.   Title page and cover are combined. Damaged, stained and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/poncetpere00unse"
+subject = [
+    "Poncet, capitaine",
+    "Westermann, François Joseph, 1751?-1794",
+    "Libel and slander",
+]
+extent = "4 p. ; 18 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 27102"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t74v1r30d"
+internet_archive = "poncetpere00unse"
+openlibrary_edition = "OL26226353M"
+openlibrary_work = "OL17621620W"
+
+[scan]
+file = "poncetpere00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/poncetpere00unse"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Poncet, Jean Jacques"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_867742"
+
+[[text]]
+file = "poncetpere00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "poncetpere00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "poncetpere00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "poncetpere00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

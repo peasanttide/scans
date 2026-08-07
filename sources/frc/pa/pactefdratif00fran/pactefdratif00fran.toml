@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "pactefdratif00fran"
+type = "pamphlet"
+title = "Pacte fédératif /"
+language = "fr"
+place = "A Falaise"
+date = "1791"
+note = "Caption title. Imprint from colophon. This edition not in Martin & Walter (cf. IV 2: 11689, which supplies the date: 10 mai 1791). Scanner's note: No copyright page found. No table-of-contents pages found. Title is on cover page. Damaged, stained and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/pactefdratif00fran"
+extent = "4 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 6267"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6256q797"
+internet_archive = "pactefdratif00fran"
+openlibrary_edition = "OL26218507M"
+openlibrary_work = "OL17614213W"
+
+[scan]
+file = "pactefdratif00fran.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/pactefdratif00fran"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Armée. Régiment du commissaire général"
+role = "author"
+
+[[resp]]
+name = "France. Armée. Régiment du commissaire général"
+role = "author"
+
+[[resp]]
+name = "Chez François Bouquet"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_58491"
+
+[[text]]
+file = "pactefdratif00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "pactefdratif00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "pactefdratif00fran.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "pactefdratif00fran.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

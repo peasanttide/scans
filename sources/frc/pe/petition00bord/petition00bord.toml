@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "petition00bord"
+type = "pamphlet"
+title = "Pétition /"
+language = "fr"
+place = "A Bordeaux"
+date = "1792"
+note = "Caption title. Imprint from colophon. Martin & Walter IV 2: 13827. Scanner's note: Title page located on front cover. No copyright page found. No table-of-contents pages found. Worn, damaged and discolored pages and cover. Skewed text. Uneven binding."
+url = "https://archive.org/details/petition00bord"
+subject = ["Prerogative, Royal"]
+extent = "4 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 6808"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4qk2hb6m"
+internet_archive = "petition00bord"
+openlibrary_edition = "OL26217982M"
+openlibrary_work = "OL17613708W"
+
+[scan]
+file = "petition00bord.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/petition00bord"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Bordeaux (Aquitaine, France). Citizens"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale législative (1791-1792)"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie du Club national"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_60499"
+
+[[text]]
+file = "petition00bord.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "petition00bord.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "petition00bord.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "petition00bord.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

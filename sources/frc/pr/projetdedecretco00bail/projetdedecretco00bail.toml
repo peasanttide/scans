@@ -1,0 +1,57 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "projetdedecretco00bail"
+type = "pamphlet"
+title = "Projet de decret concernant l'octroi des marchands de Rouen"
+language = "fr"
+date = "1792"
+note = "Caption title. At head of title: Convention nationale. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,I, 1050."
+url = "https://archive.org/details/projetdedecretco00bail"
+subject = ["Octroi"]
+extent = "2 p. ;19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "CaseFRC10582"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0jt2q249"
+internet_archive = "projetdedecretco00bail"
+
+[scan]
+file = "projetdedecretco00bail.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/projetdedecretco00bail"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Baille, Pierre Marie,1750-1793"
+role = "author"
+
+[[resp]]
+name = "[Paris] :De l'Imprimer nationale,"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_823621"
+
+[[text]]
+file = "projetdedecretco00bail.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "projetdedecretco00bail.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"

@@ -1,0 +1,84 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "projetdedecretsu00cham"
+type = "pamphlet"
+title = "Projet de décret sur les finances, par Chamborre (de Saone & Loire) : imprimé par ordre de la Convention nationale."
+language = "fr"
+place = "Paris"
+date = "1795"
+note = "Caption title. At head of title: Convention nationale. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  I, 6663. Scanner's note: No copyright page found. No table-of-contents pages found. Damaged, stained pages and cover. Title on cover page."
+url = "https://archive.org/details/projetdedecretsu00cham"
+subject = [
+    "Monetary policy",
+    "Assignats",
+    "Finance, Public",
+]
+extent = "3 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 16001"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t43r5sg1k"
+internet_archive = "projetdedecretsu00cham"
+openlibrary_edition = "OL25951537M"
+openlibrary_work = "OL17372531W"
+
+[scan]
+file = "projetdedecretsu00cham.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/projetdedecretsu00cham"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Chamborre, Jean-Baptiste, 1761-1837"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_833625"
+
+[[text]]
+file = "projetdedecretsu00cham.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "projetdedecretsu00cham.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "projetdedecretsu00cham.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "projetdedecretsu00cham.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

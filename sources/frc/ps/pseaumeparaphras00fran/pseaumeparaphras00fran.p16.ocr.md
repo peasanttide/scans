@@ -1,0 +1,18 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: pseaumeparaphras00fran
+page: 16
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 2649
+h: 4322
+dpi: 500
+---
+
+-m-.r
+
+I,: ^ '" ’ •> ,
+
+L.r:..-r)n2.:_ , ,
+
+♦ !' , * ' • ** , f '' . f ^ V - r

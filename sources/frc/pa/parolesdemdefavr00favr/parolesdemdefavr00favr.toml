@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "parolesdemdefavr00favr"
+type = "pamphlet"
+title = "Paroles de M. de Favras, recueillies au Châtelet, hier vendredi, depuis dix heures et demie du matin jusqu'à une heure après midi."
+language = "fr"
+place = "Paris"
+date = "1790"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover."
+url = "https://archive.org/details/parolesdemdefavr00favr"
+subject = ["Favras, Thomas de Mahy, marquis de, 1744-1790"]
+extent = "4 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 18538"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8x976z81"
+internet_archive = "parolesdemdefavr00favr"
+openlibrary_edition = "OL26201961M"
+openlibrary_work = "OL17598480W"
+
+[scan]
+file = "parolesdemdefavr00favr.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/parolesdemdefavr00favr"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Favras, Thomas de Mahy, marquis de, 1744-1790"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Hérault, rue de Harlay, no. 15, au Marais"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_838828"
+
+[[text]]
+file = "parolesdemdefavr00favr.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "parolesdemdefavr00favr.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "parolesdemdefavr00favr.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "parolesdemdefavr00favr.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

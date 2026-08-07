@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "prospectuspourle00unse"
+type = "pamphlet"
+title = "Prospectus : pour l'exécution du projet d'encouragement pour les arts de peinture, de sculpture et gravure."
+language = "fr"
+place = "s.l."
+date = "1790"
+note = "Caption title. Without imprint. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on the cover page. Uneven binding. Skewed text. Damaged, stained, and/or loose pages."
+url = "https://archive.org/details/prospectuspourle00unse"
+subject = [
+    "Painting",
+    "Sculpture",
+    "Engraving",
+]
+extent = "4 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 7263"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2n63nf42"
+internet_archive = "prospectuspourle00unse"
+openlibrary_edition = "OL26220661M"
+openlibrary_work = "OL17616245W"
+
+[scan]
+file = "prospectuspourle00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/prospectuspourle00unse"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_61675"
+
+[[text]]
+file = "prospectuspourle00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectuspourle00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectuspourle00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectuspourle00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

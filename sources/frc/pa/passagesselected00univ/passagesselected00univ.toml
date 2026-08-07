@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "passagesselected00univ"
+type = "pamphlet"
+title = "Passages selected for censure in books"
+language = "en"
+place = "A Paris"
+date = "1700"
+note = "Without title. Imprint at foot of p.4. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Title page and cover are combined."
+url = "https://archive.org/details/passagesselected00univ"
+subject = [
+    "Catholic Church",
+    "Censorship",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 2 no. 104"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8cg5b75t"
+internet_archive = "passagesselected00univ"
+
+[scan]
+file = "passagesselected00univ.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/passagesselected00univ"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Université de Paris.Faculté de théologie"
+role = "author"
+
+[[resp]]
+name = "Université de Paris. Faculté de théologie"
+role = "author"
+
+[[resp]]
+name = "Le Gobien, Charles, 1653-1708"
+role = "author"
+
+[[resp]]
+name = "Le Comte, Louis Daniel, 1655-1728"
+role = "author"
+
+[[resp]]
+name = "Chez Louis Josse"
+role = "publisher"
+
+[[text]]
+file = "passagesselected00univ.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "en"
+
+[[text]]
+file = "passagesselected00univ.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "en"
+
+[[text]]
+file = "passagesselected00univ.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "en"
+
+[[text]]
+file = "passagesselected00univ.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "en"

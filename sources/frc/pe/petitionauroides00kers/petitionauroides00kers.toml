@@ -1,0 +1,97 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "petitionauroides00kers"
+type = "pamphlet"
+title = "Pétition au roi des Français, trouvée dans les papiers du roi : lue à la séance du 6 décembre 1792."
+language = "fr"
+place = "A Paris"
+date = "1792"
+note = """Caption title. Signed at end: Kersaint, l'aîné, Administrateur du département de Paris. Imprint from colophon. "Imprimée par ordre de la Convention nationale, et envoyée aux 84 départemens.". First line of p. 6: "vant passer de cet exercice ... "; other editions have variant typesetting. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  II, 17733. Scanner's note: No title page found. No copyright page found. No table-of-contents pages found."""
+url = "https://archive.org/details/petitionauroides00kers"
+subject = [
+    "Louis XVI, King of France, 1754-1793",
+    "Nobility",
+    "Clergy",
+    "Constitutional history",
+]
+extent = "6 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 20102"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3xt0r07r"
+internet_archive = "petitionauroides00kers"
+openlibrary_edition = "OL26205419M"
+openlibrary_work = "OL17601741W"
+
+[scan]
+file = "petitionauroides00kers.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/petitionauroides00kers"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Kersaint, Armand-Guy, 1742-1793"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_841510"
+
+[[text]]
+file = "petitionauroides00kers.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "petitionauroides00kers.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "petitionauroides00kers.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "petitionauroides00kers.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "petitionauroides00kers.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "petitionauroides00kers.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

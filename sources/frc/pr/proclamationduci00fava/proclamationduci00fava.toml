@@ -1,0 +1,84 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "proclamationduci00fava"
+type = "pamphlet"
+title = "Proclamation du citoyen Favart, maréchal-de-camp commandant en chef la troisième division militaire : du 3 octobre 1792, l'an 1er. de la République françoise"
+language = "fr"
+place = "A Metz"
+date = "1792"
+note = """Caption title. Imprint from colophon. Variant of Martin & Walter. Révolution française, II, 13237. "Copie de la lettre écrite par le général Dumouriez, commandant en chef l'Armée du Nord, au citoyen Favart, maréchal-de-camp, commandant en chef la troisième division militaire"--P. [1]-2. Scanner's note: No copyright page found. No table-of-contents pages found. Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/proclamationduci00fava"
+subject = ["France. Armée"]
+extent = "3 p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 26720"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t58d52c3w"
+internet_archive = "proclamationduci00fava"
+openlibrary_edition = "OL26228444M"
+openlibrary_work = "OL17623512W"
+
+[scan]
+file = "proclamationduci00fava.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/proclamationduci00fava"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Favart, Jean-Baptiste de,1726-1806"
+role = "author"
+
+[[resp]]
+name = "Favart, Jean-Baptiste de, 1726-1806"
+role = "author"
+
+[[resp]]
+name = "Dumouriez, Charles François Du Périer, 1739-1823"
+role = "author"
+
+[[resp]]
+name = "Collignon, Jean-Baptiste, 1734-1794"
+role = "publisher"
+
+[[resp]]
+name = "Chez J.B. Collignon, imprimeur du commandement"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_864903"
+
+[[text]]
+file = "proclamationduci00fava.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "proclamationduci00fava.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "proclamationduci00fava.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "proclamationduci00fava.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

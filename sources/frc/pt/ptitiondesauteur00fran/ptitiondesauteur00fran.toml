@@ -1,0 +1,99 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "ptitiondesauteur00fran"
+type = "pamphlet"
+title = "Pétition des auteurs dramatiques : qui n'ont pas signé celle de M. de La Harpe."
+language = "fr"
+place = "Paris"
+date = "1790"
+note = "Caption title (at head of p.2) Imprint from colophon. Caption on p.[1]: A M. le président du Comité de constitution. Martin & Walter IV 2: 13731. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on cover page. Damaged, stained and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/ptitiondesauteur00fran"
+subject = [
+    "La Harpe, Jean-François de, 1739-1803",
+    "Dramatists, French",
+]
+extent = "8 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 6786"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5fc0539r"
+internet_archive = "ptitiondesauteur00fran"
+openlibrary_edition = "OL26217907M"
+openlibrary_work = "OL17613632W"
+
+[scan]
+file = "ptitiondesauteur00fran.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/ptitiondesauteur00fran"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791). Comité de Constitution"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de L. Potier de Lille"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_60274"
+
+[[text]]
+file = "ptitiondesauteur00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ptitiondesauteur00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ptitiondesauteur00fran.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ptitiondesauteur00fran.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ptitiondesauteur00fran.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ptitiondesauteur00fran.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ptitiondesauteur00fran.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ptitiondesauteur00fran.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

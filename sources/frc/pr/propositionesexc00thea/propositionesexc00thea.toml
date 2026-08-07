@@ -1,0 +1,67 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "propositionesexc00thea"
+type = "pamphlet"
+title = "Propositiones excerptae ex thesi propugnata apud Clericos Regulares Theatinos, 14"
+language = "la"
+date = "1666"
+note = "Caption title. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Title page and cover are combined."
+url = "https://archive.org/details/propositionesexc00thea"
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 2 no. 22"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7jq6ks30"
+internet_archive = "propositionesexc00thea"
+
+[scan]
+file = "propositionesexc00thea.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/propositionesexc00thea"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Theatines in France.Congrégation de Paris"
+role = "author"
+
+[[resp]]
+name = "Theatines in France. Congrégation de Paris"
+role = "author"
+
+[[resp]]
+name = "[Paris"
+role = "publisher"
+
+[[text]]
+file = "propositionesexc00thea.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "la"
+
+[[text]]
+file = "propositionesexc00thea.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "la"
+
+[[text]]
+file = "propositionesexc00thea.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "la"
+
+[[text]]
+file = "propositionesexc00thea.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "la"

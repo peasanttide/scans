@@ -1,0 +1,71 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "prcisexactdecequ00unse"
+type = "pamphlet"
+title = "Précis exact de ce qui s'est passé à Versailles : depuis neuf heures du matin, jusqu'à deux heures après midi ; du 27 juin [1789]"
+language = "fr"
+place = "s.l."
+date = "1789"
+note = "Caption title. Without imprint. Martin & Walter IV 2: 14226 (which supplies the date: 1789). Scanner's note: No copyright page found. No table-of-contents pages found. Title is on cover page. Damaged, stained and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/prcisexactdecequ00unse"
+subject = [
+    "France. Etats généraux",
+    "France. Assemblée nationale constituante (1789-1791)",
+]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 6988"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t20d01w7x"
+internet_archive = "prcisexactdecequ00unse"
+openlibrary_edition = "OL26218014M"
+openlibrary_work = "OL17613740W"
+
+[scan]
+file = "prcisexactdecequ00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/prcisexactdecequ00unse"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_61694"
+
+[[text]]
+file = "prcisexactdecequ00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prcisexactdecequ00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prcisexactdecequ00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prcisexactdecequ00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

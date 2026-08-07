@@ -1,0 +1,71 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "proclamation00salo"
+type = "pamphlet"
+title = "Proclamation"
+language = "fr"
+place = "A Salon"
+date = "1795"
+note = "Caption title. Imprint from colophon. Dated at end: Délibéré `a Salon, dans la Maison commune, le 29 pluvi^ose, an 3me. de la République française, une & indivisible [17 février 1795]. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."
+url = "https://archive.org/details/proclamation00salo"
+extent = "3 p. ; 25 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10251"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t37135z78"
+internet_archive = "proclamation00salo"
+openlibrary_edition = "OL26223526M"
+openlibrary_work = "OL17618991W"
+
+[scan]
+file = "proclamation00salo.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/proclamation00salo"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Salon-de-Provence (France)"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale de Calmen fils"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_71685"
+
+[[text]]
+file = "proclamation00salo.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "proclamation00salo.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "proclamation00salo.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "proclamation00salo.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

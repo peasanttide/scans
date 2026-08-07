@@ -1,0 +1,69 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "prospectusdelacr00pron"
+type = "pamphlet"
+title = "Prospectus de la création d'un typographie d'une écriture nouvelles, très aisées à apprendre, qui conservent rigoureusement toutes les richesses et tous les principes grammaticaux de la langue et de l'orthographe françoise, et de toutes celles pour lesquelles on se sert des caractères arabes"
+language = "fr"
+place = "A Paris"
+date = "1795"
+note = """Caption title. The word "beau" in upper and lower case letters with corresponding shorthand characters at head of title. "On ne pourra souscrire que chez-moi, Adrien Pront, agent d'affaires à Paris, rue de la Harpe, no. 249, vis-à-vis le rue des deux Portes ..."--P. 4. Imprint from colophon. With prices for works explaining the author's new method of shorthand and for works printed with this shorthand typeface. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Text extends off of the edge of the page. Text may be lost in the binding. Permanent creases may obscure some text. Title page and cover are combined."""
+url = "https://archive.org/details/prospectusdelacr00pron"
+subject = [
+    "Shorthand, French",
+    "Logography",
+    "Logotypes (Printing)",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 8 no. 53"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3sv38k6b"
+internet_archive = "prospectusdelacr00pron"
+
+[scan]
+file = "prospectusdelacr00pron.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/prospectusdelacr00pron"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Pront, Adrien"
+role = "author"
+
+[[resp]]
+name = "Imprimé chez-moi"
+role = "publisher"
+
+[[text]]
+file = "prospectusdelacr00pron.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectusdelacr00pron.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectusdelacr00pron.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectusdelacr00pron.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

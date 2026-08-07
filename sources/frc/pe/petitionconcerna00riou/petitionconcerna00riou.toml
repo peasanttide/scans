@@ -1,0 +1,82 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "petitionconcerna00riou"
+type = "pamphlet"
+title = "Pétition concernant le droit de patentes : présentée a l'Assemblée nationale, le 25 juin 1792, l'an 4e. de la liberté : imprimée par ordre de l'Assemblée nationale."
+language = "fr"
+place = "A Paris"
+date = "1792"
+note = """Caption title. Signed: Rioult, sergent dans la garde nationale de Fatouville, district de Pont-Audemer, département de l'Eure. Imprint from colophon. "Pétition. No. 54"--Bottom of p. [1]. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  IV:1, 29313. Scanner's note: No copyright page found. No table-of-contents pages found.   Title page and cover are combined. Damaged, stained, marked and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/petitionconcerna00riou"
+subject = [
+    "Business tax",
+    "Licenses",
+    "Tax incidence",
+]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 24441"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8qc59g1p"
+internet_archive = "petitionconcerna00riou"
+
+[scan]
+file = "petitionconcerna00riou.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/petitionconcerna00riou"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Rioult, sergent"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale législative (1791-1792)"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_850007"
+
+[[text]]
+file = "petitionconcerna00riou.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "petitionconcerna00riou.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "petitionconcerna00riou.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "petitionconcerna00riou.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,92 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "prospectus00dela_1"
+type = "pamphlet"
+title = "Prospectus"
+language = "fr"
+place = "Paris?"
+date = "1794"
+note = """Prospectus for "Les trois fabulistes, Ésope, Phèdre et La Fontaine", published in 1796. Caption title. "On souscrit à Paris chez Delance, successeur de Desaint, imprimeur, rue de la Harpe, n°. 133. La souscription est ouverte dès-à-présent, et sera fermée irrévocablement le 30 vendemiaire, an troisième de la République [21 October 1794]"--P. [1]. "On payera pour chaque exemplaire en 4 vol. in-8°, beau papier, 200 livres. Il sera ... 100 exemplaires in-4°, papier-vélin, dont la souscription est fixée à 2000 livres."--P. 2. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Title page and cover are combined."""
+url = "https://archive.org/details/prospectus00dela_1"
+subject = [
+    "Phaedrus",
+    "La Fontaine, Jean de, 1621-1695",
+    "Trois fabulistes, Ésope, Phèdre et La Fontaine",
+    "Aesop's fables",
+    "Booksellers and bookselling",
+    "Fables",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1a no. 62"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8qc5q55j"
+internet_archive = "prospectus00dela_1"
+
+[scan]
+file = "prospectus00dela_1.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/prospectus00dela_1"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Delance, J.-J.,fl. 1794-1811"
+role = "author"
+
+[[resp]]
+name = "Delance, J.-J., fl. 1794-1811"
+role = "author"
+
+[[resp]]
+name = "Gail, J.-B. (Jean-Baptiste), 1755-1829, editor"
+role = "translator"
+
+[[resp]]
+name = "Chamfort, Sébastien-Roch-Nicolas, 1740?-1794"
+role = "editor"
+
+[[resp]]
+name = "Phaedrus. Fabulae. French & Latin. 1796"
+role = "author"
+
+[[resp]]
+name = "La Fontaine, Jean de, 1621-1695. Fables. 1796"
+role = "author"
+
+[[resp]]
+name = "J.-J. Delance?"
+role = "publisher"
+
+[[text]]
+file = "prospectus00dela_1.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectus00dela_1.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectus00dela_1.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectus00dela_1.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

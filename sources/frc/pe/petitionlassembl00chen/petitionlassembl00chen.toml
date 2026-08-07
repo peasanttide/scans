@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "petitionlassembl00chen"
+type = "pamphlet"
+title = "Pétition à l'Assemblée nationale, du 24 août 1792, l'an 4e. de la liberté : imprimée par ordre de l'Assemblée nationale."
+language = "fr"
+place = "Paris"
+date = "1792"
+note = """Caption title. Signed: Marie-Joseph Chenier. Imprint from colophon. "Pétition. No. 94"--Bottom of p. [1]. Martin & Walter. Révolution française. "Réponse du président"--P. 4. Bibliography: Martin & Walter.  Révolution française,  I, 7287. Scanner's note: No title page found. No copyright page found. No table-of-contents pages found."""
+url = "https://archive.org/details/petitionlassembl00chen"
+subject = ["Civil rights"]
+extent = "4 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 16173"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t07x1dm53"
+internet_archive = "petitionlassembl00chen"
+openlibrary_edition = "OL26206192M"
+openlibrary_work = "OL17602487W"
+
+[scan]
+file = "petitionlassembl00chen.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/petitionlassembl00chen"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Chénier, Marie-Joseph, 1764-1811"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale législative (1791-1792)"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_833531"
+
+[[text]]
+file = "petitionlassembl00chen.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "petitionlassembl00chen.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "petitionlassembl00chen.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "petitionlassembl00chen.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

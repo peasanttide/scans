@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "paroledemandeeau00epre"
+type = "pamphlet"
+title = "Parole demandée au sujet des assignats, par M. d' Epremesnil, pour répliquer à M. de Mirabeau et présenter un plan."
+language = "fr"
+place = "Paris"
+date = "1790"
+note = """Caption title. At head of title: Assemblée Nationale. Signed: Du Val d'Empremesnil. "Paris, 16 septembre 1790. Déposé chez M. Dufoulleur, notaire au Châtelet, rue Montmartre"--P. 3. Not in: Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover."""
+url = "https://archive.org/details/paroledemandeeau00epre"
+subject = [
+    "Mirabeau, Honoré-Gabriel de Riquetti, comte de, 1749-1791",
+    "Assignats",
+    "Finance, Public",
+]
+extent = "3 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 11643"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t72v7896v"
+internet_archive = "paroledemandeeau00epre"
+openlibrary_edition = "OL25924822M"
+openlibrary_work = "OL17347433W"
+
+[scan]
+file = "paroledemandeeau00epre.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/paroledemandeeau00epre"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Eprémesnil, M. d' (Jean-Jacques), 1745-1794"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_824803"
+
+[[text]]
+file = "paroledemandeeau00epre.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "paroledemandeeau00epre.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "paroledemandeeau00epre.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "paroledemandeeau00epre.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

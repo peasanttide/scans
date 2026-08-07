@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "projetderesoluti00rouy"
+type = "pamphlet"
+title = "Projet de résolution par Rouyer sur la solde des grenadiers formant la garde du Corps législatif : séance du 24 floréal, an V."
+language = "fr"
+place = "A Paris"
+date = "1797"
+note = "Caption title. At head of title: Corps législatif, Conseil des cinq-cents. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  IV:1, 30266. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover page. Skewed text."
+url = "https://archive.org/details/projetderesoluti00rouy"
+subject = ["France. Armée. Garde nationale"]
+extent = "3 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 13094"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2c872418"
+internet_archive = "projetderesoluti00rouy"
+openlibrary_edition = "OL25931721M"
+openlibrary_work = "OL17353950W"
+
+[scan]
+file = "projetderesoluti00rouy.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/projetderesoluti00rouy"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Rouyer, Jean Pascal, 1761-1819"
+role = "author"
+
+[[resp]]
+name = "France. Corps législatif (1795-1814). Conseil des cinq-cents"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_827814"
+
+[[text]]
+file = "projetderesoluti00rouy.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "projetderesoluti00rouy.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "projetderesoluti00rouy.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "projetderesoluti00rouy.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

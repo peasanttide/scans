@@ -1,0 +1,67 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "predictiondun00unse"
+type = "pamphlet"
+title = "Prédiction d'un jeune convulsionnaire à messieurs du Parlement sur les affaires présentes"
+language = "fr"
+date = "1752"
+note = "Caption title. Satire, in verse, against the papal bull Unigenitus. Condemned by the Parlement of Paris, 16 September 1752."
+url = "https://archive.org/details/predictiondun00unse"
+subject = [
+    "Unigenitus (Papal bull)",
+    "Censorship",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 5 no. 132"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2x40dc9b"
+internet_archive = "predictiondun00unse"
+
+[scan]
+file = "predictiondun00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/predictiondun00unse"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Parlement (Paris)"
+role = "author"
+
+[[resp]]
+name = "[n.p."
+role = "publisher"
+
+[[text]]
+file = "predictiondun00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "predictiondun00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "predictiondun00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "predictiondun00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

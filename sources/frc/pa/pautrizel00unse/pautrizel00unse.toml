@@ -1,0 +1,83 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "pautrizel00unse"
+type = "pamphlet"
+title = "Pautrizel, représentant du peuple, a la Convention nationale."
+language = "fr"
+place = "Paris"
+date = "1795"
+note = """Caption title. Imprint from colophon. "Prison des Quatre-Nations, le 5 fructidor, l'an 3 de la République"--P. [1]. Variant of Martin & Walter. Révolution française, III, 26615. Requests to be tried or set free. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover."""
+url = "https://archive.org/details/pautrizel00unse"
+subject = [
+    "Pautrizel, Jean-Baptiste-Louis-Thirus, b. 1754",
+    "Due process of law",
+]
+extent = "4 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 23431"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t10p69506"
+internet_archive = "pautrizel00unse"
+openlibrary_edition = "OL26237116M"
+openlibrary_work = "OL17631670W"
+
+[scan]
+file = "pautrizel00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/pautrizel00unse"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Pautrizel, Jean-Baptiste-Louis-Thirus, b. 1754"
+role = "author"
+
+[[resp]]
+name = "Hacquard, André-François, b. 1770"
+role = "publisher"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie d'Hacquart, rue de Lille, no. 478"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_847869"
+
+[[text]]
+file = "pautrizel00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "pautrizel00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "pautrizel00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "pautrizel00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

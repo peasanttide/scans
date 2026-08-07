@@ -1,0 +1,81 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "petitionconven00unse"
+type = "pamphlet"
+title = "Pétition a la Convention nationale, pour la citoyenne Bonnefoi, femme Boudon, nièce de l'illuminé Morier, contre l'ex-chanoine Benevent, son héritier universel, par l'infusion de la terreur des flammes du purgatoire"
+language = "fr"
+place = "Paris"
+date = "1794"
+note = "Caption title. At head of title: Liberté. Égalité. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."
+url = "https://archive.org/details/petitionconven00unse"
+subject = [
+    "Morier, Hilaire",
+    "Benevent",
+    "Catholic Church",
+    "Penance",
+]
+extent = "4 p. ; 28 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 26528"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t27999w0d"
+internet_archive = "petitionconven00unse"
+openlibrary_edition = "OL26228536M"
+openlibrary_work = "OL17623605W"
+
+[scan]
+file = "petitionconven00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/petitionconven00unse"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Patris, C.-F. (Charles-Frobert), 1751?-"
+role = "publisher"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Ch.-Fr. Patris, imprimeur, rue de l'Observatoire, no. 182"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_862643"
+
+[[text]]
+file = "petitionconven00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "petitionconven00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "petitionconven00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "petitionconven00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

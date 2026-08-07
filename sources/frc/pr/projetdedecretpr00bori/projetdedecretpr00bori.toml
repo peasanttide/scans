@@ -1,0 +1,60 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "projetdedecretpr00bori"
+type = "pamphlet"
+title = "Projet de décret présenté au nom du Comité des finances, section des contributions, par J. Borie, député de la Correze, sur la demande du département du Lot, tendante à compenser le montant des rôles supplétifs de 1789, avec le montant des rôles en remplacement de droits supprimés 16 juillet, 1793, l'an II de la République."
+language = "fr"
+date = "1793"
+note = "Caption title. At head of title: Convention nationale. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,I, 4292. Scanner's note: Title found on front cover. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/projetdedecretpr00bori"
+subject = [
+    "Taxation",
+    "Finance, Public",
+]
+extent = "2 p. ;19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "CaseFRC10913"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2n61kg8v"
+internet_archive = "projetdedecretpr00bori"
+
+[scan]
+file = "projetdedecretpr00bori.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/projetdedecretpr00bori"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Borie, Jean,1756-1805"
+role = "author"
+
+[[resp]]
+name = "[Paris] :De l'Imprimerie nationale,"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_824394"
+
+[[text]]
+file = "projetdedecretpr00bori.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "projetdedecretpr00bori.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"

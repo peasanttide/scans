@@ -1,0 +1,67 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "privilegedvroy00fran"
+type = "pamphlet"
+title = "Privilege dv roy"
+language = "fr"
+date = "1553"
+note = """Caption title. Licence granted to Gilles Corrozet for the exclusive publication, during 6 years, of Pierre Belon's Observations de plusieurs singularitez & choses memorables .. "Donné à Paris le quinziesme iour de mars. L'an de grace 1552.". "Acheué d'imprimer le douziesme iour de mars, mil cinq cens cinquante trois.". Possibly extracted from an edition of the book involved. Scanner's note: No copyright found.  No table of contents found.  Damaged, stained pages and cover.  Title on cover page. <br />No page numbers. <br />."""
+url = "https://archive.org/details/privilegedvroy00fran"
+subject = [
+    "Publishers and publishing",
+    "Printing",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 1 no. 8"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t96742j1j"
+internet_archive = "privilegedvroy00fran"
+
+[scan]
+file = "privilegedvroy00fran.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/privilegedvroy00fran"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "France.Sovereign (1547-1559 : Henry II)"
+role = "author"
+
+[[resp]]
+name = "France. Sovereign (1547-1559 : Henry II)"
+role = "author"
+
+[[resp]]
+name = "Corrozet, Gilles, 1510-1568"
+role = "author"
+
+[[resp]]
+name = "Belon, Pierre, 1517?-1564. Observations de plusieurs singularitez et choses memorables trouvées en Grèce, Asie, Judée, Egypte, Arabie & autres pays étranges"
+role = "author"
+
+[[resp]]
+name = "[Paris]"
+role = "publisher"
+
+[[text]]
+file = "privilegedvroy00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "privilegedvroy00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

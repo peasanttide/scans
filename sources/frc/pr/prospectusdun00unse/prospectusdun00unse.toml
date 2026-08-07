@@ -1,0 +1,97 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "prospectusdun00unse"
+type = "pamphlet"
+title = "Prospectus d'un opuscule périodique intitulé, La chronique scandaleuse"
+language = "fr"
+place = "Paris?"
+date = "1791"
+note = """Caption title. "Le premier n°. paroîtra le premier du mois de septembre 1791. L'abonnement sera de 36 liv. par an, 18 liv. pour six mois, et 9 liv. pour un quartier. Le bureau de souscription est ouvert chez M. Denné jeune, libraire au Palais-Royal, et Denné l'aîné, libraire au théâtre de Monsieur"--P. 4. Ms. annotations. Scanner's note: No copyright found.  No table of contents found.  Damaged, stained pages and cover.  <br />."""
+url = "https://archive.org/details/prospectusdun00unse"
+subject = [
+    "Chronique scandaleuse",
+    "Booksellers and bookselling",
+    "Periodicals",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1d no. 14"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6xx01v93"
+internet_archive = "prospectusdun00unse"
+
+[scan]
+file = "prospectusdun00unse.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/prospectusdun00unse"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "Denné, jeune"
+role = "bookseller"
+
+[[resp]]
+name = "Denné, aîné"
+role = "bookseller"
+
+[[resp]]
+name = "Denné jeune and Denné aîné?"
+role = "publisher"
+
+[[text]]
+file = "prospectusdun00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectusdun00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectusdun00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectusdun00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectusdun00unse.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectusdun00unse.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectusdun00unse.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectusdun00unse.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,87 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "projetderesoluti00dubo"
+type = "pamphlet"
+title = "Projet de résolution présenté par Dubois (des Vosges), au nom de la Commission des finances, sur les fermages de domaines nationaux, stipulés, par les baux, payables en nature de grains & denrées : séance du 21 floréal, an V."
+language = "fr"
+place = "Paris"
+date = "1797"
+note = "Caption title. At head of title: Corps législatif. Conseil des cinq-cents. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  II, 11483. Scanner's note: No copyright page found. No table-of-contents pages found. Damaged, stained pages. Skewed text."
+url = "https://archive.org/details/projetderesoluti00dubo"
+subject = [
+    "Public lands",
+    "Farm rents",
+]
+extent = "3 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 11483"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4jm6wk73"
+internet_archive = "projetderesoluti00dubo"
+openlibrary_edition = "OL25911686M"
+openlibrary_work = "OL17335333W"
+
+[scan]
+file = "projetderesoluti00dubo.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/projetderesoluti00dubo"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Dubois, Dieudonné, 1759-1804"
+role = "author"
+
+[[resp]]
+name = "France. Corps législatif (1795-1814). Conseil des cinq-cents"
+role = "author"
+
+[[resp]]
+name = "France. Corps législatif (1795-1814). Conseil des cinq-cents. Commission des finances"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_825023"
+
+[[text]]
+file = "projetderesoluti00dubo.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "projetderesoluti00dubo.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "projetderesoluti00dubo.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "projetderesoluti00dubo.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,84 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "poemesurlamort00gamo"
+type = "pamphlet"
+title = "Poème sur la mort /"
+language = "fr"
+place = "France?"
+date = "1794"
+note = "Caption title. Date of publication from colophon. Variant of Martin & Walter. Révolution française, II, 14143. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."
+url = "https://archive.org/details/poemesurlamort00gamo"
+subject = ["Death"]
+extent = "6 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 18851"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t13n75d52"
+internet_archive = "poemesurlamort00gamo"
+openlibrary_edition = "OL26201282M"
+openlibrary_work = "OL17597814W"
+
+[scan]
+file = "poemesurlamort00gamo.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/poemesurlamort00gamo"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Gamon, M. (François), 1767-1832"
+role = "author"
+
+[[resp]]
+name = "s.n.]"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_839562"
+
+[[text]]
+file = "poemesurlamort00gamo.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "poemesurlamort00gamo.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "poemesurlamort00gamo.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "poemesurlamort00gamo.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "poemesurlamort00gamo.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "poemesurlamort00gamo.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

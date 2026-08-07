@@ -1,0 +1,83 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "proclamationroi00unse_35"
+type = "pamphlet"
+title = "Proclamation du roi, concernant le maintien du bon ordre sur les frontieres : du 4 janvier 1792"
+language = "fr"
+place = "Bourg-en-Bresse"
+date = "1792"
+note = """Caption title. At head of title: La loi et le roi. "Signé Louis. Et plus bas, B.C. Cahier "--P. 3. Not in Martin & Walter. Révolution française. Scanner's note: No title page found. No copyright page found. Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages."""
+url = "https://archive.org/details/proclamationroi00unse_35"
+extent = "3 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10143 no. 33"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6d27209p"
+internet_archive = "proclamationroi00unse_35"
+openlibrary_edition = "OL26222790M"
+openlibrary_work = "OL17618261W"
+
+[scan]
+file = "proclamationroi00unse_35.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/proclamationroi00unse_35"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Sovereign (1774-1792 : Louis XVI)"
+role = "author"
+
+[[resp]]
+name = "Louis XVI, King of France, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "Cahier de Gerville, Bon-Claude, 1751-1796"
+role = "author"
+
+[[resp]]
+name = "Goyffon, L.H. (Louis-Hyacinthe), 1759-1826"
+role = "printer"
+
+[[resp]]
+name = "De l'imprimerie de L.H. Goyffon"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_855151"
+
+[[text]]
+file = "proclamationroi00unse_35.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "proclamationroi00unse_35.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "proclamationroi00unse_35.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "proclamationroi00unse_35.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

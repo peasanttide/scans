@@ -1,0 +1,85 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "prospectusdujour00mara"
+type = "pamphlet"
+title = "Prospectus du Journal de la ville de Paris"
+language = "fr"
+place = "Paris"
+date = "1789"
+note = """Prospectus for "Journal de la ville," which was first published in 1789. Caption title. "Il aura trente numéros par mois, composés chacun de 8 pages d'impression. Le prix de la souscription, pour un mois, est de six liv. pour Paris, & de sept pour la province, franc de port par la poste"--P. [1]. Tourneux, M. Paris pendant la Révolution française. Includes bookseller's advertisement for a supplement, never published, to an edition of the works of Voltaire. Scanner's note: No copyright found.  No table of contents found.  Damaged, stained pages and cover.  Only one numbered page.<br /><br />."""
+url = "https://archive.org/details/prospectusdujour00mara"
+subject = [
+    "Journal de la ville",
+    "Booksellers and bookselling",
+    "Periodicals",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1d no. 45"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t82k22b6f"
+internet_archive = "prospectusdujour00mara"
+
+[scan]
+file = "prospectusdujour00mara.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/prospectusdujour00mara"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "Maradan, Claude-François,1762-1823"
+role = "author"
+
+[[resp]]
+name = "Maradan, Claude-François, 1762-1823"
+role = "author"
+
+[[resp]]
+name = "Chez Maradan, libraire, rue Saint-André-des-Arcs, hôtel de Château-vieux"
+role = "publisher"
+
+[[text]]
+file = "prospectusdujour00mara.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectusdujour00mara.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectusdujour00mara.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectusdujour00mara.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectusdujour00mara.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prospectusdujour00mara.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

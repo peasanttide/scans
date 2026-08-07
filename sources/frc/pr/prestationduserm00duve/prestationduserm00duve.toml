@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "prestationduserm00duve"
+type = "pamphlet"
+title = "Prestation du serment de M. Duverger, curé de Bourg."
+language = "fr"
+place = "A Bordeaux"
+date = "1790"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, stained pages and cover. Title on cover page."
+url = "https://archive.org/details/prestationduserm00duve"
+subject = [
+    "France",
+    "Loyalty oaths",
+]
+extent = "4 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 18231"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t73v4jm8b"
+internet_archive = "prestationduserm00duve"
+openlibrary_edition = "OL26196004M"
+openlibrary_work = "OL17592773W"
+
+[scan]
+file = "prestationduserm00duve.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/prestationduserm00duve"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Duverger, curé"
+role = "author"
+
+[[resp]]
+name = "Chez A. Levieux, imprimeur du district"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_837835"
+
+[[text]]
+file = "prestationduserm00duve.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prestationduserm00duve.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prestationduserm00duve.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prestationduserm00duve.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

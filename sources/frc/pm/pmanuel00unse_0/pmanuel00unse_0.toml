@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "pmanuel00unse_0"
+type = "pamphlet"
+title = "P. Manuel aux officiers municipaux de Montargis."
+language = "fr"
+place = "France"
+date = "1793"
+note = "Caption title. Dated at end: Ce 14 mars 1793, l'an deux de la République française. Not in Martin & Walter. Révolution française."
+url = "https://archive.org/details/pmanuel00unse_0"
+subject = ["Manuel, Louis-Pierre, 1751-1793"]
+extent = "[3] p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 21956"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t82k1pr2z"
+internet_archive = "pmanuel00unse_0"
+openlibrary_edition = "OL26240225M"
+openlibrary_work = "OL17634748W"
+
+[scan]
+file = "pmanuel00unse_0.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/pmanuel00unse_0"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Manuel, Louis-Pierre, 1751-1793"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_845634"
+
+[[text]]
+file = "pmanuel00unse_0.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "pmanuel00unse_0.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "pmanuel00unse_0.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "pmanuel00unse_0.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

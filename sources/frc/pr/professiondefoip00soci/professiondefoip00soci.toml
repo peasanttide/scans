@@ -1,0 +1,71 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "professiondefoip00soci"
+type = "pamphlet"
+title = "Profession de foi politique /"
+language = "fr"
+place = "A Paris"
+date = "1790"
+note = "Caption title. Imprint from colophon. Martin & Walter IV 2: 14594. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on cover page. Damaged, stained and/or loose pages. Uneven binding. Skewed text. No page numbers."
+url = "https://archive.org/details/professiondefoip00soci"
+extent = "[4] p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 7182"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4fn68s68"
+internet_archive = "professiondefoip00soci"
+openlibrary_edition = "OL26220903M"
+openlibrary_work = "OL17616488W"
+
+[scan]
+file = "professiondefoip00soci.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/professiondefoip00soci"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Société des amis de la constitution"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de la Société typographique"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_61304"
+
+[[text]]
+file = "professiondefoip00soci.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "professiondefoip00soci.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "professiondefoip00soci.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "professiondefoip00soci.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

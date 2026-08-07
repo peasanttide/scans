@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "procesverbalcont00toul"
+type = "pamphlet"
+title = "Procès verbal contenant le détail de la fête de la proclamation de l'acte constitutionnel"
+language = "fr"
+place = "A Toulouse"
+date = "1793"
+note = """Caption title. "L'an mil sept cent quatre-vingt-treize, le second de la République française, une & indivisible, & le douzieme jour du mois de juillet, après midi, en exécution de notre arrêté du jour d'hier, nous membres composant le conseil général du district de Toulouse ..."--P. [1]. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."""
+url = "https://archive.org/details/procesverbalcont00toul"
+subject = ["Festivals"]
+extent = "4 p. ; 25 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10298 no. 4"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1qg3tp4c"
+internet_archive = "procesverbalcont00toul"
+openlibrary_edition = "OL26222970M"
+openlibrary_work = "OL17618430W"
+
+[scan]
+file = "procesverbalcont00toul.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/procesverbalcont00toul"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Toulouse (France). Conseil général"
+role = "author"
+
+[[resp]]
+name = "Chez la veuve Desclassan, imprimeur du district & de la municipalité"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_856901"
+
+[[text]]
+file = "procesverbalcont00toul.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "procesverbalcont00toul.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "procesverbalcont00toul.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "procesverbalcont00toul.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

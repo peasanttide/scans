@@ -1,0 +1,71 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "proclamation00auxe"
+type = "pamphlet"
+title = "Proclamation /"
+language = "fr"
+place = "A Auxerre"
+date = "1797"
+note = "Caption title. Imprint from colophon. At end: L'administration municipale, en sa séance du six nivôse, an six de la République [26 décembre 1797], a arrêté que la proclamation ci-dessus serait imprimée et distribuée aux citoyens qui prendront part à la fête du 10 du courant [30 décembre 1797?]. Not in Martin & Walter. Scanner's note: No title page found. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/proclamation00auxe"
+extent = "3 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 1200"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t51g5qw5z"
+internet_archive = "proclamation00auxe"
+openlibrary_edition = "OL26207135M"
+openlibrary_work = "OL17603399W"
+
+[scan]
+file = "proclamation00auxe.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/proclamation00auxe"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Auxerre (France)"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Baillif"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_40906"
+
+[[text]]
+file = "proclamation00auxe.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "proclamation00auxe.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "proclamation00auxe.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "proclamation00auxe.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

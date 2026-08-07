@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "petitiondeeustac00leso"
+type = "pamphlet"
+title = "Pétition de Eustache Rolland Roger Lesot, domicilié à Paris, section du Temple, a la Convention nationale : Paris, ce 30 vendemiaire, l'an troisieme de la République française, une et indivisible"
+language = "fr"
+place = "France"
+date = "1794"
+note = "Caption title. Imprint from colophon. Page 4 misnumbered 3. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française, III, 21232. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text.  Page numbering error."
+url = "https://archive.org/details/petitiondeeustac00leso"
+subject = [
+    "Lesot, Eustache Rolland Roger",
+    "Malicious prosecution",
+]
+extent = "3 [i.e. 4] p. ; 25 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 26901"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5r83gj0v"
+internet_archive = "petitiondeeustac00leso"
+openlibrary_edition = "OL26227209M"
+openlibrary_work = "OL17622436W"
+
+[scan]
+file = "petitiondeeustac00leso.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/petitiondeeustac00leso"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Lesot, Eustache Rolland Roger"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_866648"
+
+[[text]]
+file = "petitiondeeustac00leso.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "petitiondeeustac00leso.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "petitiondeeustac00leso.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "petitiondeeustac00leso.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

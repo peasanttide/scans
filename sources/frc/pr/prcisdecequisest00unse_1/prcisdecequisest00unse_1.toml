@@ -1,0 +1,68 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "prcisdecequisest00unse_1"
+type = "pamphlet"
+title = "Précis de ce qui s'est passé : à la séance du Conseil des anciens le 26 prairial an 5 [14 juin 1797] ; affaire du Lot."
+language = "fr"
+place = "Paris"
+date = "1797"
+note = "Caption title. Imprint from colophon. Martin & Walter IV 2: 14184. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on cover page. Damaged, stained and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/prcisdecequisest00unse_1"
+subject = ["France. Corps législatif (1795-1814). Conseil des anciens"]
+extent = "3 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 6972"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8gf5wk8z"
+internet_archive = "prcisdecequisest00unse_1"
+openlibrary_edition = "OL26217775M"
+openlibrary_work = "OL17613500W"
+
+[scan]
+file = "prcisdecequisest00unse_1.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/prcisdecequisest00unse_1"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "De l'imprimerie de Baudouin"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_61643"
+
+[[text]]
+file = "prcisdecequisest00unse_1.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prcisdecequisest00unse_1.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prcisdecequisest00unse_1.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "prcisdecequisest00unse_1.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
