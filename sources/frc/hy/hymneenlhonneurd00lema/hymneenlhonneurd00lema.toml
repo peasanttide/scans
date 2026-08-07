@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "hymneenlhonneurd00lema"
+type = "pamphlet"
+title = "Hymne en l'honneur de la fédération du 14 juillet 1790."
+language = "fr"
+place = "Paris"
+date = "1790"
+note = """Caption title. Signed: Par J.S. Lemaistre L. gnal. de Beaumont-sur-Oise, et Garde national de cette ville. Imprint from colophon. "Air: O! Mahomet, (ou bien) Mon honneur dit, des amours d'été"--P. [1]. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/hymneenlhonneurd00lema"
+extent = "4 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 21148"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t58d55125"
+internet_archive = "hymneenlhonneurd00lema"
+openlibrary_edition = "OL26238424M"
+openlibrary_work = "OL17632954W"
+
+[scan]
+file = "hymneenlhonneurd00lema.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/hymneenlhonneurd00lema"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Lemaistre, J. S"
+role = "author"
+
+[[resp]]
+name = "Devaux, Jean-Baptiste, d. 1799"
+role = "publisher"
+
+[[resp]]
+name = "De l'imprimerie de Devaux, rue des Boucheries Saint-Honoré, no. 7"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_844185"
+
+[[text]]
+file = "hymneenlhonneurd00lema.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "hymneenlhonneurd00lema.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "hymneenlhonneurd00lema.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "hymneenlhonneurd00lema.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

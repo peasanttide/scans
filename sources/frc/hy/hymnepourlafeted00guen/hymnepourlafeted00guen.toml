@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "hymnepourlafeted00guen"
+type = "pamphlet"
+title = "Hymne pour la fête, dédié a l'être suprême et a la nature /"
+language = "fr"
+place = "A Auxerre"
+date = "1793"
+note = """Caption title. "Sur l'air de L'entrée du déserteur, Oublions jusqu'à la trace, &c."--P. [1]. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on front cover. Damaged and stained pages.  Skewed text."""
+url = "https://archive.org/details/hymnepourlafeted00guen"
+subject = [
+    "God",
+    "Revolutionary ballads and songs",
+]
+extent = "3 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 19489"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t12p00s97"
+internet_archive = "hymnepourlafeted00guen"
+openlibrary_edition = "OL25946106M"
+openlibrary_work = "OL17367282W"
+
+[scan]
+file = "hymnepourlafeted00guen.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/hymnepourlafeted00guen"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Guéniot, Ch. Fr"
+role = "author"
+
+[[resp]]
+name = "De l'imp. de L. Fournier"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_840753"
+
+[[text]]
+file = "hymnepourlafeted00guen.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "hymnepourlafeted00guen.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "hymnepourlafeted00guen.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "hymnepourlafeted00guen.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

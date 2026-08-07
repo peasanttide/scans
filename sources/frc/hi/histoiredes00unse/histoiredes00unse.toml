@@ -1,0 +1,81 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "histoiredes00unse"
+type = "pamphlet"
+title = "Histoire des hommes, ou, Histoire nouvelle de tous les peuples du monde"
+language = "fr"
+place = "Paris?"
+date = "1782"
+note = """Prospectus for J. de Sales' "Histoire nouvelle de tous les peuples du monde.". Caption title. "L'ouvrage ayant commencé le premier janvier 1779, la souscription des trois années jusqu'au premier janvier 1782 est de 90 liv. pour les personnes de la province ..., & de 72 liv. pour celles qui la prennent à Paris"--P. [1]. Scanner's note: No copyright found.  No table of contents found.  Damaged, stained pages.  No page numbers. <br />."""
+url = "https://archive.org/details/histoiredes00unse"
+subject = [
+    "Sales, J. de (Jean), 1741-1816",
+    "Booksellers and bookselling",
+    "History publishing",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1e no. 4"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t07x22p0t"
+internet_archive = "histoiredes00unse"
+
+[scan]
+file = "histoiredes00unse.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/histoiredes00unse"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "Sales, J. de (Jean), 1741-1816. Histoire nouvelle de tous les peuples du monde"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[text]]
+file = "histoiredes00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "histoiredes00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "histoiredes00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "histoiredes00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "histoiredes00unse.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "histoiredes00unse.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

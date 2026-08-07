@@ -1,0 +1,63 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "hommagefaitaucon00bonn"
+type = "pamphlet"
+title = "Hommage fait au Conseil, par Bonnaire (du Cher), de l'ouvrage périodique intitulé Le Cosmète, ou, l'ami de l'instruction publique séance du 29 messidor an 7."
+language = "fr"
+date = "1799"
+note = "Caption title. At head of title: Corps législatif, Conseil des cinq-cents. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,I, 4065. Scanner's note: Title found on front cover. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/hommagefaitaucon00bonn"
+subject = [
+    "Education",
+    "French periodicals",
+    "Art and state",
+]
+extent = "2 p. ;19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "CaseFRC10866"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4jm5996m"
+internet_archive = "hommagefaitaucon00bonn"
+openlibrary_edition = "OL25654359M"
+openlibrary_work = "OL17083859W"
+
+[scan]
+file = "hommagefaitaucon00bonn.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/hommagefaitaucon00bonn"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Bonnaire, Félix,baron,1767-1844"
+role = "author"
+
+[[resp]]
+name = "A Paris :De l'Imprimerie nationale,"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_824347"
+
+[[text]]
+file = "hommagefaitaucon00bonn.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "hommagefaitaucon00bonn.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"

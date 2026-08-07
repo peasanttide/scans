@@ -1,0 +1,83 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "hymnejjrousseau00albe"
+type = "pamphlet"
+title = "Hÿmne à J.J. Rousseau /"
+language = "fr"
+place = "Paris"
+date = "1802"
+note = """Caption title. Publication location from Martin & Walter. Date based on publisher information from: Delalain, P. Imprimerie librairie Paris, p. 80. Martin & Walter. Révolution française. "Air: du Vaudeville de la soirée orageuse.". "Propriété de l'Éditeur d'après le décret de la Convention nationale du 19 juillet 1793.". "Têtes a changer Vaudeville du Tems. Air Vive la Faribole"--Verso. Bibliography: Martin & Walter.  Révolution française,  I, 101. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. No page numbers."""
+url = "https://archive.org/details/hymnejjrousseau00albe"
+subject = [
+    "Rousseau, Jean-Jacques, 1712-1778",
+    "Revolutionary ballads and songs",
+]
+extent = "1 sheet ([2] p.) : music ; 20  x 26 cm., folded to 20 x 13 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 13411"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5p890t9n"
+internet_archive = "hymnejjrousseau00albe"
+openlibrary_edition = "OL25927041M"
+openlibrary_work = "OL17349648W"
+
+[scan]
+file = "hymnejjrousseau00albe.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/hymnejjrousseau00albe"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Albert, professeur de musique"
+role = "author"
+
+[[resp]]
+name = "Frère, marchand de musique"
+role = "publisher"
+
+[[resp]]
+name = "Théâtre du vaudeville (Paris, France)"
+role = "author"
+
+[[resp]]
+name = "Chez Frère, passage du Saumon Rue Montmartre"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_828933"
+
+[[text]]
+file = "hymnejjrousseau00albe.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "hymnejjrousseau00albe.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "hymnejjrousseau00albe.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "hymnejjrousseau00albe.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

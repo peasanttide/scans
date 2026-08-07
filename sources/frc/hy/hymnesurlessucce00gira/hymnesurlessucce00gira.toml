@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "hymnesurlessucce00gira"
+type = "pamphlet"
+title = "Hymne sur les succès des armes de la République : chantée à la plantation de l'arbre de la liberté, par les employés à la Commission des subsistances, le decadi 20 nivose an deuxième de la République française, une et indivisible."
+language = "fr"
+place = "Paris"
+date = "1794"
+note = """Caption title. "Air: Allons, enfans de la patrie"--P. [1]. Signed: Par le citoyen Giraud, employé de la section du Panthéon. Imprint from colophon. Place of publication from Martin & Walter. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  II, 14934. Scanner's note: No copyright page found. No table-of-contents pages found. Skewed text. Uneven binding. Damaged, loose pages. Title on cover."""
+url = "https://archive.org/details/hymnesurlessucce00gira"
+subject = [
+    "First Coalition, War of the, 1792-1797",
+    "Revolutionary ballads and songs",
+]
+extent = "3 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 19094"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5w71gg3j"
+internet_archive = "hymnesurlessucce00gira"
+openlibrary_edition = "OL26201982M"
+openlibrary_work = "OL17598502W"
+
+[scan]
+file = "hymnesurlessucce00gira.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/hymnesurlessucce00gira"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Giraud, citoyen"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie des réfugiés liégeois, place des Quatre-Nations, no. 1889"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_840008"
+
+[[text]]
+file = "hymnesurlessucce00gira.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "hymnesurlessucce00gira.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "hymnesurlessucce00gira.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "hymnesurlessucce00gira.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "hommageduncitoye00cito"
+type = "pamphlet"
+title = "Hommage d'un citoyen patriote : a messieurs les députés de Nantes aux États-généraux."
+language = "fr"
+place = "s.l."
+date = "1789"
+note = "Caption title. Imprint date from colophon. Dated at foot of p.[1]: Nantes, 9 juillet 1789. In verse. First three lines of verse (which starts on p.[2]): Vertueux citoyens, dont le ferme courage / Et les puissants efforts sagement combinés, / S'unissent pour briser le joug de l'esclavage. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover page.  Uneven binding.  Skewed text.  No page numbers."
+url = "https://archive.org/details/hommageduncitoye00cito"
+subject = ["France. Etats généraux"]
+extent = "[4] p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 4253"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/txxxxxxxx"
+internet_archive = "hommageduncitoye00cito"
+openlibrary_edition = "OL26212660M"
+openlibrary_work = "OL17608643W"
+
+[scan]
+file = "hommageduncitoye00cito.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/hommageduncitoye00cito"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Citoyen patriote"
+role = "author"
+
+[[resp]]
+name = "s.n]"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_51455"
+
+[[text]]
+file = "hommageduncitoye00cito.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "hommageduncitoye00cito.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "hommageduncitoye00cito.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "hommageduncitoye00cito.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

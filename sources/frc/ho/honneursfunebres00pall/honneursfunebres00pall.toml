@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "honneursfunebres00pall"
+type = "pamphlet"
+title = "Honneurs funebres rendus a Mirabeau /"
+language = "fr"
+place = "Paris"
+date = "1791"
+note = """Caption title. Imprint from colophon. "C'est ici que repose Honoré-Gabriel Riquetti ..."--P. 3-4. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  III, 23353. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined.  Uneven binding. Skewed text.  Damaged, stained, and/or loose pages."""
+url = "https://archive.org/details/honneursfunebres00pall"
+subject = [
+    "Mirabeau, Honoré-Gabriel de Riquetti, comte de, 1749-1791",
+    "Funeral service",
+    "Eulogies",
+]
+extent = "4 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 23353"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6xw9ng48"
+internet_archive = "honneursfunebres00pall"
+openlibrary_edition = "OL26236736M"
+openlibrary_work = "OL17631288W"
+
+[scan]
+file = "honneursfunebres00pall.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/honneursfunebres00pall"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Palloy, Pierre François, 1755-1835"
+role = "author"
+
+[[resp]]
+name = "Gorsas, Antoine-Joseph, 1752-1793"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie d'An.-J. Gorsas, auteur du Courrier de Paris dans les 83 départemens, rue Ticquetonne, no 7"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_847588"
+
+[[text]]
+file = "honneursfunebres00pall.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "honneursfunebres00pall.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "honneursfunebres00pall.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "honneursfunebres00pall.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,78 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "histoireuniverse00brun"
+type = "pamphlet"
+title = "Histoire universelle du regne végétal, ou, Nouveau dictionnaire physique et économique de toutes les plantes qui croissent sur la surface du globe"
+language = "fr"
+place = "A Paris"
+date = "1775"
+note = """Prospectus for Pierre-Joseph Buc'hoz's "Histoire universelle du regne végétal". "Le sieur Brunet, qui a fait l'acquisition du fonds de cet ouvrage, se fera un devoir de remplir les engagemens de la souscription"--Leaf [2]. Title vignette; printed in double columns. "24 volumes in-folio, dont 12 de discours, & 12 de planches.". "Il paroît actuellement sept volumes de planches: le prix de chaque volume est de trente-six livres ... Quant aux volumes de discours, ils seront chacun de cinquante feuilles d'impression. Le prix en sera de dix livres."--Leaf [2]. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. No pagination. Title page and cover are combined."""
+url = "https://archive.org/details/histoireuniverse00brun"
+subject = [
+    "Buc'hoz, Pierre-Joseph, 1731-1807",
+    "Booksellers and bookselling",
+    "Botanical literature",
+    "Encyclopedias and dictionaries",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1a no. 20"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t45r0mc88"
+internet_archive = "histoireuniverse00brun"
+
+[scan]
+file = "histoireuniverse00brun.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/histoireuniverse00brun"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Brunet, Pierre Prudence,d. 1781"
+role = "author"
+
+[[resp]]
+name = "Brunet, Pierre Prudence, d. 1781"
+role = "author"
+
+[[resp]]
+name = "Buc'hoz, Pierre-Joseph, 1731-1807. Histoire universelle du regne végétal"
+role = "author"
+
+[[resp]]
+name = "Chez Brunet, libraire, rue des Écrivains, vis-à-vis le Cloître Saint-Jacques-la-Boucherie"
+role = "publisher"
+
+[[text]]
+file = "histoireuniverse00brun.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "histoireuniverse00brun.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "histoireuniverse00brun.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "histoireuniverse00brun.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

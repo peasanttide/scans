@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "hymnelex00unse"
+type = "pamphlet"
+title = "Hymne sur l'expédition de Rome : air du Chant du départ"
+language = "fr"
+place = "France"
+date = "1798"
+note = "Caption title. Signed: Jh. Villetard. Not in Martin & Walter. Révolution française. Scanner's note: Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text. No title page found. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/hymnelex00unse"
+subject = ["Second Coalition, War of the, 1798-1801"]
+extent = "[4] p. ; 24 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 27269"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8kd72326"
+internet_archive = "hymnelex00unse"
+openlibrary_edition = "OL26229834M"
+openlibrary_work = "OL17624865W"
+
+[scan]
+file = "hymnelex00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/hymnelex00unse"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Villetard, Edme Joseph,1771-1826"
+role = "author"
+
+[[resp]]
+name = "Villetard, Edme Joseph, 1771-1826"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_868192"
+
+[[text]]
+file = "hymnelex00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "hymnelex00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "hymnelex00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "hymnelex00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

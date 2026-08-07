@@ -1,0 +1,60 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "hymnechantelecol00devi"
+type = "pamphlet"
+title = "Hymne chanté a l'Ecole centrale, le jour de la fête de la jeunesse."
+language = "fr"
+place = "A Auxerre"
+date = "1798"
+note = """Caption title. "Par le cit. Deville, professeur d'histoire naturelle à l'Ecole centrale"--P. [2]. Imprint from colophon. "Air: Femmes voulez-vous éprouver"--P. [1]. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  Title and cover page are combined. Damaged, uneven binding. Damaged pages. Skewed text.  No page numbers."""
+url = "https://archive.org/details/hymnechantelecol00devi"
+subject = ["Youth"]
+extent = "[2] p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 17481"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6f23ws2b"
+internet_archive = "hymnechantelecol00devi"
+openlibrary_edition = "OL26175206M"
+openlibrary_work = "OL17572070W"
+
+[scan]
+file = "hymnechantelecol00devi.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/hymnechantelecol00devi"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Deville, Albéric, 1773-1832"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Baillif"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_836477"
+
+[[text]]
+file = "hymnechantelecol00devi.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "hymnechantelecol00devi.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,61 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "histoireveritabl00bert"
+type = "pamphlet"
+title = "Histoire véritable des temps fabuleux"
+language = "fr"
+place = "Paris?"
+date = "1777"
+note = """Prospectus for two works sold by Charles Pierre Berton. Caption title. At head of title is letter of transmittal, dated "Paris, ce 15 janvier 1777": M Berton, libraire, rue Saint-Victor, vis-à-vis le Seminaire Saint-Nicolas au Soleil levant, a l'honneur de vous prévenir qui'il doit mettre en vente dans les premiers jours de février prochain les deux ouvrages qui suivent .. Newberry's copy lacking all after p. [2]? Guérin du Rocher's "Histoire véritable des temps fabuleux" is the only work described. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Title page and cover are combined."""
+url = "https://archive.org/details/histoireveritabl00bert"
+subject = [
+    "Guérin du Rocher, Pierre Marie Stanislas, 1731-1792",
+    "Booksellers and bookselling",
+    "History publishing",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1a no. 14"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t40s5fw93"
+internet_archive = "histoireveritabl00bert"
+
+[scan]
+file = "histoireveritabl00bert.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/histoireveritabl00bert"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Berton, Charles Pierre"
+role = "author"
+
+[[resp]]
+name = "Guérin du Rocher, Pierre Marie Stanislas, 1731-1792. Histoire véritable des temps fabuleux"
+role = "author"
+
+[[resp]]
+name = "Charles Pierre Berton?"
+role = "publisher"
+
+[[text]]
+file = "histoireveritabl00bert.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "histoireveritabl00bert.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

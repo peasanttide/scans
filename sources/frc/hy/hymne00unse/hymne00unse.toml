@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "hymne00unse"
+type = "pamphlet"
+title = "Hymne a la victoire, sur la bataille de Fleurus /"
+language = "fr"
+place = "France?"
+date = "1794"
+note = "Caption title. Without the music. Variant of Martin & Walter. Révolution française, III, 20118. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/hymne00unse"
+subject = [
+    "Fleurus, Battle of, Fleurus, Belgium, 1794",
+    "Patriotic poetry, French",
+]
+extent = "4 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 20951"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2k69qg3h"
+internet_archive = "hymne00unse"
+openlibrary_edition = "OL26238467M"
+openlibrary_work = "OL17632999W"
+
+[scan]
+file = "hymne00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/hymne00unse"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Le Brun, Ponce Denis Ecouchard, 1729-1807"
+role = "author"
+
+[[resp]]
+name = "Catel, Charles-Simon, 1773-1830"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_843290"
+
+[[text]]
+file = "hymne00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "hymne00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "hymne00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "hymne00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

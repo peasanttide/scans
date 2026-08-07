@@ -1,0 +1,103 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "histoirenaturell00desa"
+type = "pamphlet"
+title = "Histoire naturelle de Pline"
+language = "fr"
+place = "A Paris"
+date = "1771"
+note = """Prospectus for French and Latin edition of Pliny's "Naturalis historia". "De l'imprimerie de Didot"--Bottom of p. 4. Title vignette. "Chaque volume se vend dix livres en feuilles"--P. 4. "Catalogue des livres nouveaux qui se trouvent chez le même libraire, janvier, 1771": p. [5]-8. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Title page and cover are combined."""
+url = "https://archive.org/details/histoirenaturell00desa"
+subject = [
+    "Pliny, the Elder",
+    "Desaint, Catherine-Michelle, fl. 1771-1808",
+    "Booksellers and bookselling",
+    "Classical literature",
+    "Encyclopedias and dictionaries",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1a no. 64"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2d850x8p"
+internet_archive = "histoirenaturell00desa"
+
+[scan]
+file = "histoirenaturell00desa.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/histoirenaturell00desa"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Desaint, Catherine-Michelle,fl. 1771-188"
+role = "author"
+
+[[resp]]
+name = "Desaint, Catherine-Michelle, fl. 1771-1808"
+role = "author"
+
+[[resp]]
+name = "Pliny, the Elder. Naturalis historia. French & Latin"
+role = "author"
+
+[[resp]]
+name = "Chez la veuve Desaint, libraire, rue du Foin, près de la rue S. Jacques"
+role = "publisher"
+
+[[text]]
+file = "histoirenaturell00desa.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "histoirenaturell00desa.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "histoirenaturell00desa.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "histoirenaturell00desa.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "histoirenaturell00desa.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "histoirenaturell00desa.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "histoirenaturell00desa.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "histoirenaturell00desa.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

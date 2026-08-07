@@ -1,0 +1,95 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "histoiredelapret00buis"
+type = "pamphlet"
+title = "Histoire de la prétendue révolution de Pologne"
+language = "fr"
+place = "Paris?"
+date = "1792"
+note = """Prospectus for Méhée de La Touche's "Histoire de la prétendue révolution de Pologne" and Faur's "Vie privée du maréchal de Richelieu," both published by Buisson in 1792. Caption title. Probably detached from a larger work. "Édition in-12 de la Vie privée du maréchal de Richelieu, contenant ses amours et intrigues, et tout ce qui a rapport aux divers rôles qu'a joués cet homme célèbre, pendant plus de quatre-vingts ans. Seconde édition. Avec des corrections considérables et des augmentations, 3 volumes in-12. Prix, 8 liv. broché. A Paris, chez le même libraire": p. [2]. Scanner's note: No copyright found.  No table of contents found.  Damaged, stained pages.  No page numbers. <br />."""
+url = "https://archive.org/details/histoiredelapret00buis"
+subject = [
+    "Méhée de La Touche, Jean-Claude-Hippolyte, 1762-1827",
+    "Faur, Louis-François, 1746-1829",
+    "Booksellers and bookselling",
+    "History publishing",
+    "Biography",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1e no. 11"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1jh97m4h"
+internet_archive = "histoiredelapret00buis"
+
+[scan]
+file = "histoiredelapret00buis.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/histoiredelapret00buis"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "Buisson, François,1753-1814"
+role = "author"
+
+[[resp]]
+name = "Buisson, François, 1753-1814"
+role = "author"
+
+[[resp]]
+name = "Méhée de La Touche, Jean-Claude-Hippolyte, 1762-1827. Histoire de la prétendue révolution de Pologne"
+role = "author"
+
+[[resp]]
+name = "Faur, Louis-François, 1746-1829. Vie privée du maréchal de Richelieu"
+role = "author"
+
+[[resp]]
+name = "Buisson?"
+role = "publisher"
+
+[[text]]
+file = "histoiredelapret00buis.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "histoiredelapret00buis.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "histoiredelapret00buis.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "histoiredelapret00buis.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "histoiredelapret00buis.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "histoiredelapret00buis.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

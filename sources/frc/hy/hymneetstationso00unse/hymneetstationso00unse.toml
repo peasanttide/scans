@@ -1,0 +1,71 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "hymneetstationso00unse"
+type = "pamphlet"
+title = "Hymne et stations : ou Serment de la République francaise [sic], une et indivisible ; chanté à Paris, le 10 août 1793, l'an 2e de la République ; Air: Allons enfans de la patrie."
+language = "fr"
+place = "A Caen"
+date = "1793"
+note = "Caption title. Imprint from colophon. First four lines: Que vois-je en cette vaste enceinte, / On retentissoit autrefois, / De l'innocent la juste plainte / Contre la cruauté des rois. This edition not in Martin & Walter (cf. IV 2: 7556). Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover."
+url = "https://archive.org/details/hymneetstationso00unse"
+subject = [
+    "Patriotic music",
+    "Festivals",
+]
+extent = "4 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 4271"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/txxxxxxxx"
+internet_archive = "hymneetstationso00unse"
+openlibrary_edition = "OL26212258M"
+openlibrary_work = "OL17608240W"
+
+[scan]
+file = "hymneetstationso00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/hymneetstationso00unse"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "De l'imprimerie de la Guerre suivant l'Armée"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_50972"
+
+[[text]]
+file = "hymneetstationso00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "hymneetstationso00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "hymneetstationso00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "hymneetstationso00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

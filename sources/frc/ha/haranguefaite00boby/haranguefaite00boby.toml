@@ -1,0 +1,68 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "haranguefaite00boby"
+type = "pamphlet"
+title = "Harangue faite & prononcée"
+language = "fr"
+date = "1649"
+note = "Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, stained, marked, torn and/or loose pages. Uneven binding. Skewed text.   Title and cover page are combined."
+url = "https://archive.org/details/haranguefaite00boby"
+extent = "3 p.22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case F 39 .326 1649rec no.64"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3nw4xw95"
+internet_archive = "haranguefaite00boby"
+
+[scan]
+file = "haranguefaite00boby.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/haranguefaite00boby"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Bobye, Pierre"
+role = "author"
+
+[[resp]]
+name = "[N.p.,  n.d.]"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_244625"
+
+[[text]]
+file = "haranguefaite00boby.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "haranguefaite00boby.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "haranguefaite00boby.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "haranguefaite00boby.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

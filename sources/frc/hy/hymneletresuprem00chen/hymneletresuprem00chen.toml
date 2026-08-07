@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "hymneletresuprem00chen"
+type = "pamphlet"
+title = "Hymne à l'Etre supreme /"
+language = "fr"
+place = "France"
+note = "Caption title. Variant of Martin & Walter. Révolution française, I, 7260. Scanner's note: No table-of-contents pages found. No table-of-contents pages found. Title is on the cover page. Skewed text. Uneven binding. Damaged, stained, marked and/or loose pages."
+url = "https://archive.org/details/hymneletresuprem00chen"
+subject = ["Civil religion"]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 16164"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8ff8sz4j"
+internet_archive = "hymneletresuprem00chen"
+openlibrary_edition = "OL26205666M"
+openlibrary_work = "OL17601963W"
+
+[scan]
+file = "hymneletresuprem00chen.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/hymneletresuprem00chen"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Chénier, Marie-Joseph, 1764-1811"
+role = "author"
+
+[[resp]]
+name = "Gossec, François Joseph, 1734-1829"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_833901"
+
+[[text]]
+file = "hymneletresuprem00chen.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "hymneletresuprem00chen.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "hymneletresuprem00chen.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "hymneletresuprem00chen.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

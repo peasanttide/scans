@@ -1,0 +1,82 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "histoiregenerale00buch_0"
+type = "pamphlet"
+title = "Histoire générale et économique des trois regnes de la nature"
+language = "fr"
+place = "Paris"
+date = "1780"
+note = """Prospectus for "Histoire générale et économique des trois règnes de la nature" and 7 other titles by Buc'hoz. Caption title. "On se procure tous ces différens ouvrages chez M. Buc'hoz, médecin, rue de la Harpe, vis-à-vis la rue de Richelieu-Sorbonne"--P. [4]. Includes prices. Scanner's note: Creased pages - Some text is blocked."""
+url = "https://archive.org/details/histoiregenerale00buch_0"
+subject = [
+    "Buc'hoz, Pierre-Joseph, 1731-1807",
+    "Booksellers and bookselling",
+    "Natural history literature",
+    "Biological illustration",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1c no. 10"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0ns6fc82"
+internet_archive = "histoiregenerale00buch_0"
+
+[scan]
+file = "histoiregenerale00buch_0.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/histoiregenerale00buch_0"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Buc'hoz, Pierre-Joseph,1731-187"
+role = "author"
+
+[[resp]]
+name = "Buc'hoz, Pierre-Joseph, 1731-1807"
+role = "author"
+
+[[resp]]
+name = "Buc'hoz, Pierre-Joseph, 1731-1807. Histoire générale et économique des trois règnes de la nature"
+role = "author"
+
+[[resp]]
+name = "Demonville, Antoine Guénard, -1799"
+role = "printer"
+
+[[resp]]
+name = "De l'imprimerie de Demonville, rue S. Severin"
+role = "publisher"
+
+[[text]]
+file = "histoiregenerale00buch_0.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "histoiregenerale00buch_0.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "histoiregenerale00buch_0.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "histoiregenerale00buch_0.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

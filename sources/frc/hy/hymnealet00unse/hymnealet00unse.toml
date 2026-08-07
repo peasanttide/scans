@@ -1,0 +1,88 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "hymnealet00unse"
+type = "pamphlet"
+title = "Hymne à l'Être suprême"
+language = "fr"
+place = "Paris"
+date = "1794"
+note = """Caption title. Imprint from colophon. "Conforme à l'original envoyé par le Comité de salut public à l'Institut national de musique, pour être chanté à la fête du 20 prairial ..."--P. 3. The festival for which this music was composed took place on June 8, 1794. Cf. Pierre. Additional verses printed without music, p. 2-3. Variant of Martin & Walter. Révolution française, II, 10512. Pierre, C. Hymnes et chansons de la Révolution. Bibliography: Pierre, C.  Hymnes et chansons de la Révolution, 49. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."""
+url = "https://archive.org/details/hymnealet00unse"
+subject = [
+    "Civil religion",
+    "Revolutionary ballads and songs",
+    "National songs",
+]
+extent = "1 vocal score (3 p.) ; 27 cm"
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 26664"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6g214m9x"
+internet_archive = "hymnealet00unse"
+openlibrary_edition = "OL26228665M"
+openlibrary_work = "OL17623733W"
+
+[scan]
+file = "hymnealet00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/hymnealet00unse"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Gossec, François Joseph,1734-1829,"
+role = "author"
+
+[[resp]]
+name = "Gossec, François Joseph, 1734-1829, composer"
+role = "author"
+
+[[resp]]
+name = "Desorgues, Théodore, 1763-1808, lyricist"
+role = "author"
+
+[[resp]]
+name = "Magasin de musique à l'usage des fêtes nationales et du Conservatoire (Paris, France)"
+role = "publisher"
+
+[[resp]]
+name = "Du Magasin à l'usage des fêtes nationales, rue Joseph, section de Brutus"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_871178"
+
+[[text]]
+file = "hymnealet00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "hymnealet00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "hymnealet00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "hymnealet00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

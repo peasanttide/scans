@@ -1,0 +1,55 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: hommagefaitaucon00bonn
+page: 2
+engine: ABBYY FineReader 9.0
+lang: fr
+w: 1752
+h: 2969
+dpi: 350
+---
+
+â
+
+velopper dans les cœurs le germe de la vertu. Tel est le
+but que s'est proposé le citoyen Valant, en publiant la pre-
+mière livraison du Cosmète ou l'Ami de l Instruction
+vuhlique. Cet estimable citoyen a mis a contribution
+les philoso])hes de tous les siècles et de tous les pays,
+a recueilli , avec discernement , les ventes eparses
+dans leurs écrits , et a ainsi formé un code moral , dis-
+tingué par des maximes courtes , claires , profondes , et
+qi^i , par leur vaiiété , devieiidront un manuel mteres-
+sant' pour tous les âges de la vie. ^ • j •
+
+Ce sont là, mes coiiègues, de ces entreprises çiui doivent
+être encouragées; et' ^puisqu'une fatalité cruelle ne nons
+a pas encore permis d'organiser les bases de l'Instruc-
+tion publique , honorons les hommes qui cherchent a
+dissiper cette mût profonde où erre sa^is gmde et sans
+frein la génération qui va nous succéder.
+
+Le citoyen Valait nous rappelle dans son discours
+d'introduction, que , chez les Athéniens es ^osmetes
+étoient des officiers ^publics préposés a Veducation des
+rdolescens, et dont les fonctions consistoien^^^^^^^^
+TiiPnt dans la masistrature des moeurs. .L idée et le Dut
+de cet ouvrage no\is indiquent assez que Fau^
+d'orcuper chez nous une de ces magistratures; et vous
+n'awrendrez pas sans intérêt qu'il est, depuis^dix-sept
+ans à la tête d'un établissement d'instruction pubhque-^
+
+Vous dire qu'à son mérite littéraire d ,omt le titre
+et Tes sentimels d'un bon citoyen , ^f^-^l^^^^rl
+de ses abonnemens est consacré aux frais de la guerre
+«ne les mélanges et autres morceaux qui ornent son ou-
+ïrai pSifue sont marqués au coin du patriotisme
+^^m^meCboxî goût , c'est lui donner de nouveaux droit.
+
+' 7e TemS: la mention de ^^ ^^^^^^t"" '
+et le renvoi de l'ouvrage à la bibliothèque nationale.
+
+A PARIS, DE LIMPRIMERIE NATIONALE.
+Thermidor an 7.
+
+c..,_ ,

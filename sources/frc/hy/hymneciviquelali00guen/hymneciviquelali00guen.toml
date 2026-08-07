@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "hymneciviquelali00guen"
+type = "pamphlet"
+title = "Hymne civique a la liberté, a l'égalité, a la fraternité /"
+language = "fr"
+place = "A Auxerre"
+date = "1793"
+note = """Caption title. "Sur l'air: Tout est charmant chez Aspasie"--P. [1]. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on front cover. Damaged and stained pages.  Skewed text."""
+url = "https://archive.org/details/hymneciviquelali00guen"
+subject = ["Revolutionary ballads and songs"]
+extent = "3 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 19490"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6vx57m49"
+internet_archive = "hymneciviquelali00guen"
+openlibrary_edition = "OL25946228M"
+openlibrary_work = "OL17367407W"
+
+[scan]
+file = "hymneciviquelali00guen.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/hymneciviquelali00guen"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Guenot, curé"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Baillif"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_840754"
+
+[[text]]
+file = "hymneciviquelali00guen.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "hymneciviquelali00guen.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "hymneciviquelali00guen.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "hymneciviquelali00guen.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,88 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "hymnesquiserontc00noga"
+type = "pamphlet"
+title = "Hymnes qui seront chantés le 20 prairial an 7, à l'occasion de la pompe funèbre célébrée dans la commune d'Auxerre, en mémoire des ministres français, assassinés à Rastadt."
+language = "fr"
+place = "A Auxerre"
+date = "1799"
+note = """Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. "Chant funèbre, paroles de Félix Nogaret, nouvelle musique de Ponchard"--P. [1]-2. "Hymne. Paroles de Rallier, musique de Beauvarlet-Charpentier"--P. 2-3. "Chant imprécatif contre l'empereur d'Allemagne. Air: O toi qui n'eus jamais dû n'aître"--P. 3-4. Scanner's note: No copyright page found. No table-of-contents pages found. Title page is on the cover. Damaged, stained, and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/hymnesquiserontc00noga"
+subject = ["Francis I, Emperor of Austria, 1768-1835"]
+extent = "4 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 23232"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4hn0g84d"
+internet_archive = "hymnesquiserontc00noga"
+openlibrary_edition = "OL26238068M"
+openlibrary_work = "OL17632619W"
+
+[scan]
+file = "hymnesquiserontc00noga.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/hymnesquiserontc00noga"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Nogaret, François Félix, 1740-1831"
+role = "author"
+
+[[resp]]
+name = "Ponchard, Antoine, 1758-1827, composer"
+role = "author"
+
+[[resp]]
+name = "Rallier, Louis Antoine Esprit, 1749-1829"
+role = "author"
+
+[[resp]]
+name = "Beauvarlet-Charpentier, Jacques-Marie, 1766-1834, composer"
+role = "author"
+
+[[resp]]
+name = "Francis I, Emperor of Austria, 1768-1835"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Baillif"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_847325"
+
+[[text]]
+file = "hymnesquiserontc00noga.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "hymnesquiserontc00noga.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "hymnesquiserontc00noga.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "hymnesquiserontc00noga.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

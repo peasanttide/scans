@@ -1,0 +1,10 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: hymnedesvarseill00giro
+page: 4
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 2500
+h: 4419
+dpi: 500
+---

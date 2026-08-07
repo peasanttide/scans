@@ -1,0 +1,71 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "hymneslalibertet00unse"
+type = "pamphlet"
+title = "Hymnes a la liberté et a la concorde : pour la célébration de la fête du 14 juillet, an 8 [1800] ; dans le Temple des fêtes nationales de la ville d'Auxerre."
+language = "fr"
+place = "A Auxerre"
+date = "1800"
+note = """Caption title. Imprint from colophon. First two lines on p.[1] ("Hymne a la liberté"): Idole des grands coeurs, adorable immortelle, / Sous ton arbre chéri tu revois tes enfans. "Hymne a la concorde": p.3. First two lines: Touchant déïté, charme des coeurs sensibles, / Concorde qui nous fais nos loisirs les plus doux. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover. Faint text."""
+url = "https://archive.org/details/hymneslalibertet00unse"
+subject = [
+    "Patriotic music",
+    "Festivals",
+]
+extent = "3 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 4274"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/txxxxxxxx"
+internet_archive = "hymneslalibertet00unse"
+openlibrary_edition = "OL26212521M"
+openlibrary_work = "OL17608502W"
+
+[scan]
+file = "hymneslalibertet00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/hymneslalibertet00unse"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "De l'imprimerie de Baillif"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_51590"
+
+[[text]]
+file = "hymneslalibertet00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "hymneslalibertet00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "hymneslalibertet00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "hymneslalibertet00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,74 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "hymnepourlafeted00sobr"
+type = "pamphlet"
+title = "Hymne pour la fête de la vieillesse."
+language = "fr"
+place = "France"
+date = "1799"
+note = """Caption title. By Jean François Sobry? Not in Martin & Walter. Révolution française. "Hymne pour la renouvellement de l'année republicaine"--P. 2-3. "Hymne pour la fête de la naissance"--P. 3-4. Scanner's note: Title page located on front cover. No copyright page found. No table-of-contents pages found. Worn, damaged and discolored pages and cover. Skewed text. Uneven binding."""
+url = "https://archive.org/details/hymnepourlafeted00sobr"
+subject = [
+    "Festivals",
+    "Revolutionary ballads and songs",
+    "National songs",
+]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 25410"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t41s2335w"
+internet_archive = "hymnepourlafeted00sobr"
+
+[scan]
+file = "hymnepourlafeted00sobr.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/hymnepourlafeted00sobr"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Sobry, Jean François, 1743-1820"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_852993"
+
+[[text]]
+file = "hymnepourlafeted00sobr.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "hymnepourlafeted00sobr.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "hymnepourlafeted00sobr.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "hymnepourlafeted00sobr.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

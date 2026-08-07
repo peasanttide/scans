@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "hommagefaitaucon00gast"
+type = "pamphlet"
+title = "Hommage fait au Conseil des anciens par Gastaud (des Alpes-Maritimes), d'un ouvrage ayant pour titre, Les Lois éclairées par les sciences physiques, ou, Traité de médecine légale & d'hygiène publique, par François-Emmanuel Fodéré, médecin de l'hospice d'Humanité et de celui des Insensés à Marseille, et maintenant professeur de physique et chymie à l'école centrale du département des Alpes-Maritimes : séance du 29 nivôse an 7."
+language = "fr"
+place = "A Paris"
+date = "1799"
+note = "Caption title. At head of title: Corps législatif. Conseil des anciens. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  II, 14358. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page is on the cover. Skewed text."
+url = "https://archive.org/details/hommagefaitaucon00gast"
+subject = ["Fodéré, F. E. (François Emmanuel), 1764-1835"]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 18929"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6353nn13"
+internet_archive = "hommagefaitaucon00gast"
+openlibrary_edition = "OL26200634M"
+openlibrary_work = "OL17597242W"
+
+[scan]
+file = "hommagefaitaucon00gast.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/hommagefaitaucon00gast"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Gastaud, André"
+role = "author"
+
+[[resp]]
+name = "France. Corps législatif (1795-1814). Conseil des anciens"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_839673"
+
+[[text]]
+file = "hommagefaitaucon00gast.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "hommagefaitaucon00gast.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "hommagefaitaucon00gast.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "hommagefaitaucon00gast.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

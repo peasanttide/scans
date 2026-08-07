@@ -1,0 +1,85 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "histoiredelarevo00clav"
+type = "pamphlet"
+title = "Histoire de la révolution de 1789"
+language = "fr"
+place = "A Paris"
+date = "1790"
+note = """Prospectus for the first two volumes of "Histoire de la révolution de 1789", published in 1790 under the shared pseudonym of François-Marie-Périchou Kerverseau and Clavelin. Caption title. Printed in double columns. "2 vol. in-8° de 400 pages chacun, avec une estampe ... Prix 7 liv. 4 sols pour Paris, et 8 liv. 4 sols rendu franc par la poste en province"--P. [1]. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Title page and cover are combined."""
+url = "https://archive.org/details/histoiredelarevo00clav"
+subject = [
+    "Deux amis de la liberté",
+    "Booksellers and bookselling",
+    "History publishing",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1a no. 36"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4bp5rv1k"
+internet_archive = "histoiredelarevo00clav"
+
+[scan]
+file = "histoiredelarevo00clav.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/histoiredelarevo00clav"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Clavelin"
+role = "author"
+
+[[resp]]
+name = "Deux amis de la liberté. Histoire de la révolution de 1789"
+role = "author"
+
+[[resp]]
+name = "Chez Clavelin, libraire, rue Serpente, no. 10, quartier S. André-des-Arts"
+role = "publisher"
+
+[[text]]
+file = "histoiredelarevo00clav.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "histoiredelarevo00clav.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "histoiredelarevo00clav.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "histoiredelarevo00clav.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "histoiredelarevo00clav.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "histoiredelarevo00clav.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

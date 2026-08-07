@@ -1,0 +1,89 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "histoiredele00hard"
+type = "pamphlet"
+title = "Histoire de l'Empire assyrien, ou, Des trois monarchies de Ninive, de Babylone et d'Ecbatane"
+language = "fr"
+place = "Paris"
+date = "1781"
+note = """Prospectus for J. de Sales' "Histoire de l'Empire assyrien". Caption title. "Deux vol. in-8°, prix, broché, 10 livres. Ou 2 vol. in-12, prix, broché, 5 livres. A Paris, chez Hardouin, libraire, rue des Prêtres Saint-Germain-l'Auxerrois"--P. [1]. Imprint from colophon. "Permis d'imprimer le 21 décembre 1781"--P. [2]. Includes advertisement for six other titles sold by Hardouin. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Title page and cover are combined."""
+url = "https://archive.org/details/histoiredele00hard"
+subject = [
+    "Sales, J. de (Jean), 1741-1816",
+    "Booksellers and bookselling",
+    "History publishing",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1a no. 85"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t20d0n72f"
+internet_archive = "histoiredele00hard"
+
+[scan]
+file = "histoiredele00hard.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/histoiredele00hard"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Hardouin, Robert-André"
+role = "author"
+
+[[resp]]
+name = "Sales, J. de (Jean), 1741-1816. Histoire de l'Empire assyrien"
+role = "author"
+
+[[resp]]
+name = "Couturier, Denis Clément, 1714?-1786"
+role = "printer"
+
+[[resp]]
+name = "De l'imprimerie de D.C. Couturier pere, Cloître Saint-Nicolas du Louvre"
+role = "publisher"
+
+[[text]]
+file = "histoiredele00hard.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "histoiredele00hard.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "histoiredele00hard.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "histoiredele00hard.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "histoiredele00hard.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "histoiredele00hard.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

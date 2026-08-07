@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "hommagerendumons00mars"
+type = "pamphlet"
+title = "Hommage rendu à Monseigneur Victor-Maurice de Riquet, Comte de Caraman : lieutenant-général des armées du roi & de la province du Languedoc, Grand-Croix de l'Ordre-Royal & Militaire de Saint Louis, & commandant en chef pour Sa Majesté en Provence /"
+language = "fr"
+place = "A Marseille"
+date = "1789"
+note = "Caption title. Imprint from colophon. In verse. First two lines: Célèbre qui voudra la valeur d'un guerrier, / Avide de périls, insensible aux alarmes. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover."
+url = "https://archive.org/details/hommagerendumons00mars"
+extent = "3 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 4256"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/txxxxxxxx"
+internet_archive = "hommagerendumons00mars"
+openlibrary_edition = "OL26212545M"
+openlibrary_work = "OL17608526W"
+
+[scan]
+file = "hommagerendumons00mars.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/hommagerendumons00mars"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Marseillais patriote"
+role = "author"
+
+[[resp]]
+name = "Caraman, Victor Maurice de Riquet, Comte de, 1728-1808"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Jean Mossy père & fils"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_51720"
+
+[[text]]
+file = "hommagerendumons00mars.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "hommagerendumons00mars.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "hommagerendumons00mars.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "hommagerendumons00mars.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
