@@ -1,0 +1,96 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "bonnesnouvellesp00prov"
+type = "pamphlet"
+title = "... Bonnes nouvelles pour la Provence."
+language = "fr"
+place = "A Aix"
+date = "1789"
+note = """Caption title. Imprint from colophon. At head of title: D'Aix le 27 mars 1789. "Délibération de l'Eglise métropolitaine de St. Sauveur d'Aix, du 24 mars 1789": p.3-4. "Déclaration du clergé assemblé à Draguignan le 27 mars 1789": p.4-5. "Déclaration de la noblesse de Draguignan du 27 mars 1789": p.5-6. "Stances sur la réunion des Trois ordres": p.6-8; signed at end: Par M. Morel, doctrinaire. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found.   Title page and cover are combined. Skewed text. Uneven binding. Damaged, stained, and/or loose pages."""
+url = "https://archive.org/details/bonnesnouvellesp00prov"
+subject = ["France. Etats généraux"]
+extent = "8 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 1416"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7rn86c7x"
+internet_archive = "bonnesnouvellesp00prov"
+openlibrary_edition = "OL26207876M"
+openlibrary_work = "OL17604152W"
+
+[scan]
+file = "bonnesnouvellesp00prov.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/bonnesnouvellesp00prov"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Provence (France)"
+role = "author"
+
+[[resp]]
+name = "Chez Pierre-Joseph Calmen"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_41682"
+
+[[text]]
+file = "bonnesnouvellesp00prov.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "bonnesnouvellesp00prov.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "bonnesnouvellesp00prov.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "bonnesnouvellesp00prov.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "bonnesnouvellesp00prov.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "bonnesnouvellesp00prov.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "bonnesnouvellesp00prov.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "bonnesnouvellesp00prov.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

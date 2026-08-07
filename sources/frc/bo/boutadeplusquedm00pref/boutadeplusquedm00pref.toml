@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "boutadeplusquedm00pref"
+type = "pamphlet"
+title = "Boutade plus que démocratique /"
+language = "fr"
+place = "s.l."
+date = "1790"
+note = "Caption title. Without imprint. Satire on Marie Antoinette. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Skewed text. Uneven binding. Damaged, stained, and/or loose pages."
+url = "https://archive.org/details/boutadeplusquedm00pref"
+subject = ["Marie Antoinette, Queen, consort of Louis XVI, King of France, 1755-1793"]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 1500"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5jb16d76"
+internet_archive = "boutadeplusquedm00pref"
+openlibrary_edition = "OL26208508M"
+openlibrary_work = "OL17604776W"
+
+[scan]
+file = "boutadeplusquedm00pref.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/boutadeplusquedm00pref"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Père Fermeté"
+role = "author"
+
+[[resp]]
+name = "Père Fermeté"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_41257"
+
+[[text]]
+file = "boutadeplusquedm00pref.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "boutadeplusquedm00pref.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "boutadeplusquedm00pref.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "boutadeplusquedm00pref.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

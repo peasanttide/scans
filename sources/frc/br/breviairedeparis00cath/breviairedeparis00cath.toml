@@ -1,0 +1,97 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "breviairedeparis00cath"
+type = "pamphlet"
+title = "Breviaire de Paris"
+language = "fr"
+place = "A Paris"
+date = "1740"
+note = """Prospectus for a French translation of the Paris Breviary. Title vignette. "Ce breviaire, sur caractéres & papier conformes au présent essai, contiendra huit volumes in-4° ... Le prix est de cent livres les huit volumes in feuilles ... On délivera les volumes, à mesure qu'ils s'imprimeront, chez les Libraires associés aux nouveaux usages de Paris"--T.p. verso. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Title page and cover are combined."""
+url = "https://archive.org/details/breviairedeparis00cath"
+subject = [
+    "Catholic Church",
+    "Booksellers and bookselling",
+    "Breviaries",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1a no. 107"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7hq9mw80"
+internet_archive = "breviairedeparis00cath"
+
+[scan]
+file = "breviairedeparis00cath.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/breviairedeparis00cath"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Catholic Church. Breviary (Paris). French"
+role = "author"
+
+[[resp]]
+name = "Libraires associés (Paris, France)"
+role = "author"
+
+[[resp]]
+name = "Chez les Libraires associés"
+role = "publisher"
+
+[[text]]
+file = "breviairedeparis00cath.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "breviairedeparis00cath.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "breviairedeparis00cath.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "breviairedeparis00cath.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "breviairedeparis00cath.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "breviairedeparis00cath.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "breviairedeparis00cath.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "breviairedeparis00cath.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

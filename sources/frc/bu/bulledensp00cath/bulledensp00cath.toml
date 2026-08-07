@@ -1,0 +1,83 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "bulledensp00cath"
+type = "pamphlet"
+title = "Bulle de N.S.P. le Pape Alexandre VII. contre les cinq propositions extraites du livre de Jansenius, avec la formulle de foy qui doit être souscrite par toutes les personnes ecclesiastiques. Donńee à Rome le 15 fevrier 1665"
+language = "la"
+date = "1665"
+note = "Caption title. Extracted from an unidentified publication. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Title page and cover are combined."
+url = "https://archive.org/details/bulledensp00cath"
+subject = [
+    "Jansenius, Cornelius, 1585-1638",
+    "Jansenists",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 2 no. 15"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1wd9gj0n"
+internet_archive = "bulledensp00cath"
+
+[scan]
+file = "bulledensp00cath.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/bulledensp00cath"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Catholic Church.Pope (1655-1667 : Alexander VII)"
+role = "author"
+
+[[resp]]
+name = "Catholic Church. Pope (1655-1667 : Alexander VII)"
+role = "author"
+
+[[resp]]
+name = "[n.p."
+role = "publisher"
+
+[[text]]
+file = "bulledensp00cath.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "la"
+
+[[text]]
+file = "bulledensp00cath.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "la"
+
+[[text]]
+file = "bulledensp00cath.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "la"
+
+[[text]]
+file = "bulledensp00cath.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "la"
+
+[[text]]
+file = "bulledensp00cath.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "la"
+
+[[text]]
+file = "bulledensp00cath.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "la"

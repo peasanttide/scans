@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "bouquetpresentem00cour"
+type = "pamphlet"
+title = "Bouquet présenté à M. Necker, à son entrée à Paris le 30 juillet 1789."
+language = "fr"
+place = "Paris"
+date = "1789"
+note = """Caption title. Imprint from colophon. "Air: Avec les jeux dans les villages"--P. 2. Without music. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  I, 8565. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on the cover page. Skewed text. Damaged, loose pages."""
+url = "https://archive.org/details/bouquetpresentem00cour"
+subject = [
+    "Necker, Jacques, 1732-1804",
+    "Political poetry, French",
+]
+extent = "3 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 16696"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7qp14c60"
+internet_archive = "bouquetpresentem00cour"
+openlibrary_edition = "OL26199769M"
+openlibrary_work = "OL17596436W"
+
+[scan]
+file = "bouquetpresentem00cour.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/bouquetpresentem00cour"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Courchon, abbé de"
+role = "author"
+
+[[resp]]
+name = "Valleyre, Jean-Baptiste-Paul, fl. 1749-1791"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie de Valleyre, l'aîné"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_834384"
+
+[[text]]
+file = "bouquetpresentem00cour.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "bouquetpresentem00cour.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "bouquetpresentem00cour.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "bouquetpresentem00cour.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

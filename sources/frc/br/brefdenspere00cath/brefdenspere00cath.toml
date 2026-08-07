@@ -1,0 +1,77 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "brefdenspere00cath"
+type = "pamphlet"
+title = "Bref de N.S. Pere le Pape Clement XI. portant condamnation & défense de certaines feüilles imprimées sous ce titre: Lettre de M... Chanoine de B.A. [i.e. à]  Mr T.D.A. &c"
+language = "fr"
+place = "A Paris"
+date = "1703"
+note = "Caption title. Imprint at foot of p. 4. Title also in Latin. Dated 12 February 1703. The Cas de conscience is variously attributed to Abbé Eustace, or Bernard Couet. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Title page and cover are combined."
+url = "https://archive.org/details/brefdenspere00cath"
+subject = ["Censorship"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 3 no. 6"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6vx5zv63"
+internet_archive = "brefdenspere00cath"
+
+[scan]
+file = "brefdenspere00cath.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/brefdenspere00cath"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Catholic Church.Pope (1700-1721 : Clement XI)"
+role = "author"
+
+[[resp]]
+name = "Catholic Church. Pope (1700-1721 : Clement XI)"
+role = "author"
+
+[[resp]]
+name = "Eustace, Abbé. Cas de conscience"
+role = "author"
+
+[[resp]]
+name = "Couet, Bernard, 1666-1736. Cas de conscience"
+role = "author"
+
+[[resp]]
+name = "Chez Louis Josse"
+role = "publisher"
+
+[[text]]
+file = "brefdenspere00cath.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "brefdenspere00cath.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "brefdenspere00cath.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "brefdenspere00cath.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

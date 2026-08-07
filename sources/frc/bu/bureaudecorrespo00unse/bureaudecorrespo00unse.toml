@@ -1,0 +1,68 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "bureaudecorrespo00unse"
+type = "pamphlet"
+title = "Bureau de correspondance et d'agence universelle : banque, finance et commerce, pour l'étendue de la République française ; etabli à Paris, section de l'Homme-armé, rue de Touraine, no.2, près celle de Poiton."
+language = "fr"
+place = "Paris"
+date = "1790"
+note = "Caption title. Imprint from colophon. Prospectus. Not in Martin & Walter. Scanner's note: No title page found. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/bureaudecorrespo00unse"
+subject = ["Banks and banking"]
+extent = "[3] p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 1578"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t84j5j63d"
+internet_archive = "bureaudecorrespo00unse"
+openlibrary_edition = "OL26208034M"
+openlibrary_work = "OL17604315W"
+
+[scan]
+file = "bureaudecorrespo00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/bureaudecorrespo00unse"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "De l'imprimerie de Demonville"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_43623"
+
+[[text]]
+file = "bureaudecorrespo00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "bureaudecorrespo00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "bureaudecorrespo00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "bureaudecorrespo00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

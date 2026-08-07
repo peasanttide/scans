@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "bureaucentralduc00pari"
+type = "pamphlet"
+title = "Bureau central du Canton de Paris : Paris, le 22 fructidor, an 5 de la République française, une et indivisible [8 septembre 1797] ; aux commissaires de police de cette commune"
+language = "fr"
+place = "s.l."
+date = "1797"
+note = "Caption title. Without imprint. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages."
+url = "https://archive.org/details/bureaucentralduc00pari"
+extent = "3 p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10079"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4vj0nt37"
+internet_archive = "bureaucentralduc00pari"
+openlibrary_edition = "OL26222633M"
+openlibrary_work = "OL17618104W"
+
+[scan]
+file = "bureaucentralduc00pari.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/bureaucentralduc00pari"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Paris (France : Canton)"
+role = "author"
+
+[[resp]]
+name = "Paris (France). Police"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_70958"
+
+[[text]]
+file = "bureaucentralduc00pari.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "bureaucentralduc00pari.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "bureaucentralduc00pari.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "bureaucentralduc00pari.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

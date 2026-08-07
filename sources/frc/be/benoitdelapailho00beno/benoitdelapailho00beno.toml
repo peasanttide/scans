@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "benoitdelapailho00beno"
+type = "pamphlet"
+title = "Benoit de La Pailhonne a Sabin Tournal & consors : salut, & respect pour la verité"
+language = "fr"
+place = "France"
+date = "1791"
+note = "Caption title. Dated at end: Serignan, 7 avril 1791. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover. No page numbers."
+url = "https://archive.org/details/benoitdelapailho00beno"
+subject = ["Benoit de La Pailhonne, Joseph-François"]
+extent = "[4] p. ; 25 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 26867"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9h46vr75"
+internet_archive = "benoitdelapailho00beno"
+openlibrary_edition = "OL26226640M"
+openlibrary_work = "OL17621875W"
+
+[scan]
+file = "benoitdelapailho00beno.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/benoitdelapailho00beno"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Benoit de La Pailhonne, Joseph-François"
+role = "author"
+
+[[resp]]
+name = "Tournal, Sabin"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_866615"
+
+[[text]]
+file = "benoitdelapailho00beno.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "benoitdelapailho00beno.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "benoitdelapailho00beno.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "benoitdelapailho00beno.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,82 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "basedun00unse"
+type = "pamphlet"
+title = "Base d'un projet de décret concernant les maîtres d'équipages des vaisseaux de guerre de l'État : lu à la Société des amis de la constitution, le 17 avril 1791 /"
+language = "fr"
+place = "Paris"
+date = "1791"
+note = "Caption title. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française, II, 17719. Scanner's note: No copyright found. No table of contents found. Title on cover. Damaged, stained pages and cover. <br />."
+url = "https://archive.org/details/basedun00unse"
+subject = [
+    "France. Marine",
+    "Ship captains",
+    "Military administration",
+]
+extent = "3 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 27748"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8dg23c1z"
+internet_archive = "basedun00unse"
+
+[scan]
+file = "basedun00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/basedun00unse"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "Kersaint, Armand-Guy, 1742-1793"
+role = "author"
+
+[[resp]]
+name = "Club des Feuillants"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_841991"
+
+[[text]]
+file = "basedun00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "basedun00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "basedun00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "basedun00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

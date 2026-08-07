@@ -1,0 +1,68 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "bulletinextraord00unse"
+type = "pamphlet"
+title = "Bulletin extraordinaire : Paris, 4 mai 1790."
+language = "fr"
+place = "s.l."
+date = "1790"
+note = "Caption title. Without imprint. About a pro-clerical movement started in Toulouse. Not in Martin & Walter. Scanner's note: No title page found. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/bulletinextraord00unse"
+subject = ["Clericalism"]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 1577"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9f52q446"
+internet_archive = "bulletinextraord00unse"
+openlibrary_edition = "OL26207905M"
+openlibrary_work = "OL17604181W"
+
+[scan]
+file = "bulletinextraord00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/bulletinextraord00unse"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_41277"
+
+[[text]]
+file = "bulletinextraord00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "bulletinextraord00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "bulletinextraord00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "bulletinextraord00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

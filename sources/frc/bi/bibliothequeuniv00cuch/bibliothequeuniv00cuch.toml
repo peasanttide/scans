@@ -1,0 +1,62 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "bibliothequeuniv00cuch"
+type = "pamphlet"
+title = "Bibliothèque universelle des dames, ou, Petite bibliothèque encyclopédique"
+language = "fr"
+place = "Paris?"
+date = "1787"
+note = """Prospectus for "Bibliothèque universelle des dames.". Caption title. "On souscrit par année entière ou par demi-année, à l'époque que l'on veut, à Paris, chez Cuchet, libraire, rue et hôtel Serpente, acquéreur de ladite Bibliothèque"--P. [1]. "Permis d'imprimer, le 13 novembre 1787"--P. [2]. Printed in double columns. Advertisements for other works sold by Cuchet, p. [1]. "Tableau des différentes parties des belles-lettres, des sciences & des arts, qui composeront la Bibliothèque universelle des dames, ou, Petite bibliothèque encyclopédique": p. [2]. Includes prices. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Title page and cover are combined.  Text extends off of the edge of the page."""
+url = "https://archive.org/details/bibliothequeuniv00cuch"
+subject = [
+    "Bibliothèque universelle des dames",
+    "Booksellers and bookselling",
+    "Periodicals",
+    "Encyclopedias and dictionaries",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1d no. 11"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t01z9w93d"
+internet_archive = "bibliothequeuniv00cuch"
+
+[scan]
+file = "bibliothequeuniv00cuch.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/bibliothequeuniv00cuch"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Cuchet, Gaspard-Joseph,d. 1833"
+role = "author"
+
+[[resp]]
+name = "Cuchet, Gaspard-Joseph, d. 1833"
+role = "author"
+
+[[resp]]
+name = "Cuchet?"
+role = "publisher"
+
+[[text]]
+file = "bibliothequeuniv00cuch.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "bibliothequeuniv00cuch.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

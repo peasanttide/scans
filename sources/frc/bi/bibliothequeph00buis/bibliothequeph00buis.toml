@@ -1,0 +1,85 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "bibliothequeph00buis"
+type = "pamphlet"
+title = "Bibliotheque physico-économique, instructive et amusante"
+language = "fr"
+place = "Paris?"
+date = "1784"
+note = """Prospectus for "Bibliotheque physico-économique, instructive et amusante.". Caption title. "On insérera dans les années suivantes les articles utiles & nouveaux, qu'on voudra bien adresser, franc de port, à Paris, à M. Buisson, hôtel de Mesgrigny, rue des Poitevins, no. 13, à qui l'on s'adresse aussi pour se procurer cet ouvrage"--P. [2]. "Permis d'imprimer, ce 6 décembre 1784"--P. [2]. "Ouvrage à la portée de tout le monde. Prix, 2 liv. 12 sols chaque volume broché, franc par la poste"--P. [1]. Scanner's note: Tight margins.<br />No copyright found.  No table of contents found.  Damaged, stained pages and cover.  No numbered pages. <br /><br /><br />."""
+url = "https://archive.org/details/bibliothequeph00buis"
+subject = [
+    "Bibliotheque physico-économique, instructive et amusante",
+    "Booksellers and bookselling",
+    "Periodicals",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1d no. 10"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9c597866"
+internet_archive = "bibliothequeph00buis"
+
+[scan]
+file = "bibliothequeph00buis.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/bibliothequeph00buis"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "Buisson, François,1753-1814"
+role = "author"
+
+[[resp]]
+name = "Buisson, François, 1753-1814"
+role = "author"
+
+[[resp]]
+name = "Buisson?"
+role = "publisher"
+
+[[text]]
+file = "bibliothequeph00buis.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "bibliothequeph00buis.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "bibliothequeph00buis.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "bibliothequeph00buis.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "bibliothequeph00buis.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "bibliothequeph00buis.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

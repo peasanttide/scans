@@ -1,0 +1,95 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "bouquetdelanatio00fran"
+type = "pamphlet"
+title = "Bouquet de la nation a Louis XVI, restaurateur de la liberté."
+language = "fr"
+place = "Paris"
+date = "1790"
+note = """Half title. Imprint from colophon. " ... Votre Majesté peut déposer un instans les soucis du trône: il est soutenu par La Fayette, Necker, Bailli ... ": p. 8. Martin & Walter IV 2: 2787. Scanner's note: No title page found. No copyright page found. No table-of-contents pages found."""
+url = "https://archive.org/details/bouquetdelanatio00fran"
+extent = "8 p. ; 23 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 1478a"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3033wd8s"
+internet_archive = "bouquetdelanatio00fran"
+openlibrary_edition = "OL26208476M"
+openlibrary_work = "OL17604744W"
+
+[scan]
+file = "bouquetdelanatio00fran.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/bouquetdelanatio00fran"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Sovereign (1774-1792 : Louis XVI)"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de P. de Lormel"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_42717"
+
+[[text]]
+file = "bouquetdelanatio00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "bouquetdelanatio00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "bouquetdelanatio00fran.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "bouquetdelanatio00fran.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "bouquetdelanatio00fran.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "bouquetdelanatio00fran.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "bouquetdelanatio00fran.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "bouquetdelanatio00fran.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

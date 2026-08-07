@@ -1,0 +1,83 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "bernarddesaintes00bern_0"
+type = "pamphlet"
+title = "Bernard (de Saintes), représentant du peuple, a la Convention nationale."
+language = "fr"
+place = "Paris"
+date = "1795"
+note = """Caption title. Imprint from colophon. "Ce 16 fructidor, an III de la République une & indivisible"--P. 4. Variant of Martin & Walter. Révolution française, I, 2837. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, stained pages.  Damaged, uneven binding.  Skewed text."""
+url = "https://archive.org/details/bernarddesaintes00bern_0"
+subject = [
+    "Bernard de Saintes, André-Antoine des Zeuzines, 1751-1819",
+    "Detention of persons",
+]
+extent = "4 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 14534"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4wh7697p"
+internet_archive = "bernarddesaintes00bern_0"
+openlibrary_edition = "OL25911308M"
+openlibrary_work = "OL17334962W"
+
+[scan]
+file = "bernarddesaintes00bern_0.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/bernarddesaintes00bern_0"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Bernard de Saintes, André-Antoine des Zeuzines, 1751-1819"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Hacquard, André-François, b. 1770"
+role = "publisher"
+
+[[resp]]
+name = "De l'imprimerie d'Hacquart, rue de Lille, no. 478"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_830202"
+
+[[text]]
+file = "bernarddesaintes00bern_0.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "bernarddesaintes00bern_0.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "bernarddesaintes00bern_0.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "bernarddesaintes00bern_0.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

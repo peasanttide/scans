@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "baumesexcellents00figa"
+type = "pamphlet"
+title = "Baumes excellents pour guérir de la rage aristocratique /"
+language = "fr"
+place = "s.l."
+date = "1790"
+note = "Caption title. Without imprint. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover. Text extends off of page."
+url = "https://archive.org/details/baumesexcellents00figa"
+subject = ["Nobility"]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 1374"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7pp44k70"
+internet_archive = "baumesexcellents00figa"
+openlibrary_edition = "OL26208035M"
+openlibrary_work = "OL17604317W"
+
+[scan]
+file = "baumesexcellents00figa.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/baumesexcellents00figa"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Figaro"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_42368"
+
+[[text]]
+file = "baumesexcellents00figa.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "baumesexcellents00figa.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "baumesexcellents00figa.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "baumesexcellents00figa.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

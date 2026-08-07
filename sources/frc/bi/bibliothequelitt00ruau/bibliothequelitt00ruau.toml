@@ -1,0 +1,101 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "bibliothequelitt00ruau"
+type = "pamphlet"
+title = "Bibliotheque littéraire, historique et critique de la médecine ancienne et moderne"
+language = "fr"
+place = "A Paris"
+date = "1776"
+note = """Prospectus for Carrère's "Bibliotheque littéraire, historique et critique de la médecine ancienne et moderne.". "On soucrit, pour cet ouvrage, à Paris, chez Ruault, libraire, rue de la Harpe"--T.p. verso. Title vignette. "La souscription sera ouverte, pour le tome second, jusqu'au premier juin prochain. Le prix est de 7 liv. broché. Les personnes qui ne souscriront point le payeront 10 liv."--T.p. verso. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Title page and cover are combined."""
+url = "https://archive.org/details/bibliothequelitt00ruau"
+subject = [
+    "Carrère, Joseph-Barthélemy-François, 1740-1802",
+    "Booksellers and bookselling",
+    "Medical publishing",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1a no. 140"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t01z9w96v"
+internet_archive = "bibliothequelitt00ruau"
+
+[scan]
+file = "bibliothequelitt00ruau.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/bibliothequelitt00ruau"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Ruault, Nicolas,1742?-1828"
+role = "author"
+
+[[resp]]
+name = "Ruault, Nicolas, 1742?-1828"
+role = "author"
+
+[[resp]]
+name = "Carrère, Joseph-Barthélemy-François, 1740-1802. Bibliotheque littéraire, historique et critique de la médecine ancienne et moderne"
+role = "author"
+
+[[resp]]
+name = "Chez Ruault, libraire, rue de la Harpe"
+role = "publisher"
+
+[[text]]
+file = "bibliothequelitt00ruau.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "bibliothequelitt00ruau.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "bibliothequelitt00ruau.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "bibliothequelitt00ruau.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "bibliothequelitt00ruau.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "bibliothequelitt00ruau.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "bibliothequelitt00ruau.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "bibliothequelitt00ruau.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

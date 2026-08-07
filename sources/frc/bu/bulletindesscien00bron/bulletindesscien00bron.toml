@@ -1,0 +1,94 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "bulletindesscien00bron"
+type = "pamphlet"
+title = "Bulletin des sciences"
+language = "fr"
+place = "Paris"
+date = "1797"
+note = """Prospectus for: Bulletin des sciences / par la Société philomathique de Paris. Paris, 1797-1805. Caption title. Printer statement from colophon. "Le prix de l'abonnement est de cinq francs, en numéraire, par année ... Le numéro premier paraîtra dans la première décade de germinal"--P. [1]-2. "On souscrit a Paris, chez le citoyen Alex. Brongniart, professeur d'histoire naturelle aux ecoles centrales, trésorier de la société, rue St. Marc, n°. 14, Fuchs, libraire, rue des Mathurins, hôtel de Cluny ... [and 31 others in 31 places]"--P. 2. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination."""
+url = "https://archive.org/details/bulletindesscien00bron"
+subject = [
+    "Société philomathique de Paris",
+    "Booksellers and bookselling",
+    "Science publishing",
+    "Periodicals",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1d no. 95"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t01z9wb2c"
+internet_archive = "bulletindesscien00bron"
+
+[scan]
+file = "bulletindesscien00bron.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/bulletindesscien00bron"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Brongniart, Alexandre, 1770-1847"
+role = "bookseller"
+
+[[resp]]
+name = "Fuchs, Jean-Jacques, fl. 1792-1804"
+role = "bookseller"
+
+[[resp]]
+name = "Imprimerie de Du Pont"
+role = "printer"
+
+[[resp]]
+name = "Société philomathique de Paris. Bulletin des sciences"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Du Pont, rue de l'Oratoire"
+role = "publisher"
+
+[[text]]
+file = "bulletindesscien00bron.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "bulletindesscien00bron.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "bulletindesscien00bron.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "bulletindesscien00bron.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "bulletindesscien00bron.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "bulletindesscien00bron.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

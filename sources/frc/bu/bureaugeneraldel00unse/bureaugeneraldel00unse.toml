@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "bureaugeneraldel00unse"
+type = "pamphlet"
+title = "Bureau général de liquidation et de correspondance établi à Paris, rue Verdelet, no 21, près la grande poste, sous la direction du sieur Henry-Bernard Montigny"
+language = "fr"
+place = "A Paris"
+date = "1792"
+note = """Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. "L'administration est composée ainsi qu'il suit"--P. 3-4. "Avis très-important"--P. 4. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/bureaugeneraldel00unse"
+subject = [
+    "France. Bureau général de liquidation et correspondance",
+    "Liquidation",
+    "Finance, Public",
+]
+extent = "4 p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 27017"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6k126z4s"
+internet_archive = "bureaugeneraldel00unse"
+openlibrary_edition = "OL26227215M"
+openlibrary_work = "OL17622442W"
+
+[scan]
+file = "bureaugeneraldel00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/bureaugeneraldel00unse"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "De l'imprimerie de la rue Notre-Dame des Victoires, no 18"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_865612"
+
+[[text]]
+file = "bureaugeneraldel00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "bureaugeneraldel00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "bureaugeneraldel00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "bureaugeneraldel00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

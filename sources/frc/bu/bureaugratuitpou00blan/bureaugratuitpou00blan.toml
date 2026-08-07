@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "bureaugratuitpou00blan"
+type = "pamphlet"
+title = "Bureau gratuit pour la poursuite des affaires contentieuses a l'Assemblée nationale."
+language = "fr"
+place = "Paris"
+date = "1790"
+note = "Caption title. Signed: L'abbé Blanchet, clerc tonsuré. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  I, 3529. Scanner's note: Title page located on front cover. No copyright page found. No table-of-contents pages found. Worn, damaged pages. Skewed text."
+url = "https://archive.org/details/bureaugratuitpou00blan"
+subject = ["Charities"]
+extent = "4 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 14721"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2w42q60x"
+internet_archive = "bureaugratuitpou00blan"
+openlibrary_edition = "OL26191150M"
+openlibrary_work = "OL17587973W"
+
+[scan]
+file = "bureaugratuitpou00blan.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/bureaugratuitpou00blan"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Blanchet, abbé"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "Simon, Claude, b. 1741"
+role = "publisher"
+
+[[resp]]
+name = "De l'imprim. de Cl. Simon, rue St-Jacques"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_830734"
+
+[[text]]
+file = "bureaugratuitpou00blan.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "bureaugratuitpou00blan.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "bureaugratuitpou00blan.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "bureaugratuitpou00blan.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

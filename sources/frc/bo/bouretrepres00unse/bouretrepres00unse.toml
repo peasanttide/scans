@@ -1,0 +1,64 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "bouretrepres00unse"
+type = "pamphlet"
+title = "Bouret, représentant du peuple, a ses concitoyens du département des Basses-Alpes"
+language = "fr"
+place = "France"
+date = "1795"
+note = "Caption title. Dated at head of title: Paris, le 4 brumaire, IVe. année de la République. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover. No page numbers."
+url = "https://archive.org/details/bouretrepres00unse"
+subject = ["Bouret, Henri Charles Gaspard, 1752-1805"]
+extent = "[2] p. ; 25 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 26540"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9w146x6p"
+internet_archive = "bouretrepres00unse"
+openlibrary_edition = "OL26228588M"
+openlibrary_work = "OL17623656W"
+
+[scan]
+file = "bouretrepres00unse.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/bouretrepres00unse"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Bouret, Henri Charles Gaspard,1752-1805"
+role = "author"
+
+[[resp]]
+name = "Bouret, Henri Charles Gaspard, 1752-1805"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_862655"
+
+[[text]]
+file = "bouretrepres00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "bouretrepres00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

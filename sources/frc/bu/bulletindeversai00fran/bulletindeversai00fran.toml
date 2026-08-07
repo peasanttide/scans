@@ -1,0 +1,63 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "bulletindeversai00fran"
+type = "pamphlet"
+title = "Bulletin de Versailles"
+language = "fr"
+date = "1766"
+note = "Caption title. Without imprint. Relating to actions taken by the Parlement of Rouen, 22 August 1765 and 15 February 1766. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Title page and cover are combined."
+url = "https://archive.org/details/bulletindeversai00fran"
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 7 no. 71"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1mh37h8f"
+internet_archive = "bulletindeversai00fran"
+
+[scan]
+file = "bulletindeversai00fran.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/bulletindeversai00fran"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Parlement (Normandy)"
+role = "author"
+
+[[resp]]
+name = "[N.p."
+role = "publisher"
+
+[[text]]
+file = "bulletindeversai00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "bulletindeversai00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "bulletindeversai00fran.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "bulletindeversai00fran.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

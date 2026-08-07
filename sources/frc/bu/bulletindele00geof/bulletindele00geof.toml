@@ -1,0 +1,93 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "bulletindele00geof"
+type = "pamphlet"
+title = "Bulletin de l'Europe"
+language = "fr"
+place = "A Paris"
+date = "1798"
+note = """Caption title. Signed, p. 2.: Geoffroy et Burat. Place of publication and printer statement from colophon. "Traité complet sur l'action en rescision des ventes d'immeubles, pour leśsion d'outre-moitié, contenant l'explication de la loi du 19 floréal an VI ..."--P. 2. Includes prices for subscribers to the proposed work. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text.   Text lost in binding."""
+url = "https://archive.org/details/bulletindele00geof"
+subject = [
+    "Bulletin de l'Europe",
+    "Booksellers and bookselling",
+    "Periodicals",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1d no. 12"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7gr2m058"
+internet_archive = "bulletindele00geof"
+
+[scan]
+file = "bulletindele00geof.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/bulletindele00geof"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Geoffroy, Come-Antoine,1756-1835"
+role = "author"
+
+[[resp]]
+name = "Geoffroy, Come-Antoine, 1756-1835"
+role = "author"
+
+[[resp]]
+name = "Burat"
+role = "author"
+
+[[resp]]
+name = "Sagot, fl. 1797-1799"
+role = "printer"
+
+[[resp]]
+name = "Chez Sagot, imprimeur, rue Neuve-Augustin, n°. 917, vis-à-vis l'hôtel de Richelieu"
+role = "publisher"
+
+[[text]]
+file = "bulletindele00geof.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "bulletindele00geof.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "bulletindele00geof.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "bulletindele00geof.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "bulletindele00geof.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "bulletindele00geof.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,96 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "bibliothequechoi00nomo"
+type = "pamphlet"
+title = "Bibliothèque choisie des Jacobins, ou, Catalogue des principaux ouvrages publiés par cette société."
+language = "fr"
+place = "Paris"
+date = "1794"
+note = "Caption title. Signed: J. Nomophile. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  III, 25911. Scanner's note: No copyright page found. No table-of-contents pages found. Title page is on the cover. Damaged, stained, and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/bibliothequechoi00nomo"
+subject = ["Jacobins"]
+extent = "8 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 23239"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5jb1d26q"
+internet_archive = "bibliothequechoi00nomo"
+openlibrary_edition = "OL26237549M"
+openlibrary_work = "OL17632098W"
+
+[scan]
+file = "bibliothequechoi00nomo.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/bibliothequechoi00nomo"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Nomophile, J"
+role = "author"
+
+[[resp]]
+name = "De l'Impr. philantropique, cul-de-sac de la Corderie, no. 63"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_576414"
+
+[[text]]
+file = "bibliothequechoi00nomo.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "bibliothequechoi00nomo.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "bibliothequechoi00nomo.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "bibliothequechoi00nomo.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "bibliothequechoi00nomo.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "bibliothequechoi00nomo.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "bibliothequechoi00nomo.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "bibliothequechoi00nomo.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
