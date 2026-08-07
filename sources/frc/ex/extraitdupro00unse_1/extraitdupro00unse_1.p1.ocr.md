@@ -1,0 +1,24 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: extraitdupro00unse_1
+page: 1
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 2531
+h: 4257
+dpi: 500
+---
+
+EXTRAIT
+
+D U
+
+■7J
+
+PROCES-VERBAL
+
+De la Commissi on - Intermédiaire
+
+DES ÉTATS DE DaVPHINÉ .
+
+1789.

@@ -1,0 +1,71 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "extraitdesregist00fran_5"
+type = "pamphlet"
+title = "Extrait des registres /"
+language = "fr"
+place = "s.l."
+date = "1788"
+note = """Caption title. Without imprint. "... la cour, persistant dans son arrêté du 3 septembre dernier, a arrêté que, sous le bon plaisir du roi, il sera sursis à l'examen des edits, déclarations & lettres patentes, jusques à ce qu'il ait plu à Sa Majesté prendre de nouveau en considération les remontrances que son Parlement a eu l'honneur de lui adresser ... il sera écrit une lettre au Seigneur Roi, à l'effet de le supplier de rétablir le Parlement dans le lieu ordinaire de ses fonctions": p.4. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Skewed text. Uneven binding. Damaged, stained, and/or loose pages."""
+url = "https://archive.org/details/extraitdesregist00fran_5"
+extent = "4 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 1439"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3130x77n"
+internet_archive = "extraitdesregist00fran_5"
+openlibrary_edition = "OL26208015M"
+openlibrary_work = "OL17604294W"
+
+[scan]
+file = "extraitdesregist00fran_5.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/extraitdesregist00fran_5"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Parlement (Bordeaux)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_41810"
+
+[[text]]
+file = "extraitdesregist00fran_5.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00fran_5.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00fran_5.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00fran_5.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

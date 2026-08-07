@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "extraitdune00unse"
+type = "pamphlet"
+title = "Extrait d'une lettre de M. Palun, député de la ville d'Avignon, auprès de l'Assemblée nationale"
+language = "fr"
+place = "France"
+date = "1791"
+note = """Caption title. Dated, p. [1]: Paris, 8 juillet 1791. Not in Martin & Walter. Révolution française. "Adresse de la municipalité à l'Assemblée nationale, lue dans la séance du 7 juillet"--P. [2]-[3]; signed: ... les maire & officiers municipaux de la ville d'Avignon ... Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/extraitdune00unse"
+subject = ["Louis XVI, King of France, 1754-1793"]
+extent = "[3] p. ; 28 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 27076"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t56f10561"
+internet_archive = "extraitdune00unse"
+openlibrary_edition = "OL26226458M"
+openlibrary_work = "OL17621725W"
+
+[scan]
+file = "extraitdune00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/extraitdune00unse"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Palun"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "Avignon (France)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_867716"
+
+[[text]]
+file = "extraitdune00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdune00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdune00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdune00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,77 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "extraitprocesverb00unse"
+type = "pamphlet"
+title = "Extrait du procès-verbal des séances du directoire du departement de l'Herault, du vendredi 6 mai 1791"
+language = "fr"
+place = "A Montpellier"
+date = "1791"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."
+url = "https://archive.org/details/extraitprocesverb00unse"
+subject = [
+    "Malide, Joseph-François de, 1730-1812",
+    "France",
+    "Censorship",
+    "Church and state",
+]
+extent = "4 p. ; 23 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9848 no. 6"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9770m59w"
+internet_archive = "extraitprocesverb00unse"
+openlibrary_edition = "OL26223384M"
+openlibrary_work = "OL17618847W"
+
+[scan]
+file = "extraitprocesverb00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/extraitprocesverb00unse"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Hérault (France). Directoire"
+role = "author"
+
+[[resp]]
+name = "Chez Jean-François Picot, imprimeur du département"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_855738"
+
+[[text]]
+file = "extraitprocesverb00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitprocesverb00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitprocesverb00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitprocesverb00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

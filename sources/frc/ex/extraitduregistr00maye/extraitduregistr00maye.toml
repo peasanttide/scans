@@ -1,0 +1,95 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "extraitduregistr00maye"
+type = "pamphlet"
+title = "Extrait du registre des délibérations /"
+language = "fr"
+place = "A Rennes"
+date = "1791"
+note = """Caption title. Imprint from colophon. "Sur l'imprimé à Laval, de l'imprimerie de Dariot ...": p.8. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover. Blurred text. Bleed through."""
+url = "https://archive.org/details/extraitduregistr00maye"
+extent = "8 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 5350"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1rg0sx9p"
+internet_archive = "extraitduregistr00maye"
+openlibrary_edition = "OL26212374M"
+openlibrary_work = "OL17608356W"
+
+[scan]
+file = "extraitduregistr00maye.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/extraitduregistr00maye"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Mayenne (France : Dept.)"
+role = "author"
+
+[[resp]]
+name = "Chez Audran et Royer"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_52891"
+
+[[text]]
+file = "extraitduregistr00maye.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduregistr00maye.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduregistr00maye.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduregistr00maye.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduregistr00maye.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduregistr00maye.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduregistr00maye.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduregistr00maye.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,69 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "extraitdesregist00fra_bzl"
+type = "pamphlet"
+title = "Extrait des registres du Parlement"
+language = "fr"
+place = "A Paris"
+date = "1777"
+note = "Suppression of a pamphlet, the title of which is not given. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Title page and cover are combined."
+url = "https://archive.org/details/extraitdesregist00fra_bzl"
+subject = ["Censorship"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 9 no. 5"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7gr2j40t"
+internet_archive = "extraitdesregist00fra_bzl"
+
+[scan]
+file = "extraitdesregist00fra_bzl.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/extraitdesregist00fra_bzl"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Parlement (Paris)"
+role = "author"
+
+[[resp]]
+name = "France. Parlement (Paris)"
+role = "author"
+
+[[resp]]
+name = "Chez P.G. Simon"
+role = "publisher"
+
+[[text]]
+file = "extraitdesregist00fra_bzl.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00fra_bzl.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00fra_bzl.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00fra_bzl.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

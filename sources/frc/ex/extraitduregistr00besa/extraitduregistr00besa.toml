@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "extraitduregistr00besa"
+type = "pamphlet"
+title = "Extrait du registre des arr^etés"
+language = "fr"
+place = "s.l."
+date = "1794"
+note = "Caption title. Imprint from colophon. Dated at end: ... le 13 fructidor, 2e. année de la République, une & indivisible [30 ao^ut 1794]. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages."
+url = "https://archive.org/details/extraitduregistr00besa"
+extent = "4 p. ; 25 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9440"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9t20484k"
+internet_archive = "extraitduregistr00besa"
+openlibrary_edition = "OL26221907M"
+openlibrary_work = "OL17617407W"
+
+[scan]
+file = "extraitduregistr00besa.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/extraitduregistr00besa"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Besançon (France)"
+role = "author"
+
+[[resp]]
+name = "Besançon (France)"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Métoyer"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_67382"
+
+[[text]]
+file = "extraitduregistr00besa.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduregistr00besa.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduregistr00besa.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduregistr00besa.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

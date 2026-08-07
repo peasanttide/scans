@@ -1,0 +1,73 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "editduroydonnpar00fran"
+type = "pamphlet"
+title = "Edit du roy donné à Paris au mois d'août 1717"
+language = "fr"
+place = "A Grenoble"
+date = "1717"
+note = "Caption title. Imprint at foot of p. 4."
+url = "https://archive.org/details/editduroydonnpar00fran"
+subject = [
+    "Counterfeits and counterfeiting",
+    "Book industries and trade",
+    "Printing",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 3 no. 79"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3228hx7n"
+internet_archive = "editduroydonnpar00fran"
+
+[scan]
+file = "editduroydonnpar00fran.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/editduroydonnpar00fran"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Sovereign (1715-1774 : Louis XV)"
+role = "author"
+
+[[resp]]
+name = "France. Sovereign (1715-1774 : Louis XV)"
+role = "author"
+
+[[resp]]
+name = "Chés Gaspard Giroud"
+role = "publisher"
+
+[[text]]
+file = "editduroydonnpar00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "editduroydonnpar00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "editduroydonnpar00fran.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "editduroydonnpar00fran.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

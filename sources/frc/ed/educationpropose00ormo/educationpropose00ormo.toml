@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "educationpropose00ormo"
+type = "pamphlet"
+title = "Éducation proposée par souscription"
+language = "fr"
+place = "Paris"
+date = "1791"
+note = """Caption title. Signed: M.C.J. d'Ormay, membre de plusieurs academies nationales et étrangères ... Imprint from colophon. "Notre établissement sera ouvert le premier janvier 1792, et fermé le dernier décembre 1797"--P. 3. Not in Martin & Walter. Révolution française. Proposes a school that would combine the best elements of public and private education. Scanner's note: No copyright page found. No table-of-contents pages found.   Title page and cover are combined. Damaged, stained and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/educationpropose00ormo"
+subject = [
+    "Boarding schools",
+    "Education",
+]
+extent = "4 p. ; 28 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 27068"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9j43wk80"
+internet_archive = "educationpropose00ormo"
+openlibrary_edition = "OL26226296M"
+openlibrary_work = "OL17621563W"
+
+[scan]
+file = "educationpropose00ormo.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/educationpropose00ormo"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Ormoy, M. C. J. d'"
+role = "author"
+
+[[resp]]
+name = "Devaux, Jean-Baptiste, -1799"
+role = "publisher"
+
+[[resp]]
+name = "De l'imprimerie de Devaux, rue de Chartres no. 382"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_867709"
+
+[[text]]
+file = "educationpropose00ormo.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "educationpropose00ormo.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "educationpropose00ormo.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "educationpropose00ormo.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

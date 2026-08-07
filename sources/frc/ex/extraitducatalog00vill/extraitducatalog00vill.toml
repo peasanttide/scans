@@ -1,0 +1,69 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "extraitducatalog00vill"
+type = "pamphlet"
+title = "Extrait du catalogue des livres brochés qui se trouvent chez Villier, libraire, rue des Mathurins, no. 396, quartier de l'Odéon, à Paris"
+language = "fr"
+place = "Paris"
+date = "1800"
+note = "Caption title. Printed in double columns. With prices. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Text extends off of the edge of the page. Text may be lost in the binding. Permanent creases may obscure some text. Title page and cover are combined."
+url = "https://archive.org/details/extraitducatalog00vill"
+subject = ["Villier, active 1795-1802"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 8 no. 55"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t16m8xq17"
+internet_archive = "extraitducatalog00vill"
+
+[scan]
+file = "extraitducatalog00vill.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/extraitducatalog00vill"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Villier,active 1795-182"
+role = "author"
+
+[[resp]]
+name = "Villier, active 1795-1802"
+role = "author"
+
+[[resp]]
+name = "Villier"
+role = "publisher"
+
+[[text]]
+file = "extraitducatalog00vill.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitducatalog00vill.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitducatalog00vill.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitducatalog00vill.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,40 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: epitreduvieuxcos00kron
+page: 3
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 2425
+h: 4049
+dpi: 500
+---
+
+D U
+
+VIEUX COSMOPOLITE
+
+à la '
+
+CONVEUTIOÎQ^ NATIONALE D
+
+CONTENANT L’EXAMEN DU DISCOURS
+
+PRONONCE
+
+A LA SEANCE DU 2 PLUVIOSE
+PAR
+
+LE CITOYEN BOISSY- b’aNG
+REPRESENTANT DU PEUPLE
+s II R
+
+LES VÉRITABLES INTERET
+
+QUELQUES UNES DES PUISSANCE
+COALISEES
+et sur
+
+LES BASES D’UNE PAIX
+
+EN SARMATIE
+ihenswbsrmt

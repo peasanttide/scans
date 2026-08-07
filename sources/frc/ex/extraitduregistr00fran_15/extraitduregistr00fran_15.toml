@@ -1,0 +1,74 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "extraitduregistr00fran_15"
+type = "pamphlet"
+title = "Extrait du registre des arrêtés /"
+language = "fr"
+place = "À Versailles"
+date = "1795"
+note = "Caption title. Imprint from colophon. Details about the Armée. Not in Martin & Walter [edition 2: Versailles imprint]. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on cover page. Damaged, stained and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/extraitduregistr00fran_15"
+subject = ["France. Armée"]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 2244"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t03z3bx8m"
+internet_archive = "extraitduregistr00fran_15"
+
+[scan]
+file = "extraitduregistr00fran_15.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/extraitduregistr00fran_15"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale. Comité de salut public"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale. Comité de salut public"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie du département de Seine & Oise"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_43174"
+
+[[text]]
+file = "extraitduregistr00fran_15.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduregistr00fran_15.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduregistr00fran_15.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduregistr00fran_15.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

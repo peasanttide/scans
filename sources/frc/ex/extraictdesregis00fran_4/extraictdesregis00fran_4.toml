@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "extraictdesregis00fran_4"
+type = "pamphlet"
+title = "Extraict des registre du Conseil d'Estat."
+language = "fr"
+date = "1615"
+note = "Dated at Paris, May 23, 1615. Scanner's note: No copyright page found. No table-of-contents pages found.  Cover and Title page are combined.  Uneven binding.  Skewed text."
+url = "https://archive.org/details/extraictdesregis00fran_4"
+extent = "4 p.16 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case F 39 .326 1615frac"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3kx0v556"
+internet_archive = "extraictdesregis00fran_4"
+
+[scan]
+file = "extraictdesregis00fran_4.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/extraictdesregis00fran_4"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Conseil d'Etat"
+role = "author"
+
+[[resp]]
+name = "France. Conseil d'Etat"
+role = "author"
+
+[[resp]]
+name = "[n.p.,  1615]"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_386355"
+
+[[text]]
+file = "extraictdesregis00fran_4.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraictdesregis00fran_4.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraictdesregis00fran_4.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraictdesregis00fran_4.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "etiennelehodeyse00leho"
+type = "pamphlet"
+title = "Étienne Lehodey à ses concitoyens."
+language = "fr"
+place = "Paris"
+date = "1792"
+note = "Caption title. Imprint from colophon. Publisher location from Martin & Walter. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  III, 20723. Scanner's note: Title page located on front cover. No copyright page found. No table-of-contents pages found. Worn and damaged pages. Skewed text."
+url = "https://archive.org/details/etiennelehodeyse00leho"
+subject = [
+    "Lehodey de Saultchevreuil, Étienne",
+    "Logographe",
+]
+extent = "4 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 12318"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t87h6886d"
+internet_archive = "etiennelehodeyse00leho"
+openlibrary_edition = "OL25914831M"
+openlibrary_work = "OL17338134W"
+
+[scan]
+file = "etiennelehodeyse00leho.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/etiennelehodeyse00leho"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Lehodey de Saultchevreuil, Étienne"
+role = "author"
+
+[[resp]]
+name = "Renaudière, Nicolas"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie de N. Renaudière, rue Croix-des-Petits-Champs, no. 69"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_827045"
+
+[[text]]
+file = "etiennelehodeyse00leho.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "etiennelehodeyse00leho.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "etiennelehodeyse00leho.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "etiennelehodeyse00leho.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,85 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "extraitdesregist00fra_dyk"
+type = "pamphlet"
+title = "Extrait des registres du Parlement de Bordeaux, du 3 septembre 1787."
+language = "fr"
+place = "A Bordeaux"
+date = "1787"
+note = "Caption title. Imprint from colophon. Signatures: [A]⁴(-[A]4). Head-piece. No. 35 of 45 titles bound together."
+url = "https://archive.org/details/extraitdesregist00fra_dyk"
+subject = ["France. Parlement (Bordeaux)"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case HD9747.F72 D68 1784 no. 35"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1gj5hg28"
+internet_archive = "extraitdesregist00fra_dyk"
+
+[scan]
+file = "extraitdesregist00fra_dyk.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/extraitdesregist00fra_dyk"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Parlement (Bordeaux),"
+role = "author"
+
+[[resp]]
+name = "France. Parlement (Bordeaux), creator"
+role = "author"
+
+[[resp]]
+name = "Phillippot, Pierre, printer"
+role = "publisher"
+
+[[resp]]
+name = "De l'imprimerie de Pierre Phillippot, imprimeur de la cour de Parlement, sur les Fossés de Ville"
+role = "publisher"
+
+[[text]]
+file = "extraitdesregist00fra_dyk.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00fra_dyk.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00fra_dyk.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00fra_dyk.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00fra_dyk.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00fra_dyk.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,10 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: exhortationauxvr00mayn_0
+page: 1
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 2649
+h: 4482
+dpi: 500
+---

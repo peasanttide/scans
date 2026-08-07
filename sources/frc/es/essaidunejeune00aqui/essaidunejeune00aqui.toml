@@ -1,0 +1,68 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "essaidunejeune00aqui"
+type = "pamphlet"
+title = "Essai d'une jeune muse sur le retour du roi"
+language = "fr"
+place = "Paris"
+date = "1744"
+note = "Binder's title: Conquest du roy. Caption title. Verse. Signed: Daquin. Inlaid. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover.  Uneven binding.  Skewed text.  Irregular pagination.  Page number are out of order.  Damaged, stained, torn and/or loose pages."
+url = "https://archive.org/details/essaidunejeune00aqui"
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "E 5 .L92705 v. 06 no. 45"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6548s00x"
+internet_archive = "essaidunejeune00aqui"
+
+[scan]
+file = "essaidunejeune00aqui.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/essaidunejeune00aqui"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Aquin de Château-Lyon, Pierre-Louis d',1720-1796"
+role = "author"
+
+[[resp]]
+name = "Aquin de Château-Lyon, Pierre-Louis d', 1720-1796"
+role = "author"
+
+[[resp]]
+name = "Prault"
+role = "publisher"
+
+[[text]]
+file = "essaidunejeune00aqui.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "essaidunejeune00aqui.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "essaidunejeune00aqui.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "essaidunejeune00aqui.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

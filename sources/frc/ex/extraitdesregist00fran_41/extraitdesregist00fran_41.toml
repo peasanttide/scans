@@ -1,0 +1,71 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "extraitdesregist00fran_41"
+type = "pamphlet"
+title = "Extrait des registres de Parlement"
+language = "fr"
+date = "1667"
+note = "Caption title. About Historia Universitatis Parisiensis, by César Égasse Du Boulay. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Title page and cover are combined."
+url = "https://archive.org/details/extraitdesregist00fran_41"
+subject = [
+    "Du Boulay, César Égasse, d. 1678",
+    "Censorship",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 2 no. 27"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5r83zf85"
+internet_archive = "extraitdesregist00fran_41"
+
+[scan]
+file = "extraitdesregist00fran_41.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/extraitdesregist00fran_41"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Parlement (Paris)"
+role = "author"
+
+[[resp]]
+name = "France. Parlement (Paris)"
+role = "author"
+
+[[resp]]
+name = "[Paris"
+role = "publisher"
+
+[[text]]
+file = "extraitdesregist00fran_41.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00fran_41.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00fran_41.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00fran_41.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

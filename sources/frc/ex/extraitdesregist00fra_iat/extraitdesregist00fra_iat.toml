@@ -1,0 +1,97 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "extraitdesregist00fra_iat"
+type = "pamphlet"
+title = "Extrait des registres du Conseil d'Estat privé du roy"
+language = "fr"
+place = "France"
+date = "1704"
+note = """Caption title. "Fait au Conseil d'Estat privé du roy, tenu à Versailles le vingt-un juillet mil sept cens quatre"--P. 4. Initial; head-piece. Relative to the fixed number of printers and booksellers in various cities throughout France. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Title page and cover are combined."""
+url = "https://archive.org/details/extraitdesregist00fra_iat"
+subject = [
+    "Printing industry",
+    "Printers",
+    "Booksellers and bookselling",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 2 no. 5"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9p32k57x"
+internet_archive = "extraitdesregist00fra_iat"
+
+[scan]
+file = "extraitdesregist00fra_iat.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/extraitdesregist00fra_iat"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Conseil privé"
+role = "author"
+
+[[resp]]
+name = "France. Conseil privé"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[text]]
+file = "extraitdesregist00fra_iat.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00fra_iat.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00fra_iat.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00fra_iat.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00fra_iat.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00fra_iat.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00fra_iat.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00fra_iat.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

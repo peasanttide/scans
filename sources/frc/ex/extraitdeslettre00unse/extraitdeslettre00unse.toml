@@ -1,0 +1,68 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "extraitdeslettre00unse"
+type = "pamphlet"
+title = "Extrait des lettres trouvées dans les porte-feuilles de M. Berthier, intendant de Paris : pris la nuit du 16 juillet dans sa voiture."
+language = "fr"
+place = "s.l."
+date = "1789"
+note = "Caption title. Without imprint. Not in Martin & Walter. Scanner's note: Title is on cover page. Damaged, stained and/or loose pages. Uneven binding. Skewed text. No title page found. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/extraitdeslettre00unse"
+subject = ["Berthier, Louis Bénigne François, 1737-1789"]
+extent = "3 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 3900"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4pk5g18z"
+internet_archive = "extraitdeslettre00unse"
+openlibrary_edition = "OL26215546M"
+openlibrary_work = "OL17611431W"
+
+[scan]
+file = "extraitdeslettre00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/extraitdeslettre00unse"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_50209"
+
+[[text]]
+file = "extraitdeslettre00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdeslettre00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdeslettre00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdeslettre00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

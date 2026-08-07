@@ -1,0 +1,71 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "extraitdesregist00fran_52"
+type = "pamphlet"
+title = "Extrait des registres du Conseil d'etat du roy"
+language = "fr"
+date = "1723"
+note = "Caption title. Relating to the specific number of printers in Paris authorized by decree. Scanner's note: No copyright found.  No table of contents found.  Damaged, stained pages and cover.  Title on cover. <br />."
+url = "https://archive.org/details/extraitdesregist00fran_52"
+subject = [
+    "Printing",
+    "Printers",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 4 no. 54"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t89h18g5b"
+internet_archive = "extraitdesregist00fran_52"
+
+[scan]
+file = "extraitdesregist00fran_52.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/extraitdesregist00fran_52"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "France.Conseil d'Etat"
+role = "author"
+
+[[resp]]
+name = "France. Conseil d'Etat"
+role = "author"
+
+[[resp]]
+name = "[Paris"
+role = "publisher"
+
+[[text]]
+file = "extraitdesregist00fran_52.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00fran_52.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00fran_52.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00fran_52.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

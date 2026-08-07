@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "extraitdesregist00fra_0qc"
+type = "pamphlet"
+title = "Extrait des registres du parlement, du vingt juillet mil sept cent quatre-vingt-quatre"
+language = "fr"
+place = "A Paris"
+date = "1784"
+note = "Caption title. Imprint at foot of p. 3. Suppresses: Récit de la conduite des maréchaux de France à l'égard du Vicomte de Noé, maire de Bordeaux, fait en Parlement ... le ... six juillet mil sept cent quatre-vingt-quatre. Scanner's note: No copyright found.  No table of contents found.  Damaged, stained pages and cover.  Title on cover. <br />."
+url = "https://archive.org/details/extraitdesregist00fra_0qc"
+subject = [
+    "Récit de la conduite des maréchaux de France à l'égard du vicomte Noé, maire de Bourdeaux ..",
+    "Courts",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 9 no. 98"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0gv1723c"
+internet_archive = "extraitdesregist00fra_0qc"
+
+[scan]
+file = "extraitdesregist00fra_0qc.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/extraitdesregist00fra_0qc"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "France.Parlement (Paris)"
+role = "author"
+
+[[resp]]
+name = "France. Parlement (Paris)"
+role = "author"
+
+[[resp]]
+name = "Chez P.G. Simon & N.H. Nyon ..."
+role = "publisher"
+
+[[text]]
+file = "extraitdesregist00fra_0qc.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00fra_0qc.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00fra_0qc.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00fra_0qc.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

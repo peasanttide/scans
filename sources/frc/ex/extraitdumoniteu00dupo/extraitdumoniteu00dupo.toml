@@ -1,0 +1,92 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "extraitdumoniteu00dupo"
+type = "pamphlet"
+title = "Extrait du Moniteur du mardi 12 avril : Paris, le 11 avril 1814 : acte d'abdication de l'empereur Napoleon"
+language = "fr"
+place = "Paris"
+date = "1814"
+note = """Caption title. Signed, p. [1]: Napoléon ... Dupont (de Nemours), secrétaire-général du gouvernement provisoire. Imprint from colophon. Not in Martin & Walter. Révolution française. "Cérémonial pour la réception de S.A.R. Monsienr [sic], frère du roi"--P. [1]-4; signed: Le prince de Bénévent ... [et al.]. Scanner's note: No copyright page found. No table-of-contents pages found. Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/extraitdumoniteu00dupo"
+subject = [
+    "Napoleon I, Emperor of the French, 1769-1821",
+    "Charles X, King of France, 1757-1836",
+    "Ceremonial entries",
+]
+extent = "4 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 26694"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2g78j46f"
+internet_archive = "extraitdumoniteu00dupo"
+openlibrary_edition = "OL26228892M"
+openlibrary_work = "OL17623961W"
+
+[scan]
+file = "extraitdumoniteu00dupo.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/extraitdumoniteu00dupo"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Du Pont de Nemours, Pierre Samuel,1739-1817"
+role = "author"
+
+[[resp]]
+name = "Du Pont de Nemours, Pierre Samuel, 1739-1817"
+role = "author"
+
+[[resp]]
+name = "Napoleon I, Emperor of the French, 1769-1821"
+role = "author"
+
+[[resp]]
+name = "Talleyrand-Périgord, Charles Maurice de, prince de Bénévent, 1754-1838"
+role = "author"
+
+[[resp]]
+name = "Chaignieau, François, 1757-1832"
+role = "publisher"
+
+[[resp]]
+name = "De l'imprimerie de Chaignieau aîné, rue de la Monnaie"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_864833"
+
+[[text]]
+file = "extraitdumoniteu00dupo.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdumoniteu00dupo.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdumoniteu00dupo.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdumoniteu00dupo.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

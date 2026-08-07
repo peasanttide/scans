@@ -1,0 +1,71 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "extraitdesregist00bill"
+type = "pamphlet"
+title = "Extrait des registres de l'assemblée électorale du départment de Paris, séante à l'evêché métropolitain : discours prononcé en la séance du 8 mars 1792 /"
+language = "fr"
+place = "France"
+date = "1792"
+note = "Caption title. Not in Martin & Walter. Révolution française. His acceptance speech for the position of juge-suppléant. Scanner's note: No copyright page found. No table-of-contents pages found. Damaged, stained pages and cover. Title on cover page."
+url = "https://archive.org/details/extraitdesregist00bill"
+extent = "3 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 14671"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t72v7h996"
+internet_archive = "extraitdesregist00bill"
+openlibrary_edition = "OL26192843M"
+openlibrary_work = "OL17589632W"
+
+[scan]
+file = "extraitdesregist00bill.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/extraitdesregist00bill"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Billaud-Varenne, 1756-1819"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_830238"
+
+[[text]]
+file = "extraitdesregist00bill.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00bill.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00bill.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00bill.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

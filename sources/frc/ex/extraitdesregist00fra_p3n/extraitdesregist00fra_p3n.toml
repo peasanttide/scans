@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "extraitdesregist00fra_p3n"
+type = "pamphlet"
+title = "Extrait des registres du Parlement"
+language = "fr"
+place = "A Lyon"
+date = "1762"
+note = "Caption title. Imprint at foot of p. 3. Correcting an error in the Arrest of 6 August 1762, on the Jesuits. Endorsed by the Sénéchaussée of Lyons, August 1762. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Title page and cover are combined."
+url = "https://archive.org/details/extraitdesregist00fra_p3n"
+subject = [
+    "Jesuits",
+    "Censorship",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 7 no. 13"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3422nq2j"
+internet_archive = "extraitdesregist00fra_p3n"
+
+[scan]
+file = "extraitdesregist00fra_p3n.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/extraitdesregist00fra_p3n"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Parlement (Paris)"
+role = "author"
+
+[[resp]]
+name = "France. Parlement (Paris)"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de P. Valfray"
+role = "publisher"
+
+[[text]]
+file = "extraitdesregist00fra_p3n.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00fra_p3n.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00fra_p3n.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00fra_p3n.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

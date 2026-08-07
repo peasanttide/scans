@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "extraitdesregist00lyon_3"
+type = "pamphlet"
+title = "Extrait des registres des délibérations du conseil général du district de Lyon : liste des seize citoyens composant un juré spécial d'accusation"
+language = "fr"
+place = "A Lyon"
+date = "1792"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.   Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages."
+url = "https://archive.org/details/extraitdesregist00lyon_3"
+subject = [
+    "Jury selection",
+    "Jurors",
+    "Criminal justice, Administration of",
+]
+extent = "3 p. ; 24 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9938 no. 18"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t83j8ks2s"
+internet_archive = "extraitdesregist00lyon_3"
+openlibrary_edition = "OL26223945M"
+openlibrary_work = "OL17619400W"
+
+[scan]
+file = "extraitdesregist00lyon_3.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/extraitdesregist00lyon_3"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Lyon (France). Conseil général"
+role = "author"
+
+[[resp]]
+name = "La Roche, Aimé de, 1715-1801"
+role = "publisher"
+
+[[resp]]
+name = "De l'imprimerie d'Aimé Vatar-Delaroche, aux Halles de la Grenette"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_854551"
+
+[[text]]
+file = "extraitdesregist00lyon_3.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00lyon_3.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00lyon_3.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00lyon_3.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

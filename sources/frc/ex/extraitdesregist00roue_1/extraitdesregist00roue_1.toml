@@ -1,0 +1,83 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "extraitdesregist00roue_1"
+type = "pamphlet"
+title = "Extrait des registres des délibérations du corps municipal de la commune de Rouen"
+language = "fr"
+place = "A Rouen"
+date = "1790"
+note = """Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. "Liste des membres composant la députation de l'armée fédérative de Rouen"--P. 1-2. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."""
+url = "https://archive.org/details/extraitdesregist00roue_1"
+subject = [
+    "France. Armée. Garde nationale",
+    "Loyalty oaths",
+]
+extent = "4 p. ; 24 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10247 no. 2"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9t204b5z"
+internet_archive = "extraitdesregist00roue_1"
+openlibrary_edition = "OL26223479M"
+openlibrary_work = "OL17618942W"
+
+[scan]
+file = "extraitdesregist00roue_1.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/extraitdesregist00roue_1"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Rouen (France)"
+role = "author"
+
+[[resp]]
+name = "Seyer, Pierre, b. 1735"
+role = "publisher"
+
+[[resp]]
+name = "Behourt, Pierre-Louis, 1750-1805?"
+role = "publisher"
+
+[[resp]]
+name = "De l'imp. de P. Seyer & Behourt, imp. de la municipalité, rue du Petit-Puits"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_857505"
+
+[[text]]
+file = "extraitdesregist00roue_1.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00roue_1.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00roue_1.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00roue_1.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

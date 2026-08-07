@@ -1,0 +1,87 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "extraitducompter00espe"
+type = "pamphlet"
+title = "Extrait du compte rendu au Comité des inspecteurs, le premier brumaire et germinal de l'an II /"
+language = "fr"
+place = "A Paris"
+date = "1795"
+note = "Caption title. At head of title: Convention nationale. Imprint from colophon. Not in Martin & Walter. Révolution française. Personal expense report. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover page. Skewed text. Uneven binding. Damaged, stained, loose pages.  No page numbers."
+url = "https://archive.org/details/extraitducompter00espe"
+subject = [
+    "France. Convention nationale",
+    "Finance, Public",
+]
+extent = "3 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 18354"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6741sd7n"
+internet_archive = "extraitducompter00espe"
+openlibrary_edition = "OL26201937M"
+openlibrary_work = "OL17598456W"
+
+[scan]
+file = "extraitducompter00espe.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/extraitducompter00espe"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Espert, Jean, 1758-1832"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale. Comité des inspecteurs"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_837937"
+
+[[text]]
+file = "extraitducompter00espe.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitducompter00espe.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitducompter00espe.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitducompter00espe.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

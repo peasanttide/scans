@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "extraitprocesver00unse_5"
+type = "pamphlet"
+title = "Extrait du procès-verbal de la séance des corps administratifs réunis en l'hôtel commun de la ville de Lyon : du 28 juin 1791"
+language = "fr"
+place = "A Lyon"
+date = "1791"
+note = "Caption title. Imprint from colophon. Variant of Martin & Walter. Révolution française, IV:2, 9255. Scanner's note: No copyright page found. No table-of-contents pages found.   Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages."
+url = "https://archive.org/details/extraitprocesver00unse_5"
+subject = [
+    "Courts",
+    "Loyalty oaths",
+]
+extent = "4 p. ; 24 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9938 no. 11"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3dz5cd76"
+internet_archive = "extraitprocesver00unse_5"
+openlibrary_edition = "OL26224000M"
+openlibrary_work = "OL17619456W"
+
+[scan]
+file = "extraitprocesver00unse_5.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/extraitprocesver00unse_5"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Lyon (France)"
+role = "author"
+
+[[resp]]
+name = "La Roche, Aimé de, 1715-1801"
+role = "publisher"
+
+[[resp]]
+name = "De l'imprimerie d'Aimé de La Roche, aux Halles de la Grenette"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_854544"
+
+[[text]]
+file = "extraitprocesver00unse_5.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitprocesver00unse_5.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitprocesver00unse_5.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitprocesver00unse_5.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

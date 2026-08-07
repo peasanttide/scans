@@ -1,0 +1,70 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "epistredesaintfr00fran"
+type = "pamphlet"
+title = "Epistre de Saint François de Sales"
+language = "fr"
+note = "Caption title. Scanner's note: No copyright found.  No table of contents found.  Damaged, stained pages and cover.  Title on cover page. <br />."
+url = "https://archive.org/details/epistredesaintfr00fran"
+subject = [
+    "Popes",
+    "Church and state",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 1 no. 21"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7jq6kp1p"
+internet_archive = "epistredesaintfr00fran"
+
+[scan]
+file = "epistredesaintfr00fran.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/epistredesaintfr00fran"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "Francis,de Sales, Saint,1567-1622"
+role = "author"
+
+[[resp]]
+name = "Francis, de Sales, Saint, 1567-1622"
+role = "author"
+
+[[resp]]
+name = "[Paris?"
+role = "publisher"
+
+[[text]]
+file = "epistredesaintfr00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "epistredesaintfr00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "epistredesaintfr00fran.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "epistredesaintfr00fran.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

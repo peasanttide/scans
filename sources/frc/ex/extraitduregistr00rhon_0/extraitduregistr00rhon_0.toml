@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "extraitduregistr00rhon_0"
+type = "pamphlet"
+title = "Extrait du registre des délibérations du directoire du département de Rhône et Loire"
+language = "fr"
+place = "A Lyon"
+date = "1791"
+note = 'Caption title. Imprint from colophon. "Dans la séance du 7 avril 1791 ..."--P. [1]. Not in Martin & Walter. Révolution française.'
+url = "https://archive.org/details/extraitduregistr00rhon_0"
+subject = [
+    "Mirabeau, Honoré-Gabriel de Riquetti, comte de, 1749-1791",
+    "Revolutionaries",
+]
+extent = "4 p. ; 24 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10244 no. 8"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0kt1t597"
+internet_archive = "extraitduregistr00rhon_0"
+openlibrary_edition = "OL26222817M"
+openlibrary_work = "OL17618288W"
+
+[scan]
+file = "extraitduregistr00rhon_0.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/extraitduregistr00rhon_0"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Rhône-et-Loire (France). Directoire"
+role = "author"
+
+[[resp]]
+name = "La Roche, Aimé de, 1715-1801"
+role = "publisher"
+
+[[resp]]
+name = "De l'imprimerie d'Aimé de La Roche, imprimeur du département de Rhône & Loire"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_857451"
+
+[[text]]
+file = "extraitduregistr00rhon_0.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduregistr00rhon_0.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduregistr00rhon_0.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduregistr00rhon_0.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

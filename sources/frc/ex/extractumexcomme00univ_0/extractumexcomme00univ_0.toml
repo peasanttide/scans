@@ -1,0 +1,60 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "extractumexcomme00univ_0"
+type = "pamphlet"
+title = "Extractum ex commentariis Sacrae Facultatis Theologiae Parisiensis"
+language = "la"
+date = "1756"
+note = "Caption title. Dated 26 May 1756. Includes also: Extrait des registres du Conseil d'etat du roi, du 25 mai 1756. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Title page and cover are combined."
+url = "https://archive.org/details/extractumexcomme00univ_0"
+subject = ["Université de Paris. Faculté de théologie"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 6 no. 76"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5jb1s67j"
+internet_archive = "extractumexcomme00univ_0"
+
+[scan]
+file = "extractumexcomme00univ_0.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/extractumexcomme00univ_0"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Université de Paris.Faculté de théologie"
+role = "author"
+
+[[resp]]
+name = "Université de Paris. Faculté de théologie"
+role = "author"
+
+[[resp]]
+name = "France. Conseil d'Etat"
+role = "author"
+
+[[resp]]
+name = "[N.p."
+role = "publisher"
+
+[[text]]
+file = "extractumexcomme00univ_0.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "la"
+
+[[text]]
+file = "extractumexcomme00univ_0.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "la"

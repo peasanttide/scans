@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "extraitduprocsve00marn"
+type = "pamphlet"
+title = "Extrait du procès-verbal des séances /"
+language = "fr"
+place = "Paris"
+date = "1792"
+note = "Caption title. Imprint from colophon. At lower left on p.[1]: Administration. No.75. Martin & Walter IV 2: 9465 (which specifies: Compte rendu de la prestation du serment de la Garde nationale [de Châlons] et des fonctionnaires d'Épernay). Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover."
+url = "https://archive.org/details/extraitduprocsve00marn"
+subject = ["Châlons (France). Garde nationale"]
+extent = "3 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 5266"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/txxxxxxxx"
+internet_archive = "extraitduprocsve00marn"
+openlibrary_edition = "OL26212541M"
+openlibrary_work = "OL17608522W"
+
+[scan]
+file = "extraitduprocsve00marn.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/extraitduprocsve00marn"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Marne (France)"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale législative (1791-1792)"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_52802"
+
+[[text]]
+file = "extraitduprocsve00marn.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduprocsve00marn.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduprocsve00marn.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduprocsve00marn.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

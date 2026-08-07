@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "extraitduregistr00vosg_8"
+type = "pamphlet"
+title = "Extrait du registre des délibérations du directoire du département des Vosges : séance publique du 27e. jour du 1er. mois de l'an 2e. de la République françoise, une et indivisible : présens les citoyens Quinot, président, Jaussaud, Poirson, Dieudonné, Claudel et Lecomte, administrateurs, Dubois, procureur-général-syndic, Denis, secrétaire-général"
+language = "fr"
+place = "A Épinal"
+date = "1793"
+note = "Caption title. At head of title: Liberté, egalité. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  Title on cover. Damaged, stained pages and cover.  Uneven binding. Skewed text."
+url = "https://archive.org/details/extraitduregistr00vosg_8"
+subject = [
+    "Church bells",
+    "Secularization",
+]
+extent = "3 p. ; 23 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10322 no. 3"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t42r8z98m"
+internet_archive = "extraitduregistr00vosg_8"
+openlibrary_edition = "OL26223184M"
+openlibrary_work = "OL17618645W"
+
+[scan]
+file = "extraitduregistr00vosg_8.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/extraitduregistr00vosg_8"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Vosges (France). Directoire"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie nationale d'Haener"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_856998"
+
+[[text]]
+file = "extraitduregistr00vosg_8.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduregistr00vosg_8.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduregistr00vosg_8.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduregistr00vosg_8.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

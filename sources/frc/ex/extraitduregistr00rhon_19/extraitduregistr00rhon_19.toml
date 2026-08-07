@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "extraitduregistr00rhon_19"
+type = "pamphlet"
+title = "Extrait du registre des délibérations du directoire du département de Rhône et Loire : du 25 mai 1792"
+language = "fr"
+place = "A Lyon"
+date = "1792"
+note = """Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. "Signalements des prisonniers échappés des prisons d'Avignon"--P. [1]-4. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."""
+url = "https://archive.org/details/extraitduregistr00rhon_19"
+subject = [
+    "Escaped prisoners",
+    "Law enforcement",
+]
+extent = "4 p. ; 24 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10244 no. 46"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9g49td73"
+internet_archive = "extraitduregistr00rhon_19"
+openlibrary_edition = "OL26222966M"
+openlibrary_work = "OL17618426W"
+
+[scan]
+file = "extraitduregistr00rhon_19.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/extraitduregistr00rhon_19"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Rhône-et-Loire (France). Directoire"
+role = "author"
+
+[[resp]]
+name = "Vatar-Delaroche, Aimé"
+role = "publisher"
+
+[[resp]]
+name = "De l'imprimerie d'Aimé Vatar-Delaroche, imprimeur du département de Rhône & Loire"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_857489"
+
+[[text]]
+file = "extraitduregistr00rhon_19.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduregistr00rhon_19.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduregistr00rhon_19.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduregistr00rhon_19.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

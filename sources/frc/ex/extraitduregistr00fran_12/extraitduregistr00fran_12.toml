@@ -1,0 +1,74 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "extraitduregistr00fran_12"
+type = "pamphlet"
+title = "Extrait du registre des arrêtés /"
+language = "fr"
+place = "A Versailles"
+date = "1795"
+note = "Caption title. Imprint from colophon. On the proper utilisation of pasture lands. Not in Martin & Walter [edition 1: Versailles imprint]. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on cover page. Damaged, stained and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/extraitduregistr00fran_12"
+subject = ["Pastures"]
+extent = "4 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 2241"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9h46tj2n"
+internet_archive = "extraitduregistr00fran_12"
+
+[scan]
+file = "extraitduregistr00fran_12.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/extraitduregistr00fran_12"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale. Comité de salut public"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale. Comité de salut public"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie du département de Seine & Oise"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_43021"
+
+[[text]]
+file = "extraitduregistr00fran_12.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduregistr00fran_12.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduregistr00fran_12.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduregistr00fran_12.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

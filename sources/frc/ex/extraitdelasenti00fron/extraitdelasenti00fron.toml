@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "extraitdelasenti00fron"
+type = "pamphlet"
+title = "Extrait de La Sentinelle (no. XXVIII) : placard qui a été affiché dans Paris ces jours derniers, & que les nouveaux terroristes arrachoient avec fureur décadi matin."
+language = "fr"
+place = "France"
+date = "1795"
+note = "Caption title. Dated, p. [1]: Le 20 messidor, l'an 3me. de la République française, une & indivisible. Variant of Martin & Walter. Révolution française, II, 14009. Defending a group of disabled veterans from accusations of Jacobinism. Scanner's note: No copyright page found. No table-of-contents pages found. Title page is on the cover. Skewed text."
+url = "https://archive.org/details/extraitdelasenti00fron"
+subject = [
+    "Disabled veterans",
+    "Jacobins",
+]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 18810"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9673fx05"
+internet_archive = "extraitdelasenti00fron"
+openlibrary_edition = "OL26200717M"
+openlibrary_work = "OL17597327W"
+
+[scan]
+file = "extraitdelasenti00fron.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/extraitdelasenti00fron"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Frond, soldat républicain"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_839488"
+
+[[text]]
+file = "extraitdelasenti00fron.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdelasenti00fron.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdelasenti00fron.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdelasenti00fron.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

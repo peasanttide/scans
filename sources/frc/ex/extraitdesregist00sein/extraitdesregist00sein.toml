@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "extraitdesregist00sein"
+type = "pamphlet"
+title = "Extrait des registres /"
+language = "fr"
+place = "Paris"
+date = "1791"
+note = "Caption title. Imprint from colophon. This edition not in Martin & Walter (cf. IV 2: 13409, which specifies: Appel au zèle des citoyens à payer les contributions). Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on cover page. Contents are on the back cover. Damaged, stained and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/extraitdesregist00sein"
+subject = ["Taxation"]
+extent = "3 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 6669"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5r83f48x"
+internet_archive = "extraitdesregist00sein"
+openlibrary_edition = "OL26217709M"
+openlibrary_work = "OL17613434W"
+
+[scan]
+file = "extraitdesregist00sein.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/extraitdesregist00sein"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Seine (France)"
+role = "author"
+
+[[resp]]
+name = "De l'imp. de Prault D.S.M."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_60529"
+
+[[text]]
+file = "extraitdesregist00sein.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00sein.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00sein.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00sein.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

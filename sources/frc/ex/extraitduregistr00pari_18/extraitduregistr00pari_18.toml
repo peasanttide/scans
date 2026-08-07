@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "extraitduregistr00pari_18"
+type = "pamphlet"
+title = "Extrait du registre des délibérations /"
+language = "fr"
+place = "Paris"
+date = "1791"
+note = "Caption title. Imprint from colophon. Dated at beginning: L'an mil sept cent quatre-vingt-onze, le trois mars .. About the plight of prisoners. Martin & Walter IV 2: 13188. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on cover page. Damaged, stained and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/extraitduregistr00pari_18"
+subject = ["Prisoners"]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 6634"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t34222c40"
+internet_archive = "extraitduregistr00pari_18"
+openlibrary_edition = "OL26217945M"
+openlibrary_work = "OL17613671W"
+
+[scan]
+file = "extraitduregistr00pari_18.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/extraitduregistr00pari_18"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Paris (France). Section des Quinze-Vingts"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de la veuve d'Houry"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_60815"
+
+[[text]]
+file = "extraitduregistr00pari_18.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduregistr00pari_18.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduregistr00pari_18.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduregistr00pari_18.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

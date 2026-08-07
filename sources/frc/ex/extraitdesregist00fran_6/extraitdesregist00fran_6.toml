@@ -1,0 +1,70 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "extraitdesregist00fran_6"
+type = "pamphlet"
+title = "Extrait des registres /"
+language = "fr"
+place = "s.l."
+date = "1788"
+note = """Caption title. Without imprint. "Extrait des registres du Parlement de Bordeaux, séant à Libourne. Pendant la séance du 8 mai 1788": p.3-4. "... ladite cour a délibéré d'adresser au Seigneur Roi, de très-humbles & très-respectueuses remontrances à l'effet de le supplier de vouloir bien accélérer la convocation des Etats-généraux du royaume ...": p.3-4. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Skewed text. Uneven binding. Damaged, stained, and/or loose pages."""
+url = "https://archive.org/details/extraitdesregist00fran_6"
+subject = ["France. Etats généraux"]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 1440"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0dv6kc3t"
+internet_archive = "extraitdesregist00fran_6"
+
+[scan]
+file = "extraitdesregist00fran_6.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/extraitdesregist00fran_6"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Parlement (Bordeaux)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_41989"
+
+[[text]]
+file = "extraitdesregist00fran_6.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00fran_6.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00fran_6.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00fran_6.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

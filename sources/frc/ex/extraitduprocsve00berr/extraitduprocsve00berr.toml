@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "extraitduprocsve00berr"
+type = "pamphlet"
+title = "Extrait du procès-verbal /"
+language = "fr"
+place = "s.l."
+date = "1789"
+note = "Caption title. Without imprint. Opening sentence: Nous avons fait part à l'ordre de la noblesse d'une lettre qui nous a été adressée par le sieur Comte de Guibert, par laquelle il nous prie d'annoncer à la chambre qu'il nous demande acte de sa protestation contre tout ce qui a été fait pour l'empêcher, comme citoyen, de manifester son voeu à l'Assemblée générale des trois ordres; &, comme gentilhomme, de participer aux délibérations de la noblesse. Dated on p.3: ... à Bourges, le 30 mars 1789. Not in Martin & Walter. Scanner's note: No title page found. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/extraitduprocsve00berr"
+subject = [
+    "France. Etats généraux",
+    "Nobility",
+]
+extent = "3 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 1386"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6m09511f"
+internet_archive = "extraitduprocsve00berr"
+openlibrary_edition = "OL26208136M"
+openlibrary_work = "OL17604420W"
+
+[scan]
+file = "extraitduprocsve00berr.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/extraitduprocsve00berr"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Berry (France)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_41003"
+
+[[text]]
+file = "extraitduprocsve00berr.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduprocsve00berr.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduprocsve00berr.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduprocsve00berr.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

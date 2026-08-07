@@ -1,0 +1,73 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "extraitduprocsve00fran_17"
+type = "pamphlet"
+title = "... Extrait du procès-verbal /"
+language = "fr"
+place = "A Paris"
+date = "1796"
+note = "Caption title. Imprint from colophon. At head of title: Corps législatif. Conseil des cinq-cents. Martin & Walter IV 2: 3852. Scanner's note: No title page found. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/extraitduprocsve00fran_17"
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 2022"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2k69hs0m"
+internet_archive = "extraitduprocsve00fran_17"
+
+[scan]
+file = "extraitduprocsve00fran_17.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/extraitduprocsve00fran_17"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Corps législatif (1795-1814). Conseil des cinq-cents"
+role = "author"
+
+[[resp]]
+name = "France. Corps législatif (1795-1814). Conseil des cinq-cents"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_44365"
+
+[[text]]
+file = "extraitduprocsve00fran_17.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduprocsve00fran_17.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduprocsve00fran_17.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduprocsve00fran_17.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

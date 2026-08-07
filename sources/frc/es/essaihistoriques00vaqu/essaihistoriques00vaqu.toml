@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "essaihistoriques00vaqu"
+type = "pamphlet"
+title = "Essai historique sur les gardes nationales : ou leur création civique, leur fédération et leur organisation constitutionnelle : avec l'état et organisation de l'armée de ligne, de la marine et de la gendarmerie nationale, et le précis de la Constitution /"
+language = "fr"
+place = "Paris"
+date = "1791"
+note = """Prospectus for Essai historique sur les gardes nationales. Advertised work never published? Caption title, p. [3]. Letter of transmittal (p. [1]-[2]) signed: Pierre Vaqué; dated at beginning: Paris, 30 juillet 1791. "On payera en souscrivant 3 livres 12 sous, et autant à chacune des quatre premières livraisons ... On souscrit à Paris, chez l'auteur, rue Copeau, maison de Mademoiselle Mercier, près le Jardin des Plantes, et chez tous les libraires et directeurs de postes du royaume"--P. [4]. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  IV:1, 33175. Scanner's note: No Page numbers.  No copyright page found. No table-of-contents pages found. Title and cover page are combined. Uneven binding. Damaged pages. Inconsistent page size. Skewed text."""
+url = "https://archive.org/details/essaihistoriques00vaqu"
+subject = [
+    "Vaqué, Pierre",
+    "France. Armée. Garde nationale",
+    "Booksellers and bookselling",
+]
+extent = "[4] p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 13297"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t03z30771"
+internet_archive = "essaihistoriques00vaqu"
+openlibrary_edition = "OL25926479M"
+openlibrary_work = "OL17349107W"
+
+[scan]
+file = "essaihistoriques00vaqu.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/essaihistoriques00vaqu"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Vaqué, Pierre"
+role = "author"
+
+[[resp]]
+name = "Carbier, former owner. ICN"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_827925"
+
+[[text]]
+file = "essaihistoriques00vaqu.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "essaihistoriques00vaqu.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "essaihistoriques00vaqu.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "essaihistoriques00vaqu.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "extraitdesregist00lyon_1"
+type = "pamphlet"
+title = "Extrait des registres des délibérations du conseil général du district de la Campagne de Commune-Affranchie"
+language = "fr"
+place = "A Commune-Affranchie"
+date = "1794"
+note = "Caption title. At head of title: La République ou la mort. Signed: Dumanoir, président. Meunier, secretaire par interim. Imprint from colophon. Dated, p. [1]: Dans la séance du conseil-général du district de la Campagne de Commune-Affranchie, du 8 ventose, l'an second de la République .. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages."
+url = "https://archive.org/details/extraitdesregist00lyon_1"
+subject = [
+    "Refugee property",
+    "Recording and registration",
+    "Finance, Public",
+]
+extent = "3 p. ; 23 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9895 no. 2"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8z94c325"
+internet_archive = "extraitdesregist00lyon_1"
+openlibrary_edition = "OL26223665M"
+openlibrary_work = "OL17619120W"
+
+[scan]
+file = "extraitdesregist00lyon_1.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/extraitdesregist00lyon_1"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Lyon (France). Conseil général du district de la Campagne"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie révolutionnaire du sans-culotte Destefanis, aux halles de la Grenette, second étage"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_855186"
+
+[[text]]
+file = "extraitdesregist00lyon_1.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00lyon_1.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00lyon_1.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00lyon_1.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,82 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "extraitduprocsve00jura"
+type = "pamphlet"
+title = "Extrait du procès-verbal /"
+language = "fr"
+place = "A Rennes"
+date = "1790"
+note = "Caption title. Imprint from colophon. About church property. Not in Martin & Walter. Scanner's note: Title on cover. No copyright. No table of contents. Damaged,  stained pages and cover. <br /><br />."
+url = "https://archive.org/details/extraitduprocsve00jura"
+subject = ["Church property"]
+extent = "6 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 4473"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t84j5jn75"
+internet_archive = "extraitduprocsve00jura"
+
+[scan]
+file = "extraitduprocsve00jura.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/extraitduprocsve00jura"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "Jura (France)"
+role = "author"
+
+[[resp]]
+name = "Chez J. Robiquet, sur l'imprimé de J.F. Daclin"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_55331"
+
+[[text]]
+file = "extraitduprocsve00jura.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduprocsve00jura.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduprocsve00jura.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduprocsve00jura.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduprocsve00jura.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduprocsve00jura.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

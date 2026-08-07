@@ -1,0 +1,83 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "extraitdesrgistr00soci"
+type = "pamphlet"
+title = "Extrait des régistres /"
+language = "fr"
+place = "s.l."
+date = "1794"
+note = "Caption title. Without imprint. Dated in contemporary ms.: 18 févr. 794. Martin & Walter IV 2: 16996 (which specifies: Contre le citoyen Faure, représentant du peuple). Scanner's note: No copyright page found. No table-of-contents pages found. Title is on the cover page. Uneven binding. Skewed text. Damaged, stained, and/or loose pages.  No page numbers."
+url = "https://archive.org/details/extraitdesrgistr00soci"
+subject = [
+    "Faure, Balthasar, 1746-1805",
+    "Political clubs",
+]
+extent = "[3] p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 8443"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6zw6jv3n"
+internet_archive = "extraitdesrgistr00soci"
+openlibrary_edition = "OL26220707M"
+openlibrary_work = "OL17616291W"
+
+[scan]
+file = "extraitdesrgistr00soci.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/extraitdesrgistr00soci"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Société populaire de Sarrebourg"
+role = "author"
+
+[[resp]]
+name = "Société populaire de Sarrebourg"
+role = "author"
+
+[[resp]]
+name = "Sarrebourg (France)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_29300"
+
+[[text]]
+file = "extraitdesrgistr00soci.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesrgistr00soci.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesrgistr00soci.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesrgistr00soci.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

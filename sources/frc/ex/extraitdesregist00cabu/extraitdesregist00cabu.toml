@@ -1,0 +1,65 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "extraitdesregist00cabu"
+type = "pamphlet"
+title = "Extrait des registres de parlement du 13 août 1762"
+language = "fr"
+place = "Paris"
+date = "1762"
+note = "Caption title. Imprint at foot of p. 4. Condemns Mes doutes sur la mort des Jésuites, issued anonymously, written by Pierre Cabut. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Permanent creases obscure some text. Title page and cover are combined."
+url = "https://archive.org/details/extraitdesregist00cabu"
+subject = ["Censorship"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 7 no. 12"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6zw74m9t"
+internet_archive = "extraitdesregist00cabu"
+
+[scan]
+file = "extraitdesregist00cabu.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/extraitdesregist00cabu"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Cabut, Pierre"
+role = "author"
+
+[[resp]]
+name = "P.G. Simon"
+role = "publisher"
+
+[[text]]
+file = "extraitdesregist00cabu.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00cabu.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00cabu.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00cabu.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

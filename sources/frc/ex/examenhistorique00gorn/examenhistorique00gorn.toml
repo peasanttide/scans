@@ -1,0 +1,83 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "examenhistorique00gorn"
+type = "pamphlet"
+title = "Examen historique des offices, droits, fonctions & privilèges des conseillers du roi, rapporteurs & référendaires des chancelleries près les cours souveraines & conseils supérieurs du royaume"
+language = "fr"
+place = "Paris?"
+note = """Prospectus for: Examen historique des offices, droits, fonctions & privilèges des conseillers du roi, rapporteurs & referendaires des chancelleries près les cours souveraines & conseils supérieurs du royaume / par M. Gorneau. Paris, 1777. Caption title. "In-4°, 9 livres, broché, port franc; à Paris, chez l'auteur, rue Basse du Rempart, n°. 13"--P. [1]. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/examenhistorique00gorn"
+subject = [
+    "Gorneau, Philippe-Joseph, 1733-1810",
+    "Booksellers and bookselling",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1c no. 34"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3c01vx77"
+internet_archive = "examenhistorique00gorn"
+
+[scan]
+file = "examenhistorique00gorn.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/examenhistorique00gorn"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Gorneau, Philippe-Joseph,1733-181"
+role = "author"
+
+[[resp]]
+name = "Gorneau, Philippe-Joseph, 1733-1810"
+role = "author"
+
+[[resp]]
+name = "Philippe-Joseph Gorneau?"
+role = "publisher"
+
+[[text]]
+file = "examenhistorique00gorn.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "examenhistorique00gorn.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "examenhistorique00gorn.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "examenhistorique00gorn.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "examenhistorique00gorn.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "examenhistorique00gorn.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

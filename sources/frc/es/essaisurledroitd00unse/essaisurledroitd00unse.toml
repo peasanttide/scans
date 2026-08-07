@@ -1,0 +1,71 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "essaisurledroitd00unse"
+type = "pamphlet"
+title = "Essai sur le droit de paix et de guerre."
+language = "fr"
+place = "Paris"
+date = "1790"
+note = "Caption title. Imprint from colophon. Martin & Walter IV 2: 6288 (which supplies the date: 1790). Scanner's note: No copyright page found. No table-of-contents pages found. Title and cover page are combined. Skewed text. Uneven binding. Damaged, stained and/or loose pages."
+url = "https://archive.org/details/essaisurledroitd00unse"
+subject = [
+    "Peace",
+    "War",
+]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 3723"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0ns5tq4s"
+internet_archive = "essaisurledroitd00unse"
+openlibrary_edition = "OL26216053M"
+openlibrary_work = "OL17611922W"
+
+[scan]
+file = "essaisurledroitd00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/essaisurledroitd00unse"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "De l'imprimerie de Herault"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_47668"
+
+[[text]]
+file = "essaisurledroitd00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "essaisurledroitd00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "essaisurledroitd00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "essaisurledroitd00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

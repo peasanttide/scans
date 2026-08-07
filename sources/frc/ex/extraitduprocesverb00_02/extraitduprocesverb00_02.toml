@@ -1,0 +1,71 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "extraitduprocesverb00_02"
+type = "pamphlet"
+title = "... Extrait du proc`es-verbal de la séance du 23 vendémiaire, quatri`eme année républicaine [15 octobre 1795] /"
+language = "fr"
+place = "A Auxerre"
+date = "1795"
+note = "Caption title. Imprint from colophon. At head of title: Administration du département de l'Yonne. Martin & Walter IV 2: 18155. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on cover page. Damaged, stained and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/extraitduprocesverb00_02"
+extent = "3 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 9094"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8ff8vx2z"
+internet_archive = "extraitduprocesverb00_02"
+openlibrary_edition = "OL26219516M"
+openlibrary_work = "OL17615197W"
+
+[scan]
+file = "extraitduprocesverb00_02.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/extraitduprocesverb00_02"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Yonne (France)"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de L. Fournier"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_65969"
+
+[[text]]
+file = "extraitduprocesverb00_02.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduprocesverb00_02.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduprocesverb00_02.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduprocesverb00_02.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

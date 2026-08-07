@@ -1,0 +1,71 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "extraitduregistre00unse"
+type = "pamphlet"
+title = "... Extrait du registre des délibérations, du 19 germinal, an cinq de la République française, une et indivisible [8 avril 1797]"
+language = "fr"
+place = "Paris"
+date = "1797"
+note = "Caption title. Imprint from colophon. At head of title: Bureau central du Canton de Paris. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages."
+url = "https://archive.org/details/extraitduregistre00unse"
+extent = "3 p. ; 24 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10080"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9q291n0t"
+internet_archive = "extraitduregistre00unse"
+openlibrary_edition = "OL26222457M"
+openlibrary_work = "OL17617928W"
+
+[scan]
+file = "extraitduregistre00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/extraitduregistre00unse"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Paris (France : Canton)"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de la citoyenne Limodin"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_70980"
+
+[[text]]
+file = "extraitduregistre00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduregistre00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduregistre00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduregistre00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

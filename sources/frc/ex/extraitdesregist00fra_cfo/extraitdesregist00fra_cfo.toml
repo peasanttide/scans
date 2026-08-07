@@ -1,0 +1,73 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "extraitdesregist00fra_cfo"
+type = "pamphlet"
+title = "Extrait des registres de la Cour des aides"
+language = "fr"
+place = "A Paris"
+date = "1784"
+note = "Caption title. Imprint at foot of p. 4. Suppresses parts of Ordonnance & instruction de MM. les Elus généraux des Etats de Bourgogne touchant la nomination des asséeurs & collecteurs des impositions de la province .. Scanner's note: No copyright found.  No table of contents found.  Damaged, stained pages and cover.  Title on cover. <br />."
+url = "https://archive.org/details/extraitdesregist00fra_cfo"
+subject = ["Censorship"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 9 no. 94"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6zw72r2d"
+internet_archive = "extraitdesregist00fra_cfo"
+
+[scan]
+file = "extraitdesregist00fra_cfo.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/extraitdesregist00fra_cfo"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "France.Cour des aides (Paris)"
+role = "author"
+
+[[resp]]
+name = "France. Cour des aides (Paris)"
+role = "author"
+
+[[resp]]
+name = "Burgundy (France). Etats. Elus généraux"
+role = "author"
+
+[[resp]]
+name = "Chez P.G. Simon"
+role = "publisher"
+
+[[text]]
+file = "extraitdesregist00fra_cfo.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00fra_cfo.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00fra_cfo.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00fra_cfo.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

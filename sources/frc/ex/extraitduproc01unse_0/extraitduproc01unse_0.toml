@@ -1,0 +1,69 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "extraitduproc01unse_0"
+type = "pamphlet"
+title = "Extrait du proc`es-verbal de la session"
+language = "fr"
+place = "A Carcassonne"
+date = "1793"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages. Inconsistent page size."
+url = "https://archive.org/details/extraitduproc01unse_0"
+extent = "4 p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9382"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3qv8n92n"
+internet_archive = "extraitduproc01unse_0"
+
+[scan]
+file = "extraitduproc01unse_0.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/extraitduproc01unse_0"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Aude (France)"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Pol`ere, Teissié & Chartrand"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_67175"
+
+[[text]]
+file = "extraitduproc01unse_0.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduproc01unse_0.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduproc01unse_0.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduproc01unse_0.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

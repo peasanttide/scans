@@ -1,0 +1,84 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "etatmajor00unse"
+type = "pamphlet"
+title = "Etat-major général, au quartier général à Paris, le 22 brumaire an 8 de la République française : Lefebvre, général, commandant la division, à la Commission législative du Conseil des anciens."
+language = "fr"
+place = "Paris"
+date = "1799"
+note = """Caption title. At head of title: Corps législatif. Commission du Conseil des cinq-cents. Liberté. Égalité. Signed, p. [1]: Le chef de l'état-major, A. Caffarelli. Imprint from colophon. Not in Martin & Walter. Révolution française. "Liste des officiers de la dix-septième division qui ont concouru aux journées des 18 et 19 brumaire"--P. 2-4. Scanner's note: No copyright page found. No table-of-contents pages found. Title page is on the cover. Damaged, stained, and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/etatmajor00unse"
+subject = ["France. Armée"]
+extent = "4 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 21070"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7rn8d694"
+internet_archive = "etatmajor00unse"
+openlibrary_edition = "OL26238712M"
+openlibrary_work = "OL17633247W"
+
+[scan]
+file = "etatmajor00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/etatmajor00unse"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Lefèbvre, Francois-Joseph, duc de Dantzick, maréchal de France, 1755-1820"
+role = "author"
+
+[[resp]]
+name = "Caffarelli du Falga, Marie François Auguste de, 1766-1849"
+role = "author"
+
+[[resp]]
+name = "France. Corps législatif (1795-1814). Conseil des cinq-cents. Commission des cinq-cents"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_843779"
+
+[[text]]
+file = "etatmajor00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "etatmajor00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "etatmajor00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "etatmajor00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

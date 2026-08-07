@@ -1,0 +1,99 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "extraitduregistr00main"
+type = "pamphlet"
+title = "Extrait du registre des délibérations du département de Maine et Loire : séance publique du samedi 6 juillet 1793, l'an deuxieme de la République française"
+language = "fr"
+place = "A Angers"
+date = "1793"
+note = """Caption title. "Arrêté en conseil général du département de Maine et Loire ..."--P. 6. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title page and cover are combined. Damaged, stained and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/extraitduregistr00main"
+extent = "6 p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC suppl. 116 no. 11"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1pg6wj66"
+internet_archive = "extraitduregistr00main"
+openlibrary_edition = "OL26235987M"
+openlibrary_work = "OL17630549W"
+
+[scan]
+file = "extraitduregistr00main.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/extraitduregistr00main"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Maine-et-Loire (France). Conseil général"
+role = "author"
+
+[[resp]]
+name = "Mame, Charles-Pierre, 1747-1825"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale, chez Mame, imprim. du département"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_861415"
+
+[[text]]
+file = "extraitduregistr00main.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduregistr00main.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduregistr00main.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduregistr00main.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduregistr00main.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduregistr00main.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduregistr00main.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduregistr00main.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

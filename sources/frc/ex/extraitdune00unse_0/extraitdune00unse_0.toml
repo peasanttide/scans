@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "extraitdune00unse_0"
+type = "pamphlet"
+title = "Extrait d'une lettre écrite par un officier municipal d'Orange, au patriote Soulet, à Paris, le 8 janvier l'an 4me. de la liberté."
+language = "fr"
+place = "France"
+date = "1792"
+note = "Caption title. Signed: Laurent, officier municipal d'Orange. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  III, 19652. Scanner's note: No copyright page found. No table-of-contents pages found. Title and cover pages combined."
+url = "https://archive.org/details/extraitdune00unse_0"
+subject = ["Counterrevolutions"]
+extent = "4 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 20794"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3xt0z58z"
+internet_archive = "extraitdune00unse_0"
+openlibrary_edition = "OL26238022M"
+openlibrary_work = "OL17632573W"
+
+[scan]
+file = "extraitdune00unse_0.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/extraitdune00unse_0"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Laurent, officier municipal d'Orange"
+role = "author"
+
+[[resp]]
+name = "Soulet, Pierre"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_843464"
+
+[[text]]
+file = "extraitdune00unse_0.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdune00unse_0.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdune00unse_0.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdune00unse_0.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

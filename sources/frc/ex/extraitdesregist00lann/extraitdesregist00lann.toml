@@ -1,0 +1,71 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "extraitdesregist00lann"
+type = "pamphlet"
+title = "Extrait des registres /"
+language = "fr"
+place = "s.l."
+date = "1788"
+note = "Caption title. Without imprint. Not in Martin & Walter. Scanner's note: No copyright page found.  No table-of-contents pages found. Title on cover. Damaged, stained pages and cover."
+url = "https://archive.org/details/extraitdesregist00lann"
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 4498"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/txxxxxxxx"
+internet_archive = "extraitdesregist00lann"
+openlibrary_edition = "OL26212672M"
+openlibrary_work = "OL17608655W"
+
+[scan]
+file = "extraitdesregist00lann.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/extraitdesregist00lann"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Lannes (France)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_56931"
+
+[[text]]
+file = "extraitdesregist00lann.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00lann.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00lann.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00lann.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

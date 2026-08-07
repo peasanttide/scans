@@ -1,0 +1,68 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "espritdemirabeau00unse"
+type = "pamphlet"
+title = "Esprit de Mirabeau : ou Manuel de l'homme d'état, des publicistes, des fonctionnaires et des orateurs ; divisé par ordre de matières, et embrassant les différentes branches de l'économie politique ; extrait de tous les ouvrages de Gabriel-Honoré Riquetti de Mirabeau, et précédé d'un précis de sa vie ..."
+language = "fr"
+place = "Paris"
+date = "1797"
+note = "Caption title. Imprint from colophon. Prospectus of the work published by Buisson in 1797. Not in Martin & Walter. Scanner's note: No page numbers found. No title page found. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/espritdemirabeau00unse"
+subject = ["Mirabeau, Honoré-Gabriel de Riquetti, comte de, 1749-1791"]
+extent = "[4] p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 3711"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3qv8m191"
+internet_archive = "espritdemirabeau00unse"
+openlibrary_edition = "OL26215267M"
+openlibrary_work = "OL17611152W"
+
+[scan]
+file = "espritdemirabeau00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/espritdemirabeau00unse"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "De l'imprimerie de F. Buisson"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_50756"
+
+[[text]]
+file = "espritdemirabeau00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "espritdemirabeau00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "espritdemirabeau00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "espritdemirabeau00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

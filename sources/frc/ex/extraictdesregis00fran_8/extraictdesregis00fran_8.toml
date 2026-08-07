@@ -1,0 +1,68 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "extraictdesregis00fran_8"
+type = "pamphlet"
+title = "Extraict des registres dv Greffe de la Cour de Parlement du ieudy trnetiéme iour de ianuier mil cinq cents quarante neuf"
+language = "fr"
+date = "1549"
+note = """Caption title. Concerns "... des bulles de nostre Sainct Pere le Pape Paul III, & lettres dudict Seigneur Roy pour le faict de l'erection de l'Vniuersité en la ville de Rheims.". Scanner's note: No copyright found.  No table of contents found.  Damaged, stained pages and cover.  Title on cover page. <br />."""
+url = "https://archive.org/details/extraictdesregis00fran_8"
+subject = ["Reims (France). Université"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 1 no. 6"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t94800r7h"
+internet_archive = "extraictdesregis00fran_8"
+
+[scan]
+file = "extraictdesregis00fran_8.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/extraictdesregis00fran_8"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "France.Parlement (Paris)"
+role = "author"
+
+[[resp]]
+name = "France. Parlement (Paris)"
+role = "author"
+
+[[resp]]
+name = "[Paris?"
+role = "publisher"
+
+[[text]]
+file = "extraictdesregis00fran_8.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraictdesregis00fran_8.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraictdesregis00fran_8.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraictdesregis00fran_8.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

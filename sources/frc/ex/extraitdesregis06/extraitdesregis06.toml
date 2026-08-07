@@ -1,0 +1,73 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "extraitdesregis06"
+type = "pamphlet"
+title = "... Extrait des registres des délibérations"
+language = "fr"
+place = "A Boen"
+date = "1793"
+note = "Caption title. Imprint from colophon. At head of title: Égalité, liberté. Dated in contemporary ms.: 15 xbre [décembre] 1793. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found.   Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages."
+url = "https://archive.org/details/extraitdesregis06"
+extent = "3 p. ; 25 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9445"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t21c73n1b"
+internet_archive = "extraitdesregis06"
+
+[scan]
+file = "extraitdesregis06.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/extraitdesregis06"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Boën (France)"
+role = "author"
+
+[[resp]]
+name = "Boën (France)"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Magnein"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_67469"
+
+[[text]]
+file = "extraitdesregis06.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregis06.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregis06.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregis06.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

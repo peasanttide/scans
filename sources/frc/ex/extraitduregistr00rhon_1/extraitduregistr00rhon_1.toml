@@ -1,0 +1,74 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "extraitduregistr00rhon_1"
+type = "pamphlet"
+title = "Extrait du registre des délibérations du directoire du département de Rhône et Loire"
+language = "fr"
+place = "A Lyon"
+date = "1791"
+note = """Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. "Copie de la lettre écrite par MM. les députés du département de Rhône & Loire à l'Assemblée nationale, à MM. les administrateurs composant le directoire du même département. Paris, le 23 mai 1791"--P. 2-3. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."""
+url = "https://archive.org/details/extraitduregistr00rhon_1"
+subject = ["Internal security"]
+extent = "3 p. ; 25 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10244 no. 9"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t07x1h77c"
+internet_archive = "extraitduregistr00rhon_1"
+
+[scan]
+file = "extraitduregistr00rhon_1.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/extraitduregistr00rhon_1"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Rhône-et-Loire (France). Directoire"
+role = "author"
+
+[[resp]]
+name = "Bruyset, Jean Marie, 1749-1817"
+role = "publisher"
+
+[[resp]]
+name = "De l'imprimerie de Bruyset fils aîné, imprimeur du département de Rhône & Loire"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_857452"
+
+[[text]]
+file = "extraitduregistr00rhon_1.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduregistr00rhon_1.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduregistr00rhon_1.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduregistr00rhon_1.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

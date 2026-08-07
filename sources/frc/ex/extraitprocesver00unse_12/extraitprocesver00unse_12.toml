@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "extraitprocesver00unse_12"
+type = "pamphlet"
+title = "Extrait du proces-verbal"
+language = "fr"
+place = "A Soissons"
+date = "1793"
+note = """Caption title. Imprint from colophon. "Adresse de la commune de Soissons a la Convention nationale": p.2-4. Martin & Walter IV 2: 17080. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."""
+url = "https://archive.org/details/extraitprocesver00unse_12"
+extent = "4 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10272"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0sr40k14"
+internet_archive = "extraitprocesver00unse_12"
+openlibrary_edition = "OL26223276M"
+openlibrary_work = "OL17618737W"
+
+[scan]
+file = "extraitprocesver00unse_12.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/extraitprocesver00unse_12"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Soissons (France). Citizens"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie du citoyen Courtois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_71799"
+
+[[text]]
+file = "extraitprocesver00unse_12.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitprocesver00unse_12.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitprocesver00unse_12.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitprocesver00unse_12.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

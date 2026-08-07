@@ -1,0 +1,68 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "extraitdelarr00fran"
+type = "pamphlet"
+title = "Extrait de l'arrest du Conseil d'estat du roy"
+language = "fr"
+date = "1723"
+note = "Caption title. Reprint of articles XCVII, CVIII, and CXII of the Reglement pour la librairie et imprimerie de Paris. Scanner's note: No copyright found.  No table of contents found.  Damaged, stained pages and cover.  Title on cover. <br />."
+url = "https://archive.org/details/extraitdelarr00fran"
+subject = ["Printing industry"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 4 no. 50"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t01z9tb50"
+internet_archive = "extraitdelarr00fran"
+
+[scan]
+file = "extraitdelarr00fran.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/extraitdelarr00fran"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "France.Conseil d'Etat"
+role = "author"
+
+[[resp]]
+name = "France. Conseil d'Etat"
+role = "author"
+
+[[resp]]
+name = "[n.p."
+role = "publisher"
+
+[[text]]
+file = "extraitdelarr00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdelarr00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdelarr00fran.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdelarr00fran.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

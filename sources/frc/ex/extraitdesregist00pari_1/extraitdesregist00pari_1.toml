@@ -1,0 +1,84 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "extraitdesregist00pari_1"
+type = "pamphlet"
+title = "... Extrait des registres de ses délibérations : du lundi 20 octobre 1789."
+language = "fr"
+place = "Paris"
+date = "1789"
+note = "Caption title. Imprint from colophon. At head of title: District de S. Marcel. About the administrative organization of Paris. Martin & Walter IV 2: 12506. Scanner's note: No title page found. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/extraitdesregist00pari_1"
+subject = ["Administrative agencies"]
+extent = "5 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 6549"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2g78gh0n"
+internet_archive = "extraitdesregist00pari_1"
+openlibrary_edition = "OL26218322M"
+openlibrary_work = "OL17614028W"
+
+[scan]
+file = "extraitdesregist00pari_1.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/extraitdesregist00pari_1"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Paris (France). District de Saint-Marcel"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Chardon"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_58654"
+
+[[text]]
+file = "extraitdesregist00pari_1.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00pari_1.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00pari_1.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00pari_1.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00pari_1.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00pari_1.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

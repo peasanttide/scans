@@ -1,0 +1,70 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "extraitduregistr00pari_13"
+type = "pamphlet"
+title = "... Extrait du registre des délibérations /"
+language = "fr"
+place = "s.l."
+date = "1789"
+note = "Caption title. Without imprint. About the food supply in Paris. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found.  Title  is on the cover.  Uneven binding.  Skewed text.  Damaged, loose, and/or stained pages."
+url = "https://archive.org/details/extraitduregistr00pari_13"
+subject = ["Food supply"]
+extent = "4 p. ; 23 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 6533"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6xw9hg8j"
+internet_archive = "extraitduregistr00pari_13"
+
+[scan]
+file = "extraitduregistr00pari_13.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/extraitduregistr00pari_13"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Paris (France). District des Cordeliers"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_57922"
+
+[[text]]
+file = "extraitduregistr00pari_13.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduregistr00pari_13.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduregistr00pari_13.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduregistr00pari_13.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

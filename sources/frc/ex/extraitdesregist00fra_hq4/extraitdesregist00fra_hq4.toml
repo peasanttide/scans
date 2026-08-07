@@ -1,0 +1,73 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "extraitdesregist00fra_hq4"
+type = "pamphlet"
+title = "Extrait des registres du Parlement de Bordeaux : du 6 septembre 1787."
+language = "fr"
+place = "A Bordeaux"
+date = "1787"
+note = "Caption title. Imprint from colophon. Signatures: [A]². Last page blank. Head-piece. No. 25 of 45 titles bound together."
+url = "https://archive.org/details/extraitdesregist00fra_hq4"
+subject = ["Lettres de cachet"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case HD9747.F72 D68 1784 no. 25"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0vq8zc7q"
+internet_archive = "extraitdesregist00fra_hq4"
+
+[scan]
+file = "extraitdesregist00fra_hq4.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/extraitdesregist00fra_hq4"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Parlement (Bordeaux),"
+role = "author"
+
+[[resp]]
+name = "France. Parlement (Bordeaux), creator"
+role = "author"
+
+[[resp]]
+name = "Phillippot, Pierre, printer"
+role = "publisher"
+
+[[resp]]
+name = "Chez Phillippot, imprimeur de la cour de Parlement, Fossés de Ville"
+role = "publisher"
+
+[[text]]
+file = "extraitdesregist00fra_hq4.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00fra_hq4.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00fra_hq4.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00fra_hq4.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

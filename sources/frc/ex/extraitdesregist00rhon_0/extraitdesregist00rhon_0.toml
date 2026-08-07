@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "extraitdesregist00rhon_0"
+type = "pamphlet"
+title = "Extrait des registres du conseil général du département de Rhône & Loire, auquel ont assisté les administrateurs des districts de la ville & de la Campagne de Lyon, ainsi que les maire & officiers municipaux provisoires de la commune de Lyon"
+language = "fr"
+place = "A Lyon"
+date = "1793"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."
+url = "https://archive.org/details/extraitdesregist00rhon_0"
+subject = [
+    "Counterrevolutions",
+    "Seditious libel",
+]
+extent = "4 p. ; 23 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10244 no. 61"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t36165240"
+internet_archive = "extraitdesregist00rhon_0"
+openlibrary_edition = "OL26222730M"
+openlibrary_work = "OL17618201W"
+
+[scan]
+file = "extraitdesregist00rhon_0.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/extraitdesregist00rhon_0"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Rhône-et-Loire (France). Conseil général"
+role = "author"
+
+[[resp]]
+name = "Vatar-Delaroche, Aimé"
+role = "publisher"
+
+[[resp]]
+name = "De l'imprimerie d'Aimé Vatar-Delaroche"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_857504"
+
+[[text]]
+file = "extraitdesregist00rhon_0.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00rhon_0.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00rhon_0.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00rhon_0.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

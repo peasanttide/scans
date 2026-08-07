@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "extraitduregistr00dord"
+type = "pamphlet"
+title = "Extrait du registre des délibérations de l'administration centrale du département de la Dordogne : séance du 29 pluviôse an 6, à laquelle ont assistés les citoyens Boyer, président, Lalande, Gintrac, Roux (Fazillac), administrateurs, N. Beaupuy, commissaire du Directoire"
+language = "fr"
+place = "A Périgueux"
+date = "1798"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.   Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages."
+url = "https://archive.org/details/extraitduregistr00dord"
+subject = [
+    "Lansade, Hélène",
+    "Refugee property",
+]
+extent = "4 p. ; 24 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9761 no. 2"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6g213t96"
+internet_archive = "extraitduregistr00dord"
+openlibrary_edition = "OL26223533M"
+openlibrary_work = "OL17618998W"
+
+[scan]
+file = "extraitduregistr00dord.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/extraitduregistr00dord"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Dordogne (France). Administration centrale"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie du républicain Dupont, imprimeur du département"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_854119"
+
+[[text]]
+file = "extraitduregistr00dord.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduregistr00dord.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduregistr00dord.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduregistr00dord.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

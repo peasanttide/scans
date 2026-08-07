@@ -1,0 +1,88 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "extraitduregistr00sein"
+type = "pamphlet"
+title = "Extrait du registre des délibérations de l'administration centrale du département de la Seine ; du 28 fructidor, an V de la République française"
+language = "fr"
+place = "Ce tableau se trouve à Paris"
+date = "1797"
+note = """Caption title. At head of title: Département de la Seine. Imprint from colophon. Not in Martin & Walter. Révolution française. "Tableau de dépréciation du papier-monnaie dans le département de la Seine, calculé sur l'unité de 100 liv. assignats et de 100 liv. mandats, à partir du 1er. janvier 1791 (v.s.) jusqu'au 1er. thermidor an IV"--Table, p. [2]-[3]. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover. No page numbers. Tight margins and no margins. Text lost in binding."""
+url = "https://archive.org/details/extraitduregistr00sein"
+subject = [
+    "Devaluation of currency",
+    "Paper money",
+    "Assignats",
+]
+extent = "[4] p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10263 no. 2"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t01z99x00"
+internet_archive = "extraitduregistr00sein"
+openlibrary_edition = "OL26223097M"
+openlibrary_work = "OL17618558W"
+
+[scan]
+file = "extraitduregistr00sein.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/extraitduregistr00sein"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Seine (France). Administration centrale"
+role = "author"
+
+[[resp]]
+name = "Ballard, Pierre-Robert-Christophe, 1744-1812"
+role = "publisher"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "Seine (France). Tableau de dépréciation du papier-monnaie dans le département de la Seine, calculé sur l'unité de 100 liv. assignats et de 100 liv. mandats, à partir du 1er. janvier 1791 (v.s.) jusqu'au 1er. thermidor an IV"
+role = "author"
+
+[[resp]]
+name = "Chez Ballard, imprimeur du département, rue des Mathurins, no. 328 : Rondonneau, au Dépôt des lois, place du Carousel"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_857510"
+
+[[text]]
+file = "extraitduregistr00sein.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduregistr00sein.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduregistr00sein.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduregistr00sein.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

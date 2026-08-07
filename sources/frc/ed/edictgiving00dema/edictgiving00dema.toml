@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "edictgiving00dema"
+type = "pamphlet"
+title = "[Edict giving the Prévôt des marchands et echevins the right to collect taxes on alcoholic beverages in Lyon, France]."
+language = "fr"
+place = "Lyon?"
+date = "1705"
+note = """Title devised by cataloger. " ... à commencer du premier janvier mil sept cens douze ... par son edit du mois d'octobre de l'année mil sept cens cinq ..."--Page [1]. Signatures: [A]². Last page blank. Initial. Blank spaces within letterpress text to be completed by hand. No. 25 of 54 titles bound together."""
+url = "https://archive.org/details/edictgiving00dema"
+subject = [
+    "Lyon (France). Prévôt des marchands et echevins",
+    "Alcoholic beverages",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio KJV5795 .A35 1728 no. 25"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8z95969f"
+internet_archive = "edictgiving00dema"
+
+[scan]
+file = "edictgiving00dema.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/edictgiving00dema"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Demasso, Pierre,"
+role = "author"
+
+[[resp]]
+name = "Demasso, Pierre"
+role = "author"
+
+[[resp]]
+name = "[publisher not identified]"
+role = "publisher"
+
+[[text]]
+file = "edictgiving00dema.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "edictgiving00dema.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "edictgiving00dema.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "edictgiving00dema.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,82 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "etatactuelde00bull_0"
+type = "pamphlet"
+title = "État actuel de l'Herbier de la France"
+language = "fr"
+place = "Paris?"
+date = "1791"
+note = """Prospectus for Bulliard's "Herbier de la France.". Caption title. "On peut s'adresser à l'auteur, M. Bulliard, isle S.-Louis, no. 1. en face du Pont-rouge, à Paris. Ou chez Barrois le jeune, librarie, quai des Augustins, Belin, libraire, rue S. Jacques, Croullebois, libraire, rue des Mathurins, Bazan, rue et hôtel Serpente.". Includes prices. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Title page and cover are combined."""
+url = "https://archive.org/details/etatactuelde00bull_0"
+subject = [
+    "Bulliard, Pierre, 1752-1793",
+    "Booksellers and bookselling",
+    "Botanical literature",
+    "Botanical illustration",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1c no. 18"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5q870k0q"
+internet_archive = "etatactuelde00bull_0"
+
+[scan]
+file = "etatactuelde00bull_0.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/etatactuelde00bull_0"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Bulliard, Pierre,1752-1793"
+role = "author"
+
+[[resp]]
+name = "Bulliard, Pierre, 1752-1793"
+role = "author"
+
+[[resp]]
+name = "Bulliard, Pierre, 1752-1793. Herbier de la France"
+role = "author"
+
+[[resp]]
+name = "Barrois, Théophile"
+role = "bookseller"
+
+[[resp]]
+name = "Belin, François, 1748-1808"
+role = "bookseller"
+
+[[resp]]
+name = "Croullebois, André, fl. 1786-1819?"
+role = "bookseller"
+
+[[resp]]
+name = "Basan, François, 1723-1797"
+role = "bookseller"
+
+[[resp]]
+name = "Pierre Bulliard?"
+role = "publisher"
+
+[[text]]
+file = "etatactuelde00bull_0.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "etatactuelde00bull_0.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,73 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "extraitdesregist00fran_46"
+type = "pamphlet"
+title = "Extrait des registres du Conseil d'Estat privé du roy"
+language = "fr"
+place = "France"
+date = "1704"
+note = """Caption title. "Fait au Conseil d'Estat privé du roy, tenu à Versailles le vingt-un juillet mil sept cens quatre"--P. 4. Initial; head-piece. Relative to the fixed number of printers and booksellers in various cities throughout France. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text.  Title page and cover are combined."""
+url = "https://archive.org/details/extraitdesregist00fran_46"
+subject = [
+    "Printing industry",
+    "Printers",
+    "Booksellers and bookselling",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 3 no. 17"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8ff9cz5f"
+internet_archive = "extraitdesregist00fran_46"
+
+[scan]
+file = "extraitdesregist00fran_46.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/extraitdesregist00fran_46"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Conseil privé"
+role = "author"
+
+[[resp]]
+name = "France. Conseil privé"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[text]]
+file = "extraitdesregist00fran_46.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00fran_46.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00fran_46.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00fran_46.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

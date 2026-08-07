@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "esquissedudecret00calo"
+type = "pamphlet"
+title = "Esquisse du decret de l'Assemblée nationale : concernant la contribution patriotique & extraordinaire à faire par tout particulier ; du 30 décembre 1789."
+language = "fr"
+place = "s.l."
+date = "1789"
+note = """Caption title. Without imprint. "Lettres patentes du roi, sur le décret de l'Assemblée nationale. Données à Paris, le 30 décembre 1789": p.2-3. "Lettre de M. de Calonne à l'Assemblée nationale": p.3-4. Not dated. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found.   Title is on cover page. Damaged, stained and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/esquissedudecret00calo"
+subject = ["Taxation"]
+extent = "4 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 3714"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0ps2vj63"
+internet_archive = "esquissedudecret00calo"
+openlibrary_edition = "OL26215551M"
+openlibrary_work = "OL17611436W"
+
+[scan]
+file = "esquissedudecret00calo.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/esquissedudecret00calo"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Calonne, Charles Alexandre de, 1734-1802"
+role = "author"
+
+[[resp]]
+name = "France. Sovereign (1774-1792 : Louis XVI)"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_48061"
+
+[[text]]
+file = "esquissedudecret00calo.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "esquissedudecret00calo.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "esquissedudecret00calo.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "esquissedudecret00calo.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

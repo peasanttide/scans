@@ -1,0 +1,73 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "extraitduregistr00pari_1"
+type = "pamphlet"
+title = "... Extrait du registre des délibérations /"
+language = "fr"
+place = "Paris"
+date = "1791"
+note = "Caption title. Imprint from colophon. At head of title: Municipalité de Paris. Par le maire & le Conseil-général de la Commune. Not in Martin & Walter."
+url = "https://archive.org/details/extraitduregistr00pari_1"
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 6459"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5s80g433"
+internet_archive = "extraitduregistr00pari_1"
+
+[scan]
+file = "extraitduregistr00pari_1.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/extraitduregistr00pari_1"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Paris (France). Commune (1789-1794). Conseil général"
+role = "author"
+
+[[resp]]
+name = "Paris (France). Commune (1789-1794). Conseil général"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Lottin l'aîné & J.-R. Lottin"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_58737"
+
+[[text]]
+file = "extraitduregistr00pari_1.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduregistr00pari_1.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduregistr00pari_1.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduregistr00pari_1.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

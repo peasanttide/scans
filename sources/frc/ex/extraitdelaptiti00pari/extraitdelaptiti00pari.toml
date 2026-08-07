@@ -1,0 +1,84 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "extraitdelaptiti00pari"
+type = "pamphlet"
+title = "... Extrait de la pétition présentée a la Convention nationale /"
+language = "fr"
+place = "A Paris"
+date = "1795"
+note = "Caption title. Imprint from colophon. At head of title: Convention nationale. About the food supply in Paris. This petition was repudiated by an Adresse of the Section du Finistère, 28 ventôse III, i.e. 18 March 1795 (Martin & Walter IV 2: 12794). Martin & Walter IV 2: 12797. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on cover page. Damaged, stained and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/extraitdelaptiti00pari"
+subject = ["Food supply"]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 6579"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1ck3gw4v"
+internet_archive = "extraitdelaptiti00pari"
+openlibrary_edition = "OL26218468M"
+openlibrary_work = "OL17614174W"
+
+[scan]
+file = "extraitdelaptiti00pari.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/extraitdelaptiti00pari"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Paris (France). Section du Finistère"
+role = "author"
+
+[[resp]]
+name = "Paris (France). Section du Finistère"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Paris (France). Section de l'Observatoire"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_59129"
+
+[[text]]
+file = "extraitdelaptiti00pari.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdelaptiti00pari.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdelaptiti00pari.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdelaptiti00pari.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

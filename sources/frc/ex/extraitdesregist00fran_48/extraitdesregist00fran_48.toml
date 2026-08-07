@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "extraitdesregist00fran_48"
+type = "pamphlet"
+title = "Extrait des registres de Parlement"
+language = "fr"
+place = "A Rennes"
+date = "1717"
+note = "Caption title. Imprint and imprint date at foot of p. 4. Orders the suppression of Catechisme historique & dogmatique, sur la Constitution Unigenitus. Dated 17 December 1717."
+url = "https://archive.org/details/extraitdesregist00fran_48"
+subject = [
+    "Unigenitus (Papal bull) 1713",
+    "Prohibited books",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 3 no. 89"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t81k51b1f"
+internet_archive = "extraitdesregist00fran_48"
+
+[scan]
+file = "extraitdesregist00fran_48.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/extraitdesregist00fran_48"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Parlement (Brittany)"
+role = "author"
+
+[[resp]]
+name = "France. Parlement (Brittany)"
+role = "author"
+
+[[resp]]
+name = "Chez la veuve de François Vatar"
+role = "publisher"
+
+[[text]]
+file = "extraitdesregist00fran_48.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00fran_48.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00fran_48.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00fran_48.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

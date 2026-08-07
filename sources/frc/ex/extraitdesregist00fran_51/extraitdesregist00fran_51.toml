@@ -1,0 +1,65 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "extraitdesregist00fran_51"
+type = "pamphlet"
+title = "Extrait des registres du Parlement"
+language = "fr"
+date = "1723"
+note = "Condemnation of an anonymous pamphlet: Lettres curieuses de differents endroits, sur tout ce qui se passe dans l'Eglise au sujet de la Constitution Unigenitus (Nancy, 1722). Dated 17 February 1723. Scanner's note: Title and cover pages combined. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/extraitdesregist00fran_51"
+subject = [
+    "Unigenitus (Papal bull) 1713",
+    "Censorship",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 4 no. 44"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9h47bt58"
+internet_archive = "extraitdesregist00fran_51"
+
+[scan]
+file = "extraitdesregist00fran_51.pdf"
+count = 5
+by = "Internet Archive"
+url = "https://archive.org/details/extraitdesregist00fran_51"
+ppi = 350
+note = "Scanned on fold1.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Parlement (Aix-en-Provence)"
+role = "author"
+
+[[resp]]
+name = "France. Parlement (Aix-en-Provence)"
+role = "author"
+
+[[resp]]
+name = "[Aix"
+role = "publisher"
+
+[[text]]
+file = "extraitdesregist00fran_51.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00fran_51.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00fran_51.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

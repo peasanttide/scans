@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "exemplumjudiciir00coll"
+type = "pamphlet"
+title = "Exemplum judicii revisorum de libro Gallico cui titulus Histoire du peuple de Dieu"
+language = "la"
+date = "1729"
+note = "Caption title. Manuscript on paper. Dated and signed at end: e Collegio romano. 25a. maii 1729. Eduardus de Vitry [and 3 others] Approbatum est Judicium a Patre Nostro Generali die 2a. Junii et transmissum ad Patrem Bretonneau, Superiorem Domus professae ut executioni mandetur."
+url = "https://archive.org/details/exemplumjudiciir00coll"
+subject = ["Censorship"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 4 no. 87"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4hn0vb8s"
+internet_archive = "exemplumjudiciir00coll"
+
+[scan]
+file = "exemplumjudiciir00coll.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/exemplumjudiciir00coll"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Collegio romano"
+role = "author"
+
+[[resp]]
+name = "Berruyer, Isaac-Joseph, 1681-1758"
+role = "author"
+
+[[resp]]
+name = "Vitry, Edouard de, 1666-1730"
+role = "author"
+
+[[resp]]
+name = "Bretonneau, François de Paule, 1660-1741"
+role = "author"
+
+[[resp]]
+name = "[n.p."
+role = "publisher"
+
+[[text]]
+file = "exemplumjudiciir00coll.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "la"
+
+[[text]]
+file = "exemplumjudiciir00coll.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "la"
+
+[[text]]
+file = "exemplumjudiciir00coll.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "la"
+
+[[text]]
+file = "exemplumjudiciir00coll.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "la"

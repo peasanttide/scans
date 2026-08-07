@@ -1,0 +1,87 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "editduro00unse"
+type = "pamphlet"
+title = "Édit du roi, portant suppression d'un office d'avocat du roi en al sénéchaussée & siége présidial de Gueret : donné à Versailles au mois de mars 1758"
+language = "fr"
+place = "A Paris"
+date = "1761"
+note = """Caption title. "Signé Louis. Et plus bas, par le roi, Phelypeaux"--P. 2. Imprint from colophon. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, stained and/or loose pages Skewed text. Uneven binding. Title and cover page are combined. Text on the back cover is upside-down."""
+url = "https://archive.org/details/editduro00unse"
+subject = [
+    "Rondeoux de Vallerieux, sieur",
+    "Lawyers' spouses",
+]
+extent = "3 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC suppl. 89 no. 2"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t81k4mj9n"
+internet_archive = "editduro00unse"
+openlibrary_edition = "OL26235032M"
+openlibrary_work = "OL17629614W"
+
+[scan]
+file = "editduro00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/editduro00unse"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Sovereign (1715-1774 : Louis XV)"
+role = "author"
+
+[[resp]]
+name = "Louis XV, King of France, 1710-1774"
+role = "author"
+
+[[resp]]
+name = "Maurepas, Jean-Frédéric Phélypeaux, comte de, 1701-1781"
+role = "author"
+
+[[resp]]
+name = "Simon, P. G. (Pierre-Guillaume), 1722-1787"
+role = "publisher"
+
+[[resp]]
+name = "Chez P.G. Simon, imprimeur du Parlement, rue de la Harpe"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_861557"
+
+[[text]]
+file = "editduro00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "editduro00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "editduro00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "editduro00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

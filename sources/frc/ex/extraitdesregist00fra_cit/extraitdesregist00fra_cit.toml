@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "extraitdesregist00fra_cit"
+type = "pamphlet"
+title = "Extrait des registres de la Chambre des comptes"
+language = "fr"
+place = "Paris"
+date = "1769"
+note = "Caption title. Imprint at foot of p. 7. Concerns Extrait des registres du Parlement, du 3 février 1769. Imperfect: p. 3-6 wanting. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Missing p 3-6. Title page and cover are combined."
+url = "https://archive.org/details/extraitdesregist00fra_cit"
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 8 no. 21"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t04z1001j"
+internet_archive = "extraitdesregist00fra_cit"
+
+[scan]
+file = "extraitdesregist00fra_cit.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/extraitdesregist00fra_cit"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Chambre des comptes (Paris, France)"
+role = "author"
+
+[[resp]]
+name = "France. Chambre des comptes (Paris, France)"
+role = "author"
+
+[[resp]]
+name = "France. Parlement (Paris)"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de L. Cellot"
+role = "publisher"
+
+[[text]]
+file = "extraitdesregist00fra_cit.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00fra_cit.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00fra_cit.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00fra_cit.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

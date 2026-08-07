@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "extraitdelarrt00fran"
+type = "pamphlet"
+title = "Extrait de l'arrêté /"
+language = "fr"
+place = "s.l."
+date = "1787"
+note = """Caption title. Without imprint. Opening words: La cour, &c., considérant les abus & la légérité avec lesquels sont délivrées les lettres de cachet .. "Reponse du roi au Parlement de Paris, du 13 septembre 1787": p.1 (2d group). Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover. Skewed text and uneven binding. Irregular pagination."""
+url = "https://archive.org/details/extraitdelarrt00fran"
+subject = ["Lettres de cachet"]
+extent = "2, 1 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 1433"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0xq21t86"
+internet_archive = "extraitdelarrt00fran"
+openlibrary_edition = "OL26208555M"
+openlibrary_work = "OL17604824W"
+
+[scan]
+file = "extraitdelarrt00fran.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/extraitdelarrt00fran"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Parlement (Bordeaux)"
+role = "author"
+
+[[resp]]
+name = "France. Sovereign (1774-1792 : Louis XVI)"
+role = "author"
+
+[[resp]]
+name = "France. Parlement (Paris)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_41825"
+
+[[text]]
+file = "extraitdelarrt00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdelarrt00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdelarrt00fran.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdelarrt00fran.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

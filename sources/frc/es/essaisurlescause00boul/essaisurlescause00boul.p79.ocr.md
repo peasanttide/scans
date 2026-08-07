@@ -1,0 +1,42 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: essaisurlescause00boul
+page: 79
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 2776
+h: 4647
+dpi: 500
+---
+
+( 7 5 )
+
+CHAPITRE I I I.
+
+De la tyrannie militaire , de celle de Cromwell ;
+des atteintes portées aux droits du peuple et à
+la liberté de la représentation nationale ; des
+fautes multipliées des diverses factions répu-
+blicaines.
+
+Nous ayons vu que les inclépendans qui étaient en
+minorité dans la chambre , s’étant entendus avec ceux
+qui se trouvaient dans l’armée , avaient fait passer le
+pouvoir militaire dans la main de ces derniers. Depuis
+ce temps , la force militaire fut à la disposition des
+indépendans. Les chefs presb}dériens qui dominaient
+dans le parlement ? s’appercevant du danger que cou-
+raient la chose publique et eux-mêmes , disposaient tout
+pour l’éviter. Le parti royaliste étant abattu > ils sen-
+taient la nécessité de travailler promptement à un éta-
+blissement politique qui empêchât le retour des abus
+sous lesquels la nation avait gémi. Comme ils voyaient
+la force militaire disposée à intervenir dans les affaires
+publiques , ils cherchèrent d'abord à la renfermer
+dans ses justes limites , et à la soumettre à l’autorité
+civile et parlementaire ; et c’était encore dans cette
+idée ? autant que pour céder au vœu national ? qu’ils
+voulaient terminer la guerre et traiter avecleroi , bien
+sûrs d’avoir assez de forcq pour tuer la royauté sans
+le secours de l’année. Mais ce n’était pas là ce que
+Voi lait l’armée et sur-tout ses chefs : ceux-ci ayant

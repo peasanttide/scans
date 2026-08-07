@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "extraitprocesver00unse_13"
+type = "pamphlet"
+title = "Extrait du procès-verbal du directoire du département du Tarn : du 22 février 1791, séance du soir"
+language = "fr"
+place = "A Castres"
+date = "1791"
+note = """Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. "Soumission faite à Messieurs les membres du directoire du département du Tarn"--P. [1]-2. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."""
+url = "https://archive.org/details/extraitprocesver00unse_13"
+subject = ["Male domination (Social structure)"]
+extent = "4 p. ; 25 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10296 no. 8"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6xw9jb28"
+internet_archive = "extraitprocesver00unse_13"
+openlibrary_edition = "OL26223277M"
+openlibrary_work = "OL17618738W"
+
+[scan]
+file = "extraitprocesver00unse_13.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/extraitprocesver00unse_13"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Tarn (France). Directoire"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de P.G.D. Robert, docteur en philosophie, imprimeur du roi & du département du Tarn"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_856895"
+
+[[text]]
+file = "extraitprocesver00unse_13.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitprocesver00unse_13.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitprocesver00unse_13.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitprocesver00unse_13.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

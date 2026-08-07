@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "extraitdesregist00fran_95"
+type = "pamphlet"
+title = "Extrait des registres du Parlement de Provence"
+language = "fr"
+date = "1756"
+note = "Caption title. Relating to published statements made by the Archbishop of Aix on the papal bull Unigenitus and other related matters. Scanner's note: No copyright page found. No table-of-contents pages found.   Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Title page and cover are combined."
+url = "https://archive.org/details/extraitdesregist00fran_95"
+subject = [
+    "Unigenitus (Papal bull) 1713",
+    "Censorship",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 6 no. 80"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9s23kz6q"
+internet_archive = "extraitdesregist00fran_95"
+
+[scan]
+file = "extraitdesregist00fran_95.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/extraitdesregist00fran_95"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Parlement (Aix-en-Provence)"
+role = "author"
+
+[[resp]]
+name = "France. Parlement (Aix-en-Provence)"
+role = "author"
+
+[[resp]]
+name = "Aix, France (Archdiocese). Archbishop, 1729-1770 (Jean Baptiste Antoine de Brancas)"
+role = "author"
+
+[[resp]]
+name = "[N.p."
+role = "publisher"
+
+[[text]]
+file = "extraitdesregist00fran_95.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00fran_95.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00fran_95.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00fran_95.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

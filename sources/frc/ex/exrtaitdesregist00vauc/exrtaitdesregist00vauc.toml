@@ -1,0 +1,63 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "exrtaitdesregist00vauc"
+type = "pamphlet"
+title = "Exrtait des registres des délibérations de l'assemblée electorale du department de Vaucluse : séance du samedi 7 mai 1791, 9 heures du matin"
+language = "fr"
+place = "France"
+date = "1791"
+note = "Caption title. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages."
+url = "https://archive.org/details/exrtaitdesregist00vauc"
+subject = [
+    "Feudal law",
+    "Tax assessment",
+]
+extent = "[1] p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10309 no. 4"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2993bt3q"
+internet_archive = "exrtaitdesregist00vauc"
+openlibrary_edition = "OL26222404M"
+openlibrary_work = "OL17617873W"
+
+[scan]
+file = "exrtaitdesregist00vauc.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/exrtaitdesregist00vauc"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Vaucluse (France : Department). Assemblée electorale"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_856908"
+
+[[text]]
+file = "exrtaitdesregist00vauc.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "exrtaitdesregist00vauc.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

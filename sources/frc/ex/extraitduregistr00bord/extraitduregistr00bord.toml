@@ -1,0 +1,71 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "extraitduregistr00bord"
+type = "pamphlet"
+title = "Extrait du registre des délibérations /"
+language = "fr"
+place = "A Bordeaux"
+date = "1790"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Skewed text. Uneven binding. Damaged, stained, and/or loose pages."
+url = "https://archive.org/details/extraitduregistr00bord"
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 1443"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3mw7g98h"
+internet_archive = "extraitduregistr00bord"
+openlibrary_edition = "OL26207977M"
+openlibrary_work = "OL17604254W"
+
+[scan]
+file = "extraitduregistr00bord.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/extraitduregistr00bord"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Bordeaux (Aquitaine, France)"
+role = "author"
+
+[[resp]]
+name = "Chez Pallandre"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_41201"
+
+[[text]]
+file = "extraitduregistr00bord.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduregistr00bord.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduregistr00bord.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduregistr00bord.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,68 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "epitreauroy00desb"
+type = "pamphlet"
+title = "Epitre au roy"
+language = "fr"
+place = "Paris"
+date = "1745"
+note = "Binder's title: Retour du roy. Caption title. Verse. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover.  Uneven binding.  Skewed text.  Irregular pagination.  Page numbers have been altered/defaced.  Damaged, stained, torn and/or loose pages."
+url = "https://archive.org/details/epitreauroy00desb"
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "E 5 .L92705 v. 04 no. 14"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9286cv8j"
+internet_archive = "epitreauroy00desb"
+
+[scan]
+file = "epitreauroy00desb.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/epitreauroy00desb"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Des Barbalières"
+role = "author"
+
+[[resp]]
+name = "Des Barbalières"
+role = "author"
+
+[[resp]]
+name = "Prault père"
+role = "publisher"
+
+[[text]]
+file = "epitreauroy00desb.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "epitreauroy00desb.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "epitreauroy00desb.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "epitreauroy00desb.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

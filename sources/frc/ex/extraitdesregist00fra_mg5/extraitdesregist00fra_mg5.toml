@@ -1,0 +1,59 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "extraitdesregist00fra_mg5"
+type = "pamphlet"
+title = "Extrait des registres du Comité de salut public de la Convention nationale, du 12 germinal, l'an deux [1 April 1794] de la République française, une & indivisible"
+language = "fr"
+date = "1794"
+note = "Regulations on paper. Endorced at Châtillon-sur-Chalaronne, 7 floréal an 2 [26 April 1794]. Scanner's note: No copyright page found. No table-of-contents pages found. Title and cover pages combined."
+url = "https://archive.org/details/extraitdesregist00fra_mg5"
+subject = [
+    "Paper industry",
+    "Papermaking",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 11 n. 42"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2b90z549"
+internet_archive = "extraitdesregist00fra_mg5"
+
+[scan]
+file = "extraitdesregist00fra_mg5.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/extraitdesregist00fra_mg5"
+ppi = 350
+note = "Scanned on fold1.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Convention nationale.Comité de salut public"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale. Comité de salut public"
+role = "author"
+
+[[resp]]
+name = "[n.p."
+role = "publisher"
+
+[[text]]
+file = "extraitdesregist00fra_mg5.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00fra_mg5.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

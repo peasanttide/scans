@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "exposedelacondui00raff"
+type = "pamphlet"
+title = "Exposé de la conduite de M. de Broves, le 1er. décembre 1789"
+language = "fr"
+place = "France"
+date = "1789"
+note = "Caption title. Signed: Le cte. de Raffelis de Broves. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française, IV:1, 28585. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/exposedelacondui00raff"
+subject = [
+    "Raffelis de Broves, Charles François, comte de",
+    "Riots",
+]
+extent = "3 p. ; 28 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 27129"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t54f6xf62"
+internet_archive = "exposedelacondui00raff"
+openlibrary_edition = "OL26226942M"
+openlibrary_work = "OL17622169W"
+
+[scan]
+file = "exposedelacondui00raff.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/exposedelacondui00raff"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Raffelis de Broves, Charles François, comte de"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_867769"
+
+[[text]]
+file = "exposedelacondui00raff.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "exposedelacondui00raff.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "exposedelacondui00raff.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "exposedelacondui00raff.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

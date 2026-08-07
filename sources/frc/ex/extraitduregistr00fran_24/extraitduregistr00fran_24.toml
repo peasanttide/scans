@@ -1,0 +1,68 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "extraitduregistr00fran_24"
+type = "pamphlet"
+title = "Extrait du registre des arr^etés"
+language = "fr"
+date = "1794"
+note = "Caption title. At head of p.[1] is caption in letterpress: Dép^ot des lois, place du Palais de justice, a Paris. Expéditions certifiées des édits .. Manuscript of the period. Part of Martin & Walter IV 2: 4347. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover. No page numbers."
+url = "https://archive.org/details/extraitduregistr00fran_24"
+extent = "[3] p. ; 29 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9655"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t81k4hv22"
+internet_archive = "extraitduregistr00fran_24"
+
+[scan]
+file = "extraitduregistr00fran_24.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/extraitduregistr00fran_24"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale. Comité de salut public"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale. Comité de salut public"
+role = "author"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_68068"
+
+[[text]]
+file = "extraitduregistr00fran_24.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduregistr00fran_24.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduregistr00fran_24.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduregistr00fran_24.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

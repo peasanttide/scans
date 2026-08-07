@@ -1,0 +1,73 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "extraitduregistr00pari_5"
+type = "pamphlet"
+title = "... Extrait du registre des déliérations /"
+language = "fr"
+place = "Paris"
+date = "1793"
+note = "Caption title. Imprint from colophon. At head of title: Commune de Paris. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on cover page. Damaged, stained and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/extraitduregistr00pari_5"
+extent = "3 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 6463"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5q86db7j"
+internet_archive = "extraitduregistr00pari_5"
+
+[scan]
+file = "extraitduregistr00pari_5.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/extraitduregistr00pari_5"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Paris (France). Commune (1789-1794). Conseil général"
+role = "author"
+
+[[resp]]
+name = "Paris (France). Commune (1789-1794). Conseil général"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de C.-F. Patris"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_58956"
+
+[[text]]
+file = "extraitduregistr00pari_5.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduregistr00pari_5.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduregistr00pari_5.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduregistr00pari_5.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

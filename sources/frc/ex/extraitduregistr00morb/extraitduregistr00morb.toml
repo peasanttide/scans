@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "extraitduregistr00morb"
+type = "pamphlet"
+title = "Extrait du registre des délibérations"
+language = "fr"
+place = "A Vannes"
+date = "1790"
+note = """Caption title. Imprint from colophon. "Adresse des sous-officiers, caporaux, grenadiers, chasseurs & soldats du Régiment de Bassigny, a l'Armée de ligne": p.[2]-[4]. This edition not in Martin & Walter (cf. IV 2: 10250). Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages. No page numbers."""
+url = "https://archive.org/details/extraitduregistr00morb"
+extent = "[4] p. ; 24 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10004"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t13n78j8j"
+internet_archive = "extraitduregistr00morb"
+openlibrary_edition = "OL26222512M"
+openlibrary_work = "OL17617983W"
+
+[scan]
+file = "extraitduregistr00morb.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/extraitduregistr00morb"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Morbihan (France)"
+role = "author"
+
+[[resp]]
+name = "France. Armée. Régiment de Bsssigny"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de J. M. Galles"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_70042"
+
+[[text]]
+file = "extraitduregistr00morb.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduregistr00morb.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduregistr00morb.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduregistr00morb.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

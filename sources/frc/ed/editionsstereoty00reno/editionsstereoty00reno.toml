@@ -1,0 +1,69 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "editionsstereoty00reno"
+type = "pamphlet"
+title = "Éditions stéréotypes et autres, formant une nombreuse collection des meilleurs ouvrages de littérature, dans les formats in-18 et in-12"
+language = "fr"
+place = "Paris"
+date = "1803"
+note = "Caption title. With prices. No. 2 of 17 titles bound together. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Title page and cover are combined."
+url = "https://archive.org/details/editionsstereoty00reno"
+subject = ["Renouard, Ant. Aug. (Antoine Augustin), 1765-1853"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 10"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6548d59z"
+internet_archive = "editionsstereoty00reno"
+
+[scan]
+file = "editionsstereoty00reno.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/editionsstereoty00reno"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Renouard, Ant. Aug.(Antoine Augustin),1765-1853"
+role = "author"
+
+[[resp]]
+name = "Renouard, Ant. Aug. (Antoine Augustin), 1765-1853"
+role = "bookseller"
+
+[[resp]]
+name = "Ant. Aug. Renouard"
+role = "publisher"
+
+[[text]]
+file = "editionsstereoty00reno.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "editionsstereoty00reno.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "editionsstereoty00reno.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "editionsstereoty00reno.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

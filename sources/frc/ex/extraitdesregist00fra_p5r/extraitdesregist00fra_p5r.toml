@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "extraitdesregist00fra_p5r"
+type = "pamphlet"
+title = "Extrait des registres du Parlement de Bordeaux, du 6 mai 1788."
+language = "fr"
+place = "A Bordeaux"
+date = "1788"
+note = "Caption title. Imprint from colophon. Signatures: [A]². Head-piece. Includes bibliographical references. No. 33 of 45 titles bound together."
+url = "https://archive.org/details/extraitdesregist00fra_p5r"
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case HD9747.F72 D68 1784 no. 33"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4dp05843"
+internet_archive = "extraitdesregist00fra_p5r"
+
+[scan]
+file = "extraitdesregist00fra_p5r.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/extraitdesregist00fra_p5r"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Parlement (Bordeaux),"
+role = "author"
+
+[[resp]]
+name = "France. Parlement (Bordeaux), creator"
+role = "author"
+
+[[resp]]
+name = "Phillippot, Pierre, printer"
+role = "publisher"
+
+[[resp]]
+name = "De l'imprimerie de Phillippot, imprimeur de la cour de Parlement, Fossés de Ville"
+role = "publisher"
+
+[[text]]
+file = "extraitdesregist00fra_p5r.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00fra_p5r.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00fra_p5r.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00fra_p5r.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

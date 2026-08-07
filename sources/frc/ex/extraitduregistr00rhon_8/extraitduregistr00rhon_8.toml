@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "extraitduregistr00rhon_8"
+type = "pamphlet"
+title = "Extrait du registre des délibérations du conseil général du département de Rhône et Loire : du 7 décembre 1791"
+language = "fr"
+place = "A Lyon"
+date = "1791"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."
+url = "https://archive.org/details/extraitduregistr00rhon_8"
+subject = ["Jury"]
+extent = "4 p. ; 25 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10244 no. 31"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3b048n5g"
+internet_archive = "extraitduregistr00rhon_8"
+openlibrary_edition = "OL26223518M"
+openlibrary_work = "OL17618982W"
+
+[scan]
+file = "extraitduregistr00rhon_8.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/extraitduregistr00rhon_8"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Rhône-et-Loire (France). Conseil général"
+role = "author"
+
+[[resp]]
+name = "Vatar-Delaroche, Aimé"
+role = "publisher"
+
+[[resp]]
+name = "De l'imprimerie d'Aimé Vatar de La Roche, aux halles de la Grenette"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_857474"
+
+[[text]]
+file = "extraitduregistr00rhon_8.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduregistr00rhon_8.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduregistr00rhon_8.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduregistr00rhon_8.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

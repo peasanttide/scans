@@ -1,0 +1,103 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "extraitduregistr00glis"
+type = "pamphlet"
+title = "Extrait du registre capitulaire"
+language = "fr"
+place = "s.l."
+date = "1789"
+note = """Caption title. Imprint from colophon. "Extrait des actes capitulaires de messieurs les chanoines-comtes du Chapitre noble de l'Église collégiale de St. Pierre de M^acon. Du 8 avril 1789": p.6-7. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found. Title page is on the cover. Damaged, stained, and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/extraitduregistr00glis"
+extent = "7 p. ; 18 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC suppl. 62"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7qp1c674"
+internet_archive = "extraitduregistr00glis"
+openlibrary_edition = "OL26237542M"
+openlibrary_work = "OL17632091W"
+
+[scan]
+file = "extraitduregistr00glis.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/extraitduregistr00glis"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Église collégiale de Saint Pierre de M^acon. Chapitre"
+role = "author"
+
+[[resp]]
+name = "Église collégiale de Saint Pierre de M^acon. Chapitre"
+role = "author"
+
+[[resp]]
+name = "Mâcon (France)"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Jean-Philippe Goery"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_73687"
+
+[[text]]
+file = "extraitduregistr00glis.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduregistr00glis.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduregistr00glis.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduregistr00glis.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduregistr00glis.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduregistr00glis.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduregistr00glis.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduregistr00glis.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

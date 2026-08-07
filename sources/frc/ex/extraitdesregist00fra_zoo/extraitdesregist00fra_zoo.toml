@@ -1,0 +1,69 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "extraitdesregist00fra_zoo"
+type = "pamphlet"
+title = "Extrait des registres du Parlement, du vendredi 10 septembre 1784"
+language = "fr"
+place = "A Paris"
+date = "1784"
+note = "Caption title. Imprint from colophon. Suppresses: Très-humbles & très-respectueuses remontrances du Parlement au roi, à l'occasion de la procédure suivie & des jugemens rendus par les maréchaux de France contre le Vicomte de Noé, maire de Bordeaux. Scanner's note: No copyright found.  No table of contents found.  Damaged, stained pages and cover.  Title on cover. <br />Only one numbered page."
+url = "https://archive.org/details/extraitdesregist00fra_zoo"
+subject = ["Très-humbles et très-respecteuses remontrances du parlement au roi, à l'ocassion de la procédure suivie et des jugemens rendus par le maréchaux de France contre le vicomte de Noé, maire de Bordeaux"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 9 no. 100"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8vb3rv6j"
+internet_archive = "extraitdesregist00fra_zoo"
+
+[scan]
+file = "extraitdesregist00fra_zoo.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/extraitdesregist00fra_zoo"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "France.Parlement (Paris)"
+role = "author"
+
+[[resp]]
+name = "France. Parlement (Paris)"
+role = "author"
+
+[[resp]]
+name = "Chez P.G. Simon & N.H. Nyon ..."
+role = "publisher"
+
+[[text]]
+file = "extraitdesregist00fra_zoo.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00fra_zoo.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00fra_zoo.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00fra_zoo.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

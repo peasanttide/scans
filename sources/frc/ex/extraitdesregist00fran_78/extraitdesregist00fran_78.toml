@@ -1,0 +1,69 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "extraitdesregist00fran_78"
+type = "pamphlet"
+title = "Extrait des registres du Parlement"
+language = "fr"
+place = "A Paris"
+date = "1752"
+note = "Caption title. Imprint at foot of p. 3. Condemnation of a clandestine publication: Extrait des registres du Parlement, du samedi 21 octobre 1752, du matin en vacations."
+url = "https://archive.org/details/extraitdesregist00fran_78"
+subject = ["Censorship"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 5 no. 137"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7pp4qf0v"
+internet_archive = "extraitdesregist00fran_78"
+
+[scan]
+file = "extraitdesregist00fran_78.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/extraitdesregist00fran_78"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Parlement (Paris)"
+role = "author"
+
+[[resp]]
+name = "France. Parlement (Paris)"
+role = "author"
+
+[[resp]]
+name = "Chez P.G. Simon"
+role = "publisher"
+
+[[text]]
+file = "extraitdesregist00fran_78.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00fran_78.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00fran_78.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00fran_78.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

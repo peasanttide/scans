@@ -1,0 +1,71 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "elogefune00unse"
+type = "pamphlet"
+title = "Éloge funèbre de M. le maréchal duc de Biron : prononcé le lundi 3 novembre 1788 sur la tombe du marèchal /"
+language = "fr"
+place = "France"
+date = "1788"
+note = "Caption title. Not in Martin & Walter. Révolution française. BN. Bibliography: BN,  CLXII, column 914. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained, marked and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/elogefune00unse"
+subject = ["Gontaut-Biron, Louis-Antoine de, 1701-1788"]
+extent = "4 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 25047"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0wq58s9z"
+internet_archive = "elogefune00unse"
+lccn = "nuc87724619"
+
+[scan]
+file = "elogefune00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/elogefune00unse"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Sans-Quartier, grenadier"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_850312"
+
+[[text]]
+file = "elogefune00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "elogefune00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "elogefune00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "elogefune00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

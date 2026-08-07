@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "extraitdesregist00fran_50"
+type = "pamphlet"
+title = "Extrait des registres dv Conseil d'estat privé du roy"
+language = "fr"
+date = "1723"
+note = "Caption title. Side-note on p. [1]: Cet arrest est rendu contre François-Jacques Chasles, en faveur de la veuve Le Febvre, & Mesnier. Relating to the printing of Dictionnaire universel, chronologique & historique de justice, police & finance, written by Chasles. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Title page and cover are combined."
+url = "https://archive.org/details/extraitdesregist00fran_50"
+subject = ["Printing"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 4 no. 43"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t11p3q91m"
+internet_archive = "extraitdesregist00fran_50"
+
+[scan]
+file = "extraitdesregist00fran_50.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/extraitdesregist00fran_50"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Conseil privé"
+role = "author"
+
+[[resp]]
+name = "France. Conseil privé"
+role = "author"
+
+[[resp]]
+name = "Chasles, François Jacques. Dictionnaire universel"
+role = "author"
+
+[[resp]]
+name = "Le Febvre, Jacques, widow of, d. 1714"
+role = "author"
+
+[[resp]]
+name = "Mesnier, Alexis Xavier René, d. 1757"
+role = "author"
+
+[[resp]]
+name = "[Paris"
+role = "publisher"
+
+[[text]]
+file = "extraitdesregist00fran_50.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00fran_50.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00fran_50.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00fran_50.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

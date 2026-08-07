@@ -1,0 +1,93 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "extraitdesregist00aixe"
+type = "pamphlet"
+title = "Extrait des registres des délibérations"
+language = "fr"
+place = "s.l."
+date = "1789"
+note = "Scanner's note: Title found on front cover. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/extraitdesregist00aixe"
+extent = "8 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 431"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4jm5s56m"
+internet_archive = "extraitdesregist00aixe"
+
+[scan]
+file = "extraitdesregist00aixe.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/extraitdesregist00aixe"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Aix-en-Provence (France). Conseil municipal"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_35368"
+
+[[text]]
+file = "extraitdesregist00aixe.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00aixe.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00aixe.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00aixe.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00aixe.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00aixe.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00aixe.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00aixe.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"

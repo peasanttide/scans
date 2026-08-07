@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "extraitdeladress00ging"
+type = "pamphlet"
+title = "Extrait de l'adresse de Ginguené, au Comité d'instruction publique, sur le libelle publié par Chalmel, page 18, 19, 20 et 21."
+language = "fr"
+place = "Paris"
+date = "1795"
+note = "Caption title. Imprint from colophon. Originally published in 1795. Cf. Martin & Walter. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  II, 14879. Scanner's note: No copyright page found. No table-of-contents pages found.  Skewed text. Uneven binding. Damaged, loose pages. Title on cover."
+url = "https://archive.org/details/extraitdeladress00ging"
+subject = [
+    "Chalmel, J.-L. (Jean-Louis), 1756-1829",
+    "Libel and slander",
+]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 19074"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3227xb83"
+internet_archive = "extraitdeladress00ging"
+openlibrary_edition = "OL26201839M"
+openlibrary_work = "OL17598357W"
+
+[scan]
+file = "extraitdeladress00ging.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/extraitdeladress00ging"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Ginguené, Pierre Louis, 1748-1816"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale. Comité d'instruction publique"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie, rue du Théâtre Français, no. 4"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_839988"
+
+[[text]]
+file = "extraitdeladress00ging.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdeladress00ging.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdeladress00ging.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdeladress00ging.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

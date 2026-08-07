@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "extraitdesregist00sein_0"
+type = "pamphlet"
+title = "Extrait des registres /"
+language = "fr"
+place = "Paris"
+date = "1792"
+note = "Caption title. Imprint from colophon. Anti-monarchy. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on cover page. Contents are on the back cover. Damaged, stained and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/extraitdesregist00sein_0"
+subject = ["Monarchy"]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 6670"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4fn68674"
+internet_archive = "extraitdesregist00sein_0"
+openlibrary_edition = "OL26217920M"
+openlibrary_work = "OL17613646W"
+
+[scan]
+file = "extraitdesregist00sein_0.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/extraitdesregist00sein_0"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Seine (France)"
+role = "author"
+
+[[resp]]
+name = "Chez G.F. Galletti"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_61165"
+
+[[text]]
+file = "extraitdesregist00sein_0.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00sein_0.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00sein_0.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00sein_0.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

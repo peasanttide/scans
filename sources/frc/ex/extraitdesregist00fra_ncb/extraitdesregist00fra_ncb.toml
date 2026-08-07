@@ -1,0 +1,77 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "extraitdesregist00fra_ncb"
+type = "pamphlet"
+title = "Extrait des registres du Parlement"
+language = "fr"
+place = "A Paris"
+date = "1768"
+note = "Caption title. Imprint at foot of p. 3 (i.e. 4) Last page misnumbered. Suppresses: Entretiens sur l'assemblé des Etats de Bretagne de 1766, issued anonymously, written by Legai and Voello (cf. Barbier). Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Title page and cover are combined."
+url = "https://archive.org/details/extraitdesregist00fra_ncb"
+subject = ["Censorship"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 8 no. 3"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4gn3wd40"
+internet_archive = "extraitdesregist00fra_ncb"
+
+[scan]
+file = "extraitdesregist00fra_ncb.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/extraitdesregist00fra_ncb"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Parlement (Paris)"
+role = "author"
+
+[[resp]]
+name = "France. Parlement (Paris)"
+role = "author"
+
+[[resp]]
+name = "Legai"
+role = "author"
+
+[[resp]]
+name = "Voello"
+role = "author"
+
+[[resp]]
+name = "Chez P.G. Simon"
+role = "publisher"
+
+[[text]]
+file = "extraitdesregist00fra_ncb.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00fra_ncb.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00fra_ncb.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00fra_ncb.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

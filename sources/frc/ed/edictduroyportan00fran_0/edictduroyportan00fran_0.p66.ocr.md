@@ -1,0 +1,18 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: edictduroyportan00fran_0
+page: 66
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 2241
+h: 3786
+dpi: 500
+---
+
+F E RR ARE
+
+L V C C^v E s
+
+Si e n n e
+
+'<lli|i II *’

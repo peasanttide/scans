@@ -1,0 +1,68 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "extraitdelexhor00amie"
+type = "pamphlet"
+title = "Extrait de l'exhortation que fit Monseigneur l'Evêque d'Amiens, dans la cathédrale le jour de la Fête-Dieu de la présente année 1752, communiqué aux fidéles de son diocèse"
+language = "fr"
+date = "1752"
+note = "Caption title. Scanner's note: No copyright found.  No table of contents found.  Damaged, stained pages and cover.  Title on cover. <br />."
+url = "https://archive.org/details/extraitdelexhor00amie"
+subject = ["Catholic Church"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 5 no. 98"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t24b8pt60"
+internet_archive = "extraitdelexhor00amie"
+
+[scan]
+file = "extraitdelexhor00amie.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/extraitdelexhor00amie"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "Amiens, France (Diocese).Bishop, 1734-1774 (Louis François Gabriel l'Orléans de La Motte)"
+role = "author"
+
+[[resp]]
+name = "Amiens, France (Diocese). Bishop, 1734-1774 (Louis François Gabriel l'Orléans de La Motte)"
+role = "author"
+
+[[resp]]
+name = "[n.p."
+role = "publisher"
+
+[[text]]
+file = "extraitdelexhor00amie.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdelexhor00amie.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdelexhor00amie.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdelexhor00amie.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

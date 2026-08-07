@@ -1,0 +1,59 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "epitredunsui00unse"
+type = "pamphlet"
+title = "Épitre d'un Suisse au roy [Louis XV]"
+language = "fr"
+date = "1745"
+note = "Binder's title: Campagne du roy, 1745. Caption title. Verse, in French patois of Switzerland. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover page.  Uneven binding.  Skewed text."
+url = "https://archive.org/details/epitredunsui00unse"
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "E 5 .L92705 v. 02 no. 38"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3nw5hk7k"
+internet_archive = "epitredunsui00unse"
+
+[scan]
+file = "epitredunsui00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/epitredunsui00unse"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "[n.p."
+role = "publisher"
+
+[[text]]
+file = "epitredunsui00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "epitredunsui00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "epitredunsui00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "epitredunsui00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

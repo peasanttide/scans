@@ -1,0 +1,87 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "epitreouetrennes00brio"
+type = "pamphlet"
+title = "Épître, ou, Étrennes aux illustres défenseurs de la liberté : dédié à la Garde nationale parisienne /"
+language = "fr"
+place = "A Paris"
+date = "1789"
+note = "Signed: Brio[is?]. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on front cover. Damaged, stained, worn pages."
+url = "https://archive.org/details/epitreouetrennes00brio"
+subject = [
+    "Louis XVI, King of France, 1754-1793",
+    "Political poetry, French",
+]
+extent = "6 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 15307"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4bp4zx1k"
+internet_archive = "epitreouetrennes00brio"
+openlibrary_edition = "OL25947996M"
+openlibrary_work = "OL17369050W"
+
+[scan]
+file = "epitreouetrennes00brio.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/epitreouetrennes00brio"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Briois"
+role = "author"
+
+[[resp]]
+name = "Chez Laurens, junior, imprimeur-libraire de la nation, rue Saint-Jacques, no. 37, en face de celle des Mathurins"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_832393"
+
+[[text]]
+file = "epitreouetrennes00brio.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "epitreouetrennes00brio.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "epitreouetrennes00brio.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "epitreouetrennes00brio.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "epitreouetrennes00brio.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "epitreouetrennes00brio.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

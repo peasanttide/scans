@@ -1,0 +1,71 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "extraitdesregist00fran_93"
+type = "pamphlet"
+title = "Extrait des registres du Parlement de Bretagne"
+language = "fr"
+date = "1756"
+note = "Caption title. Relating to religious disputes involving the Carmelites at Nantes. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Text extends off of the edge of the page. Title page and cover are combined."
+url = "https://archive.org/details/extraitdesregist00fran_93"
+subject = [
+    "Church and state",
+    "Carmelites",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 6 no. 61"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3qv94v6x"
+internet_archive = "extraitdesregist00fran_93"
+
+[scan]
+file = "extraitdesregist00fran_93.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/extraitdesregist00fran_93"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Parlement (Brittany)"
+role = "author"
+
+[[resp]]
+name = "France. Parlement (Brittany)"
+role = "author"
+
+[[resp]]
+name = "[n.p."
+role = "publisher"
+
+[[text]]
+file = "extraitdesregist00fran_93.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00fran_93.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00fran_93.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00fran_93.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

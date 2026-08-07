@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "extraitduregistr00vosg_4"
+type = "pamphlet"
+title = "Extrait du registre des dé́libérations du directoire du département des Vosges : séance publique du 29 juillet 1793, l'an second de la République françoise : présens les citoyens Quinot, président, Benoist, vice-président, Bigotte, Le Roux, Poirson, Dieudonné et Claudel, administrateures, Dubois, procureur-général-syndic, Denis, secrétaire-général"
+language = "fr"
+place = "A Épinal"
+date = "1793"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  Title on cover. Damaged, stained pages and cover.  Uneven binding. Skewed text."
+url = "https://archive.org/details/extraitduregistr00vosg_4"
+subject = [
+    "Festivals",
+    "Civil religion",
+]
+extent = "3 p. ; 23 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10321 no. 68"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6256r43d"
+internet_archive = "extraitduregistr00vosg_4"
+openlibrary_edition = "OL26223051M"
+openlibrary_work = "OL17618512W"
+
+[scan]
+file = "extraitduregistr00vosg_4.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/extraitduregistr00vosg_4"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Vosges (France). Directoire"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie nationale d'Haener"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_856992"
+
+[[text]]
+file = "extraitduregistr00vosg_4.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduregistr00vosg_4.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduregistr00vosg_4.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduregistr00vosg_4.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

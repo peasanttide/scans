@@ -1,0 +1,83 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "extraitduregistr00soci_0"
+type = "pamphlet"
+title = "Extrait du registre aux proc`es-verbaux /"
+language = "fr"
+place = "A Lille"
+date = "1791"
+note = "Caption title. Imprint from colophon. About the intervention of women in a session of the society. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on the cover page. Uneven binding. Skewed text. Damaged, stained, and/or loose pages."
+url = "https://archive.org/details/extraitduregistr00soci_0"
+subject = [
+    "Political clubs",
+    "Women in politics",
+]
+extent = "4 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 8384"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9n34zh3g"
+internet_archive = "extraitduregistr00soci_0"
+openlibrary_edition = "OL26220607M"
+openlibrary_work = "OL17616191W"
+
+[scan]
+file = "extraitduregistr00soci_0.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/extraitduregistr00soci_0"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Société des amis de la constitution de Lille"
+role = "author"
+
+[[resp]]
+name = "Société des amis de la constitution de Lille"
+role = "author"
+
+[[resp]]
+name = "Lille (France)"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de C.L. de Boubers"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_38578"
+
+[[text]]
+file = "extraitduregistr00soci_0.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduregistr00soci_0.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduregistr00soci_0.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduregistr00soci_0.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

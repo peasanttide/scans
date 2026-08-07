@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "extraitdesdelibe00vosg_12"
+type = "pamphlet"
+title = "Extrait des délibérations du directoire du département des Vosges : séance publique du 14 mars 1793, l'an second de la République françoise : présens les citoyens Benoist, vice-président, Jaussaud, Bigotte, Leroux, Poirson, Claudel, Dieudonné et Gérardin, administrateurs, Dubois, procureur-général-syndic, Denis, secrétaire-général : travaux publics"
+language = "fr"
+place = "France"
+date = "1793"
+note = "Caption title. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  Title on cover. Damaged, stained pages and cover.  Uneven binding. Skewed text."
+url = "https://archive.org/details/extraitdesdelibe00vosg_12"
+subject = [
+    "Grants-in-aid",
+    "Public works",
+]
+extent = "3 p. ; 23 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10321 no. 72"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t34223950"
+internet_archive = "extraitdesdelibe00vosg_12"
+openlibrary_edition = "OL26223246M"
+openlibrary_work = "OL17618707W"
+
+[scan]
+file = "extraitdesdelibe00vosg_12.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/extraitdesdelibe00vosg_12"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Vosges (France). Directoire"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_856996"
+
+[[text]]
+file = "extraitdesdelibe00vosg_12.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesdelibe00vosg_12.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesdelibe00vosg_12.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesdelibe00vosg_12.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "extraitdesdelibe00vosg_11"
+type = "pamphlet"
+title = "Extrait des délibérations du conseil général permanent du départemnet des Vosges : séance publique du 26 mai 1793, l'an second de la République françoise : présens les citoyens Benoist, vice-président ... [et al.] : sureté publique"
+language = "fr"
+place = "A Epinal"
+date = "1793"
+note = """Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. "Les représentans du peuple, membres du Comité de salut public, au procureur-général-syndic du département des Vosges"--P. 2-3. Scanner's note: No copyright page found. No table-of-contents pages found.  Title on cover. Damaged, stained pages and cover.  Uneven binding. Skewed text."""
+url = "https://archive.org/details/extraitdesdelibe00vosg_11"
+subject = [
+    "Public safety",
+    "War and emergency powers",
+    "Central-local government relations",
+]
+extent = "4 p. ; 23 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10321 no. 66"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8z94c13r"
+internet_archive = "extraitdesdelibe00vosg_11"
+openlibrary_edition = "OL26223245M"
+openlibrary_work = "OL17618706W"
+
+[scan]
+file = "extraitdesdelibe00vosg_11.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/extraitdesdelibe00vosg_11"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Vosges (France). Conseil général"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale. Comité de salut public"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie nationale d'Haener"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_856990"
+
+[[text]]
+file = "extraitdesdelibe00vosg_11.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesdelibe00vosg_11.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesdelibe00vosg_11.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesdelibe00vosg_11.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

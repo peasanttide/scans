@@ -1,0 +1,99 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "extraitdelalettr00mars"
+type = "pamphlet"
+title = "Extrait de la lettre /"
+language = "fr"
+place = "s.l."
+date = "1789"
+note = """Caption title. Without imprint. "Réunion des trois ordres à l'Assemblée nationale. Séance du 25 juin 1789": p.5-7. Not in Martin & Walter. Scanner's note: Title page located on front cover. No copyright page found. No table-of-contents pages found. Worn, damaged and discolored pages and cover. Skewed text. Uneven binding."""
+url = "https://archive.org/details/extraitdelalettr00mars"
+subject = [
+    "France. Etats généraux",
+    "France. Assemblée nationale constituante (1789-1791)",
+]
+extent = "7 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 3861"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t74v1p86q"
+internet_archive = "extraitdelalettr00mars"
+openlibrary_edition = "OL26214945M"
+openlibrary_work = "OL17610844W"
+
+[scan]
+file = "extraitdelalettr00mars.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/extraitdelalettr00mars"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Marseille (France)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_48323"
+
+[[text]]
+file = "extraitdelalettr00mars.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdelalettr00mars.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdelalettr00mars.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdelalettr00mars.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdelalettr00mars.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdelalettr00mars.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdelalettr00mars.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdelalettr00mars.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

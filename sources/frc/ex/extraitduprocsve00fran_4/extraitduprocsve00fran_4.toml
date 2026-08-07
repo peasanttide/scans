@@ -1,0 +1,69 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "extraitduprocsve00fran_4"
+type = "pamphlet"
+title = "Extrait du procès-verbal"
+language = "fr"
+place = "A Versailles"
+date = "1789"
+note = "Scanner's note: No title page found. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/extraitduprocsve00fran_4"
+extent = "4 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "CaseFRC835"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9m36b16n"
+internet_archive = "extraitduprocsve00fran_4"
+
+[scan]
+file = "extraitduprocsve00fran_4.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/extraitduprocsve00fran_4"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "Chez Baudouin"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_39138"
+
+[[text]]
+file = "extraitduprocsve00fran_4.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduprocsve00fran_4.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduprocsve00fran_4.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduprocsve00fran_4.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"

@@ -1,0 +1,84 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "extraitdesregist00pari_3"
+type = "pamphlet"
+title = "... Extrait des registres des délibérations du 30 octobre 1789."
+language = "fr"
+place = "Paris"
+date = "1789"
+note = "Caption title. Imprint from colophon. At head of title: District de Sainte-Opportune. About Louis XVI. Martin & Walter IV 2: 12578. Scanner's note: Title page located on front cover. No copyright page found. No table-of-contents pages found. Worn, damaged and discolored pages and cover. Skewed text. Uneven binding."
+url = "https://archive.org/details/extraitdesregist00pari_3"
+subject = ["France. Sovereign (1774-1792 : Louis XVI)"]
+extent = "6 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 6557"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6d271384"
+internet_archive = "extraitdesregist00pari_3"
+openlibrary_edition = "OL26217713M"
+openlibrary_work = "OL17613438W"
+
+[scan]
+file = "extraitdesregist00pari_3.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/extraitdesregist00pari_3"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Paris (France). District de Saint-Opportune"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerier de Gueffier"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_57513"
+
+[[text]]
+file = "extraitdesregist00pari_3.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00pari_3.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00pari_3.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00pari_3.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00pari_3.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00pari_3.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

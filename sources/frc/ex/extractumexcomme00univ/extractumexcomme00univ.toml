@@ -1,0 +1,101 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "extractumexcomme00univ"
+type = "pamphlet"
+title = "Extractum ex commentariis Sacrae Facultatis Parisiensis ="
+language = "fr"
+place = "Paris?"
+date = "1755"
+note = """Latin and French in parallel columns. Caption title. Page [1] at end blank. Relating to theses presented at the Faculté. "Fait le 13 mai, & confirmé le 14 dans l'Assemblée générale & extraordinaire à ce indiquée par la même faculté. Signé, Hérissant, scribe de la sacrée faculté"--P. 4. "Extrait des registres du Parlement. Du mercredi 14 mai 1755": p. 5-6. "Extrait des registres du Parlement de Paris. Du jeudi 15 mai 1755, du matin": p. 6-7. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Title page and cover are combined."""
+url = "https://archive.org/details/extractumexcomme00univ"
+subject = ["Censorship"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 6 no. 46"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2k703g6f"
+internet_archive = "extractumexcomme00univ"
+
+[scan]
+file = "extractumexcomme00univ.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/extractumexcomme00univ"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Université de Paris.Faculté de théologie"
+role = "author"
+
+[[resp]]
+name = "Université de Paris. Faculté de théologie"
+role = "author"
+
+[[resp]]
+name = "France. Parlement (Paris). Arrêt (1755 mai 14)"
+role = "author"
+
+[[resp]]
+name = "France. Parlement (Paris). Arrêt (1755 mai 15)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[text]]
+file = "extractumexcomme00univ.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extractumexcomme00univ.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extractumexcomme00univ.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extractumexcomme00univ.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extractumexcomme00univ.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extractumexcomme00univ.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extractumexcomme00univ.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extractumexcomme00univ.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

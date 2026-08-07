@@ -1,0 +1,87 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "extraitduregistr00comm"
+type = "pamphlet"
+title = "Extrait du registre des délibérations du corps municipal : convocation générale des quarante-huit sections : du jeudi 23 décembre 1790"
+language = "fr"
+place = "Paris"
+date = "1790"
+note = "Caption title. Signed: Bailly, maire .. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages."
+url = "https://archive.org/details/extraitduregistr00comm"
+subject = [
+    "Justices of the peace",
+    "Courts",
+]
+extent = "3 p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10062 no. 10"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t31310k0z"
+internet_archive = "extraitduregistr00comm"
+openlibrary_edition = "OL26222827M"
+openlibrary_work = "OL17618299W"
+
+[scan]
+file = "extraitduregistr00comm.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/extraitduregistr00comm"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Commune de Paris (France : 1789-1794)"
+role = "author"
+
+[[resp]]
+name = "Bailly, Jean Sylvain, 1736-1793"
+role = "author"
+
+[[resp]]
+name = "Lottin, Augustin-Martin, 1726-1793"
+role = "publisher"
+
+[[resp]]
+name = "Lottin de Saint Germain, Jean-Roch, b. 1754"
+role = "publisher"
+
+[[resp]]
+name = "De l'imprimerie de Lottin l'aîné & J.-R. Lottin, imprimeurs-libraires-ordinaires de la ville, rue S.-André-des-Arcs, no. 27"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_855408"
+
+[[text]]
+file = "extraitduregistr00comm.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduregistr00comm.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduregistr00comm.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduregistr00comm.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

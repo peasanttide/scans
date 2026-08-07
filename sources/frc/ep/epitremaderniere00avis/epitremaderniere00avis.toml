@@ -1,0 +1,73 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "epitremaderniere00avis"
+type = "pamphlet"
+title = "Épître à ma dernière chemise."
+language = "fr"
+place = "Paris"
+date = "1795"
+note = "Caption title. Signed: Par Avisse, aveugle de l'Institut des aveugles-travailleurs. Imprint from colophon. Publisher location based on Martin & Walter. Variant of Martin & Walter. Révolution française, I, 904. Scanner's note: No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/epitremaderniere00avis"
+subject = [
+    "French poetry",
+    "Poverty",
+]
+extent = "4 p. ; 18 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 13754"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2895sz2v"
+internet_archive = "epitremaderniere00avis"
+
+[scan]
+file = "epitremaderniere00avis.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/epitremaderniere00avis"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Avisse, J.-B., ca. 1712-1801"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie des aveugles-travailleurs, rue Denis, no. 34, au coin de celle des Lombards"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_829061"
+
+[[text]]
+file = "epitremaderniere00avis.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "epitremaderniere00avis.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "epitremaderniere00avis.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "epitremaderniere00avis.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

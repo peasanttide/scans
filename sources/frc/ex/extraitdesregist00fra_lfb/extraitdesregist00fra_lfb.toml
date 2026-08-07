@@ -1,0 +1,69 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "extraitdesregist00fra_lfb"
+type = "pamphlet"
+title = "Extrait des registres de la Cour des aides"
+language = "fr"
+place = "A Paris"
+date = "1778"
+note = "Caption title. Imprint at foot of p. 3. Suppresses (as unauthorized): Très-humbles & très-respectueuses remontacnes que présentent au roi, notre-très-honoré & souverain seigneur, les gens tenants sa Cour des aides de Paris. Scanner's note: No copyright found.  No table of contents found.  Damaged, stained pages and cover.  Title on cover. <br />."
+url = "https://archive.org/details/extraitdesregist00fra_lfb"
+subject = ["Censorship"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 9 no. 38"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5w72352v"
+internet_archive = "extraitdesregist00fra_lfb"
+
+[scan]
+file = "extraitdesregist00fra_lfb.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/extraitdesregist00fra_lfb"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "France.Cour des aides (Paris)"
+role = "author"
+
+[[resp]]
+name = "France. Cour des aides (Paris)"
+role = "author"
+
+[[resp]]
+name = "Chez Knapen & fils"
+role = "publisher"
+
+[[text]]
+file = "extraitdesregist00fra_lfb.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00fra_lfb.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00fra_lfb.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00fra_lfb.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

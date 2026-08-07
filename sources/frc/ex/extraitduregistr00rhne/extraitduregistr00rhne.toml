@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "extraitduregistr00rhne"
+type = "pamphlet"
+title = "Extrait du registre des délibérations /"
+language = "fr"
+place = "A Lyon"
+date = "1796"
+note = "Caption title. Imprint from colophon. At upper left on p.[1]: Département du Rh^one. Contributions, Ve division. Caisses publiques. Not in Martin & Walter. Scanner's note: No title page found. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/extraitduregistr00rhne"
+subject = ["Banks and banking"]
+extent = "4 p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC suppl. 160"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t11p39g0d"
+internet_archive = "extraitduregistr00rhne"
+openlibrary_edition = "OL26235332M"
+openlibrary_work = "OL17629917W"
+
+[scan]
+file = "extraitduregistr00rhne.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/extraitduregistr00rhne"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Rhône (France)"
+role = "author"
+
+[[resp]]
+name = "Rhône (France)"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Destefanis"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_74738"
+
+[[text]]
+file = "extraitduregistr00rhne.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduregistr00rhne.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduregistr00rhne.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduregistr00rhne.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

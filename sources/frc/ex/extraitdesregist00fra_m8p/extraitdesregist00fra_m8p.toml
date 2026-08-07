@@ -1,0 +1,74 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "extraitdesregist00fra_m8p"
+type = "pamphlet"
+title = "Extrait des registres du Parlement du dix-huit août, mil sept cent soixante-dix"
+language = "fr"
+place = "A Paris"
+date = "1770"
+note = "Caption title; imprint from colophon. Orders the burning of the following works: Baron d'Holbach's Le christianisme dévoilé, La contagion sacrée, and Système de la nature, and his translation, Discours sur les miracles de Jésus-Christ ... traduit ... de Voolston [i.e. Woolston], and Examen impartial des principales religions du monde (also attributed to d'Holbach); Nicolas Freret's Examen critique des apologistes de la religion chrétienne; and Voltaire's Dieu et les hommes. Quarto half-sheet, unsigned. Condemnation of 7 books. Vercruysse, J. Baron d'Holbach. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Title page and cover are combined."
+url = "https://archive.org/details/extraitdesregist00fra_m8p"
+subject = [
+    "Holbach, Paul Henri Thiry, baron d', 1723-1789",
+    "Fréret, Nicolas, 1688-1749",
+    "Voltaire, 1694-1778",
+    "Prohibited books",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 8 no. 32"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t86j07r7h"
+internet_archive = "extraitdesregist00fra_m8p"
+
+[scan]
+file = "extraitdesregist00fra_m8p.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/extraitdesregist00fra_m8p"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Parlement (Paris)"
+role = "author"
+
+[[resp]]
+name = "France. Parlement (Paris)"
+role = "author"
+
+[[resp]]
+name = "Chez P.G. Simon, Imprimeur du Parlement ..."
+role = "publisher"
+
+[[text]]
+file = "extraitdesregist00fra_m8p.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00fra_m8p.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00fra_m8p.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00fra_m8p.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

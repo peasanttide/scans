@@ -1,0 +1,68 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "extraitdugreffed00mars"
+type = "pamphlet"
+title = "Extrait du Greffe de la Sénéchaussée de Marseille"
+language = "fr"
+place = "A Marseille"
+date = "1788"
+note = "Caption title. Imprint at foot of p. 4. Relating to anonymous pamphlets: Avis aux provinces; and Profession de foi d'un militaire. Scanner's note: No copyright page found. No table-of-contents pages found. Title and cover pages combined."
+url = "https://archive.org/details/extraitdugreffed00mars"
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 10 no. 57"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4gn3wd21"
+internet_archive = "extraitdugreffed00mars"
+
+[scan]
+file = "extraitdugreffed00mars.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/extraitdugreffed00mars"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Marseille (France : Sénéchaussée)"
+role = "author"
+
+[[resp]]
+name = "Marseille (France : Sénéchaussée)"
+role = "author"
+
+[[resp]]
+name = "Chez F. Brebion"
+role = "publisher"
+
+[[text]]
+file = "extraitdugreffed00mars.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdugreffed00mars.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdugreffed00mars.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdugreffed00mars.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

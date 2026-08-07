@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "etatgeneral00unse"
+type = "pamphlet"
+title = "... État général de la recette et de l'emploi des assignats de la premi`ere et deuxi`eme créations décrétée par l'Assemblée nationale : arr^eté au 12 juillet 1791, époque `a laquelle ces assignats ont été compl étement dépensés"
+language = "fr"
+place = "s.l."
+date = "1791"
+note = "Caption title. Without imprint. At head of title: Caisse de l'extraordinaire. Not in Martin & Walter. Scanner's note: No title page found. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/etatgeneral00unse"
+subject = ["Assignats"]
+extent = "4 p. ; 28 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9508"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8gf5xf16"
+internet_archive = "etatgeneral00unse"
+openlibrary_edition = "OL26222223M"
+openlibrary_work = "OL17617724W"
+
+[scan]
+file = "etatgeneral00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/etatgeneral00unse"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Caisse de l'extraordinaire"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_67565"
+
+[[text]]
+file = "etatgeneral00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "etatgeneral00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "etatgeneral00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "etatgeneral00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

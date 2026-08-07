@@ -1,0 +1,85 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "etennesduparnass00feti"
+type = "pamphlet"
+title = "Étennes du Parnasse"
+language = "fr"
+place = "Paris?"
+note = """Prospectus for "Étennes du Parnasse.". Caption title. "Les amateurs qui possederont quelques piéces légeres, ou quelques imitations des poëtes anciens & modernes, & qui seront flattés de les faire insérer dans cet ouvrage, pourront les adresser, franc de port, à Fetil"--P. [2]. "Les Étrennes du Parnasse ont paru la premiere fois au commencement de l'année 1770"--P. [1]. Scanner's note: No copyright found.  No table of contents found.  Damaged, stained pages and cover.  No numbered page. <br /><br />."""
+url = "https://archive.org/details/etennesduparnass00feti"
+subject = [
+    "Étennes du Parnasse",
+    "Publishers and publishing",
+    "Poetry",
+    "Periodicals",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1d no. 25"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3kx11b8b"
+internet_archive = "etennesduparnass00feti"
+
+[scan]
+file = "etennesduparnass00feti.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/etennesduparnass00feti"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "Fétil, René-François,d. 1799?"
+role = "author"
+
+[[resp]]
+name = "Fétil, René-François, d. 1799?"
+role = "author"
+
+[[resp]]
+name = "Fétil?"
+role = "publisher"
+
+[[text]]
+file = "etennesduparnass00feti.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "etennesduparnass00feti.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "etennesduparnass00feti.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "etennesduparnass00feti.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "etennesduparnass00feti.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "etennesduparnass00feti.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

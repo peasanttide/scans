@@ -1,0 +1,84 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "extraitduregleme00comm"
+type = "pamphlet"
+title = "Extrait du réglement de la Commune de Paris, concernant la police militaire : du mercredi 17 février 1790"
+language = "fr"
+place = "Paris"
+date = "1790"
+note = "Caption title. At head of title: Hôtel-de-ville de Paris. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages."
+url = "https://archive.org/details/extraitduregleme00comm"
+subject = ["Paris (France). Garde nationale"]
+extent = "2 p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10064 no. 2"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t17m5d43j"
+internet_archive = "extraitduregleme00comm"
+openlibrary_edition = "OL26222523M"
+openlibrary_work = "OL17617994W"
+
+[scan]
+file = "extraitduregleme00comm.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/extraitduregleme00comm"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Commune de Paris (France : 1789-1794)"
+role = "author"
+
+[[resp]]
+name = "Lottin, Augustin-Martin, 1726-1793"
+role = "publisher"
+
+[[resp]]
+name = "Lottin de Saint Germain, Jean-Roch, b. 1754"
+role = "publisher"
+
+[[resp]]
+name = "Hôtel de ville (Paris, France)"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Lottin l'aîné, & Lottin de S.-Germain, imprimeurs-libraires ordinaires de la ville, rue S.-André-des-Arcs, (no 27)"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_855422"
+
+[[text]]
+file = "extraitduregleme00comm.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduregleme00comm.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduregleme00comm.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduregleme00comm.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

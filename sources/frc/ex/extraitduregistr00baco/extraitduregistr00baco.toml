@@ -1,0 +1,107 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "extraitduregistr00baco"
+type = "pamphlet"
+title = "Extrait du registre des délibérations de la Section de la Bibliothèque, en date du 3 mai 1791."
+language = "fr"
+place = "Paris"
+date = "1791"
+note = """Caption title. Imprint from colophon. Martin & Walter. Révolution française. "Opinion de M. Bacon sur l'état de déstresse où se trouvent les citoyens de la capitale, par le défaut de numéraire, & sur les moyens d'y remédier"--P. 3-8. Bibliography: Martin & Walter.  Révolution française,  I, 1008. Scanner's note: No copyright page found. No table-of-contents pages found."""
+url = "https://archive.org/details/extraitduregistr00baco"
+subject = [
+    "Currency question",
+    "Coinage",
+    "Assignats",
+    "Monetary policy",
+]
+extent = "8 p ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 13781"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2h75149v"
+internet_archive = "extraitduregistr00baco"
+
+[scan]
+file = "extraitduregistr00baco.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/extraitduregistr00baco"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Bacon-Tocon, Pierre Jean Jacques, comte, 1738-1817"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "Potier de Lille, Louis, 1750?-1794"
+role = "publisher"
+
+[[resp]]
+name = "De l'imprimerie de L. Potier de Lille, rue Favart, no. 5"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_829019"
+
+[[text]]
+file = "extraitduregistr00baco.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduregistr00baco.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduregistr00baco.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduregistr00baco.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduregistr00baco.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduregistr00baco.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduregistr00baco.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduregistr00baco.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

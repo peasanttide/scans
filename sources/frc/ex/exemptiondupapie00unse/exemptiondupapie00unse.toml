@@ -1,0 +1,51 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "exemptiondupapie00unse"
+type = "pamphlet"
+title = "Exemption du papier"
+language = "fr"
+date = "1674"
+note = "Caption title. Recto paged: 217. Incomplete extract from an unidentified publication. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Title page and cover are combined. No title page found. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/exemptiondupapie00unse"
+subject = [
+    "Paper",
+    "Printing",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 2 no. 42"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8pc8m484"
+internet_archive = "exemptiondupapie00unse"
+
+[scan]
+file = "exemptiondupapie00unse.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/exemptiondupapie00unse"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "[S.l., s.n."
+role = "publisher"
+
+[[text]]
+file = "exemptiondupapie00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "exemptiondupapie00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

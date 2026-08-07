@@ -1,0 +1,83 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "etatmajorgener00unse"
+type = "pamphlet"
+title = "État-major-général, au quartier-général de Cherasco, le 10 floréal, quatrième année de la République, une et indivisble"
+language = "fr"
+place = "A Bourg"
+date = "1796"
+note = """Caption title. At head of title: Égalité, liberté. Armée d'Italie. Signed, p. 2: Berthier. Imprint from colophon. Not in Martin & Walter. Révolution française. "Victoire! Armée d'Italie. Au quartier-général de Cherasco, le 10 floréal, 4e. année républicaine"--P. 3-4. Scanner's note: No copyright page found. No table-of-contents pages found.   Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/etatmajorgener00unse"
+subject = [
+    "France. Armée. Armée d'Italie",
+    "First Coalition, War of the, 1792-1797",
+]
+extent = "4 p. ; 24 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 26509"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3tt9rh8f"
+internet_archive = "etatmajorgener00unse"
+openlibrary_edition = "OL26226973M"
+openlibrary_work = "OL17622200W"
+
+[scan]
+file = "etatmajorgener00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/etatmajorgener00unse"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Berthier, Louis-Alexandre,1753-1815"
+role = "author"
+
+[[resp]]
+name = "Berthier, Louis-Alexandre, 1753-1815"
+role = "author"
+
+[[resp]]
+name = "France. Armée. Armée d'Italie"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Dufour et Josserand"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_862625"
+
+[[text]]
+file = "etatmajorgener00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "etatmajorgener00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "etatmajorgener00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "etatmajorgener00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

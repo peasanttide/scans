@@ -1,0 +1,78 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "extraitdesregist00loir_0"
+type = "pamphlet"
+title = "Extrait des régistres des délibérations du conseil général du département de la Loire"
+language = "fr"
+place = "A Feurs"
+date = "1793"
+note = """Caption title. Signed: Desverneys, président. Imprint from colophon. "Dans la séance publique du cinquieme jour de la troisieme décade des seconds mois et an de la République francoise ..."--P. [1]. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages."""
+url = "https://archive.org/details/extraitdesregist00loir_0"
+subject = [
+    "Guitton, Antoine",
+    "Grain trade",
+    "Confiscations",
+]
+extent = "4 p. ; 25 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9928 no. 7"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t77t2tf34"
+internet_archive = "extraitdesregist00loir_0"
+
+[scan]
+file = "extraitdesregist00loir_0.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/extraitdesregist00loir_0"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Loire (France : Dept.). Conseil général"
+role = "author"
+
+[[resp]]
+name = "Desverneys, Antoine, l'aîné"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Magnein, imprimeur du département de la Loire"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_854517"
+
+[[text]]
+file = "extraitdesregist00loir_0.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00loir_0.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00loir_0.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00loir_0.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

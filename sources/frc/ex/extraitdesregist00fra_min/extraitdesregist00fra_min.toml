@@ -1,0 +1,73 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "extraitdesregist00fra_min"
+type = "pamphlet"
+title = "Extrait des registres de la Cour des aides, du mercredi, 31 mars 1784"
+language = "fr"
+place = "A Paris"
+date = "1784"
+note = "Caption title. Imprint at foot of p. 4. Suppression and nullification of Ordonnance et instruction de MM. le elus généraux des états des Bourgogne touchant la nomination des asséeurs et collecteurs des imposition de la province, as contrary to the policies of the Cour des aides. Scanner's note: No copyright found.  No table of contents found.  Damaged, stained pages and cover.  Title on cover. <br />."
+url = "https://archive.org/details/extraitdesregist00fra_min"
+subject = ["Taxation"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 9 no. 95"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8kd7hq8j"
+internet_archive = "extraitdesregist00fra_min"
+
+[scan]
+file = "extraitdesregist00fra_min.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/extraitdesregist00fra_min"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "France.Cour des aides"
+role = "author"
+
+[[resp]]
+name = "France. Cour des aides"
+role = "author"
+
+[[resp]]
+name = "Burgundy (France). Etats. Chambre de élus généraux"
+role = "author"
+
+[[resp]]
+name = "chez Knapen et fils ..."
+role = "publisher"
+
+[[text]]
+file = "extraitdesregist00fra_min.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00fra_min.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00fra_min.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00fra_min.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "extraitduregistr00comm_8"
+type = "pamphlet"
+title = "Extrait du registre des délibérations du conseil-général : du 10 mai 1793, l'an deuxième de la République française"
+language = "fr"
+place = "Paris"
+date = "1793"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages."
+url = "https://archive.org/details/extraitduregistr00comm_8"
+subject = ["Commune de Paris (France : 1789-1794). Comité de surveillance"]
+extent = "3 p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10068 no. 8"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t87h6q70f"
+internet_archive = "extraitduregistr00comm_8"
+openlibrary_edition = "OL26222612M"
+openlibrary_work = "OL17618083W"
+
+[scan]
+file = "extraitduregistr00comm_8.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/extraitduregistr00comm_8"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Commune de Paris (France : 1789-1794)"
+role = "author"
+
+[[resp]]
+name = "Patris, C.-F. (Charles-Frobert), 1751?-"
+role = "publisher"
+
+[[resp]]
+name = "De l'imprimerie de C.F. Patris, imprimeur de la commune, rue du faubourg Saint-Jacques, aux ci-devant Dames Sainte-Marie"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_855430"
+
+[[text]]
+file = "extraitduregistr00comm_8.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduregistr00comm_8.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduregistr00comm_8.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduregistr00comm_8.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

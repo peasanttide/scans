@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "extraitdesdelibe00vosg_4"
+type = "pamphlet"
+title = "Extrait des délibérations du conseil général du departement des Vosges : séance publique du 22 décembre 1792, l'an premier de la République française"
+language = "fr"
+place = "A Epinal"
+date = "1792"
+note = "Caption title. At head of title: Liberté. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover."
+url = "https://archive.org/details/extraitdesdelibe00vosg_4"
+subject = [
+    "Paper money",
+    "Monetary policy",
+]
+extent = "4 p. ; 23 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10321 no. 30"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4rj9k58s"
+internet_archive = "extraitdesdelibe00vosg_4"
+openlibrary_edition = "OL26223396M"
+openlibrary_work = "OL17618859W"
+
+[scan]
+file = "extraitdesdelibe00vosg_4.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/extraitdesdelibe00vosg_4"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Vosges (France). Conseil général"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie nationale d'Haener"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_856953"
+
+[[text]]
+file = "extraitdesdelibe00vosg_4.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesdelibe00vosg_4.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesdelibe00vosg_4.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesdelibe00vosg_4.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

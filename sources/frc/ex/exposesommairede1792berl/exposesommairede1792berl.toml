@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "exposesommairede1792berl"
+type = "pamphlet"
+title = "Exposé sommaire des motifs qui ont déterminé les bases que renferme le projet de Code civil sur l'adoption, titre VII du livre premier"
+language = "fr"
+date = "1792"
+note = "Caption title. At head of title: Convention nationale. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,I, 2764. Scanner's note: Title found on front cover. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/exposesommairede1792berl"
+subject = [
+    "Adoption",
+    "Civil procedure",
+]
+extent = "4 p. ;19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "CaseFRC10739"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0zp72s43"
+internet_archive = "exposesommairede1792berl"
+
+[scan]
+file = "exposesommairede1792berl.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/exposesommairede1792berl"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Berlier, Théophile,comte,1761-1844"
+role = "author"
+
+[[resp]]
+name = "[Paris] :De l'Imprimerie nationale,"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_823678"
+
+[[text]]
+file = "exposesommairede1792berl.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "exposesommairede1792berl.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "exposesommairede1792berl.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "exposesommairede1792berl.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"

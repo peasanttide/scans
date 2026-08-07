@@ -1,0 +1,16 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: edictdvroyportan00fran_0
+page: 51
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 2333
+h: 3881
+dpi: 500
+---
+
+Ledcmy.
+
+Millcret à la petite croix, du poids
+de deuxdeniersdix fept grains trébu-
+chant, pour quatre liures dix fols.

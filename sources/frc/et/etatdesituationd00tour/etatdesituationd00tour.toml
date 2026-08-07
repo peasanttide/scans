@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "etatdesituationd00tour"
+type = "pamphlet"
+title = "État de situation des travaux & des recettes & dépenses du bureau de bienfaisance, depuis le 15 décembre 1789, jusqu'au 26 eévrier [i.e. février] 1790"
+language = "fr"
+place = "A Tours"
+date = "1790"
+note = "Caption title. Imprint from colophon. At left of title: Hiver, du 1er. novemb 1789 au 1er. mai 1790. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover. No page numbers."
+url = "https://archive.org/details/etatdesituationd00tour"
+subject = [
+    "Tours (France). Bureau de bienfaisance",
+    "Public welfare",
+]
+extent = "[3] p. ; 24 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10300 no. 2"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2c87dn6j"
+internet_archive = "etatdesituationd00tour"
+openlibrary_edition = "OL26223403M"
+openlibrary_work = "OL17618866W"
+
+[scan]
+file = "etatdesituationd00tour.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/etatdesituationd00tour"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Tours (France). Bureau de bienfaisance"
+role = "author"
+
+[[resp]]
+name = "Vauquer, Auguste"
+role = "publisher"
+
+[[resp]]
+name = "De l'imprimerie d'Auguste Vauquer"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_856903"
+
+[[text]]
+file = "etatdesituationd00tour.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "etatdesituationd00tour.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "etatdesituationd00tour.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "etatdesituationd00tour.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

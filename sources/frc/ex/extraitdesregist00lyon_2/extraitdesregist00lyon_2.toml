@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "extraitdesregist00lyon_2"
+type = "pamphlet"
+title = "Extrait des registres des délibérations du conseil de l'administration du district de la Campagne de Lyon"
+language = "fr"
+place = "A Lyon"
+note = "Caption title. Signed: Bession, président en l'absence, Costerisan, Cazot, Rémond, Desvignes, administrateurs, P. Goiran, procureur-syndic, & Jal, secretaire. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages."
+url = "https://archive.org/details/extraitdesregist00lyon_2"
+subject = [
+    "Passports",
+    "Customs administration",
+    "Internal security",
+]
+extent = "3 p. ; 25 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9895 no. 5"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3rv5pb6m"
+internet_archive = "extraitdesregist00lyon_2"
+openlibrary_edition = "OL26223944M"
+openlibrary_work = "OL17619399W"
+
+[scan]
+file = "extraitdesregist00lyon_2.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/extraitdesregist00lyon_2"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Lyon (France). District de la Campagne"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie des halles de la Grenette"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_855189"
+
+[[text]]
+file = "extraitdesregist00lyon_2.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00lyon_2.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00lyon_2.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00lyon_2.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

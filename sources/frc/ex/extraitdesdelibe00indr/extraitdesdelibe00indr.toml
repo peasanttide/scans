@@ -1,0 +1,71 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "extraitdesdelibe00indr"
+type = "pamphlet"
+title = "Extrait des délibérations"
+language = "fr"
+place = "A Chateauroux"
+date = "1792"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages. Only one page is numbered."
+url = "https://archive.org/details/extraitdesdelibe00indr"
+extent = "2 p. ; 24 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9854"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9z08803r"
+internet_archive = "extraitdesdelibe00indr"
+openlibrary_edition = "OL26223672M"
+openlibrary_work = "OL17619127W"
+
+[scan]
+file = "extraitdesdelibe00indr.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/extraitdesdelibe00indr"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Indre (France : Department)"
+role = "author"
+
+[[resp]]
+name = "Chez A. Nicaisse"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_68833"
+
+[[text]]
+file = "extraitdesdelibe00indr.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesdelibe00indr.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesdelibe00indr.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesdelibe00indr.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,59 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "etatdesfondsfair00crom"
+type = "pamphlet"
+title = "État des fonds à faire du trésor de Monsieur, pour les paiemens échus au mois de janvier 1790"
+language = "fr"
+place = "France"
+date = "1790"
+note = "Caption title. Signed: Cromot de Fougy. Martin & Walter. Révolution française. Personal expense report. Bibliography: Martin & Walter.  Révolution française, I, 8926. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover. No numbered pages."
+url = "https://archive.org/details/etatdesfondsfair00crom"
+extent = "[1] p. ; 287 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 26630"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t40s4x00h"
+internet_archive = "etatdesfondsfair00crom"
+openlibrary_edition = "OL26226770M"
+openlibrary_work = "OL17621999W"
+
+[scan]
+file = "etatdesfondsfair00crom.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/etatdesfondsfair00crom"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Cromot de Fougy"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_863414"
+
+[[text]]
+file = "etatdesfondsfair00crom.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "etatdesfondsfair00crom.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

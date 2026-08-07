@@ -1,0 +1,83 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "etatducompterend00dorn"
+type = "pamphlet"
+title = "État du compte rendu à la Convention nationale par le citoyen Dornier, des recettes & dépenses qu'il a faites pendant dix mois et demi qu'a duré sa mission à l'armée de l'Ouest, dite de la Vendée."
+language = "fr"
+place = "A Paris"
+date = "1795"
+note = """Caption title. At head of title: Convention nationale. Imprint from colophon. "Par décret du ... ventose de l'an III"--P. [1]. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  II, 10962. Scanner's note: No copyright page found. No table-of-contents pages found. Damaged, stained pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/etatducompterend00dorn"
+subject = [
+    "France. Convention nationale",
+    "Finance, Public",
+]
+extent = "3 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 11474"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t41s1f59g"
+internet_archive = "etatducompterend00dorn"
+openlibrary_edition = "OL25911852M"
+openlibrary_work = "OL17335501W"
+
+[scan]
+file = "etatducompterend00dorn.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/etatducompterend00dorn"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Dornier, Claude-Pierre, 1744-1807"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_825008"
+
+[[text]]
+file = "etatducompterend00dorn.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "etatducompterend00dorn.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "etatducompterend00dorn.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "etatducompterend00dorn.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

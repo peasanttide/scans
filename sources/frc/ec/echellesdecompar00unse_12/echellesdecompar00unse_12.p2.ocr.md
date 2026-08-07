@@ -1,0 +1,29 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: echellesdecompar00unse_12
+page: 2
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 2789
+h: 1849
+dpi: 350
+---
+
+s J)K CO-MPARAISOX KATRK LJ S AACIKXNES MESVllES ACVRAHIES ET 1 nXERAlUl'S,
+
+ET CELLES Qll LES REMP1,ACEXT JJAXS J.E ADULE AU SYSTEME,
+
+CniilliMHlt's oïl cxoculioii liï lArl 10 (lo Li 1,01 ihi i8 (u'iiiiin.il ilc lAiiô'.
+
+ECTU'U
+
+l'ill MU'.R!'. Kt IlF.I.I.r.
+/'■.v<v/.r l'offi/ur/i’.y if//-c //i‘i/<t/-cx
+
+..«KfiS.
+
+ONDE ECUEM.E
+
+a//,r jUt/lw irtuzr/E
+
+/.fCCC.f CO/flL/Ifl/UM i‘l

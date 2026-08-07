@@ -1,0 +1,63 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "extraitdunelettre00unse"
+type = "pamphlet"
+title = "Extrait d'une lettre insérée dans le Courrier d'Avignon, du 20 décembre 1788, et le Journal de Nismes"
+language = "fr"
+place = "France"
+date = "1788"
+note = "Caption title. Signed: Les officiers municipaux de la ville de Nismes .. Dated at head of text: Le 13 décembre 1788. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages. No page numbers."
+url = "https://archive.org/details/extraitdunelettre00unse"
+subject = [
+    "France. États généraux",
+    "Nîmes (France). Tiers Etat",
+]
+extent = "[1] p. ; 25 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10016 no. 3"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6k126f61"
+internet_archive = "extraitdunelettre00unse"
+openlibrary_edition = "OL26222375M"
+openlibrary_work = "OL17617844W"
+
+[scan]
+file = "extraitdunelettre00unse.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/extraitdunelettre00unse"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Nîmes (France)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_854856"
+
+[[text]]
+file = "extraitdunelettre00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdunelettre00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

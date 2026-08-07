@@ -1,0 +1,71 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "extraitduprocsve00pari_17"
+type = "pamphlet"
+title = "... Extrait du procès-verbal du samedi, vingt-deux mai 1790."
+language = "fr"
+place = "Paris"
+date = "1790"
+note = "Caption title. Imprint from colophon. At head of title: Assemblée des représentans de la Commune de Paris. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on cover page. Damaged, stained and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/extraitduprocsve00pari_17"
+extent = "3 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 6451"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t22c43s57"
+internet_archive = "extraitduprocsve00pari_17"
+openlibrary_edition = "OL26218713M"
+openlibrary_work = "OL17614420W"
+
+[scan]
+file = "extraitduprocsve00pari_17.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/extraitduprocsve00pari_17"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Paris (France). Commune (1789-1794)"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Lottin l'aîné, & Lottin de S.-Germain"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_58339"
+
+[[text]]
+file = "extraitduprocsve00pari_17.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduprocsve00pari_17.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduprocsve00pari_17.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitduprocsve00pari_17.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

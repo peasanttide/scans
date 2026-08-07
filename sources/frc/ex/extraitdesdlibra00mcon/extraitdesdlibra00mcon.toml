@@ -1,0 +1,99 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "extraitdesdlibra00mcon"
+type = "pamphlet"
+title = "Extrait des délibérations"
+language = "fr"
+place = "A Macon"
+date = "1789"
+note = "Caption title. Imprint from colophon. Dated at beginning: Aujourd'hui 15 février 1789 .. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages."
+url = "https://archive.org/details/extraitdesdlibra00mcon"
+extent = "6 p. ; 25 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9943"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4fn69681"
+internet_archive = "extraitdesdlibra00mcon"
+openlibrary_edition = "OL26223785M"
+openlibrary_work = "OL17619240W"
+
+[scan]
+file = "extraitdesdlibra00mcon.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/extraitdesdlibra00mcon"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Mâcon (France)"
+role = "author"
+
+[[resp]]
+name = "Mâcon (France)"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Jean-Philippe Goery"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_69529"
+
+[[text]]
+file = "extraitdesdlibra00mcon.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesdlibra00mcon.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesdlibra00mcon.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesdlibra00mcon.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesdlibra00mcon.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesdlibra00mcon.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesdlibra00mcon.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesdlibra00mcon.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

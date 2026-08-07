@@ -1,0 +1,67 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "extraitdunelett00unse"
+type = "pamphlet"
+title = "Extrait d'une lettre écrite de Geneve, en date du 16 février 1765"
+language = "fr"
+date = "1765"
+note = "Caption title. Without imprint. Relating to Rousseau's Lettres écrites de la montagne; and Réponse aux Lettres écrites de la campagne, issued anonymously, written by François Henri d'Ivernois. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Title page and cover are combined."
+url = "https://archive.org/details/extraitdunelett00unse"
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 7 no. 62"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8rc2p58r"
+internet_archive = "extraitdunelett00unse"
+
+[scan]
+file = "extraitdunelett00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/extraitdunelett00unse"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Rousseau, Jean-Jacques, 1712-1778. Lettres écrotes de la montagne"
+role = "author"
+
+[[resp]]
+name = "Ivernois, François Henri d', 1722-1778"
+role = "author"
+
+[[resp]]
+name = "[n.p."
+role = "publisher"
+
+[[text]]
+file = "extraitdunelett00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdunelett00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdunelett00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdunelett00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

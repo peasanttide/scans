@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "exttraitregist00unse"
+type = "pamphlet"
+title = "Exttrait [sic] des registres des délibérations du district de la Campagne de Lyon, séant à Genis-Laval"
+language = "fr"
+place = "A Lyon"
+date = "1795"
+note = """Caption title. At head of title: Egalité. Liberté. Signed: Rieussec, président, Peillon aîné, Besion, Desvignes, Richoud, Monmartin, Cazot, administrateurs, Phe. Goiran, agent national, Jal, secrétaire. Imprint from colophon. "Dans la séance publique du conseil-général du district de la campagne de Lyon, séant à Genis-Laval, du vingt-quatre ventôse, an troisieme de l'ere républicaine ... "--P. [1]. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."""
+url = "https://archive.org/details/exttraitregist00unse"
+subject = [
+    "Church bells",
+    "Religion and state",
+]
+extent = "4 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9895 no. 7"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9k40x41c"
+internet_archive = "exttraitregist00unse"
+openlibrary_edition = "OL26223214M"
+openlibrary_work = "OL17618675W"
+
+[scan]
+file = "exttraitregist00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/exttraitregist00unse"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Lyon (France). District de la Campagne"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de P. Bernard, sur le quai de Saône, maison Pitiot, no. 5"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_855191"
+
+[[text]]
+file = "exttraitregist00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "exttraitregist00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "exttraitregist00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "exttraitregist00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

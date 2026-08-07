@@ -1,0 +1,68 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "extraitdesregist00fra_o2j"
+type = "pamphlet"
+title = "Extrait des registres de la cour des aides"
+language = "fr"
+place = "Paris"
+date = "1779"
+note = """Caption title. Imprint at foot of p. 4. Suppresses Mémoires pour servir à l'histoire du droit public de la France en matière d'impôts, issued anonymously, written or compiled by Auger (given names unknown). "Signé LePrince.". Scanner's note: No copyright found.  No table of contents found.  Damaged, stained pages and cover.  Title on cover. <br />."""
+url = "https://archive.org/details/extraitdesregist00fra_o2j"
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 9 no. 45"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6c30hp40"
+internet_archive = "extraitdesregist00fra_o2j"
+
+[scan]
+file = "extraitdesregist00fra_o2j.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/extraitdesregist00fra_o2j"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "France. Cour des aides (Paris)"
+role = "author"
+
+[[resp]]
+name = "Auger"
+role = "author"
+
+[[resp]]
+name = "Knapen & fils"
+role = "publisher"
+
+[[text]]
+file = "extraitdesregist00fra_o2j.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00fra_o2j.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00fra_o2j.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00fra_o2j.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

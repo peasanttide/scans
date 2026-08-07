@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "extraitdesregist00roue_0"
+type = "pamphlet"
+title = "Extrait des registres de délibérations de l'hôtel de ville de Rouen"
+language = "fr"
+place = "Rouen"
+date = "1789"
+note = """Caption title. "Du onze janvier mil sept cent quatre-vingt-neuf ..."--P. [1]. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover. No page numbers."""
+url = "https://archive.org/details/extraitdesregist00roue_0"
+subject = [
+    "Unemployed",
+    "Public welfare",
+]
+extent = "[3] p. ; 24 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10247 no. 1"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3pw1mg2v"
+internet_archive = "extraitdesregist00roue_0"
+openlibrary_edition = "OL26223480M"
+openlibrary_work = "OL17618943W"
+
+[scan]
+file = "extraitdesregist00roue_0.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/extraitdesregist00roue_0"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Rouen (France)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_71697"
+
+[[text]]
+file = "extraitdesregist00roue_0.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00roue_0.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00roue_0.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "extraitdesregist00roue_0.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
