@@ -1,0 +1,85 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "rapportetprojetd00bail"
+type = "pamphlet"
+title = "Rapport et projet de décret, sur la pose de la première pierre de la colonne de la liberté sur les ruines de la Bastille /"
+language = "fr"
+place = "Paris"
+date = "1792"
+note = "Caption title. At head of title: Convention nationale. Imprint from colophon. Martin & Walter. Révolution française. On the financial aspects of building a monument to the revolution on the site of the Bastille. Bibliography: Martin & Walter.  Révolution française,  I, 1052. Scanner's note: No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/rapportetprojetd00bail"
+subject = [
+    "Monuments",
+    "Finance, Public",
+]
+extent = "4 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 13792"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t49p7ng7r"
+internet_archive = "rapportetprojetd00bail"
+
+[scan]
+file = "rapportetprojetd00bail.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/rapportetprojetd00bail"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Baille, Pierre Marie, 1750-1793"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale. Comité des finances"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_829030"
+
+[[text]]
+file = "rapportetprojetd00bail.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rapportetprojetd00bail.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rapportetprojetd00bail.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rapportetprojetd00bail.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

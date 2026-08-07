@@ -1,0 +1,83 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "rapportfaitaunom00janj"
+type = "pamphlet"
+title = "Rapport fait au nom d'une commission spéciale, par J.G. Jan (de l'Eure), sur la résolution du 28 fructidor an 7, qui applique la loi du 24 messidor, relatitve [sic] à la répression du brigandage, au département d'Ille-et-Vilaine : séance du premier jour complémentaire an 7."
+language = "fr"
+place = "Paris"
+date = "1799"
+note = "Caption title. At head of title: Corps législatif. Conseil des anciens. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  II, 17127. Scanner's note: No copyright page found. No table-of-contents pages found.   Skewed text.  Inconsistent page size.  Damaged pages."
+url = "https://archive.org/details/rapportfaitaunom00janj"
+subject = [
+    "Counterrevolutionaries",
+    "Criminal law",
+]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 11988"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t81k42x32"
+internet_archive = "rapportfaitaunom00janj"
+openlibrary_edition = "OL25915040M"
+openlibrary_work = "OL17338346W"
+
+[scan]
+file = "rapportfaitaunom00janj.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/rapportfaitaunom00janj"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Jan, Jacques-Gabriel, 1746-1808"
+role = "author"
+
+[[resp]]
+name = "France. Corps législatif (1795-1814). Conseil des anciens"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_826340"
+
+[[text]]
+file = "rapportfaitaunom00janj.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rapportfaitaunom00janj.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rapportfaitaunom00janj.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rapportfaitaunom00janj.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,83 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "rapportetprojetd00guio"
+type = "pamphlet"
+title = "Rapport et projet de décret sur la police correctionnelle /"
+language = "fr"
+place = "Paris"
+date = "1794"
+note = "Caption title. At head of title: Convention nationale. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  II, 16166. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover."
+url = "https://archive.org/details/rapportetprojetd00guio"
+subject = [
+    "Police misconduct",
+    "Police magistrates",
+]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 11902"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7gr1n167"
+internet_archive = "rapportetprojetd00guio"
+openlibrary_edition = "OL25924770M"
+openlibrary_work = "OL17347381W"
+
+[scan]
+file = "rapportetprojetd00guio.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/rapportetprojetd00guio"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Guiot, Florent, 1755-1834"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_825668"
+
+[[text]]
+file = "rapportetprojetd00guio.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rapportetprojetd00guio.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rapportetprojetd00guio.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rapportetprojetd00guio.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

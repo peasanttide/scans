@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "remedepromptetin00chop"
+type = "pamphlet"
+title = "Remède prompt et infaillible pour éviter la ruine entière du commerce que causera l'établissement des assignats à intérêt : présenté à l'Assemblée nationale, le samedi 10 avril 1790 /"
+language = "fr"
+place = "A Paris"
+date = "1790"
+note = "Caption title. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  I, 7510. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover page. Skewed text. Uneven binding. Damaged, stained, marked and/or loose pages.  Pages are numbered incorrectly."
+url = "https://archive.org/details/remedepromptetin00chop"
+subject = ["Assignats"]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 16278"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4nk8cs6f"
+internet_archive = "remedepromptetin00chop"
+openlibrary_edition = "OL26206250M"
+openlibrary_work = "OL17602545W"
+
+[scan]
+file = "remedepromptetin00chop.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/remedepromptetin00chop"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Chopard, M"
+role = "author"
+
+[[resp]]
+name = "Corbel, M"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie de la Société littéraire, rue de la Harpe, no. 187"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_833979"
+
+[[text]]
+file = "remedepromptetin00chop.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "remedepromptetin00chop.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "remedepromptetin00chop.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "remedepromptetin00chop.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

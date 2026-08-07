@@ -1,0 +1,87 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "reglementfait00unse_19"
+type = "pamphlet"
+title = "Règlement fait par le roi, pour la réunion de ses conseils : 9 août 1789 : extrait des registres du conseil d'État"
+language = "fr"
+place = "A Paris"
+date = "1789"
+note = "Caption title. Signed: De Saint-Priest. Imprint from colophon. Not in Martin & Walter. Révolution française. BM. Bibliography: BM, LXXVII, column 197. Scanner's note: No copyright page found. No table-of-contents pages found.   Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages."
+url = "https://archive.org/details/reglementfait00unse_19"
+subject = [
+    "France. Conseil royal des finances et du commerce",
+    "France. Conseil d'Etat",
+]
+extent = "3 p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10210 no. 20"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t49p85h7s"
+internet_archive = "reglementfait00unse_19"
+openlibrary_edition = "OL26222477M"
+openlibrary_work = "OL17617948W"
+
+[scan]
+file = "reglementfait00unse_19.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/reglementfait00unse_19"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Sovereign (1774-1792 : Louis XVI)"
+role = "author"
+
+[[resp]]
+name = "Saint-Priest, François-Emmanuel Guignard, comte de, 1735-1821"
+role = "author"
+
+[[resp]]
+name = "France. Conseil d'Etat"
+role = "author"
+
+[[resp]]
+name = "Imprimerie royale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie royale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_855309"
+
+[[text]]
+file = "reglementfait00unse_19.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "reglementfait00unse_19.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "reglementfait00unse_19.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "reglementfait00unse_19.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

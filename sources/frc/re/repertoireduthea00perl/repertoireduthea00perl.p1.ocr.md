@@ -1,0 +1,39 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: repertoireduthea00perl
+page: 1
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 1678
+h: 3057
+dpi: 350
+---
+
+REPERTOIRE
+
+D U
+
+THÉÂTRE FRANÇOIS,
+
+OU
+
+RECUEIL
+
+DES TRAGÉDIES ET COMÉDIES
+
+RESTÉES AU THÉÂTRE DEPUIS ROTROU;
+
+POUR FAIRE SUITE AUX EDITIONS IN-OCTAVO
+l> E CORNEILLE, MOLIERE, RACINE, REGNARD, CREBILLON,
+
+ET A Ü THÉÂTRE DE VOLTAIRE,
+
+VINGT VOLUMES IN-OCTAVO.
+
+A PARIS,
+
+DE L’IMPRIMERIE DE P. DIDOT l’aÎNÉ.
+
+CHEZ PERLET, LIBRAIRE, RUE DE TOURNON, N° nîî,
+
+M. DCCCIII,

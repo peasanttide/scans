@@ -1,0 +1,85 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "rapportfaitparve00tall_2"
+type = "pamphlet"
+title = "Rapport fait par Vesin, au nom d'une commission spéciale, sur la destination de la maison nationale de l'émigré Giroux à l'établissement du tribunal de police correctionnelle de l'arrondissement de Béthune, département du Pas-de-Calais : séance du 29 vendémiaire an 7."
+language = "fr"
+place = "A Paris"
+date = "1798"
+note = "Caption title. At head of title: Corps législatif. Conseil des cinq-cents. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  IV:1, 33463. Scanner's note: Uneven binding. Skewed text. Damaged, stained and/or loose pages."
+url = "https://archive.org/details/rapportfaitparve00tall_2"
+subject = [
+    "Court administration",
+    "Refugee property",
+]
+extent = "3 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 26099"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6p03hq3v"
+internet_archive = "rapportfaitparve00tall_2"
+
+[scan]
+file = "rapportfaitparve00tall_2.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/rapportfaitparve00tall_2"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Tallien, Jean-Lambert, 1767-2389"
+role = "author"
+
+[[resp]]
+name = "Vesin, Jean-François, 1761-1824"
+role = "author"
+
+[[resp]]
+name = "France. Corps législatif (1795-1814). Conseil des cinq-cents"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_864288"
+
+[[text]]
+file = "rapportfaitparve00tall_2.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rapportfaitparve00tall_2.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rapportfaitparve00tall_2.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rapportfaitparve00tall_2.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,10 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: rapportetprojetd00lapl
+page: 8
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 2718
+h: 4352
+dpi: 500
+---

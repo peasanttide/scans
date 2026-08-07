@@ -1,0 +1,92 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "requisitiondugen00fler"
+type = "pamphlet"
+title = "Réquisition du général de l'Armée des Pyrénées orientales, aux citoyens administrateurs composing le Directoire du département du Gard : de Perpignan, le 27 mai 1793, l'an 2e. de la République"
+language = "fr"
+place = "A Nismes"
+date = "1793"
+note = """Caption title. At head of title: Departement du Gard. La République française. Signed, p. 2: Flers. Imprint from colophon. Not in Martin & Walter. Révolution française. "Le procureur-général-syndic du département du Gard, aux municipalités du Ressort"--P. 2-3; signed: Teste. Scanner's note: No copyright page found. No table-of-contents pages found. Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/requisitiondugen00fler"
+subject = [
+    "France. Armée. Armée des Pyrénées-Occidentales",
+    "Draft",
+    "First Coalition, War of the, 1792-1797",
+]
+extent = "3 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 26728"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t69360537"
+internet_archive = "requisitiondugen00fler"
+openlibrary_edition = "OL26228862M"
+openlibrary_work = "OL17623931W"
+
+[scan]
+file = "requisitiondugen00fler.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/requisitiondugen00fler"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Flers, Louis-Charles de La Motte-Ango, vicomte de,1754-1794"
+role = "author"
+
+[[resp]]
+name = "Flers, Louis-Charles de La Motte-Ango, vicomte de, 1754-1794"
+role = "author"
+
+[[resp]]
+name = "Teste, Antoine"
+role = "author"
+
+[[resp]]
+name = "Belle, Castor"
+role = "publisher"
+
+[[resp]]
+name = "Gard (France). Directoire"
+role = "author"
+
+[[resp]]
+name = "Chez C. Belle, imprimeur nationale du département du Gard, place du Château no. 32, 1793."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_864911"
+
+[[text]]
+file = "requisitiondugen00fler.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "requisitiondugen00fler.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "requisitiondugen00fler.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "requisitiondugen00fler.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

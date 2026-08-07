@@ -1,0 +1,83 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "rapportfaitparpr00pres"
+type = "pamphlet"
+title = "Rapport fait par Pressavin sur l'établissement d'un tribunal de commerce dans la commune de Villefranche, département du Rhône : séance du 11 prairial an 7."
+language = "fr"
+place = "Paris"
+date = "1799"
+note = "Caption title. At head of title: Corps législatif. Conseil des cinq-cents. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  IV:1, 28160. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover."
+url = "https://archive.org/details/rapportfaitparpr00pres"
+subject = [
+    "Commercial courts",
+    "Judicial districts",
+]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 12926"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3wt3fd2t"
+internet_archive = "rapportfaitparpr00pres"
+openlibrary_edition = "OL25931304M"
+openlibrary_work = "OL17353531W"
+
+[scan]
+file = "rapportfaitparpr00pres.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/rapportfaitparpr00pres"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Pressavin, Jean-Baptiste, b. 1734"
+role = "author"
+
+[[resp]]
+name = "France. Corps législatif (1795-1814). Conseil des cinq-cents"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_827592"
+
+[[text]]
+file = "rapportfaitparpr00pres.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rapportfaitparpr00pres.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rapportfaitparpr00pres.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rapportfaitparpr00pres.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

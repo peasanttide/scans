@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "reponsedemauvray00auvr"
+type = "pamphlet"
+title = "Réponse de M. Auvray, à M. le comte de Virieux, député de l'Assemblée nationale, à l'article inséré dans le Courrier de Versailles à Paris, No. LXIII."
+language = "fr"
+place = "Paris?"
+date = "1789"
+note = "Caption title. Signed: Auvray, entrepreneur de bâtimens, quai & vis-à-vis le Pont de la Tournelle. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover."
+url = "https://archive.org/details/reponsedemauvray00auvr"
+subject = [
+    "Veto",
+    "Prerogative, Royal",
+    "Executive-legislative relations",
+]
+extent = "3 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 13385"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t18m21k9w"
+internet_archive = "reponsedemauvray00auvr"
+openlibrary_edition = "OL25926435M"
+openlibrary_work = "OL17349063W"
+
+[scan]
+file = "reponsedemauvray00auvr.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/reponsedemauvray00auvr"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Auvray"
+role = "author"
+
+[[resp]]
+name = "Virieu, François-Henri, comte de, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie de Quillau, rue du Fouare, No. 3"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_828474"
+
+[[text]]
+file = "reponsedemauvray00auvr.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "reponsedemauvray00auvr.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "reponsedemauvray00auvr.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "reponsedemauvray00auvr.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

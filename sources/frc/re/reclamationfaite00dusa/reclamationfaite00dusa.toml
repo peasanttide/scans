@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "reclamationfaite00dusa"
+type = "pamphlet"
+title = "Réclamation faite au Conseil des anciens /"
+language = "fr"
+place = "Paris"
+date = "1797"
+note = "Caption title. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  II, 12496. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover."
+url = "https://archive.org/details/reclamationfaite00dusa"
+subject = [
+    "Delmas, Jean-François-Bertrand, 1751-1798",
+    "Lotteries",
+    "Finance, Public",
+]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 11626"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6k11sw4j"
+internet_archive = "reclamationfaite00dusa"
+openlibrary_edition = "OL25924619M"
+openlibrary_work = "OL17347243W"
+
+[scan]
+file = "reclamationfaite00dusa.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/reclamationfaite00dusa"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Dusaulx, Jean, 1728-1799"
+role = "author"
+
+[[resp]]
+name = "Baudouin, François-Jean, 1759-1838"
+role = "publisher"
+
+[[resp]]
+name = "De l'imprimerie de Baudouin, place du Carrousel, no. 662"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_825448"
+
+[[text]]
+file = "reclamationfaite00dusa.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "reclamationfaite00dusa.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "reclamationfaite00dusa.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "reclamationfaite00dusa.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

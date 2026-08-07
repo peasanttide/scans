@@ -1,0 +1,83 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "rapportsurlasais00dura"
+type = "pamphlet"
+title = "Rapport sur la saisie des traitemens accordés au clergé futur /"
+language = "fr"
+place = "A Paris"
+date = "1791"
+note = "Caption title. Imprint from colophon. Publication date from Martin & Walter. Martin & Walter. Révolution française. Arguing that creditors should be prevented from confiscating funds reserved for the clergy. Bibliography: Martin & Walter.  Révolution française,  II, 12413. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, stained pages and cover. Title on cover page. Skewed text."
+url = "https://archive.org/details/rapportsurlasais00dura"
+subject = [
+    "Clergy",
+    "Debtor and creditor",
+]
+extent = "3 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 18153"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8ff8rh0c"
+internet_archive = "rapportsurlasais00dura"
+openlibrary_edition = "OL26196343M"
+openlibrary_work = "OL17593103W"
+
+[scan]
+file = "rapportsurlasais00dura.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/rapportsurlasais00dura"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Durand de Maillane, M. (Pierre Toussaint), 1729-1814"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_837639"
+
+[[text]]
+file = "rapportsurlasais00dura.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rapportsurlasais00dura.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rapportsurlasais00dura.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rapportsurlasais00dura.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

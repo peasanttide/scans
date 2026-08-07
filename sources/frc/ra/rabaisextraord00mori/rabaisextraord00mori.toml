@@ -1,0 +1,69 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "rabaisextraord00mori"
+type = "pamphlet"
+title = "Rabais extraordinaire, de plus de soixante à soixante-quinze pour cent, comme on le verra par les prix anciens mis à chaque article, comparativement avec ceux de ce rabais"
+language = "fr"
+place = "Paris"
+date = "1797"
+note = "Caption title. With original and discounted prices. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Title page and cover are combined."
+url = "https://archive.org/details/rabaisextraord00mori"
+subject = ["Morin, J.-F. , -1799?"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 11 no. 26"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1nh08d8p"
+internet_archive = "rabaisextraord00mori"
+
+[scan]
+file = "rabaisextraord00mori.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/rabaisextraord00mori"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Morin, J.-F. ,-1799?"
+role = "author"
+
+[[resp]]
+name = "Morin, J.-F. , -1799?"
+role = "author"
+
+[[resp]]
+name = "Morin"
+role = "publisher"
+
+[[text]]
+file = "rabaisextraord00mori.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rabaisextraord00mori.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rabaisextraord00mori.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rabaisextraord00mori.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

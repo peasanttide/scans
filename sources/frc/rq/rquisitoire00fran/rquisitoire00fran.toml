@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "rquisitoire00fran"
+type = "pamphlet"
+title = "Réquisitoire /"
+language = "fr"
+place = "s.l."
+date = "1788"
+note = """Caption title. Without imprint. "Arrêté du bailliage royal de Lixheim, du 20 mai 1788": p.3. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on cover page. Damaged, stained and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/rquisitoire00fran"
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 7983"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8jd9zw36"
+internet_archive = "rquisitoire00fran"
+openlibrary_edition = "OL26220354M"
+openlibrary_work = "OL17615972W"
+
+[scan]
+file = "rquisitoire00fran.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/rquisitoire00fran"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Procureur du roi"
+role = "author"
+
+[[resp]]
+name = "Lixheim (France)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_101632"
+
+[[text]]
+file = "rquisitoire00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rquisitoire00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rquisitoire00fran.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rquisitoire00fran.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

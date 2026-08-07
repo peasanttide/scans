@@ -1,0 +1,68 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "recitsestpasse00unse"
+type = "pamphlet"
+title = "Recit de ce qui s'est passé : `a la séance tenue par le roi le 15 juillet [1789]"
+language = "fr"
+place = "A Toulouse"
+date = "1789"
+note = "Caption title. Imprint from colophon. Martin & Walter IV 2: 15073 [edition 4: quarto edition; Toulouse imprint]. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."
+url = "https://archive.org/details/recitsestpasse00unse"
+subject = ["France. Sovereign (1774-1792 : Louis XVI)"]
+extent = "3 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10175"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t89h0s22b"
+internet_archive = "recitsestpasse00unse"
+openlibrary_edition = "OL26223286M"
+openlibrary_work = "OL17618747W"
+
+[scan]
+file = "recitsestpasse00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/recitsestpasse00unse"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Chez D. Declassan"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_71349"
+
+[[text]]
+file = "recitsestpasse00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "recitsestpasse00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "recitsestpasse00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "recitsestpasse00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

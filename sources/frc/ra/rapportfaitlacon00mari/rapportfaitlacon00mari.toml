@@ -1,0 +1,83 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "rapportfaitlacon00mari"
+type = "pamphlet"
+title = "Rapport fait à la Convention nationale, sur l'état & l'esprit public du Département du Mont-Blanc /"
+language = "fr"
+place = "Paris"
+date = "1793"
+note = """Caption title. At head of title: Convention nationale. "Imprimé par ordre de la Convention nationale, et envoyé aux départemens.". Publisher name from colophon. "Conventión nationale."--Bottom of p. [1]. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  III, 23163. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained, marked and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/rapportfaitlacon00mari"
+subject = [
+    "Savoyards",
+    "Counterrevolutions",
+]
+extent = "4 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 22069"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4mm1km9h"
+internet_archive = "rapportfaitlacon00mari"
+openlibrary_edition = "OL26240758M"
+openlibrary_work = "OL17635282W"
+
+[scan]
+file = "rapportfaitlacon00mari.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/rapportfaitlacon00mari"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Marin, A. (Anthelme), 1756-1825"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_845748"
+
+[[text]]
+file = "rapportfaitlacon00mari.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rapportfaitlacon00mari.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rapportfaitlacon00mari.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rapportfaitlacon00mari.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

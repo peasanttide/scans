@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "rapportfaitlacon00bare"
+type = "pamphlet"
+title = "Rapport fait à la Convention nationale, au nom de son Comité de salut public, par Barrère, le 18 germinal, l'an 2 de la République française, une et indivisible : sur les fonctionnaires publics qui refusent ou négligent de faire exécuter les réquisitions de la Commission des subsistances & approvisionnemens ; avec le décret rendu dans la même séance."
+language = "fr"
+place = "France?"
+date = "1794"
+note = "Caption title. At head of title: Commission du commerce des approvisionnemens. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  I, 1650. Scanner's note: Title page located on cover page. No copyright page found. No table-of-contents pages found. Worn, damaged cover and pages. Skewed text."
+url = "https://archive.org/details/rapportfaitlacon00bare"
+extent = "4 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 14012"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2895w87j"
+internet_archive = "rapportfaitlacon00bare"
+openlibrary_edition = "OL25917638M"
+openlibrary_work = "OL17340765W"
+
+[scan]
+file = "rapportfaitlacon00bare.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/rapportfaitlacon00bare"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Barère, B. (Bertrand), 1755-1841"
+role = "author"
+
+[[resp]]
+name = "France. Commission du commerce et des approvisionnements"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale. Comité de salut public"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_829583"
+
+[[text]]
+file = "rapportfaitlacon00bare.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rapportfaitlacon00bare.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rapportfaitlacon00bare.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rapportfaitlacon00bare.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

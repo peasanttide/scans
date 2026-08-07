@@ -1,0 +1,69 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "rabaisconsiderab00dete_3"
+type = "pamphlet"
+title = "Rabais considérable de beaux livres"
+language = "fr"
+place = "Paris"
+date = "1793"
+note = """Caption title. Latest publication date indicated for books listed: 1793. "Le même libraire a beaucoup d'autres livres tant anciens que modernes, qui n'ont pu trouver place ici. Il achète les bibliothèques en gros ou par partie, edition entière d'un ouvrage, reste d'edition, &c."--At end. With original and discounted prices. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Title page and cover are combined."""
+url = "https://archive.org/details/rabaisconsiderab00dete_3"
+subject = ["Deterville, Jean-François-Pierre, 1766-1842"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 11 no. 20"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t58d5j32m"
+internet_archive = "rabaisconsiderab00dete_3"
+
+[scan]
+file = "rabaisconsiderab00dete_3.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/rabaisconsiderab00dete_3"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Deterville, Jean-François-Pierre,1766-1842"
+role = "author"
+
+[[resp]]
+name = "Deterville, Jean-François-Pierre, 1766-1842"
+role = "bookseller"
+
+[[resp]]
+name = "Deterville"
+role = "publisher"
+
+[[text]]
+file = "rabaisconsiderab00dete_3.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rabaisconsiderab00dete_3.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rabaisconsiderab00dete_3.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rabaisconsiderab00dete_3.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

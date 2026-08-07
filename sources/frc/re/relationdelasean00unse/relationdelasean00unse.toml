@@ -1,0 +1,68 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "relationdelasean00unse"
+type = "pamphlet"
+title = "Relation de la seance tenue par ordre exprès du roi : en la sénéchaussée de Ville-neuve-de-Berg, en Bas-Vivarois ; par Bernard de Balainvilliers, intendant de Languedoc ; avec les discours & arrêtés de cette compagnie."
+language = "fr"
+place = "s.l."
+date = "1788"
+note = """Caption title. Without imprint. The date "17 mai 1788" occurs on p.[1]. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."""
+url = "https://archive.org/details/relationdelasean00unse"
+subject = ["Ville-neuve-de-Berg (France)"]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 7693"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t26b26z89"
+internet_archive = "relationdelasean00unse"
+openlibrary_edition = "OL26216899M"
+openlibrary_work = "OL17612716W"
+
+[scan]
+file = "relationdelasean00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/relationdelasean00unse"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_63081"
+
+[[text]]
+file = "relationdelasean00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "relationdelasean00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "relationdelasean00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "relationdelasean00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

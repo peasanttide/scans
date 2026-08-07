@@ -1,0 +1,77 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "refutation00unse"
+type = "pamphlet"
+title = "Réfutation de l'ouvrage lu par M. Dommanget, à la Société des electeurs patriotes, le 29 décembre 1790, sur un mode d'election, pour l'administration du département de Paris."
+language = "fr"
+place = "France"
+date = "1790"
+note = "Caption title. Signed: Thevenin, électeur. By Nicolas-Marie Thévenin. Cf. Martin & Walter. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  IV:1, 32410. Scanner's note: Uneven binding. Skewed text. Damaged, stained and/or loose pages."
+url = "https://archive.org/details/refutation00unse"
+subject = [
+    "Dommanget, Louis Abraham",
+    "Elections",
+]
+extent = "4 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 25651"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t89h10b57"
+internet_archive = "refutation00unse"
+
+[scan]
+file = "refutation00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/refutation00unse"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Tallien, Jean-Lambert, 1767-1951"
+role = "author"
+
+[[resp]]
+name = "Thévenin, Nicolas-Marie"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_858829"
+
+[[text]]
+file = "refutation00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "refutation00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "refutation00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "refutation00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

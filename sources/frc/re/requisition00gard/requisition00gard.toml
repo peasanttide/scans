@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "requisition00gard"
+type = "pamphlet"
+title = "Réquisition"
+language = "fr"
+place = "A Nismes"
+date = "1792"
+note = "Caption title. Text begins: Nous administrateurs composant le conseil-général du département du Gard .. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.   Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages."
+url = "https://archive.org/details/requisition00gard"
+subject = [
+    "France. Armée",
+    "Draft",
+]
+extent = "4 p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9831 no. 33"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1pg6sv9f"
+internet_archive = "requisition00gard"
+openlibrary_edition = "OL26223746M"
+openlibrary_work = "OL17619201W"
+
+[scan]
+file = "requisition00gard.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/requisition00gard"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Gard (France). Conseil général"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale, chez J. Gaude, imprimeur du département du Gard"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_854349"
+
+[[text]]
+file = "requisition00gard.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "requisition00gard.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "requisition00gard.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "requisition00gard.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,83 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "refutationpre00unse"
+type = "pamphlet"
+title = "... Réfutation de la prétendue dénonciation, dirigée par H. Vanhamme, ex-prév^ot de l'armée des pr^etres de la Belgique : contre les citoyens Gautier, secrétaire général du département, Dhardiviller, ex- receveur des domaines nationaux, et Lorain, ex-administrateur du département"
+language = "fr"
+place = "s.l."
+date = "1796"
+note = """Caption title. Imprint from colophon. At head of title: Liberté. Égalité. Conjectural date of publication from reference on p.2: "Dans les jours complémentaires de l'an IV ...". Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages."""
+url = "https://archive.org/details/refutationpre00unse"
+extent = "3 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10200"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t76t5sf1k"
+internet_archive = "refutationpre00unse"
+openlibrary_edition = "OL26222395M"
+openlibrary_work = "OL17617864W"
+
+[scan]
+file = "refutationpre00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/refutationpre00unse"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Vanhamme, H"
+role = "author"
+
+[[resp]]
+name = "Gautier"
+role = "author"
+
+[[resp]]
+name = "Dhardiviller"
+role = "author"
+
+[[resp]]
+name = "Lorain"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de la Société typographique"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_71456"
+
+[[text]]
+file = "refutationpre00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "refutationpre00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "refutationpre00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "refutationpre00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

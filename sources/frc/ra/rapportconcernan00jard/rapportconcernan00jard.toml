@@ -1,0 +1,83 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "rapportconcernan00jard"
+type = "pamphlet"
+title = "Rapport concernant les pensions à accorder aux militaires suisses licenciés par la loi du 29 août 1792 /"
+language = "fr"
+place = "Paris"
+date = "1794"
+note = """Caption title. At head of title: Convention nationale. "Imprimé par ordre de la Convention nationale.". Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  II, 17169. Scanner's note: No copyright page found. No table-of-contents pages found."""
+url = "https://archive.org/details/rapportconcernan00jard"
+subject = [
+    "France. Armée",
+    "Military pensions",
+]
+extent = "4 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 11991"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t61598729"
+internet_archive = "rapportconcernan00jard"
+openlibrary_edition = "OL25914963M"
+openlibrary_work = "OL17338270W"
+
+[scan]
+file = "rapportconcernan00jard.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/rapportconcernan00jard"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Jard-Panvillier, Louis Alexandre, 1757-1822"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_826343"
+
+[[text]]
+file = "rapportconcernan00jard.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rapportconcernan00jard.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rapportconcernan00jard.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rapportconcernan00jard.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

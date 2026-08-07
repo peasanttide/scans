@@ -1,0 +1,83 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "rapportfaitparpa00garr"
+type = "pamphlet"
+title = "Rapport fait par P.A. Garrau (de la Gironde), au nom de la commission spéciale chargée de l'examen du message du Directoire exécutif, du 21 pluviose, sur le paiement des secours provisoires & pensions du deuxième semestre de l'an 6 : séance du 3 germinal an 7."
+language = "fr"
+place = "Paris"
+date = "1799"
+note = "Caption title. At head of title: Corps législatif, Conseil des cinq-cents. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  II, 14328a. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover."
+url = "https://archive.org/details/rapportfaitparpa00garr"
+subject = [
+    "Disabled veterans",
+    "Government spending policy",
+]
+extent = "3 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 11729"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7sn4x27c"
+internet_archive = "rapportfaitparpa00garr"
+openlibrary_edition = "OL25924977M"
+openlibrary_work = "OL17347590W"
+
+[scan]
+file = "rapportfaitparpa00garr.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/rapportfaitparpa00garr"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Garrau, Pierre-Anselme, 1762-1819"
+role = "author"
+
+[[resp]]
+name = "France. Corps législatif (1795-1814). Conseil des cinq-cents"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_825507"
+
+[[text]]
+file = "rapportfaitparpa00garr.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rapportfaitparpa00garr.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rapportfaitparpa00garr.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rapportfaitparpa00garr.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

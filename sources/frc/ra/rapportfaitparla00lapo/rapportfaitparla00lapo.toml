@@ -1,0 +1,83 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "rapportfaitparla00lapo"
+type = "pamphlet"
+title = "Rapport fait par Lapotaire sur l'application des dispositions de la loi du 24 messidor an 7 concernant la répression du brigandage au département du Calvados : séance du 4 vendémiaire an 8."
+language = "fr"
+place = "A Paris"
+date = "1799"
+note = "Caption title. At head of title: Corps législatif, Conseil des anciens. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  III, 19265. Scanner's note: No copyright page found. No table-of-contents pages found.   Skewed text."
+url = "https://archive.org/details/rapportfaitparla00lapo"
+subject = [
+    "Chouans",
+    "Counterrevolutionaries",
+]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 12162"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t02z5wt4d"
+internet_archive = "rapportfaitparla00lapo"
+openlibrary_edition = "OL25915070M"
+openlibrary_work = "OL17338379W"
+
+[scan]
+file = "rapportfaitparla00lapo.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/rapportfaitparla00lapo"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Lapotaire, Louis-Jean-Gabriel, 1740-1810"
+role = "author"
+
+[[resp]]
+name = "France. Corps législatif (1795-1814). Conseil des anciens"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_826164"
+
+[[text]]
+file = "rapportfaitparla00lapo.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rapportfaitparla00lapo.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rapportfaitparla00lapo.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rapportfaitparla00lapo.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

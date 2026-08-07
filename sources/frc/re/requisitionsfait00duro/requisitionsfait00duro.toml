@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "requisitionsfait00duro"
+type = "pamphlet"
+title = "Réquisitions faites par M. Duroux, avocat du roi au sénéchal de Toulouse, à l'audience de ce siège, du 30 octobre, relativement à l'enregistrement de la déclaration du roi, du 23 septembre 1788."
+language = "fr"
+place = "France"
+date = "1788"
+note = "Caption title. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Damaged, stained pages and cover. Title on cover page."
+url = "https://archive.org/details/requisitionsfait00duro"
+subject = ["France. États généraux"]
+extent = "4 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 18179"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4mm19g21"
+internet_archive = "requisitionsfait00duro"
+openlibrary_edition = "OL26196282M"
+openlibrary_work = "OL17593043W"
+
+[scan]
+file = "requisitionsfait00duro.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/requisitionsfait00duro"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Duroux, Joseph-Marie"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_837792"
+
+[[text]]
+file = "requisitionsfait00duro.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "requisitionsfait00duro.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "requisitionsfait00duro.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "requisitionsfait00duro.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

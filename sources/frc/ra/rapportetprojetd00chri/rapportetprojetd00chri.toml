@@ -1,0 +1,73 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "rapportetprojetd00chri"
+type = "pamphlet"
+title = "Rapport et projet de décret présentés au nom du Comité des finances sur le mode de liquider les rentes foncières dues par la République"
+language = "fr"
+date = "1795"
+note = "Caption title. At head of title: Convention nationale. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,I, 7526. Scanner's note: Title found on front cover. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/rapportetprojetd00chri"
+subject = [
+    "Farm rents",
+    "Land tenure",
+    "Finance, Public",
+]
+extent = "3 p. ;20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "CaseFRC11146"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7gq9z136"
+internet_archive = "rapportetprojetd00chri"
+
+[scan]
+file = "rapportetprojetd00chri.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/rapportetprojetd00chri"
+ppi = 650
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Christiani, Marie-Frédéric-Henri,b. 1760"
+role = "author"
+
+[[resp]]
+name = "[Paris] :De l'Imprimerie nationale,"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_824468"
+
+[[text]]
+file = "rapportetprojetd00chri.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "rapportetprojetd00chri.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "rapportetprojetd00chri.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "rapportetprojetd00chri.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"

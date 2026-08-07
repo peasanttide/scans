@@ -1,0 +1,84 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "reglementfait00unse_1"
+type = "pamphlet"
+title = "Règlement fait par le roi, pour l'exécution de ses lettres de convocation aux États-généraux, dans sa province de Franche-Comté : du 19 février 1789"
+language = "fr"
+place = "A Paris"
+date = "1789"
+note = """Caption title. At right of title: Franche-Comté. "Signé Louis, et plus bas, de Chastenet de Puysegur"--P. 2. Imprint from colophon. Not in Martin & Walter. Révolution française. Variant of BM, LXXVII, column 191. "État, par ordre alphabétique, des bailliages royaux de la province de Franche-comté, qui députeront directement ou indirectement aux États-généraux, avec le nombre de leurs députations, chaque députation composée d'un député du clergé, d'un de la noblesse, & de deux du Tiers-état"--P. 3. "État, par ordre alphabétique, contenant les noms des villes de la province de Franche-comté, qui doivent envoyer plus de quatre députés aux assemblées des bailliages, & le nombre de députés que chacun y enverra"--P. 4. Scanner's note: No copyright page found. No table-of-contents pages found.   Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages."""
+url = "https://archive.org/details/reglementfait00unse_1"
+subject = ["France. États généraux"]
+extent = "4 p. ; 25 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10210 no. 2"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4mm1fj8g"
+internet_archive = "reglementfait00unse_1"
+openlibrary_edition = "OL26222582M"
+openlibrary_work = "OL17618053W"
+
+[scan]
+file = "reglementfait00unse_1.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/reglementfait00unse_1"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Sovereign (1774-1792 : Louis XVI)"
+role = "author"
+
+[[resp]]
+name = "Louis XVI, King of France, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "Chastenet de Puységur, A.-M.-J. (Armand-Marie-Jacques), 1751-1825"
+role = "author"
+
+[[resp]]
+name = "Imprimerie royale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie royale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_855291"
+
+[[text]]
+file = "reglementfait00unse_1.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "reglementfait00unse_1.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "reglementfait00unse_1.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "reglementfait00unse_1.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

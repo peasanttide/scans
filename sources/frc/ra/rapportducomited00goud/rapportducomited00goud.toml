@@ -1,0 +1,89 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "rapportducomited00goud"
+type = "pamphlet"
+title = "Rapport du Comité d'agriculture et de commerce, présenté à l'Assemblée nationale /"
+language = "fr"
+place = "A Paris"
+date = "1791"
+note = "Caption title. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  II, 15250e. Scanner's note: No copyright page found. No table-of-contents pages found. Damaged pages. Uneven binding. Skewed text. Title and cover pages are combined."
+url = "https://archive.org/details/rapportducomited00goud"
+subject = [
+    "Tariff",
+    "Gin",
+    "Rum",
+    "Customs administration",
+]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 19242"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9x111j5c"
+internet_archive = "rapportducomited00goud"
+openlibrary_edition = "OL25952782M"
+openlibrary_work = "OL17373707W"
+
+[scan]
+file = "rapportducomited00goud.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/rapportducomited00goud"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Goudard, Pierre-Louis, 1740-1799"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791). Comité d'agriculture et de commerce"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_840268"
+
+[[text]]
+file = "rapportducomited00goud.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rapportducomited00goud.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rapportducomited00goud.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rapportducomited00goud.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

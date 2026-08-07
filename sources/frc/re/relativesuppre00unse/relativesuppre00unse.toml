@@ -1,0 +1,87 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "relativesuppre00unse"
+type = "pamphlet"
+title = "Loi relative aux suppressions & réunions de cures : donnée à Paris, le 24 novembre 1790"
+language = "fr"
+place = "A Beauvaus"
+date = "1790"
+note = """Caption title. "Signé Louis. Et plus bas, M.L.F. Duport."--p. 3. Imprint from colophon. Not in Martin & Walter. Révolution française. "Décret de l'Assemblée nationale, du 19 novembre 1790"--P. [1]-2. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages."""
+url = "https://archive.org/details/relativesuppre00unse"
+subject = [
+    "Parishes",
+    "Church and state",
+]
+extent = "3 p. ; 28 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10338 no. 37"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2m66n68p"
+internet_archive = "relativesuppre00unse"
+openlibrary_edition = "OL26225748M"
+openlibrary_work = "OL17621062W"
+
+[scan]
+file = "relativesuppre00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/relativesuppre00unse"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Sovereign (1774-1792 : Louis XVI)"
+role = "author"
+
+[[resp]]
+name = "Louis XVI, King of France, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "Duport-Dutertre, Marguerite-Louis-François, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de P.C.D. Desjardins, imprimeur du département de l'Oise"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_853055"
+
+[[text]]
+file = "relativesuppre00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "relativesuppre00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "relativesuppre00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "relativesuppre00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

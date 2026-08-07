@@ -1,0 +1,87 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "rapportsurlacont00lanj"
+type = "pamphlet"
+title = "Rapport sur la contrariété des jugemens en matière criminelle : présenté au nom de son Comité de législation, a la Convention nationale /"
+language = "fr"
+place = "Paris"
+date = "1793"
+note = "Caption title. At head of title: Convention nationale. Imprint from colophon. Session date from Martin & Walter: 15 mai 1793. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  III, 19135."
+url = "https://archive.org/details/rapportsurlacont00lanj"
+subject = [
+    "Criminal procedure",
+    "Conflict of judicial decisions",
+]
+extent = "4 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 20609"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t01z9f467"
+internet_archive = "rapportsurlacont00lanj"
+openlibrary_edition = "OL26237201M"
+openlibrary_work = "OL17631756W"
+
+[scan]
+file = "rapportsurlacont00lanj.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/rapportsurlacont00lanj"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Lanjuinais, J.-D. (Jean-Denis), comte, 1753-1827"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale. Comité de législation"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_843015"
+
+[[text]]
+file = "rapportsurlacont00lanj.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rapportsurlacont00lanj.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rapportsurlacont00lanj.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rapportsurlacont00lanj.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

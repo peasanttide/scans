@@ -1,0 +1,10 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: reponselalettred00cloo
+page: 8
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 2765
+h: 4650
+dpi: 500
+---

@@ -1,0 +1,69 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "rabaisextraordin00dete"
+type = "pamphlet"
+title = "Rabais extraordinaire de livres en feuilles, la plupart au-dessous du prix du papier, jusqu'au 12 thermidor ou 30 juillet 1797, chez Deterville, libraire, rue du Battoir, no. 16, près celle de l'Eperon, à Paris"
+language = "fr"
+place = "Paris"
+date = "1797"
+note = "Caption title. Printed in double columns. With original and discounted prices. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Title page and cover are combined."
+url = "https://archive.org/details/rabaisextraordin00dete"
+subject = ["Deterville, Jean-François-Pierre, 1766-1842"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 11 no. 17"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3b04s58v"
+internet_archive = "rabaisextraordin00dete"
+
+[scan]
+file = "rabaisextraordin00dete.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/rabaisextraordin00dete"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Deterville, Jean-François-Pierre,1766-1842"
+role = "author"
+
+[[resp]]
+name = "Deterville, Jean-François-Pierre, 1766-1842"
+role = "bookseller"
+
+[[resp]]
+name = "Deterville"
+role = "publisher"
+
+[[text]]
+file = "rabaisextraordin00dete.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rabaisextraordin00dete.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rabaisextraordin00dete.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rabaisextraordin00dete.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

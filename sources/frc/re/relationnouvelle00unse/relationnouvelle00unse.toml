@@ -1,0 +1,68 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "relationnouvelle00unse"
+type = "book"
+title = "Relation nouvelle et interessante sur ce qui est arrivé `a Avignon le 10 juin 1790"
+language = "fr"
+place = "s.l."
+date = "1790"
+note = "Caption title. Without imprint. Extracted from an unidentified publication. Not in Martin & Walter. Scanner's note: Irregular Pagination. No title page found. No copyright page found. Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages."
+url = "https://archive.org/details/relationnouvelle00unse"
+subject = ["Avignon (France)"]
+extent = "p. [563]-566 ; 28 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10225"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6p03949n"
+internet_archive = "relationnouvelle00unse"
+openlibrary_edition = "OL26222423M"
+openlibrary_work = "OL17617892W"
+
+[scan]
+file = "relationnouvelle00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/relationnouvelle00unse"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_71522"
+
+[[text]]
+file = "relationnouvelle00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "relationnouvelle00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "relationnouvelle00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "relationnouvelle00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

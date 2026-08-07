@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "rapportducomited00lebr_2"
+type = "pamphlet"
+title = "Rapport du Comité des finances /"
+language = "fr"
+place = "France?"
+date = "1790"
+note = """
+Caption title. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  III, 20048. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover.
+Only one numbered page."""
+url = "https://archive.org/details/rapportducomited00lebr_2"
+subject = [
+    "Jardin du roi (France)",
+    "Botanical gardens",
+    "Debts, Public",
+]
+extent = "2 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 20930"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7cs12r3k"
+internet_archive = "rapportducomited00lebr_2"
+
+[scan]
+file = "rapportducomited00lebr_2.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/rapportducomited00lebr_2"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Lebrun, Charles-François, duc de Plaisance, 1739-1824"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791). Comité des finances"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_843759"
+
+[[text]]
+file = "rapportducomited00lebr_2.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rapportducomited00lebr_2.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rapportducomited00lebr_2.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rapportducomited00lebr_2.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

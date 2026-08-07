@@ -1,0 +1,68 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "recitintressantd00unse"
+type = "pamphlet"
+title = "Recit intéressant de ce qui s'est passé ce matin 13 juin [1789] : dans l'Assemblée des communes de France."
+language = "fr"
+place = "s.l."
+date = "1789"
+note = "Caption title. Without imprint. Martin & Walter IV 2: 15115. Scanner's note: No copyright page found. No table-of-contents pages found.   Title is on cover page. Damaged, stained and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/recitintressantd00unse"
+subject = ["France. États généraux. Tiers État"]
+extent = "3 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 7431"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t01z99491"
+internet_archive = "recitintressantd00unse"
+openlibrary_edition = "OL26218804M"
+openlibrary_work = "OL17614496W"
+
+[scan]
+file = "recitintressantd00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/recitintressantd00unse"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_62781"
+
+[[text]]
+file = "recitintressantd00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "recitintressantd00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "recitintressantd00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "recitintressantd00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

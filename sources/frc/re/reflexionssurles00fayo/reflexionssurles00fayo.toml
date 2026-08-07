@@ -1,0 +1,83 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "reflexionssurles00fayo"
+type = "pamphlet"
+title = "Réflexions sur les fêtes decadaires /"
+language = "fr"
+place = "Paris"
+date = "1795"
+note = "Caption title. At head of title: Convention nationale. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  II, 13274. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover page. Skewed text. Uneven binding. Damaged, stained, loose pages."
+url = "https://archive.org/details/reflexionssurles00fayo"
+subject = [
+    "Weekly rest-day",
+    "Festivals",
+]
+extent = "4 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 18549"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t41s1t84z"
+internet_archive = "reflexionssurles00fayo"
+openlibrary_edition = "OL26201853M"
+openlibrary_work = "OL17598371W"
+
+[scan]
+file = "reflexionssurles00fayo.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/reflexionssurles00fayo"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Fayolle, Jean Raymond, 1746-1821"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_839016"
+
+[[text]]
+file = "reflexionssurles00fayo.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "reflexionssurles00fayo.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "reflexionssurles00fayo.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "reflexionssurles00fayo.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

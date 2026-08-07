@@ -1,0 +1,91 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "relativetresor00unse"
+type = "pamphlet"
+title = "Loi relative au trésor public, et portant établissement d'un bureau de correspondance générale entre le directeur général du trésor, et les receveurs de districts des quatre-vingt-trois départemens : donnée à Paris, le 2 janvier 1791"
+language = "fr"
+place = "A Paris"
+date = "1791"
+note = """Caption title. At right of title: No. 265. "Signé Louis. Et plus bas, M.L.F. DuPort"--P. 3. Imprint from colophon. Martin & Walter. Révolution française. "Décret de l'Assemblée nationale, du 27 décembre 1790"--P. [1]-3. Bibliography: Martin & Walter. Révolution française, IV:2, 9143. Scanner's note: No title page found. No copyright page found. No table-of-contents pages found."""
+url = "https://archive.org/details/relativetresor00unse"
+subject = [
+    "France. Ministère du trésor public",
+    "Finance, Public",
+]
+extent = "3 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10339 no. 36"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5t77j403"
+internet_archive = "relativetresor00unse"
+openlibrary_edition = "OL26225644M"
+openlibrary_work = "OL17620959W"
+
+[scan]
+file = "relativetresor00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/relativetresor00unse"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Sovereign (1774-1792 : Louis XVI)"
+role = "author"
+
+[[resp]]
+name = "Louis XVI, King of France, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "Duport-Dutertre, Marguerite-Louis-François, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "Imprimerie royale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie royale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_852338"
+
+[[text]]
+file = "relativetresor00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "relativetresor00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "relativetresor00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "relativetresor00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

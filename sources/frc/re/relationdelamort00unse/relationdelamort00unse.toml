@@ -1,0 +1,67 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "relationdelamort00unse"
+type = "pamphlet"
+title = "Relation de la mort tragique du grand bailliage de Toulouse : arrivé le 16 octobre 1788, sur la place du Salin de cette ville."
+language = "fr"
+place = "s.l."
+date = "1788"
+note = "Caption title. Without imprint. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."
+url = "https://archive.org/details/relationdelamort00unse"
+extent = "4 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 7691"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9z086p89"
+internet_archive = "relationdelamort00unse"
+openlibrary_edition = "OL26216538M"
+openlibrary_work = "OL17612364W"
+
+[scan]
+file = "relationdelamort00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/relationdelamort00unse"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_62819"
+
+[[text]]
+file = "relationdelamort00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "relationdelamort00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "relationdelamort00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "relationdelamort00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

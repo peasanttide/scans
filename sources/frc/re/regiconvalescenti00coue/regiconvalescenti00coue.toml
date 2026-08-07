@@ -1,0 +1,68 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "regiconvalescenti00coue"
+type = "pamphlet"
+title = "Regi convalescenti, cùm magister Carolus Le Beau ... publicam de recuperatâ regis valetudine orationem, universitatis nomine ac jussu, haberet die Jovis tertiâ mensis decembris, anno domini, 1744. Carmen"
+language = "fr"
+place = "Paris"
+date = "1744"
+note = "Caption title. Binder's title: Conquest du roy. Scanner's note: No copyright page found. No table-of-contents pages found. Title and cover pages combined."
+url = "https://archive.org/details/regiconvalescenti00coue"
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "E 5 .L92705 v. 06 no. 73"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5x69jq7f"
+internet_archive = "regiconvalescenti00coue"
+
+[scan]
+file = "regiconvalescenti00coue.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/regiconvalescenti00coue"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Couet, Nicolas Jean François"
+role = "author"
+
+[[resp]]
+name = "Couet, Nicolas Jean François"
+role = "author"
+
+[[resp]]
+name = "Thiboust"
+role = "publisher"
+
+[[text]]
+file = "regiconvalescenti00coue.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "regiconvalescenti00coue.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "regiconvalescenti00coue.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "regiconvalescenti00coue.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

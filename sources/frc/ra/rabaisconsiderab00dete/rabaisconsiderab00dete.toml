@@ -1,0 +1,57 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "rabaisconsiderab00dete"
+type = "pamphlet"
+title = "Rabais considérable de beaux livres"
+language = "fr"
+place = "Paris"
+date = "1792"
+note = """Caption title. Publication date from BN. Catalogues de libraires. Printed in three columns. Vertical chain lines. "Le même libraire tient magasin de tous les journaux et autres ouvrages périodiques, tant anciens que modernes, par collections entières ou séparément; il achète les bibliothèques en gros ou par partie, soit à Paris ou en province; et comme il suit les ventes de bibliothèques, il pourra fournir les grands ouvrages qu'on lui demandera au meilleur marché possible"--At end. BN. Catalogues de libraires. With prices. Scanner's note: No copyright page found. No table-of-contents pages found. Title and cover pages combined."""
+url = "https://archive.org/details/rabaisconsiderab00dete"
+subject = ["Deterville, Jean-François-Pierre, 1766-1842"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 11 no. 14"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6h18q42x"
+internet_archive = "rabaisconsiderab00dete"
+
+[scan]
+file = "rabaisconsiderab00dete.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/rabaisconsiderab00dete"
+ppi = 350
+note = "Scanned on fold1.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Deterville, Jean-François-Pierre,1766-1842"
+role = "author"
+
+[[resp]]
+name = "Deterville, Jean-François-Pierre, 1766-1842"
+role = "author"
+
+[[resp]]
+name = "Deterville"
+role = "publisher"
+
+[[text]]
+file = "rabaisconsiderab00dete.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rabaisconsiderab00dete.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

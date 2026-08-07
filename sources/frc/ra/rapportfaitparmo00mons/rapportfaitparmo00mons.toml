@@ -1,0 +1,81 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "rapportfaitparmo00mons"
+type = "pamphlet"
+title = "Rapport fait par Monseignat, sur un échange de terreins entre la commune de Laguiole, département de l'Aveyron, et la citoyenne Cayla femme Lagrifoul : séance du troisième jour complémentaire an 7."
+language = "fr"
+place = "A Paris"
+date = "1799"
+note = "Caption title. At head of title: Corps législatif. Conseil des cinq-cents. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  III, 24891. Scanner's note: No Copyright found. No Table of Contents found. Title on cover page. Damaged, stained pages and cover. <br />."
+url = "https://archive.org/details/rapportfaitparmo00mons"
+subject = [
+    "Real property, Exchange of",
+    "Restraints on alienation",
+]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 22733"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4km4jr3t"
+internet_archive = "rapportfaitparmo00mons"
+
+[scan]
+file = "rapportfaitparmo00mons.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/rapportfaitparmo00mons"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "Monseignat Du Cluzel, Félix-Hippolyte-Fréjus, 1764-1840"
+role = "author"
+
+[[resp]]
+name = "France. Corps législatif (1795-1814). Conseil des cinq-cents"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_846849"
+
+[[text]]
+file = "rapportfaitparmo00mons.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rapportfaitparmo00mons.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rapportfaitparmo00mons.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rapportfaitparmo00mons.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

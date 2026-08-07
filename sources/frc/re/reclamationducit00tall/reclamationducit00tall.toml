@@ -1,0 +1,81 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "reclamationducit00tall"
+type = "pamphlet"
+title = "Réclamation du citoyen Vermon, député du département des Ardennes, sur le vote qui lui est attribué dans l'appel nominal, page 31, & qui n'est point celui qu'il a émis sur cette question, Quelle peine sera infligée à Louis?."
+language = "fr"
+place = "A Paris"
+date = "1793"
+note = "Caption title. Dated at end: Paris, 3 février 1793 .. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  IV:1, 33361. Scanner's note: Uneven binding. Skewed text. Damaged, stained and/or loose pages."
+url = "https://archive.org/details/reclamationducit00tall"
+subject = [
+    "Louis XVI, King of France, 1754-1793",
+    "Justice, Administration of",
+]
+extent = "3 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 26057"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3gx9nn7f"
+internet_archive = "reclamationducit00tall"
+
+[scan]
+file = "reclamationducit00tall.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/reclamationducit00tall"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Tallien, Jean-Lambert, 1767-2348"
+role = "author"
+
+[[resp]]
+name = "Vermon, Alexis-Joseph, 1754-1818"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_864330"
+
+[[text]]
+file = "reclamationducit00tall.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "reclamationducit00tall.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "reclamationducit00tall.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "reclamationducit00tall.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

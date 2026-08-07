@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "rapportparforest00fore"
+type = "pamphlet"
+title = "Rapport par Forestier sur le traitement des ecclésiastiques qui abdiqueront leurs fonctions : 27 brumaire, l'an second de la République française : imprimé par ordre de la Convention nationale."
+language = "fr"
+place = "Paris"
+date = "1793"
+note = "Caption title. At head of title: Convention nationale. Imprint from colophon. Variant of Martin & Walter. Révolution française, II, 13581. Scanner's note: Title page located on front cover. No copyright page found. No table-of-contents pages found. Worn, damaged and discolored pages and cover. Skewed text."
+url = "https://archive.org/details/rapportparforest00fore"
+subject = ["Clergy"]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 18678"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t50g8p30n"
+internet_archive = "rapportparforest00fore"
+openlibrary_edition = "OL26200711M"
+openlibrary_work = "OL17597321W"
+
+[scan]
+file = "rapportparforest00fore.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/rapportparforest00fore"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Forestier, Pierre-Jacques, 1739-1823"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_838882"
+
+[[text]]
+file = "rapportparforest00fore.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rapportparforest00fore.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rapportparforest00fore.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rapportparforest00fore.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

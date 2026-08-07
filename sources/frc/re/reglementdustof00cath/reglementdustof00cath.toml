@@ -1,0 +1,93 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "reglementdustof00cath"
+type = "pamphlet"
+title = "Reglement du St. Office concernant les marchands libraires et imprimeurs, les héritiers possesseurs et en quelque maniere que ce soit vendeurs de livres"
+language = "fr"
+place = "A Avignon"
+date = "1776"
+note = """Caption title. Imprint from colophon. "Donné à Avignon au palais du Saint Office, du 7 septembre 1776.". Printed in double columns. Scanner's note: No copyright page found. No table-of-contents pages found. Title and cover pages combined."""
+url = "https://archive.org/details/reglementdustof00cath"
+subject = [
+    "Book industries and trade",
+    "Prohibited books",
+    "Censorship",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 6 no. 13"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0sr4k03h"
+internet_archive = "reglementdustof00cath"
+
+[scan]
+file = "reglementdustof00cath.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/reglementdustof00cath"
+ppi = 350
+note = "Scanned on fold1.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Catholic Church.Congregatio Sancti Officii"
+role = "author"
+
+[[resp]]
+name = "Catholic Church. Congregatio Sancti Officii"
+role = "author"
+
+[[resp]]
+name = "Mabil, Jean-Baptiste"
+role = "author"
+
+[[resp]]
+name = "Jean-Jacques-Denis Bonnet frères"
+role = "printer"
+
+[[resp]]
+name = "Chez Bonnet, freres, imprimeurs du St. Office, vis-à-vis le Puits des Bœufs"
+role = "publisher"
+
+[[text]]
+file = "reglementdustof00cath.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "reglementdustof00cath.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "reglementdustof00cath.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "reglementdustof00cath.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "reglementdustof00cath.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "reglementdustof00cath.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,69 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "rapportfaitparje00boil"
+type = "pamphlet"
+title = "Rapport fait par J. Edme Boilleau (député de l'Yonne), sur l'établissement d'un tribunal de commerce dans la commune d'Avallon, département de l'Yonne séance du 21 pluviôse an 7 : première lecture."
+language = "fr"
+date = "1799"
+note = "Caption title. At head of title: Corps législatif. Conseil des cinq-cents. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,I, 3742."
+url = "https://archive.org/details/rapportfaitparje00boil"
+subject = ["Commercial courts"]
+extent = "4 p. ;20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "CaseFRC10848"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3xs8rf1c"
+internet_archive = "rapportfaitparje00boil"
+
+[scan]
+file = "rapportfaitparje00boil.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/rapportfaitparje00boil"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Boilleau, Jean Edme,1740-1840"
+role = "author"
+
+[[resp]]
+name = "A Paris :De l'Imprimerie nationale,"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_824898"
+
+[[text]]
+file = "rapportfaitparje00boil.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "rapportfaitparje00boil.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "rapportfaitparje00boil.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "rapportfaitparje00boil.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"

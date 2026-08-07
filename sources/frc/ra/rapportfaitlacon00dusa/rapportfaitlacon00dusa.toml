@@ -1,0 +1,83 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "rapportfaitlacon00dusa"
+type = "pamphlet"
+title = "Rapport fait a la Convention nationale par G. Dusaulx sur la pompe funèbre du représentant Féraud : séance du 15 prairial, l'an troisième de la République une et indivisible : imprimé par ordre de la Convention nationale."
+language = "fr"
+place = "A Paris"
+date = "1795"
+note = "Caption title. At head of title: Convention nationale. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  II, 12491. Scanner's note: No copyright page found. No table-of-contents pages found. Damaged, stained pages and cover. Title is on cover page."
+url = "https://archive.org/details/rapportfaitlacon00dusa"
+subject = [
+    "Féraud, Jean, 1767-1795",
+    "Funeral rites and ceremonies",
+]
+extent = "3 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 18191"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3324xb7s"
+internet_archive = "rapportfaitlacon00dusa"
+openlibrary_edition = "OL26196604M"
+openlibrary_work = "OL17593360W"
+
+[scan]
+file = "rapportfaitlacon00dusa.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/rapportfaitlacon00dusa"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Dusaulx, Jean, 1728-1799"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_837804"
+
+[[text]]
+file = "rapportfaitlacon00dusa.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rapportfaitlacon00dusa.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rapportfaitlacon00dusa.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rapportfaitlacon00dusa.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

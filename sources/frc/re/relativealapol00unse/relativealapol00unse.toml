@@ -1,0 +1,94 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "relativealapol00unse"
+type = "pamphlet"
+title = "Loi relative a la police de Paris : du troisième jour des sans-culotides, l'an IIe. de la République française"
+language = "fr"
+place = "A Paris"
+date = "1794"
+note = """Caption title. At head of title: (No. 92*). Signed: Voulland, ex-président; Reynaud, secrétaire et Clauzel, ex-secrétaire. Imprint from colophon. Another edition exists without "no. 92*" at head of title. Not in Martin & Walter. Révolution française. "La Convention nationale ... décrète ..."--P. [1]. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/relativealapol00unse"
+subject = [
+    "Passports",
+    "Identification cards",
+    "Domicile",
+    "Travel restrictions",
+    "Internal security",
+]
+extent = "3 p. ; 28 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10345 no. 58"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5fc06z01"
+internet_archive = "relativealapol00unse"
+openlibrary_edition = "OL26229635M"
+openlibrary_work = "OL17624668W"
+
+[scan]
+file = "relativealapol00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/relativealapol00unse"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Voulland, Jean-Henri, 1751-1801"
+role = "author"
+
+[[resp]]
+name = "Reynaud de Bonnassous, Claude-André-Benoît, 1749-1817"
+role = "author"
+
+[[resp]]
+name = "Clauzel, Jean-Baptiste, 1745-1804"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Depot des lois, place de la Réunion, ci-devant du grand-Carrousel"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_860394"
+
+[[text]]
+file = "relativealapol00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "relativealapol00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "relativealapol00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "relativealapol00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

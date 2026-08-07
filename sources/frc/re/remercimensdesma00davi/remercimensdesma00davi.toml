@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "remercimensdesma00davi"
+type = "pamphlet"
+title = "Remercimens des Marseillais à M. le comte de Mirabeau, sur la délivrance des prisonniers, & à M. le comte de Beausset, en attendant son arrivée."
+language = "fr"
+place = "A Marseille"
+date = "1791"
+note = """Caption title. Signed: L. Davin. Imprint from colophon. Not in Martin & Walter. Révolution française. "La soirée d'un Provençal citoyen de Marseille"--P. 3-4. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on cover page. Damaged, stained pages and cover."""
+url = "https://archive.org/details/remercimensdesma00davi"
+subject = ["Mirabeau, Honoré-Gabriel de Riquetti, comte de, 1749-1791"]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 17020"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3fz29b9m"
+internet_archive = "remercimensdesma00davi"
+openlibrary_edition = "OL26204240M"
+openlibrary_work = "OL17600662W"
+
+[scan]
+file = "remercimensdesma00davi.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/remercimensdesma00davi"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Davin, L"
+role = "author"
+
+[[resp]]
+name = "Mirabeau, Honoré-Gabriel de Riquetti, comte de, 1749-1791"
+role = "author"
+
+[[resp]]
+name = "Davin, L. Soirée d'un Provençal citoyen de Marseille"
+role = "author"
+
+[[resp]]
+name = "Chez F. Brebion, imprimeur du roi & de la ville"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_835270"
+
+[[text]]
+file = "remercimensdesma00davi.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "remercimensdesma00davi.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "remercimensdesma00davi.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "remercimensdesma00davi.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "reglementfait00unse_13"
+type = "pamphlet"
+title = "Règlement fait par le roi, pour l'exécution de ses lettres de convocation aux prochains États-généraux : du 26 avril 1789"
+language = "fr"
+place = "A Paris"
+date = "1789"
+note = """Caption title. At right of title: Conserans. "Signé Louis, et plus bas, Laurent de Villedeuil"--P. 2. Imprint from colophon. Not in Martin & Walter. Révolution française. BM. Bibliography: BM, LXXVII, column 194. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages."""
+url = "https://archive.org/details/reglementfait00unse_13"
+subject = ["France. États généraux"]
+extent = "2 p. ; 25 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10210 no. 14"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t53f9w252"
+internet_archive = "reglementfait00unse_13"
+openlibrary_edition = "OL26222591M"
+openlibrary_work = "OL17618062W"
+
+[scan]
+file = "reglementfait00unse_13.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/reglementfait00unse_13"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Sovereign (1774-1792 : Louis XVI)"
+role = "author"
+
+[[resp]]
+name = "Louis XVI, King of France, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "Laurent de Villedeuil, Pierre Charles, 1742-1828"
+role = "author"
+
+[[resp]]
+name = "Imprimerie royale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie royale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_855303"
+
+[[text]]
+file = "reglementfait00unse_13.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "reglementfait00unse_13.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

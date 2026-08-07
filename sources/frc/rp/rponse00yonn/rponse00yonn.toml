@@ -1,0 +1,71 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "rponse00yonn"
+type = "pamphlet"
+title = "Réponse /"
+language = "fr"
+place = "s.l."
+date = "1792"
+note = "Caption title. Without imprint. Incomplete: p.[1]-[2] wanting. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."
+url = "https://archive.org/details/rponse00yonn"
+extent = "6 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 9100"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9p320281"
+internet_archive = "rponse00yonn"
+openlibrary_edition = "OL26219564M"
+openlibrary_work = "OL17615244W"
+
+[scan]
+file = "rponse00yonn.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/rponse00yonn"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Yonne (France)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_65961"
+
+[[text]]
+file = "rponse00yonn.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rponse00yonn.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rponse00yonn.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rponse00yonn.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

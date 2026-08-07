@@ -1,0 +1,88 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "rapportfaitaunom00simo"
+type = "pamphlet"
+title = "Rapport fait au nom du Comité de surveillance et de l'examen des marchés, pour l'établissement d'inspecteurs & de contrôleurs de la Régie des charrois des armées /"
+language = "fr"
+place = "Paris"
+date = "1793"
+note = "Caption title. At head of title: Convention nationale. Imprint from colophon. Publication date from Martin & Walter. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  IV:1, 31748. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Stained pages."
+url = "https://archive.org/details/rapportfaitaunom00simo"
+subject = [
+    "France. Armée",
+    "Governmental investigations",
+    "Civil supremacy over the military",
+]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 13179"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t74v1b68n"
+internet_archive = "rapportfaitaunom00simo"
+openlibrary_edition = "OL25926361M"
+openlibrary_work = "OL17348990W"
+
+[scan]
+file = "rapportfaitaunom00simo.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/rapportfaitaunom00simo"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Simond, Philibert, 1755-1794"
+role = "author"
+
+[[resp]]
+name = "Commune de Paris (France : 1789-1794). Comité de surveillance"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_827709"
+
+[[text]]
+file = "rapportfaitaunom00simo.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rapportfaitaunom00simo.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rapportfaitaunom00simo.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rapportfaitaunom00simo.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

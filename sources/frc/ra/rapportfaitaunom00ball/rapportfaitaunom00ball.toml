@@ -1,0 +1,69 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "rapportfaitaunom00ball"
+type = "pamphlet"
+title = "Rapport fait au nom de la commission nommée pour examiner la résolution du 16 brumaire, relative à la continuation du Tableau des campagnes des Français"
+language = "fr"
+date = "1796"
+note = "Caption title. At head of title: Corps législatif, Conseil des anciens. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,I, 1262."
+url = "https://archive.org/details/rapportfaitaunom00ball"
+subject = ["Government aid to the arts"]
+extent = "3 p. ;20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "CaseFRC10600"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6d24zs46"
+internet_archive = "rapportfaitaunom00ball"
+
+[scan]
+file = "rapportfaitaunom00ball.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/rapportfaitaunom00ball"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Ballard, Philibert,d. 1814"
+role = "author"
+
+[[resp]]
+name = "A Paris :De l'Imprimerie nationale,"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_823640"
+
+[[text]]
+file = "rapportfaitaunom00ball.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "rapportfaitaunom00ball.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "rapportfaitaunom00ball.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "rapportfaitaunom00ball.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"

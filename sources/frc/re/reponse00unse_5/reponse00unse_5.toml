@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "reponse00unse_5"
+type = "pamphlet"
+title = "Réponse du roi a la Cour des aides."
+language = "fr"
+place = "France"
+date = "1787"
+note = "Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/reponse00unse_5"
+subject = [
+    "France. États généraux",
+    "Representative government and representation",
+]
+extent = "4 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 21533"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0qs02n0k"
+internet_archive = "reponse00unse_5"
+openlibrary_edition = "OL26239483M"
+openlibrary_work = "OL17634023W"
+
+[scan]
+file = "reponse00unse_5.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/reponse00unse_5"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Louis XVI, King of France, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "France. Cour des aides (Paris)"
+role = "author"
+
+[[resp]]
+name = "s.n., 1787?]"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_845239"
+
+[[text]]
+file = "reponse00unse_5.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "reponse00unse_5.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "reponse00unse_5.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "reponse00unse_5.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "rponse00pari_0"
+type = "pamphlet"
+title = "Réponse /"
+language = "fr"
+place = "A Caen"
+date = "1792"
+note = "Caption title. Imprint from colophon. Martin & Walter IV 2: 12124 [edition 2: Caen imprint]. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on cover page. Damaged, stained and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/rponse00pari_0"
+extent = "3 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 6513"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t89h0r88h"
+internet_archive = "rponse00pari_0"
+openlibrary_edition = "OL26218839M"
+openlibrary_work = "OL17614531W"
+
+[scan]
+file = "rponse00pari_0.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/rponse00pari_0"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Paris (France). Commune (1789-1794)"
+role = "author"
+
+[[resp]]
+name = "Lagny (France)"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de P. Chalopin"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_59775"
+
+[[text]]
+file = "rponse00pari_0.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rponse00pari_0.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rponse00pari_0.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rponse00pari_0.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

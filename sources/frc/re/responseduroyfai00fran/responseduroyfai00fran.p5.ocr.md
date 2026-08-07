@@ -1,0 +1,24 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: responseduroyfai00fran
+page: 5
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 3051
+h: 4969
+dpi: 650
+---
+
+RESPONCE
+
+D V
+
+FAI GTE
+
+A vx Remonstrances
+
+prefenrees à leurs Maj eflez
+par ic Sr Edmondes Am-
+bafladcurdulSSiÿ
+de la grande
+Bretagne,

@@ -1,0 +1,74 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "reponseladernier00leme"
+type = "pamphlet"
+title = "Reponse a la derniere replique du sieur Collas, du 8 août 1722."
+language = "fr"
+place = "France?"
+date = "1722"
+note = "Caption title. Signatures: [A]². Regarding a dispute between Ignace Le Mere, chaplain of Église Saint Mathieu, and his vicar Gullaume Collas. No. 11 of 54 titles bound together. Scanner's note: Uneven binding. Skewed text. Title is on the cover. Text is lost in the binding. Damaged, stained, or torn pages."
+url = "https://archive.org/details/reponseladernier00leme"
+subject = [
+    "Le Mere, Ignace",
+    "Collas, Guillaume",
+    "Église Saint Mathieu (Morlaix, France)",
+    "Catholic Church",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio KJV5795 .A35 1728 no. 11"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8qc6200d"
+internet_archive = "reponseladernier00leme"
+
+[scan]
+file = "reponseladernier00leme.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/reponseladernier00leme"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Le Mere, Ignace"
+role = "author"
+
+[[resp]]
+name = "Collas, Guillaume"
+role = "author"
+
+[[resp]]
+name = "[publisher not identified]"
+role = "publisher"
+
+[[text]]
+file = "reponseladernier00leme.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "reponseladernier00leme.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "reponseladernier00leme.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "reponseladernier00leme.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

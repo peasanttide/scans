@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "reponseinteressa00bell"
+type = "pamphlet"
+title = "Réponse intéressante de M. l'évêque de Marseille a MM. les administrateurs du directoire du district, concernant la suppression du siége épiscopal : du 1er. décembre 1790."
+language = "fr"
+place = "A Marseille"
+date = "1790"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Saricks, A. Melvin Coll. Bibliography: Saricks, A.  Melvin Coll.,  I, 1687. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover."
+url = "https://archive.org/details/reponseinteressa00bell"
+subject = [
+    "Catholic Church. Diocese of Marseille (France)",
+    "Episcopacy",
+    "Church and state",
+]
+extent = "4 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 14360"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4km40b2b"
+internet_archive = "reponseinteressa00bell"
+openlibrary_edition = "OL25919770M"
+openlibrary_work = "OL17342851W"
+
+[scan]
+file = "reponseinteressa00bell.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/reponseinteressa00bell"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Belloy, Jean Baptiste de, 1709-1808"
+role = "author"
+
+[[resp]]
+name = "Favet, Pierre-Antoine"
+role = "publisher"
+
+[[resp]]
+name = "Chez P.A. Favet, imprimeur du roi & de la ville, rue du Pavillon"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_829792"
+
+[[text]]
+file = "reponseinteressa00bell.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "reponseinteressa00bell.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "reponseinteressa00bell.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "reponseinteressa00bell.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,68 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "regi00lebe"
+type = "pamphlet"
+title = "Regi"
+language = "la"
+place = "Paris"
+date = "1744"
+note = "Binder's title: Conquest du roy. Caption title. Scanner's note: No copyright page found. No table-of-contents pages found. Title and cover pages combined."
+url = "https://archive.org/details/regi00lebe"
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "E 5 .L92705 v. 06 no. 68"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t51g6rh1w"
+internet_archive = "regi00lebe"
+
+[scan]
+file = "regi00lebe.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/regi00lebe"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Le Beau, Jean Louis,1721-1766"
+role = "author"
+
+[[resp]]
+name = "Le Beau, Jean Louis, 1721-1766"
+role = "author"
+
+[[resp]]
+name = "Thiboust"
+role = "publisher"
+
+[[text]]
+file = "regi00lebe.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "la"
+
+[[text]]
+file = "regi00lebe.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "la"
+
+[[text]]
+file = "regi00lebe.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "la"
+
+[[text]]
+file = "regi00lebe.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "la"

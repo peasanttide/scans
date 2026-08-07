@@ -1,0 +1,84 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "rapportfaitaunom00roye"
+type = "pamphlet"
+title = "Rapport fait au nom d'une commission spécial, par Royer (de l'Ain) : séance su 8 fructidor, an 4."
+language = "fr"
+place = "A Paris"
+date = "1796"
+note = "Caption title. At head of title: Corps législatif. Conseil des cinq-cents. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  IV:1, 30337. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained, marked and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/rapportfaitaunom00roye"
+subject = [
+    "France",
+    "Women in church work",
+    "Wages",
+    "Catholic nonjurors",
+    "Church and state",
+]
+extent = "4 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 24812"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3xt10n5k"
+internet_archive = "rapportfaitaunom00roye"
+
+[scan]
+file = "rapportfaitaunom00roye.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/rapportfaitaunom00roye"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Royer, Jean Baptiste, 1733-1807"
+role = "author"
+
+[[resp]]
+name = "France. Corps législatif (1795-1814). Conseil des cinq-cents"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_850077"
+
+[[text]]
+file = "rapportfaitaunom00roye.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rapportfaitaunom00roye.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rapportfaitaunom00roye.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rapportfaitaunom00roye.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

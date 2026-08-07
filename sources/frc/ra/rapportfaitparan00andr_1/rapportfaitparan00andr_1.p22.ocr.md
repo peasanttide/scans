@@ -1,0 +1,54 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: rapportfaitparan00andr_1
+page: 22
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 2809
+h: 3805
+dpi: 350
+---
+
+ao
+
+reûeurs de jury , dans l’impuilTance abfolue de tenir à leur pofte ,
+l’ont abandonné , les uns en remettant leur démÜTîon , les autres en
+fufpendant leurs fon étions jufqu’à ce qu’ils foi^nt mis à portée de
+les reprendre. De là une interruption des pourfuites peut-être les plus
+eirentielles à la répreflîon des délits , ôc la déforganifation inévitable
+des tribunaux.
+
+Il eft inftant de remédier à ces maux qui prennent leur fource
+dans la pénurie des fonds & dans la rentrée tardive des centimes ad-
+ditionnels, Les fonétionnaires publics de l’ordre, judiciaire doivent d’au-
+tant moins en être viétimes, qu’ils ne font nullement chargés de
+l’alliette & du recouvrement des contributions.
+
+Le Dlreétoire exécutif penfe qu’il conviendroit, i*. de déterminer
+d’une manière préclfe les menus frais des bureaux de conciliation &
+des tribunaux de police j 2 °. d’ordonner que les fommes allouées à
+ce titre , aind que pour les menues dépenfes des autres tribunaux ,
+feront mifes fix mois d’avance à leur difpofition \ 3®. d’avifer enfin
+à des mefures dont l’efficacité affiure & le prompt acquit de l’arriéré,
+& à l’avenir le paiement exad du traitement des membres des tri-
+bunaux, ainfi que de leurs menues dépenfes.
+
+Le Direétoire exécutif vous invite, citoyens repréfentans , à prendre
+ces objets dans la plus prompte confidération.
+
+Le préfîdent du Direéloire exécutif.
+
+Signé t TREILHARD.
+
+Par le Direéloire exécutif, le fecrétaire général.
+
+Signée Lagardï,
+
+Pour copie conforme ,
+
+Les repréfentans du peuple , fecrétaires du Confeil des Cinq-Cents.
+Signé ^ Poncît-Delpëch , Reverchon, Talot.
+
+A PARIS, DE L’IMPRIMERIE NATIONALE.
+
+Brumaire an 7,

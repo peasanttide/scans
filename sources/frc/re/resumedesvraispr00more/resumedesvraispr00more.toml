@@ -1,0 +1,77 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "resumedesvraispr00more"
+type = "pamphlet"
+title = "Résumé des vrais principes servant de base à une bonne loi définitive sur les transactions."
+language = "fr"
+place = "Paris"
+date = "1798"
+note = "Caption title. Signed: Morel. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  III, 25205. Scanner's note: Title page located on front cover. No copyright page found. No table-of-contents pages found. Skewed text. Worn, damaged pages and cover."
+url = "https://archive.org/details/resumedesvraispr00more"
+subject = [
+    "Life annuities",
+    "Assignats",
+    "Debtor and creditor",
+    "Finance, Public",
+]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 12658"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t45q9nm5f"
+internet_archive = "resumedesvraispr00more"
+openlibrary_edition = "OL25927765M"
+openlibrary_work = "OL17350331W"
+
+[scan]
+file = "resumedesvraispr00more.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/resumedesvraispr00more"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Morel, fl. 1798"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie du journal de P. Sablier, vis-à-vis la place Vendôme"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_827108"
+
+[[text]]
+file = "resumedesvraispr00more.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "resumedesvraispr00more.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "resumedesvraispr00more.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "resumedesvraispr00more.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

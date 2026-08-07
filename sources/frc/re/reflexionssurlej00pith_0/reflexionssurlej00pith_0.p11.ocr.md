@@ -1,0 +1,47 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: reflexionssurlej00pith_0
+page: 11
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 2646
+h: 4307
+dpi: 500
+---
+
+/
+
+îî
+
+wioment, le désir de vivre le rettdroit criminel,;
+et qu’en voyant sa potence , il espéreroit éviter
+son sort , en compromettant vos ennemis , ceux
+dont la vie fait ombrage à votre ambition. . . •
+
+celle qui échappa à vos poignards le 5 octobre
+
+quelle fut votre surprise , quel fut votre effroi 1
+vos remords vous épouvantoient y vous trem-
+bliez sur vos crimes, et votre victime étoit calme,
+résignée ^ elle ne tenoit déjà plus a la terre que
+par de frêles liens qu’elle voyoit se rompre sans
+regret. Elle sembioit jôuir déjà de la récompense
+due à sa vertu et quand l’avenir devenoit votre
+bourreau , sa bouche vous pardonnoit sa mort ,
+et prévoyoit déjà vos supplices.
+
+Quel moment effroyable que celui où un
+homme vertueux et innocent , victime des com-
+plots des plus vils des humains , et condamné à
+la mort par ceux - là mêmie , dont l’existence est
+un crime , voit ce triomphe de la scélératesse
+humaine , et s’en voit-la victime. Quel instant que
+celui où tous les tourm.ens de l’ignominie , entou-
+rant un infortuné , il faut marcher à la mort , et
+laisser une épouse chérie, des enfans livrés à leur
+malheur et à l’horreur des plus cruels souvenirs !
+Quel moment que celüi où, jetté entre les mains
+d’un bourreau , on est plus outragé par l’atroce
+pitié de ses juges, que par la férocité même de
+
+)

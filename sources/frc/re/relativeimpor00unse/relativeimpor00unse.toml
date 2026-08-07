@@ -1,0 +1,91 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "relativeimpor00unse"
+type = "pamphlet"
+title = "Loi relative à l'importation du tabac : donnée à Paris, le 24 avril 1791"
+language = "fr"
+place = "A Paris"
+date = "1791"
+note = """Caption title. At right of title: No. 826. "Signé Louis. Et plus bas, M.L.F. DuPort"--P. 3. Imprint from colophon. Martin & Walter. Révolution française. "Décret de l'Assemblée nationale, des 1er. & 4 mars 1791"--P. [1]-3. Bibliography: Martin & Walter. Révolution française, IV:2, 9143. Scanner's note: Title page located on front cover. No copyright page found. No table-of-contents pages found. Worn, damaged and discolored pages and cover. Skewed text. Uneven binding."""
+url = "https://archive.org/details/relativeimpor00unse"
+subject = [
+    "Tobacco industry",
+    "Foreign trade regulation",
+]
+extent = "3 p. ; 24 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10340 no. 63"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8cg4vs4b"
+internet_archive = "relativeimpor00unse"
+openlibrary_edition = "OL26230255M"
+openlibrary_work = "OL17625231W"
+
+[scan]
+file = "relativeimpor00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/relativeimpor00unse"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Sovereign (1774-1792 : Louis XVI)"
+role = "author"
+
+[[resp]]
+name = "Louis XVI, King of France, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "Duport-Dutertre, Marguerite-Louis-François, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "Imprimerie royale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie royale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_852833"
+
+[[text]]
+file = "relativeimpor00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "relativeimpor00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "relativeimpor00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "relativeimpor00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

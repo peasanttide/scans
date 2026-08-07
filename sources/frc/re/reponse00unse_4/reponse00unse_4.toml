@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "reponse00unse_4"
+type = "pamphlet"
+title = "Réponse du roi au Parlement."
+language = "fr"
+place = "France"
+date = "1787"
+note = """Caption title. Not in Martin & Walter. Révolution française. "Dimanche 29 juillet 1787. Réponse du roi aux remontrances du Parlement, arrêtés le 24 du présent"--P.[1]-2. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/reponse00unse_4"
+subject = [
+    "Stamp duties",
+    "Fiscal policy",
+]
+extent = "2 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 21532"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t20d06p5b"
+internet_archive = "reponse00unse_4"
+openlibrary_edition = "OL26239484M"
+openlibrary_work = "OL17634024W"
+
+[scan]
+file = "reponse00unse_4.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/reponse00unse_4"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Louis XVI, King of France, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "France. Parlement (Paris)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_845238"
+
+[[text]]
+file = "reponse00unse_4.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "reponse00unse_4.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "reponse00unse_4.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "reponse00unse_4.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

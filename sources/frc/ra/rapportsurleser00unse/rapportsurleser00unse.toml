@@ -1,0 +1,95 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "rapportsurleser00unse"
+type = "pamphlet"
+title = "Rapport sur le service des étapes & convois militaires : fait au nom des Comités militaire et de l'ordinaire des finances /"
+language = "fr"
+place = "Paris"
+date = "1792"
+note = """Caption title. Imprint from colophon. "Militaire, no. 66"--Bottom of p. [1]. Martin & Walter. Révolution française. Proposal to transfer control over military convoys and food supplies from the Ministère de l'intérieur to the Ministère de la guerre. Bibliography: Martin & Walter.  Révolution française,  III, 18411. Scanner's note: No copyright page found. No table-of-contents pages found. Title and cover pages combined."""
+url = "https://archive.org/details/rapportsurleser00unse"
+subject = [
+    "France. Armée",
+    "France. Ministère de l'intérieur",
+    "France. Ministère de la guerre",
+    "Military convoys",
+    "Operational rations (Military supplies)",
+    "Military law",
+]
+extent = "4 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 20319"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9x11bg18"
+internet_archive = "rapportsurleser00unse"
+openlibrary_edition = "OL26238119M"
+openlibrary_work = "OL17632670W"
+
+[scan]
+file = "rapportsurleser00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/rapportsurleser00unse"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Laffon de Ladébat, André-Daniel, 1746-1829"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale législative (1791-1792). Comité militaire"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale législative (1791-1792). Comité de l'ordinaire des finances"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale législative (1791-1792)"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_842559"
+
+[[text]]
+file = "rapportsurleser00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rapportsurleser00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rapportsurleser00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rapportsurleser00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

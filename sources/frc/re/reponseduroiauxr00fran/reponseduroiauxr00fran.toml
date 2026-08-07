@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "reponseduroiauxr00fran"
+type = "pamphlet"
+title = "Reponse du roi aux remontrances [du Parlement] du 27. novembre 1755."
+language = "fr"
+place = "A Paris"
+date = "1756"
+note = """Caption title. Imprint at foot of p. 196. "Arrêté du Parlement sur la reponse du roi du 27. janvier 1756": p. 194-196. Extracted from an unidentified publication. Scanner's note: No copyright page found. No table-of-contents pages found.  Text is lost in the binding. Uneven binding. Skewed text. Title is on the cover."""
+url = "https://archive.org/details/reponseduroiauxr00fran"
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case DC133.4.P232 P2 1753 v. 1 no. 4"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4vj1k16x"
+internet_archive = "reponseduroiauxr00fran"
+
+[scan]
+file = "reponseduroiauxr00fran.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/reponseduroiauxr00fran"
+ppi = 650
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Sovereign (1715-1774 : Louis XV)"
+role = "author"
+
+[[resp]]
+name = "France. Sovereign (1715-1774 : Louis XV)"
+role = "author"
+
+[[resp]]
+name = "France. Parlement (Paris)"
+role = "author"
+
+[[resp]]
+name = "Chez P.G. Simon"
+role = "publisher"
+
+[[text]]
+file = "reponseduroiauxr00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "reponseduroiauxr00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "reponseduroiauxr00fran.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "reponseduroiauxr00fran.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

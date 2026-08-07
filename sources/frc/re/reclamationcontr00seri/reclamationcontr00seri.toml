@@ -1,0 +1,78 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "reclamationcontr00seri"
+type = "pamphlet"
+title = "Réclamation contre la loi du 12 frimaire, portant suspension du remboursement des capitaux"
+language = "fr"
+place = "Paris?"
+date = "1795"
+note = "Caption title. Signed: Pierre Seriziat. Imprint from colophon. Not in Martin & Walter. Révolution française. Concerns the the law of 12 frimaire an IV. Scanner's note: Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text. No title page found. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/reclamationcontr00seri"
+subject = [
+    "Seriziat, Pierre",
+    "Seriziat, Joseph",
+    "Debtor and creditor",
+    "Assignats",
+    "Distribution of decedents' estates",
+]
+extent = "3 p. ; 25 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 27217"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8cg4vq6d"
+internet_archive = "reclamationcontr00seri"
+openlibrary_edition = "OL26229091M"
+openlibrary_work = "OL17624125W"
+
+[scan]
+file = "reclamationcontr00seri.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/reclamationcontr00seri"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Seriziat, Pierre"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Pougin, rue des Pères, no. 9"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_868142"
+
+[[text]]
+file = "reclamationcontr00seri.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "reclamationcontr00seri.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "reclamationcontr00seri.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "reclamationcontr00seri.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

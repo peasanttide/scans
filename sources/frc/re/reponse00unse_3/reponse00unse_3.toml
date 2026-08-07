@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "reponse00unse_3"
+type = "pamphlet"
+title = "Réponse du roi, du 15 juillet 1787."
+language = "fr"
+place = "France"
+date = "1787"
+note = """Caption title. Martin & Walter. Révolution française. "Arrêté du Parlement, du 16 juillet 1787, 4 heures de relevée"--[1] p. at end. Bibliography: Martin & Walter.  Révolution française,  III, 21744. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/reponse00unse_3"
+subject = [
+    "France. Parlement (Paris)",
+    "Executive-legislative relations",
+    "Debts, Public",
+]
+extent = "2, [1] p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 21531"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4km4jj53"
+internet_archive = "reponse00unse_3"
+openlibrary_edition = "OL26239481M"
+openlibrary_work = "OL17634021W"
+
+[scan]
+file = "reponse00unse_3.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/reponse00unse_3"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Louis XVI, King of France, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "France. Parlement (Paris)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_845237"
+
+[[text]]
+file = "reponse00unse_3.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "reponse00unse_3.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "reponse00unse_3.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "reponse00unse_3.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

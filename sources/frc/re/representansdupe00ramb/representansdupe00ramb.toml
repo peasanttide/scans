@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "representansdupe00ramb"
+type = "pamphlet"
+title = "Représentans du peuple."
+language = "fr"
+place = "France"
+date = "1790"
+note = "Caption title. Author from Martin and Walter. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  IV:1, 28683. Scanner's note: Title is on the cover page. Skewed text. Damaged pages. Loose pages. Inconsistent page sizes. Text extends off of the page."
+url = "https://archive.org/details/representansdupe00ramb"
+subject = [
+    "Paper money",
+    "Debtor and creditor",
+    "Finance, Public",
+]
+extent = "4 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 12961"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5k97z46g"
+internet_archive = "representansdupe00ramb"
+openlibrary_edition = "OL25931421M"
+openlibrary_work = "OL17353649W"
+
+[scan]
+file = "representansdupe00ramb.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/representansdupe00ramb"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Rambaux"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_828050"
+
+[[text]]
+file = "representansdupe00ramb.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "representansdupe00ramb.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "representansdupe00ramb.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "representansdupe00ramb.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

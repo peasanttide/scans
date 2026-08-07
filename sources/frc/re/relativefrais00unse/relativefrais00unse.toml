@@ -1,0 +1,71 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "relativefrais00unse"
+type = "pamphlet"
+title = "Loi relative aux frais d'estimation des biens nationaux, du 11 août 1792, l'an quatrième de la liberté"
+language = "fr"
+place = "A Paris"
+date = "1792"
+note = """Caption title. At right of title: No. 2464. "L'Assemblée nationale, après avoir ouï le rapport ...". "Le Conseil exécutif provisoire mande et ordonne ...". Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover. No page numbers."""
+url = "https://archive.org/details/relativefrais00unse"
+subject = [
+    "Public lands",
+    "Government sale of real property",
+]
+extent = "[1] p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10344 no. 7"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0xq25261"
+internet_archive = "relativefrais00unse"
+openlibrary_edition = "OL26230185M"
+openlibrary_work = "OL17625161W"
+
+[scan]
+file = "relativefrais00unse.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/relativefrais00unse"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Assemblée nationale législative (1791-1792)"
+role = "author"
+
+[[resp]]
+name = "Prault, Louis-François, 1734-1806"
+role = "publisher"
+
+[[resp]]
+name = "France. Convention nationale. Conseil exécutif provisoire"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Prault, au Palais"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_858580"
+
+[[text]]
+file = "relativefrais00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "relativefrais00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

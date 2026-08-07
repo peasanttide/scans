@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "reponse00unse_20"
+type = "pamphlet"
+title = "Réponse du roi des Français a l'empereur Léopold : proclamation du roi, concernant le mantien du bon ordre sur les frontières."
+language = "fr"
+place = "France?"
+date = "1792"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title page and cover are combined. Damaged, stained and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/reponse00unse_20"
+extent = "4 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 21560"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2d84kc47"
+internet_archive = "reponse00unse_20"
+openlibrary_edition = "OL26239381M"
+openlibrary_work = "OL17633920W"
+
+[scan]
+file = "reponse00unse_20.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/reponse00unse_20"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Louis XVI, King of France, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "Leopold II, Holy Roman Emperor, 1747-1792"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Rochebrun et Mazet"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_845002"
+
+[[text]]
+file = "reponse00unse_20.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "reponse00unse_20.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "reponse00unse_20.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "reponse00unse_20.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,92 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "rapportetprojetd00poul"
+type = "pamphlet"
+title = "Rapport et projet de décret présentés au nom des Comités d'aliénation & des domaines, par Poullain-Grandprey, député par le département des Vosges, sur les baux des biens d'émigrés dans lesquels sont comprises quelques parties de forêts."
+language = "fr"
+place = "Paris"
+date = "1794"
+note = "Caption title. At head of title: Convention nationale. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  IV:1, 28001."
+url = "https://archive.org/details/rapportetprojetd00poul"
+subject = [
+    "Refugee property",
+    "Forests and forestry",
+    "Leases",
+]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 12905"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1qg3g71z"
+internet_archive = "rapportetprojetd00poul"
+openlibrary_edition = "OL25931717M"
+openlibrary_work = "OL17353946W"
+
+[scan]
+file = "rapportetprojetd00poul.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/rapportetprojetd00poul"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Poullain de Grandprey, Joseph Clément, 1744-1826"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale. Comité d'aliénation"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale. Comité des domaines"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_827571"
+
+[[text]]
+file = "rapportetprojetd00poul.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rapportetprojetd00poul.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rapportetprojetd00poul.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rapportetprojetd00poul.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

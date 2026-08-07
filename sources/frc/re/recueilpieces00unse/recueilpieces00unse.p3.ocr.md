@@ -1,0 +1,40 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: recueilpieces00unse
+page: 3
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 3103
+h: 4095
+dpi: 500
+---
+
+HOMMAGE
+
+A L’ASSEMBLÉE NATIONALE
+
+DU MODELE DE LA BASTILLE.
+
+L’AURORE DE LA LIBERTÉ,
+
+O U
+
+LE despotisme EXPIRANT:
+
+DÉLIBÉRATIONS
+
+ET DIFFÉRENTES PIECES
+
+RELATIVES
+
+AUX CADAVRES TROUVÉS DANS LA BASTILLE,
+
+DÉCLARATION
+
+DES DROITS DE L’HOMME ET DU CITOYEN,
+
+RÉFLEXIONS D’UN CITOYEN
+
+A SES FRÈRES D’ARMES.
+
+1790.

@@ -1,0 +1,95 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "rapportsurlesbib00coup"
+type = "pamphlet"
+title = "Rapport sur les bibliothèques nationales /"
+language = "fr"
+place = "A Paris"
+date = "1794"
+note = "Caption title. At head of title: Convention nationale. Imprint from colophon. Session date from Martin & Walter: 9 pluv. an II. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  I, 8514. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover page. Skewed text. Damaged, loose pages."
+url = "https://archive.org/details/rapportsurlesbib00coup"
+subject = [
+    "Bibliothèque nationale (France)",
+    "Public libraries",
+]
+extent = "6 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 16679"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t77t2pw39"
+internet_archive = "rapportsurlesbib00coup"
+openlibrary_edition = "OL26199707M"
+openlibrary_work = "OL17596373W"
+
+[scan]
+file = "rapportsurlesbib00coup.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/rapportsurlesbib00coup"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Coupé, Jacques-Michel, 1737-1809"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_833942"
+
+[[text]]
+file = "rapportsurlesbib00coup.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rapportsurlesbib00coup.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rapportsurlesbib00coup.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rapportsurlesbib00coup.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rapportsurlesbib00coup.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rapportsurlesbib00coup.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

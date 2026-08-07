@@ -1,0 +1,65 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: rapportfaitaunom00cour
+page: 243
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 2451
+h: 4362
+dpi: 500
+---
+
+( 2 43 )
+
+pour amsLdîre , ni brûlé , ni ôté aucune ressource à
+l'ennemi ; je ne sais ce que tout cela veut dire , j'en suis
+bien désolé moi-même . Signé WESTERMANN.
+
+Autre lettre de Westermann.
+
+Delà Châtaigneraie, le 16 Septembre, i’an II.' de î*
+République française.
+
+Rien de nouveau. Hier, j’ai fait une toute petite
+expédition , je m’emparai du bourg de Mouilleron , et
+des hauteurs des treize moulins près ce bourg : j’ai brûié
+les moulins , et ensuite , à une lieue plus loin , un châ-
+teau à un des chefs des rebelles. J’ai délivré quelques pri-
+sonniers des nôtres a Mouilleron ; nous avons tué quel-
+ques rebelles et fait plusieurs prisonniers ; l’on m’assure
+même que plusieurs des membres du comité provisoire
+de Mouilleron ont été du nombre des tués.
+
+Je brûle bien d’envie d’aller plus loin, mais je n’ose,
+sans être commandé.
+
+Fayau est revenu de son erreur ; il a vu , par expé-
+rience , que la confiance des soldats dans leurs chefs était
+la force des armées 0
+
+Je vous envoie des imprimés du conseil supérieur de
+Louis prétendu XVII ; vous verrez que tout est em-
+ployé pour nous séduire ; entr’autres , vous lirez dans
+un passage une vérité qui concerne les généraux de la
+République. Les armées étant purgées des, généraux aris-
+tocrates , il convient de donner à ceux conservés plus de
+consistance et de confiance, et à ne pas les faire marcher
+continuellement à la barre , sur une simple dénonciation
+d’un premier -venu. II me semble que, pour connaître la
+Vérité , il vaudrait beaucoup mieux faire juger les
+généraux par les tribunaux établis à la suite des armées „
+plutôt que de les faire courir à Paris , où vous leur faites
+perdre leur temps et ruiner leur bourse , sans être à
+portée d’acquérir les preuves qui n’échapperont point
+aux tribunaux.
+
+Les mauvais temps commencent ici ; il est temps qùc
+cela finisse. Après cette guerre, je voudrais bien être
+envoyé avec uneHégion sur Toulon, ensuite contre Iê$
+Espagnols.
+
+Signé Westermann.
+
+q a
+
+1 . a.

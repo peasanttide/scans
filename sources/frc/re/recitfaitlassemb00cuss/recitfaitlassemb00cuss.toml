@@ -1,0 +1,96 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "recitfaitlassemb00cuss"
+type = "pamphlet"
+title = "Récit fait à l'Assemblée nationale, le 4 septembre 1790, par M. de Cussy, député de Caen, de différentes actions courageuses de Michel Cabien, sergent des Milices-Gardes-Côtes d'Oistreham : imprimé par ordre de l'Assemblée nationale, avec la réponse de M. le président."
+language = "fr"
+place = "A Paris"
+date = "1790"
+note = """Caption title. Imprint from colophon. "Procès-verbal, no. 401"--Bottom of p. [1]. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  I, 9036. Scanner's note: No copyright page found. No table-of-contents pages found.  Title on cover. Damaged, stained pages and cover.  Skewed text."""
+url = "https://archive.org/details/recitfaitlassemb00cuss"
+subject = [
+    "Cabien, Michel",
+    "Military ceremonies, honors, and salutes",
+    "Anglo-French War, 1755-1763",
+]
+extent = "6 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 16860"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8pc80c99"
+internet_archive = "recitfaitlassemb00cuss"
+openlibrary_edition = "OL26199774M"
+openlibrary_work = "OL17596441W"
+
+[scan]
+file = "recitfaitlassemb00cuss.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/recitfaitlassemb00cuss"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Cussy, Gabriel de, 1739-1793"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "Baudouin, François-Jean, 1759-1838"
+role = "publisher"
+
+[[resp]]
+name = "Chez Baudouin, imprimeur de l'Assemblée nationale, rue du Foin-St.-Jacques, no. 31"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_834702"
+
+[[text]]
+file = "recitfaitlassemb00cuss.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "recitfaitlassemb00cuss.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "recitfaitlassemb00cuss.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "recitfaitlassemb00cuss.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "recitfaitlassemb00cuss.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "recitfaitlassemb00cuss.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

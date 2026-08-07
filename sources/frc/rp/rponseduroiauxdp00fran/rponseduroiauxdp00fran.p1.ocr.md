@@ -1,0 +1,73 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: rponseduroiauxdp00fran
+page: 1
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 2526
+h: 4795
+dpi: 650
+---
+
+*• Oa- fa
+
+''ùçyjjJjn J ^ t/w aa** — ' J 4 ^
+
+, JL*> ^►ÔUOtVfcp |)»^Ür
+
+* %?*
+
+i "
+
+i
+
+lis f(MA MO
+
+7
+
+OtAI Î/UI/O rtjy iyj
+
+, -j jj
+
+; ^
+
+,-u/v
+
+t,t4/U-^ S) t tn ji/y^u-U jv^S x
+
+^dhurfyu/^ & /vôocex^L- ; J?//va j ~
+« ^ Vwn ÿ&s\M Oja. -»
+
+T- if < *
+
+7<- «s <f*
+
+t~j~
+
+7*- ÎUM ût&uÿT^ y>JL ua^
+
+J <X- JLa__-
+
+W^I ÿlM*ÿk {tords- ^.AaaZ cAjl^
+
+~ \]o J{fl^Jys> UJ%&
+
+ri "
+
+0 *i iitVvM^ • -Cvu
+
+«J*>
+
+X'
+
+fl ^
+
+\AA-d>
+
+$ayw
+
+l \xruL
+
+?
+
+J <yZ ZtA/Jr- JLi u f^O-> IM-dbCUs ,

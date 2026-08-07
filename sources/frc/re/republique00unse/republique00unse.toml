@@ -1,0 +1,59 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "republique00unse"
+type = "pamphlet"
+title = "Republique francaise, une, indivisible et democratique : vive la Montagne : l'an 2 de la liberte"
+language = "fr"
+place = "A Commune-Affranchie [Lyon"
+date = "1793"
+note = """Etched oval medallion with scene encircled by title and publication information. "Prix 4 sols.". Subject: A common man, perhaps a Montagnard, holds a raised sabre above the head of a kneeling crowned man. The crowned man asks for "grace", while the armed man replies, "Il n'est plus tems.". Scanner's note: Title page located on front cover. No copyright page found. No table-of-contents pages found. Worn, damaged and discolored pages and cover. Skewed text. Uneven binding."""
+url = "https://archive.org/details/republique00unse"
+subject = [
+    "Montagnards",
+    "Monarchy",
+]
+extent = "1 print :$betching ; plate mark 13 x 11 cm, on sheet 22 x 17 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 27554"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7tn2cf1b"
+internet_archive = "republique00unse"
+openlibrary_edition = "OL26229420M"
+openlibrary_work = "OL17624454W"
+
+[scan]
+file = "republique00unse.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/republique00unse"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Chez les mds. d'estampes"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_871092"
+
+[[text]]
+file = "republique00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "republique00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

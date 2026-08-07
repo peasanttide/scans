@@ -1,0 +1,84 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "rapportfaitaunom00real"
+type = "pamphlet"
+title = "Rapport fait au nom de la commission chargée d'examiner la pétition du citoyen Seauve et de la citoyenne Ducluzeau, relative à l'exploitation d'une mine de fer /"
+language = "fr"
+place = "A Paris"
+date = "1796"
+note = "Caption title. At head of title: Corps législatif. Conseil des cinq-cents. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  IV:1, 28839. Scanner's note: Title page and cover are combined. Damaged, stained, marked and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/rapportfaitaunom00real"
+subject = [
+    "Seauve, Jean-Joseph",
+    "Ducluzeau, citoyenne",
+    "Iron mines and mining",
+    "Iron industry and trade",
+    "Land tenure",
+]
+extent = "4 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 24307"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4qk2pv5x"
+internet_archive = "rapportfaitaunom00real"
+
+[scan]
+file = "rapportfaitaunom00real.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/rapportfaitaunom00real"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Réal, Guillaume André, 1755-1832"
+role = "author"
+
+[[resp]]
+name = "France. Corps législatif (1795-1814). Conseil des cinq-cents"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_849371"
+
+[[text]]
+file = "rapportfaitaunom00real.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rapportfaitaunom00real.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rapportfaitaunom00real.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rapportfaitaunom00real.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

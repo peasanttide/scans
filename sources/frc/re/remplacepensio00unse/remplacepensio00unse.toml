@@ -1,0 +1,88 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "remplacepensio00unse"
+type = "pamphlet"
+title = "Loi qui remplace, par des pensions, les capitaux accordés aux membres du clergé et des établissemens religieux supprimés dans les neuf départemens réunis : du 11 ventose an VIII de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1800"
+note = """Caption title. At head of title: Au nom de la République française. Signed: Bonaparte, premier consul. Contre-signé, le secrétaire d'État, Hugues B. Maret. Imprint from colophon. "No. 9"--Bottom of p. [1]; "No. 1102"--Top of p. [1]. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text. Only one numbered page."""
+url = "https://archive.org/details/remplacepensio00unse"
+subject = [
+    "Pensions",
+    "Secularization",
+    "Clergy",
+]
+extent = "2 p. ; 28 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10350 no. 91"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9w147111"
+internet_archive = "remplacepensio00unse"
+openlibrary_edition = "OL26229421M"
+openlibrary_work = "OL17624455W"
+
+[scan]
+file = "remplacepensio00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/remplacepensio00unse"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Consulat (1799-1804)"
+role = "author"
+
+[[resp]]
+name = "Napoleon I, Emperor of the French, 1769-1821"
+role = "author"
+
+[[resp]]
+name = "Maret, Hugues-Bernard, duc de Bassano, 1763-1839"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois, place du Carrousel"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_859403"
+
+[[text]]
+file = "remplacepensio00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "remplacepensio00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "remplacepensio00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "remplacepensio00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

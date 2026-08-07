@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "reponse00unse_18"
+type = "pamphlet"
+title = "Réponse du roi, a M. le premier président du Parlement de Paris, du 26 septembre 1788, sur l'arrêté de la veille."
+language = "fr"
+place = "A Versailles"
+date = "1788"
+note = "Caption title. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  III, 21753. Scanner's note: No copyright page found. No table-of-contents pages found. Title page and cover are combined. Damaged, stained and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/reponse00unse_18"
+subject = [
+    "France. Parlement (Paris)",
+    "Executive-legislative relations",
+]
+extent = "2 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 21548"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2f81m84g"
+internet_archive = "reponse00unse_18"
+openlibrary_edition = "OL26239788M"
+openlibrary_work = "OL17634328W"
+
+[scan]
+file = "reponse00unse_18.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/reponse00unse_18"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Louis XVI, King of France, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "France. Parlement (Paris)"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de P-D. Pierres, premier imprimeur ordinaire du roi"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_844990"
+
+[[text]]
+file = "reponse00unse_18.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "reponse00unse_18.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "reponse00unse_18.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "reponse00unse_18.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

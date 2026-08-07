@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "relativeabolitio00unse"
+type = "pamphlet"
+title = "Loi relative à l'abolition de tous procès criminels & jugemens, depuis le 14 juillet 1789, pour faits relatifs à la liberté de la presse : du 3 septembre 1792, l'an quatriéme de la liberté"
+language = "fr"
+place = "A Paris"
+date = "1792"
+note = """Caption title. At right of title: No. 2435. "L'Assemblée nationale, après avoir décrété l'urgence, décrète ce qui suit"--P. [1]. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover. Only one numbered page."""
+url = "https://archive.org/details/relativeabolitio00unse"
+subject = [
+    "Freedom of the press",
+    "Press law",
+]
+extent = "2 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10344 no. 74"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2v45w35w"
+internet_archive = "relativeabolitio00unse"
+openlibrary_edition = "OL26230548M"
+openlibrary_work = "OL17625524W"
+
+[scan]
+file = "relativeabolitio00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/relativeabolitio00unse"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Assemblée nationale législative (1791-1792)"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale exécutive du Louvre"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_858647"
+
+[[text]]
+file = "relativeabolitio00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "relativeabolitio00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "relativeabolitio00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "relativeabolitio00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

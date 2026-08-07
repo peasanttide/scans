@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "rapportducomited00lebr_0"
+type = "pamphlet"
+title = "Rapport du Comité des finances /"
+language = "fr"
+place = "France?"
+date = "1790"
+note = "Caption title. Martin & Walter. Révolution française. École vétérinaire -- Observations -- Ferme de Maisonville. Bibliography: Martin & Walter.  Révolution française,  III, 20048. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover."
+url = "https://archive.org/details/rapportducomited00lebr_0"
+subject = [
+    "Ecole nationale vétérinaire d'Alfort",
+    "Finance, Public",
+    "Veterinary colleges",
+]
+extent = "4 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 20928"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t09w5pw49"
+internet_archive = "rapportducomited00lebr_0"
+openlibrary_edition = "OL26239129M"
+openlibrary_work = "OL17633679W"
+
+[scan]
+file = "rapportducomited00lebr_0.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/rapportducomited00lebr_0"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Lebrun, Charles-François, duc de Plaisance, 1739-1824"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791). Comité des finances"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_843757"
+
+[[text]]
+file = "rapportducomited00lebr_0.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rapportducomited00lebr_0.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rapportducomited00lebr_0.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rapportducomited00lebr_0.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

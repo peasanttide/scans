@@ -1,0 +1,73 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "regi00mout"
+type = "pamphlet"
+title = "Regi"
+language = "la"
+place = "Paris"
+date = "1744"
+note = "Caption title. Imprint from colophon. Printing privilege dated: 28 Nov. anno 1744. Initial; head-piece. No. 71 of 78 titles bound together. Scanner's note: No copyright page found. No table-of-contents pages found. Title and cover pages combined."
+url = "https://archive.org/details/regi00mout"
+subject = ["Louis XV, King of France, 1710-1774"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "E 5 .L92705 v. 06 no. 71"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2q58ns0s"
+internet_archive = "regi00mout"
+
+[scan]
+file = "regi00mout.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/regi00mout"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Mouton, Joseph, active 18th century"
+role = "author"
+
+[[resp]]
+name = "Le Beau, Charles, 1701-1778"
+role = "author"
+
+[[resp]]
+name = "Thiboust, Claude Charles, 1701-1757, printer"
+role = "publisher"
+
+[[resp]]
+name = "Ex typographiâ Thiboust, regis, nec-non Academiae Parisiensis typographi, in Plateâ Cameracensi"
+role = "publisher"
+
+[[text]]
+file = "regi00mout.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "la"
+
+[[text]]
+file = "regi00mout.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "la"
+
+[[text]]
+file = "regi00mout.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "la"
+
+[[text]]
+file = "regi00mout.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "la"

@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "reponse00unse_13"
+type = "pamphlet"
+title = "Réponse du roi, du 17 janvier 1788, aux représentations du Parlement du 9 du même mois."
+language = "fr"
+place = "France"
+date = "1788"
+note = """Caption title. Martin & Walter. Révolution française. "Arrêté du 18 janvier 1788"--P. 3. Bibliography: Martin & Walter.  Révolution française,  III, 21750. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/reponse00unse_13"
+subject = [
+    "Separation of powers",
+    "Lettres de cachet",
+]
+extent = "3 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 21541"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9382mh2v"
+internet_archive = "reponse00unse_13"
+openlibrary_edition = "OL26239785M"
+openlibrary_work = "OL17634325W"
+
+[scan]
+file = "reponse00unse_13.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/reponse00unse_13"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Louis XVI, King of France, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "France. Parlement (Paris)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_845247"
+
+[[text]]
+file = "reponse00unse_13.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "reponse00unse_13.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "reponse00unse_13.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "reponse00unse_13.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

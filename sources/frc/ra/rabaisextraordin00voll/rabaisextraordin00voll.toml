@@ -1,0 +1,69 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "rabaisextraordin00voll"
+type = "pamphlet"
+title = "Rabais extraordinaire de livres brochés qui se trouvent chez Calixte Volland, libraire, quai des Augustins, no. 24"
+language = "fr"
+place = "Paris"
+date = "1797"
+note = """Caption title. Publication date from BN. Catalogues de libraires. Printed in double columns. BN. Catalogues de libraires. "Le même libraire se charge de toutes les commissions pour la France et les pays étrangers, achète des bibliothèques entières, et fournit tous les articles de ses confrères au même prix qu'ils les annoncent"--At end. With prices. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Title page and cover are combined."""
+url = "https://archive.org/details/rabaisextraordin00voll"
+subject = ["Volland, Calixte, active 1787-1808"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 11 no. 7"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3422kt41"
+internet_archive = "rabaisextraordin00voll"
+
+[scan]
+file = "rabaisextraordin00voll.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/rabaisextraordin00voll"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Volland, Calixte,active 1787-188"
+role = "author"
+
+[[resp]]
+name = "Volland, Calixte, active 1787-1808"
+role = "bookseller"
+
+[[resp]]
+name = "Calixte Volland"
+role = "publisher"
+
+[[text]]
+file = "rabaisextraordin00voll.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rabaisextraordin00voll.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rabaisextraordin00voll.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rabaisextraordin00voll.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

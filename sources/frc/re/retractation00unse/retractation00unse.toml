@@ -1,0 +1,78 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "retractation00unse"
+type = "pamphlet"
+title = "Rétractation de Pierre-Jean-François Jourdain, prêtre, de la paroisse de Lingévres, diocèse de Bayeux."
+language = "fr"
+place = "France"
+date = "1797"
+note = "Caption title. Dated at end: Le 14 mars 1797. Not in Martin & Walter. Révolution française. Scanner's note: Title and cover are combined. Uneven binding. Skewed text. Damaged, stained and/or loose pages."
+url = "https://archive.org/details/retractation00unse"
+subject = [
+    "Jourdain, Pierre-Jean-François",
+    "Catholic nonjurors",
+    "Church and state",
+]
+extent = "4 p. ; 17 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 26363"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3cz8k271"
+internet_archive = "retractation00unse"
+
+[scan]
+file = "retractation00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/retractation00unse"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Tallien, Jean-Lambert, 1767-2643"
+role = "author"
+
+[[resp]]
+name = "Jourdain, Pierre-Jean-François"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_865372"
+
+[[text]]
+file = "retractation00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "retractation00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "retractation00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "retractation00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

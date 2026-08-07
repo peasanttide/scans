@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "relativeorgani00unse_0"
+type = "pamphlet"
+title = "Loi relative à l'organisation des ponts et chaussées : donnée à Paris, le 19 janvier 1791 : décret de l'Assemblée nationale, des 4 novembre, 14, 16, 28 et 31 décembre 1790, sur les ponts et chaussées"
+language = "fr"
+place = "A Paris"
+date = "1791"
+note = "Caption title. At right of title: No. 401. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages. Faint text."
+url = "https://archive.org/details/relativeorgani00unse_0"
+subject = [
+    "France. Assemblée des ponts et chaussées",
+    "Public works",
+]
+extent = "4 p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10339 no. 49"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9g49tq8m"
+internet_archive = "relativeorgani00unse_0"
+openlibrary_edition = "OL26226002M"
+openlibrary_work = "OL17621316W"
+
+[scan]
+file = "relativeorgani00unse_0.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/relativeorgani00unse_0"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépot des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_852352"
+
+[[text]]
+file = "relativeorgani00unse_0.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "relativeorgani00unse_0.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "relativeorgani00unse_0.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "relativeorgani00unse_0.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "rponse00cypi"
+type = "pamphlet"
+title = "Réponse /"
+language = "fr"
+place = "s.l."
+date = "1790"
+note = "Caption title. Without imprint. In verse. Not in Martin & Walter [edition 1: first line on p.4: Que ce peuple imbécille]. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on cover page. Damaged, stained and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/rponse00cypi"
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 7905"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1qg3sd3w"
+internet_archive = "rponse00cypi"
+openlibrary_edition = "OL26215825M"
+openlibrary_work = "OL17611692W"
+
+[scan]
+file = "rponse00cypi.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/rponse00cypi"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Cypiere"
+role = "author"
+
+[[resp]]
+name = "Toulouse (France)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_792"
+
+[[text]]
+file = "rponse00cypi.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rponse00cypi.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rponse00cypi.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rponse00cypi.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

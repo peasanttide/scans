@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "reponsedemdubois00dubo"
+type = "pamphlet"
+title = "Réponse de M. Dubois de Crancé a ses improbateurs."
+language = "fr"
+place = "Paris"
+date = "1791"
+note = "Caption title. Publisher name from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  II, 11156. Scanner's note: No copyright page found. No table-of-contents pages found. Damaged, stained pages and cover. Title on cover."
+url = "https://archive.org/details/reponsedemdubois00dubo"
+subject = [
+    "France. Armée. Garde nationale",
+    "Loyalty oaths",
+    "Internal security",
+]
+extent = "3 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 17650"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t40s4r43p"
+internet_archive = "reponsedemdubois00dubo"
+openlibrary_edition = "OL26193898M"
+openlibrary_work = "OL17590665W"
+
+[scan]
+file = "reponsedemdubois00dubo.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/reponsedemdubois00dubo"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Dubois de Crancé, Edmond-Louis-Alexis, 1746-1814"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_836454"
+
+[[text]]
+file = "reponsedemdubois00dubo.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "reponsedemdubois00dubo.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "reponsedemdubois00dubo.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "reponsedemdubois00dubo.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

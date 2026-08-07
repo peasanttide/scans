@@ -1,0 +1,86 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "raisonsdemonopin00pema"
+type = "pamphlet"
+title = "Raisons de mon opinion, prononcées à la séance permanente des 16 et 17 janvier 1763 [i.e 1793], l'an deuxième de la République, sur l'affaire de Louis XVI : imprimées par ordre de la Convention nationale"
+language = "fr"
+place = "Paris"
+date = "1793"
+note = "Caption title. At head of title: Convention nationale. Signed: Joseph Pemartin. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française, III, 26733. Scanner's note: No copyright page found. No table-of-contents pages found.  Title and cover are combined. Uneven binding. Skewed text. Damaged, stained and/or loose pages."
+url = "https://archive.org/details/raisonsdemonopin00pema"
+subject = [
+    "Louis XVI, King of France, 1754-1793",
+    "Legislative bodies as courts",
+    "Separation of powers",
+]
+extent = "2 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing DC137.08 .F73 v.14, no. 7"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0qs05f80"
+internet_archive = "raisonsdemonopin00pema"
+
+[scan]
+file = "raisonsdemonopin00pema.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/raisonsdemonopin00pema"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Pémartin, Joseph, 1754-approximately 1842"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "Louis XVI Trial and Execution Collection (Newberry Library) ICN"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_845679"
+
+[[text]]
+file = "raisonsdemonopin00pema.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "raisonsdemonopin00pema.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "raisonsdemonopin00pema.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "raisonsdemonopin00pema.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

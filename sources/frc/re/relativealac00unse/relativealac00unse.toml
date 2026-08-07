@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "relativealac00unse"
+type = "pamphlet"
+title = "Loi relative à l'action en rescision pour cause de lésion d'outremoitié, contre les ventes d'immeubles pendant la dépréciation du papier-monnaie : du 19 floréal an VI de la République française"
+language = "fr"
+place = "A Paris"
+date = "1798"
+note = """Caption title. At head of title: No. 696. Au nom de la République française. Imprint from colophon. "No. 2"--Bottom of p. [1]. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."""
+url = "https://archive.org/details/relativealac00unse"
+subject = [
+    "Rescission (Law)",
+    "Devaluation of currency",
+    "Vendors and purchasers",
+]
+extent = "3 p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10349 no. 88"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5hb48q5x"
+internet_archive = "relativealac00unse"
+openlibrary_edition = "OL26229715M"
+openlibrary_work = "OL17624748W"
+
+[scan]
+file = "relativealac00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/relativealac00unse"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_859927"
+
+[[text]]
+file = "relativealac00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "relativealac00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "relativealac00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "relativealac00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,69 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "rapportfaitparba00banc"
+type = "pamphlet"
+title = "Rapport fait par Bancal, au nom d'une commission composée des représentans du peuple Grelier, Laloy & Bancal pour examiner les élections de l'assemblée primaire du canton de Vertou, département de la Loire-Inférieure séance du 10 floréal an V."
+language = "fr"
+date = "1797"
+note = "Caption title. At head of title: Corps législatif, Conseil des cinq-cents. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,I, 1301."
+url = "https://archive.org/details/rapportfaitparba00banc"
+subject = ["Elections"]
+extent = "4 p. ;20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "CaseFRC10605"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9f50q847"
+internet_archive = "rapportfaitparba00banc"
+
+[scan]
+file = "rapportfaitparba00banc.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/rapportfaitparba00banc"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Bancal Des Issarts, Jean Henri,1750-1826"
+role = "author"
+
+[[resp]]
+name = "A Paris :De l'Imprimerie nationale,"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_823645"
+
+[[text]]
+file = "rapportfaitparba00banc.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "rapportfaitparba00banc.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "rapportfaitparba00banc.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "rapportfaitparba00banc.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"

@@ -1,0 +1,77 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "reclamations00ramb"
+type = "pamphlet"
+title = "Réclamations."
+language = "fr"
+place = "Paris"
+date = "1797"
+note = "Caption title. Signed at end: Rambaux. Imprint from colophon. Publication date from Martin & Walter. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  IV:1, 28684. Scanner's note: Title is on the cover page. Damaged pages."
+url = "https://archive.org/details/reclamations00ramb"
+subject = [
+    "Debtor and creditor",
+    "Finance, Public",
+]
+extent = "4 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 12962"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4pk54x4j"
+internet_archive = "reclamations00ramb"
+
+[scan]
+file = "reclamations00ramb.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/reclamations00ramb"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Rambaux"
+role = "author"
+
+[[resp]]
+name = "Imbert, J.-B. (Jean-Baptiste), fl. 1794-1820"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie de B. Imbert, cloître Notre-Dame"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_828051"
+
+[[text]]
+file = "reclamations00ramb.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "reclamations00ramb.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "reclamations00ramb.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "reclamations00ramb.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

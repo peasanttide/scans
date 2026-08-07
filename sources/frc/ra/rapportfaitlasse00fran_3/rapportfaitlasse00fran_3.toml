@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "rapportfaitlasse00fran_3"
+type = "pamphlet"
+title = "Rapport fait a l'Assemblée nationale /"
+language = "fr"
+place = "Paris"
+date = "1791"
+note = "Caption title. Imprint from colophon. Martin & Walter IV 2: 1958 (which specifies: déclarations du roi et de la reine après leur retour à Paris). Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Skewed text. Uneven binding. Damaged, loose, stained pages."
+url = "https://archive.org/details/rapportfaitlasse00fran_3"
+subject = [
+    "Marie Antoinette, Queen, consort of Louis XVI, King of France, 1755-1793",
+    "France. Sovereign (1774-1792 : Louis XVI)",
+]
+extent = "3 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 1004"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t03z39895"
+internet_archive = "rapportfaitlasse00fran_3"
+openlibrary_edition = "OL26207274M"
+openlibrary_work = "OL17603541W"
+
+[scan]
+file = "rapportfaitlasse00fran_3.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/rapportfaitlasse00fran_3"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791). Commissaires nommés pour recevoir les déclarations du roi et de la reine"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791). Commissaires nommés pour recevoir les déclarations du roi et de la reine"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_40881"
+
+[[text]]
+file = "rapportfaitlasse00fran_3.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rapportfaitlasse00fran_3.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rapportfaitlasse00fran_3.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rapportfaitlasse00fran_3.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

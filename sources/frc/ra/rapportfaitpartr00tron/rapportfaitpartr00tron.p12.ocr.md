@@ -1,0 +1,10 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: rapportfaitpartr00tron
+page: 12
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 2890
+h: 4399
+dpi: 500
+---

@@ -1,0 +1,70 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "reglementfait00unse_5"
+type = "pamphlet"
+title = "Règlement fait par le roi, pour autoriser la sénéchaussée de Nîmes à envoyer quatre députations aux États-généraux : du 8 mars 1789"
+language = "fr"
+place = "A Paris"
+date = "1789"
+note = """Caption title. At right of title: Nîmes. "Signé Louis, et plus bas, Laurent de Villedeuil"--P. [1]. Imprint from colophon. Not in Martin & Walter. Révolution française. BM. Bibliography: BM, LXXVII, column 192. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages."""
+url = "https://archive.org/details/reglementfait00unse_5"
+subject = ["France. États généraux"]
+extent = "[1] p. ; 25 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10210 no. 6"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8sb96h82"
+internet_archive = "reglementfait00unse_5"
+
+[scan]
+file = "reglementfait00unse_5.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/reglementfait00unse_5"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Sovereign (1774-1792 : Louis XVI)"
+role = "author"
+
+[[resp]]
+name = "Louis XVI, King of France, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "Laurent de Villedeuil, Pierre Charles, 1742-1828"
+role = "author"
+
+[[resp]]
+name = "Imprimerie royale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie royale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_855295"
+
+[[text]]
+file = "reglementfait00unse_5.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "reglementfait00unse_5.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

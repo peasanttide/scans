@@ -1,0 +1,84 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "rapportfaitparch00chal"
+type = "pamphlet"
+title = "Rapport fait par Challan, au nom d'une commission spéciale, sur l'établissement d'un tribunal de police correctionnelle à Gourdon, département du Lot séance du 13 germinal an 7."
+language = "fr"
+date = "1799"
+note = """Caption title. At head of title: Corps législatif, Conseil des cinq-cents. "Cette commission est composée des représentans du peuple Doutrepont, Delbret et Challan"--P. [1]. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,I, 6628. Scanner's note: Title found on front cover. No copyright page found. No table-of-contents pages found."""
+url = "https://archive.org/details/rapportfaitparch00chal"
+subject = [
+    "Criminal courts",
+    "Police magistrates",
+]
+extent = "6 p. ;20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "CaseFRC11094"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6545r75x"
+internet_archive = "rapportfaitparch00chal"
+
+[scan]
+file = "rapportfaitparch00chal.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/rapportfaitparch00chal"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Challan, A. D. J. B.(Antoine Didier Jean Baptiste),1754-1831"
+role = "author"
+
+[[resp]]
+name = "A Paris :De l'Imprimerie nationale,"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_824222"
+
+[[text]]
+file = "rapportfaitparch00chal.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "rapportfaitparch00chal.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "rapportfaitparch00chal.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "rapportfaitparch00chal.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "rapportfaitparch00chal.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "rapportfaitparch00chal.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"

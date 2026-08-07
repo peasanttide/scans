@@ -1,0 +1,62 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "repertoireuniver00desr"
+type = "pamphlet"
+title = "Répertoire universel et raisonné de jurisprudence civile, criminelle, &c."
+language = "fr"
+place = "Paris?"
+date = "1799"
+note = """Prospectus for: Répertoire universel et raisonné de jurisprudence civile, criminelle, canonique et béneficial / mis en ordre & publié par M. Guyot. Nouv. éd. Paris : Visse, 1784-1785. Caption title. "Il faut adresser les lettres et l'argent, port franc, à Desray, libraire, rue Hautefeuille, no. 36, près l'église S. André-des-Arcs"--P. [2]. With prices, unsewn or sewn. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Text extends off of the edge of the page. Text may be lost in the binding. Permanent creases may obscure some text. Title page and cover are combined."""
+url = "https://archive.org/details/repertoireuniver00desr"
+subject = [
+    "Guyot, M. (Joseph Nicolas), 1728-1816",
+    "Legal literature",
+    "Encyclopedias and dictionaries",
+    "Booksellers and bookselling",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 8 no. 30"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4mm2111s"
+internet_archive = "repertoireuniver00desr"
+
+[scan]
+file = "repertoireuniver00desr.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/repertoireuniver00desr"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Desray, Jacques"
+role = "author"
+
+[[resp]]
+name = "Guyot, M. (Joseph Nicolas), 1728-1816. Répertoire universel et raisonné de jurisprudence civile, criminelle, canonique et béneficiale"
+role = "author"
+
+[[resp]]
+name = "Desray?"
+role = "publisher"
+
+[[text]]
+file = "repertoireuniver00desr.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "repertoireuniver00desr.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

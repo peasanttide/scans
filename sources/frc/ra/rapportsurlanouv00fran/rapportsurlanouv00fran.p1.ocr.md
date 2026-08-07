@@ -1,0 +1,17 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: rapportsurlanouv00fran
+page: 1
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 2575
+h: 4291
+dpi: 500
+---
+
+A PARIS,
+
+DE L’IMPRIMERIE NATIONALE.
+1791.
+
+W ( n 7 O

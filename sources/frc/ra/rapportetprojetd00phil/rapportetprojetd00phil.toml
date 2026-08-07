@@ -1,0 +1,86 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "rapportetprojetd00phil"
+type = "pamphlet"
+title = "Rapport et projet de décret, au nom du Comité de législation /"
+language = "fr"
+place = "Paris"
+date = "1793"
+note = "Caption title. At head of title: Convention nationale. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  III, 27208. Scanner's note: Title page and cover are combined. Damaged, stained, marked and/or loose pages. Uneven binding. Skewed text. <br />No Copyright found. No Table of Contents found. <br />."
+url = "https://archive.org/details/rapportetprojetd00phil"
+subject = [
+    "Raulin, René-Louis-Amédée, dit Raulin de Vaux, 1730-1804",
+    "Refugees",
+    "Diplomatic and consular service, French",
+]
+extent = "3 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 23666"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6450zt2q"
+internet_archive = "rapportetprojetd00phil"
+
+[scan]
+file = "rapportetprojetd00phil.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/rapportetprojetd00phil"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "Philippeaux, Pierre, 1754-1794"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale. Comité de législation"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_848107"
+
+[[text]]
+file = "rapportetprojetd00phil.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rapportetprojetd00phil.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rapportetprojetd00phil.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rapportetprojetd00phil.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

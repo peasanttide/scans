@@ -1,0 +1,84 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "rapportetprojetd00brou"
+type = "pamphlet"
+title = "Rapport et projet de décret sur quelques articles interprétatifs de la loi sur les mines et minières, fait et présenté au nom du Comité d'agriculture /"
+language = "fr"
+place = "A Paris"
+date = "1792"
+note = """Caption title. Imprint from colophon. "Agriculture, No. 4"--P. [1]. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  I, 5401. Scanner's note: No copyright page found. No table-of-contents pages found.  Title on front cover. Damaged, stained, worn pages.  Skewed text."""
+url = "https://archive.org/details/rapportetprojetd00brou"
+subject = ["Mines and mineral resources"]
+extent = "4 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 15453"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8qc4x831"
+internet_archive = "rapportetprojetd00brou"
+openlibrary_edition = "OL25948210M"
+openlibrary_work = "OL17369264W"
+
+[scan]
+file = "rapportetprojetd00brou.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/rapportetprojetd00brou"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Broussonet, Pierre Marie Auguste, 1761-1807"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791). Comité d'agriculture et de commerce"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_831757"
+
+[[text]]
+file = "rapportetprojetd00brou.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rapportetprojetd00brou.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rapportetprojetd00brou.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rapportetprojetd00brou.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

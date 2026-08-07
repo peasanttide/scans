@@ -1,0 +1,84 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "reflexionsducito00lavi"
+type = "pamphlet"
+title = "Réflexions du citoyen Lavicomterie, député de Paris, sur le procès du ci-devant roi : imprimées par ordre de la Convention nationale"
+language = "fr"
+place = "A Dijon"
+date = "1792"
+note = "Caption title. At head of title: Convention nationale. Imprint from colophon. Variant of Martin & Walter. Révolution française, III, 19827. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover."
+url = "https://archive.org/details/reflexionsducito00lavi"
+subject = ["Louis XVI, King of France, 1754-1793"]
+extent = "4 p. ; 28 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 26880"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t37136f0k"
+internet_archive = "reflexionsducito00lavi"
+openlibrary_edition = "OL26226692M"
+openlibrary_work = "OL17621925W"
+
+[scan]
+file = "reflexionsducito00lavi.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/reflexionsducito00lavi"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "La Vicomterie de Saint-Samson, Louis de,1732-1809"
+role = "author"
+
+[[resp]]
+name = "La Vicomterie de Saint-Samson, Louis de, 1732-1809"
+role = "author"
+
+[[resp]]
+name = "Capel, J. B. (Jean Baptiste)"
+role = "publisher"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Capel"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_866628"
+
+[[text]]
+file = "reflexionsducito00lavi.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "reflexionsducito00lavi.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "reflexionsducito00lavi.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "reflexionsducito00lavi.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

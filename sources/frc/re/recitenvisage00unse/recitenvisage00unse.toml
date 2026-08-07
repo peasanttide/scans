@@ -1,0 +1,83 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "recitenvisage00unse"
+type = "pamphlet"
+title = "Récit, envisagé sous le rapport moral, de la cérémonie funèbre qui a eu lieu au Champ de la Fédération, le 20 septembre 1790 : inséré dans le procès-verbal de l'Assemblée nationale /"
+language = "fr"
+place = "A Paris"
+date = "1790"
+note = "Caption title. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  III, 18916. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover."
+url = "https://archive.org/details/recitenvisage00unse"
+subject = [
+    "Military funerals",
+    "War memorials",
+]
+extent = "4 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 20502"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8dg1zg37"
+internet_archive = "recitenvisage00unse"
+openlibrary_edition = "OL26235411M"
+openlibrary_work = "OL17629996W"
+
+[scan]
+file = "recitenvisage00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/recitenvisage00unse"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Heurtault de Lamerville, Jean-Marie, vicomte de, 1740-1810"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_842774"
+
+[[text]]
+file = "recitenvisage00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "recitenvisage00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "recitenvisage00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "recitenvisage00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

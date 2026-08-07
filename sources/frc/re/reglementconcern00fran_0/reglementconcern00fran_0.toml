@@ -1,0 +1,57 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "reglementconcern00fran_0"
+type = "pamphlet"
+title = "Reglement concernant l'imprimerie"
+language = "fr"
+place = "Paris"
+date = "1723"
+note = "Imprint at lower right. Reprint of articles IX-X, XXIX-XLII, LVI, and LXXXIV-LXXXV. Scanner's note: No copyright page found. No table-of-contents pages found. Title and cover pages combined."
+url = "https://archive.org/details/reglementconcern00fran_0"
+subject = ["Printing industry"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 4 no. 46"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t70w43k8x"
+internet_archive = "reglementconcern00fran_0"
+
+[scan]
+file = "reglementconcern00fran_0.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/reglementconcern00fran_0"
+ppi = 350
+note = "Scanned on fold1.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Conseil d'Etat"
+role = "author"
+
+[[resp]]
+name = "France. Conseil d'Etat"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie du Syndic"
+role = "publisher"
+
+[[text]]
+file = "reglementconcern00fran_0.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "reglementconcern00fran_0.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

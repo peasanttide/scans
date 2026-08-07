@@ -1,0 +1,77 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "reponse00unse_21"
+type = "pamphlet"
+title = "Réponse du roi a l'adresse de M. le comte de Mirabeau présentée au roi le 10 juillet 1789, à huit heures & demie du soir."
+language = "fr"
+place = "France"
+date = "1789"
+note = """Caption title. Martin & Walter. Révolution française. "Noms de MM. les deputés qui ont présenté leur adresse au roi"--P. 3-4. Bibliography: Martin & Walter.  Révolution française,  III, 21821. Scanner's note: No Copyright found. No Table of Contents found. Title on cover page. Damaged, stained pages and cover. <br />."""
+url = "https://archive.org/details/reponse00unse_21"
+subject = [
+    "France. États généraux",
+    "Political violence",
+]
+extent = "4 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 21623"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t70w3r26q"
+internet_archive = "reponse00unse_21"
+
+[scan]
+file = "reponse00unse_21.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/reponse00unse_21"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "Louis XVI, King of France, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "Mirabeau, Honoré-Gabriel de Riquetti, comte de, 1749-1791"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_844854"
+
+[[text]]
+file = "reponse00unse_21.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "reponse00unse_21.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "reponse00unse_21.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "reponse00unse_21.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

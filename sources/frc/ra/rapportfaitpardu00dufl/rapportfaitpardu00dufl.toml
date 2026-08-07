@@ -1,0 +1,83 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "rapportfaitpardu00dufl"
+type = "pamphlet"
+title = "Rapport fait par Duflos, sur un message du Directoire exécutif, relatif à la maison d'arrêt de la commune de Béthune : séance du 6 messidor an 6."
+language = "fr"
+place = "A Paris"
+date = "1798"
+note = "Caption title. At head of title: Corps législatif. Conseil des cinq-cents. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  II, 11602. Scanner's note: No copyright page found. No table-of-contents pages found. Damaged, stained pages. Title on cover."
+url = "https://archive.org/details/rapportfaitpardu00dufl"
+subject = [
+    "Prisons",
+    "Public buildings",
+]
+extent = "4 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 17819"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1rg0q69f"
+internet_archive = "rapportfaitpardu00dufl"
+openlibrary_edition = "OL26194531M"
+openlibrary_work = "OL17591274W"
+
+[scan]
+file = "rapportfaitpardu00dufl.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/rapportfaitpardu00dufl"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Duflos, Nicholas Joseph, 1753-1836"
+role = "author"
+
+[[resp]]
+name = "France. Corps législatif (1795-1814). Conseil des cinq-cents"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_836924"
+
+[[text]]
+file = "rapportfaitpardu00dufl.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rapportfaitpardu00dufl.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rapportfaitpardu00dufl.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rapportfaitpardu00dufl.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

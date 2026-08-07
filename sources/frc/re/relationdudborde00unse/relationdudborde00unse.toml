@@ -1,0 +1,71 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "relationdudborde00unse"
+type = "pamphlet"
+title = "Relation du débordement de la Loire : arrivé `a Orléans, le dimanche au soir dix-huit janvier 1789"
+language = "fr"
+place = "A Orléans"
+date = "1789"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Scanner's note: No title page found. No copyright page found. Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages."
+url = "https://archive.org/details/relationdudborde00unse"
+subject = [
+    "Orléans (France)",
+    "Floods",
+]
+extent = "4 p. ; 24 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10224"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4dn98650"
+internet_archive = "relationdudborde00unse"
+openlibrary_edition = "OL26222760M"
+openlibrary_work = "OL17618231W"
+
+[scan]
+file = "relationdudborde00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/relationdudborde00unse"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "De l'imprimerie de Jacob l'a^iné"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_71519"
+
+[[text]]
+file = "relationdudborde00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "relationdudborde00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "relationdudborde00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "relationdudborde00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

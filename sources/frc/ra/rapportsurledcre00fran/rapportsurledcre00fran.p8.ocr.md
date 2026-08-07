@@ -1,0 +1,45 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: rapportsurledcre00fran
+page: 8
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 2553
+h: 4265
+dpi: 500
+---
+
+10
+
+qties méprifes , comme il doit néceflairement y en avoir
+dans un fi grand travail, votre devoir aétuel 8c l’intérêt
+public qui vous commandent , ne font pas que vous ju-
+giez, même équitablement, des réclamations particu-
+lières, mais que vous vous hâtiez d’organifer les Dé-
+partemens 8c les Diflri&s , 8c démonter l’adminiffration
+générale. Les erreurs locales fe répareront dans la fuite ;
+mais un plus long retard dans l’etabliffement d’une forme
+régulière d’adminiftration pour toutes les parties de cet
+Empire, préfente un danger qui pourroit avoir des effets
+irréparables.
+
+Secondement , votre Comité eft convaincu par les piè-
+ces qui lui ont été mifes fous les yeux , qu’une partie des
+réclamations aétuelles des villes 8c des paroiffes fituées
+fur les limites des Départemens 8c des Difkiéh , ont été
+ou follicitées par les agens des villes principales , ou dé-
+terminées par des idées peu juftes que l’on fe formoit
+de l’inflitution des Cantons , des Diftri&s 8c des Dépar-
+temens. Il faut donc laiffer au temps 8c â l’expérience à
+démêler , à constater les véritables intérêts , à fixer les
+véritables vœux. Ainfi , Meilleurs , fans fermer la porte
+aux réclamations fondées , il paroît à votre Comité que
+c’efl devant la prochaine Légiflature que vous devez or-
+donner de porter ces réclamations , 8c que quant à pré-
+fent , vous ne pouvez en admettre aucune contre vos dé-
+crets relatifs aux limites , qfii doivent avoir provifoirement
+leur exécution , jufquIDee que la prochaine Légiflature
+les ait ou confirmés ou réformés d’après les demandes
+qui pourront lui être faites.
+
+. Il paroît encore à votre Comité qu’il ne faudra mêm g

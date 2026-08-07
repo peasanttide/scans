@@ -1,0 +1,62 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "ratifielart00unse"
+type = "pamphlet"
+title = "Loi qui ratifie l'article additionnel au traité conclu entre la République française et la régence de Tunis : du 28 thermidor, an troisième de la République française une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1795"
+note = """Caption title. At head of title: (No. 510.*). At right of title: B. no. 172. D. no. 1032. "La Convention nationale ... ratifiie ..."--P. [1]. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/ratifielart00unse"
+subject = ["France. (1795 May 25)"]
+extent = "2 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10346 no. 134"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9v176574"
+internet_archive = "ratifielart00unse"
+
+[scan]
+file = "ratifielart00unse.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/ratifielart00unse"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Depot des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_861900"
+
+[[text]]
+file = "ratifielart00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ratifielart00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

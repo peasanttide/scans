@@ -1,0 +1,78 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "reponsedefrancoi00priv"
+type = "pamphlet"
+title = "Réponse de François Privat, électeur du canton du Gourguillon, à un écrit anonyme adressé aux électeurs de la campagne, dans l'assemblée électorale du département de Rhône & Loire, le 8 juin 1790, & distribué avec profusion aux citoyens de Lyon."
+language = "fr"
+place = "France"
+date = "1790"
+note = "Caption title. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  IV:1, 28249. Scanner's note: Title page located on front cover. No copyright page found. No table-of-contents pages found. Worn, damaged and discolored pages and cover. Skewed text. Uneven binding."
+url = "https://archive.org/details/reponsedefrancoi00priv"
+subject = ["Libel and slander"]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 24064"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8wb0fx9b"
+internet_archive = "reponsedefrancoi00priv"
+
+[scan]
+file = "reponsedefrancoi00priv.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/reponsedefrancoi00priv"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Privat, François"
+role = "author"
+
+[[resp]]
+name = "Rhône (France). Assemblée electorale"
+role = "author"
+
+[[resp]]
+name = "Loire (France : Dept.). Assemblée electorale"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_848871"
+
+[[text]]
+file = "reponsedefrancoi00priv.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "reponsedefrancoi00priv.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "reponsedefrancoi00priv.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "reponsedefrancoi00priv.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

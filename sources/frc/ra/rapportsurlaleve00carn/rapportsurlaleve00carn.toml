@@ -1,0 +1,85 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "rapportsurlaleve00carn"
+type = "pamphlet"
+title = "Rapport sur la levée d'une légion pour l'armée des Pyrénées"
+language = "fr"
+date = "1793"
+note = "Caption title. At head of title: Convention nationale. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,I, 6164. Scanner's note: No copyright page found. No table-of-contents pages found. Title found only on front cover."
+url = "https://archive.org/details/rapportsurlaleve00carn"
+subject = ["France. Armée"]
+extent = "4 p. ;19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "CaseFRC11066"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t73v2kx3m"
+internet_archive = "rapportsurlaleve00carn"
+
+[scan]
+file = "rapportsurlaleve00carn.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/rapportsurlaleve00carn"
+ppi = 650
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Carnot, Lazare,1753-1823"
+role = "author"
+
+[[resp]]
+name = "Carnot, Lazare, 1753-1823"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale. Comité de défense générale"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "[Paris] :De l'Imprimerie nationale,"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_824554"
+
+[[text]]
+file = "rapportsurlaleve00carn.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "rapportsurlaleve00carn.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "rapportsurlaleve00carn.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "rapportsurlaleve00carn.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"

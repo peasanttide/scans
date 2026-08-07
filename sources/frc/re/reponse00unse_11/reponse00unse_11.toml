@@ -1,0 +1,83 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "reponse00unse_11"
+type = "pamphlet"
+title = "Réponse du roi, a la grande députation du Parlement, le 21 novembre 1787."
+language = "fr"
+place = "A Versailles"
+date = "1787"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Réponse du roi -- Arrêté du Parlement, du 19 novembre 1787, après la séance du roi -- Discours de M. le premier président au roi -- Réponse du roi. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/reponse00unse_11"
+subject = [
+    "France. Parlement (Paris)",
+    "Executive-legislative relations",
+]
+extent = "4 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 21539"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0zp98z14"
+internet_archive = "reponse00unse_11"
+openlibrary_edition = "OL26239783M"
+openlibrary_work = "OL17634323W"
+
+[scan]
+file = "reponse00unse_11.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/reponse00unse_11"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Louis XVI, King of France, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "Pierres, Philippe-Denis, 1741-1808"
+role = "publisher"
+
+[[resp]]
+name = "France. Parlement (Paris)"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Ph.-D. Pierres, premier imprimeur ordinaire du roi, à l'hotel des Menus-Plaisirs de Sa Majesté"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_845245"
+
+[[text]]
+file = "reponse00unse_11.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "reponse00unse_11.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "reponse00unse_11.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "reponse00unse_11.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

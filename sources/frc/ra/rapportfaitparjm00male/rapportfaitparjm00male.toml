@@ -1,0 +1,83 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "rapportfaitparjm00male"
+type = "pamphlet"
+title = "Rapport fait par J. Malleville sur la résolution du 26 thermidor, relative aux baux postérieurs au premier janvier 1792 : séance du 9 fructidor an V."
+language = "fr"
+place = "A Paris"
+date = "1797"
+note = "Caption title. At head of title: Corps législatif, Conseil des anciens. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  III, 22515. Scanner's note: Title page located on front cover. No copyright page found. No table-of-contents pages found. Skewed text. Worn, damaged pages and cover."
+url = "https://archive.org/details/rapportfaitparjm00male"
+subject = [
+    "Farm rents",
+    "Farm tenancy",
+]
+extent = "3 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 12481"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3712sm4d"
+internet_archive = "rapportfaitparjm00male"
+openlibrary_edition = "OL25927796M"
+openlibrary_work = "OL17350362W"
+
+[scan]
+file = "rapportfaitparjm00male.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/rapportfaitparjm00male"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Maleville, Jacques, marquis de, 1741-1824"
+role = "author"
+
+[[resp]]
+name = "France. Corps législatif (1795-1814). Conseil des anciens"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_826711"
+
+[[text]]
+file = "rapportfaitparjm00male.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rapportfaitparjm00male.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rapportfaitparjm00male.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rapportfaitparjm00male.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

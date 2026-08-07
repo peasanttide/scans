@@ -1,0 +1,83 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "rapportfaitlacon00bous"
+type = "pamphlet"
+title = "Rapport fait a la Convention nationale, au nom de la Commission des douze, sur l'arrestation du sieur Drucourt /"
+language = "fr"
+place = "Paris"
+date = "1793"
+note = "Caption title. At head of title: Convention nationale. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  I, 4878. Scanner's note: No copyright page found. No table-of-contents pages found. Title page located on front cover. Damaged, worn pages. Skewed text."
+url = "https://archive.org/details/rapportfaitlacon00bous"
+subject = [
+    "Drucourt, citoyen",
+    "Detention of persons",
+]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 15209"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t71w0cw3n"
+internet_archive = "rapportfaitlacon00bous"
+openlibrary_edition = "OL25944868M"
+openlibrary_work = "OL17366121W"
+
+[scan]
+file = "rapportfaitlacon00bous.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/rapportfaitlacon00bous"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Boussion, Pierre, 1753-1828"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "France. Commission extraordinaire des douze"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_831452"
+
+[[text]]
+file = "rapportfaitlacon00bous.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rapportfaitlacon00bous.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rapportfaitlacon00bous.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rapportfaitlacon00bous.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

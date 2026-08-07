@@ -1,0 +1,53 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "reglementsconcer00ball"
+type = "pamphlet"
+title = "Reglements concernant l'imprimerie et la librairie"
+language = "fr"
+place = "Paris"
+date = "1707"
+note = "A shortened reiteration of 3 decrees: 11 August 1696, and 3 December 1705, by the Parlement of Paris; 29 July 1707, by the Conseil privé. Scanner's note: No copyright page found. No table-of-contents pages found. Title and cover pages combined."
+url = "https://archive.org/details/reglementsconcer00ball"
+subject = ["Printing"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 3 no. 25"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7tn2wz37"
+internet_archive = "reglementsconcer00ball"
+
+[scan]
+file = "reglementsconcer00ball.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/reglementsconcer00ball"
+ppi = 350
+note = "Scanned on fold1.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Ballard, Christophe, 1641-1715"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Christophe Ballard"
+role = "publisher"
+
+[[text]]
+file = "reglementsconcer00ball.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "reglementsconcer00ball.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

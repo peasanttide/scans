@@ -1,0 +1,10 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: recitveritablede00unse_12
+page: 16
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 2563
+h: 3981
+dpi: 350
+---

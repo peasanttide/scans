@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "reglementsurlet00fran"
+type = "pamphlet"
+title = "Réglement sur l'établissement d'une imprimerie dans l'Hôtel de la guerre, à Versailles"
+language = "fr"
+date = "1771"
+note = "Caption title. Imprint at foot of p. 4. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Title page and cover are combined."
+url = "https://archive.org/details/reglementsurlet00fran"
+subject = [
+    "Versailles (France). Imprimerie du roi",
+    "Printing",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 8 no. 53"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3325jw3v"
+internet_archive = "reglementsurlet00fran"
+
+[scan]
+file = "reglementsurlet00fran.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/reglementsurlet00fran"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Imprimerie de l'Hôtel de la guerre"
+role = "author"
+
+[[resp]]
+name = "France. Imprimerie de l'Hôtel de la guerre"
+role = "author"
+
+[[resp]]
+name = "France. Laws, etc"
+role = "author"
+
+[[resp]]
+name = "[Versailles"
+role = "publisher"
+
+[[text]]
+file = "reglementsurlet00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "reglementsurlet00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "reglementsurlet00fran.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "reglementsurlet00fran.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

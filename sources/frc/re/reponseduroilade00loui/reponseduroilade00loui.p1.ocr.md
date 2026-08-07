@@ -1,0 +1,35 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: reponseduroilade00loui
+page: 1
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 3154
+h: 4314
+dpi: 350
+---
+
+i . f -2-; ^
+
+RÉPONSE DU ROI
+
+A la Députation de tAffemblée Nationale ,
+du I 8 Septembre lyço,
+
+J E vois avec beaucoup de fàtisfadlion , Monfieur , que
+l’AfTemblée Nationale a reconnu la ncceflité d’arrêter les
+defordres qui fe commettoient auprès de Verfailles ; je ne
+doute pas que quand le peuple fera détrompé , ces défordres
+ne cefTent.
+
+Quant à la réforme de mes équipages de chafîè, c’efl
+un arrangement qui ne regarde que moi ; il y a long-temps
+que je n’en ai fait ufage, ni n’en ai eu envie. J’e/]3ère bien
+un jour, quand mon cœur fera content^ pouvoir reprendre
+ce plaifir.
+
+A PARIS, DE L’EMPRIMERIE ROYALE. 1790.
+
+tHENEWBH?,;.'.
+
+UBRARV

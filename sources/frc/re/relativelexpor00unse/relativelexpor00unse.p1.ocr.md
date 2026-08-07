@@ -1,0 +1,58 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: relativelexpor00unse
+page: 1
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 2998
+h: 4058
+dpi: 350
+---
+
+N.° 837.
+
+Bulletin des Lois, N.® 150.
+
+Au nom de la République française.
+
+LO I
+
+L,
+
+Relative à t exportation du Poisson.
+
+Du 2 iJTivose an VII de la République française, une et indivisible.
+
+Je Conseil des Anciens , adoptant les motifs de la déclaration d’urgence qui
+précède la résolution ci-après, approüved’acte d’urgence.
+
+Suà la, teneur de la déclaration d^ urgence et de la résolution du 29
+
+Frimaire :
+
+Le Conseil des Cinq-cents , après avoir entendu le rapport d’une commission
+spéciale;
+
+Considérant qu’il est instant d’empêcher la perte du produit des pêches
+nationales ,
+
+Déclare qu’il y a urgence.
+
+Le Conseil , après avoir déclaré l’urgence, prend la résolution suivante :
+
+Articlepremier.
+
+*
+
+Les dispositions des lois des 19 mai 1798, 12 pluviôse et 20 thermidor an Ilf ,
+en tant qu’elles prohibaient provisoirement l’exportation du poisson , sont rap-
+portées.
+
+l'f
+
+CoxsEiL DES CiNQ-CENTS. — Du 29 Frimaire an P 7 /, rapport par le représentant du peuple
+Tliiessé.
+
+Conseil des Anciens. — Du 2 Nivôse^ la résolution a été adoptée sans discussion.
+
+N. II.

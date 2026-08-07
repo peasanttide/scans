@@ -1,0 +1,87 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "rapportfaitpardu00duvi"
+type = "pamphlet"
+title = "Rapport fait par Duviquet, au nom d'une commission spéciale, sur l'établissement d'un tribunal de commerce dans la commune de Clamecy (Nièvre) : séance du 12 ventose an 7."
+language = "fr"
+place = "A Paris"
+date = "1799"
+note = """Caption title. At head of title: Corps législatif, Conseil des cinq-cents. Imprint from colophon. Martin & Walter. Révolution française. "Les membres de la commission sont: Talot, Leclerc, Scheppers, et le rapporteur"--P. [1]. Bibliography: Martin & Walter.  Révolution française,  II, 12621. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover."""
+url = "https://archive.org/details/rapportfaitpardu00duvi"
+subject = [
+    "Commercial courts",
+    "Court administration",
+]
+extent = "3 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 11632"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1jh88m4j"
+internet_archive = "rapportfaitpardu00duvi"
+openlibrary_edition = "OL25924420M"
+openlibrary_work = "OL17347043W"
+
+[scan]
+file = "rapportfaitpardu00duvi.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/rapportfaitpardu00duvi"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Duviquet, M. (Pierre), 1765-1835"
+role = "author"
+
+[[resp]]
+name = "Leclerc, Claude Nicolas, 1738-1808"
+role = "author"
+
+[[resp]]
+name = "France. Corps législatif (1795-1814). Conseil des cinq-cents"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_825454"
+
+[[text]]
+file = "rapportfaitpardu00duvi.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rapportfaitpardu00duvi.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rapportfaitpardu00duvi.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rapportfaitpardu00duvi.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

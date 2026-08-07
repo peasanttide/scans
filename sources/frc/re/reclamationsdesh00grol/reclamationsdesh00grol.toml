@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "reclamationsdesh00grol"
+type = "pamphlet"
+title = "Réclamations des héritiers Valade contre le rapport fait au Conseil des cinq-cents, par le représentant Roux (de l'Aveyron), au nom de la commission chargée d'examiner la pétition du citoyen Broussoneix."
+language = "fr"
+place = "Paris"
+date = "1796"
+note = "Caption title. Signed: Grolhier Desbrousses, faisant pour les Valade. Imprint from Martin & Walter. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  IV:1, 33060."
+url = "https://archive.org/details/reclamationsdesh00grol"
+subject = [
+    "Inheritance and succession",
+    "Confiscations",
+]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 13291"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1sf7h07x"
+internet_archive = "reclamationsdesh00grol"
+openlibrary_edition = "OL25926384M"
+openlibrary_work = "OL17349014W"
+
+[scan]
+file = "reclamationsdesh00grol.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/reclamationsdesh00grol"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Grolhier Desbrousses"
+role = "author"
+
+[[resp]]
+name = "Valade"
+role = "author"
+
+[[resp]]
+name = "Imp. du Dépôt des Lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_827919"
+
+[[text]]
+file = "reclamationsdesh00grol.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "reclamationsdesh00grol.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "reclamationsdesh00grol.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "reclamationsdesh00grol.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

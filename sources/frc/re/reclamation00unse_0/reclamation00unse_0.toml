@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "reclamation00unse_0"
+type = "pamphlet"
+title = "Réclamation d'un militaire de Dauphiné, sur les exceptions faites en faveur de quelques membres de la noblesse de cette province, pour passer de la seconde classe à la première : 1788."
+language = "fr"
+place = "France"
+date = "1788"
+note = "Caption title. Signed, p. 2: M. le comte de Narbonne-Fritzlar. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title page is on the cover. Damaged, stained, and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/reclamation00unse_0"
+subject = [
+    "Nobility",
+    "Social conflict",
+]
+extent = "4 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 23095"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t14n4dt60"
+internet_archive = "reclamation00unse_0"
+openlibrary_edition = "OL26237220M"
+openlibrary_work = "OL17631775W"
+
+[scan]
+file = "reclamation00unse_0.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/reclamation00unse_0"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Narbonne-Fritzlar, comte de"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_847528"
+
+[[text]]
+file = "reclamation00unse_0.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "reclamation00unse_0.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "reclamation00unse_0.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "reclamation00unse_0.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

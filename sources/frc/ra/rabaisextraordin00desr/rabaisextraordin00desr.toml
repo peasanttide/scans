@@ -1,0 +1,65 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "rabaisextraordin00desr"
+type = "pamphlet"
+title = "Rabais extraordinaire de livres en feuilles, la plupart au-dessous du prix du papier, jusqu'au 15 floréal an 6, ou 4 mai 1798"
+language = "fr"
+place = "Paris"
+date = "1798"
+note = """Caption title. Printed in double columns. "Le même libraire procure tous les livres dont on peut avoit besoin, tans neufs que de hasard"--At end. BN. Catalogues de libraires. With original and discouted prices. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Title page and cover are combined."""
+url = "https://archive.org/details/rabaisextraordin00desr"
+subject = ["Desray, Jacques"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 11 no. 16"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8hf3fx93"
+internet_archive = "rabaisextraordin00desr"
+
+[scan]
+file = "rabaisextraordin00desr.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/rabaisextraordin00desr"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Desray, Jacques"
+role = "author"
+
+[[resp]]
+name = "Desray"
+role = "publisher"
+
+[[text]]
+file = "rabaisextraordin00desr.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rabaisextraordin00desr.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rabaisextraordin00desr.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "rabaisextraordin00desr.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
