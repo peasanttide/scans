@@ -1,0 +1,82 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "opinion00unse_t26"
+type = "pamphlet"
+title = "Opinion de J. Chevalier, député du département de la Sarthe à la Convention nationale, sur l'affaire du ci-devant roi"
+language = "fr"
+place = "Paris"
+date = "1792"
+note = """Caption title. At head of title: Convention nationale. Imprint from colophon. "Législation (No. 132)"--Bottom of p. [1]. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française, I, 7405. Scanner's note: No copyright found. No table of contents found. Title on cover. Damaged, stained pages and cover. <br />Only one numbered page. <br />."""
+url = "https://archive.org/details/opinion00unse_t26"
+subject = ["Louis XVI, King of France, 1754-1793"]
+extent = "2 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing DC137.08 .F73 v. 10, no. 17"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t25b5fx2p"
+internet_archive = "opinion00unse_t26"
+
+[scan]
+file = "opinion00unse_t26.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/opinion00unse_t26"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "Chevalier, Jacques, 1734-1812"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "Louis XVI Trial and Execution Collection (Newberry Library) ICN"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_833829"
+
+[[text]]
+file = "opinion00unse_t26.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opinion00unse_t26.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opinion00unse_t26.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opinion00unse_t26.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

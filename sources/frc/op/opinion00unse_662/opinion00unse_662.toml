@@ -1,0 +1,87 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "opinion00unse_662"
+type = "pamphlet"
+title = "Opinion de Julien-Bernard-Dorothée Mazade, député du département de la Haute-Garonne, sur l'affaire de Louis Capet : imprimée par ordre de la Convention nationale."
+language = "fr"
+place = "Paris"
+date = "1792"
+note = """Caption title. At head of title: Convention nationale. Imprint from colophon. Session date from Martin & Walter: Du 3 déc. 1792. "Législation. No. 60"--Bottom of p. [1]. Martin & Walter. Révolution française. Saricks, A. Melvin Coll. Bibliography: Martin & Walter.  Révolution française,  III, 23676. Scanner's note: Title page and cover are combined. Damaged, stained, marked and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/opinion00unse_662"
+subject = [
+    "Louis XVI, King of France, 1754-1793",
+    "Rule of law",
+]
+extent = "4 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 22263"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t25b5c98p"
+internet_archive = "opinion00unse_662"
+openlibrary_edition = "OL26240289M"
+openlibrary_work = "OL17634812W"
+
+[scan]
+file = "opinion00unse_662.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/opinion00unse_662"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Mazade-Percin, Julien-Bernard-Dorothée de, 1750-1823"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "Louis XVI Trial and Execution Collection (Newberry Library) ICN"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_843894"
+
+[[text]]
+file = "opinion00unse_662.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opinion00unse_662.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opinion00unse_662.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opinion00unse_662.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

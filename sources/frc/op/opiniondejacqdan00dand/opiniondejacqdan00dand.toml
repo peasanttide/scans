@@ -1,0 +1,84 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "opiniondejacqdan00dand"
+type = "pamphlet"
+title = "Opinion de Jacq. Dandenac, le jeune, député du departement de Mayenne & Loire, dans l'affaire de Louis XVI."
+language = "fr"
+place = "Paris"
+date = "1793"
+note = """Caption title. At head of title: Convention nationale. Imprint from colophon. "Législation, no. 217"--Bottom of p. [1]. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  I, 9125. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."""
+url = "https://archive.org/details/opiniondejacqdan00dand"
+subject = ["Louis XVI, King of France, 1754-1793"]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 16902"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3227x11p"
+internet_archive = "opiniondejacqdan00dand"
+openlibrary_edition = "OL26199632M"
+openlibrary_work = "OL17596297W"
+
+[scan]
+file = "opiniondejacqdan00dand.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/opiniondejacqdan00dand"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Dandenac, Jacques, 1750-1830"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "Louis XVI Trial and Execution Collection (Newberry Library) ICN"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_834882"
+
+[[text]]
+file = "opiniondejacqdan00dand.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opiniondejacqdan00dand.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opiniondejacqdan00dand.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opiniondejacqdan00dand.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

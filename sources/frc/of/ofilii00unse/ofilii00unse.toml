@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "ofilii00unse"
+type = "pamphlet"
+title = "Ô filii : proposé aux théophilantropes et aux magistrats de toutes les administrations centrales et de cantons de la République française /"
+language = "fr"
+place = "Paris"
+note = """Caption title. Imprint from colophon, p. [2]. Martin & Walter. Révolution française. BN. "Pater du mème auteur"--P. [3]. "Citoyens théophilantropes ..."--P. [3]-[4]. Bibliography: Martin & Walter.  Révolution française,  III, 25889. Scanner's note: No copyright page found. No table-of-contents pages found. Title page is on the cover. Damaged, stained, and/or loose pages. Uneven binding. Skewed text. No page numbers."""
+url = "https://archive.org/details/ofilii00unse"
+subject = [
+    "Lord's prayer",
+    "Spring",
+    "Civil religion",
+]
+extent = "[4] p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 23233"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1xd64c9s"
+internet_archive = "ofilii00unse"
+openlibrary_edition = "OL26237511M"
+openlibrary_work = "OL17632060W"
+
+[scan]
+file = "ofilii00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/ofilii00unse"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Nogaret, François Félix, 1740-1831"
+role = "author"
+
+[[resp]]
+name = "Sobry, Jean François, 1743-1820"
+role = "publisher"
+
+[[resp]]
+name = "De l'imprimerie de J.F. Sobry, rue du Bacq, no. 149"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_847330"
+
+[[text]]
+file = "ofilii00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ofilii00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ofilii00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ofilii00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

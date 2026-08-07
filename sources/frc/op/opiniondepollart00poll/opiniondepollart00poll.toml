@@ -1,0 +1,81 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "opiniondepollart00poll"
+type = "pamphlet"
+title = "Opinion de Pollart (de la Seine), sur le projet de son collègue Bergier, concernant les hypothèques : séance du 17 fructidor an 6."
+language = "fr"
+place = "A Paris"
+date = "1798"
+note = "Caption title. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  IV:1, 27711. Scanner's note: Title page and cover are combined. Damaged, stained, marked and/or loose pages. Uneven binding. Skewed text.<br />No Copyright found. No Table of Contents found. <br />."
+url = "https://archive.org/details/opiniondepollart00poll"
+subject = [
+    "Mortgages",
+    "Recording and registration",
+]
+extent = "3 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 23853"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9q296c66"
+internet_archive = "opiniondepollart00poll"
+
+[scan]
+file = "opiniondepollart00poll.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/opiniondepollart00poll"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "Pollart, Philippe-Joseph, 1761-1824"
+role = "author"
+
+[[resp]]
+name = "France. Corps législatif (1795-1814). Conseil des cinq-cents"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_848742"
+
+[[text]]
+file = "opiniondepollart00poll.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opiniondepollart00poll.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opiniondepollart00poll.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opiniondepollart00poll.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

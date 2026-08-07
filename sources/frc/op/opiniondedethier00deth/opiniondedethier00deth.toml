@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "opiniondedethier00deth"
+type = "pamphlet"
+title = "Opinion de Dethier (de l'Ourthe), membre du Conseil des cinq-cents, sur les opérations de l'assemblée électorale scissionnée du département de l'Escaut, en l'an 7 : premier prairial, an 7."
+language = "fr"
+place = "A Paris"
+date = "1799"
+note = "Caption title. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  II, 10641. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged pages.  Uneven binding.  Irregular page size.  Skewed print."
+url = "https://archive.org/details/opiniondedethier00deth"
+subject = ["Escaut (France). Assemblée électorale"]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 11457"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8ff8db9b"
+internet_archive = "opiniondedethier00deth"
+openlibrary_edition = "OL25911925M"
+openlibrary_work = "OL17335575W"
+
+[scan]
+file = "opiniondedethier00deth.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/opiniondedethier00deth"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Dethier, Laurent-François, 1757-1843"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_824982"
+
+[[text]]
+file = "opiniondedethier00deth.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opiniondedethier00deth.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opiniondedethier00deth.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opiniondedethier00deth.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

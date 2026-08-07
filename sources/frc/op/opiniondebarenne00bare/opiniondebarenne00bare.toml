@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "opiniondebarenne00bare"
+type = "pamphlet"
+title = "Opinion de Barennes, député de la Gironde, sur la résolution du 9 pluviose, relative au traitement des juges séance du 8 ventose an 7."
+language = "fr"
+date = "1799"
+note = "Caption title. At head of title: Corps législatif, Conseil des anciens. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,I, 1570."
+url = "https://archive.org/details/opiniondebarenne00bare"
+subject = [
+    "Judges",
+    "Cost and standard of living",
+]
+extent = "4 p. ;20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "CaseFRC10635"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8md1zv1c"
+internet_archive = "opiniondebarenne00bare"
+
+[scan]
+file = "opiniondebarenne00bare.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/opiniondebarenne00bare"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Barennes, Raymond,1739-1800"
+role = "author"
+
+[[resp]]
+name = "A Paris :De l'Imprimerie nationale,"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_824255"
+
+[[text]]
+file = "opiniondebarenne00bare.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "opiniondebarenne00bare.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "opiniondebarenne00bare.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "opiniondebarenne00bare.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"

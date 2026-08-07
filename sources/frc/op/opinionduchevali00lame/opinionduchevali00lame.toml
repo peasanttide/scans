@@ -1,0 +1,83 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "opinionduchevali00lame"
+type = "pamphlet"
+title = "Opinion du chevalier Alexandre de La Meth, a la séance du samedi 8 août 1789, dans l'Assemblée nationale."
+language = "fr"
+place = "A Versailles"
+date = "1789"
+note = "Caption title. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  III, 18952. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover."
+url = "https://archive.org/details/opinionduchevali00lame"
+subject = [
+    "Secularization",
+    "Church and state",
+]
+extent = "4 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 20528"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1hj1r054"
+internet_archive = "opinionduchevali00lame"
+openlibrary_edition = "OL26235419M"
+openlibrary_work = "OL17630004W"
+
+[scan]
+file = "opinionduchevali00lame.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/opinionduchevali00lame"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Lameth, Alexandre, comte de, 1760-1829"
+role = "author"
+
+[[resp]]
+name = "Baudouin, François-Jean, 1759-1838"
+role = "publisher"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "Chez Baudouin, imprimeur de l'Assemblée nationale, avenue de Saint Cloud, no. 69"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_842942"
+
+[[text]]
+file = "opinionduchevali00lame.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opinionduchevali00lame.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opinionduchevali00lame.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opinionduchevali00lame.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

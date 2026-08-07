@@ -1,0 +1,107 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "opiniondemonsieu00tall"
+type = "pamphlet"
+title = "Opinion de Monsieur l'abbé de Villeneuve-Bargemon, député de Marseille à l'Assemblée nationale, à l'occasion de la procédure criminelle, prise dans ladite ville, contre les srs. Rebecquy, Granet, Pascal & autres."
+language = "fr"
+place = "A Marseille"
+date = "1789"
+note = """Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. "Extrait du Courrier de Madon. Séance du jeudi 10 décembre 1789"--P. 7-8. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover. Uneven binding. Skewed text. Damaged, stained and/or loose pages."""
+url = "https://archive.org/details/opiniondemonsieu00tall"
+subject = [
+    "Granet, François-Omer, 1758-1821",
+    "Pascal, Toussaint",
+    "Rebecqui, François Trophime",
+    "Criminal justice, Administration of",
+]
+extent = "8 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 26155"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1sf84265"
+internet_archive = "opiniondemonsieu00tall"
+
+[scan]
+file = "opiniondemonsieu00tall.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/opiniondemonsieu00tall"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Tallien, Jean-Lambert, 1767-2444"
+role = "author"
+
+[[resp]]
+name = "Villeneuve-Bargemont, Barthélemy-Joseph, comte de, b. 1720"
+role = "author"
+
+[[resp]]
+name = "Mossy, Jean, d. 1792"
+role = "publisher"
+
+[[resp]]
+name = "Chez Jean Mossy, père & fils, imprimeurs du roi & de la nation"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_864239"
+
+[[text]]
+file = "opiniondemonsieu00tall.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opiniondemonsieu00tall.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opiniondemonsieu00tall.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opiniondemonsieu00tall.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opiniondemonsieu00tall.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opiniondemonsieu00tall.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opiniondemonsieu00tall.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opiniondemonsieu00tall.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

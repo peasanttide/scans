@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "opiniondemarbots00marb"
+type = "pamphlet"
+title = "Opinion de Marbot sur la résolution relative aux élections de l'an 6 : séance du 22 floréal an 6."
+language = "fr"
+place = "Paris"
+date = "1798"
+note = "Caption title. At head of title: Corps législatif. Conseil des anciens. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  III, 22933."
+url = "https://archive.org/details/opiniondemarbots00marb"
+subject = ["France. Corps législatif (1795-1814)"]
+extent = "4 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 22007"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9n353w3f"
+internet_archive = "opiniondemarbots00marb"
+openlibrary_edition = "OL26240219M"
+openlibrary_work = "OL17634742W"
+
+[scan]
+file = "opiniondemarbots00marb.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/opiniondemarbots00marb"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Marbot, Jean Antoine de, 1754-1800"
+role = "author"
+
+[[resp]]
+name = "France. Corps législatif (1795-1814). Conseil des anciens"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_845547"
+
+[[text]]
+file = "opiniondemarbots00marb.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opiniondemarbots00marb.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opiniondemarbots00marb.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opiniondemarbots00marb.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

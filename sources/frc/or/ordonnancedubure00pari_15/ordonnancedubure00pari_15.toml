@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "ordonnancedubure00pari_15"
+type = "pamphlet"
+title = "Ordonnance du Bureau des finances de la généralité de Paris, qui ordonne l'exécution de l'article IV de l'ordonnance générale du 29 mars 1754 : condamne le nommé Bertrand, maçon à la Ferté-sous-Jouarre, en l'amende, pour y avoir contrevenus : lui fait défenses, & à tous autres, de faire aucunes réparations aux murs de face des maisons & bâtimens sis dans les traverses des villes, bourgs & villages, le long des grandes routes & chemins, sans avoir pris les alignemens & permission prescrits par ladite ordonnance, sous peine de démolition, trois cens livres d'amende, même d'emprisonnement des ouvriers : du 28 juin 1757"
+language = "fr"
+place = "A Paris"
+date = "1757"
+note = "Caption title. Imprint from colophon. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on the cover page. Damaged, stained, and/or loose pages. Uneven binding. Skewed text. Text on the back cover is upside-down."
+url = "https://archive.org/details/ordonnancedubure00pari_15"
+subject = [
+    "Bertrand, maçon",
+    "Building permits",
+    "Walls",
+    "Fines (Penalties)",
+]
+extent = "3 p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC suppl. 101 no. 1"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t16m8g13v"
+internet_archive = "ordonnancedubure00pari_15"
+
+[scan]
+file = "ordonnancedubure00pari_15.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/ordonnancedubure00pari_15"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Paris (France : Généralité). Bureau des finances"
+role = "author"
+
+[[resp]]
+name = "Imprimerie royale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie royale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_73890"
+
+[[text]]
+file = "ordonnancedubure00pari_15.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordonnancedubure00pari_15.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordonnancedubure00pari_15.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordonnancedubure00pari_15.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

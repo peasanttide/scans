@@ -1,0 +1,88 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "ordonnance00unse_24"
+type = "pamphlet"
+title = "Ordonnance de M. le lieutenant général de police, rendue contre le nommé Cochois & sa femme, pour contravention aux règlemens des carrières : du 30 avril 1783"
+language = "fr"
+place = "A Paris"
+date = "1783"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."
+url = "https://archive.org/details/ordonnance00unse_24"
+subject = [
+    "Cochois, Jacques",
+    "Quarries and quarrying",
+    "Building laws",
+]
+extent = "3 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 28451"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5jb19k85"
+internet_archive = "ordonnance00unse_24"
+openlibrary_edition = "OL26229353M"
+openlibrary_work = "OL17624387W"
+
+[scan]
+file = "ordonnance00unse_24.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/ordonnance00unse_24"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Paris (France). Lieutenant général de police"
+role = "author"
+
+[[resp]]
+name = "Lenoir, Jean-Charles-Pierre, 1732-1807"
+role = "author"
+
+[[resp]]
+name = "Simon, P. G. (Pierre-Guillaume), 1722-1787"
+role = "publisher"
+
+[[resp]]
+name = "Nyon, Nicolas-Henri, b. 1751?"
+role = "publisher"
+
+[[resp]]
+name = "Chez P.G. Simon, & N.H. Nyon, imprimeurs du Parlement, rue Mignon"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_861399"
+
+[[text]]
+file = "ordonnance00unse_24.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordonnance00unse_24.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordonnance00unse_24.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordonnance00unse_24.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

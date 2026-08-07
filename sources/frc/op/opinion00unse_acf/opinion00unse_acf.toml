@@ -1,0 +1,94 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "opinion00unse_acf"
+type = "pamphlet"
+title = "Opinion de Ch. Van Hultem (de l'Escaut), membre du Conseil des cinq-cents, sur l'article XI du projet de résolution qui oblige les ci-devant nobles à verser à l'emprunt forcé le double du contingent ordinaire : prononcée dans la séance du 29 messidor an 7."
+language = "fr"
+place = "Paris"
+date = "1799"
+note = "Caption title. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  IV:1, 33156. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover. Skewed text. Damaged, stained and/or loose pages."
+url = "https://archive.org/details/opinion00unse_acf"
+subject = [
+    "Nobility",
+    "Constitutional law",
+    "Forced loans",
+]
+extent = "6 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 25975"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1rg1332n"
+internet_archive = "opinion00unse_acf"
+
+[scan]
+file = "opinion00unse_acf.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/opinion00unse_acf"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Tallien, Jean-Lambert, 1767-2268"
+role = "author"
+
+[[resp]]
+name = "Van Hultem, Charles-Joseph, 1764-1809"
+role = "author"
+
+[[resp]]
+name = "Baudouin, François-Jean, 1759-1838"
+role = "publisher"
+
+[[resp]]
+name = "Baudouin, imprimeur du Corps législatif, place du Carrousel, no. 662"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_863351"
+
+[[text]]
+file = "opinion00unse_acf.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opinion00unse_acf.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opinion00unse_acf.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opinion00unse_acf.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opinion00unse_acf.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opinion00unse_acf.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

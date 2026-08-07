@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "ordonnancedubure00pari_19"
+type = "pamphlet"
+title = "Ordonnance du Bureau des finances de la généralité de Paris, qui condamne Edme Bezine, laboureur au port, paroisse de Briennon, en cent cinquante livres d'amende : pour avoir fait paître ses bestiaux dans les emplacemens, remblais & talus du canal de Bourgogne, & avoir usé de voies de fait à l'égard des officiers préposés pour veiller aux ouvrages dudit canal : du 28 août 1778 : de par le roi, les présidens-trésoriers de France, généraux des finances & grands-voyers en la généralité de Paris"
+language = "fr"
+place = "A Paris"
+date = "1778"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on the cover page. Damaged, stained, and/or loose pages. Uneven binding. Skewed text. Text on the back cover is upside-down."
+url = "https://archive.org/details/ordonnancedubure00pari_19"
+subject = [
+    "Bezine, Edme",
+    "Pasture, Right of",
+    "Fines (Penalties)",
+]
+extent = "3 p. ; 25 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC suppl. 101 no. 5"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7xm3hz82"
+internet_archive = "ordonnancedubure00pari_19"
+openlibrary_edition = "OL26235997M"
+openlibrary_work = "OL17630559W"
+
+[scan]
+file = "ordonnancedubure00pari_19.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/ordonnancedubure00pari_19"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Paris (France : Généralité). Bureau des finances"
+role = "author"
+
+[[resp]]
+name = "Simon, P. G. (Pierre-Guillaume), 1722-1787"
+role = "publisher"
+
+[[resp]]
+name = "Chez P.G. Simon, imprimeur du Parlement, rue Mignon S. André-des-Arcs"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_861373"
+
+[[text]]
+file = "ordonnancedubure00pari_19.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordonnancedubure00pari_19.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordonnancedubure00pari_19.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordonnancedubure00pari_19.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

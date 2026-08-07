@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "opiniondemcuelde00cuel"
+type = "pamphlet"
+title = "Opinion de M. Cuel, député du département du Puy-de-Dôme, sur le projet de décret proposé par le Comité de marine contre le ministre."
+language = "fr"
+place = "A Paris"
+date = "1792"
+note = """Caption title. Imprint from colophon. "Marine. G."--Bottom of p. [1]. Ms. notes, p. 4: Distribué le 23 [?] 1792. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  I, 8989. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged pages and cover."""
+url = "https://archive.org/details/opiniondemcuelde00cuel"
+subject = [
+    "Bertrand de Moleville, Antoine-François, marquis de, 1744-1818",
+    "Punishment",
+]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 16835"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t07x1ct3d"
+internet_archive = "opiniondemcuelde00cuel"
+openlibrary_edition = "OL26199631M"
+openlibrary_work = "OL17596296W"
+
+[scan]
+file = "opiniondemcuelde00cuel.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/opiniondemcuelde00cuel"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Cuel, François, 1735-1801"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_835713"
+
+[[text]]
+file = "opiniondemcuelde00cuel.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opiniondemcuelde00cuel.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opiniondemcuelde00cuel.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opiniondemcuelde00cuel.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

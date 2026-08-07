@@ -1,0 +1,93 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "opiniondepierreb00bail_1"
+type = "pamphlet"
+title = "Opinion de Pierre Baille, député des Bouches-du-Rhône, sur le jugement de Louis XVI"
+language = "fr"
+place = "Paris"
+date = "1792"
+note = """Caption title. At head of title: Convention nationale. Imprint from colophon. "Législation, no. 114"--Bottom of p. [1]. Martin & Walter. Révolution française. Forms part of the French Revolution Collection at the Newberry Library. Bibliography: Martin & Walter.  Révolution française, I, 1049. Scanner's note: Title page located on front cover. No copyright page found. No table-of-contents pages found. Worn, damaged and discolored pages and cover. Skewed text. Uneven binding."""
+url = "https://archive.org/details/opiniondepierreb00bail_1"
+subject = [
+    "Louis XVI, King of France, 1754-1793",
+    "Justice, Administration of",
+]
+extent = "3 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing DC137.08 .F73 v. 9, no. 12"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t24b8f11c"
+internet_archive = "opiniondepierreb00bail_1"
+
+[scan]
+file = "opiniondepierreb00bail_1.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/opiniondepierreb00bail_1"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Baille, Pierre Marie, 175-1793"
+role = "author"
+
+[[resp]]
+name = "Baille, Pierre Marie, 1750-1793"
+role = "author"
+
+[[resp]]
+name = "French Revolution Collection (Newberry Library) ICN"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "Louis XVI Trial and Execution Collection (Newberry Library) ICN"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_829028"
+
+[[text]]
+file = "opiniondepierreb00bail_1.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opiniondepierreb00bail_1.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opiniondepierreb00bail_1.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opiniondepierreb00bail_1.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

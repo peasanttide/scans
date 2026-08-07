@@ -1,0 +1,83 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "ordredutravailsu00bare"
+type = "pamphlet"
+title = "Ordre du travail sur le pouvoir judiciaire, proposé par M. Barère de Vieuzac, et adopté par l'Assemblée nationale, à la séance du 31 mars 1790."
+language = "fr"
+place = "Paris"
+date = "1790"
+note = "Caption title. At head of title: Assemblée nationale. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  I, 1609. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on cover."
+url = "https://archive.org/details/ordredutravailsu00bare"
+subject = [
+    "Judicial power",
+    "Court administration",
+]
+extent = "2 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 13954"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8dg1f422"
+internet_archive = "ordredutravailsu00bare"
+openlibrary_edition = "OL25918782M"
+openlibrary_work = "OL17341884W"
+
+[scan]
+file = "ordredutravailsu00bare.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/ordredutravailsu00bare"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Barère, B. (Bertrand), 1755-1841"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_829482"
+
+[[text]]
+file = "ordredutravailsu00bare.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordredutravailsu00bare.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordredutravailsu00bare.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordredutravailsu00bare.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

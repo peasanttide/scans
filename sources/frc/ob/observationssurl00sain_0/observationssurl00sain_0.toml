@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "observationssurl00sain_0"
+type = "pamphlet"
+title = "Observations sur l'organisation des assemblées des districts /"
+language = "fr"
+place = "Paris"
+date = "1789"
+note = "Caption title. Imprint from colophon. Place of publication from Martin & Walter. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  III, 19918."
+url = "https://archive.org/details/observationssurl00sain_0"
+subject = ["Local government"]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 20869"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8rc2940w"
+internet_archive = "observationssurl00sain_0"
+openlibrary_edition = "OL26238309M"
+openlibrary_work = "OL17632839W"
+
+[scan]
+file = "observationssurl00sain_0.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/observationssurl00sain_0"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Saint-Martin, Nicolas François Leblond de"
+role = "author"
+
+[[resp]]
+name = "Cressonnier"
+role = "publisher"
+
+[[resp]]
+name = "Chez Cressonnier libraire, rue St. Jacques, en face de celle des Mathurins, no. 37"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_843716"
+
+[[text]]
+file = "observationssurl00sain_0.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "observationssurl00sain_0.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "observationssurl00sain_0.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "observationssurl00sain_0.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,81 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "observationsauco00mali"
+type = "pamphlet"
+title = "Observations au Conseil des anciens sur les assemblées électorales de l'Hérault /"
+language = "fr"
+place = "Paris"
+date = "1799"
+note = """Caption title. "Paris, le [blank] floréal an 7e"--P. 4. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  III, 22528. Scanner's note: Title page located on front cover. No copyright page found. No table-of-contents pages found. Skewed text. Worn, damaged pages and cover. Discolored pages."""
+url = "https://archive.org/details/observationsauco00mali"
+subject = [
+    "France. Hérault. Assemblée electorale",
+    "Secession",
+    "Central-local government relations",
+    "Elections",
+]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 12484"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t11p2tf4q"
+internet_archive = "observationsauco00mali"
+openlibrary_edition = "OL25927961M"
+openlibrary_work = "OL17350527W"
+
+[scan]
+file = "observationsauco00mali.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/observationsauco00mali"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Malibran, Jean-Baptiste-Antoine-Marie, 1761-1820"
+role = "author"
+
+[[resp]]
+name = "France. Corps législatif (1795-1814). Conseil des anciens"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_826714"
+
+[[text]]
+file = "observationsauco00mali.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "observationsauco00mali.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "observationsauco00mali.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "observationsauco00mali.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

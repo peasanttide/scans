@@ -1,0 +1,84 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "ordonnanceduroip00fran_0"
+type = "pamphlet"
+title = "Ordonnance du roi, portant que le régiment de cavalerie de Chartres, ci-devant Bellefonds, prendra rang dans la cavalerie après celui d'Orléans : du 7 mai 1758 : de par le roi"
+language = "fr"
+place = "A Paris"
+date = "1758"
+note = """Caption title. "Signé Louis. Et plus bas, le Mal. duc de Belle-Isle"--P. 2. Imprint from colophon. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained and/or loose pages. Skewed text. The text on the back cover is upside-down."""
+url = "https://archive.org/details/ordonnanceduroip00fran_0"
+subject = ["France. Armée. Cavalerie"]
+extent = "3 p. ; 28 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC suppl. 91 no. 1"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9k410r62"
+internet_archive = "ordonnanceduroip00fran_0"
+openlibrary_edition = "OL26235222M"
+openlibrary_work = "OL17629806W"
+
+[scan]
+file = "ordonnanceduroip00fran_0.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/ordonnanceduroip00fran_0"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Sovereign (1715-1774 : Louis XV)"
+role = "author"
+
+[[resp]]
+name = "Louis XV, King of France, 1710-1774"
+role = "author"
+
+[[resp]]
+name = "Belle-Isle, Charles Louis Auguste Fouquet, duc de, 1684-1761"
+role = "author"
+
+[[resp]]
+name = "Imprimerie royale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie royale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_73820"
+
+[[text]]
+file = "ordonnanceduroip00fran_0.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordonnanceduroip00fran_0.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordonnanceduroip00fran_0.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordonnanceduroip00fran_0.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

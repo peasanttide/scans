@@ -1,0 +1,59 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "ordonnancedemons00ango"
+type = "pamphlet"
+title = "Ordonnance de Monsieur le Lieutenant General de Police de la ville, fauxbourgs & banlieuë d'Angoulême"
+language = "fr"
+date = "1749"
+note = "Ordinance promulgated in favor of Jacques Rezé and Abraham François Robin, authorized printers of Angoulême, dated 30 December 1749. Scanner's note: No copyright page found. No table-of-contents pages found. Title and cover pages combined."
+url = "https://archive.org/details/ordonnancedemons00ango"
+subject = [
+    "Printing industry",
+    "Printing",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 5 no. 83"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0vq8jt44"
+internet_archive = "ordonnancedemons00ango"
+
+[scan]
+file = "ordonnancedemons00ango.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/ordonnancedemons00ango"
+ppi = 350
+note = "Scanned on fold1.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Angoulême (France).Police"
+role = "author"
+
+[[resp]]
+name = "Angoulême (France). Police"
+role = "author"
+
+[[resp]]
+name = "[Angoulême"
+role = "publisher"
+
+[[text]]
+file = "ordonnancedemons00ango.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordonnancedemons00ango.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

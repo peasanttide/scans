@@ -1,0 +1,74 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "opinion00unse_fvy"
+type = "pamphlet"
+title = "Opinion d'un patriote germain, sur la motion du citoyen Buzot."
+language = "fr"
+place = "France"
+date = "1792"
+note = "Caption title. By D.A. Seiffert. Cf. Barbier. Not in Martin & Walter. Révolution française. Barbier, A.A. Ouvrages anonymes. Bibliography: Barbier, A.A.  Ouvrages anonymes,  III, column 714. Scanner's note: No copyright found. No table of contents found. Title on cover. Damaged, stained pages and cover. <br />."
+url = "https://archive.org/details/opinion00unse_fvy"
+subject = [
+    "Buzot, François, 1760-1794",
+    "Bourbon, House of",
+    "Exile (Punishment)",
+]
+extent = "4 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 25149"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3vt6zh64"
+internet_archive = "opinion00unse_fvy"
+
+[scan]
+file = "opinion00unse_fvy.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/opinion00unse_fvy"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "Seiffert, D. A"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_850786"
+
+[[text]]
+file = "opinion00unse_fvy.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opinion00unse_fvy.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opinion00unse_fvy.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opinion00unse_fvy.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

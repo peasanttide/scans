@@ -1,0 +1,69 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "opiniondeauberts00aube"
+type = "pamphlet"
+title = "Opinion de Aubert sur l'appel nominal, fait et dépouillé dans la séance du 28 thermidor an 7."
+language = "fr"
+date = "1799"
+note = "Caption title. Imprint from colophon. Place of publication from Martin & Walter. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,I, 619. Scanner's note: Title found on front cover. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/opiniondeauberts00aube"
+subject = ["Legislative bodies"]
+extent = "3 p. ;19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "CaseFRC10545"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6wx0f44x"
+internet_archive = "opiniondeauberts00aube"
+
+[scan]
+file = "opiniondeauberts00aube.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/opiniondeauberts00aube"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Aubert, François,1736-1820"
+role = "author"
+
+[[resp]]
+name = "[Paris] :Baudouin, Imprimeur du Corps législatif, place du Carrousel, No. 662,"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_823785"
+
+[[text]]
+file = "opiniondeauberts00aube.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "opiniondeauberts00aube.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "opiniondeauberts00aube.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "opiniondeauberts00aube.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"

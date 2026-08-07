@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "opinionsurlarmee00ambl"
+type = "pamphlet"
+title = "Opinion sur l'armée, dans les circonstances actuelles /"
+language = "fr"
+place = "Paris"
+date = "1789"
+note = "Caption title. Imprint from colophon. Publisher location from Martin & Walter. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  I, 205. Scanner's note: No title page found. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/opinionsurlarmee00ambl"
+subject = ["France. Armée"]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 13461"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8hf2jx9z"
+internet_archive = "opinionsurlarmee00ambl"
+openlibrary_edition = "OL25926213M"
+openlibrary_work = "OL17348839W"
+
+[scan]
+file = "opinionsurlarmee00ambl.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/opinionsurlarmee00ambl"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Ambly, Claude-Jean-Antoine, marquis d', 1720-1798"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Cussac, libraire, au Palais Royale, no 7 et 8"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_828443"
+
+[[text]]
+file = "opinionsurlarmee00ambl.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opinionsurlarmee00ambl.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opinionsurlarmee00ambl.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opinionsurlarmee00ambl.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

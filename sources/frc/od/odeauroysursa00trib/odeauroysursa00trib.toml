@@ -1,0 +1,67 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "odeauroysursa00trib"
+type = "pamphlet"
+title = "Ode au roy, sur sa convalescence"
+language = "fr"
+date = "1744"
+note = "Binder's title: Conquest du roy. Caption title. Signed: Le P. Tribié, de la C. de J. This poem is not to be confused with the work by the same name attributed to Joseph Du Baudroy. Scanner's note: Title is on the cover. Uneven binding. Skewed text. Irregular pagination. Page numbers have been marked or altered. Damaged, stained, torn and/or loose pages."
+url = "https://archive.org/details/odeauroysursa00trib"
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "E 5 .L92705 v. 05 no. 37"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t57d8z08z"
+internet_archive = "odeauroysursa00trib"
+
+[scan]
+file = "odeauroysursa00trib.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/odeauroysursa00trib"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Tribié"
+role = "author"
+
+[[resp]]
+name = "Tribié"
+role = "author"
+
+[[resp]]
+name = "[n.p."
+role = "publisher"
+
+[[text]]
+file = "odeauroysursa00trib.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "odeauroysursa00trib.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "odeauroysursa00trib.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "odeauroysursa00trib.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

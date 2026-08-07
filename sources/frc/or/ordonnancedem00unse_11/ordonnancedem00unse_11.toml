@@ -1,0 +1,82 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "ordonnancedem00unse_11"
+type = "pamphlet"
+title = "Ordonnance de M. le lieutenant général de police, qui interdit l'usage de carrieres exploitées sans permission au territoire de Montesson, par les nommés Dreux, Nicolle, Chatelier & autres, & qui les condamne en l'amende, & à détruire des cavages dangereux & abandonnés : du 27 juin 1781 /"
+language = "fr"
+place = "A Paris"
+date = "1781"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on the cover page. Damaged, stained, and/or loose pages. Uneven binding. Skewed text. Text on the back cover is upside-down."
+url = "https://archive.org/details/ordonnancedem00unse_11"
+subject = [
+    "Abandoned quarries",
+    "Quarries and quarrying",
+    "Fines (Penalties)",
+]
+extent = "3 p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC suppl. 103 no. 13"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t78s9z05j"
+internet_archive = "ordonnancedem00unse_11"
+
+[scan]
+file = "ordonnancedem00unse_11.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/ordonnancedem00unse_11"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Paris (France). Lieutenant général de police"
+role = "author"
+
+[[resp]]
+name = "Lenoir, Jean-Charles-Pierre, 1732-1807"
+role = "author"
+
+[[resp]]
+name = "Simon, P. G. (Pierre-Guillaume), 1722-1787"
+role = "publisher"
+
+[[resp]]
+name = "Chez P.G. Simon, imprimeur du Parlement, rue Mignon Saint André-des-Arcs"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_861397"
+
+[[text]]
+file = "ordonnancedem00unse_11.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordonnancedem00unse_11.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordonnancedem00unse_11.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordonnancedem00unse_11.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "opinionetprojetd00baer"
+type = "pamphlet"
+title = "Opinion et projet de décret sur les émigrans"
+language = "fr"
+date = "1791"
+note = """Caption title. Imprint from colophon. "Administration. H."--Bottom of p. [1]. Martin & Walter. Revolution francaise. Bibliography: Martin & Walter.  Revolution francaise,I, 1025. Scanner's note: Title found on front cover. No copyright page found. No table-of-contents pages found."""
+url = "https://archive.org/details/opinionetprojetd00baer"
+subject = [
+    "Refugees",
+    "Emigration and immigration law",
+]
+extent = "4 p. ;19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "CaseFRC10581"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t88h1nx2z"
+internet_archive = "opinionetprojetd00baer"
+
+[scan]
+file = "opinionetprojetd00baer.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/opinionetprojetd00baer"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Baert-Duholant, Charles-Alexandre-Balthazar-François de Paule,baron de,1751-1825"
+role = "author"
+
+[[resp]]
+name = "[Paris] :De l'Imprimerie nationale,"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_823620"
+
+[[text]]
+file = "opinionetprojetd00baer.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "opinionetprojetd00baer.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "opinionetprojetd00baer.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "opinionetprojetd00baer.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"

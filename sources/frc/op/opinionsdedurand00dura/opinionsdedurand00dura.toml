@@ -1,0 +1,84 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "opinionsdedurand00dura"
+type = "pamphlet"
+title = "Opinions de Durand-Maillane, sur les trois questions posées pour le jugement de Louis Capet, et leurs motifs."
+language = "fr"
+place = "Paris"
+date = "1793"
+note = """Caption title. At head of title: Convention nationale. "Imprimées par ordre de la Convention nationale"--P. [1]. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  II, 12420. Scanner's note: No copyright page found. No table-of-contents pages found. Damaged, stained pages and cover. Title on cover page."""
+url = "https://archive.org/details/opinionsdedurand00dura"
+subject = ["Louis XVI, King of France, 1754-1793"]
+extent = "3 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 18161"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0jt4n61k"
+internet_archive = "opinionsdedurand00dura"
+openlibrary_edition = "OL26196214M"
+openlibrary_work = "OL17592974W"
+
+[scan]
+file = "opinionsdedurand00dura.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/opinionsdedurand00dura"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Durand de Maillane, M. (Pierre Toussaint), 1729-1814"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "Louis XVI Trial and Execution Collection (Newberry Library) ICN"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_837774"
+
+[[text]]
+file = "opinionsdedurand00dura.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opinionsdedurand00dura.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opinionsdedurand00dura.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opinionsdedurand00dura.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

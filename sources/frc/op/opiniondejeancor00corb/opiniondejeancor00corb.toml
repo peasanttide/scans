@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "opiniondejeancor00corb"
+type = "pamphlet"
+title = "Opinion de Jean Corbin, instituteur de feu M. le Dauphin, sur l'accusation intentée contre Louis XVI."
+language = "fr"
+place = "France"
+date = "1792"
+note = "Caption title. Signed: A Paris, ce 9 décembre 1792. Signé Jean Corbin. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  I, 8231. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover page. Skewed text."
+url = "https://archive.org/details/opiniondejeancor00corb"
+subject = ["Louis XVI, King of France, 1754-1793"]
+extent = "3 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 16595"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1ck3d731"
+internet_archive = "opiniondejeancor00corb"
+openlibrary_edition = "OL26199288M"
+openlibrary_work = "OL17595954W"
+
+[scan]
+file = "opiniondejeancor00corb.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/opiniondejeancor00corb"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Corbin, Jean, abbé"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_834401"
+
+[[text]]
+file = "opiniondejeancor00corb.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opiniondejeancor00corb.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opiniondejeancor00corb.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opiniondejeancor00corb.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

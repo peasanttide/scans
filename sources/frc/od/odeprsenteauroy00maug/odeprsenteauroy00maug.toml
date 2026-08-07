@@ -1,0 +1,64 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "odeprsenteauroy00maug"
+type = "pamphlet"
+title = "Ode présentée au roy"
+language = "fr"
+place = "Paris"
+date = "1744"
+note = "Binder's title: Conquest du roy. Caption title. Signed: Mauger, garde du roi. Scanner's note: Title is on the cover. Uneven binding. Skewed text. Irregular pagination. Page numbers have been marked or altered."
+url = "https://archive.org/details/odeprsenteauroy00maug"
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "E 5 .L92705 v. 05 no. 26"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t15n28r1k"
+internet_archive = "odeprsenteauroy00maug"
+
+[scan]
+file = "odeprsenteauroy00maug.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/odeprsenteauroy00maug"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Mauger"
+role = "author"
+
+[[resp]]
+name = "Ph. N. Lottin"
+role = "publisher"
+
+[[text]]
+file = "odeprsenteauroy00maug.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "odeprsenteauroy00maug.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "odeprsenteauroy00maug.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "odeprsenteauroy00maug.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

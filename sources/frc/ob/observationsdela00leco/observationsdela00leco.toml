@@ -1,0 +1,107 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "observationsdela00leco"
+type = "pamphlet"
+title = "Observations de Laurent Le Cointre, et demande en rapport du décret d'hier, qui prononce l'expulsion totale de la famille des Bourbons."
+language = "fr"
+place = "Paris"
+date = "1792"
+note = """Caption title. Imprint from colophon. Dated, p. [1]: Ce 17 décembre 1792, l'an premier de la République. Martin & Walter. Révolution française. "Laurent Lecointre, député du département de Seine et Oise, a la Convention nationale"--P. [1]-2. Bibliography: Martin & Walter.  Révolution française,  III, 20328."""
+url = "https://archive.org/details/observationsdela00leco"
+subject = [
+    "Bourbon, House of",
+    "Exile (Punishment)",
+]
+extent = "8 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 21019"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0qs0277k"
+internet_archive = "observationsdela00leco"
+openlibrary_edition = "OL26238623M"
+openlibrary_work = "OL17633158W"
+
+[scan]
+file = "observationsdela00leco.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/observationsdela00leco"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Lecointre, Laurent, d. 1805"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_843982"
+
+[[text]]
+file = "observationsdela00leco.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "observationsdela00leco.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "observationsdela00leco.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "observationsdela00leco.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "observationsdela00leco.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "observationsdela00leco.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "observationsdela00leco.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "observationsdela00leco.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

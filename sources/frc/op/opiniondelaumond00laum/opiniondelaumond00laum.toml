@@ -1,0 +1,83 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "opiniondelaumond00laum"
+type = "pamphlet"
+title = "Opinion de Laumond, sur les domaines engagés : séance du 6 messidor an 6."
+language = "fr"
+place = "A Paris"
+date = "1798"
+note = "Caption title. At head of title: Corps législatif. Conseil des cinq-cents. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  III, 19620. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on the cover.  Damaged pages. Inconsistent page sizes. Skewed print."
+url = "https://archive.org/details/opiniondelaumond00laum"
+subject = [
+    "Eminent domain",
+    "Public lands",
+    "Real property",
+    "Finance, Public",
+]
+extent = "4 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 12188"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t18m2045q"
+internet_archive = "opiniondelaumond00laum"
+
+[scan]
+file = "opiniondelaumond00laum.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/opiniondelaumond00laum"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Laumond, Marc-Antoine, b. 1761"
+role = "author"
+
+[[resp]]
+name = "France. Corps législatif (1795-1814). Conseil des cinq-cents"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_825807"
+
+[[text]]
+file = "opiniondelaumond00laum.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opiniondelaumond00laum.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opiniondelaumond00laum.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opiniondelaumond00laum.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

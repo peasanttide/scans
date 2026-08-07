@@ -1,0 +1,88 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "opiniondereinaud00rein"
+type = "pamphlet"
+title = "Opinion de Reinaud-Lascours, député du Gard, sur la loi du 3 brumaire."
+language = "fr"
+place = "Paris"
+date = "1795"
+note = "Caption title. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  IV:1, 28988. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover."
+url = "https://archive.org/details/opiniondereinaud00rein"
+subject = ["Constitutional law"]
+extent = "6 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 12989"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0ps2jf7h"
+internet_archive = "opiniondereinaud00rein"
+openlibrary_edition = "OL25931673M"
+openlibrary_work = "OL17353902W"
+
+[scan]
+file = "opiniondereinaud00rein.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/opiniondereinaud00rein"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Reinaud de Lascours, Jérôme, 1761-1835"
+role = "author"
+
+[[resp]]
+name = "Baudouin, François-Jean, 1759-1838"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie de Baudouin, imprimeur du Corps législatif, place du Carousel"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_828310"
+
+[[text]]
+file = "opiniondereinaud00rein.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opiniondereinaud00rein.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opiniondereinaud00rein.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opiniondereinaud00rein.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opiniondereinaud00rein.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opiniondereinaud00rein.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

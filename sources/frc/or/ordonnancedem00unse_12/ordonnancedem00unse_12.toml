@@ -1,0 +1,81 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "ordonnancedem00unse_12"
+type = "pamphlet"
+title = "Ordonnance de M. le lieutenant général de police, rendue contre plusieurs carriers d'Argenteuil : du 6 octobre 1781 /"
+language = "fr"
+place = "A Paris"
+date = "1781"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: Title is on the cover page. Damaged, stained, and/or loose pages. Uneven binding. Skewed text. Text on the back cover is upside-down. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/ordonnancedem00unse_12"
+subject = [
+    "Quarries and quarrying",
+    "Building laws",
+]
+extent = "3 p. ; 25 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC suppl. 103 no. 14"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1zd34p2m"
+internet_archive = "ordonnancedem00unse_12"
+
+[scan]
+file = "ordonnancedem00unse_12.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/ordonnancedem00unse_12"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Paris (France). Lieutenant général de police"
+role = "author"
+
+[[resp]]
+name = "Lenoir, Jean-Charles-Pierre, 1732-1807"
+role = "author"
+
+[[resp]]
+name = "Imprimerie royale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie royale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_861398"
+
+[[text]]
+file = "ordonnancedem00unse_12.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordonnancedem00unse_12.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordonnancedem00unse_12.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordonnancedem00unse_12.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

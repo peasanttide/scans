@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "ordonnanceduroy00loui"
+type = "pamphlet"
+title = "Ordonnance du roy, concernant la suspension d'armes par mer"
+language = "fr"
+place = "Paris"
+date = "1748"
+note = "Binder's title: Conquest du roy. Scanner's note: Title is on the cover. Uneven binding. Skewed text. Irregular pagination. Page numbers have been marked or altered. Damaged, stained, wrinkled, and/or torn pages. Some text may be lost in the binding."
+url = "https://archive.org/details/ordonnanceduroy00loui"
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "E 5 .L92705 v. 10 no. 33"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7kq42z3k"
+internet_archive = "ordonnanceduroy00loui"
+
+[scan]
+file = "ordonnanceduroy00loui.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/ordonnanceduroy00loui"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "LouisXV,King of France,1710-1774"
+role = "author"
+
+[[resp]]
+name = "Louis XV, King of France, 1710-1774"
+role = "author"
+
+[[resp]]
+name = "France. Sovereign (1715-1774 : Louis XV)"
+role = "author"
+
+[[resp]]
+name = "L'imprimerie royale"
+role = "publisher"
+
+[[text]]
+file = "ordonnanceduroy00loui.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordonnanceduroy00loui.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordonnanceduroy00loui.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordonnanceduroy00loui.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,96 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "ordonnance00avig"
+type = "pamphlet"
+title = "Ordonnance"
+language = "fr"
+place = "Avignon"
+date = "1790"
+note = "Caption title. Imprint from colophon. Dated at end: Donné `a Avignon ... le 24 avril 1790. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages."
+url = "https://archive.org/details/ordonnance00avig"
+subject = ["Police"]
+extent = "8 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9415"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9w146231"
+internet_archive = "ordonnance00avig"
+openlibrary_edition = "OL26222117M"
+openlibrary_work = "OL17617618W"
+
+[scan]
+file = "ordonnance00avig.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/ordonnance00avig"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Avignon (France). Bureau de police"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Tournel"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_67288"
+
+[[text]]
+file = "ordonnance00avig.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordonnance00avig.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordonnance00avig.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordonnance00avig.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordonnance00avig.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordonnance00avig.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordonnance00avig.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordonnance00avig.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

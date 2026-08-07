@@ -1,0 +1,82 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "opinion00unse_vv6"
+type = "pamphlet"
+title = "Opinion de C.A.B. Reynaud, républicain de la Haute-Loire, député a la Convention nationale, sur le jugement de Louis Capet : imprimée par ordre de la Convention nationale"
+language = "fr"
+place = "Paris"
+date = "1792"
+note = """Caption title. At head of title: Convention nationale. Imprint from colophon. "Législation, (no. 140.)"--Bottom of p. [1]. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française, IV:1, 29130. Scanner's note: No copyright page found. No table-of-contents pages found.  Title and cover are combined. Uneven binding. Skewed text. Damaged, stained and/or loose pages."""
+url = "https://archive.org/details/opinion00unse_vv6"
+subject = ["Louis XVI, King of France, 1754-1793"]
+extent = "4 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing DC137.08 .F73 v.14, no. 46"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9h47301p"
+internet_archive = "opinion00unse_vv6"
+
+[scan]
+file = "opinion00unse_vv6.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/opinion00unse_vv6"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Reynaud de Bonnassous, Claude-André-Benoît, 1749-1817"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "Louis XVI Trial and Execution Collection (Newberry Library) ICN"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_845715"
+
+[[text]]
+file = "opinion00unse_vv6.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opinion00unse_vv6.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opinion00unse_vv6.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opinion00unse_vv6.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

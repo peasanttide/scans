@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "ordonnancedemess00cath"
+type = "pamphlet"
+title = "Ordonnance de Messieurs les vicaires generaux du chapitre, et archidiacres de l'eglise de Paris, administrateurs de l'archevêché, le siége vacant"
+language = "fr"
+place = "Paris"
+date = "1746"
+note = "Binder's title: Conquest du roy. Caption title. Concerning a statement of the Court of Clermont. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on the cover. Uneven binding. Skewed text. Irregular pagination. Page numbers have been marked or altered. Damaged, stained, torn and/or loose pages. Some text may be lost in the binding."
+url = "https://archive.org/details/ordonnancedemess00cath"
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "E 5 .L92705 v. 09 no. 34"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t05x8d45v"
+internet_archive = "ordonnancedemess00cath"
+
+[scan]
+file = "ordonnancedemess00cath.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/ordonnancedemess00cath"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Catholic Church.Archdiocese of Paris (France)"
+role = "author"
+
+[[resp]]
+name = "Catholic Church. Archdiocese of Paris (France)"
+role = "author"
+
+[[resp]]
+name = "Clermont, Louis de Bourbon-Condé, comte de, 1709-1771"
+role = "author"
+
+[[resp]]
+name = "Herissant"
+role = "publisher"
+
+[[text]]
+file = "ordonnancedemess00cath.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordonnancedemess00cath.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordonnancedemess00cath.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordonnancedemess00cath.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

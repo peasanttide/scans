@@ -1,0 +1,84 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "ordonnanceduroip00fran_2"
+type = "pamphlet"
+title = "Ordonnance du roi, pour régler le rang & le service à l'Armée, de quelques officiers supérieurs du régiment d'infanterie de Sa Majest́é : du 5 juillet 1779 : de par le roi"
+language = "fr"
+place = "A Paris"
+date = "1780"
+note = "Caption title. Signed: Louis. Et plus bas, le prince de Montbarey. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained and/or loose pages. Skewed text. Text on the back cover is upside-down."
+url = "https://archive.org/details/ordonnanceduroip00fran_2"
+subject = ["France. Armée"]
+extent = "2 p. ; 28 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC suppl. 91 no. 3"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1gj4q35w"
+internet_archive = "ordonnanceduroip00fran_2"
+openlibrary_edition = "OL26235220M"
+openlibrary_work = "OL17629804W"
+
+[scan]
+file = "ordonnanceduroip00fran_2.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/ordonnanceduroip00fran_2"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Sovereign (1774-1792 : Louis XVI)"
+role = "author"
+
+[[resp]]
+name = "Louis XVI, King of France, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "Montbarey, Alexandre Marie Léonor de Saint Mauris, prince de, 1732-1796"
+role = "author"
+
+[[resp]]
+name = "Simon, P. G. (Pierre-Guillaume), 1722-1787"
+role = "publisher"
+
+[[resp]]
+name = "Chez P.G. Simon, imprimeur du Parlement, rue Mignon Saint-André-des-Arcs"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_861587"
+
+[[text]]
+file = "ordonnanceduroip00fran_2.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordonnanceduroip00fran_2.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordonnanceduroip00fran_2.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordonnanceduroip00fran_2.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

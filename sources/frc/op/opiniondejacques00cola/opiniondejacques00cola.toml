@@ -1,0 +1,82 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "opiniondejacques00cola"
+type = "pamphlet"
+title = "Opinion de Jacques Bernardin Colaud La-Salcette, député du département de la Drome, prononcée à la tribune de la Convention nationale le 17 janvier : sur les trois questions, 1o. Louis Capet est-il coupable de conspiration contre la liberté, & d'attentat contre la sûreté générale?, 2o. La décision de la Convention sera-t-elle soumise à la ratification du peuple?, 3o. Quelle peine lui sera infligée? : imprimée par ordre de la Convention nationale"
+language = "fr"
+place = "Paris"
+date = "1793"
+note = """Caption title. At head of title: Convention nationale. Imprint from colophon. "17 janv. 1793"--Session date from Martin & Walter. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française, I, 7884. Scanner's note: No copyright page found. No table-of-contents pages found. Damaged, stained pages and cover. Title on cover.  Only one numbered page."""
+url = "https://archive.org/details/opiniondejacques00cola"
+subject = ["Louis XVI, King of France, 1754-1793"]
+extent = "2 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing DC137.08 .F73 v. 12, no. 21"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8vb3h07x"
+internet_archive = "opiniondejacques00cola"
+
+[scan]
+file = "opiniondejacques00cola.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/opiniondejacques00cola"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Colaud de la Salcette, Jacques-Bernardin, 1733-1796"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "Louis XVI Trial and Execution Collection (Newberry Library) ICN"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_834199"
+
+[[text]]
+file = "opiniondejacques00cola.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opiniondejacques00cola.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opiniondejacques00cola.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opiniondejacques00cola.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

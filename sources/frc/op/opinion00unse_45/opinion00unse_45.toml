@@ -1,0 +1,84 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "opinion00unse_45"
+type = "pamphlet"
+title = "Opinion de Jean-François Loiseau, député par le département d'Eure et Loir à la Convention nationale, sur le jugement du ci-devant roi."
+language = "fr"
+place = "A Paris"
+date = "1792"
+note = """Caption title. At head of title: Convention nationale. "Imprimé par ordre de le Convention nationale"--P. [1]. "Le 19 décembre l'an premier de la République"--P. [1]. Imprint from colophon. "Législation. (no. 126)"--Bottom of p. [1]. Not in Martin & Walter. Révolution française. Saricks, A. Melvin Coll. Bibliography: Saricks,  A.  Melvin Coll.,  I, 3737. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined.  Damaged, stained, marked and/or loose pages.  Uneven binding.  Skewed text."""
+url = "https://archive.org/details/opinion00unse_45"
+subject = ["Louis XVI, King of France, 1754-1793"]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 21473"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1fj7qg1q"
+internet_archive = "opinion00unse_45"
+openlibrary_edition = "OL26240381M"
+openlibrary_work = "OL17634905W"
+
+[scan]
+file = "opinion00unse_45.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/opinion00unse_45"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Loiseau, Jean François, 1751-1822"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "Louis XVI Trial and Execution Collection (Newberry Library) ICN"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_845139"
+
+[[text]]
+file = "opinion00unse_45.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opinion00unse_45.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opinion00unse_45.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opinion00unse_45.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

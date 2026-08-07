@@ -1,0 +1,55 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "ordonnanceduroil00fran"
+type = "pamphlet"
+title = "Ordonnance du Roi Louis Quatorze du 16 septembre 1714"
+language = "fr"
+date = "1745"
+note = "Manuscript on paper (fair copy). Text begins: Le roi ayant esté informé des differents survenus entre le Sieur de Villognon, son lieutenant au governement de la ville et du chateau d'Angoulême et le maire et les echevins, et le lieutenant general de police de lad. ville au sujet des fonctions de leurs charges .. Includes at lower right: Copie de la lettre de Monsieur de Saint Florentin, ecritte a Monsieur de Villognon a Versailles ce 10 janvier 1745. Scanner's note: No copyright page found. No table-of-contents pages found. Title and cover pages combined. Faint text."
+url = "https://archive.org/details/ordonnanceduroil00fran"
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 3 no. 54"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1ck43548"
+internet_archive = "ordonnanceduroil00fran"
+
+[scan]
+file = "ordonnanceduroil00fran.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/ordonnanceduroil00fran"
+ppi = 350
+note = "Scanned on fold1.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Sovereign (1643-1715 : Louis XIV)"
+role = "author"
+
+[[resp]]
+name = "France. Sovereign (1643-1715 : Louis XIV)"
+role = "author"
+
+[[resp]]
+name = "[n.p."
+role = "publisher"
+
+[[text]]
+file = "ordonnanceduroil00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordonnanceduroil00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

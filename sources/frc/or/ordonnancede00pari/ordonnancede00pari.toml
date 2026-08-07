@@ -1,0 +1,69 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "ordonnancede00pari"
+type = "pamphlet"
+title = "Ordonnance de police, qui défend à tous libraires, imprimeurs, relieurs, doreurs de livres, & à toutes autres personnes d'acheter aucuns livres & papiers, des enfans, ecoliers, serviteurs, ou d'autres personnes inconnuës, sans le consentement par écrit des peres, maistres, ou personnes capables d'en répondre: et de vendre ni exposer dans leurs boutiques & sur leurs etalages, ou de loüer aux jeunes gens, aucuns livres, histoires ou brochures contraires aux moeurs & à la religion"
+language = "fr"
+place = "Paris"
+date = "1725"
+note = "Caption title. Printer's name at foot of p. 3. Scanner's note: No copyright found.  No table of contents found.  Damaged, stained pages and cover.  Title on cover. <br />."
+url = "https://archive.org/details/ordonnancede00pari"
+subject = ["Book industries and trade"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 4 no. 70"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5gb7qb8n"
+internet_archive = "ordonnancede00pari"
+
+[scan]
+file = "ordonnancede00pari.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/ordonnancede00pari"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "Paris (France).Prévôté"
+role = "author"
+
+[[resp]]
+name = "Paris (France). Prévôté"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de C. L. Thiboust"
+role = "publisher"
+
+[[text]]
+file = "ordonnancede00pari.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordonnancede00pari.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordonnancede00pari.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordonnancede00pari.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

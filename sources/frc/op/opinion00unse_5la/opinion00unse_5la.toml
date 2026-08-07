@@ -1,0 +1,74 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "opinion00unse_5la"
+type = "pamphlet"
+title = "Opinion d'un citoyen."
+language = "fr"
+place = "Paris"
+date = "1791"
+note = "Caption title. Quote on p. [1] from P.Ph. Gudin begins: Il faut que l'année 1791, soit l'année des vertus publiques, de la réconciliation générale, de la paix fraternelle et de la prospérité de tous les départemens du royaume [...]. Imprint from colophon. Dated at end: Paris mai 1791. Martin & Walter. Révolution française. Concerns communication between the Assemblée nationale constituante and the king. Forms part of the French Revolution Collection at the Newberry Library. Bibliography: Martin & Walter.  Révolution française,  IV:2, 11464. Scanner's note: No copyright page found. No table-of-contents pages found. Damaged, stained pages and cover. Title on cover."
+url = "https://archive.org/details/opinion00unse_5la"
+subject = ["Executive-legislative relations"]
+extent = "4 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 27905"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1wd96t79"
+internet_archive = "opinion00unse_5la"
+
+[scan]
+file = "opinion00unse_5la.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/opinion00unse_5la"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Tallien, Jean-Lambert, 1767-2798"
+role = "author"
+
+[[resp]]
+name = "French Revolution Collection (Newberry Library) ICN"
+role = "author"
+
+[[resp]]
+name = "De l'imp. de l'Assemblée electorale au Palais"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_58578"
+
+[[text]]
+file = "opinion00unse_5la.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opinion00unse_5la.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opinion00unse_5la.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opinion00unse_5la.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

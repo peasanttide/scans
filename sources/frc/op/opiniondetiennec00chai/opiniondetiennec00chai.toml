@@ -1,0 +1,84 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "opiniondetiennec00chai"
+type = "pamphlet"
+title = "Opinion d'Étienne Chaillon, député du département de la Loire-Inférieure, sur le jugement de Louis XVI : prononcée le 16 janvier 1793, l'an IIe. de la République."
+language = "fr"
+place = "Paris"
+date = "1793"
+note = """Caption title. Place of publication from Martin & Walter; publisher from colophon. At head of title: Convention nationale. "Imprimée par ordre de la Convention nationale"--P. [1]. "Législation (No. 281)"--P. [1]. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  I, 6594. Scanner's note: No copyright page found. No table-of-contents pages found. Damaged pages and cover. Title on cover page."""
+url = "https://archive.org/details/opiniondetiennec00chai"
+subject = ["Louis XVI, King of France, 1754-1793"]
+extent = "3 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 15973"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t77t2mm9s"
+internet_archive = "opiniondetiennec00chai"
+openlibrary_edition = "OL25951501M"
+openlibrary_work = "OL17372491W"
+
+[scan]
+file = "opiniondetiennec00chai.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/opiniondetiennec00chai"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Chaillon, Etienne, 1736-1796"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "Louis XVI Trial and Execution Collection (Newberry Library) ICN"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_832785"
+
+[[text]]
+file = "opiniondetiennec00chai.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opiniondetiennec00chai.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opiniondetiennec00chai.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opiniondetiennec00chai.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

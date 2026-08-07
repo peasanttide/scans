@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "ordonnancedubure00pari_0"
+type = "pamphlet"
+title = "Ordonnance du Bureau des finances de la généralité de Paris, concernant le placement des bornes dans les rues de la nouvelle salle du Théâtre Italien : du 21 mars 1783 : de par le roi, les présidens-trésoriers de France, généraux des finances & grands-voyers en la généralité de Paris"
+language = "fr"
+place = "A Paris"
+date = "1783"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text. No title page found. No copyright page found. No table-of-contents pages found. Text on the back cover is upside-down."
+url = "https://archive.org/details/ordonnancedubure00pari_0"
+subject = [
+    "Opéra-Comique (Paris, France)",
+    "Pedestrian traffic flow",
+    "Sidewalks",
+]
+extent = "3 p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 27469"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t20d03q61"
+internet_archive = "ordonnancedubure00pari_0"
+openlibrary_edition = "OL26229085M"
+openlibrary_work = "OL17624119W"
+
+[scan]
+file = "ordonnancedubure00pari_0.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/ordonnancedubure00pari_0"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Paris (France : Généralité). Bureau des finances"
+role = "author"
+
+[[resp]]
+name = "Imprimerie royale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie royale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_861383"
+
+[[text]]
+file = "ordonnancedubure00pari_0.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordonnancedubure00pari_0.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordonnancedubure00pari_0.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordonnancedubure00pari_0.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,83 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "opiniondumarquis00fouc"
+type = "pamphlet"
+title = "Opinion du marquis de Foucauld l'Ardimalie, député de la noblesse de la province du Périgord, sur la motion de M. le vicomte de Noailles, concernant l'abolition de la féodalité, et le rachat des cens et rentes seigneuriales, etc. : du mardi 4 août 1789, à la séance du soir."
+language = "fr"
+place = "A Versailles"
+date = "1789"
+note = "Caption title. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  II, 13619. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page is on the cover. Skewed text. Damaged, loose pages. Uneven binding."
+url = "https://archive.org/details/opiniondumarquis00fouc"
+subject = [
+    "Feudal law",
+    "Nobility",
+]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 18690"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t56f0vd83"
+internet_archive = "opiniondumarquis00fouc"
+openlibrary_edition = "OL26200614M"
+openlibrary_work = "OL17597222W"
+
+[scan]
+file = "opiniondumarquis00fouc.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/opiniondumarquis00fouc"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Foucault de Lardimalie, Louis, marquis de, 1755-1805"
+role = "author"
+
+[[resp]]
+name = "Noailles, Louis Marie, vicomte de, 1756-1804"
+role = "author"
+
+[[resp]]
+name = "Baudouin, François-Jean, 1759-1838"
+role = "publisher"
+
+[[resp]]
+name = "Chez Baudouin, imprimeur de l'Assemblée nationale, avenue de Saint-Cloud, no. 69"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_839227"
+
+[[text]]
+file = "opiniondumarquis00fouc.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opiniondumarquis00fouc.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opiniondumarquis00fouc.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opiniondumarquis00fouc.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

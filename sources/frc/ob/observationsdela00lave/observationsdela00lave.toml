@@ -1,0 +1,87 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "observationsdela00lave"
+type = "pamphlet"
+title = "Observations de Laveaux sur le discours de Courtois."
+language = "fr"
+place = "Paris"
+date = "1799"
+note = "Caption title. At head of title: Corps législatif. Conseil des anciens. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  III, 19783. Scanner's note: No copyright page found. No table-of-contents pages found. Title page is on the cover. Damaged, stained, and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/observationsdela00lave"
+subject = [
+    "Political clubs",
+    "Assembly, Right of",
+]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 20833"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t25b5bq75"
+internet_archive = "observationsdela00lave"
+openlibrary_edition = "OL26237880M"
+openlibrary_work = "OL17632430W"
+
+[scan]
+file = "observationsdela00lave.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/observationsdela00lave"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Laveaux, Etienne Magneaud Bizefranc de, 1751-1828"
+role = "author"
+
+[[resp]]
+name = "Courtois, Edme-Bonaventure, 1754-1816"
+role = "author"
+
+[[resp]]
+name = "France. Corps législatif (1795-1814). Conseil des anciens"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_843630"
+
+[[text]]
+file = "observationsdela00lave.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "observationsdela00lave.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "observationsdela00lave.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "observationsdela00lave.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

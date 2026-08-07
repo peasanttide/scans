@@ -1,0 +1,69 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "ordonnancedelaco00fran"
+type = "pamphlet"
+title = "Ordonnance de la Cour de Parlement, aydes et finances de Dauphiné"
+language = "fr"
+place = "A Grenoble"
+date = "1719"
+note = "Caption title. Imprint at foot of p. 4."
+url = "https://archive.org/details/ordonnancedelaco00fran"
+subject = ["Goats"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 4 no. 12"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2r557x18"
+internet_archive = "ordonnancedelaco00fran"
+
+[scan]
+file = "ordonnancedelaco00fran.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/ordonnancedelaco00fran"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Parlement (Grenoble)"
+role = "author"
+
+[[resp]]
+name = "France. Parlement (Grenoble)"
+role = "author"
+
+[[resp]]
+name = "Chés Gaspard Giroud"
+role = "publisher"
+
+[[text]]
+file = "ordonnancedelaco00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordonnancedelaco00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordonnancedelaco00fran.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordonnancedelaco00fran.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

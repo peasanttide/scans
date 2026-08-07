@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "opinionpresentee00piet"
+type = "pamphlet"
+title = "Opinion présentée & lue, séance du premier août 1793, à la Convention nationale /"
+language = "fr"
+place = "Paris"
+date = "1793"
+note = "Caption title. At head of title: Convention nationale. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  III, 27354."
+url = "https://archive.org/details/opinionpresentee00piet"
+subject = ["Educational law and legislation"]
+extent = "4 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 12843"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t81k45c0p"
+internet_archive = "opinionpresentee00piet"
+openlibrary_edition = "OL25931662M"
+openlibrary_work = "OL17353891W"
+
+[scan]
+file = "opinionpresentee00piet.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/opinionpresentee00piet"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Piette, Jean-Baptiste, 1747-1818"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_827279"
+
+[[text]]
+file = "opinionpresentee00piet.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opinionpresentee00piet.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opinionpresentee00piet.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opinionpresentee00piet.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

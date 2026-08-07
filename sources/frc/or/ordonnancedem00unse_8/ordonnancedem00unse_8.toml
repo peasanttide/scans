@@ -1,0 +1,82 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "ordonnancedem00unse_8"
+type = "pamphlet"
+title = "Ordonnance de M. le lieutenant général de police, rendue contre le nommé Dada, pour avoir exploité une carrière au territoire de Chaville, en contravention aux règlemens : du 6 juin 1781 /"
+language = "fr"
+place = "A Paris"
+date = "1781"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on the cover page. Damaged, stained, and/or loose pages. Uneven binding. Skewed text. Text on the back cover is upside-down."
+url = "https://archive.org/details/ordonnancedem00unse_8"
+subject = [
+    "Dada, André",
+    "Quarries and quarrying",
+    "Building laws",
+]
+extent = "3 p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC suppl. 103 no. 10"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3fz2gz9r"
+internet_archive = "ordonnancedem00unse_8"
+
+[scan]
+file = "ordonnancedem00unse_8.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/ordonnancedem00unse_8"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Paris (France). Lieutenant général de police"
+role = "author"
+
+[[resp]]
+name = "Lenoir, Jean-Charles-Pierre, 1732-1807"
+role = "author"
+
+[[resp]]
+name = "Imprimerie royale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie royale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_861394"
+
+[[text]]
+file = "ordonnancedem00unse_8.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordonnancedem00unse_8.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordonnancedem00unse_8.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordonnancedem00unse_8.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

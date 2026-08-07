@@ -1,0 +1,39 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: observationssurl00unse_57
+page: 109
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 2817
+h: 4660
+dpi: 500
+---
+
+ter , &: qui au premier coup - d’œil pourroic
+faire quelqu’illufion , efi fon fervice militaire. Il
+femble , J à l’entendre , qu’il n’y ait qu’elle qui foie
+difpofée à verfer fon fang pour la Patrie : cette
+prétention feroit allez jufte fi nos armées n’étoient
+compofées que de Gentilshommes. Mais on me
+difpenfera , je crois , de prouver que le Peuple y
+contribue bien pour quelque chofe. II faut feule-
+ment obferver que dans les Armées , ainfî que
+par-tout ailleurs, les Nobles ont envahi., de fait
+fi ce n’eft de droit , toutes les places de quelque
+valeur. S’ils laiftent aux Roturiers l’efpoir de par-
+venir jamais à quelque rang diftingué , ce ne
+peut être qu’après de longs travaux ou des adions
+que les ci rcon fiances rendent très-rares , ôc dont
+peu d’hommes font capables : aufii ont-ils donné
+le nom d’Officiers de fortune (i) à ceux de ces
+Militaires que leur valeur diftinguée , ou les fer-
+vices d’une vie entière , ont fait fortir de la foule.
+11 n’y a que très-peu d’années encore , qu’on a
+vu un Miniftre de la guerre défendre par une
+Loi nouvelle , de recevoir comme Officier tout
+
+( i ) Il me femble qu’il feroit plus jufte de nommer
+ceux-ci Officiers de mérite 3 & de donner le nom d’Officiers
+de fortune à ceux qui ne doivent leurs emplois qu’au pré-
+tendu droit de leur naiffiance , qui eft incomcftablement im
+droit de kafard ou de fortune .

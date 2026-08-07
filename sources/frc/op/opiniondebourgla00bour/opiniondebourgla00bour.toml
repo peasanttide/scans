@@ -1,0 +1,73 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "opiniondebourgla00bour"
+type = "pamphlet"
+title = "Opinion de Bourg-Laprade séance du 24 floréal an 6."
+language = "fr"
+date = "1798"
+note = "Caption title. At head of title: Corps législatif, Conseil des cinq-cents. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,I, 4783. Scanner's note: Title found on front cover. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/opiniondebourgla00bour"
+subject = [
+    "France. Cour de cassation",
+    "Appellate procedure",
+    "Constitutional history",
+]
+extent = "4 p ;20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "CaseFRC10954"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t40s2t714"
+internet_archive = "opiniondebourgla00bour"
+
+[scan]
+file = "opiniondebourgla00bour.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/opiniondebourgla00bour"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Bourg-Laprade, Antoine,1736-1816"
+role = "author"
+
+[[resp]]
+name = "A Paris :De l'Imprimerie nationale,"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_823926"
+
+[[text]]
+file = "opiniondebourgla00bour.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "opiniondebourgla00bour.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "opiniondebourgla00bour.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "opiniondebourgla00bour.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"

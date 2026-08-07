@@ -1,0 +1,68 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "opiniondedubigno00jand"
+type = "pamphlet"
+title = "Opinion de Dubignon, qu'il n'a pu prononcer vu la fermeture précipitée de la discussion : séance du 11 frimaire an 7."
+language = "fr"
+place = "Paris"
+date = "1798"
+note = "Caption title. Imprint from colophon. Martin & Walter. Révolution française. Calls for the continued support of the decrees concerning tribunals of years 4 and 5. Bibliography: Martin & Walter.  Révolution française,  II, 17131. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged pages and cover. Only one numbered page."
+url = "https://archive.org/details/opiniondedubigno00jand"
+subject = [
+    "Royalists",
+    "Justice, Administration of",
+    "Courts",
+]
+extent = "2 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 19889"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3vt6nz86"
+internet_archive = "opiniondedubigno00jand"
+openlibrary_edition = "OL26203258M"
+openlibrary_work = "OL17599718W"
+
+[scan]
+file = "opiniondedubigno00jand.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/opiniondedubigno00jand"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Jan-Dubignon, François-Marie, 1754-1817"
+role = "author"
+
+[[resp]]
+name = "Baudouin, François-Jean, 1759-1838"
+role = "publisher"
+
+[[resp]]
+name = "Baudouin, imprimeur du Corps législatif et de l'Institut national, place du Carrousel, no. 662"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_841817"
+
+[[text]]
+file = "opiniondedubigno00jand.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opiniondedubigno00jand.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "observationsprse00fran_0"
+type = "pamphlet"
+title = "Observations présentées au Conseil des cinq-cents : sur la résolution du 30 messidor, rejetée par le Conseil des anciens, relative aux paiemens des transactions particulières faites depuis le 6 floréal an 3 [25 avril 1795], jusques au 7 germinal an 4 [27 mars 1796]"
+language = "fr"
+place = "Paris"
+date = "1796"
+note = "Caption title. Imprint from colophon. Martin & Walter IV 2: 11084. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on cover page. Damaged, stained and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/observationsprse00fran_0"
+subject = ["Debtor and creditor"]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 6000"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8tb6681q"
+internet_archive = "observationsprse00fran_0"
+openlibrary_edition = "OL26216592M"
+openlibrary_work = "OL17612415W"
+
+[scan]
+file = "observationsprse00fran_0.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/observationsprse00fran_0"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Corps législatif (1795-1814). Conseil des cinq-cents"
+role = "author"
+
+[[resp]]
+name = "France. Corps législatif (1795-1814). Conseil des anciens"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Chaignieau ainé"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_59225"
+
+[[text]]
+file = "observationsprse00fran_0.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "observationsprse00fran_0.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "observationsprse00fran_0.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "observationsprse00fran_0.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

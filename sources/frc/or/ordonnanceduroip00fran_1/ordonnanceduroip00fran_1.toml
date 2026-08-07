@@ -1,0 +1,82 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "ordonnanceduroip00fran_1"
+type = "pamphlet"
+title = "Ordonnance du roi, pour mettre le régiment des Gardes-Lorraine sous le titre de la province de Lorraine : du 28 mars 1766 : de par le roi"
+language = "fr"
+place = "A Paris"
+date = "1766"
+note = "Caption title. Signed: Louis. Et plus bas, le duc de Choiseul. Imprint from colophon. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained and/or loose pages. Skewed text. The text on the back cover is upside-down."
+url = "https://archive.org/details/ordonnanceduroip00fran_1"
+subject = ["France. Armée. Infanterie. Régiment de Lorraine"]
+extent = "2 p. ; 28 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC suppl. 91 no. 2"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7xm3hw47"
+internet_archive = "ordonnanceduroip00fran_1"
+
+[scan]
+file = "ordonnanceduroip00fran_1.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/ordonnanceduroip00fran_1"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Sovereign (1715-1774 : Louis XV)"
+role = "author"
+
+[[resp]]
+name = "Louis XV, King of France, 1710-1774"
+role = "author"
+
+[[resp]]
+name = "Choiseul, Etienne-François, duc de, 1719-1785"
+role = "author"
+
+[[resp]]
+name = "Imprimerie royale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie royale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_861586"
+
+[[text]]
+file = "ordonnanceduroip00fran_1.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordonnanceduroip00fran_1.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordonnanceduroip00fran_1.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordonnanceduroip00fran_1.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

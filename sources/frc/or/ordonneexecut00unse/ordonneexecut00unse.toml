@@ -1,0 +1,88 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "ordonneexecut00unse"
+type = "pamphlet"
+title = "Loi qui ordonne l'exécution de celle des 3, 4 & 5 août dernier, & qui porte que les sept nouveaux corps de Gardes nationales parisiennes à former, ne pourront être éloignés de Paris qu'en vertu d'un décret du corps législatif : donnée à Paris, le 13 novembre 1791"
+language = "fr"
+place = "A Paris"
+date = "1791"
+note = """Caption title. At right of title: No. 1435. "Signé Louis. Et plus bas, M.L.F. DuPort"--P. 3. Imprint from colophon. Not in Martin & Walter. Révolution française. "Décret de l'Assemblée nationale, du 7 novembre 1791"--P. [1]-2. Scanner's note: Title page located on front cover. No copyright page found. No table-of-contents pages found. Worn, damaged and discolored pages and cover. Skewed text. Uneven binding."""
+url = "https://archive.org/details/ordonneexecut00unse"
+subject = ["Paris (France). Garde nationale"]
+extent = "3 p. ; 25 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10342 no. 74"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9770n40h"
+internet_archive = "ordonneexecut00unse"
+openlibrary_edition = "OL26230637M"
+openlibrary_work = "OL17625613W"
+
+[scan]
+file = "ordonneexecut00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/ordonneexecut00unse"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Sovereign (1774-1792 : Louis XVI)"
+role = "author"
+
+[[resp]]
+name = "Louis XVI, King of France, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "Duport-Dutertre, Marguerite-Louis-François, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale législative (1791-1792)"
+role = "author"
+
+[[resp]]
+name = "Imprimerie royale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie royale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_856071"
+
+[[text]]
+file = "ordonneexecut00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordonneexecut00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordonneexecut00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordonneexecut00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

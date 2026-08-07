@@ -1,0 +1,68 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "ordonnancedepo00pari"
+type = "pamphlet"
+title = "Ordonnance de police, qui enjoint aux habitans de la ville & fauxbourgs de Paris, de fermer leurs boutiques pendant la journée entiere du jeudy treize du present mois, & d'illuminer les façades de leurs maisons le soir du même jour, en réjouissance de la publication de la paix"
+language = "fr"
+place = "Paris"
+date = "1749"
+note = "Binder's title: Conquest du roy. Caption title. Scanner's note: Title is on the cover. Uneven binding. Skewed text. Irregular pagination. Page numbers have been marked or altered. Damaged, stained, torn and/or loose pages. Some text may be lost in the binding. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/ordonnancedepo00pari"
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "E 5 .L92705 v. 09 no. 64"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9577h15z"
+internet_archive = "ordonnancedepo00pari"
+
+[scan]
+file = "ordonnancedepo00pari.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/ordonnancedepo00pari"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Paris (France).Police"
+role = "author"
+
+[[resp]]
+name = "Paris (France). Police"
+role = "author"
+
+[[resp]]
+name = "P.J. Mariette"
+role = "publisher"
+
+[[text]]
+file = "ordonnancedepo00pari.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordonnancedepo00pari.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordonnancedepo00pari.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordonnancedepo00pari.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

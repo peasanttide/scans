@@ -1,0 +1,90 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "ordonnanceduroie00fran"
+type = "pamphlet"
+title = "Ordonnance du roi, en faveur des maîtres de postes aux chevaux, & de la ferme des messageries, contre les entreprises des loueurs de chevaux : du 26 août 1779 /"
+language = "fr"
+place = "A Paris"
+date = "1779"
+note = "Caption title. Signed: Louis. Et plus bas, Amelot. Imprint from colophon. Head-piece. Scanner's note: No copyright page found. No table-of-contents pages found.   Title page and cover are combined. Damaged, stained and/or loose pages. Skewed text. Text on the back cover is upside-down."
+url = "https://archive.org/details/ordonnanceduroie00fran"
+subject = [
+    "Postmasters",
+    "Driving horses",
+    "Postal service",
+]
+extent = "3 p. ; 28 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC suppl. 91 no. 4"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6936209q"
+internet_archive = "ordonnanceduroie00fran"
+
+[scan]
+file = "ordonnanceduroie00fran.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/ordonnanceduroie00fran"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Sovereign (1774-1792 : Louis XVI)"
+role = "author"
+
+[[resp]]
+name = "France. Sovereign (1774-1792 : Louis XVI), enacting jurisdiction"
+role = "author"
+
+[[resp]]
+name = "Louis XVI, King of France, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "Amelot de Chaillou, Antoine-Jean, -1795"
+role = "author"
+
+[[resp]]
+name = "Imprimerie royale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie royale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_861588"
+
+[[text]]
+file = "ordonnanceduroie00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordonnanceduroie00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordonnanceduroie00fran.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordonnanceduroie00fran.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

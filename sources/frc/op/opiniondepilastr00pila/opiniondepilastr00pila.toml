@@ -1,0 +1,83 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "opiniondepilastr00pila"
+type = "pamphlet"
+title = "Opinion de Pilastre sur l'article 70 de la résolution relative au mode de l'assiète & du recouvrement de la contribution foncière : séance du 3 frimaire an 7."
+language = "fr"
+place = "A Paris"
+date = "1798"
+note = "Caption title. At head of title: Corps législatif, Conseil des anciens. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  IV:1, 27411. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover."
+url = "https://archive.org/details/opiniondepilastr00pila"
+subject = [
+    "Real property tax",
+    "Tax administration and procedure",
+]
+extent = "4 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 12848"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5cc5rp5r"
+internet_archive = "opiniondepilastr00pila"
+openlibrary_edition = "OL25931407M"
+openlibrary_work = "OL17353635W"
+
+[scan]
+file = "opiniondepilastr00pila.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/opiniondepilastr00pila"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Pilastre de La Brardière, Urbain René, 1751-1830"
+role = "author"
+
+[[resp]]
+name = "France. Corps législatif (1795-1814). Conseil des anciens"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_827284"
+
+[[text]]
+file = "opiniondepilastr00pila.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opiniondepilastr00pila.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opiniondepilastr00pila.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opiniondepilastr00pila.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

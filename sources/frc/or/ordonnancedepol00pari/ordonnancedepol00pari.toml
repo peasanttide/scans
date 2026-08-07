@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "ordonnancedepol00pari"
+type = "pamphlet"
+title = "Ordonnance de police, qui enjoint aux habitans de la ville & fauxbourgs de Paris, d'illuminer les façades de leurs maisons le soir du dimanche premier jour d'octobre, en réjoüissance de la prise de la ville de Berg-op-Zoom, & de la prospérité des armes du roy"
+language = "fr"
+place = "Paris"
+date = "1747"
+note = "Caption title. Imprint from colophon. Head-piece. No. 46 of 67 titles bound together. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on the cover. Uneven binding. Skewed text. Irregular pagination. Page numbers have been marked or altered. Damaged, stained, torn and/or loose pages. Some text may be lost in the binding."
+url = "https://archive.org/details/ordonnancedepol00pari"
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "E 5 .L92705 v. 09 no. 46"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3034xc65"
+internet_archive = "ordonnancedepol00pari"
+
+[scan]
+file = "ordonnancedepol00pari.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/ordonnancedepol00pari"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Paris (France). Châtelet"
+role = "author"
+
+[[resp]]
+name = "Paris (France). Châtelet, enacting jurisdiction"
+role = "author"
+
+[[resp]]
+name = "Mariette, Pierre-Jean, 1694-1774, printer"
+role = "publisher"
+
+[[resp]]
+name = "De l'imprimerie de P.J. Mariette, imprimeur de la police"
+role = "publisher"
+
+[[text]]
+file = "ordonnancedepol00pari.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordonnancedepol00pari.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordonnancedepol00pari.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordonnancedepol00pari.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

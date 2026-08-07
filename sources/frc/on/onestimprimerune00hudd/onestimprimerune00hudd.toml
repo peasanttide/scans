@@ -1,0 +1,81 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "onestimprimerune00hudd"
+type = "pamphlet"
+title = "On est à imprimer une nouvelle edition de Historia sive Synopsis methodica conchyliorum par le Dr. Lister ="
+language = "fr"
+place = "Oxford?"
+date = "1770"
+note = """Prospectus for a new edition of Martin Lister's "Historia sive Synopsis methodica conchyliorum", edited by William Huddesford and published in 1770. "As the plates are adapted to their particular places, it is proposed to take them off in the same order in which they stand in the most perfect copies extant.". "The editor will think himself greatly obliged to any person who would favor him with the use of any good copy of this work ... Any notice on this subject would be gratefully acknowledged, if directed to the Rev. Mr. William Huddesford at Trinity College, Oxford.". Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Title page and cover are combined."""
+url = "https://archive.org/details/onestimprimerune00hudd"
+subject = [
+    "Lister, Martin, 1638?-1712",
+    "Publishers and publishing",
+    "Zoological illustration",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1a no. 127"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t84j6600h"
+internet_archive = "onestimprimerune00hudd"
+
+[scan]
+file = "onestimprimerune00hudd.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/onestimprimerune00hudd"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Huddesford, William,1693 or 4-177"
+role = "author"
+
+[[resp]]
+name = "Huddesford, William, 1693 or 4-1770"
+role = "author"
+
+[[resp]]
+name = "Lister, Martin, 1638?-1712. Historia sive Synopsis methodica conchyliorum"
+role = "author"
+
+[[resp]]
+name = "Oxford University Press"
+role = "printer"
+
+[[resp]]
+name = "Oxford University Press?"
+role = "publisher"
+
+[[text]]
+file = "onestimprimerune00hudd.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "onestimprimerune00hudd.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "onestimprimerune00hudd.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "onestimprimerune00hudd.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

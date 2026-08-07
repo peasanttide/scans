@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "observation00cham"
+type = "pamphlet"
+title = "Observation"
+language = "fr"
+place = "Paris"
+date = "1790"
+note = "Caption title. Imprint from colophon. Dated at end: Délibéré dans la Chambre de commerce de la province de Guienne, `a Bordeaux le 4 février 1790. Martin & Walter IV 2: 10976. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages."
+url = "https://archive.org/details/observation00cham"
+subject = ["Knights of Malta"]
+extent = "3 p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10028"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9770m390"
+internet_archive = "observation00cham"
+openlibrary_edition = "OL26222688M"
+openlibrary_work = "OL17618159W"
+
+[scan]
+file = "observation00cham.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/observation00cham"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Chambre de commerce de Guienne"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de la veuve D'Houry & Debure"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_70122"
+
+[[text]]
+file = "observation00cham.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "observation00cham.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "observation00cham.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "observation00cham.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

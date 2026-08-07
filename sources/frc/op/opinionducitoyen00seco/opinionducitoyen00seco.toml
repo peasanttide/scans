@@ -1,0 +1,85 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "opinionducitoyen00seco"
+type = "pamphlet"
+title = "Opinion du citoyen Seconds, dans le jugement à mort de Louis XVI par la Convention nationale"
+language = "fr"
+place = "Paris"
+date = "1793"
+note = """Caption title. At head of title: Convention nationale. Imprint from colophon. "Imprimée par ordre de la Convention nationale"--P. [1]. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française, IV:1, 31268. Scanner's note: Title and cover are combined. Uneven binding. Skewed text. Damaged, stained and/or loose pages."""
+url = "https://archive.org/details/opinionducitoyen00seco"
+subject = [
+    "Louis XVI, King of France, 1754-1793",
+    "Capital punishment",
+]
+extent = "2 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing DC137.08 .F73 v.15, no. 10"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2d84p558"
+internet_archive = "opinionducitoyen00seco"
+
+[scan]
+file = "opinionducitoyen00seco.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/opinionducitoyen00seco"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Seconds, Jean-Louis, 1742-1819"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "Louis XVI Trial and Execution Collection (Newberry Library) ICN"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_843409"
+
+[[text]]
+file = "opinionducitoyen00seco.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opinionducitoyen00seco.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opinionducitoyen00seco.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opinionducitoyen00seco.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

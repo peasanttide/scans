@@ -1,0 +1,84 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "odesurlaprisedet00bonn"
+type = "pamphlet"
+title = "Ode sur la prise de Toulon"
+language = "fr"
+place = "A Montauban"
+date = "1793"
+note = "Caption title. At head of title: République française. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/odesurlaprisedet00bonn"
+subject = ["First Coalition, War of the, 1792-1797"]
+extent = "[3] p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 27082"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6g214714"
+internet_archive = "odesurlaprisedet00bonn"
+openlibrary_edition = "OL26226445M"
+openlibrary_work = "OL17621712W"
+
+[scan]
+file = "odesurlaprisedet00bonn.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/odesurlaprisedet00bonn"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Bonnet, J. B.$q(Jean Baptiste),1756?-1842"
+role = "author"
+
+[[resp]]
+name = "Bonnet, J. B. (Jean Baptiste), 1756?-1842"
+role = "author"
+
+[[resp]]
+name = "Pastoret, François, b. ca. 1745, lyricist"
+role = "author"
+
+[[resp]]
+name = "Crosilhes, Charles, 1736-1813"
+role = "publisher"
+
+[[resp]]
+name = "Imprimée par le soins & aux frais de la municipalité : Chez C. Crosilhes, imprimeur-libraire, place de l'horologe"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_867722"
+
+[[text]]
+file = "odesurlaprisedet00bonn.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "odesurlaprisedet00bonn.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "odesurlaprisedet00bonn.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "odesurlaprisedet00bonn.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

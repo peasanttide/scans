@@ -1,0 +1,68 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "observationsdudi00unse"
+type = "pamphlet"
+title = "Observations : du dimanche 2 janvier 1791 ; sur le décret qui détermine les travaux de l'Assemblée."
+language = "fr"
+place = "Paris"
+date = "1791"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on cover page. Damaged, stained and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/observationsdudi00unse"
+subject = ["France. Assemblée nationale constituante (1789-1791)"]
+extent = "4 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 5976"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2h75h15c"
+internet_archive = "observationsdudi00unse"
+openlibrary_edition = "OL26216729M"
+openlibrary_work = "OL17612550W"
+
+[scan]
+file = "observationsdudi00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/observationsdudi00unse"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "De l'imprimerie du Postillon par Calais"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_58330"
+
+[[text]]
+file = "observationsdudi00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "observationsdudi00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "observationsdudi00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "observationsdudi00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

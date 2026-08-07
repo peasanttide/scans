@@ -1,0 +1,88 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "oeuvresdejb00unse"
+type = "pamphlet"
+title = "Oeuvres de J.B. Rousseau"
+language = "fr"
+place = "Paris?"
+date = "1741"
+note = """Prospectus for an edition of Jean-Baptiste Rousseau's collected works, edited by Abbé Seguy and published in 1743. Caption title. "On déclare que la souscription ne sera ouverte que pendant six mois, à compter du premier du prémier jour d'aoust 1741, datte de ce programme"--P. [2]. "On pourra souscrire a Paris chez Didot, libraire, quai des Augustins, à la Bible d'or; a Londres chez M. Carpentier, à l'hôtel de S.E. Mr. l'ambassadeur de la reine de Hongrie; dans les villes de l'empire aux bureaux des postes impériales; dans les villes des Pays-Bas chez les directeurs des postes; a Dresde chez M. Boutet, sécretaire de Mr. l'Envoyé extraordinaire de France; a Vienne en Autriche chez Mr. de Schmids, agent de plusieurs princes de l'empire; a Francfort sur le Mein chez Fr. Varrentrapp, libraire"--P. [2]. "Le prix sera de seize livres de France chaque volume"--P. [2]. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained, marked and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Text extends off of the edge of the page."""
+url = "https://archive.org/details/oeuvresdejb00unse"
+subject = [
+    "Rousseau, Jean-Baptiste, 1670-1741",
+    "Booksellers and bookselling",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1b no. 25"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1tf5gr9w"
+internet_archive = "oeuvresdejb00unse"
+
+[scan]
+file = "oeuvresdejb00unse.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/oeuvresdejb00unse"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Rousseau, Jean-Baptiste, 1670-1741. Works. 1743"
+role = "author"
+
+[[resp]]
+name = "Seguy, abbé"
+role = "author"
+
+[[resp]]
+name = "Didot, François, 1689-1757"
+role = "bookseller"
+
+[[resp]]
+name = "François Didot?"
+role = "publisher"
+
+[[text]]
+file = "oeuvresdejb00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "oeuvresdejb00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "oeuvresdejb00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "oeuvresdejb00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "oeuvresdejb00unse.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "oeuvresdejb00unse.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

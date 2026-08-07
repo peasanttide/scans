@@ -1,0 +1,68 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "ohlebontour00unse"
+type = "pamphlet"
+title = "Oh! le bon tour!"
+language = "fr"
+place = "s.l."
+date = "1790"
+note = "Caption title. Without imprint. Martin & Walter IV 2: 11423 (which supplies the date: 4 juin 1790; and specifies: Contre l'emploi du vert dans la cocarde nationale). Scanner's note: No copyright page found. No table-of-contents pages found. Title is on cover page. Damaged, stained and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/ohlebontour00unse"
+subject = ["Emblems, National"]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 6154"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t82k1hx9h"
+internet_archive = "ohlebontour00unse"
+openlibrary_edition = "OL26218327M"
+openlibrary_work = "OL17614033W"
+
+[scan]
+file = "ohlebontour00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/ohlebontour00unse"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_59579"
+
+[[text]]
+file = "ohlebontour00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ohlebontour00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ohlebontour00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ohlebontour00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

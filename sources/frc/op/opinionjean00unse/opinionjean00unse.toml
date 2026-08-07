@@ -1,0 +1,84 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "opinionjean00unse"
+type = "pamphlet"
+title = "Opinion de Jean-Baptiste Laboissiere, député du département du Lot, concernant l'affaire du ci-devant roi : imprimée par ordre de la Convention nationale"
+language = "fr"
+place = "A Lyon"
+date = "1793"
+note = "Caption title. At head of title: Convention nationale. Imprint from colophon. Variant of Martin & Walter. Révolution française, II, 17863. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/opinionjean00unse"
+subject = ["Louis XVI, King of France, 1754-1793"]
+extent = "3 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 26832"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5jb1938w"
+internet_archive = "opinionjean00unse"
+openlibrary_edition = "OL26226314M"
+openlibrary_work = "OL17621581W"
+
+[scan]
+file = "opinionjean00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/opinionjean00unse"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "La Boissière, Jean-Baptiste,1729-1806"
+role = "author"
+
+[[resp]]
+name = "La Boissière, Jean-Baptiste, 1729-1806"
+role = "author"
+
+[[resp]]
+name = "Vatar-Delaroche, Aimé"
+role = "publisher"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie d'Aimé Vatar-Delaroche"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_866580"
+
+[[text]]
+file = "opinionjean00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opinionjean00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opinionjean00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opinionjean00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

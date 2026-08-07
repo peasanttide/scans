@@ -1,0 +1,85 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "opiniondegossuin00goss"
+type = "pamphlet"
+title = "Opinion de Gossuin, représentant du peuple, sur l'éligibilité des défenseurs de la patrie et autres célibataires au Corps législatif : prononcée à la séance du 17 thermidor, troisième année républicaine, et renvoyée à la Commission des onze."
+language = "fr"
+place = "Paris"
+date = "1795"
+note = "Caption title. At head of title: Convention nationale. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  II, 15221. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover."
+url = "https://archive.org/details/opiniondegossuin00goss"
+subject = [
+    "Civil service",
+    "Nominations for office",
+    "Single people",
+    "Soldiers",
+]
+extent = "4 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 11830"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5r832c4k"
+internet_archive = "opiniondegossuin00goss"
+openlibrary_edition = "OL25923942M"
+openlibrary_work = "OL17346581W"
+
+[scan]
+file = "opiniondegossuin00goss.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/opiniondegossuin00goss"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Gossuin, Eugène Constant Joseph César, 1758-1827"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_825272"
+
+[[text]]
+file = "opiniondegossuin00goss.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opiniondegossuin00goss.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opiniondegossuin00goss.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opiniondegossuin00goss.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

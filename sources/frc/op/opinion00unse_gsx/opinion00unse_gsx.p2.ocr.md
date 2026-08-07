@@ -1,0 +1,51 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: opinion00unse_gsx
+page: 2
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 2832
+h: 4599
+dpi: 500
+---
+
+derrière la toile ; mais il existe encore des hommes qui
+„ünt Famé de Comwel ; et qui me répondra que des
+circonstances critiques ne sont pas favorables a la
+conception et au développement de projets libcrti-
+cides ? J inciinois donc pour. le renvoi aux assemblées
+primaires.
+
+D un autre côté, je ne rn’en dissimulois pas les in-
+convéniens. Je ne crois pas plus à un projet de fédé-
+ralisme qu à Fexistence d’un Cromwel ; mais assem-
+blez inopinément les assemblées primaires sur l’affaire
+présente , et ce projet peut naître et grandir. Je crai-
+gnois donc les assemblées primaires.
+
+Je viens de lire l’opinion de Payne : je Fai lue sans
+enthousiasme ; je Fai méditée : elle m’éclaire , elle me
+décide, et je pense qu’en Fadoptant je sers tout-a^la-fois
+la justice , mon pays et l’humanité.
+
+Magistrat pendant plusieurs années , je ne pronon-
+çai jamais un^jugement de mort. Je ne vis jamais le
+droit de l’infliger dans la société, lors même que je
+reconnus clans chaque homme le droit de repousser la
+violence par la force.
+
+L opinion de Payne me paroît présenter un incon-
+vénient. Il veut faire cesser 4a réclusion , et commen-
+cer Fexil de Louis XVI après la fin de la guerre. Je
+veux , moi , que cette réclusion ne finisse , et cjuc
+l’exil ne commence qu’à l instant où toutes les sociétés
+politiques de l’Europe auront solemncllemcnt reconnu
+la souveraineté du Peuple frança.is.
+
+Je demande , i°. que la Convention déclare que
+Louis et sa famille sont bannis à perpétuité des terres
+dé la^ République ;
+
+2 ®, Que néanmoins , et jusqu’à l’instant où toutes
+les sociétés politiques de 1 Èuropé , et les Etats-Unis ,
+auront solemneUeraent reconnu la p'ouveraincté abso*»

@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "ordonnancedudire00rhon"
+type = "pamphlet"
+title = "Ordonnance du directoire du département de Rhône et Loire, concernant les ecclésiastiques, corps & communautés religieuses, & leurs fermiers & locataires : du 7 août 1790"
+language = "fr"
+place = "A Lyon"
+date = "1790"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."
+url = "https://archive.org/details/ordonnancedudire00rhon"
+subject = [
+    "Clergy",
+    "Landlord and tenant",
+    "Finance, Public",
+]
+extent = "4 p. ; 28 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10244 no. 3"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7dr7zt6x"
+internet_archive = "ordonnancedudire00rhon"
+openlibrary_edition = "OL26223177M"
+openlibrary_work = "OL17618638W"
+
+[scan]
+file = "ordonnancedudire00rhon.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/ordonnancedudire00rhon"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Rhône-et-Loire (France). Directoire"
+role = "author"
+
+[[resp]]
+name = "Bruyset, Jean Marie, 1749-1817"
+role = "publisher"
+
+[[resp]]
+name = "De l'imprimerie de Bruyset fils aîné, imprimeur du département de Rhône & Loire, rue Saint-Dominique"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_857445"
+
+[[text]]
+file = "ordonnancedudire00rhon.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordonnancedudire00rhon.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordonnancedudire00rhon.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordonnancedudire00rhon.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

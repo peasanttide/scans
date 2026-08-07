@@ -1,0 +1,84 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "observationssurl00gent"
+type = "pamphlet"
+title = "Observations sur la loi du 15 germinal, concernant les baux à cheptel"
+language = "fr"
+place = "A Paris"
+date = "1795"
+note = """Caption title. At head of title: (No. 334 bis*). Imprint from colophon. "Baux à cheptel"--Bottom of p. 13. Variant of Martin & Walter. Révolution française, II, 14672. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/observationssurl00gent"
+subject = [
+    "Animal feeding",
+    "Agricultural laws and legislation",
+    "Farm rents",
+]
+extent = "p. 13-16 ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 26761"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6c301j5w"
+internet_archive = "observationssurl00gent"
+openlibrary_edition = "OL26226421M"
+openlibrary_work = "OL17621688W"
+
+[scan]
+file = "observationssurl00gent.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/observationssurl00gent"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Gentil, Michel,b. 1759"
+role = "author"
+
+[[resp]]
+name = "Gentil, Michel, b. 1759"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépot des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_868331"
+
+[[text]]
+file = "observationssurl00gent.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "observationssurl00gent.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "observationssurl00gent.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "observationssurl00gent.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

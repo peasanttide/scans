@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "ordonnancedepoli00sein"
+type = "pamphlet"
+title = "Ordonnance de police"
+language = "fr"
+place = "A Paris"
+date = "1810"
+note = "Caption title. At head of title: No 724. Imprint at foot of p. 3. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Title page and cover are combined."
+url = "https://archive.org/details/ordonnancedepoli00sein"
+subject = [
+    "Printing industry",
+    "Book industries and trade",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 11 no. 64"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t82k24612"
+internet_archive = "ordonnancedepoli00sein"
+
+[scan]
+file = "ordonnancedepoli00sein.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/ordonnancedepoli00sein"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Seine (France).Préfecture de police"
+role = "author"
+
+[[resp]]
+name = "Seine (France). Préfecture de police"
+role = "author"
+
+[[resp]]
+name = "Chez Rondonneau et Decle"
+role = "publisher"
+
+[[text]]
+file = "ordonnancedepoli00sein.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordonnancedepoli00sein.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordonnancedepoli00sein.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordonnancedepoli00sein.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

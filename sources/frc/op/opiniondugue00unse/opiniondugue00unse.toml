@@ -1,0 +1,87 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "opiniondugue00unse"
+type = "pamphlet"
+title = "Opinion de Dugué-d'Assé, député du département de l'Orne à la Convention nationale, sur le jugement de Louis XVI : imprimée par ordre de la Convention nationale"
+language = "fr"
+place = "A Lyon"
+date = "1793"
+note = "Caption title. At head of title: Convention nationale. Imprint from colophon. Variant of Martin & Walter. Révolution française, II, 11674. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."
+url = "https://archive.org/details/opiniondugue00unse"
+subject = [
+    "Louis XVI, King of France, 1754-1793",
+    "Rule of law",
+]
+extent = "4 p. ; 24 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 26688"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7sn5bf9m"
+internet_archive = "opiniondugue00unse"
+openlibrary_edition = "OL26228618M"
+openlibrary_work = "OL17623686W"
+
+[scan]
+file = "opiniondugue00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/opiniondugue00unse"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Dugué d'Assé, Jacques-Claude,1749-1830"
+role = "author"
+
+[[resp]]
+name = "Dugué d'Assé, Jacques-Claude, 1749-1830"
+role = "author"
+
+[[resp]]
+name = "La Roche, Aimé de, 1715-1801"
+role = "publisher"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie d'Aimé Vatar-Delaroche, imprimeur aux Halles de la Grenette"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_864828"
+
+[[text]]
+file = "opiniondugue00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opiniondugue00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opiniondugue00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opiniondugue00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

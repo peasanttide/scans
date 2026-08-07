@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "observationssurl00jose"
+type = "pamphlet"
+title = "Observations sur la résolution du 27 frimaire relative aux transactions."
+language = "fr"
+place = "Paris"
+date = "1796"
+note = "Caption title. Signed: Joseph. Imprint from colophon. Publisher location from Martin & Walter. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  II, 17411. Scanner's note: Title page located on front cover. No copyright page found. No table-of-contents pages found. Worn, discolored pages. Damaged cover. Skewed text."
+url = "https://archive.org/details/observationssurl00jose"
+subject = [
+    "Debtor and creditor",
+    "Devaluation of currency",
+    "Debt relief",
+]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 12016"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8hf2hf79"
+internet_archive = "observationssurl00jose"
+openlibrary_edition = "OL25915748M"
+openlibrary_work = "OL17339057W"
+
+[scan]
+file = "observationssurl00jose.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/observationssurl00jose"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Joseph"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie de la veuve Deltufo"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_826368"
+
+[[text]]
+file = "observationssurl00jose.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "observationssurl00jose.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "observationssurl00jose.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "observationssurl00jose.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

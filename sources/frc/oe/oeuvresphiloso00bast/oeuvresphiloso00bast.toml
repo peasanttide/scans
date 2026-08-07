@@ -1,0 +1,84 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "oeuvresphiloso00bast"
+type = "pamphlet"
+title = "Œuvres philosophiques, historiques et littéraires de d'Alembert, l'un des quarante de l'Académie française ..."
+language = "fr"
+place = "Paris"
+date = "1804"
+note = """Prospectus for: Œuvres philosophiques, historiques et littéraires de d'Alembert. Paris : Jean-François Bastien, 1805. Caption title. "[La souscription] sera ouverte jusqu'à la fin de frimaire prochain an XIII, à l'imprimerie de M. Boiste, rue Hautefeuille, no. 21, on s'adressera à M. Pelletier; et chez M. Arthus Bertrand, libraire, quai des Augustins"--P. 4. With prices. No. 13 of 17 titles bound together. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Title page and cover are combined."""
+url = "https://archive.org/details/oeuvresphiloso00bast"
+subject = [
+    "Alembert, Jean Le Rond d', 1717-1783",
+    "Booksellers and bookselling",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 10"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2w43ff7h"
+internet_archive = "oeuvresphiloso00bast"
+
+[scan]
+file = "oeuvresphiloso00bast.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/oeuvresphiloso00bast"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Bastien, Jean-François,1747-1824"
+role = "author"
+
+[[resp]]
+name = "Bastien, Jean-François, 1747-1824"
+role = "bookseller"
+
+[[resp]]
+name = "Boiste, Pierre Claude Victoire, 1765-1824"
+role = "bookseller"
+
+[[resp]]
+name = "Bertrand, Arthus, active 1800-1857"
+role = "bookseller"
+
+[[resp]]
+name = "Alembert, Jean Le Rond d', 1717-1783. Works. 1805"
+role = "author"
+
+[[resp]]
+name = "Jean-François Bastien"
+role = "publisher"
+
+[[text]]
+file = "oeuvresphiloso00bast.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "oeuvresphiloso00bast.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "oeuvresphiloso00bast.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "oeuvresphiloso00bast.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

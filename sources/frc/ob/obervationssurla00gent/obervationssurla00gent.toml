@@ -1,0 +1,84 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "obervationssurla00gent"
+type = "pamphlet"
+title = "Obervations sur la loi su 15 germinal, concernant les baux à cheptel, par le C. Gentil, député du département du Loiret, pour faire suite au rapport qu'il a fait sur cet important objet, dans la séance du 19 ventose"
+language = "fr"
+place = "A Paris"
+date = "1794"
+note = """Caption title. At head of title: No. 334 bis*. Imprint from colophon. "Baux à cheptel"--Bottom of p. 13. Not in Martin & Walter. Révolution française. Scanner's note: Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text. No title page found. No copyright page found. No table-of-contents pages found."""
+url = "https://archive.org/details/obervationssurla00gent"
+subject = [
+    "Animal industry",
+    "Leases",
+    "Agricultural laws and legislation",
+]
+extent = "p. 13-16 ; 25 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 27435"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2n63pp72"
+internet_archive = "obervationssurla00gent"
+openlibrary_edition = "OL26229155M"
+openlibrary_work = "OL17624189W"
+
+[scan]
+file = "obervationssurla00gent.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/obervationssurla00gent"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Gentil, Michel,b. 1759"
+role = "author"
+
+[[resp]]
+name = "Gentil, Michel, b. 1759"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépot des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_867863"
+
+[[text]]
+file = "obervationssurla00gent.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "obervationssurla00gent.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "obervationssurla00gent.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "obervationssurla00gent.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

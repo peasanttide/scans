@@ -1,0 +1,69 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "opiniondejeanhen00banc"
+type = "pamphlet"
+title = "Opinion de Jean-Henri Bancal, représentant du peuple, membre du Conseil des cinq-cents, sur la question du serment de fidélité à la République et à la Constitution de l'an 3, et de haine à la royauté et à l'anarchie, par les électeurs séance du 25 ventôse, an V."
+language = "fr"
+date = "1797"
+note = "Caption title. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,I, 1298. Scanner's note: Title found on front cover. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/opiniondejeanhen00banc"
+subject = ["Loyalty oaths"]
+extent = "4 p. ;20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "CaseFRC10604"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t58d2z95k"
+internet_archive = "opiniondejeanhen00banc"
+
+[scan]
+file = "opiniondejeanhen00banc.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/opiniondejeanhen00banc"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Bancal Des Issarts, Jean Henri,1750-1826"
+role = "author"
+
+[[resp]]
+name = "A Paris :Chez Baudouin, imprimeur du Corps législatif, place du Carousel, no. 662,"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_823644"
+
+[[text]]
+file = "opiniondejeanhen00banc.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "opiniondejeanhen00banc.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "opiniondejeanhen00banc.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "opiniondejeanhen00banc.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"

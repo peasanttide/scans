@@ -1,0 +1,78 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "observationsjav00unse"
+type = "pamphlet"
+title = "Observations par Javon, conseil des créanciers de Louis-Stanislas-Xavier, et de ceux de Charles-Philippe, sur le premier & le deuxième des articles additionnels qui sont à la suite des projets de décret concernant les émigrés, présentés au nom du Comité de législation par Osselin, & dont la discussion doit avoir lieu aujourd'hui"
+language = "fr"
+place = "A Paris"
+date = "1792"
+note = "Caption title. Imprint from colophon. Dated at end: Ce 22 octobre, l'an 1er. de la République. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover."
+url = "https://archive.org/details/observationsjav00unse"
+subject = [
+    "Osselin, Charles-Nicolas, 1754-1794",
+    "Louis XVIII, King of France, 1755-1824",
+    "Charles X, King of France, 1757-1836",
+    "Refugees",
+    "Debtor and creditor",
+]
+extent = "4 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 26808"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2x39xc65"
+internet_archive = "observationsjav00unse"
+openlibrary_edition = "OL26227318M"
+openlibrary_work = "OL17622546W"
+
+[scan]
+file = "observationsjav00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/observationsjav00unse"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Javon, avocat"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Millet, rue de la Tixéranderie, no. 17, près la place Baudoyer, presque vis-à-vis la rue des Mauvais-Garçons"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_868414"
+
+[[text]]
+file = "observationsjav00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "observationsjav00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "observationsjav00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "observationsjav00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,77 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "ouvragesnouveau00treu"
+type = "pamphlet"
+title = "Ouvrages nouveaux, chez Treuttel et Würtz, libraires à Paris, rue de Lille, no. 17, et à Strasbourg"
+language = "fr"
+place = "Paris"
+date = "1805"
+note = """Caption title. Indicates availability of t. 4 of Toulongeon's Histoire de France depuis la révolution de 1789, published in 1803, and lists t. 5 and t. 6, published in 1806 and 1810 respectively, as "sous presse.". With separate prices for Paris and the rest of France. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Text extends off of the edge of the page. Text may be lost in the binding. Permanent creases may obscure some text. Title page and cover are combined."""
+url = "https://archive.org/details/ouvragesnouveau00treu"
+subject = ["Treuttel et Würtz"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 4 no. 103"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4gn3wf3z"
+internet_archive = "ouvragesnouveau00treu"
+
+[scan]
+file = "ouvragesnouveau00treu.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/ouvragesnouveau00treu"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Treuttel et Würtz"
+role = "author"
+
+[[resp]]
+name = "Treuttel et Würtz"
+role = "publisher"
+
+[[text]]
+file = "ouvragesnouveau00treu.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ouvragesnouveau00treu.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ouvragesnouveau00treu.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ouvragesnouveau00treu.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ouvragesnouveau00treu.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ouvragesnouveau00treu.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

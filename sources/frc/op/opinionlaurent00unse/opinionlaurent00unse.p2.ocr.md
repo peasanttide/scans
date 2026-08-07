@@ -1,0 +1,52 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: opinionlaurent00unse
+page: 2
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 2479
+h: 4227
+dpi: 500
+---
+
+2
+
+secret du spectacle incivique de chanoines bien rentés ,
+et dignes de hgurer avec Evrard dans le Lutrin^ tandis
+que Je sol de la République est purgé par tout de cette
+saburre de la papauté.
+
+Leurs prêtres , d’ailleurs très adroits , très-instruits et
+très-insinuans , sauront toujours trouver des moyens de
+subsistance dans leurs engagemens civils , par des ma-
+riages bien assortis ; dans leurs talens , par renseigne-
+ment particulier , dans leur profession , par la pieuse
+hypocrisie des cagotes , à qui la religion sert dé manteau.
+
+Au surplus, pourquoi^ lorsqu’on organise les écoles
+primaires au compte de la nation , laisseroit-on aux lu-
+thériens des écoles propres , soudoyées et entrètenues
+avec des revenus de domaines nationaux qui y seroient
+spécialement affectés , ainsi qu’elles existent aujour-
+d’hui? Ne seroit il pas à craindre que ces écoles pri-
+vilégiées ne devinssent un foyer dangereux , oii , sous
+les dehors d’une iiistifutioii républicaine , on propageroit
+aisément les principes d’un fanatisme particulier, aussi
+redoutable que celui que nous cherclions à détruire ?>
+La masse des luthériens républicains, et elle est grande,
+s’éleveroit la première contre une mesure aussi impo-
+litique.
+
+Une dernière considération , cîtôyéhs représentans ,
+que je crois très-importante, c’est l’harmonie qui va
+résulter dans les départemens du Rhin entre tous ses
+habitans , comme la suite naturelle du projet que vous
+allez adopter : vous allez étouffer les haines qui existent
+entre les partisans des cultes salariés et non salariés ;
+haines sourdes , iûvétéréès , et qui nlalheureusem«at
+éclatent de temps en temps : vous allez rapprocher, par
+Une loi d’égalité, des hommes d’une bonne pâte, faits
+pour vivre entre eux , mais jusqu’ici toujours divisés
+par les fermens des prêtres ; et alors la concordé ,
+fait notre force , s’établira plus que jamais sur lés rivés,
+du Rhin , et fera pâlir l’Autriche,

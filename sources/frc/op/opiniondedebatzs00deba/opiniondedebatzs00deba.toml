@@ -1,0 +1,83 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "opiniondedebatzs00deba"
+type = "pamphlet"
+title = "Opinion de Debatz sur les postes : séance du 15 nivôse an 7."
+language = "fr"
+place = "Paris"
+date = "1799"
+note = "Caption title. At head of title: Corps législatif, Conseil des cinq-cents. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  I, 9390. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, stained pages. Damaged, uneven binding. Skewed text.  Irregular page size."
+url = "https://archive.org/details/opiniondedebatzs00deba"
+subject = [
+    "Postal service",
+    "Finance, Public",
+]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 11310"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t77t2b46r"
+internet_archive = "opiniondedebatzs00deba"
+openlibrary_edition = "OL25911517M"
+openlibrary_work = "OL17335163W"
+
+[scan]
+file = "opiniondedebatzs00deba.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/opiniondedebatzs00deba"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Debatz, Jacques-Louis-Constant, 1753-1837"
+role = "author"
+
+[[resp]]
+name = "France. Corps législatif (1795-1814). Conseil des cinq-cents"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_824958"
+
+[[text]]
+file = "opiniondedebatzs00deba.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opiniondedebatzs00deba.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opiniondedebatzs00deba.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opiniondedebatzs00deba.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

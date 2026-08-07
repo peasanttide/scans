@@ -1,0 +1,82 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "ordonnancedubure00pari_24"
+type = "pamphlet"
+title = "Ordonnance du Bureau des finances de la généralité de Paris, portant défenses aux nommés Jacquier, Royer & Monturat, de plus à l'avenir pêcher dans le canal de Bourgogne, ni d'en dégrader les accotemens : du 22 décembre 1780 : de par le roi, les présidens-trésoriers de France, généraux des finances & grands-voyers en la généralité de Paris"
+language = "fr"
+place = "A Paris"
+date = "1781"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on the cover page. Damaged, stained, and/or loose pages. Uneven binding. Skewed text. Text on the back cover is upside-down."
+url = "https://archive.org/details/ordonnancedubure00pari_24"
+subject = [
+    "Monturat, Louis",
+    "Royer, Louis",
+    "Jacquier, Blaise",
+    "Fishers",
+    "Fishery law and legislation",
+]
+extent = "3 p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC suppl. 101 no. 10"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5jb1cg0s"
+internet_archive = "ordonnancedubure00pari_24"
+openlibrary_edition = "OL26235896M"
+openlibrary_work = "OL17630457W"
+
+[scan]
+file = "ordonnancedubure00pari_24.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/ordonnancedubure00pari_24"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Paris (France : Généralité). Bureau des finances"
+role = "author"
+
+[[resp]]
+name = "Imprimerie royale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie royale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_861378"
+
+[[text]]
+file = "ordonnancedubure00pari_24.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordonnancedubure00pari_24.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordonnancedubure00pari_24.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordonnancedubure00pari_24.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

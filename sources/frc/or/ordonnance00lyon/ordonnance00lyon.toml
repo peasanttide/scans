@@ -1,0 +1,92 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "ordonnance00lyon"
+type = "pamphlet"
+title = "Ordonnance"
+language = "fr"
+place = "A Lyon"
+date = "1790"
+note = "Caption title. Text begins: Les officiers municipaux, réunis avec MM. les officiers composant le comité des officiers de la garde nationale de cette ville ... Signed: Steinman, Bertholon, & Degraix; & chevalier Dervieu, commandant actuel de la Garde nationale. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.   Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages. No page numbers."
+url = "https://archive.org/details/ordonnance00lyon"
+subject = ["Lyon (France). Garde nationale"]
+extent = "[4] p. ; 25 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9938 no. 8"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t70w3m64w"
+internet_archive = "ordonnance00lyon"
+openlibrary_edition = "OL26223890M"
+openlibrary_work = "OL17619345W"
+
+[scan]
+file = "ordonnance00lyon.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/ordonnance00lyon"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Lyon (France)"
+role = "author"
+
+[[resp]]
+name = "Steinman, Joseph"
+role = "author"
+
+[[resp]]
+name = "Bertholon, Marie-Antoine"
+role = "author"
+
+[[resp]]
+name = "Degraix, Jean-Marie"
+role = "author"
+
+[[resp]]
+name = "Dervieu du Villars, chevalier"
+role = "author"
+
+[[resp]]
+name = "La Roche, Aimé de, 1715-1801"
+role = "publisher"
+
+[[resp]]
+name = "De l'imprimerie d'Aimé de La Roche, aux Halles de la Grenette"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_854541"
+
+[[text]]
+file = "ordonnance00lyon.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordonnance00lyon.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordonnance00lyon.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordonnance00lyon.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

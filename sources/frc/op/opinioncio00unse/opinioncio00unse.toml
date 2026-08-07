@@ -1,0 +1,82 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "opinioncio00unse"
+type = "pamphlet"
+title = "Opinion du citoyen Claude-Charles Prost, député du Jura, sur l'inviolabilité de Louis XVI : imprimée par ordre de la Convention nationale"
+language = "fr"
+place = "A Angers"
+date = "1793"
+note = "Caption title. At head of title: Convention nationale. Imprint from colophon. Variant of Martin & Walter. Révolution française, IV:1, 28266. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."
+url = "https://archive.org/details/opinioncio00unse"
+subject = ["Louis XVI, King of France, 1754-1793"]
+extent = "4 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 27425"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t40s4xf48"
+internet_archive = "opinioncio00unse"
+
+[scan]
+file = "opinioncio00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/opinioncio00unse"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Prost, Claude Charles,1742-1804"
+role = "author"
+
+[[resp]]
+name = "Prost, Claude Charles, 1742-1804"
+role = "author"
+
+[[resp]]
+name = "Mame, Charles-Pierre, 1747-1825"
+role = "publisher"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale, chez Mame, imprimeur du département"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_867972"
+
+[[text]]
+file = "opinioncio00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opinioncio00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opinioncio00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opinioncio00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

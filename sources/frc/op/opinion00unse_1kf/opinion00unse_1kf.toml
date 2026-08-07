@@ -1,0 +1,82 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "opinion00unse_1kf"
+type = "pamphlet"
+title = "Opinion de Pierre-Claude Nioche, député du département d'Indre-et-Loire, sur la question de savoir, Quelle peine sera infligée à Louis Capet? : imprimée par ordre de la Convention nationale"
+language = "fr"
+place = "Paris"
+date = "1793"
+note = "Caption title. At head of title: Convention nationale. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française, III, 25799. Scanner's note: No copyright page found. No table-of-contents pages found. Damaged, stained pages and cover. Title on cover. Only one numbered page."
+url = "https://archive.org/details/opinion00unse_1kf"
+subject = ["Louis XVI, King of France, 1754-1793"]
+extent = "2 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing DC137.08 .F73 v.13, no. 35"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7gr28936"
+internet_archive = "opinion00unse_1kf"
+
+[scan]
+file = "opinion00unse_1kf.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/opinion00unse_1kf"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Nioche, Pierre-Claude, 1751-1828"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "Louis XVI Trial and Execution Collection (Newberry Library) ICN"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_843882"
+
+[[text]]
+file = "opinion00unse_1kf.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opinion00unse_1kf.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opinion00unse_1kf.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opinion00unse_1kf.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

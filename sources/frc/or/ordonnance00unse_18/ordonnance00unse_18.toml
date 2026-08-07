@@ -1,0 +1,81 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "ordonnance00unse_18"
+type = "pamphlet"
+title = "Ordonnance de M. l'intendant de la Généralité de Paris, concernant la police des routes : du 12 décembre 1780 : de par le roi, Louis-Benigne-François Bertier, chevalier, conseiller du roi en ses conseils, maître des requêtes ordinaire de son hôtel, sur-intendant des finances, domaines & affaires de la reine, & intendant de justice, police & finance de la généralité de Paris"
+language = "fr"
+place = "A Paris"
+date = "1781"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/ordonnance00unse_18"
+subject = [
+    "Street cleaning",
+    "Refuse and refuse disposal",
+]
+extent = "3 p. ; 28 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 27954"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3rv5q50w"
+internet_archive = "ordonnance00unse_18"
+
+[scan]
+file = "ordonnance00unse_18.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/ordonnance00unse_18"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Paris (France : Généralité)"
+role = "author"
+
+[[resp]]
+name = "Bertier de Sauvigny, Louis-Bénigne-François de, 1737-1789"
+role = "author"
+
+[[resp]]
+name = "Simon, P. G. (Pierre-Guillaume), 1722-1787"
+role = "publisher"
+
+[[resp]]
+name = "Chez P.G. Simon, imprimeur du Parlement, rue Mignon S. André-des-Arcs"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_73896"
+
+[[text]]
+file = "ordonnance00unse_18.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordonnance00unse_18.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordonnance00unse_18.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordonnance00unse_18.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

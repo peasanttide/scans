@@ -1,0 +1,88 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "opinionmit00unse"
+type = "pamphlet"
+title = "Opinion motivée de Gabriel-René-Louis Salmon, député de la Sarthe, sur cette question, Quelle peine sera infligée à Louis Capet? : prononcée le 17 janvier 1793, l'an 2me. de la République : imprimée par ordre de la Convention nationale"
+language = "fr"
+place = "A Angers"
+date = "1793"
+note = """Caption title. At head of title: Convention nationale. Imprint from colophon. Variant of Martin & Walter. Révolution française, IV:1, 30934. "Autre opinion, également motivée, sur cette question, Sera-t-il sursis à l'exécution du jugement qui condamne Louis Capet à mort, oui ou non?"--P. 2-3. Scanner's note: Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text. No title page found. No copyright page found. No table-of-contents pages found."""
+url = "https://archive.org/details/opinionmit00unse"
+subject = ["Louis XVI, King of France, 1754-1793"]
+extent = "3 p. ; 28 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 27209"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8wb0b41x"
+internet_archive = "opinionmit00unse"
+openlibrary_edition = "OL26229818M"
+openlibrary_work = "OL17624850W"
+
+[scan]
+file = "opinionmit00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/opinionmit00unse"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Salmon, Gabriel-René-Louis,1764-1821"
+role = "author"
+
+[[resp]]
+name = "Salmon, Gabriel-René-Louis, 1764-1821"
+role = "author"
+
+[[resp]]
+name = "Salmon, Gabriel-René-Louis, 1764-1821. Autre opinion, également motivée, sur cette question, Sera-t-il sursis à l'exécution du jugement qui condamne Louis Capet à mort, oui ou non?"
+role = "author"
+
+[[resp]]
+name = "Mame, Charles-Pierre, 1747-1825"
+role = "publisher"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale, chez Mame, imprimeur du département"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_868134"
+
+[[text]]
+file = "opinionmit00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opinionmit00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opinionmit00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opinionmit00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

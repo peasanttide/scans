@@ -1,0 +1,89 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "opinion00unse_ahr"
+type = "pamphlet"
+title = "Opinion de Thiessé, député du département de la Seine-Inférieure, sur le projet de résolution proposé, au nom de la Commission des finances, par suite du message du Directoire exécutif, en date du 3 pluviôse de l'an 6, par le citoyen Crassous (de l'Hérault), dans la séance du premier prairial an 6 : séance du 4 prairial an 6."
+language = "fr"
+place = "Paris"
+date = "1798"
+note = "Caption title. At head of title: Corps législatif. Conseil des cinq-cents. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  IV:1, 32525. Scanner's note: No title page found. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/opinion00unse_ahr"
+subject = [
+    "Finance, Public",
+    "Refugee property",
+]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 25689"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9k414c78"
+internet_archive = "opinion00unse_ahr"
+
+[scan]
+file = "opinion00unse_ahr.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/opinion00unse_ahr"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Tallien, Jean-Lambert, 1767-1988"
+role = "author"
+
+[[resp]]
+name = "Thiessé, Nicolas-François, 1759-1834"
+role = "author"
+
+[[resp]]
+name = "France. Corps législatif (1795-1814). Conseil des cinq-cents"
+role = "author"
+
+[[resp]]
+name = "France. Corps législatif (1795-1814). Conseil des cinq-cents. Commission des finances"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_859482"
+
+[[text]]
+file = "opinion00unse_ahr.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opinion00unse_ahr.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opinion00unse_ahr.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opinion00unse_ahr.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

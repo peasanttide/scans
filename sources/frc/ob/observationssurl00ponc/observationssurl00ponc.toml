@@ -1,0 +1,84 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "observationssurl00ponc"
+type = "pamphlet"
+title = "Observations sur le rapport fait à l'Assemblée nationale, sur le projet de rendre navigables les rivières de Juine, d'Essonne et du Remard, et sur un nouveau canal à construire d'Orléans à Paris, présenté par les sieurs Dranci, Gerderet et compagnie."
+language = "fr"
+place = "France"
+date = "1791"
+note = """Caption title. Signed: Poncin, député à l'Assemblée nationale, membre du Comité d'agriculture et de commerce. "... aujourd'hui 18 août 1791 ..."--P. ij. Serves as prefatory matter for Poncin's Opinion (Martin & Walter, IV:1, 27773). Cf. p. [1]. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  IV:1, 27772. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined.  Damaged, stained, marked and/or loose pages.  Uneven binding.  Skewed text.  Irregular pagination."""
+url = "https://archive.org/details/observationssurl00ponc"
+subject = [
+    "Dransy, M",
+    "Gerdret, Antoine-Christophe",
+    "France. Assemblée nationale constituante (1789-1791)",
+    "Right of property",
+    "Public contracts",
+]
+extent = "iv p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 23871"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1dk0qf5k"
+internet_archive = "observationssurl00ponc"
+
+[scan]
+file = "observationssurl00ponc.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/observationssurl00ponc"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Poncin, Placide-Antoine-Joseph, 1743-1794"
+role = "author"
+
+[[resp]]
+name = "Poncin, Placide-Antoine-Joseph, 1743-1794. Opinion de P. Poncin, député à l'Assemblée nationale, contre le rapport sur la navigation des rivières de Juine, d'Essonne, du Remard et sur le canal qui doit les joindre à la Loire près d'Orléans"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_848681"
+
+[[text]]
+file = "observationssurl00ponc.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "observationssurl00ponc.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "observationssurl00ponc.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "observationssurl00ponc.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

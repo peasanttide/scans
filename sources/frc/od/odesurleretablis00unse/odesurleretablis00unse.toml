@@ -1,0 +1,62 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "odesurleretablis00unse"
+type = "pamphlet"
+title = "Ode sur le retablissement de la santé du roy, par un père de la Compagnie de Jesus"
+language = "fr"
+place = "Paris"
+date = "1744"
+note = """
+Binder's title: Conquest du roy. Caption title. Scanner's note: Title is on the cover. Uneven binding. Skewed text. Irregular pagination. Page numbers have been marked or altered.
+Ignore warnings and continue with checkin."""
+url = "https://archive.org/details/odesurleretablis00unse"
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "E 5 .L92705 v. 05 no. 25"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5cc72k6c"
+internet_archive = "odesurleretablis00unse"
+
+[scan]
+file = "odesurleretablis00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/odesurleretablis00unse"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Bordelet"
+role = "publisher"
+
+[[text]]
+file = "odesurleretablis00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "odesurleretablis00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "odesurleretablis00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "odesurleretablis00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

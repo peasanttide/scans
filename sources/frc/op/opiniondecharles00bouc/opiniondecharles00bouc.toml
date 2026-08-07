@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "opiniondecharles00bouc"
+type = "pamphlet"
+title = "Opinion de Charles-François Bouche, député de la sénéchaussée d'Aix, dans la séance de l'Assemblée nationale, le 22 septembre au soir, 1789 : paiement des impôts."
+language = "fr"
+place = "A Versailles"
+date = "1789"
+note = "Caption title. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  I, 4416. Scanner's note: No copyright page found. No table-of-contents pages found. Stained pages. Title on front cover."
+url = "https://archive.org/details/opiniondecharles00bouc"
+subject = ["Taxation"]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 15051"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6547kr98"
+internet_archive = "opiniondecharles00bouc"
+openlibrary_edition = "OL25945369M"
+openlibrary_work = "OL17366583W"
+
+[scan]
+file = "opiniondecharles00bouc.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/opiniondecharles00bouc"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Bouche, Charles François, 1737-1795"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "Baudouin, François-Jean, 1759-1838"
+role = "publisher"
+
+[[resp]]
+name = "Chez Baudouin, imprimeur de l'Assemblée nationale, avenue de Paris, no. 62"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_830928"
+
+[[text]]
+file = "opiniondecharles00bouc.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opiniondecharles00bouc.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opiniondecharles00bouc.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opiniondecharles00bouc.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

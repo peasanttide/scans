@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "odeauxparlemensm00alai"
+type = "pamphlet"
+title = "Ode aux Parlemens : [motto: 2 lines]"
+language = "fr"
+place = "s.l."
+date = "1789"
+note = "Caption title. Without imprint. Signed at end: Par un Alaisien. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on cover page. Damaged, stained and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/odeauxparlemensm00alai"
+subject = ["France. Parlement (1946- )"]
+extent = "4 p. ; 18 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 6142"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2g78gg5m"
+internet_archive = "odeauxparlemensm00alai"
+openlibrary_edition = "OL26218490M"
+openlibrary_work = "OL17614196W"
+
+[scan]
+file = "odeauxparlemensm00alai.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/odeauxparlemensm00alai"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Alaisien"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_58698"
+
+[[text]]
+file = "odeauxparlemensm00alai.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "odeauxparlemensm00alai.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "odeauxparlemensm00alai.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "odeauxparlemensm00alai.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

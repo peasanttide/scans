@@ -1,0 +1,82 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "opiniondenoelpoi00poin_1"
+type = "pamphlet"
+title = "Opinion de Noel Pointe, ouvrier armurier de Saint-Étienne, député du département de Rhône-et-Loire, sur le jugement du ci-devant roi des Francais : imprimée par ordre de la Convention : le 30 novembre 1792, l'an Ier de la République"
+language = "fr"
+place = "Paris"
+date = "1792"
+note = """Caption title. At head of title: Convention nationale. Imprint from colophon. "Législation. No. 63"--Bottom of p. [1]. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française, IV:1, 27631. Scanner's note: No copyright page found. No table-of-contents pages found.  Title and cover are combined. Uneven binding. Skewed text. Damaged, stained and/or loose pages."""
+url = "https://archive.org/details/opiniondenoelpoi00poin_1"
+subject = ["Louis XVI, King of France, 1754-1793"]
+extent = "4 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing DC137.08 .F73 v.14, no. 22"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3tt9zq8m"
+internet_archive = "opiniondenoelpoi00poin_1"
+
+[scan]
+file = "opiniondenoelpoi00poin_1.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/opiniondenoelpoi00poin_1"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Pointe, Noël, 1755-1825"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "Louis XVI Trial and Execution Collection (Newberry Library) ICN"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_845693"
+
+[[text]]
+file = "opiniondenoelpoi00poin_1.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opiniondenoelpoi00poin_1.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opiniondenoelpoi00poin_1.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opiniondenoelpoi00poin_1.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

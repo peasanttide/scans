@@ -1,0 +1,101 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "opiniondejeanfra00bara"
+type = "pamphlet"
+title = "Opinion de Jean-François Barailon, membre de la Convention nationale, député par le département de la Creuse, sur les fêtes civiques à établir dans la République française."
+language = "fr"
+place = "Paris"
+date = "1792"
+note = """Caption title. Imprint from colophon. "Paris, ce 8 novembre, 1792"--P. 7. Publisher location from Martin & Walter. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  I, 1365. Scanner's note: No copyright page found. No table-of-contents pages found."""
+url = "https://archive.org/details/opiniondejeanfra00bara"
+subject = [
+    "Festivals",
+    "Civil religion",
+]
+extent = "8 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 13868"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6p02s543"
+internet_archive = "opiniondejeanfra00bara"
+
+[scan]
+file = "opiniondejeanfra00bara.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/opiniondejeanfra00bara"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Barailon, Jean-François, 1743-1816"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Pougin, rue Mazarine, no. 1602"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_829126"
+
+[[text]]
+file = "opiniondejeanfra00bara.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opiniondejeanfra00bara.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opiniondejeanfra00bara.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opiniondejeanfra00bara.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opiniondejeanfra00bara.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opiniondejeanfra00bara.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opiniondejeanfra00bara.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opiniondejeanfra00bara.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

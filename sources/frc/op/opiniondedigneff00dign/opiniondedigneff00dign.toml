@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "opiniondedigneff00dign"
+type = "pamphlet"
+title = "Opinion de Digneffe (de l'Ourthe) : séance du 30 prairial an 7."
+language = "fr"
+place = "A Paris"
+date = "1799"
+note = "Caption title. Imprint from colophon. At head of title: Corps législatif. Conseil des cinq-cents. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  II, 10769. Scanner's note: No copyright page found. No table-of-contents pages found. Damaged, stained pages. skewed text."
+url = "https://archive.org/details/opiniondedigneff00dign"
+subject = ["Counterrevolutionaries"]
+extent = "3 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 11466"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1vf1g13c"
+internet_archive = "opiniondedigneff00dign"
+openlibrary_edition = "OL25911827M"
+openlibrary_work = "OL17335476W"
+
+[scan]
+file = "opiniondedigneff00dign.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/opiniondedigneff00dign"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Digneffe, Jean Baptiste Winant, b. 1761"
+role = "author"
+
+[[resp]]
+name = "France. Corps législatif (1795-1814). Conseil des cinq-cents"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_824995"
+
+[[text]]
+file = "opiniondedigneff00dign.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opiniondedigneff00dign.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opiniondedigneff00dign.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opiniondedigneff00dign.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

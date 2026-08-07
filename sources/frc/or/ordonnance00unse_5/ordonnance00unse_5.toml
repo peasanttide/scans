@@ -1,0 +1,78 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "ordonnance00unse_5"
+type = "pamphlet"
+title = "Ordonnance de police, concernant le repêchage des marchandises naufragées : du 25 février 1784"
+language = "fr"
+place = "Paris"
+date = "1784"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text. No title page found. No copyright page found. No table-of-contents pages found. Text on the back cover is upside-down."
+url = "https://archive.org/details/ordonnance00unse_5"
+subject = [
+    "Salvage",
+    "Salvage logging",
+    "Secondhand trade",
+]
+extent = "2 p. ; 28 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 27547 copy 1"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t70w3n142"
+internet_archive = "ordonnance00unse_5"
+
+[scan]
+file = "ordonnance00unse_5.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/ordonnance00unse_5"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Paris (France). Prévôt des marchands et échevins"
+role = "author"
+
+[[resp]]
+name = "Lottin, Augustin-Martin, 1726-1793"
+role = "publisher"
+
+[[resp]]
+name = "De l'imprimerie de Lottin l'aîné, imprimeur du roi, & ordinaire de la ville, rue S. Jacques, au Coq"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_73848"
+
+[[text]]
+file = "ordonnance00unse_5.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordonnance00unse_5.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordonnance00unse_5.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordonnance00unse_5.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "observationsdelu00bona"
+type = "pamphlet"
+title = "Observations de Lucien Bonaparte sur l'opinion du cit. Creuzé-Latouche."
+language = "fr"
+place = "France?"
+date = "1799"
+note = "Caption title. Not in Martin & Walter. Révolution française. A defense against a suggestion by Creuzé-Latouche that L. Bonaparte miscalculated the government deficit. Scanner's note: No copyright page found. No table-of-contents pages found.   Title and cover page are combined. Uneven binding. Damaged, loose pages. Skewed text."
+url = "https://archive.org/details/observationsdelu00bona"
+subject = [
+    "Budget deficits",
+    "Finance, Public",
+    "Taxation",
+]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 14916"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t15n15k9k"
+internet_archive = "observationsdelu00bona"
+openlibrary_edition = "OL26191843M"
+openlibrary_work = "OL17588663W"
+
+[scan]
+file = "observationsdelu00bona.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/observationsdelu00bona"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Bonaparte, Lucien, prince de Canino, 1775-1840"
+role = "author"
+
+[[resp]]
+name = "Creuzé-Latouche, Jacques Antoine, 1749-1800"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_831702"
+
+[[text]]
+file = "observationsdelu00bona.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "observationsdelu00bona.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "observationsdelu00bona.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "observationsdelu00bona.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

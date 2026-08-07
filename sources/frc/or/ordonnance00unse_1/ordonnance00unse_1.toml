@@ -1,0 +1,85 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "ordonnance00unse_1"
+type = "pamphlet"
+title = "Ordonnance de M. le lieutenant général de police, qui condamne la veuve & héritiers de François Girard, à faire faire les ouvrages nécessaires pour la sûreté des chemins des Quatre-Ruelles & du Luat : du 26 avril 1780"
+language = "fr"
+place = "A Paris"
+date = "1780"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text. No title page found. No copyright page found. No table-of-contents pages found. Text on the back cover is upside-down."
+url = "https://archive.org/details/ordonnance00unse_1"
+subject = [
+    "Girard, François, veuve",
+    "Roads",
+    "Quarries and quarrying",
+    "Building laws",
+]
+extent = "3 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 27465"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4xh4rh94"
+internet_archive = "ordonnance00unse_1"
+openlibrary_edition = "OL26229902M"
+openlibrary_work = "OL17624933W"
+
+[scan]
+file = "ordonnance00unse_1.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/ordonnance00unse_1"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Paris (France). Lieutenant général de police"
+role = "author"
+
+[[resp]]
+name = "Lenoir, Jean-Charles-Pierre, 1732-1807"
+role = "author"
+
+[[resp]]
+name = "Simon, P. G. (Pierre-Guillaume), 1722-1787"
+role = "publisher"
+
+[[resp]]
+name = "Chez P.G. Simon, imprimeur du Parlement, rue Mignon Saint André-des-arcs"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_861388"
+
+[[text]]
+file = "ordonnance00unse_1.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordonnance00unse_1.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordonnance00unse_1.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordonnance00unse_1.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

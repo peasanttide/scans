@@ -1,0 +1,78 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "ordonnancedepoli00pari"
+type = "pamphlet"
+title = "Ordonnance de police, concernant le repêchage des marchandises naufragées : du 25 février 1784"
+language = "fr"
+place = "Paris"
+date = "1784"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on the cover page. Damaged, stained, and/or loose pages. Uneven binding. Skewed text. Text on the back cover is upside-down. Only one numbered page."
+url = "https://archive.org/details/ordonnancedepoli00pari"
+subject = [
+    "Salvage",
+    "Salvage logging",
+    "Secondhand trade",
+]
+extent = "2 p. ; 28 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC suppl. 107"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5v74nh1x"
+internet_archive = "ordonnancedepoli00pari"
+
+[scan]
+file = "ordonnancedepoli00pari.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/ordonnancedepoli00pari"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Paris (France). Prévôt des marchands et échevins"
+role = "author"
+
+[[resp]]
+name = "Lottin, Augustin-Martin, 1726-1793"
+role = "publisher"
+
+[[resp]]
+name = "De l'imprimerie de Lottin l'aîné, imprimeur du roi, & ordinaire de la ville, rue S. Jacques, au Coq"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_73848"
+
+[[text]]
+file = "ordonnancedepoli00pari.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordonnancedepoli00pari.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordonnancedepoli00pari.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordonnancedepoli00pari.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

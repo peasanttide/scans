@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "ordonnancepolice00unse"
+type = "pamphlet"
+title = "Ordonnance de police, concernant la mendicité : du trois juin mil sept cent quatre-vingt-neuf"
+language = "fr"
+place = "A Paris"
+date = "1789"
+note = "Caption title. Imprint from colophon. Signed at end: Ce fut fait & donné par Louis Thiroux de Crosne, chevalier, conseiller d'etat, lieutenant-général de la ville, prév^oté & vicomté de Paris .. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages."
+url = "https://archive.org/details/ordonnancepolice00unse"
+subject = ["Begging"]
+extent = "4 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10052"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5z65nc9z"
+internet_archive = "ordonnancepolice00unse"
+openlibrary_edition = "OL26222824M"
+openlibrary_work = "OL17618295W"
+
+[scan]
+file = "ordonnancepolice00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/ordonnancepolice00unse"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Paris (France). Police"
+role = "author"
+
+[[resp]]
+name = "Chez N. H. Nyon"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_70726"
+
+[[text]]
+file = "ordonnancepolice00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordonnancepolice00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordonnancepolice00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordonnancepolice00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

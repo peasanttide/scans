@@ -1,0 +1,78 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "ordonnance00aude"
+type = "pamphlet"
+title = "Ordonnance"
+language = "fr"
+place = "A Carcassonne"
+date = "1790"
+note = "Caption title. Imprint from colophon. Dated at end: le treize [altered in contemporary ms. to: douze] décembre mil sept cent quatre-vingt-dix. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages."
+url = "https://archive.org/details/ordonnance00aude"
+subject = [
+    "Canal de Narbonne (France)",
+    "Narbonne (France)",
+    "Canals",
+    "Roads",
+    "Fills (Earthwork)",
+]
+extent = "4 p. ; 25 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9385"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7vm9cb9g"
+internet_archive = "ordonnance00aude"
+openlibrary_edition = "OL26221911M"
+openlibrary_work = "OL17617411W"
+
+[scan]
+file = "ordonnance00aude.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/ordonnance00aude"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Aude (France)"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de R. Heirisson"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_67204"
+
+[[text]]
+file = "ordonnance00aude.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordonnance00aude.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordonnance00aude.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordonnance00aude.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "ordonnancepour00unse"
+type = "pamphlet"
+title = "... Ordonnance pour avertir les habitans de la ville & des fauxbourgs de Paris : de déposer dans un coffre, `a l'H^otel-de-Ville, leurs mémoires & observations, destinés `a la rédaction du cahier de ladite ville, pour les États-généraux ; du quinze avril mil sept cent quatre-vingt- neuf"
+language = "fr"
+place = "A Paris"
+date = "1789"
+note = "Caption title. Imprint from colophon. At head of title: États-généraux. De par les prév^ot des marchands et échevins de la ville de Paris. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages."
+url = "https://archive.org/details/ordonnancepour00unse"
+extent = "4 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9795"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7tn2bm53"
+internet_archive = "ordonnancepour00unse"
+openlibrary_edition = "OL26223950M"
+openlibrary_work = "OL17619405W"
+
+[scan]
+file = "ordonnancepour00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/ordonnancepour00unse"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Paris (France)"
+role = "author"
+
+[[resp]]
+name = "France. Etats généraux"
+role = "author"
+
+[[resp]]
+name = "Chez N. H. Nyon"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_68579"
+
+[[text]]
+file = "ordonnancepour00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordonnancepour00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordonnancepour00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordonnancepour00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

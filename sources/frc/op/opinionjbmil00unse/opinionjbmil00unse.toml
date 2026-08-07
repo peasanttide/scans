@@ -1,0 +1,91 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "opinionjbmil00unse"
+type = "pamphlet"
+title = "Opinion de J.B. Milhaud, député du Cantal a la Convention nationale, sur le jugement de Louis Capet, dit Louis XVI : imprimée par ordre de la Convention nationale"
+language = "fr"
+place = "A Lyon"
+date = "1793"
+note = """Caption title. At head of title: Convention nationale. Imprint from colophon. "Le directoire du département arrête, que l'opinion ci-dessus sera incessamment imprimée ..."--P. 4. Variant of Martin & Walter. Révolution française, III, 24311. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover."""
+url = "https://archive.org/details/opinionjbmil00unse"
+subject = [
+    "Louis XVI, King of France, 1754-1793",
+    "Social contract",
+]
+extent = "4 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 27007"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6741x09w"
+internet_archive = "opinionjbmil00unse"
+openlibrary_edition = "OL26227199M"
+openlibrary_work = "OL17622426W"
+
+[scan]
+file = "opinionjbmil00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/opinionjbmil00unse"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Milhaud, Jean-Baptiste,1766-1833"
+role = "author"
+
+[[resp]]
+name = "Milhaud, Jean-Baptiste, 1766-1833"
+role = "author"
+
+[[resp]]
+name = "Vatar-Delaroche, Aimé"
+role = "publisher"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Rhône (France). Directoire"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie d'Aimé Vatar-Delaroche"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_865602"
+
+[[text]]
+file = "opinionjbmil00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opinionjbmil00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opinionjbmil00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opinionjbmil00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,61 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "ouvragesnouvea00merc"
+type = "pamphlet"
+title = "Ouvrages nouveaux, qui se trouvent en nombre chez Mercier de Compiègne, membre du Lycée des arts, et libraire, rue du Coq-Honoré, no. 120"
+language = "fr"
+place = "Paris"
+date = "1796"
+note = """Caption title. At head of title: A. Publication date from BN. Catalogues de libraires. Printed in double columns. BN. Catalogues de libraires. Catalog of primarily French literature, including several satirical works by the author/bookseller. "Avec les prix en assignats, ou en mandats territoriaux, à trente capitaux pour un"--P. [1]. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Text extends off of the edge of the page. Text may be lost in the binding. Permanent creases may obscure some text. Title page and cover are combined."""
+url = "https://archive.org/details/ouvragesnouvea00merc"
+subject = [
+    "Mercier de Compiègne, Claude-François-Xavier, 1763-1800",
+    "French literature",
+    "Satire, French",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 8 no. 41"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7qp1t92f"
+internet_archive = "ouvragesnouvea00merc"
+
+[scan]
+file = "ouvragesnouvea00merc.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/ouvragesnouvea00merc"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Mercier de Compiègne, Claude-François-Xavier,1763-18"
+role = "author"
+
+[[resp]]
+name = "Mercier de Compiègne, Claude-François-Xavier, 1763-1800"
+role = "author"
+
+[[resp]]
+name = "Mercier de Compiègne"
+role = "publisher"
+
+[[text]]
+file = "ouvragesnouvea00merc.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ouvragesnouvea00merc.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

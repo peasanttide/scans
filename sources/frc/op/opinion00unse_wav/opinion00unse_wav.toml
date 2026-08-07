@@ -1,0 +1,77 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "opinion00unse_wav"
+type = "pamphlet"
+title = "Opinion d'A. F. Pison du Galland, député de Dauphiné a l'Assemblée nationale : sur la dénonciation faite dans la séance du 26 octobre, de la convocation des Etats de cette province & de leur doublement."
+language = "fr"
+place = "A Paris"
+date = "1789"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: Title page and cover are combined. Damaged, stained, marked and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/opinion00unse_wav"
+subject = [
+    "Dauphiné (France). États",
+    "Representative government and representation",
+]
+extent = "4 p ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 23783"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0vq8787p"
+internet_archive = "opinion00unse_wav"
+
+[scan]
+file = "opinion00unse_wav.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/opinion00unse_wav"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Pison du Galland, Alexis François, 1747-1826"
+role = "author"
+
+[[resp]]
+name = "Baudouin, François-Jean, 1759-1838"
+role = "publisher"
+
+[[resp]]
+name = "Chez Baudouin, imprimeur du l'Assemblée nationale, rue Saint-Honoré, maison conventuelle des capucins, no. 426"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_848496"
+
+[[text]]
+file = "opinion00unse_wav.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opinion00unse_wav.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opinion00unse_wav.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opinion00unse_wav.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

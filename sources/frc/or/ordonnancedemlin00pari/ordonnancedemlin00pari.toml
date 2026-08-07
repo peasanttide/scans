@@ -1,0 +1,81 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "ordonnancedemlin00pari"
+type = "pamphlet"
+title = "Ordonnance de M. l'intendant de la généralité de Paris, concernant la police des routes : du 12 décembre 1780 : de par le roi, Louis-Benigne-François Bertier, chevalier, conseiller du roi en ses conseils, maître des requêtes ordinaire de son hôtel, surintendant des finances, domaines & affaires de la reine, & intendant de justice, police & finance de la généralité de Paris"
+language = "fr"
+place = "A Paris"
+date = "1781"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover. Loose pages. Uneven binding. Skewed text. Text on back cover is upside-down."
+url = "https://archive.org/details/ordonnancedemlin00pari"
+subject = [
+    "Street cleaning",
+    "Refuse and refuse disposal",
+]
+extent = "3 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC suppl. 99"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3fz2gz88"
+internet_archive = "ordonnancedemlin00pari"
+
+[scan]
+file = "ordonnancedemlin00pari.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/ordonnancedemlin00pari"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Paris (France : Généralité)"
+role = "author"
+
+[[resp]]
+name = "Bertier de Sauvigny, Louis-Bénigne-François de, 1737-1789"
+role = "author"
+
+[[resp]]
+name = "Imprimerie royale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie royale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_867872"
+
+[[text]]
+file = "ordonnancedemlin00pari.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordonnancedemlin00pari.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordonnancedemlin00pari.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordonnancedemlin00pari.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

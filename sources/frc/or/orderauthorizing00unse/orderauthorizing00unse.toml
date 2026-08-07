@@ -1,0 +1,73 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "orderauthorizing00unse"
+type = "pamphlet"
+title = "[Order authorizing the Prévôt des marchands et echevins to levy taxes on wine and livestock]."
+language = "fr"
+place = "Lyon?"
+date = "1705"
+note = """Title devised by cataloger. "Fait & passé à Lyon dans l'Hôtel commun de ladite ville, l'an mil sept cens cinq ..."--Page [3]. Signatures: [A]². Last page blank. Initial. Includes blank spaces within text to be completed in manuscript. No. 46 of 54 titles bound together."""
+url = "https://archive.org/details/orderauthorizing00unse"
+subject = [
+    "Octroi",
+    "Wine and wine making",
+    "Livestock",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio KJV5795 .A35 1728 no. 46"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6f251465"
+internet_archive = "orderauthorizing00unse"
+
+[scan]
+file = "orderauthorizing00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/orderauthorizing00unse"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Cachet de Montesan, Benoît"
+role = "author"
+
+[[resp]]
+name = "Lyon (France). Prévôt des marchands et echevins"
+role = "author"
+
+[[resp]]
+name = "[publisher not identified]"
+role = "publisher"
+
+[[text]]
+file = "orderauthorizing00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "orderauthorizing00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "orderauthorizing00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "orderauthorizing00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,83 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "observationspres00olry"
+type = "pamphlet"
+title = "Observations présentées au Comité des finances, par les citoyens Olry et Muller, députés des deux cantons de Benfeld et Erstein, département du Bas-Rhin, pour servir de supplément à la pétition qu'ils ont faite à la Convention nationale, aux fins d'obtenir le remboursement de la taxe révolutionnaire perçue sur lesdits cantons."
+language = "fr"
+place = "France"
+date = "1794"
+note = "Caption title. Suggested date of publication from BM. Martin & Walter. Révolution française. BN. BM. Bibliography: Martin & Walter.  Révolution française,  III, 26064. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page is on the cover. Damaged, stained, and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/observationspres00olry"
+subject = [
+    "Cambon, Joseph, 1756-1820",
+    "Tax administration and procedure",
+]
+extent = "4 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 23264"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5hb4c59x"
+internet_archive = "observationspres00olry"
+openlibrary_edition = "OL26237756M"
+openlibrary_work = "OL17632305W"
+
+[scan]
+file = "observationspres00olry.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/observationspres00olry"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Olry, citoyen"
+role = "author"
+
+[[resp]]
+name = "Muller, Citoyen"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale. Comité des finances"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_847450"
+
+[[text]]
+file = "observationspres00olry.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "observationspres00olry.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "observationspres00olry.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "observationspres00olry.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

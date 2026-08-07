@@ -1,0 +1,84 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "opiniondefrancoi00couh"
+type = "pamphlet"
+title = "Opinion de François Couhey, député du département des Vosges à la Convention nationale, sur la peine à infliger à Louis Capet, ci-devant roi des Français : imprimée par ordre de la Convention nationale."
+language = "fr"
+place = "A Paris"
+date = "1793"
+note = "Caption title. At head of title: Convention nationale. Imprint from colophon. Variant of Martin & Walter. Révolution française, I, 8483. Scanner's note: No copyright page found. No table-of-contents pages found.  Title on cover. Damaged, stained pages and cover.  Skewed text."
+url = "https://archive.org/details/opiniondefrancoi00couh"
+subject = ["Louis XVI, King of France, 1754-1793"]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 16669"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t17m58p70"
+internet_archive = "opiniondefrancoi00couh"
+openlibrary_edition = "OL26199702M"
+openlibrary_work = "OL17596367W"
+
+[scan]
+file = "opiniondefrancoi00couh.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/opiniondefrancoi00couh"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Couhey, François, 1752-1821"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "Louis XVI Trial and Execution Collection (Newberry Library) ICN"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_834485"
+
+[[text]]
+file = "opiniondefrancoi00couh.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opiniondefrancoi00couh.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opiniondefrancoi00couh.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opiniondefrancoi00couh.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

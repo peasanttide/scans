@@ -1,0 +1,88 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "officeremismdesa00dumi"
+type = "pamphlet"
+title = "Office remis à M. de Sainte-Croix par M. le baron de Duminique, le premier janvier 1792 : communiqué à l'Assemblée nationale par le Ministre des affaires étrangères, le 6 janvier 1792, en vertu des ordres du Roi."
+language = "fr"
+place = "A Paris"
+date = "1792"
+note = """Caption title. Place of publication and publisher statement from colophon. "Imprimé par ordre de l'Assemblée Nationale.". "A Coblentz, le 13 décembre 1791, signé, le baron de Duminique. Pour copie Delessart."--P. 3. "Diplomatie, no. 14."--Bottom of p. [1]. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  II, 11853. Scanner's note: No copyright page found. No table-of-contents pages found.   Title page and cover are combined. Skewed text."""
+url = "https://archive.org/details/officeremismdesa00dumi"
+subject = ["Refugees"]
+extent = "3 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 17904"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t86h9j040"
+internet_archive = "officeremismdesa00dumi"
+openlibrary_edition = "OL26193664M"
+openlibrary_work = "OL17590432W"
+
+[scan]
+file = "officeremismdesa00dumi.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/officeremismdesa00dumi"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Duminique, baron de"
+role = "author"
+
+[[resp]]
+name = "Delessart"
+role = "author"
+
+[[resp]]
+name = "Bigot de Sainte-Croix, Louis Claude, 1744-1803"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale législative (1791-1792)"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_837347"
+
+[[text]]
+file = "officeremismdesa00dumi.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "officeremismdesa00dumi.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "officeremismdesa00dumi.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "officeremismdesa00dumi.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

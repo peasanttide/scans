@@ -1,0 +1,105 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "offrandelapatrie00baco"
+type = "pamphlet"
+title = "Offrande à la patrie d'une invention économique par le citoyen Bacon, approuvée par l'Académie des sciences, & qui consiste en une chaudière de nouvelle constructions, très-peu dispendieuse, appliquable à une infinité d'usages, & particulièrement utile à la marine & aux hôpitaux de l'armée."
+language = "fr"
+place = "Paris"
+date = "1792"
+note = """Caption title. "Paris, ce 29 septembre 1792, l'an Ier. de la République françoise"--P. 4. Imprint from colophon. Martin & Walter. Révolution française. "Précis d'un extrait des Régistres de l'Académie des sciences, du 12 décembre 1787"--P. 5-8. Bibliography: Martin & Walter.  Révolution française,  I, 1006. Scanner's note: No copyright page found. No table-of-contents pages found."""
+url = "https://archive.org/details/offrandelapatrie00baco"
+subject = [
+    "Boilers",
+    "Military engineering",
+]
+extent = "8 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 13780"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6pz9t033"
+internet_archive = "offrandelapatrie00baco"
+
+[scan]
+file = "offrandelapatrie00baco.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/offrandelapatrie00baco"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Bacon-Tocon, Pierre Jean Jacques, comte, 1738-1817"
+role = "author"
+
+[[resp]]
+name = "Académie des sciences (France)"
+role = "author"
+
+[[resp]]
+name = "Potier de Lille, Louis, 1750?-1794"
+role = "publisher"
+
+[[resp]]
+name = "De l'imprimerie de L. Potier de Lille, rue Favart, no. 2"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_829018"
+
+[[text]]
+file = "offrandelapatrie00baco.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "offrandelapatrie00baco.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "offrandelapatrie00baco.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "offrandelapatrie00baco.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "offrandelapatrie00baco.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "offrandelapatrie00baco.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "offrandelapatrie00baco.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "offrandelapatrie00baco.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

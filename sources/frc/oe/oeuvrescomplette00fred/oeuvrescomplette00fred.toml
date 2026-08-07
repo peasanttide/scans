@@ -1,0 +1,56 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "oeuvrescomplette00fred"
+type = "pamphlet"
+title = "Oeuvres complettes de Fréderic II, roi de Prusse"
+language = "fr"
+place = "Berlin?"
+date = "1790"
+note = "Prospectuses for French editions of Frederick II's complete, posthumous, and historical works, most of which were published in Berlin, 1788-1790. Caption title. Printed in double columns. Includes prices. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Title page and cover are combined. Text extends off of the edge of the page."
+url = "https://archive.org/details/oeuvrescomplette00fred"
+subject = [
+    "Frederick II, King of Prussia, 1712-1786",
+    "Booksellers and bookselling",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1e no. 7"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5q870k73"
+internet_archive = "oeuvrescomplette00fred"
+
+[scan]
+file = "oeuvrescomplette00fred.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/oeuvrescomplette00fred"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Frederick II, King of Prussia, 1712-1786. Works. French"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[text]]
+file = "oeuvrescomplette00fred.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "oeuvrescomplette00fred.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

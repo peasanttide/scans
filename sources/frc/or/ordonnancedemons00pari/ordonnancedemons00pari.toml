@@ -1,0 +1,59 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "ordonnancedemons00pari"
+type = "pamphlet"
+title = "Ordonnance de Monsievr le Lievtenand General de Police"
+language = "fr"
+date = "1680"
+note = "Caption title. Regarding taxation of parcels containing books. Date 9 April 1680. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Title page and cover are combined."
+url = "https://archive.org/details/ordonnancedemons00pari"
+subject = [
+    "Printing",
+    "Book industries and trade",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 2 no. 56"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8gf6dw0q"
+internet_archive = "ordonnancedemons00pari"
+
+[scan]
+file = "ordonnancedemons00pari.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/ordonnancedemons00pari"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Paris (France).Prévôté"
+role = "author"
+
+[[resp]]
+name = "Paris (France). Prévôté"
+role = "author"
+
+[[resp]]
+name = "[Paris"
+role = "publisher"
+
+[[text]]
+file = "ordonnancedemons00pari.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordonnancedemons00pari.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

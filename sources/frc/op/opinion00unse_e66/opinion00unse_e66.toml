@@ -1,0 +1,86 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "opinion00unse_e66"
+type = "pamphlet"
+title = "Opinion motivée de Gabriel-René-Louis Salmon, député de la Sarthe, sur cette question, Quelle peine sera infligée à Louis Capet? : prononcée le 17 janvier 1793, l'an 2me. de la République."
+language = "fr"
+place = "Paris"
+date = "1793"
+note = """Caption title. At head of title: Convention nationale. Imprint from colophon. "Imprimée par ordre de la Convention nationale"--P. [1]. Martin & Walter. Révolution française. "Autre opinion, également motivée, sur cette question, Sera-t-il sursis à l'exécution du jugement qui condamne Louis Capet à mort, oui ou non?"--P. 2-3. Bibliography: Martin & Walter.  Révolution française,  IV:1, 30934. Scanner's note: Text extends off of the edge of the page.  Title page and cover are combined. Damaged, stained, marked and/or loose pages. Uneven binding. Skewed text. No copyright page found. No table-of-contents pages found."""
+url = "https://archive.org/details/opinion00unse_e66"
+subject = ["Louis XVI, King of France, 1754-1793"]
+extent = "3 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 25027"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7fr56885"
+internet_archive = "opinion00unse_e66"
+
+[scan]
+file = "opinion00unse_e66.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/opinion00unse_e66"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Salmon, Gabriel-René-Louis, 1764-1821"
+role = "author"
+
+[[resp]]
+name = "Salmon, Gabriel-René-Louis, 1764-1821. Autre opinion, également motivée, sur cette question, Sera-t-il sursis à l'exécution du jugement qui condamne Louis Capet à mort, oui ou non?"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "Louis XVI Trial and Execution Collection (Newberry Library) ICN"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_843407"
+
+[[text]]
+file = "opinion00unse_e66.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opinion00unse_e66.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opinion00unse_e66.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opinion00unse_e66.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,84 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "observationsurle00mich"
+type = "pamphlet"
+title = "Observation sur le procès de Louis XVI"
+language = "fr"
+place = "A Dijon"
+date = "1793"
+note = "Caption title. At head of title: Convention nationale. Imprint from colophon. Variant of Martin & Walter. Révolution française, III, 24237. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover."
+url = "https://archive.org/details/observationsurle00mich"
+subject = ["Louis XVI, King of France, 1754-1793"]
+extent = "4 p. ; 28 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 27006"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3810799q"
+internet_archive = "observationsurle00mich"
+openlibrary_edition = "OL26227185M"
+openlibrary_work = "OL17622412W"
+
+[scan]
+file = "observationsurle00mich.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/observationsurle00mich"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Michet, Antoine,1744-1800"
+role = "author"
+
+[[resp]]
+name = "Michet, Antoine, 1744-1800"
+role = "author"
+
+[[resp]]
+name = "Capel, J. B. (Jean Baptiste)"
+role = "publisher"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Capel"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_865601"
+
+[[text]]
+file = "observationsurle00mich.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "observationsurle00mich.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "observationsurle00mich.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "observationsurle00mich.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

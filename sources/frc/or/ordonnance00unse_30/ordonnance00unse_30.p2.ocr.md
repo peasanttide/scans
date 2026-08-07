@@ -1,0 +1,43 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: ordonnance00unse_30
+page: 2
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 3025
+h: 4166
+dpi: 500
+---
+
+2 3 janvier 177^» î 7 1780, &: de l’Arrêt de la
+
+Cour du Parlement du 1 2 novembre 1778,11 s’eft
+tranfporté dans la paroiffe de Chaville près Verlaiiies,
+en une Carrière de pierre à chaux, exploitée par André
+Dada, dit l’Orange, Chaufournier, fur le§ dangers de
+laquelle il a été préfenté un placer au Roi , à lui renvoyé
+par M. le Comte d’Angiviller , Direâeur & Ordonna-
+teur général des Bâtimens de Sa Majefté, pour faire la
+vifite 8c rendre compte de letat de ladite Carrière:
+Que lui fieur Guillaumot, en a en conféquence fait
+lever le plan: Qu’il a reconnu que les rues de ladite
+Carrière traverfent en plufieurs endroits le. chemin pavé,
+nommé le Chemin des Gardes-Françoifes , conduifant de
+Yerfailles. à Meudon: Quelles pénètrent même fous le
+parc dudit lieu de Meudon: Que plufieurs fonds font
+percés à jour au bord de l’accotement du même chemin
+8c environs, 8c nombre de cloches formées fous diffé-
+rentes autres parties, jiifque fous le pavé même, qui
+préparent de nouveaux fonds 8c qui poiirroient oçcafionner
+les malheurs les plus fâcheux, s’il n’y étoit pourvu fans
+retardement: Vu auffi lefdites Déclarations 8c Arrêt.
+
+Nous ordonnons que dans le jour de la fignifiçation
+de notre préfente Ordonnance au nommé Dada, dit
+l’Orange, l’ufage de la Carrière à chaux , par lui exploitée
+au territoire de Chaville, fera 8c demeurera interdit;
+lui faifons défenfes 8c à tous autres, de continuer ladite
+exploitation fous les peines portées par ks Règlemens :
+Ordonnons que ledit Dada, dit l’Orange, fera tenu de
+faire porter faiis délai des terres, foit des déblais, foit
+de tous autres endroits , dans les rues fouillées fous ledit?

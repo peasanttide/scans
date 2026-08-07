@@ -1,0 +1,65 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "odesurlamaladiee00bord"
+type = "pamphlet"
+title = "Ode sur la maladie et la convalescence du roy"
+language = "fr"
+place = "A Paris"
+date = "1744"
+note = """Caption title. Imprint from colophon. "Permis d'imprimer" at end dated: 5. octobre 1744. Signatures: [1]². Initial; head-piece. No. 24 of 54 titles bound together. Scanner's note: Title is on the cover. Uneven binding. Skewed text. Irregular pagination. Page numbers have been marked or altered. Damaged, stained, torn and/or loose pages."""
+url = "https://archive.org/details/odesurlamaladiee00bord"
+subject = ["Louis XV, King of France, 1710-1774"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "E 5 .L92705 v. 05 no. 24"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t42r9wn2r"
+internet_archive = "odesurlamaladiee00bord"
+
+[scan]
+file = "odesurlamaladiee00bord.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/odesurlamaladiee00bord"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Bordelet, Marc, 1697?-1754"
+role = "publisher"
+
+[[resp]]
+name = "Chez Bordellet, rue S. Jacques, vis-à-vis les Jésuites, à Saint Ignace"
+role = "publisher"
+
+[[text]]
+file = "odesurlamaladiee00bord.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "odesurlamaladiee00bord.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "odesurlamaladiee00bord.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "odesurlamaladiee00bord.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

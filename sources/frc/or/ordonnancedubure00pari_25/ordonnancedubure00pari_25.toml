@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "ordonnancedubure00pari_25"
+type = "pamphlet"
+title = "Ordonnance du Bureau des finances de la généralité de Paris, qui condamne le sieur Jacob, voyer à Saint-Denys & à Ménilmontant, en trois cents livres d'amende, pour alignemens par lui donnés sur les routes entretenues aux frais du roi : du 19 juin 1781 : les présidens-trésoriers de France, généraux des finances & grands-voyers en la généralité de Paris, & commissaires du conseil en cette partie"
+language = "fr"
+place = "A Paris"
+date = "1781"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on the cover page. Damaged, stained, and/or loose pages. Uneven binding. Skewed text. Text on the back cover is upside-down."
+url = "https://archive.org/details/ordonnancedubure00pari_25"
+subject = [
+    "Administrative responsibility",
+    "Roads",
+    "Fines (Penalties)",
+]
+extent = "3 p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC suppl. 101 no. 11"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0bw2pp96"
+internet_archive = "ordonnancedubure00pari_25"
+openlibrary_edition = "OL26235897M"
+openlibrary_work = "OL17630458W"
+
+[scan]
+file = "ordonnancedubure00pari_25.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/ordonnancedubure00pari_25"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Paris (France : Généralité). Bureau des finances"
+role = "author"
+
+[[resp]]
+name = "Imprimerie royale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie royale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_861379"
+
+[[text]]
+file = "ordonnancedubure00pari_25.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordonnancedubure00pari_25.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordonnancedubure00pari_25.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordonnancedubure00pari_25.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

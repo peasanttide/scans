@@ -1,0 +1,89 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "opinion00unse_gsx"
+type = "pamphlet"
+title = "Opinion de J.B.D. Mazade, député de la Haute-Garonne, sur l'affaire de Louis Capet : imprimée par ordre de la Convention"
+language = "fr"
+place = "Paris"
+date = "1793"
+note = """Caption title. At head of title: Convention nationale. Imprint from colophon. "Législation. (No. 243.)"--Bottom of p. [1]. Session date from Martin & Walter: Du 16 janvier 1793. Variant of Martin & Walter. Révolution française, III, 23677. Hayden, H.E. Fr. Rev. pamphlets. Saricks, A. Melvin Coll. Bibliography: Hayden, H.E.  Fr. Rev. pamphlets, 2438. Scanner's note: No copyright page found. No table-of-contents pages found. Damaged, stained pages and cover. Title on cover."""
+url = "https://archive.org/details/opinion00unse_gsx"
+subject = [
+    "Louis XVI, King of France, 1754-1793",
+    "Exile (Punishment)",
+]
+extent = "3 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing DC137.08 .F73 v.13, no. 11"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3sv2xv0h"
+internet_archive = "opinion00unse_gsx"
+
+[scan]
+file = "opinion00unse_gsx.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/opinion00unse_gsx"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Mazade-Percin, Julien-Bernard-Dorothée de, 175-1823"
+role = "author"
+
+[[resp]]
+name = "Mazade-Percin, Julien-Bernard-Dorothée de, 1750-1823"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "Louis XVI Trial and Execution Collection (Newberry Library) ICN"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_843893"
+
+[[text]]
+file = "opinion00unse_gsx.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opinion00unse_gsx.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opinion00unse_gsx.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opinion00unse_gsx.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

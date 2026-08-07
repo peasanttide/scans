@@ -1,0 +1,19 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: observationssurl00unse_6
+page: 1
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 2402
+h: 4182
+dpi: 500
+---
+
+observations
+
+SUR L’ARRÊT DU CONSEIL
+
+Obtenu par VKÔtel de Ville de
+Rouen.
+
+année 1789 .

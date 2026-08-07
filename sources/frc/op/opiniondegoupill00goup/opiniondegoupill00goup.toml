@@ -1,0 +1,83 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "opiniondegoupill00goup"
+type = "pamphlet"
+title = "Opinion de Goupilleau, (de Montaigu), sur le rapport de la Commission des finances, tendant à accorder un dégrévement à la commune de Bedouin : séance du 22 messidor an 6."
+language = "fr"
+place = "Paris"
+date = "1798"
+note = "Caption title. At head of title: Corps législatif. Conseil des cinq-cents. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  II, 15397. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined.  Damaged pages.  Skewed text.  Uneven binding."
+url = "https://archive.org/details/opiniondegoupill00goup"
+subject = [
+    "Debts, Public",
+    "Intergovernmental fiscal relations",
+]
+extent = "3 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 19304"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2z36rc68"
+internet_archive = "opiniondegoupill00goup"
+openlibrary_edition = "OL25953106M"
+openlibrary_work = "OL17374024W"
+
+[scan]
+file = "opiniondegoupill00goup.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/opiniondegoupill00goup"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Goupilleau, Philippe-Charles-Aimé, 1749-1823"
+role = "author"
+
+[[resp]]
+name = "France. Corps législatif (1795-1814). Conseil des cinq-cents"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_840428"
+
+[[text]]
+file = "opiniondegoupill00goup.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opiniondegoupill00goup.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opiniondegoupill00goup.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opiniondegoupill00goup.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

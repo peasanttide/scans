@@ -1,0 +1,89 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "opinion00unse_4q4"
+type = "pamphlet"
+title = "Opinion de Louis-Alexandre-Jacques Vardon, député du département du Calvados, a la Convention nationale : prononcée à la tribune de la Convention le 17 janvier 1793, l'an deuxième de la République : imprimée par ordre de la Convention nationale."
+language = "fr"
+place = "Paris"
+date = "1793"
+note = "Caption title. At head of title: Convention nationale. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  IV:1, 33182. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover. Skewed text. Damaged, stained and/or loose pages."
+url = "https://archive.org/details/opinion00unse_4q4"
+subject = [
+    "Louis XVI, King of France, 1754-1793",
+    "France. Convention nationale",
+]
+extent = "3 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 25980"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9g501x58"
+internet_archive = "opinion00unse_4q4"
+
+[scan]
+file = "opinion00unse_4q4.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/opinion00unse_4q4"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Tallien, Jean-Lambert, 1767-2273"
+role = "author"
+
+[[resp]]
+name = "Vardon, Louis-Alexandre-Jacques, 1751-1809"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "Louis XVI Trial and Execution Collection (Newberry Library) ICN"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_843429"
+
+[[text]]
+file = "opinion00unse_4q4.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opinion00unse_4q4.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opinion00unse_4q4.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "opinion00unse_4q4.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

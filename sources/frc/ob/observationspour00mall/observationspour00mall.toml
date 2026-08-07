@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "observationspour00mall"
+type = "pamphlet"
+title = "Observations pour la dame Mallard, nourrice du Roi."
+language = "fr"
+place = "France?"
+date = "1790"
+note = """"Presente à l'assemblée nationale en 1790."--Martin & Walter. Concerning the pension to be paid to la dame Mallard, wet nurse to Louis XVI. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  III, 22546a. Scanner's note: Title page and cover are combined. Damaged, stained, marked and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/observationspour00mall"
+subject = [
+    "Louis XVI, King of France, 1754-1793",
+    "Wet nurses",
+    "Pensions",
+]
+extent = "4 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 21844"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9867s329"
+internet_archive = "observationspour00mall"
+openlibrary_edition = "OL26240720M"
+openlibrary_work = "OL17635243W"
+
+[scan]
+file = "observationspour00mall.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/observationspour00mall"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Mallard, Marie-Barbe Guillot"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_844773"
+
+[[text]]
+file = "observationspour00mall.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "observationspour00mall.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "observationspour00mall.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "observationspour00mall.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

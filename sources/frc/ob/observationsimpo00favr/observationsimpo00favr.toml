@@ -1,0 +1,78 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "observationsimpo00favr"
+type = "pamphlet"
+title = "Observations importantes, sur les transactions particulières."
+language = "fr"
+place = "Paris"
+note = "Caption title. Signed: Favre. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  II, 13254. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover."
+url = "https://archive.org/details/observationsimpo00favr"
+subject = [
+    "Payment",
+    "Debtor and creditor",
+]
+extent = "3 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 18542"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9s230946"
+internet_archive = "observationsimpo00favr"
+openlibrary_edition = "OL26202075M"
+openlibrary_work = "OL17598595W"
+
+[scan]
+file = "observationsimpo00favr.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/observationsimpo00favr"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Favre"
+role = "author"
+
+[[resp]]
+name = "Imprimerie de Du Pont"
+role = "publisher"
+
+[[resp]]
+name = "De l'imprimerie de Du Pont, rue de l'Oratoire"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_838832"
+
+[[text]]
+file = "observationsimpo00favr.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "observationsimpo00favr.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "observationsimpo00favr.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "observationsimpo00favr.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

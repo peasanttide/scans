@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "ordonnancedubure00pari_23"
+type = "pamphlet"
+title = "Ordonnance du Bureau des finances de la généralité de Paris, rendue pour l'exécution des réglemens portant défenses de faire aucuns ouvrages à la face des maisons & murs de clôture, sur les rues & chemins dont le pavé est à l'entretien du roi, sans en avoir obtenu préalablement les permissions des trésoriers de France, commissaires de Sa Majesté au département des ponts & chaussées : du 21 avril 1780 : de par le roi, les présidens-trésoriers de France, généraux des finances & grands-voyers en la généralité de Paris"
+language = "fr"
+place = "A Paris"
+date = "1780"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on the cover page. Damaged, stained, and/or loose pages. Uneven binding. Skewed text. Text on the back cover is upside-down."
+url = "https://archive.org/details/ordonnancedubure00pari_23"
+subject = [
+    "Chartier, Jean-Pierre, sieur",
+    "Comtois, Maurice",
+    "Building laws",
+    "Building permits",
+]
+extent = "3 p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC suppl. 101 no. 9"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0ps30m9g"
+internet_archive = "ordonnancedubure00pari_23"
+
+[scan]
+file = "ordonnancedubure00pari_23.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/ordonnancedubure00pari_23"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Paris (France : Généralité). Bureau des finances"
+role = "author"
+
+[[resp]]
+name = "Simon, P. G. (Pierre-Guillaume), 1722-1787"
+role = "publisher"
+
+[[resp]]
+name = "Chez P.G. Simon, imprimeur du Parlement, rue Mignon Saint-André-des-arcs"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_861377"
+
+[[text]]
+file = "ordonnancedubure00pari_23.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordonnancedubure00pari_23.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordonnancedubure00pari_23.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordonnancedubure00pari_23.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

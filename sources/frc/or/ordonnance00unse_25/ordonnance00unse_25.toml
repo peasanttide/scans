@@ -1,0 +1,83 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "ordonnance00unse_25"
+type = "pamphlet"
+title = "Ordonnance de M. le lieutenant général de police, qui interdit l'usage d'une carrière exploitée sans permission au territoire de Carrière-Saint-Denys, par le nommé Arnoult, & le condamne en l'amende : ordonne que les prêtres de Saint Lazare, les nommés Gauthier, Darcy, Guenin, les héritiers Bontemps, Arnoult & tous autres, seront tenus de détruire des cavages dangereux & abandonnés : du 27 juin 1781"
+language = "fr"
+place = "A Paris"
+date = "1781"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."
+url = "https://archive.org/details/ordonnance00unse_25"
+subject = [
+    "Saint-Lazare de Paris (Hospital)",
+    "Abandoned quarries",
+    "Mineral rights",
+    "Quarries and quarrying",
+]
+extent = "3 p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 28452"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1ng9ss01"
+internet_archive = "ordonnance00unse_25"
+
+[scan]
+file = "ordonnance00unse_25.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/ordonnance00unse_25"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Paris (France). Lieutenant général de police"
+role = "author"
+
+[[resp]]
+name = "Lenoir, Jean-Charles-Pierre, 1732-1807"
+role = "author"
+
+[[resp]]
+name = "Imprimerie royale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie royale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_861395"
+
+[[text]]
+file = "ordonnance00unse_25.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordonnance00unse_25.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordonnance00unse_25.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordonnance00unse_25.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

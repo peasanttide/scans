@@ -1,0 +1,73 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "ordonnanceduro00fran_7"
+type = "pamphlet"
+title = "Ordonnance du roi, concernant la course & les armemens des corsaires : du 16 Janvier 1780 /"
+language = "fr"
+place = "A Paris"
+date = "1780"
+note = "Caption title. Signed: Ducoudray."
+url = "https://archive.org/details/ordonnanceduro00fran_7"
+subject = [
+    "France. Marine",
+    "Privateering",
+    "Anglo-French War, 1778-1783",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case F 39 .328 no. 105"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t84j6hm09"
+internet_archive = "ordonnanceduro00fran_7"
+
+[scan]
+file = "ordonnanceduro00fran_7.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/ordonnanceduro00fran_7"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Sovereign (1774-1792 : Louis XVI)"
+role = "author"
+
+[[resp]]
+name = "France. Sovereign (1774-1792 : Louis XVI)"
+role = "author"
+
+[[resp]]
+name = "Chez P.G. Simon, imprimeur du Parlement, rue Mignon, Saint André-des-Arcs"
+role = "publisher"
+
+[[text]]
+file = "ordonnanceduro00fran_7.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordonnanceduro00fran_7.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordonnanceduro00fran_7.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ordonnanceduro00fran_7.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
