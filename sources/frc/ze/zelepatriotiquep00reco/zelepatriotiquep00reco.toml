@@ -1,0 +1,85 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "zelepatriotiquep00reco"
+type = "pamphlet"
+title = "Zèle patriotique pour le soulagement des pauvres pendant les rigueurs des temps de l'hiver, présenté à M. Bailly, maire de ville, M. le marquis de La Fayette & messieurs les représentans des communes."
+language = "fr"
+place = "Paris"
+date = "1790"
+note = """Caption title. " ... par Recoquillié, maître imprimeur ..."--P. [4]. Imprint from colophon. Date of publication from Martin & Walter. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  IV:1, 28860. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, stained and/or loose pages.  Title page and cover are combined. Uneven binding.  Skewed text."""
+url = "https://archive.org/details/zelepatriotiquep00reco"
+subject = [
+    "Public welfare administration",
+    "Gambling",
+]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 24314"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t71w0sk61"
+internet_archive = "zelepatriotiquep00reco"
+
+[scan]
+file = "zelepatriotiquep00reco.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/zelepatriotiquep00reco"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Recoquillié"
+role = "author"
+
+[[resp]]
+name = "Bailly, Jean Sylvain, 1736-1793"
+role = "author"
+
+[[resp]]
+name = "Lafayette, Marie Joseph Paul Yves Roch Gilbert Du Motier, marquis de, 1757-1834"
+role = "author"
+
+[[resp]]
+name = "Nyon, Nicolas-Henri, b. 1751?"
+role = "publisher"
+
+[[resp]]
+name = "De l'imprimerie de N.H. Nyon, rue Mignon"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_849378"
+
+[[text]]
+file = "zelepatriotiquep00reco.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "zelepatriotiquep00reco.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "zelepatriotiquep00reco.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "zelepatriotiquep00reco.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
