@@ -1,0 +1,56 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "senatusconsultu00fran"
+type = "pamphlet"
+title = "Senatus-consultum Cvriae Parlamenti Tvronensis: contra bvllas monitoriales Gregorii qvi se Papam dicit eius nominis XIIII"
+language = "fr"
+date = "1591"
+note = "Caption title. Dated 5 August 1591. Scanner's note: No copyright found.  No table of contents found.  Damaged, stained pages and cover.  Title on cover page. <br />No page numbers. <br />."
+url = "https://archive.org/details/senatusconsultu00fran"
+subject = ["Catholic Church. Pope (1590-1591 : Gregory XIV)"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 1 no. 17"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4zh27s73"
+internet_archive = "senatusconsultu00fran"
+
+[scan]
+file = "senatusconsultu00fran.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/senatusconsultu00fran"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "France.Parlement (Tours)"
+role = "author"
+
+[[resp]]
+name = "France. Parlement (Tours)"
+role = "author"
+
+[[resp]]
+name = "[n.p."
+role = "publisher"
+
+[[text]]
+file = "senatusconsultu00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "senatusconsultu00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

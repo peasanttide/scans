@@ -1,0 +1,64 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "sermentdefi00unse"
+type = "pamphlet"
+title = "Serment de fidellité."
+language = "fr"
+date = "1615"
+note = "Bibl. Nat. Cat. de l'histoire de France. Scanner's note: No copyright found. No table of contents found. Damaged, stained pages and cover.  Title on cover.<br />."
+url = "https://archive.org/details/sermentdefi00unse"
+extent = "4 p.16 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case F 39 .326 1615se"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8rc2hv4q"
+internet_archive = "sermentdefi00unse"
+
+[scan]
+file = "sermentdefi00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/sermentdefi00unse"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "[n.p.],  1615"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_672921"
+
+[[text]]
+file = "sermentdefi00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "sermentdefi00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "sermentdefi00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "sermentdefi00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

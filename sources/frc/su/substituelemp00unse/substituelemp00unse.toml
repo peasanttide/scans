@@ -1,0 +1,92 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "substituelemp00unse"
+type = "pamphlet"
+title = "Loi qui substitue à l'emprunt forcé de 100 millions une subvention de guerre : du 26 brumaire an VIII de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1799"
+note = """Caption title. At head of title: Au nom de la République française. "Les consuls de la République ordonnent ..."--P. 4. Signed: Roger-Ducos, Bonaparte, Sieyes. Imprint from colophon. "No. 9"--Bottom of p. [1]; "No. 1006"--Top of p. [1]. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/substituelemp00unse"
+subject = [
+    "Forced loans",
+    "Finance, Public",
+    "Second Coalition, War of the, 1798-1801",
+]
+extent = "4 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10350 no. 79"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8dg1wk1s"
+internet_archive = "substituelemp00unse"
+openlibrary_edition = "OL26228656M"
+openlibrary_work = "OL17623724W"
+
+[scan]
+file = "substituelemp00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/substituelemp00unse"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Consulat (1799-1804)"
+role = "author"
+
+[[resp]]
+name = "Napoleon I, Emperor of the French, 1769-1821"
+role = "author"
+
+[[resp]]
+name = "Sieyès, Emmanuel Joseph, comte, 1748-1836"
+role = "author"
+
+[[resp]]
+name = "Ducos, Roger, 1747-1816"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois, ci-devant place du Carrousel, maintenant rue Saint-Honoré, hôtel de Boulogne, no. 75, près Saint-Roch"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_859391"
+
+[[text]]
+file = "substituelemp00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "substituelemp00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "substituelemp00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "substituelemp00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

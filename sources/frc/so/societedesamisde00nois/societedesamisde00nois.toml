@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "societedesamisde00nois"
+type = "pamphlet"
+title = "Société des amis de la constitution : Strasbourg, séance du 20 juin 1791."
+language = "fr"
+place = "France"
+date = "1791"
+note = """Caption title. "Gaspard Noissette, président, a dit ..."--P. [1]. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title page is on the cover. Damaged, stained, and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/societedesamisde00nois"
+subject = ["Barbier de Tinan, Mr"]
+extent = "4 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 23238"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t84j5qx9s"
+internet_archive = "societedesamisde00nois"
+openlibrary_edition = "OL26238001M"
+openlibrary_work = "OL17632552W"
+
+[scan]
+file = "societedesamisde00nois.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/societedesamisde00nois"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Noissette, François Gaspard"
+role = "author"
+
+[[resp]]
+name = "Société des amis de la constitution (Strasbourg, France)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_847338"
+
+[[text]]
+file = "societedesamisde00nois.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "societedesamisde00nois.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "societedesamisde00nois.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "societedesamisde00nois.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

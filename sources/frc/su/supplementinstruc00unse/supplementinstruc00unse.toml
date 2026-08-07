@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "supplementinstruc00unse"
+type = "pamphlet"
+title = "Supplément a l'instruction du directoire, sur l'évaluation des revenus pour l'assiette de la contribution foncière"
+language = "fr"
+place = "A Nismes"
+date = "1792"
+note = "Caption title. At right of title: Contribution foncière. Maisons. Imprint from colophon. Not in Martin & Walter. Révolution française."
+url = "https://archive.org/details/supplementinstruc00unse"
+subject = [
+    "Tax assessment",
+    "Real property tax",
+]
+extent = "4 p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9831 no. 28"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2n63nw0z"
+internet_archive = "supplementinstruc00unse"
+openlibrary_edition = "OL26223989M"
+openlibrary_work = "OL17619445W"
+
+[scan]
+file = "supplementinstruc00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/supplementinstruc00unse"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Gard (France). Directoire"
+role = "author"
+
+[[resp]]
+name = "Belle, Castor"
+role = "publisher"
+
+[[resp]]
+name = "Chez C. Belle, imprimeur national du département du Gard, rue des Fourbisseurs"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_854344"
+
+[[text]]
+file = "supplementinstruc00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "supplementinstruc00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "supplementinstruc00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "supplementinstruc00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

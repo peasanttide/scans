@@ -1,0 +1,68 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "societetontini00"
+type = "pamphlet"
+title = "Société-tontini`ere."
+language = "fr"
+place = "s.l."
+date = "1790"
+note = "Caption title. Imprint date from colophon. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on the cover page. Uneven binding. Skewed text. Damaged, stained, and/or loose pages."
+url = "https://archive.org/details/societetontini00"
+subject = ["Insurance, Life"]
+extent = "4 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 8296"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4tj3mk7f"
+internet_archive = "societetontini00"
+openlibrary_edition = "OL26220708M"
+openlibrary_work = "OL17616292W"
+
+[scan]
+file = "societetontini00.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/societetontini00"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "s.n.]"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_6776"
+
+[[text]]
+file = "societetontini00.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "societetontini00.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "societetontini00.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "societetontini00.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

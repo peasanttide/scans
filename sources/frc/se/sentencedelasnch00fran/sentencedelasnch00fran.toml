@@ -1,0 +1,69 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "sentencedelasnch00fran"
+type = "pamphlet"
+title = "Sentence de la Sénéchaussée de Lyon"
+language = "fr"
+place = "Lyon"
+date = "1763"
+note = "Caption title. Imprint at foot of p. 4. Dated 2 August 1763. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Title page and cover are combined."
+url = "https://archive.org/details/sentencedelasnch00fran"
+subject = ["Censorship"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 7 no. 37"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8tb6qx3d"
+internet_archive = "sentencedelasnch00fran"
+
+[scan]
+file = "sentencedelasnch00fran.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/sentencedelasnch00fran"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Cour des monnaies, sénéchaussée & présidial (Lyon)"
+role = "author"
+
+[[resp]]
+name = "France. Cour des monnaies, sénéchaussée & présidial (Lyon)"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de P. Valfray"
+role = "publisher"
+
+[[text]]
+file = "sentencedelasnch00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "sentencedelasnch00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "sentencedelasnch00fran.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "sentencedelasnch00fran.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

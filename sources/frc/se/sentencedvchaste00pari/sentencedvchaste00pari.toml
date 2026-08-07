@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "sentencedvchaste00pari"
+type = "pamphlet"
+title = "Sentence dv Chastelet de Paris donnée le vingt-deuxiesme d'aoust, 1615"
+language = "fr"
+date = "1615"
+note = "Imperfect? t.-p. wanting? Scanner's note: No copyright found.  No table of contents found.  Damaged, stained pages and cover.  Title on cover page. <br />."
+url = "https://archive.org/details/sentencedvchaste00pari"
+subject = ["Printing"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 1 no. 28"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1zd3j648"
+internet_archive = "sentencedvchaste00pari"
+
+[scan]
+file = "sentencedvchaste00pari.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/sentencedvchaste00pari"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "Paris (France).Châtelet"
+role = "author"
+
+[[resp]]
+name = "Paris (France). Châtelet"
+role = "author"
+
+[[resp]]
+name = "Richer, Jean, fl. 1606-1627, defendant"
+role = "author"
+
+[[resp]]
+name = "[Paris"
+role = "publisher"
+
+[[text]]
+file = "sentencedvchaste00pari.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "sentencedvchaste00pari.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "sentencedvchaste00pari.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "sentencedvchaste00pari.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

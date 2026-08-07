@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "sermentcivique00aixe"
+type = "pamphlet"
+title = "Serment civique /"
+language = "fr"
+place = "A Aix"
+date = "1790"
+note = "Caption title. Imprint from colophon. Martin & Walter IV 2: 16595. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover page. Uneven binding. Skewed text. Damaged, stained, and/or loose pages."
+url = "https://archive.org/details/sermentcivique00aixe"
+subject = [
+    "Catholic Church",
+    "Constitution civile du clergé",
+    "Clergy",
+]
+extent = "4 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 8254"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t59d2220k"
+internet_archive = "sermentcivique00aixe"
+openlibrary_edition = "OL26220716M"
+openlibrary_work = "OL17616300W"
+
+[scan]
+file = "sermentcivique00aixe.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/sermentcivique00aixe"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Aix-en-Provence (France)"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de la veuve d'André Adibert"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_487"
+
+[[text]]
+file = "sermentcivique00aixe.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "sermentcivique00aixe.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "sermentcivique00aixe.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "sermentcivique00aixe.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

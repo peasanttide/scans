@@ -1,0 +1,82 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "sentencedubailli00tall"
+type = "pamphlet"
+title = "Sentence du bailliage royal de Nancy, du 31 mai 1788."
+language = "fr"
+place = "A Nancy"
+date = "1788"
+note = """Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. "Suivent les arrêtés. Extrait du registre des délibérations du bailliage royal de Nancy"--P. [2]-4. Forms part of the French Revolution Collection at the Newberry Library. Scanner's note: Title is on the cover. Uneven binding. Skewed text. Damaged, stained and/or loose pages."""
+url = "https://archive.org/details/sentencedubailli00tall"
+subject = [
+    "France. Parlement (Nancy)",
+    "Journal de Paris",
+    "Parlements (French courts)",
+]
+extent = "[4] p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 26307"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t32288440"
+internet_archive = "sentencedubailli00tall"
+
+[scan]
+file = "sentencedubailli00tall.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/sentencedubailli00tall"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Tallien, Jean-Lambert, 1767-2590"
+role = "author"
+
+[[resp]]
+name = "Nancy (France : Bailliage)"
+role = "author"
+
+[[resp]]
+name = "French Revolution Collection (Newberry Library) ICN"
+role = "author"
+
+[[resp]]
+name = "Chez P. Barbier, imprimeur-libraire"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_57841"
+
+[[text]]
+file = "sentencedubailli00tall.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "sentencedubailli00tall.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "sentencedubailli00tall.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "sentencedubailli00tall.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

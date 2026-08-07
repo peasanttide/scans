@@ -1,0 +1,85 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "suspensionsdesof00poul"
+type = "pamphlet"
+title = "Suspensions des officiers, renvoyées aux tribunaux militaires /"
+language = "fr"
+place = "Paris"
+date = "1792"
+note = "Caption title. At head of title: Convention nationale. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  IV:1, 28082. Scanner's note: Title page located on front cover. No copyright page found. No table-of-contents pages found. Worn, damaged and discolored pages and cover. Skewed text. Uneven binding."
+url = "https://archive.org/details/suspensionsdesof00poul"
+subject = [
+    "France. Armée",
+    "Courts-martial and courts of inquiry",
+]
+extent = "3 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 23998"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3sv2vv6k"
+internet_archive = "suspensionsdesof00poul"
+
+[scan]
+file = "suspensionsdesof00poul.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/suspensionsdesof00poul"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Poultier, François, 1753-1826"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale. Comité de la guerre"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_849206"
+
+[[text]]
+file = "suspensionsdesof00poul.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "suspensionsdesof00poul.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "suspensionsdesof00poul.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "suspensionsdesof00poul.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

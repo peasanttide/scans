@@ -1,0 +1,82 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "supplementaupros00tall"
+type = "pamphlet"
+title = "Supplément au prospectus publié par le bureau établi rue Verdelet, no. 21, a coté de l'Hotel des postes, pour la liquidation des offices civils & militaires, de finance, & de toute espèce de liquidation, d'indemnité & de recouvrement dus par l'Etat."
+language = "fr"
+place = "Paris"
+date = "1790"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Forms part of the French Revolution Collection at the Newberry Library. Scanner's note: No copyright page found. No table-of-contents pages found. Damaged, stained pages and cover. Title on cover."
+url = "https://archive.org/details/supplementaupros00tall"
+subject = [
+    "France. Bureau pour la liquidation des offices, pensions et recouvrements",
+    "Liquidation",
+    "Banks and banking",
+]
+extent = "4 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 27922"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9479r572"
+internet_archive = "supplementaupros00tall"
+
+[scan]
+file = "supplementaupros00tall.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/supplementaupros00tall"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Tallien, Jean-Lambert, 1767-2814"
+role = "author"
+
+[[resp]]
+name = "Clousier, Jacques-Gabriel, -1804?"
+role = "publisher"
+
+[[resp]]
+name = "French Revolution Collection (Newberry Library) ICN"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Clousier, imp. du roi, rue de Sorbonne"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_41736"
+
+[[text]]
+file = "supplementaupros00tall.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "supplementaupros00tall.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "supplementaupros00tall.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "supplementaupros00tall.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

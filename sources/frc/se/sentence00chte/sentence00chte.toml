@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "sentence00chte"
+type = "pamphlet"
+title = "Sentence /"
+language = "fr"
+place = "Paris"
+date = "1780"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on the cover page. Damaged, stained, and/or loose pages. Uneven binding. Skewed text. Text on the back cover is upside-down."
+url = "https://archive.org/details/sentence00chte"
+subject = ["Sarcot"]
+extent = "3 p. ; 28 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC suppl. 109"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8gf61822"
+internet_archive = "sentence00chte"
+openlibrary_edition = "OL26235755M"
+openlibrary_work = "OL17630313W"
+
+[scan]
+file = "sentence00chte.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/sentence00chte"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Châtelet (Paris, France)"
+role = "author"
+
+[[resp]]
+name = "Châtelet (Paris, France)"
+role = "author"
+
+[[resp]]
+name = "J. Ch. Desaint"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_73873"
+
+[[text]]
+file = "sentence00chte.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "sentence00chte.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "sentence00chte.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "sentence00chte.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

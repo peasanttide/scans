@@ -1,0 +1,97 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "surlorgani00unse"
+type = "pamphlet"
+title = "Loi sur l'organisation du ministère : du 10 vendémiaire, an quatrième de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1795"
+note = """Caption title. At head of title: (No. 592*). At right of title: B. no. 192, D. no. 1153. "La Convention nationale décrète"--P. [1]. Signed: P.C.L. Baudin (des Ardennes), président; J.F. Philippe Delleville, secrétaire; Delecloy, ex-secrétaire. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."""
+url = "https://archive.org/details/surlorgani00unse"
+subject = [
+    "France. Ministère de la justice",
+    "France. Ministère de l'intérieur",
+    "France. Ministère des finances",
+    "France. Ministère de la guerre",
+    "France. Ministère de la marine et des colonies",
+    "France. Ministère des relations extérieures",
+    "Executive departments",
+    "Administrative law",
+]
+extent = "4 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10347 no. 10"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4zh1sf9t"
+internet_archive = "surlorgani00unse"
+openlibrary_edition = "OL26230209M"
+openlibrary_work = "OL17625185W"
+
+[scan]
+file = "surlorgani00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/surlorgani00unse"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Baudin, 1748-1799"
+role = "author"
+
+[[resp]]
+name = "Philippe-Delleville, Jean-François, 1740-1828"
+role = "author"
+
+[[resp]]
+name = "Delecloy, Jean-Baptiste-Joseph, 1747-1807"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_858336"
+
+[[text]]
+file = "surlorgani00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "surlorgani00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "surlorgani00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "surlorgani00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

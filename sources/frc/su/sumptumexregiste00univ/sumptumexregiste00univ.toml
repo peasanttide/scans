@@ -1,0 +1,71 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "sumptumexregiste00univ"
+type = "pamphlet"
+title = "Sumptum ex registeriis Sacrae Facultatis Theologicae Andegauensis"
+language = "la"
+date = "1719"
+note = "Caption title. Manuscript on paper. Minutes detailing the disapproval by doctors of the faculty of a thesis submitted by Maurice Le Horeau. Dated 22 June 1719. Scanner's note: No copyright found.  No table of contents found.  Damaged, stained pages and cover.  Title on cover. <br />Tight margins.  Text lost in binding. <br />No page numbers. <br /><br />."
+url = "https://archive.org/details/sumptumexregiste00univ"
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 4 no. 23"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t08w91m04"
+internet_archive = "sumptumexregiste00univ"
+
+[scan]
+file = "sumptumexregiste00univ.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/sumptumexregiste00univ"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "Université d'Angers.Faculté de théologie"
+role = "author"
+
+[[resp]]
+name = "Université d'Angers. Faculté de théologie"
+role = "author"
+
+[[resp]]
+name = "Le Horeau, Maurice"
+role = "author"
+
+[[resp]]
+name = "[n.p."
+role = "publisher"
+
+[[text]]
+file = "sumptumexregiste00univ.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "la"
+
+[[text]]
+file = "sumptumexregiste00univ.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "la"
+
+[[text]]
+file = "sumptumexregiste00univ.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "la"
+
+[[text]]
+file = "sumptumexregiste00univ.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "la"

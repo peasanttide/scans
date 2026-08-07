@@ -1,0 +1,61 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "supplementlagaze00lamy"
+type = "pamphlet"
+title = "Supplement a la Gazette nationale"
+language = "fr"
+place = "Paris"
+date = "1796"
+note = """Caption title. "A Paris, chez Lamy, libraire, quai des Augustins, no 26"--P. [881]. Detached from: Gazette nationale, ou, Le moniteur universel. No. 220 (10 floréal, an 4 = 29 avril 1796). Paris : H. Agasse, 1796. Printed in three columns. With prices. Scanner's note: No copyright page found. No table-of-contents pages found. Title and cover pages combined."""
+url = "https://archive.org/details/supplementlagaze00lamy"
+subject = ["Lamy, Pierre-Michel, active 1777-1813"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 8 no. 24"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4bp5rv8z"
+internet_archive = "supplementlagaze00lamy"
+
+[scan]
+file = "supplementlagaze00lamy.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/supplementlagaze00lamy"
+ppi = 350
+note = "Scanned on fold1.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Lamy, Pierre-Michel,active 1777-1813"
+role = "author"
+
+[[resp]]
+name = "Lamy, Pierre-Michel, active 1777-1813"
+role = "author"
+
+[[resp]]
+name = "Agasse, Henri, 1752-1813"
+role = "publisher"
+
+[[resp]]
+name = "H. Agasse"
+role = "publisher"
+
+[[text]]
+file = "supplementlagaze00lamy.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "supplementlagaze00lamy.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

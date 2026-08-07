@@ -1,0 +1,81 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "supplementladresse00unse"
+type = "pamphlet"
+title = "Supplément a l'adresse présentée a l'Assemblée nationale par la commune de Lyon, contre le rétablissement des concessions des mines de charbon"
+language = "fr"
+place = "Paris"
+date = "1791"
+note = "Caption title. Place of publication from Martin & Walter. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter. Révolution française, IV:2, 9270. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages."
+url = "https://archive.org/details/supplementladresse00unse"
+subject = [
+    "Coal mines and mining",
+    "Coal",
+    "Mines and mineral resources",
+    "Mineral rights",
+]
+extent = "3 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9938 no. 6"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t26b2883r"
+internet_archive = "supplementladresse00unse"
+openlibrary_edition = "OL26223970M"
+openlibrary_work = "OL17619425W"
+
+[scan]
+file = "supplementladresse00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/supplementladresse00unse"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Lyon (France)"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie du Patriote françois, place du Théâtre Italien, no. 3"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_854539"
+
+[[text]]
+file = "supplementladresse00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "supplementladresse00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "supplementladresse00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "supplementladresse00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

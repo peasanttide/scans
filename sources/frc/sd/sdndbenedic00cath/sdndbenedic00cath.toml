@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "sdndbenedic00cath"
+type = "pamphlet"
+title = "S. D. N. D. Benedicti Divinâ Providentiâ Papae Decimi Tertii"
+language = "la"
+date = "1729"
+note = "Caption title. Manuscript on paper. Dated 17 September 1729."
+url = "https://archive.org/details/sdndbenedic00cath"
+subject = [
+    "Censorship",
+    "Gallicanism",
+    "Church and state",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 4 no. 92"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6f24kc2m"
+internet_archive = "sdndbenedic00cath"
+
+[scan]
+file = "sdndbenedic00cath.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/sdndbenedic00cath"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Catholic Church.Pope (1724-1730 : Benedict XIII)"
+role = "author"
+
+[[resp]]
+name = "Catholic Church. Pope (1724-1730 : Benedict XIII)"
+role = "author"
+
+[[resp]]
+name = "Catholic Church. Diocese of Auxerre (France). Bishop (1705-1754 : Caylus)"
+role = "author"
+
+[[resp]]
+name = "[n.p."
+role = "publisher"
+
+[[text]]
+file = "sdndbenedic00cath.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "la"
+
+[[text]]
+file = "sdndbenedic00cath.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "la"
+
+[[text]]
+file = "sdndbenedic00cath.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "la"
+
+[[text]]
+file = "sdndbenedic00cath.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "la"

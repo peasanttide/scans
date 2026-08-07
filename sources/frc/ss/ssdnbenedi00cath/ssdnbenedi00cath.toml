@@ -1,0 +1,77 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "ssdnbenedi00cath"
+type = "pamphlet"
+title = "SS. D.N. Benedicti, Divina Providentia Papae XIV"
+language = "it"
+place = "Romae"
+date = "1752"
+note = "Caption title. Imprint at foot of p. 3. The work in question is by Claude Mey and Gabriel Nicolas Maultrot. Dated 20 November 1752. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Title page and cover are combined."
+url = "https://archive.org/details/ssdnbenedi00cath"
+subject = ["Censorship"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 5 no. 142"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4zh2806q"
+internet_archive = "ssdnbenedi00cath"
+
+[scan]
+file = "ssdnbenedi00cath.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/ssdnbenedi00cath"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Catholic Church.Pope (1740-1758 : Benedict XIV)"
+role = "author"
+
+[[resp]]
+name = "Catholic Church. Pope (1740-1758 : Benedict XIV)"
+role = "author"
+
+[[resp]]
+name = "Mey, Claude, 1712-1796"
+role = "author"
+
+[[resp]]
+name = "Maultrot, Gab. Nic. (Gabriel Nicolas), 1714-1803"
+role = "author"
+
+[[resp]]
+name = "Ex typographia Rev. Camerae Apostolicae"
+role = "publisher"
+
+[[text]]
+file = "ssdnbenedi00cath.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "it"
+
+[[text]]
+file = "ssdnbenedi00cath.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "it"
+
+[[text]]
+file = "ssdnbenedi00cath.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "it"
+
+[[text]]
+file = "ssdnbenedi00cath.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "it"

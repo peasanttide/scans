@@ -1,0 +1,64 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "surlabatailledef00jair"
+type = "pamphlet"
+title = "Sur la bataille de Fontenoy"
+language = "fr"
+place = "Paris"
+date = "1745"
+note = "Binder's title: Bataille de Fontenay. Caption title. Verse. Inlaid. Scanner's note: No copyright page found. No table-of-contents pages found.  Irregular pagination.  Uneven binding.  Skewed text."
+url = "https://archive.org/details/surlabatailledef00jair"
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "E 5 .L92705 v. 03 no. 39"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7wm7bh10"
+internet_archive = "surlabatailledef00jair"
+
+[scan]
+file = "surlabatailledef00jair.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/surlabatailledef00jair"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Jairsain"
+role = "author"
+
+[[resp]]
+name = "P. Prault"
+role = "publisher"
+
+[[text]]
+file = "surlabatailledef00jair.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "surlabatailledef00jair.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "surlabatailledef00jair.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "surlabatailledef00jair.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

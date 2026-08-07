@@ -1,0 +1,20 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: sentimentdehenri00unse
+page: 1
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 2765
+h: 4419
+dpi: 500
+---
+
+SENTIMENT
+
+DE HENRI IV.
+
+SUR LA QUESTION DË L’INDISSOLUBILITÉ
+
+DU PARLEMENT,
+
+j

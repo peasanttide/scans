@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "sermentdefidlitd00unse"
+type = "pamphlet"
+title = "Serment de fidélité des troupes a la nation."
+language = "fr"
+place = "Paris"
+date = "1790"
+note = "Caption title. Imprint from colophon. Martin & Walter IV 2: 16599 (which supplies the date: 7 janvier 1790) [edition 1: first line on p.4: doit s'y obliger par un acte qui le]. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover page. Uneven binding. Skewed text. Damaged, stained, and/or loose pages."
+url = "https://archive.org/details/sermentdefidlitd00unse"
+subject = [
+    "France. Armée",
+    "France. Marine",
+    "Loyalty oaths",
+]
+extent = "4 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 8261"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6547tc78"
+internet_archive = "sermentdefidlitd00unse"
+openlibrary_edition = "OL26220623M"
+openlibrary_work = "OL17616207W"
+
+[scan]
+file = "sermentdefidlitd00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/sermentdefidlitd00unse"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Chez Letellier ; de l'impr. de L.M. Cellot"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_481"
+
+[[text]]
+file = "sermentdefidlitd00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "sermentdefidlitd00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "sermentdefidlitd00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "sermentdefidlitd00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

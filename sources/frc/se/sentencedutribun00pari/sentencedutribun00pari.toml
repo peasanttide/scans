@@ -1,0 +1,69 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "sentencedutribun00pari"
+type = "pamphlet"
+title = "Sentence du Tribunal de Police de la ville de Paris, qui fait défenses de publier & afficher un placard contre Me Cousin, avocat, imprimé sur le pouvoir du Sieur Yves Ridel; condamne ledit Eidel & le Sieur Roland, imprimeur. par corps, à rapporter les exemplaires dudit placard; fait défenses d'en imprimer de semblables à l'avenir; condamne l'imprimeur en cent livres d'amende, &c"
+language = "fr"
+place = "A Paris"
+date = "1790"
+note = "Imprint at lower left. Scanner's note: No copyright page found. No table-of-contents pages found. Title and cover pages combined."
+url = "https://archive.org/details/sentencedutribun00pari"
+subject = ["Censorship"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 11 no. 7"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t43r6pb5v"
+internet_archive = "sentencedutribun00pari"
+
+[scan]
+file = "sentencedutribun00pari.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/sentencedutribun00pari"
+ppi = 500
+note = "Scanned on fold1.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Paris (France).Prévôté"
+role = "author"
+
+[[resp]]
+name = "Paris (France). Prévôté"
+role = "author"
+
+[[resp]]
+name = "Ridel, Yves"
+role = "author"
+
+[[resp]]
+name = "Roland, printer, Paris"
+role = "author"
+
+[[resp]]
+name = "Cousin, attorney, Paris"
+role = "author"
+
+[[resp]]
+name = "Chez N. H. Nyon"
+role = "publisher"
+
+[[text]]
+file = "sentencedutribun00pari.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "sentencedutribun00pari.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

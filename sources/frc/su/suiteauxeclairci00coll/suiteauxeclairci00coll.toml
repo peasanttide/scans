@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "suiteauxeclairci00coll"
+type = "pamphlet"
+title = "Suite aux éclaircissemens nécessaires, &c."
+language = "fr"
+place = "Paris"
+date = "1795"
+note = """Caption title. At head of title: Convention nationale. "Imprimés par ordre de la Convention nationale"--P. [1]. Imprint from colophon. "25 nivôse. Signé, J.M. Collot"--P. 4. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  I, 7968. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, stained pages and cover. Title on cover page."""
+url = "https://archive.org/details/suiteauxeclairci00coll"
+subject = ["Tallien, Jean-Lambert, 1767-1820"]
+extent = "4 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 16452"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9f52nr7w"
+internet_archive = "suiteauxeclairci00coll"
+openlibrary_edition = "OL26198044M"
+openlibrary_work = "OL17594756W"
+
+[scan]
+file = "suiteauxeclairci00coll.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/suiteauxeclairci00coll"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Collot d'Herbois, Jean-Marie, 1750-1796"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_834620"
+
+[[text]]
+file = "suiteauxeclairci00coll.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "suiteauxeclairci00coll.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "suiteauxeclairci00coll.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "suiteauxeclairci00coll.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

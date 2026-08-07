@@ -1,0 +1,10 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: secondmemoiresur00male
+page: 122
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 2801
+h: 4638
+dpi: 500
+---

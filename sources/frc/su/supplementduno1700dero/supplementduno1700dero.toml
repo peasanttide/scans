@@ -1,0 +1,74 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "supplementduno1700dero"
+type = "pamphlet"
+title = "Supplément du no. 17 : romance"
+language = "fr"
+place = "France?"
+date = "1790"
+note = """"Sur l'air: Des troubadours béarnais"--P. 1. Signed, p. 2: Par Mademoiselle Aimée M***, âgée de 18 ans. Not in Martin & Walter. Révolution française. "Note préliminaire & provisoire, relativement à l'écrit de M. de Condorcet contre les rois & les monarchies"--P. 2-3; signed: De Rossi. "Médailles a frapper pour l'an 1791"--Table on p. [4]. Scanner's note: No copyright page found. No table-of-contents pages found.  Title and cover are combined. Uneven binding. Skewed text. Damaged, stained and/or loose pages."""
+url = "https://archive.org/details/supplementduno1700dero"
+subject = ["Condorcet, Jean-Antoine-Nicolas de Caritat, marquis de, 1743-1794"]
+extent = "[4] p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing DC137.08 .F73 v.7, no. 4"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0ns63p5h"
+internet_archive = "supplementduno1700dero"
+
+[scan]
+file = "supplementduno1700dero.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/supplementduno1700dero"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "De Rossi"
+role = "author"
+
+[[resp]]
+name = "Louis XVI Trial and Execution Collection (Newberry Library) ICN"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_840635"
+
+[[text]]
+file = "supplementduno1700dero.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "supplementduno1700dero.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "supplementduno1700dero.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "supplementduno1700dero.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

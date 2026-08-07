@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "sermentdunjeuner00cour"
+type = "pamphlet"
+title = "Serment d'un jeune républicain : couplets."
+language = "fr"
+place = "France"
+date = "1794"
+note = """Caption title. "Air: On nous dit que dans l'mariage"--P. [1]. Signed, p. 2: Par le citoyen Courtois. Not in Martin & Walter. Révolution française. "Moralités. Recette pour avoir une bonne nuit ... Sadi poëte persan"--P. 3. "La renoncule et l'œillet. Fable"--P. 3. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on the cover page. Skewed text. Damaged, loose pages."""
+url = "https://archive.org/details/sermentdunjeuner00cour"
+extent = "3 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 16708"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6sz1984v"
+internet_archive = "sermentdunjeuner00cour"
+openlibrary_edition = "OL26199777M"
+openlibrary_work = "OL17596444W"
+
+[scan]
+file = "sermentdunjeuner00cour.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/sermentdunjeuner00cour"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Courtois, citoyen"
+role = "author"
+
+[[resp]]
+name = "Saʻdī"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_834560"
+
+[[text]]
+file = "sermentdunjeuner00cour.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "sermentdunjeuner00cour.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "sermentdunjeuner00cour.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "sermentdunjeuner00cour.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

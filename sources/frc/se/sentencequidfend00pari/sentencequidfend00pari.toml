@@ -1,0 +1,69 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "sentencequidfend00pari"
+type = "pamphlet"
+title = "Sentence qui défend les entreposts de livres, ordone qu'ils seront conduits par les voituriers, roulliers & messagers directement à la doüane, pour de là être portez à la Chambre syndicale des libraires & imprimeurs, à l'effet d'y être visités; & pour les contraventions commises par la veuve Le Vacher hôtelliere au village de La Chapelle, la condamne en deux mille livres d'amende"
+language = "fr"
+place = "Paris"
+date = "1721"
+note = "Caption title. Imprint at foot of p. 4. Scanner's note: No copyright found.  No table of contents found.  Damaged, stained pages and cover.  Title on cover. <br />No numbered pages. <br />."
+url = "https://archive.org/details/sentencequidfend00pari"
+subject = ["Book industries and trade"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 4 no. 35"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4sj73g73"
+internet_archive = "sentencequidfend00pari"
+
+[scan]
+file = "sentencequidfend00pari.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/sentencequidfend00pari"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "Paris (France).Châtelet"
+role = "author"
+
+[[resp]]
+name = "Paris (France). Châtelet"
+role = "author"
+
+[[resp]]
+name = "Chez Jean de La Caille"
+role = "publisher"
+
+[[text]]
+file = "sentencequidfend00pari.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "sentencequidfend00pari.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "sentencequidfend00pari.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "sentencequidfend00pari.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

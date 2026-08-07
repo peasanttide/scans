@@ -1,0 +1,68 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "surlesconfiscati00unse"
+type = "pamphlet"
+title = "Sur les confiscations."
+language = "fr"
+place = "A Paris"
+date = "1795"
+note = "Caption title. Imprint from colophon. Dated at end: 3 germinal, l'an troisi`eme [23 mai 1795]. Martin & Walter IV 2: 17367. Scanner's note: No copyright page found. No table-of-contents pages found. Title and cover page are combined. Damaged, stained and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/surlesconfiscati00unse"
+subject = ["Confiscations"]
+extent = "4 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 8574"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3hx6dk9s"
+internet_archive = "surlesconfiscati00unse"
+openlibrary_edition = "OL26214682M"
+openlibrary_work = "OL17610581W"
+
+[scan]
+file = "surlesconfiscati00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/surlesconfiscati00unse"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "De l'imprimerie de Desenne"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_38668"
+
+[[text]]
+file = "surlesconfiscati00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "surlesconfiscati00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "surlesconfiscati00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "surlesconfiscati00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,71 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "surleslections00unse"
+type = "pamphlet"
+title = "Sur les élections."
+language = "fr"
+place = "s.l."
+date = "1795"
+note = "Caption title. Without imprint. Opening words: Il faut t^acher de diriger le choix des membres du Corps législatif sur des hommes qui se sont toujours montrés patriotes et républicains prononcés .. Martin & Walter IV 2: 17371. Scanner's note: No copyright page found. No table-of-contents pages found. Title and cover page are combined. Damaged, stained and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/surleslections00unse"
+subject = [
+    "France. Corps législatif (1795-1814)",
+    "Elections",
+]
+extent = "4 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 8577"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8cg4sd52"
+internet_archive = "surleslections00unse"
+openlibrary_edition = "OL26214920M"
+openlibrary_work = "OL17610819W"
+
+[scan]
+file = "surleslections00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/surleslections00unse"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_38692"
+
+[[text]]
+file = "surleslections00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "surleslections00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "surleslections00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "surleslections00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

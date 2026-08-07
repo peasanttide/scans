@@ -1,0 +1,103 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "sentenceduchtele00pari"
+type = "pamphlet"
+title = "Sentence du Châtelet de Paris, rendue en la chambre du conseil, qui supprime un ecrit imprimé ayant pour titre: Dénonciations au public à l'occasion de quelques écrits anonymes, & c"
+language = "fr"
+place = "A Paris"
+date = "1788"
+note = "Caption title. Imprint at foot of p. 8. The work in question is by Antoine Joseph Gorsas, issued anonymously. Scanner's note: No copyright page found. No table-of-contents pages found. Title and cover pages combined."
+url = "https://archive.org/details/sentenceduchtele00pari"
+subject = ["Censorship"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 10 no. 65"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t83j9528p"
+internet_archive = "sentenceduchtele00pari"
+
+[scan]
+file = "sentenceduchtele00pari.pdf"
+count = 9
+by = "Internet Archive"
+url = "https://archive.org/details/sentenceduchtele00pari"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Paris (France).Châtelet"
+role = "author"
+
+[[resp]]
+name = "Paris (France). Châtelet"
+role = "author"
+
+[[resp]]
+name = "Gorsas, Antoine-Joseph, 1752-1793"
+role = "author"
+
+[[resp]]
+name = "Chez N. H. Nyon"
+role = "publisher"
+
+[[text]]
+file = "sentenceduchtele00pari.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "sentenceduchtele00pari.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "sentenceduchtele00pari.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "sentenceduchtele00pari.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "sentenceduchtele00pari.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "sentenceduchtele00pari.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "sentenceduchtele00pari.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "sentenceduchtele00pari.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "sentenceduchtele00pari.p9.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

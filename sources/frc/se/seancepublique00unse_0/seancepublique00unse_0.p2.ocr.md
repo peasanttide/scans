@@ -1,0 +1,38 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: seancepublique00unse_0
+page: 2
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 2863
+h: 3942
+dpi: 350
+---
+
+particuliers, autorisée par le Décret de la Con-
+vention nationale , du 4 Nivôse, présent mois ;
+
+Après avoir entendu le Substitut de l’Agent
+national ; ^
+
+Invite tous les Citoyens de son arrondisse-
+ment, et particulièrement les boulangers, à
+s’approvisionner de grains par-tout où ils pour-
+ront s’en procurer de gré à gré , tant dans le
+Dis f rie t que dans tous ceux du Département de
+la Nièvre, et Départemens voisins;
+
+Que le Décret portant suppression du maxi-
+mum sera imprimé sur-le-champ au nombre
+de deux cents exemplaires , pour être transmis
+à toutes les communes de son territoire.
+
+Les Administrateurs du District. SigîiéM.oiSY^.
+"président y : C or a s , Secrétaire ,
+
+Certifié conforme.
+
+Colas, Secrétaire,
+
+A Ncrers^^de rimprimerie de J. B.. Lefebvre, le jeune, Impriia»
+^ Bépartemcsit ^ d@âceats d« la Maison commune)

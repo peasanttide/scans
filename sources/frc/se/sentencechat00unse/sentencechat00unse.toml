@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "sentencechat00unse"
+type = "pamphlet"
+title = "Sentence du Châtelet, qui déboute Jean Gonge, voiturier par terre, demeurant à Sens, de son opposition à la sentence du 14 mars dernier, par laquelle la saisie du cheval, voiture & autres équipages, est déclarée bonne & valable, avec confiscation desdites choses saisies, au profit de Charles Reneux, fermier des coches, carosses & messageries de Franche-Comté, &c. : du 31 mai 1761 : extrait des registres de la chambre civile du Châtelet"
+language = "fr"
+place = "A Paris"
+date = "1761"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: Title page located on front cover. No copyright page found. No table-of-contents pages found. Worn, damaged and discolored pages and cover. Skewed text. Uneven binding."
+url = "https://archive.org/details/sentencechat00unse"
+subject = [
+    "Gonge, Jean",
+    "Reneaux, Charles",
+    "Tax protests and appeals",
+]
+extent = "3 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 27565"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6c302162"
+internet_archive = "sentencechat00unse"
+openlibrary_edition = "OL26229775M"
+openlibrary_work = "OL17624808W"
+
+[scan]
+file = "sentencechat00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/sentencechat00unse"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Paris (France). Châtelet"
+role = "author"
+
+[[resp]]
+name = "Prault, Louis-François, 1734-1806"
+role = "publisher"
+
+[[resp]]
+name = "De l'imprimerie de Prault, quay de Gêvres, au Paradis"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_867977"
+
+[[text]]
+file = "sentencechat00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "sentencechat00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "sentencechat00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "sentencechat00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

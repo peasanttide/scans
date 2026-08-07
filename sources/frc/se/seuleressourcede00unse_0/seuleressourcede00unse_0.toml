@@ -1,0 +1,68 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "seuleressourcede00unse_0"
+type = "pamphlet"
+title = "Seule ressource de la France."
+language = "fr"
+place = "s.l."
+date = "1789"
+note = "Caption title. Without imprint. Page 4 numbered 3. Martin & Walter IV 2: 16615 (which specifies: Contre l'Assemblée prétendue nationale) [edition 3: first line on p.4: sant leur suggéra de faire décréter qu'au-]. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on the cover page. Uneven binding. Skewed text. Damaged, stained, and/or loose pages. Irregular pagination. Page number 3 used twice."
+url = "https://archive.org/details/seuleressourcede00unse_0"
+subject = ["France. Assemblée nationale constituante (1789-1791)"]
+extent = "3 [i.e. 4] p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 8274"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3nw4k71n"
+internet_archive = "seuleressourcede00unse_0"
+openlibrary_edition = "OL26220730M"
+openlibrary_work = "OL17616314W"
+
+[scan]
+file = "seuleressourcede00unse_0.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/seuleressourcede00unse_0"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_6953"
+
+[[text]]
+file = "seuleressourcede00unse_0.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "seuleressourcede00unse_0.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "seuleressourcede00unse_0.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "seuleressourcede00unse_0.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

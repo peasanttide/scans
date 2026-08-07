@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "societedesamisde00soci"
+type = "pamphlet"
+title = "Société des amis de la constitution de Villemur"
+language = "fr"
+place = "A Montauban"
+date = "1791"
+note = "Caption title. Imprint from colophon. Dated in contemporary ms.: 30 janvier 1791. Incomplete: p.2-6 wanting. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on the cover page. Uneven binding. Skewed text. Damaged, stained, and/or loose pages.  Irregular pagination. Page numbers skip from 2 to 7."
+url = "https://archive.org/details/societedesamisde00soci"
+subject = ["Political clubs"]
+extent = "7 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 8454"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0tr1135c"
+internet_archive = "societedesamisde00soci"
+openlibrary_edition = "OL26220589M"
+openlibrary_work = "OL17616173W"
+
+[scan]
+file = "societedesamisde00soci.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/societedesamisde00soci"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Société des amis de la constitution de Villemur-sur-Tarne"
+role = "author"
+
+[[resp]]
+name = "Villemur-sur-Tarne (France)"
+role = "author"
+
+[[resp]]
+name = "De l’imprimerie de Fontanel"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=38028"
+
+[[text]]
+file = "societedesamisde00soci.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "societedesamisde00soci.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "societedesamisde00soci.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "societedesamisde00soci.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

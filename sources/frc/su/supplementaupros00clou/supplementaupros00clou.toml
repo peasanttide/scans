@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "supplementaupros00clou"
+type = "pamphlet"
+title = "Supplément au prospectus publié par le bureau établi rue Verdelet, no. 21, a coté de l'Hotel des postes, pour la liquidation des offices civils & militaires, de finance, & de toute espèce de liquidation, d'indemnité & de recouvrement dus par l'Etat."
+language = "fr"
+place = "Paris"
+date = "1790"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No title page found. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/supplementaupros00clou"
+subject = [
+    "France. Bureau pour la liquidation des offices, pensions et recouvrements",
+    "Liquidation",
+    "Banks and banking",
+]
+extent = "4 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 1581"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6256nq86"
+internet_archive = "supplementaupros00clou"
+openlibrary_edition = "OL26208055M"
+openlibrary_work = "OL17604337W"
+
+[scan]
+file = "supplementaupros00clou.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/supplementaupros00clou"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Clousier, Jacques-Gabriel, -1804?"
+role = "publisher"
+
+[[resp]]
+name = "De l'imprimerie de Clousier, imp. du roi, rue de Sorbonne"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_41736"
+
+[[text]]
+file = "supplementaupros00clou.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "supplementaupros00clou.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "supplementaupros00clou.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "supplementaupros00clou.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

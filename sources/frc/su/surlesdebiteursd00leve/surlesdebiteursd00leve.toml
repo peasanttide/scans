@@ -1,0 +1,78 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "surlesdebiteursd00leve"
+type = "pamphlet"
+title = "Sur les débiteurs de rentes viagères : (capitaux reçus en assignats)."
+language = "fr"
+place = "Paris"
+date = "1797"
+note = "Caption title. Signed at end: Leveque, fils. Imprint from colophon. Place of publication from Martin & Walter. Variant of Martin & Walter. Révolution française, III, 21423. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/surlesdebiteursd00leve"
+subject = [
+    "Crassous, Aaron-Jean-François, 1746-1802",
+    "Assignats",
+    "Life annuities",
+    "Payment",
+    "Debtor and creditor",
+]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 21338"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1mh2vt91"
+internet_archive = "surlesdebiteursd00leve"
+openlibrary_edition = "OL26239656M"
+openlibrary_work = "OL17634196W"
+
+[scan]
+file = "surlesdebiteursd00leve.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/surlesdebiteursd00leve"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Lévêque, fils"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie polyglotte"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_844454"
+
+[[text]]
+file = "surlesdebiteursd00leve.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "surlesdebiteursd00leve.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "surlesdebiteursd00leve.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "surlesdebiteursd00leve.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

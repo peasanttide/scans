@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "suiteducatalogue00bria"
+type = "pamphlet"
+title = "Suite du catalogue de livres brochés, proposés à un rabais considérable, jusqu'au premier prairial an VII, chez Briand et Letellier, libraires, rue du Jardinet, no. 3, division du Théâtre français, à Paris"
+language = "fr"
+place = "Paris"
+date = "1799"
+note = "Caption title. Printed in double columns. BN. Catalogues de libraires. With prices. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Title page and cover are combined."
+url = "https://archive.org/details/suiteducatalogue00bria"
+subject = [
+    "Briand, P.-C. (Pierre-César), 1763-1839",
+    "Le Tellier, Daniel-Michel, active 1786-1813",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 11 no. 5"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4gn3tj4z"
+internet_archive = "suiteducatalogue00bria"
+
+[scan]
+file = "suiteducatalogue00bria.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/suiteducatalogue00bria"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Briand, P.-C.(Pierre-César),1763-1839"
+role = "author"
+
+[[resp]]
+name = "Briand, P.-C. (Pierre-César), 1763-1839"
+role = "bookseller"
+
+[[resp]]
+name = "Le Tellier, Daniel-Michel, active 1786-1813"
+role = "bookseller"
+
+[[resp]]
+name = "Briand et Letellier"
+role = "publisher"
+
+[[text]]
+file = "suiteducatalogue00bria.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "suiteducatalogue00bria.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "suiteducatalogue00bria.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "suiteducatalogue00bria.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

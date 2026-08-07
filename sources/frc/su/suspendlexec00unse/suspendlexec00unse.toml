@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "suspendlexec00unse"
+type = "pamphlet"
+title = "Loi qui suspend l'exécution de l'article XIII de celle du 3 vendémiaire, relatif aux enfans nés hors mariage : du 26 vendémiaire, an quatrième de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1795"
+note = """Caption title. At head of title: (No. 615*). At right of title: B. no. 197, D. 1180. "La Convention nationale décrète ... "--P. [1]. Signed: Genissieu, président; Pons (de Verdun), Alex. Villetard, secrétaires. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover. No page numbers."""
+url = "https://archive.org/details/suspendlexec00unse"
+subject = ["Illegitimate children"]
+extent = "[1] p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10347 no. 20"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8pc84t0f"
+internet_archive = "suspendlexec00unse"
+openlibrary_edition = "OL26230343M"
+openlibrary_work = "OL17625319W"
+
+[scan]
+file = "suspendlexec00unse.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/suspendlexec00unse"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Génissieu, Jean-Joseph-Victor, 1749-1804"
+role = "author"
+
+[[resp]]
+name = "Pons de Verdun, Philippe-Laurent, 1759-1844"
+role = "author"
+
+[[resp]]
+name = "Villetard, Alexandre-Edme-Pierre, 1755-1824"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépot des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_858347"
+
+[[text]]
+file = "suspendlexec00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "suspendlexec00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

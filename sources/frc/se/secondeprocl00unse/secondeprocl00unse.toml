@@ -1,0 +1,91 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "secondeprocl00unse"
+type = "pamphlet"
+title = "Seconde proclamation du roi, concernant les fonctionnaires publics ecclésiastiques, & la fermeture des eglises : du 12 octobre 1791"
+language = "fr"
+place = "A Aix"
+date = "1791"
+note = """Caption title. At head of title: La loi et le roi. "Signé Louis: Et plus bas, par le roi, signé Delessart"--P. 3. Imprint from colophon. Not in Martin & Walter. Révolution française. Seconde proclamation du roi, sur l'arrêté du département des Bouches du Rhône, du 28 juin 1791, ci-contre -- Arrêté du directoire du département des Bouches du Rhône, du 28 juin 1791, dont partie a été annullée par une proclamation du roi du dix-huit septembre suivant, & sur lequel le roi s'est expliqué par sa seconde proclamation du 12 octobre. Scanner's note: No title page found. No copyright page found. Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages."""
+url = "https://archive.org/details/secondeprocl00unse"
+subject = [
+    "Catholic nonjurors",
+    "Church and state",
+]
+extent = "3 p. ; 24 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10143 no. 27"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6644vn3h"
+internet_archive = "secondeprocl00unse"
+openlibrary_edition = "OL26222771M"
+openlibrary_work = "OL17618242W"
+
+[scan]
+file = "secondeprocl00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/secondeprocl00unse"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Sovereign (1774-1792 : Louis XVI)"
+role = "author"
+
+[[resp]]
+name = "Louis XVI, King of France, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "Lessart, Claude-Antoine Valdec de, 1741 or 1742-1792"
+role = "author"
+
+[[resp]]
+name = "Gibelin-David, Barthélemy, b. 1747"
+role = "publisher"
+
+[[resp]]
+name = "Emeric-David, T.-B. (Toussaint-Bernard), 1755-1839"
+role = "publisher"
+
+[[resp]]
+name = "Des imprimeurs de Gibelin-David & Emeric-David, imprimeurs du roi & du département"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_855145"
+
+[[text]]
+file = "secondeprocl00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "secondeprocl00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "secondeprocl00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "secondeprocl00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

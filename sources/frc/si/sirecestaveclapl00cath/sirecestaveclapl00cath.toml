@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "sirecestaveclapl00cath"
+type = "pamphlet"
+title = "Sire : C'est avec la plus profonde douleur, que le Grand- Chapitre de la Cathédrale de Strasbourg se voit contraint de porter `a Votre Majesté des plaintes de l'oppression inoïie qu'il éprouve."
+language = "fr"
+place = "s.l."
+date = "1790"
+note = "Without title or imprint. Title statement from salutation and opening sentence of text. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on the cover page. Uneven binding. Skewed text. Damaged, stained, and/or loose pages."
+url = "https://archive.org/details/sirecestaveclapl00cath"
+extent = "3 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 8286"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6353rm7s"
+internet_archive = "sirecestaveclapl00cath"
+openlibrary_edition = "OL26220863M"
+openlibrary_work = "OL17616448W"
+
+[scan]
+file = "sirecestaveclapl00cath.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/sirecestaveclapl00cath"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Cathédrale de Strasbourg. Grand chapitre"
+role = "author"
+
+[[resp]]
+name = "Cathédrale de Strasbourg. Grand chapitre"
+role = "author"
+
+[[resp]]
+name = "France. Sovereign (1774-1792 : Louis XVI)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_6397"
+
+[[text]]
+file = "sirecestaveclapl00cath.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "sirecestaveclapl00cath.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "sirecestaveclapl00cath.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "sirecestaveclapl00cath.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

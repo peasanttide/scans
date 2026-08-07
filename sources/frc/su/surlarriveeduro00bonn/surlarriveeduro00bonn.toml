@@ -1,0 +1,63 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "surlarriveeduro00bonn"
+type = "pamphlet"
+title = "Sur l'arrivée du roy"
+language = "fr"
+date = "1745"
+note = "Binder's title: Retour du roy. Caption title. Signed: D. Bonneval. Verse. Inlaid. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover.  Uneven binding.  Skewed text.  Irregular pagination."
+url = "https://archive.org/details/surlarriveeduro00bonn"
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "E 5 .L92705 v. 04 no. 05"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6936wh9c"
+internet_archive = "surlarriveeduro00bonn"
+
+[scan]
+file = "surlarriveeduro00bonn.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/surlarriveeduro00bonn"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Bonneval, D"
+role = "author"
+
+[[resp]]
+name = "[N.p."
+role = "publisher"
+
+[[text]]
+file = "surlarriveeduro00bonn.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "surlarriveeduro00bonn.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "surlarriveeduro00bonn.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "surlarriveeduro00bonn.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "societepopul00unse"
+type = "pamphlet"
+title = "Société populaire de Gannat, présidence de Sauret : séance du 8 frimaire de l'an 2 de la République une et indivisible, en présence d'Aristide Couthon et de Publicola Magniet, représentans du peuple : discours prononcé par Bechonnet, ci-devant prêtre"
+language = "fr"
+place = "France"
+date = "1793"
+note = "Caption title. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française, I, 2291. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover."
+url = "https://archive.org/details/societepopul00unse"
+subject = ["Bechonnet"]
+extent = "4 p. ; 25 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 26498"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9576jt6s"
+internet_archive = "societepopul00unse"
+openlibrary_edition = "OL26226671M"
+openlibrary_work = "OL17621905W"
+
+[scan]
+file = "societepopul00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/societepopul00unse"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Bechonnet"
+role = "author"
+
+[[resp]]
+name = "Société populaire de Gannat"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_862615"
+
+[[text]]
+file = "societepopul00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "societepopul00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "societepopul00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "societepopul00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "sentencedepolice00pari"
+type = "pamphlet"
+title = "Sentence de Police : qui condamne le nommé André Danet le jeune, marchand boucher, en cinq cens livres d'amende envers le roy ; du mardy 29 janvier 1726"
+language = "fr"
+place = "Paris"
+date = "1726"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Scanner's note: No title page found. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/sentencedepolice00pari"
+subject = ["Danet, André"]
+extent = "3 p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC suppl. 162"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3mw7nb05"
+internet_archive = "sentencedepolice00pari"
+openlibrary_edition = "OL26235311M"
+openlibrary_work = "OL17629896W"
+
+[scan]
+file = "sentencedepolice00pari.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/sentencedepolice00pari"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Paris (France). Police"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de C. L. Thiboust"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_74753"
+
+[[text]]
+file = "sentencedepolice00pari.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "sentencedepolice00pari.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "sentencedepolice00pari.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "sentencedepolice00pari.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,85 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "supplementaudict00stou"
+type = "pamphlet"
+title = "Supplément au Dictionnaire raisonné des sciences, des arts et des métiers"
+language = "fr"
+place = "A Paris"
+date = "1777"
+note = "Prospectus for the supplement to Diderot and D'Alembert's Encyclopédie. Caption title. At head of title: Juillet 1777. Scanner's note: No copyright found.  No table of contents found.  Damaged, stained pages.  Only one numbered page. <br />."
+url = "https://archive.org/details/supplementaudict00stou"
+subject = [
+    "Encyclopédie",
+    "Booksellers and bookselling",
+    "Encyclopedias and dictionaries",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1a no. 141"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9v17qn07"
+internet_archive = "supplementaudict00stou"
+
+[scan]
+file = "supplementaudict00stou.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/supplementaudict00stou"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "Stoupe,M.(Jean-Georges-Antoine),-188"
+role = "author"
+
+[[resp]]
+name = "Stoupe, M. (Jean-Georges-Antoine), -1808"
+role = "author"
+
+[[resp]]
+name = "Chez Stoupe, imprimeur-libraire, rue de la Harpe, et chez les principaux libraires de France et des pays étrangers"
+role = "publisher"
+
+[[text]]
+file = "supplementaudict00stou.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "supplementaudict00stou.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "supplementaudict00stou.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "supplementaudict00stou.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "supplementaudict00stou.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "supplementaudict00stou.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
