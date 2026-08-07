@@ -28,6 +28,7 @@ pub const SCHEMA_PATH: &str = "schemas/source.json";
 pub mod djvu;
 pub mod edtf;
 pub mod frc;
+pub mod gallica;
 pub mod ingest;
 pub mod load;
 pub mod migrate;

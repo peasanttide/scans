@@ -44,6 +44,27 @@ enum Command {
     Ocr(OcrArgs),
     /// Ingest the Newberry French Revolution Collection.
     Frc(FrcArgs),
+    /// Download Hardy's journal from Gallica and write its records.
+    Hardy(HardyArgs),
+}
+
+#[derive(Debug, Args)]
+struct HardyArgs {
+    /// Repository root. Defaults to the nearest ancestor containing .git.
+    #[arg(long)]
+    root: Option<PathBuf>,
+    /// Volume number, repeatable. Omit for all eight.
+    #[arg(long = "vol")]
+    vols: Vec<u32>,
+    /// Minimum seconds between requests. Gallica throttles harder than archive.org does.
+    #[arg(long, default_value_t = 2.0)]
+    interval: f64,
+    /// Re-fetch pages that are already on disk.
+    #[arg(long)]
+    force: bool,
+    /// Write the records without downloading any images.
+    #[arg(long)]
+    records_only: bool,
 }
 
 #[derive(Debug, Args)]
@@ -284,6 +305,7 @@ fn run() -> Result<ExitCode> {
         Command::Extract(args) => cmd_extract(args),
         Command::Ocr(args) => cmd_ocr(args),
         Command::Frc(args) => cmd_frc(args),
+        Command::Hardy(args) => cmd_hardy(args),
     }
 }
 
@@ -1051,6 +1073,106 @@ fn cmd_frc_fetch(
     );
     for (id, why) in summary.failed.iter().take(20) {
         eprintln!("  {id}: {why}");
+    }
+
+    Ok(if summary.failed.is_empty() {
+        ExitCode::SUCCESS
+    } else {
+        ExitCode::FAILURE
+    })
+}
+
+// ---------------------------------------------------------------------------------------
+// hardy
+// ---------------------------------------------------------------------------------------
+
+#[cfg(not(feature = "fetch"))]
+fn cmd_hardy(_args: HardyArgs) -> Result<ExitCode> {
+    anyhow::bail!(
+        "this binary was built without the 'fetch' feature, which is what opens a socket.\n\
+         Rebuild with: cargo build --release --features fetch"
+    )
+}
+
+#[cfg(feature = "fetch")]
+fn cmd_hardy(args: HardyArgs) -> Result<ExitCode> {
+    use scans::gallica;
+
+    let root = resolve_root(args.root.as_deref())?;
+
+    let volumes: Vec<&gallica::Volume> = if args.vols.is_empty() {
+        gallica::VOLUMES.iter().collect()
+    } else {
+        args.vols
+            .iter()
+            .map(|n| {
+                gallica::volume(*n)
+                    .with_context(|| format!("no volume {n}; Hardy has 1 to 8"))
+            })
+            .collect::<Result<_>>()?
+    };
+
+    // The journal record first: a volume is `of = "hardy"`, and a copy whose parent does not
+    // exist is finding E102 for as long as the run takes.
+    let path = gallica::write_source_record(&root)?;
+    eprintln!("wrote {}", show_cwd(&path));
+
+    if args.records_only {
+        let agent: ureq::Agent = ureq::Agent::config_builder()
+            .user_agent(scans::frc::fetch::USER_AGENT)
+            .build()
+            .into();
+        let mut limiter = scans::frc::limiter::Limiter::new(
+            std::time::Duration::from_secs_f64(args.interval.max(0.0)),
+        );
+        for v in &volumes {
+            let views = gallica::fetch_views(&agent, &mut limiter, v)?;
+            let dir = root.join(v.dir());
+            std::fs::create_dir_all(&dir)?;
+            let record = scans::model::Record::Copy(gallica::volume_record(v, &views));
+            let out = dir.join(format!("{}.toml", v.id()));
+            std::fs::write(&out, gallica::render(&record, 3)?)?;
+            eprintln!("wrote {} ({} pages)", show_cwd(&out), views.len());
+        }
+        return Ok(ExitCode::SUCCESS);
+    }
+
+    eprintln!(
+        "{} volume(s), one request at a time, {}s apart, as {}",
+        volumes.len(),
+        args.interval,
+        scans::frc::fetch::USER_AGENT
+    );
+
+    let started = std::time::Instant::now();
+    let mut done = 0usize;
+    let summary = gallica::fetch(
+        &root,
+        &volumes,
+        std::time::Duration::from_secs_f64(args.interval.max(0.0)),
+        args.force,
+        |v, view, total, outcome| {
+            done += 1;
+            if let gallica::Outcome::Failed(why) = outcome {
+                eprintln!("\rscans: {} f{view}: {why}", v.id());
+            }
+            if done % 10 == 0 || view == total {
+                let rate = done as f64 / started.elapsed().as_secs_f64().max(0.001);
+                eprint!("\r  vol {} {view}/{total}  ({rate:.1}/s)      ", v.n);
+            }
+        },
+    )?;
+    eprintln!();
+
+    eprintln!(
+        "{} page(s) fetched ({:.1} GB), {} already had one, {} failed",
+        summary.fetched,
+        summary.bytes as f64 / 1e9,
+        summary.skipped,
+        summary.failed.len()
+    );
+    for (what, why) in summary.failed.iter().take(20) {
+        eprintln!("  {what}: {why}");
     }
 
     Ok(if summary.failed.is_empty() {
