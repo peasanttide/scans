@@ -1,0 +1,94 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "jugement00roue"
+type = "pamphlet"
+title = "Jugement /"
+language = "fr"
+place = "A Rouen"
+date = "1791"
+note = "Caption title. Imprint from colophon. The work in question is not in Martin & Walter. The present work is also not in Martin & Walter. Scanner's note: Title on cover. Damaged, stained pages and cover.<br />No copyright. No table of contents. <br /><br />."
+url = "https://archive.org/details/jugement00roue"
+subject = ["La Rochefoucauld, Dominique de, Cardinal, 1713-1800"]
+extent = "8 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 4464"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1dk0gq4s"
+internet_archive = "jugement00roue"
+
+[scan]
+file = "jugement00roue.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/jugement00roue"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "Rouen (France). Tribunal"
+role = "author"
+
+[[resp]]
+name = "De l'imp. de J.J. Le Boullenger"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_53969"
+
+[[text]]
+file = "jugement00roue.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "jugement00roue.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "jugement00roue.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "jugement00roue.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "jugement00roue.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "jugement00roue.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "jugement00roue.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "jugement00roue.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

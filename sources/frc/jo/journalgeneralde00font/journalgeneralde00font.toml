@@ -1,0 +1,89 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "journalgeneralde00font"
+type = "pamphlet"
+title = "Journal général de France"
+language = "fr"
+place = "Paris?"
+date = "1788"
+note = """Prospectus for "Journal général de France," published 1785-1792. Caption title. "On est prié d'adresser à M. l'abbé de Fontenai, auteur du Journal, rue S. André-des-Arcs, n° 44, les livres, estampes, musique, lettres, &c. ... M. Desplan, directeur du bureau du Journal général de France, rue Neuve S. Augustin, est chargé de tout ce qui concerne sa manutention, comme de recevoir les souscriptions, de donner les quittances, de faire l'envoi des feuilles, &c."--P. [2]. "Il suivra le même plan qu'il s'est formé depuis trois ans"--P. [1]. Printed in double columns. "Au lieu de 16 liv. 4 s. que coûtoit auparavant ce journal par an, il sera porté dorénavant à 18 liv. pour Paris, & à 19 liv. 4 s. pour la province"--P. [2]. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Title page and cover are combined."""
+url = "https://archive.org/details/journalgeneralde00font"
+subject = [
+    "Journal général de France (Paris, France : 1785)",
+    "Booksellers and bookselling",
+    "Periodicals",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1d no. 72"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5bc9nr9j"
+internet_archive = "journalgeneralde00font"
+
+[scan]
+file = "journalgeneralde00font.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/journalgeneralde00font"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Fontenai,abbé de(Louis-Abel de Bonafons),1737-186"
+role = "author"
+
+[[resp]]
+name = "Fontenai, abbé de (Louis-Abel de Bonafons), 1737-1806"
+role = "author"
+
+[[resp]]
+name = "Desplan"
+role = "bookseller"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[text]]
+file = "journalgeneralde00font.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "journalgeneralde00font.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "journalgeneralde00font.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "journalgeneralde00font.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "journalgeneralde00font.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "journalgeneralde00font.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "jugementendernie00chte_1"
+type = "pamphlet"
+title = "Jugement en dernier ressort rendu publiquement a l'audience du parc civil"
+language = "fr"
+place = "Paris"
+date = "1790"
+note = "Caption title. Imprint from colophon. Martin & Walter IV 2: 8029. The accused: Pierre Curé, compagnon papetier. Forms part of the French Revolution Collection at the Newberry Library. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Title page and cover are combined."
+url = "https://archive.org/details/jugementendernie00chte_1"
+subject = [
+    "Favras, Thomas de Mahy, marquis de, 1744-1790",
+    "Judgments",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 11 no. 4"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5k98t517"
+internet_archive = "jugementendernie00chte_1"
+
+[scan]
+file = "jugementendernie00chte_1.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/jugementendernie00chte_1"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Châtelet (Paris, France)"
+role = "author"
+
+[[resp]]
+name = "Châtelet (Paris, France)"
+role = "author"
+
+[[resp]]
+name = "French Revolution Collection (Newberry Library) ICN"
+role = "author"
+
+[[resp]]
+name = "Veuve Desaint, imprimeur du Chatelet"
+role = "publisher"
+
+[[text]]
+file = "jugementendernie00chte_1.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "jugementendernie00chte_1.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "jugementendernie00chte_1.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "jugementendernie00chte_1.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

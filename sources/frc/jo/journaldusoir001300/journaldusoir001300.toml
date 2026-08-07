@@ -1,0 +1,78 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "journaldusoir001300"
+type = "pamphlet"
+title = "Journal du soir"
+language = "fr"
+place = "Paris"
+date = "1790"
+note = "Editor: C.-F. Beaulieu. Cf. Martin & Walter. Martin & Walter. Révolution française. Description based on: No. 69 (15 sept. 1790); title from caption. Latest issue consulted: No. 69 (15 sept. 1790). Bibliography: Martin & Walter.  Révolution française, V, 793. Scanner's note: No copyright page found. No table-of-contents pages found.  No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."
+url = "https://archive.org/details/journaldusoir001300"
+subject = ["France. Assemblée nationale constituante (1789-1791)"]
+extent = "v. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 27558"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t18m2g028"
+internet_archive = "journaldusoir001300"
+
+[scan]
+file = "journaldusoir001300.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/journaldusoir001300"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "130:0 : Journal du soir (Paris, France : 1790)"
+role = "author"
+
+[[resp]]
+name = "Beaulieu, C.-F. (Claude-François), 1754-1827"
+role = "editor"
+
+[[resp]]
+name = "Petit, Vincent, 1750?-"
+role = "publisher"
+
+[[resp]]
+name = "De l'imprimerie de Petit, rue de Hurepoix, no. 24."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_870198"
+
+[[text]]
+file = "journaldusoir001300.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "journaldusoir001300.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "journaldusoir001300.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "journaldusoir001300.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

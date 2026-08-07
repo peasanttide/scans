@@ -1,0 +1,93 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "journalpolytyped00impr"
+type = "pamphlet"
+title = "Journal polytype des sciences et des arts"
+language = "fr"
+place = "Paris"
+date = "1787"
+note = """Prospectus for "Journal polytype des sciences et des arts," which began publication in 1786. Caption title. Printer statement from colophon. "Le prix de la souscription est de 36 liv. pour Paris, & de 42 liv. pour la province, franc de port. On souscrit à Paris, à l'Imprimerie polytype, rue Favart, & chez MM. les directeurs des postes & les principaux libraires de province"--P. 4. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Title page and cover are combined."""
+url = "https://archive.org/details/journalpolytyped00impr"
+subject = [
+    "Journal polytype des sciences et des arts",
+    "Booksellers and bookselling",
+    "Periodicals",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1d no. 81"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5x695z4k"
+internet_archive = "journalpolytyped00impr"
+
+[scan]
+file = "journalpolytyped00impr.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/journalpolytyped00impr"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Imprimerie polytype"
+role = "printer"
+
+[[resp]]
+name = "De l'Imprimerie polytype, rue Favart"
+role = "publisher"
+
+[[text]]
+file = "journalpolytyped00impr.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "journalpolytyped00impr.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "journalpolytyped00impr.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "journalpolytyped00impr.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "journalpolytyped00impr.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "journalpolytyped00impr.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "journalpolytyped00impr.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "journalpolytyped00impr.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

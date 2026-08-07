@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "jeanbernardalber00albe"
+type = "pamphlet"
+title = "Jean-Bernard Albert et François-Louis-Esprit Dubois, membres de la Convention nationale, aux citoyens du département du Haut-Rhin, leurs commettans."
+language = "fr"
+place = "A Paris"
+date = "1794"
+note = "Caption title. Imprint from colophon. Dated at end: Paris, le 18 janvier, l'an second de la République française. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  II, 11116. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Skewed text."
+url = "https://archive.org/details/jeanbernardalber00albe"
+subject = ["Louis XVI, King of France, 1754-1793"]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 17619"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5r839p6g"
+internet_archive = "jeanbernardalber00albe"
+openlibrary_edition = "OL26193610M"
+openlibrary_work = "OL17590378W"
+
+[scan]
+file = "jeanbernardalber00albe.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/jeanbernardalber00albe"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Albert, Jean-Bernard"
+role = "author"
+
+[[resp]]
+name = "Dubois, Francois-Louis-Esprit"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_836598"
+
+[[text]]
+file = "jeanbernardalber00albe.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "jeanbernardalber00albe.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "jeanbernardalber00albe.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "jeanbernardalber00albe.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,50 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "journaldeparis00unse"
+type = "pamphlet"
+title = "Journal de Paris"
+language = "fr"
+place = "Paris"
+date = "1777"
+note = "Contains references to P.D. Pierres. Imprint varies. Publication suspended Aug. 13, 1792-Sept. 20, 1792; one unnumbered issue precedes issue for Sept. 21, 1792. Issues for Sept. 21, 1792-Oct. 5, 1792 also designated: l'an 1er de la République. Supplements accompany some issues. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Title page and cover are combined.  Text extends off of the edge of the page.  Text lost in binding."
+url = "https://archive.org/details/journaldeparis00unse"
+subject = ["Pierres, Philippe-Denis, 1741-1808"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1d no. 52"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2t49cn14"
+internet_archive = "journaldeparis00unse"
+lccn = "sn 90048603"
+
+[scan]
+file = "journaldeparis00unse.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/journaldeparis00unse"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Impr. de Quellau"
+role = "publisher"
+
+[[text]]
+file = "journaldeparis00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "journaldeparis00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

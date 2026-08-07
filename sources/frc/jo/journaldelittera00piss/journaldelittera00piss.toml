@@ -1,0 +1,98 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "journaldelittera00piss"
+type = "pamphlet"
+title = "Journal de littérature françoise et étrangère"
+language = "fr"
+place = "Paris?"
+date = "1785"
+note = """Prospectus for "Journal de littérature françoise et étrangère," which began publication in 1785. Caption title. "Le bureau du Journal est établi chez le sieur Pissot, libraire, quai des Augustins ... On souscrit en tous tems pour ce journal au bureau ci-dessus indiqué, & chez les sieurs Sanson & compagnie, imprimeurs-libraires aux Deux-Ponts. Le prix est de 24 liv., franc de port, pour toute la France. Le premier numéro paroîtra le 20 septembre"--P. 3. Scanner's note: No copyright found.  No table of contents found.  Damaged, stained pages and cover.  <br />."""
+url = "https://archive.org/details/journaldelittera00piss"
+subject = [
+    "Journal de littérature françoise et étrangère",
+    "Booksellers and bookselling",
+    "Literature publishing",
+    "Periodicals",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1d no. 48"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3034g85z"
+internet_archive = "journaldelittera00piss"
+
+[scan]
+file = "journaldelittera00piss.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/journaldelittera00piss"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "Pissot"
+role = "author"
+
+[[resp]]
+name = "Sanson et compagnie"
+role = "bookseller"
+
+[[resp]]
+name = "Pissot?"
+role = "publisher"
+
+[[text]]
+file = "journaldelittera00piss.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "journaldelittera00piss.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "journaldelittera00piss.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "journaldelittera00piss.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "journaldelittera00piss.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "journaldelittera00piss.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "journaldelittera00piss.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "journaldelittera00piss.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

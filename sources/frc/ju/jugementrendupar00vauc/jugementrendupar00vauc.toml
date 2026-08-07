@@ -1,0 +1,88 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "jugementrendupar00vauc"
+type = "pamphlet"
+title = "Jugement rendu par le tribunal criminel du département de Vaculse, séant a Avignon : le tribunal du département de Vaucluse, a rendu le jugement suivant en audience publique portes ouvertes : entre l'accusateur public, pousuivant pour crime de retractation de serment prescrit aux curés d'une part, et Jean-Joseph Piton, âgé de trente neuf ans, ci-devant curé de Morieres, natif d'Avignon, accusé & détenu d'autre part"
+language = "fr"
+place = "A Avignon"
+date = "1792"
+note = """Caption title. Signed: Fouque, président. Laruelle, greffier. Imprint from colophon. "Vu par le tribunal criminel du département de Vaucluse ... en date du 10 janvier 1792 ..."--P. [1]. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."""
+url = "https://archive.org/details/jugementrendupar00vauc"
+subject = [
+    "Piton, Jean-Joseph",
+    "France",
+    "Catholic nonjurors",
+]
+extent = "4 p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9885 no. 1"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9j43w682"
+internet_archive = "jugementrendupar00vauc"
+openlibrary_edition = "OL26223483M"
+openlibrary_work = "OL17618946W"
+
+[scan]
+file = "jugementrendupar00vauc.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/jugementrendupar00vauc"
+ppi = 500
+note = "Scanned on scribe7.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Vaucluse (France : Department). Tribunal criminel"
+role = "author"
+
+[[resp]]
+name = "Fouque, Jacques-Joseph"
+role = "author"
+
+[[resp]]
+name = "Laruelle, Jean-Augustin"
+role = "author"
+
+[[resp]]
+name = "Bérenguier, Alphonse, 1747?-1820?"
+role = "publisher"
+
+[[resp]]
+name = "Chez Alphonse Berenguier, imprimeur du département de Vaucluse"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_68930"
+
+[[text]]
+file = "jugementrendupar00vauc.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "jugementrendupar00vauc.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "jugementrendupar00vauc.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "jugementrendupar00vauc.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

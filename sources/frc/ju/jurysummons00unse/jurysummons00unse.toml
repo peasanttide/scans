@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "jurysummons00unse"
+type = "pamphlet"
+title = "[Jury summons]"
+language = "fr"
+place = "Nîmes"
+date = "1792"
+note = "At head of text: Nismes, 20 mars 1792, l'an 4e. de la liberté. Not in Martin & Walter. Révolution française. Newberry's copy signed in ms.: M-A Sauvaire. Scanner's note: No copyright page found. No table-of-contents pages found.   Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages. No page numbers."
+url = "https://archive.org/details/jurysummons00unse"
+subject = [
+    "Jury duty",
+    "Jury",
+]
+extent = "p. ; cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9831 no. 30"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2c87dr00"
+internet_archive = "jurysummons00unse"
+openlibrary_edition = "OL26223907M"
+openlibrary_work = "OL17619362W"
+
+[scan]
+file = "jurysummons00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/jurysummons00unse"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Gard (France)"
+role = "author"
+
+[[resp]]
+name = "Sauvaire, Marc-Antoine. ICN"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_854346"
+
+[[text]]
+file = "jurysummons00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "jurysummons00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "jurysummons00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "jurysummons00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

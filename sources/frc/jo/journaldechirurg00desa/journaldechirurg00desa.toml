@@ -1,0 +1,94 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "journaldechirurg00desa"
+type = "pamphlet"
+title = "Journal de chirurgie"
+language = "fr"
+place = "A Paris"
+date = "1791"
+note = """Prospectus for "Journal de chirurgie," published 1791-1792. Caption title. Place of publication and printer statement from colophon. "Le prix de la souscription est de 15 liv. franc de port dans toute l'étendue du royaume. On souscrit chez les auteurs du journal, rue de la Harpe, n°. 151"--P. 4. Scanner's note: No copyright found.  No table of contents found.  Damaged, stained pages and cover.  <br />."""
+url = "https://archive.org/details/journaldechirurg00desa"
+subject = [
+    "Journal de chirurgie",
+    "Booksellers and bookselling",
+    "Medical publishing",
+    "Periodicals",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1d no. 42"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2q58741s"
+internet_archive = "journaldechirurg00desa"
+
+[scan]
+file = "journaldechirurg00desa.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/journaldechirurg00desa"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "Desault, P.-J. (Pierre-Joseph), 1744-1795"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de la Société typographique, collège des Cholets"
+role = "publisher"
+
+[[text]]
+file = "journaldechirurg00desa.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "journaldechirurg00desa.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "journaldechirurg00desa.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "journaldechirurg00desa.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "journaldechirurg00desa.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "journaldechirurg00desa.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "journaldechirurg00desa.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "journaldechirurg00desa.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

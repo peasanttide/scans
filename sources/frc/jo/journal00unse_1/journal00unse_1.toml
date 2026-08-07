@@ -1,0 +1,81 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "journal00unse_1"
+type = "book"
+title = "Journal du soir, de politique et de littérature"
+language = "fr"
+place = "Paris"
+date = "1792"
+note = "Printer statement from colophon. Final issue (no. 4813) printed in folio format. Martin & Walter. Révolution française. Tourneux, M. Paris pendant la Révolution française. Morning edition published under titles: Journal de France (1792-1794), Journal de France, de politique et de littérature (1794-1798), Journal de France (1798-1800). Cf. Tourneux II, 10803-10805. Bibliography: Martin & Walter.  Révolution française, V, 792. Scanner's note: No copyright found.  No table of contents found. Title on cover. Damaged, stained pages and cover. <br />Hand written text in binding and at page edge. <br />."
+url = "https://archive.org/details/journal00unse_1"
+extent = "4813 v. ; 27 cm. (4to)"
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing DC137.08 .F73 v.5, no. 8"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t48q1c65n"
+internet_archive = "journal00unse_1"
+
+[scan]
+file = "journal00unse_1.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/journal00unse_1"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "Feuillant, Etienne-Antoine, 1768-1840"
+role = "editor"
+
+[[resp]]
+name = "Chaignieau, François, 1757-1832"
+role = "printer"
+
+[[resp]]
+name = "Chaignieau, Jean-Nicolas, 1759-1842"
+role = "printer"
+
+[[resp]]
+name = "Louis XVI Trial and Execution Collection (Newberry Library) ICN"
+role = "author"
+
+[[resp]]
+name = "Des imprimeries des freres Chaignieau"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_840259"
+
+[[text]]
+file = "journal00unse_1.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "journal00unse_1.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "journal00unse_1.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "journal00unse_1.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "jacobauxparisien00gera"
+type = "pamphlet"
+title = "Jacob aux Parisiens."
+language = "fr"
+place = "France"
+date = "1793"
+note = "Caption title. Signed: Paris, le 16 avril, l'an 2e. de la République. Jacob Gerard Desrivieres, premier suppléant du département de l'Orne, à la Convention nationale. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  II, 14728. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged pages and cover."
+url = "https://archive.org/details/jacobauxparisien00gera"
+subject = ["France. Convention nationale"]
+extent = "4 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 19037"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2d84bb6v"
+internet_archive = "jacobauxparisien00gera"
+openlibrary_edition = "OL26201554M"
+openlibrary_work = "OL17598079W"
+
+[scan]
+file = "jacobauxparisien00gera.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/jacobauxparisien00gera"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Gérard des Rivières, Jacob, b. 1751"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_839845"
+
+[[text]]
+file = "jacobauxparisien00gera.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "jacobauxparisien00gera.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "jacobauxparisien00gera.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "jacobauxparisien00gera.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

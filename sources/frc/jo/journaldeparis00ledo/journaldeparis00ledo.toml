@@ -1,0 +1,69 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "journaldeparis00ledo"
+type = "pamphlet"
+title = "Journal de Paris"
+language = "fr"
+place = "Paris?"
+date = "1800"
+note = """Prospectus for "Journal de Paris.". Caption title. Signed: Ledoux, directeur du Journal de Paris. "Les cens. Maret & Rœderer, propriétaires du Journal de Paris, répondent de ses principes & de sa décence au gouvernement & au public"--P. [2]. "On souscrit à Paris, rue Traînée, n°. 692, ancienne maison curiale de Saint-Eustache, moyennant 12 fr pour trois mois, 22 fr 50 pour six mois, & 42 fr pour l'année"--P. [2]. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Title page and cover are combined.  Text extends off of the edge of the page.  Text lost in binding."""
+url = "https://archive.org/details/journaldeparis00ledo"
+subject = [
+    "Journal de Paris",
+    "Booksellers and bookselling",
+    "Periodicals",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1d no. 53"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7np7rg2h"
+internet_archive = "journaldeparis00ledo"
+
+[scan]
+file = "journaldeparis00ledo.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/journaldeparis00ledo"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Ledoux,directeur du Journal de Paris"
+role = "author"
+
+[[resp]]
+name = "Ledoux, directeur du Journal de Paris"
+role = "author"
+
+[[resp]]
+name = "Roederer, P.-L. (Pierre-Louis), 1754-1835"
+role = "author"
+
+[[resp]]
+name = "Maret, Hugues-Bernard, duc de Bassano, 1763-1839"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[text]]
+file = "journaldeparis00ledo.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "journaldeparis00ledo.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "jeparlepourladam00cmar"
+type = "pamphlet"
+title = "Je parle pour la dame veuve C***, marchande, commissaire de cette ville : contre Me. Moisset, procureur du roi en la cour"
+language = "fr"
+place = "s.l."
+date = "1790"
+note = "Caption title. Without imprint. The civil action took place in Toulouse. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."
+url = "https://archive.org/details/jeparlepourladam00cmar"
+subject = ["Civil procedure"]
+extent = "4 p. ; 25 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9876"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5r83g31h"
+internet_archive = "jeparlepourladam00cmar"
+openlibrary_edition = "OL26223110M"
+openlibrary_work = "OL17618571W"
+
+[scan]
+file = "jeparlepourladam00cmar.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/jeparlepourladam00cmar"
+ppi = 500
+note = "Scanned on scribe7.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "C***, marchande"
+role = "author"
+
+[[resp]]
+name = "Moisset"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_68946"
+
+[[text]]
+file = "jeparlepourladam00cmar.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "jeparlepourladam00cmar.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "jeparlepourladam00cmar.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "jeparlepourladam00cmar.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

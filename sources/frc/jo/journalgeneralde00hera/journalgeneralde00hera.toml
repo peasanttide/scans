@@ -1,0 +1,73 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "journalgeneralde00hera"
+type = "pamphlet"
+title = "Journal général de la police et des tribunaux"
+language = "fr"
+place = "Paris"
+date = "1789"
+note = "Original title from Hatin, Martin & Walter. Editor: J.-B. Hérault. Cf. Hatin; Martin & Walter. First published in Paris by L. Jorry; published in Paris by Hérault beginning with issue for Mar. 19, 1790. Cf. Martin & Walter. Hatin, L.E. Presse périodique française. Martin & Walter. Révolution française. Description based on: No. 106 (29 mars 1790); title from caption. Latest issue consulted: No. 106 (29 mars 1790). Bibliography: Hatin, L.E.  Presse périodique française, p. 136. Scanner's note: No copyright page found. No table-of-contents pages found.  No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."
+url = "https://archive.org/details/journalgeneralde00hera"
+extent = "v. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 27559"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3hx6gx2q"
+internet_archive = "journalgeneralde00hera"
+
+[scan]
+file = "journalgeneralde00hera.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/journalgeneralde00hera"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Hérault, J.-B., editor"
+role = "publisher"
+
+[[resp]]
+name = "Jorry, Louis"
+role = "publisher"
+
+[[resp]]
+name = "L. Jorry, rue de la Huchette]"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_870209"
+
+[[text]]
+file = "journalgeneralde00hera.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "journalgeneralde00hera.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "journalgeneralde00hera.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "journalgeneralde00hera.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

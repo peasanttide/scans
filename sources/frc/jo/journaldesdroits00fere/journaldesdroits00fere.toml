@@ -1,0 +1,57 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "journaldesdroits00fere"
+type = "pamphlet"
+title = "Journal des droits de l'homme"
+language = "fr"
+place = "Paris?"
+date = "1791"
+note = """Prospectus for "Journal des droits de l'homme," published in 1791. Caption title. "La correspondance et l'abonnement de ce journal, qui paroît tous les jours, est établie chez M. Feret, imprimeur, rue du Marché-Palu, vis-à-vis celle de Notre-Dame.". Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Title page and cover are combined.  Text extends off of the edge of the page.  Text lost in binding."""
+url = "https://archive.org/details/journaldesdroits00fere"
+subject = [
+    "Journal des droits de l'homme",
+    "Publishers and publishing",
+    "Periodicals",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1d no. 59"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8md4mg5c"
+internet_archive = "journaldesdroits00fere"
+
+[scan]
+file = "journaldesdroits00fere.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/journaldesdroits00fere"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Feret"
+role = "author"
+
+[[resp]]
+name = "Feret?"
+role = "publisher"
+
+[[text]]
+file = "journaldesdroits00fere.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "journaldesdroits00fere.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

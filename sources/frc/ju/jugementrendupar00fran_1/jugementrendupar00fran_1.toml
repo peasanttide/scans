@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "jugementrendupar00fran_1"
+type = "pamphlet"
+title = "Jugement rendu par le Tribunal révolutionnaire, établi à Paris, pour juger sans appel les conspirateurs, qui condamne à la peine de mort Jean-Baptiste Carrier, ex-député à la Convention nationale et ses complices, tous atteints et convaincus d'avoir noyé hommes, femmes, enfans, assassiné un nombre de personnes, et incendie des communes, où des hommes et des femmes ont été égorgés, et des filles violées"
+language = "fr"
+place = "Paris"
+date = "1794"
+note = "Caption title. Imprint from colophon. Place of publication from Martin & Walter. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française, IV:2, 8105. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages. Some faint text."
+url = "https://archive.org/details/jugementrendupar00fran_1"
+subject = [
+    "Carrier, Jean-Baptiste, 1756-1794",
+    "Political crimes and offenses",
+    "Capital punishment",
+]
+extent = "4 p. ; 25 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9887 no. 4"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6b330993"
+internet_archive = "jugementrendupar00fran_1"
+openlibrary_edition = "OL26224049M"
+openlibrary_work = "OL17619504W"
+
+[scan]
+file = "jugementrendupar00fran_1.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/jugementrendupar00fran_1"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Tribunal révolutionnaire"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de la rue de Chartres, no. 68"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_855168"
+
+[[text]]
+file = "jugementrendupar00fran_1.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "jugementrendupar00fran_1.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "jugementrendupar00fran_1.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "jugementrendupar00fran_1.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

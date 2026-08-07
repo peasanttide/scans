@@ -1,0 +1,81 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "journaldeparis00rain"
+type = "pamphlet"
+title = "Journal de Paris"
+language = "fr"
+place = "Paris?"
+date = "1790"
+note = """Caption title. "Les articles, annonces, lettres et abonnemens seront envoyés, francs de port, à M. Rainville, au bureau général, rue de Seine, faub. St.-Germ., n°. 1405, et chez tous les directeurs des postes et principaux libraires du royaume.". "L'abonnement pour Paris sera de 10 liv. pour trois mois, 20 liv. pour six, et 40 liv. pour l'année. En province, 12 liv. pour trois mois, 24 liv. pour six, et 48 liv. pour l'année.". Scanner's note: No copyright found.  No table of contents found.  Damaged, stained pages and cover.  No numbered pages.<br /><br />."""
+url = "https://archive.org/details/journaldeparis00rain"
+subject = [
+    "Journal de Paris",
+    "Booksellers and bookselling",
+    "Periodicals",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1d no. 51"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1nh08f27"
+internet_archive = "journaldeparis00rain"
+
+[scan]
+file = "journaldeparis00rain.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/journaldeparis00rain"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "Rainville, J. J"
+role = "author"
+
+[[resp]]
+name = "Rainville?"
+role = "publisher"
+
+[[text]]
+file = "journaldeparis00rain.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "journaldeparis00rain.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "journaldeparis00rain.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "journaldeparis00rain.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "journaldeparis00rain.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "journaldeparis00rain.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

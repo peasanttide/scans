@@ -1,0 +1,97 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "jblouvet00unse"
+type = "pamphlet"
+title = "J.B. Louvet, a ses collègues."
+language = "fr"
+place = "Paris"
+date = "1796"
+note = """Caption title. "Nota. Ce qu'on va lire est extrait des numéros 473, 475 et 477 de la Sentinelle; c'est la réponse que j'ai faite aux erreurs produites dans un article du numéro 470"--P. [1]. Imprint from colophon. Date of publication from Martin & Walter. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  III, 22023. Scanner's note: No Copyright found. No Table of Contents found. Title on cover page. Damaged, stained pages and cover. <br />."""
+url = "https://archive.org/details/jblouvet00unse"
+subject = [
+    "France",
+    "Constitutional law",
+]
+extent = "8 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 21673"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t36169470"
+internet_archive = "jblouvet00unse"
+
+[scan]
+file = "jblouvet00unse.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/jblouvet00unse"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "Louvet de Couvray, Jean-Baptiste, 1760-1797"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Marchant, rue des Orties du Louvre, cul-de-sac Matignon, no. 139"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_844902"
+
+[[text]]
+file = "jblouvet00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "jblouvet00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "jblouvet00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "jblouvet00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "jblouvet00unse.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "jblouvet00unse.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "jblouvet00unse.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "jblouvet00unse.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

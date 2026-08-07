@@ -1,0 +1,105 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "journaldesdames00mont"
+type = "pamphlet"
+title = "Journal des dames"
+language = "fr"
+place = "Paris"
+date = "1774"
+note = """Prospectus for "Journal des dames.". Caption title. Printer statement and date of publication from colophon. Head- and tail-pieces. "Le prix de la souscription est de 15 livres pour Paris & Versailles, & de 21 livres pour la province, franc de port. On souscrira à Paris, chez le sieur Lacombe, libraire, rue Christine, près la rue Dauphine. Tous les paquets seront adressés au sieur Quillau, imprimeur du Journal, rue du Fouarre, pour remettre à Madame la baronne de Princen"--P. 4. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Title page and cover are combined.  Text extends off of the edge of the page.  Text lost in binding."""
+url = "https://archive.org/details/journaldesdames00mont"
+subject = [
+    "Journal des dames",
+    "Booksellers and bookselling",
+    "Women's periodicals",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1d no. 58"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2g792q36"
+internet_archive = "journaldesdames00mont"
+
+[scan]
+file = "journaldesdames00mont.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/journaldesdames00mont"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Montanclos,Madame de(Marie-Emilie Mayon),1736-1812"
+role = "author"
+
+[[resp]]
+name = "Montanclos, Madame de (Marie-Emilie Mayon), 1736-1812"
+role = "author"
+
+[[resp]]
+name = "Lacombe, Jacques, 1724-1811"
+role = "bookseller"
+
+[[resp]]
+name = "Quillau, François-Augustin, 1743-1804"
+role = "printer"
+
+[[resp]]
+name = "De l'imprimerie de Quillau, rue du Fouarre"
+role = "publisher"
+
+[[text]]
+file = "journaldesdames00mont.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "journaldesdames00mont.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "journaldesdames00mont.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "journaldesdames00mont.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "journaldesdames00mont.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "journaldesdames00mont.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "journaldesdames00mont.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "journaldesdames00mont.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

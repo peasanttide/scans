@@ -1,0 +1,95 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "journalgeneralde00treu"
+type = "pamphlet"
+title = "Journal genéral de la littérature étrangère, ou, Annonce périodique des ouvrages nouveaux, cartes géographiques, gravures, objets d'art, inventions et découvertes nouvelles qui paraissent en Allemagne, dans les pays du Nord, en Batavie, en Angleterre, en Espagne, en Italie, en Helvétie, etc., classé par ordre méthodique, et accompagnée d'extraits et de remarques analytiques"
+language = "fr"
+place = "Paris ;;Strasbourg?"
+date = "1800"
+note = """Prospectus for "Journal général de la littérature étrangère.". Caption title. "Les bureaux généraux de la souscription sont: à Paris, chez Treuttel et Würtz, quai Voltaire, n°. 2, et à Strasbourg, chez les mêmes libraires, Grand'rue, n°. 15"--P. 3. "La publication du premier cahier aura lieu le 20 vendémiaire an IX. Le prix de la souscription est de 21 francs pour l'année, franc de port, ou de 11 francs pour six mois"--P. 3. "Ouvrages récemment publiés chez Treuttel et Würtz, libraires à Paris, quai Voltaire, n° 2, et à Strasbourg, Grand'rue, n°. 15": p. 3-4. Ms. annotations. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Title page and cover are combined."""
+url = "https://archive.org/details/journalgeneralde00treu"
+subject = [
+    "Treuttel et Würtz",
+    "Journal général de la littérature étrangère",
+    "Booksellers and bookselling",
+    "Literature publishing",
+    "Periodicals",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1d no. 75"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9h47dq7q"
+internet_archive = "journalgeneralde00treu"
+
+[scan]
+file = "journalgeneralde00treu.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/journalgeneralde00treu"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Treuttel et Würtz"
+role = "bookseller"
+
+[[resp]]
+name = "Treuttel et Würtz?"
+role = "publisher"
+
+[[text]]
+file = "journalgeneralde00treu.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "journalgeneralde00treu.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "journalgeneralde00treu.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "journalgeneralde00treu.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "journalgeneralde00treu.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "journalgeneralde00treu.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "journalgeneralde00treu.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "journalgeneralde00treu.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

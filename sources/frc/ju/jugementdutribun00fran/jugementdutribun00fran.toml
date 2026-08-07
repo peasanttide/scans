@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "jugementdutribun00fran"
+type = "pamphlet"
+title = "Jugement du Tribunal révolutionnaire, etabli à Paris au Palais, par la loi du 10 mars 1793, qui condamne Louis-Silvain Bailly, ex-premier marie de Paris, à la peine de mort"
+language = "fr"
+place = "A Paris"
+date = "1793"
+note = "Caption title. At head of title: Droits de l'homme. La nation et la loi. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française, IV:2, 8027. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages."
+url = "https://archive.org/details/jugementdutribun00fran"
+subject = [
+    "Bailly, Jean Sylvain, 1736-1793",
+    "Political crimes and offenses",
+    "Capital punishment",
+]
+extent = "4 p. ; 25 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9887 no. 5"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0tr11h9p"
+internet_archive = "jugementdutribun00fran"
+openlibrary_edition = "OL26223946M"
+openlibrary_work = "OL17619401W"
+
+[scan]
+file = "jugementdutribun00fran.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/jugementdutribun00fran"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Tribunal révolutionnaire"
+role = "author"
+
+[[resp]]
+name = "Galletti, G.-F"
+role = "publisher"
+
+[[resp]]
+name = "Chez G.-F. Galletti, imprimeur du Journal des lois de la République française, aux Jacobins Saint-Honoré"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_855169"
+
+[[text]]
+file = "jugementdutribun00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "jugementdutribun00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "jugementdutribun00fran.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "jugementdutribun00fran.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

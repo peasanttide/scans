@@ -1,0 +1,96 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "journauxpourlesq00laco"
+type = "pamphlet"
+title = "Journaux pour lesquels on s'abonne, en tout tems, soit pour Paris, soit pour la province, chez Lacombe, libraire, à Paris, rue Christine"
+language = "fr"
+place = "Paris"
+date = "1774"
+note = """Caption title. Publication information from BN. Printed in double columns. BN. Catalogues de libraires. "Catalogue des principaux ouvrages qui se trouvent en nombre chez le même libraire": p. [1]-[3]. With prices. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Title page and cover are combined."""
+url = "https://archive.org/details/journauxpourlesq00laco"
+subject = [
+    "Lacombe, Jacques, 1724-1811",
+    "French periodicals",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 4 no. 66"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2h763m5d"
+internet_archive = "journauxpourlesq00laco"
+
+[scan]
+file = "journauxpourlesq00laco.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/journauxpourlesq00laco"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Lacombe, Jacques,1724-1811"
+role = "author"
+
+[[resp]]
+name = "Lacombe, Jacques, 1724-1811"
+role = "author"
+
+[[resp]]
+name = "Lacombe"
+role = "publisher"
+
+[[text]]
+file = "journauxpourlesq00laco.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "journauxpourlesq00laco.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "journauxpourlesq00laco.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "journauxpourlesq00laco.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "journauxpourlesq00laco.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "journauxpourlesq00laco.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "journauxpourlesq00laco.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "journauxpourlesq00laco.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

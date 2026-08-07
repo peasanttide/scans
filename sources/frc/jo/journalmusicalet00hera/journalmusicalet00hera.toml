@@ -1,0 +1,81 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "journalmusicalet00hera"
+type = "pamphlet"
+title = "Journal musical et des spectacles"
+language = "fr"
+place = "Paris"
+date = "1791"
+note = """Prospectus for "Journal musical et des spectacles.". Proposed title never published? Caption title. "On souscrit, dès-à-présent, chez J.-B. Hérault, imprimeur, rue de Harlay, n°. 15, au Marais"--P. [2]. Printer statement from colophon. "Le premier n°. de ce journal paraîtra le premier février de l'année"--P. [2]. "Le prix de la souscription, pour Paris, est de six livres par mois, et de douze livres par trimestre; pour la province, il est de six livres dix sols par mois, et de treize livres dix sols par trimestre, franc de port"--P. [2]. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Title page and cover are combined."""
+url = "https://archive.org/details/journalmusicalet00hera"
+subject = [
+    "Journal musical et des spectacles",
+    "Booksellers and bookselling",
+    "Periodicals",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1d no. 78"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7hq9mx6g"
+internet_archive = "journalmusicalet00hera"
+
+[scan]
+file = "journalmusicalet00hera.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/journalmusicalet00hera"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Hérault, J.-B"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de J.-B. Hérault, rue de Harlay, n°. 15, au Marais"
+role = "publisher"
+
+[[text]]
+file = "journalmusicalet00hera.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "journalmusicalet00hera.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "journalmusicalet00hera.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "journalmusicalet00hera.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "journalmusicalet00hera.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "journalmusicalet00hera.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

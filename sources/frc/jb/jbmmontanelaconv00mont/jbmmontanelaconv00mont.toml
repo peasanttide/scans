@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "jbmmontanelaconv00mont"
+type = "pamphlet"
+title = "J.B.M. Montané a la Convention nationale."
+language = "fr"
+place = "Paris"
+date = "1794"
+note = "Caption title. Signed: Ce 27 frimaire, l'an troisieme de la République une et indivisible. Signé, J.B.M. Montané. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  III, 24909. Scanner's note: No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/jbmmontanelaconv00mont"
+subject = [
+    "France. Tribunal révolutionnaire",
+    "Justification (Law)",
+]
+extent = "4 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 12641"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t26b1vt61"
+internet_archive = "jbmmontanelaconv00mont"
+openlibrary_edition = "OL25927984M"
+openlibrary_work = "OL17350549W"
+
+[scan]
+file = "jbmmontanelaconv00mont.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/jbmmontanelaconv00mont"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Montané, Jacques-Bernard-Marie"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_826809"
+
+[[text]]
+file = "jbmmontanelaconv00mont.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "jbmmontanelaconv00mont.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "jbmmontanelaconv00mont.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "jbmmontanelaconv00mont.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

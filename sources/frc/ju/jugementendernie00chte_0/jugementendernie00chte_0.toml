@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "jugementendernie00chte_0"
+type = "pamphlet"
+title = "Jugement en dernier ressort rendu publiquement a l'audience du parc civil"
+language = "fr"
+place = "Paris"
+date = "1790"
+note = "Caption title. Imprint from colophon. Martin & Walter IV 2: 8029. The accused: Pierre Curé, compagnon papetier. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."
+url = "https://archive.org/details/jugementendernie00chte_0"
+subject = [
+    "Favras, Thomas de Mahy, marquis de, 1744-1790",
+    "Judgments",
+]
+extent = "4 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9880"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t42r8z993"
+internet_archive = "jugementendernie00chte_0"
+openlibrary_edition = "OL26223322M"
+openlibrary_work = "OL17618784W"
+
+[scan]
+file = "jugementendernie00chte_0.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/jugementendernie00chte_0"
+ppi = 500
+note = "Scanned on scribe7.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Châtelet (Paris, France)"
+role = "author"
+
+[[resp]]
+name = "Châtelet (Paris, France)"
+role = "author"
+
+[[resp]]
+name = "Veuve Desaint, imprimeur du Ch^atelet"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_68944"
+
+[[text]]
+file = "jugementendernie00chte_0.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "jugementendernie00chte_0.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "jugementendernie00chte_0.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "jugementendernie00chte_0.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

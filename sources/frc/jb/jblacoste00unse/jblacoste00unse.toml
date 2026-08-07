@@ -1,0 +1,71 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "jblacoste00unse"
+type = "pamphlet"
+title = "J.B. Lacoste et M.A. Baudot représentans du peuple près les armées du Rhin et de la Moselle"
+language = "fr"
+place = "France"
+date = "1794"
+note = "Caption title. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française, II, 18092. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/jblacoste00unse"
+subject = [
+    "Money",
+    "Assignats",
+]
+extent = "[2] p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 26837"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t46q7384d"
+internet_archive = "jblacoste00unse"
+openlibrary_edition = "OL26226399M"
+openlibrary_work = "OL17621666W"
+
+[scan]
+file = "jblacoste00unse.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/jblacoste00unse"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Lacoste, Jean-Baptiste,1753-1821"
+role = "author"
+
+[[resp]]
+name = "Lacoste, Jean-Baptiste, 1753-1821"
+role = "author"
+
+[[resp]]
+name = "Baudot, Marc-Antoine, 1765-1837"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_866585"
+
+[[text]]
+file = "jblacoste00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "jblacoste00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

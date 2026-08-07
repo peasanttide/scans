@@ -1,0 +1,87 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "jugementrendupar00vauc_4"
+type = "pamphlet"
+title = "Jugement rendu par le tribunal criminel du département de Vaucluse, séant a Avignon, qui condamne Jean-Baptiste Veyrier, natif de Valréas, habitant à Carpentras, âgé de cinquante-quatre ans, accusé d'avoir vendu plus cher en assignat qu'avec des écus, à six ans de fer conformément à l'article de la loi du 11 avril 1790 (vieux style) article II, le condamne en outre a être exposé pendant six-heurs aux regards du peuple attaché à un poteau sur la place publique d'Orange, & être mis sur la tête un écriteau ou seront inscrit ses noms, sa profession, son domicile, la cause de sa condamnation conformément à l'article XXVIII titre I du code pénal"
+language = "fr"
+place = "Avignon"
+date = "1794"
+note = """Caption title. Signed: Fouque, président. Ducros, greffier. Imprint from colophon. "Fait à Avignon ce dix-sept floréal, l'an deux de la République française ... "--P. 4. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."""
+url = "https://archive.org/details/jugementrendupar00vauc_4"
+subject = [
+    "Veyrier, Jean-Baptiste",
+    "Profiteering",
+]
+extent = "4 p. ; 25 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9885 no. 6"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5n92cd39"
+internet_archive = "jugementrendupar00vauc_4"
+openlibrary_edition = "OL26223038M"
+openlibrary_work = "OL17618499W"
+
+[scan]
+file = "jugementrendupar00vauc_4.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/jugementrendupar00vauc_4"
+ppi = 500
+note = "Scanned on scribe7.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Vaucluse (France : Department). Tribunal criminel"
+role = "author"
+
+[[resp]]
+name = "Fouque, Jacques-Joseph"
+role = "author"
+
+[[resp]]
+name = "Ducros, greffier au Tribunal criminel du département de Vaucluse"
+role = "author"
+
+[[resp]]
+name = "Bérenguier, Alphonse, 1747?-1820?"
+role = "publisher"
+
+[[resp]]
+name = "De l'imprimerie des Montagnards : Chez Alphonse Berenguier & compagnie, imprimeurs du département de Vaucluse"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_855164"
+
+[[text]]
+file = "jugementrendupar00vauc_4.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "jugementrendupar00vauc_4.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "jugementrendupar00vauc_4.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "jugementrendupar00vauc_4.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

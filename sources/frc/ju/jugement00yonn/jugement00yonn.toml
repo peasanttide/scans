@@ -1,0 +1,99 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "jugement00yonn"
+type = "pamphlet"
+title = "Jugement"
+language = "fr"
+place = "A Auxerre"
+date = "1793"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."
+url = "https://archive.org/details/jugement00yonn"
+subject = [
+    "Bordot, Marie Anne",
+    "Judgments",
+]
+extent = "6 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9878"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5cc6480w"
+internet_archive = "jugement00yonn"
+openlibrary_edition = "OL26223129M"
+openlibrary_work = "OL17618590W"
+
+[scan]
+file = "jugement00yonn.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/jugement00yonn"
+ppi = 500
+note = "Scanned on scribe7.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Yonne (France). Tribunal criminel"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de L. Fournier"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_68947"
+
+[[text]]
+file = "jugement00yonn.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "jugement00yonn.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "jugement00yonn.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "jugement00yonn.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "jugement00yonn.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "jugement00yonn.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "jugement00yonn.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "jugement00yonn.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

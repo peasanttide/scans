@@ -1,0 +1,85 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "journalmilitaire00gour"
+type = "pamphlet"
+title = "Journal militaire"
+language = "fr"
+place = "Paris?"
+date = "1791"
+note = """Prospectus for "Journal militaire," which began publication in 1790. Caption title. "On souscrit à Paris, au bureau du Journal militaire, chez M. Gournay, rue Saint-Jacques, n°. 27; et chez Belin, libraire, même rue"--P. 2. "Prix, quinze livres pour l'année, sept livres dix sous pour six mois"--P. 2. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Title page and cover are combined."""
+url = "https://archive.org/details/journalmilitaire00gour"
+subject = [
+    "Journal militaire (Paris, France : 1790)",
+    "Booksellers and bookselling",
+    "Periodicals",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1d no. 77"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t49p8qz96"
+internet_archive = "journalmilitaire00gour"
+
+[scan]
+file = "journalmilitaire00gour.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/journalmilitaire00gour"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Gournay, B.-C., d. 1794?"
+role = "author"
+
+[[resp]]
+name = "Belin, François, 1748-1808"
+role = "bookseller"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[text]]
+file = "journalmilitaire00gour.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "journalmilitaire00gour.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "journalmilitaire00gour.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "journalmilitaire00gour.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "journalmilitaire00gour.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "journalmilitaire00gour.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
