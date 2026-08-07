@@ -1,0 +1,87 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "unmotsurlouislet00masu"
+type = "pamphlet"
+title = "Un mot sur Louis le traitre, ou le dernier, et sa famille"
+language = "fr"
+place = "A Angers"
+date = "1793"
+note = """Caption title. At head of title: Convention nationale. Imprint from colophon. "Discours daté du 7 janvier 1793 et non prononcé"--Cf. Martin & Walter. Variant of Martin & Walter. Révolution française, III, 23376. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover."""
+url = "https://archive.org/details/unmotsurlouislet00masu"
+subject = [
+    "Louis XVI, King of France, 1754-1793",
+    "Exile (Punishment)",
+]
+extent = "4 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 26981"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t38107987"
+internet_archive = "unmotsurlouislet00masu"
+openlibrary_edition = "OL26227167M"
+openlibrary_work = "OL17622394W"
+
+[scan]
+file = "unmotsurlouislet00masu.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/unmotsurlouislet00masu"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Masuyer, Claude-Laurent-Louis,1759-1794"
+role = "author"
+
+[[resp]]
+name = "Masuyer, Claude-Laurent-Louis, 1759-1794"
+role = "author"
+
+[[resp]]
+name = "Mame, Charles-Pierre, 1747-1825"
+role = "publisher"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale, chez Mame, imprimeur du département"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_865577"
+
+[[text]]
+file = "unmotsurlouislet00masu.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "unmotsurlouislet00masu.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "unmotsurlouislet00masu.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "unmotsurlouislet00masu.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

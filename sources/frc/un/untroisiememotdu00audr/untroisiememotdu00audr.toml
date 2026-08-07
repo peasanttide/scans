@@ -1,0 +1,71 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "untroisiememotdu00audr"
+type = "pamphlet"
+title = "Un troisième mot du citoyen Audrein à ses collègues, ou, dernier appel aux droits de l'homme."
+language = "fr"
+date = "1795"
+note = "Caption title. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,I, 818."
+url = "https://archive.org/details/untroisiememotdu00audr"
+subject = ["Freedom of religion"]
+extent = "4 p. ;19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "CaseFRC10570"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0vq5zt4z"
+internet_archive = "untroisiememotdu00audr"
+openlibrary_edition = "OL25646688M"
+openlibrary_work = "OL17076894W"
+
+[scan]
+file = "untroisiememotdu00audr.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/untroisiememotdu00audr"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Audrein, Yves-Marie,1741-1800"
+role = "author"
+
+[[resp]]
+name = "A Paris :De l'imprimerie de Guffroy, rue Honoré, No. 35, cour des ci-devant Capucins,"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_823809"
+
+[[text]]
+file = "untroisiememotdu00audr.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "untroisiememotdu00audr.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "untroisiememotdu00audr.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "untroisiememotdu00audr.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
