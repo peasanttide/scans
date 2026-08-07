@@ -1,0 +1,108 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "grand00unse"
+type = "pamphlet"
+title = "Grand discours de M. de Mirabeau, prononcé à la tribune, décreté par l'Assemblée nationale & sanctionné par le roi, pour faire prêter le serment civique à tout le clergé de France dans la huitaine, d'être fidèle à la nation, à la loi & au roi, sous peine d'être punis sérieusement par la rigeur des loix."
+language = "fr"
+place = "A Marseille"
+date = "1790"
+note = """Caption title. Imprint from colophon. "Sur l'imprimé de Paris"--Colophon. Not in Martin & Walter. Révolution française. Scanner's note: Title page and cover are combined. Damaged, stained, marked and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/grand00unse"
+subject = [
+    "France",
+    "Catholic Church",
+    "Clergy",
+    "Church and state",
+    "Loyalty oaths",
+]
+extent = "8 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 22643"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t25b5cf0m"
+internet_archive = "grand00unse"
+
+[scan]
+file = "grand00unse.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/grand00unse"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Mirabeau, Honoré-Gabriel de Riquetti, comte de, 1749-1791"
+role = "author"
+
+[[resp]]
+name = "Favet, Pierre-Antoine"
+role = "publisher"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "Chez P.A. Favet, imprimeur du roi & de la ville"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_847124"
+
+[[text]]
+file = "grand00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "grand00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "grand00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "grand00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "grand00unse.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "grand00unse.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "grand00unse.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "grand00unse.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

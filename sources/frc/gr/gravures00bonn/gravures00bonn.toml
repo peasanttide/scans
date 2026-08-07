@@ -1,0 +1,62 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "gravures00bonn"
+type = "pamphlet"
+title = "Gravures"
+language = "fr"
+place = "Paris"
+date = "1800"
+note = """Advertisement for a collection of engraved portraits by Bonneville. Caption title. First sentence: La collection de F. Bonneville se continue. "A Paris chez l'auteur, rue du Théâtre Français, no. 4, et chez les principaux libraires et marchands d'estampes de l'Europe.". "Chaque portrait, 20 sols.". Includes list of available portraits. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Title page and cover are combined."""
+url = "https://archive.org/details/gravures00bonn"
+subject = [
+    "Bonneville, François, fl. 1793-1802",
+    "Publishers and publishing",
+    "Portraits",
+    "Prints",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1c no. 4"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7qp1t801"
+internet_archive = "gravures00bonn"
+
+[scan]
+file = "gravures00bonn.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/gravures00bonn"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Bonneville, François,fl. 1793-182"
+role = "author"
+
+[[resp]]
+name = "Bonneville, François, fl. 1793-1802"
+role = "author"
+
+[[resp]]
+name = "François Bonneville"
+role = "publisher"
+
+[[text]]
+file = "gravures00bonn.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "gravures00bonn.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

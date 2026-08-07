@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "gdechezeauxdeput00dech"
+type = "pamphlet"
+title = "G. Dechézeaux, député a la Convention nationale par le département de la Charente inférieure, aux membres composant le Comité de sûreté générale."
+language = "fr"
+place = "France"
+date = "1793"
+note = """Caption title. "Paris, le 30 juin 1793"--P. [1]. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  II, 9500. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on cover page. Damaged, stained pages and cover. No page numbers."""
+url = "https://archive.org/details/gdechezeauxdeput00dech"
+extent = "[2] p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 17067"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t89h0p55w"
+internet_archive = "gdechezeauxdeput00dech"
+openlibrary_edition = "OL26203914M"
+openlibrary_work = "OL17600335W"
+
+[scan]
+file = "gdechezeauxdeput00dech.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/gdechezeauxdeput00dech"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Dechézeaux, Gustave, 1760-1794"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale. Comité de sûreté générale"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_836284"
+
+[[text]]
+file = "gdechezeauxdeput00dech.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "gdechezeauxdeput00dech.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "gdechezeauxdeput00dech.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "gdechezeauxdeput00dech.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "gagnondirecteurd00gagn"
+type = "pamphlet"
+title = "Gagnon, directeur des postes de l'armée des Pyrénées Orientales, a son ami Arthaud, directeur des postes, à Toulouse."
+language = "fr"
+place = "A Toulouse"
+date = "1794"
+note = "Caption title. At head of title: Du 12 floréal au quartier général de Banyuls. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page is on the cover. Skewed text. Damaged, loose pages. Uneven binding."
+url = "https://archive.org/details/gagnondirecteurd00gagn"
+subject = [
+    "Gagnon, directeur des postes",
+    "First Coalition, War of the, 1792-1797",
+]
+extent = "4 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 18818"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2v45qs9q"
+internet_archive = "gagnondirecteurd00gagn"
+openlibrary_edition = "OL26200700M"
+openlibrary_work = "OL17597309W"
+
+[scan]
+file = "gagnondirecteurd00gagn.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/gagnondirecteurd00gagn"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Gagnon, directeur des postes"
+role = "author"
+
+[[resp]]
+name = "Arthaud, directeur des postes"
+role = "author"
+
+[[resp]]
+name = "Chez le montagnard Viallanes, imprimeur"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_839496"
+
+[[text]]
+file = "gagnondirecteurd00gagn.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "gagnondirecteurd00gagn.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "gagnondirecteurd00gagn.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "gagnondirecteurd00gagn.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

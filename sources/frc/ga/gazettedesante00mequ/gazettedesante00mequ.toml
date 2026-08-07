@@ -1,0 +1,63 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "gazettedesante00mequ"
+type = "pamphlet"
+title = "Gazette de santé"
+language = "fr"
+place = "Paris?"
+date = "1777"
+note = """Prospectus for "Gazette de santé.". Caption title. "On s'abonne en tout tems, mais principalement aux époques de janvier & de juillet, à Paris, chez Mequignon, l'ainé, libraire, rue des Cordeliers, vis-à-vis S. Côme ... Le prix de l'abonnement pour l'année est de 9 liv. 12 sols, port franc par tout le royaume"--P. [2]. Bookseller's catalog (p. [2]) includes a title published in 1777. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Title page and cover are combined.  Text extends off of the edge of the page.  Text lost in binding."""
+url = "https://archive.org/details/gazettedesante00mequ"
+subject = [
+    "Méquignon, Nicolas-Toussaint, 1744-1830",
+    "Gazette de santé",
+    "Booksellers and bookselling",
+    "Medical publishing",
+    "Periodicals",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1d no. 32"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6zw74m0g"
+internet_archive = "gazettedesante00mequ"
+
+[scan]
+file = "gazettedesante00mequ.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/gazettedesante00mequ"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Méquignon, Nicolas-Toussaint,1744-183"
+role = "author"
+
+[[resp]]
+name = "Méquignon, Nicolas-Toussaint, 1744-1830"
+role = "author"
+
+[[resp]]
+name = "Méquignon?"
+role = "publisher"
+
+[[text]]
+file = "gazettedesante00mequ.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "gazettedesante00mequ.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

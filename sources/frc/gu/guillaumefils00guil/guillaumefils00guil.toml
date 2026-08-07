@@ -1,0 +1,77 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "guillaumefils00guil"
+type = "pamphlet"
+title = "Guillaume fils, libraire, place du pont Saint-Michel, a une collection de livres choisis, avec figures & encadrés sur du grand papier, in-4o. reliure uniforme, gr. pap. bord & bordure, trois filets, dont voici le catalogue"
+language = "fr"
+place = "Paris"
+date = "1776"
+note = "Caption title. Imprint from colophon. Place and date of publication from BN. BN. Catalogues de libraires. Catalog of 71 numbered items including books on religion and French literature, particularly the works of Marmontel, Dorat, and Arnaud. Without prices. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text.  Title page and cover are combined."
+url = "https://archive.org/details/guillaumefils00guil"
+subject = [
+    "Guillaume, Charles, 18th cent",
+    "French literature",
+    "Religious literature, French",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 4 no. 50"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t11p3s632"
+internet_archive = "guillaumefils00guil"
+
+[scan]
+file = "guillaumefils00guil.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/guillaumefils00guil"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Guillaume, Charles,18th cent"
+role = "author"
+
+[[resp]]
+name = "Guillaume, Charles, 18th cent"
+role = "author"
+
+[[resp]]
+name = "Couturier, Denis Clément, 1714?-1786"
+role = "printer"
+
+[[resp]]
+name = "De l'imprimerie de D.C. Couturier pere, aux galeries du Louvre"
+role = "publisher"
+
+[[text]]
+file = "guillaumefils00guil.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "guillaumefils00guil.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "guillaumefils00guil.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "guillaumefils00guil.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

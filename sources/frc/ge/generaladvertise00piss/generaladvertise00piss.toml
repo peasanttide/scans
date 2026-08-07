@@ -1,0 +1,77 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "generaladvertise00piss"
+type = "pamphlet"
+title = "General advertiser for Great Britain, Ireland, and the United-States of America"
+language = "fr"
+place = "Paris"
+date = "1787"
+note = """Caption title. "On souscrit à Paris, chez Pissot, libraire, quai des Augustins; & chez les principaux libraires de l'Europe. Pour toute la Suisse, chez M. J.J. Tourneysen, Fossés Saint-Léonard, à Basle"--P. 3. Printer statement from colophon. "Permis d'imprimer le 14 novembre 1787"--P. 4. "Le premier no. sera publié le lundi 7 janvier 1788. L'abonnement sera de 48 livres, port franc, par tout le royaume"--P. 3. Printed in double columns. "Collection des principaux historiens, philosophes, poëtes & romanciers anglois : en anglois. Proposée par inscription, à 3 liv. chaque volume in-8. ... A Paris, chez Pissot ...": p. 3-4. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Title page and cover are combined."""
+url = "https://archive.org/details/generaladvertise00piss"
+subject = [
+    "General advertiser for Great Britain, Ireland, and the United States of America",
+    "Booksellers and bookselling",
+    "Periodicals",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1d no. 35"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0wq5nm98"
+internet_archive = "generaladvertise00piss"
+
+[scan]
+file = "generaladvertise00piss.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/generaladvertise00piss"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Pissot"
+role = "author"
+
+[[resp]]
+name = "Tourneysen, J. J."
+role = "bookseller"
+
+[[resp]]
+name = "Clousier, Jacques-Gabriel, d. 1804?"
+role = "printer"
+
+[[resp]]
+name = "De l'imprimerie de Clousier, imprimeur du roi, rue de Sorbonne"
+role = "publisher"
+
+[[text]]
+file = "generaladvertise00piss.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "generaladvertise00piss.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "generaladvertise00piss.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "generaladvertise00piss.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

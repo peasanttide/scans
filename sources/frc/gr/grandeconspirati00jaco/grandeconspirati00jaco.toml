@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "grandeconspirati00jaco"
+type = "pamphlet"
+title = "Grande conspiration des pommes cuites : ou Le Jacobin a Notre-Dame ; compte rendu de la fête du 21 janvier /"
+language = "fr"
+place = "s.l."
+date = "1796"
+note = "Caption title. Imprint from colophon. In verse. First two lines: Citoyens, je viens de la fête, / Avec un très-grand mal de tête. Dated in contemporary ms: Janvier 1796. Martin & Walter IV 2: 7249. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover page.  Uneven binding.  Damaged, stained and/or loose pages.  Skewed text."
+url = "https://archive.org/details/grandeconspirati00jaco"
+subject = ["Jacobins"]
+extent = "3 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 4115"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/txxxxxxxx"
+internet_archive = "grandeconspirati00jaco"
+openlibrary_edition = "OL26212674M"
+openlibrary_work = "OL17608657W"
+
+[scan]
+file = "grandeconspirati00jaco.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/grandeconspirati00jaco"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Jacobin"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie des Rapsodies"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_51900"
+
+[[text]]
+file = "grandeconspirati00jaco.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "grandeconspirati00jaco.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "grandeconspirati00jaco.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "grandeconspirati00jaco.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

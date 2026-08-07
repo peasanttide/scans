@@ -1,0 +1,55 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "genealogie00unse"
+type = "pamphlet"
+title = "Genealogie, Albert de Gondy, duc de Retz, marié à Catherine de Clermont."
+language = "fr"
+place = "France?"
+date = "1734"
+note = "Genealogical table. Caption title. Includes descendant Louis-Nicolas de Villeroy, who died in 1734. No. 43 of 54 titles bound together."
+url = "https://archive.org/details/genealogie00unse"
+subject = [
+    "Gondi, Albert de, 1522-1602",
+    "Retz, Catherine de Clermont, Maréchale de, 1543-1603",
+    "Gondi family",
+    "Clermont-Tonnerre family",
+    "Nobility",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio KJV5795 .A35 1728 no. 43"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4vj1m259"
+internet_archive = "genealogie00unse"
+
+[scan]
+file = "genealogie00unse.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/genealogie00unse"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "[publisher not identified]"
+role = "publisher"
+
+[[text]]
+file = "genealogie00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "genealogie00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

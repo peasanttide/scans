@@ -1,0 +1,74 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "granderevolution00robe"
+type = "pamphlet"
+title = "Grande révolution et meurtre extraordinaire arrivé dans la ville de Béfort : les régimens des hussards & Liégois, le sabre nud à la main, ont insulté la municipalité, & forcé le peuple par leurs armes à crier à haute voix dans toutes les rues, Vive le roi, vive la reine & les aristocrates, & merde pour la nation."
+language = "fr"
+place = "Marseille?"
+date = "1790"
+note = """Caption title. Signed: Robert. Imprint from colophon. "Sur l'Imprimé de Paris du Mercure national & démocratique, no. 34"--Colophon. Not in Martin & Walter. Révolution française. Describes the events of Oct. 21, 1790. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained, marked and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/granderevolution00robe"
+subject = [
+    "France. Armée. Régiment de Hussards, 5e",
+    "Political violence",
+    "Counterrevolutionaries",
+]
+extent = "4 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 24476"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1ng9x227"
+internet_archive = "granderevolution00robe"
+
+[scan]
+file = "granderevolution00robe.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/granderevolution00robe"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Robert, François, 1762-1826"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de F. Brebion, près la Loge"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_849345"
+
+[[text]]
+file = "granderevolution00robe.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "granderevolution00robe.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "granderevolution00robe.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "granderevolution00robe.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

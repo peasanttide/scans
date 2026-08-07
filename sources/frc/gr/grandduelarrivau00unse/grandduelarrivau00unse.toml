@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "grandduelarrivau00unse"
+type = "pamphlet"
+title = "Grand duel arrivé aujourd'hui, 11 août [1790], au Bois de Boulogne : entre Messieurs Cazalès et Barnave, députés à l'Assemblée nationale."
+language = "fr"
+place = "Paris"
+date = "1790"
+note = "Caption title. Imprint from colophon. Martin & Walter IV 2: 7198. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover."
+url = "https://archive.org/details/grandduelarrivau00unse"
+subject = [
+    "Barnave, Joseph, 1761-1793",
+    "Cazalès, Jacques-Antoine-Marie de, 1758-1805",
+    "Dueling",
+]
+extent = "4 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 4086"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9b61mx68"
+internet_archive = "grandduelarrivau00unse"
+openlibrary_edition = "OL26211417M"
+openlibrary_work = "OL17607480W"
+
+[scan]
+file = "grandduelarrivau00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/grandduelarrivau00unse"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "De l'imprimerie de Pain"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_50883"
+
+[[text]]
+file = "grandduelarrivau00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "grandduelarrivau00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "grandduelarrivau00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "grandduelarrivau00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
