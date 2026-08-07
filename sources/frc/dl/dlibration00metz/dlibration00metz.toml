@@ -1,0 +1,71 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "dlibration00metz"
+type = "pamphlet"
+title = "Délibération"
+language = "fr"
+place = "A Metz"
+date = "1789"
+note = "Caption title. Imprint from colophon. At end: Fait `a Metz, lesdits jour & an susdit. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages."
+url = "https://archive.org/details/dlibration00metz"
+extent = "3 p. ; 25 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9727"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t82k1jt26"
+internet_archive = "dlibration00metz"
+openlibrary_edition = "OL26223255M"
+openlibrary_work = "OL17618716W"
+
+[scan]
+file = "dlibration00metz.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/dlibration00metz"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Metz (France)"
+role = "author"
+
+[[resp]]
+name = "Chez J. B. Collignon"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_68218"
+
+[[text]]
+file = "dlibration00metz.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dlibration00metz.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dlibration00metz.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dlibration00metz.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,70 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discoursprononce00mang"
+type = "pamphlet"
+title = "Discours prononcé à la Société républicaine et révolutionnaire de la commune de Sens /"
+language = "fr"
+place = "Sens"
+date = "1793"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No Copyright found. No Table of Contents found. Title on cover page. Damaged, stained pages and cover. <br /><br />."
+url = "https://archive.org/details/discoursprononce00mang"
+subject = ["Grain"]
+extent = "4 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 21924"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1tf52917"
+internet_archive = "discoursprononce00mang"
+
+[scan]
+file = "discoursprononce00mang.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/discoursprononce00mang"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "Mangeon"
+role = "author"
+
+[[resp]]
+name = "Ve. Tarbé et fils, imprimeurs du district"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_845371"
+
+[[text]]
+file = "discoursprononce00mang.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00mang.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00mang.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00mang.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

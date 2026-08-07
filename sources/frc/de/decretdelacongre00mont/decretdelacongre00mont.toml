@@ -1,0 +1,69 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "decretdelacongre00mont"
+type = "pamphlet"
+title = "Decret de la Congregation de l'Inquisition romaine et generale, rendu le jeudi 30 août 1759"
+language = "fr"
+place = "A Rome"
+date = "1759"
+note = "Caption title. Imprint at foot of p. 4. The 1st work is by Henri Montignot. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Title page and cover are combined."
+url = "https://archive.org/details/decretdelacongre00mont"
+subject = [
+    "Berruyer, Isaac-Joseph, 1681-1758",
+    "Censorship",
+    "Inquisition",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 6 no. 164"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t45r0md0v"
+internet_archive = "decretdelacongre00mont"
+
+[scan]
+file = "decretdelacongre00mont.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/decretdelacongre00mont"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Montignot, Henri, ca. 1720-ca. 1790"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de la Chambre apostolique"
+role = "publisher"
+
+[[text]]
+file = "decretdelacongre00mont.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelacongre00mont.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelacongre00mont.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelacongre00mont.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

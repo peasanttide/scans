@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "departementdugar00gard"
+type = "pamphlet"
+title = "Département du Gard, aux citoyens de Nismes"
+language = "fr"
+place = "A Nismes"
+date = "1791"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. No title page found."
+url = "https://archive.org/details/departementdugar00gard"
+subject = [
+    "Nîmes (France). Corps municipal",
+    "Central-local government relations",
+]
+extent = "4 p. ; 28 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9831 no. 7"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8wb0979q"
+internet_archive = "departementdugar00gard"
+openlibrary_edition = "OL26222933M"
+openlibrary_work = "OL17618392W"
+
+[scan]
+file = "departementdugar00gard.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/departementdugar00gard"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Gard (France)"
+role = "author"
+
+[[resp]]
+name = "Belle, Castor"
+role = "publisher"
+
+[[resp]]
+name = "Chez C. Belle, imprimeur du roi & du département du Gard, rue des Fourbisseurs"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_854323"
+
+[[text]]
+file = "departementdugar00gard.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "departementdugar00gard.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "departementdugar00gard.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "departementdugar00gard.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

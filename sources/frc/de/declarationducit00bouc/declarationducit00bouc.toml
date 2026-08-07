@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "declarationducit00bouc"
+type = "pamphlet"
+title = "Déclaration du citoyen Boucher St-Sauveur, député à la Convention nationale"
+language = "fr"
+place = "Paris"
+date = "1793"
+note = "Caption title. Dated: A Paris. Ce 23 brumaire 1793. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."
+url = "https://archive.org/details/declarationducit00bouc"
+subject = [
+    "Rutledge, Jean Jacques, 1742-1794",
+    "Club des Cordeliers",
+]
+extent = "4 p. ; 25 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 26531"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9b61qn1h"
+internet_archive = "declarationducit00bouc"
+openlibrary_edition = "OL26228810M"
+openlibrary_work = "OL17623879W"
+
+[scan]
+file = "declarationducit00bouc.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/declarationducit00bouc"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Boucher de Saint Sauveur, Antoine,1723-1805"
+role = "author"
+
+[[resp]]
+name = "Boucher de Saint Sauveur, Antoine, 1723-1805"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Mayer & compagnie, rue Saint-Martin, no. 219, au coin de celle Venise"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_862646"
+
+[[text]]
+file = "declarationducit00bouc.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "declarationducit00bouc.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "declarationducit00bouc.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "declarationducit00bouc.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

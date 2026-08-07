@@ -1,0 +1,88 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discoursprononce00cond"
+type = "pamphlet"
+title = "Discours prononcé à l'Assemblée nationale, par M. de Condorcet, au nom de l'Académie des sciences, à la séance du 12 juin 1790."
+language = "fr"
+place = "Paris"
+date = "1790"
+note = """Caption title. Imprint from colophon. "Pr. Verb. No. 317"--Bottom of p. [1]. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  I, 8081. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, stained pages and cover. Title on cover page."""
+url = "https://archive.org/details/discoursprononce00cond"
+subject = [
+    "Académie des sciences (France)",
+    "Natural law",
+    "Equality before the law",
+]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 16502"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6n064h9b"
+internet_archive = "discoursprononce00cond"
+openlibrary_edition = "OL26198188M"
+openlibrary_work = "OL17594902W"
+
+[scan]
+file = "discoursprononce00cond.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/discoursprononce00cond"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Condorcet, Jean-Antoine-Nicolas de Caritat, marquis de, 1743-1794"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "Académie des sciences (France)"
+role = "author"
+
+[[resp]]
+name = "Baudouin, François-Jean, 1759-1838"
+role = "publisher"
+
+[[resp]]
+name = "Chez Baudouin, imprimeur de l'Assemblée nationale, rue du Foin-S. Jacques, no. 31"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_834247"
+
+[[text]]
+file = "discoursprononce00cond.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00cond.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00cond.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00cond.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,67 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "dialoguededeuxfr00unse"
+type = "pamphlet"
+title = "Dialogue de deux Français : l'un aristocrate, & l'autre neutre quoique défendant avec force le droit de l'homme ; [motto: 1 line]"
+language = "fr"
+place = "s.l."
+date = "1790"
+note = "Caption title. Without imprint. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found. Title and cover pages combined."
+url = "https://archive.org/details/dialoguededeuxfr00unse"
+extent = "4 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 3085"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4pk5f46x"
+internet_archive = "dialoguededeuxfr00unse"
+openlibrary_edition = "OL26209171M"
+openlibrary_work = "OL17605423W"
+
+[scan]
+file = "dialoguededeuxfr00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/dialoguededeuxfr00unse"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_50170"
+
+[[text]]
+file = "dialoguededeuxfr00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dialoguededeuxfr00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dialoguededeuxfr00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dialoguededeuxfr00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

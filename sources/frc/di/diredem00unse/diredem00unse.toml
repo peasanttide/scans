@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "diredem00unse"
+type = "pamphlet"
+title = "Dire de M. de Montlausier, député d'Auvergne, sur l'organisation provisoire du pouvoir exécutif, le 23 février 1790."
+language = "fr"
+place = "France?"
+date = "1790"
+note = "Caption title. Variant of Martin & Walter. Révolution française, III, 25042. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover."
+url = "https://archive.org/details/diredem00unse"
+subject = ["Monarchy"]
+extent = "4 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 22815"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3sv2t852"
+internet_archive = "diredem00unse"
+openlibrary_edition = "OL26236320M"
+openlibrary_work = "OL17630859W"
+
+[scan]
+file = "diredem00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/diredem00unse"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Montlosier, François-Dominique de Reynaud, comte de, 1755-1838"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_846884"
+
+[[text]]
+file = "diredem00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "diredem00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "diredem00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "diredem00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

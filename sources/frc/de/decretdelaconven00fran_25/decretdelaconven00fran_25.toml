@@ -1,0 +1,87 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "decretdelaconven00fran_25"
+type = "pamphlet"
+title = "Décret de la Convention nationale, relatif au paiement des contributions publiques de 1791 et 1792 et autres antérieures, et à la liquidation de la dette arriérée : du 17 juillet 1793, l'an second de la République française"
+language = "fr"
+place = "A Paris"
+date = "1793"
+note = "Caption title. At right of title: No. 1230. Signed: Deforgues; countersigned: Gohier. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No title page found. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/decretdelaconven00fran_25"
+subject = [
+    "Taxation",
+    "Debts, Public",
+]
+extent = "4 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9676 no. 31"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4fn6923t"
+internet_archive = "decretdelaconven00fran_25"
+openlibrary_edition = "OL26221843M"
+openlibrary_work = "OL17617343W"
+
+[scan]
+file = "decretdelaconven00fran_25.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/decretdelaconven00fran_25"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Deforgues, François-Louis-Michel Chemin, 1759-1840"
+role = "author"
+
+[[resp]]
+name = "Gohier, Louis-Jérôme, 1746-1830"
+role = "author"
+
+[[resp]]
+name = "Prault, Louis-François, 1734-1806"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie de Praut, au Palais"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_853698"
+
+[[text]]
+file = "decretdelaconven00fran_25.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelaconven00fran_25.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelaconven00fran_25.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelaconven00fran_25.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

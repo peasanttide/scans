@@ -1,0 +1,92 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "decretdelaconven00fra_bvi"
+type = "pamphlet"
+title = "Décret de la Convention nationale, du 13e. jour de prairial, an second de la République française, une & indivisible, sur la formation de l'École de Mars dans la plaine des Sablons près Paris"
+language = "fr"
+place = "A Paris"
+date = "1794"
+note = "Caption title. At right of title: No. 2386. Signed: Bréard, ex-président; Carrier & Francastel, secrétaires. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages. No title page found. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/decretdelaconven00fra_bvi"
+subject = [
+    "École de Mars",
+    "Military education",
+    "Students",
+]
+extent = "4 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10334 no. 91"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2x39x64z"
+internet_archive = "decretdelaconven00fra_bvi"
+openlibrary_edition = "OL26225021M"
+openlibrary_work = "OL17620347W"
+
+[scan]
+file = "decretdelaconven00fra_bvi.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/decretdelaconven00fra_bvi"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Bréard, Jean Jacques, 1750-1840"
+role = "author"
+
+[[resp]]
+name = "Carrier, Jean-Baptiste, 1756-1794"
+role = "author"
+
+[[resp]]
+name = "Francastel, Marie-Pierre-Adrien, 1761-1831"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale du Louvre"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_851986"
+
+[[text]]
+file = "decretdelaconven00fra_bvi.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelaconven00fra_bvi.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelaconven00fra_bvi.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelaconven00fra_bvi.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

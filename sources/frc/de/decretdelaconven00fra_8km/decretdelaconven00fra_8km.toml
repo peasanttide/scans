@@ -1,0 +1,85 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "decretdelaconven00fra_8km"
+type = "pamphlet"
+title = "Décret de la Convention nationale, du 16e. jour de germinal, an second de la République française, une et indivisible, relatif aux comptes à rendre par les receveurs des consignations et les commissaires aux saisies-réelles"
+language = "fr"
+place = "Paris"
+date = "1794"
+note = "Caption title. At right of title: No. 2292. Signed: Buchot, président par interim; countersigned: Gohier. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/decretdelaconven00fra_8km"
+subject = [
+    "Land tenure",
+    "Finance, Public",
+]
+extent = "3 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 28144"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3pw1mx8k"
+internet_archive = "decretdelaconven00fra_8km"
+
+[scan]
+file = "decretdelaconven00fra_8km.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/decretdelaconven00fra_8km"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Buchot, Philibert, 1748-1813"
+role = "author"
+
+[[resp]]
+name = "Gohier, Louis-Jérôme, 1746-1830"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_851957"
+
+[[text]]
+file = "decretdelaconven00fra_8km.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelaconven00fra_8km.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelaconven00fra_8km.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelaconven00fra_8km.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

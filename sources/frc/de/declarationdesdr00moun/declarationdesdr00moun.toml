@@ -1,0 +1,81 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "declarationdesdr00moun"
+type = "pamphlet"
+title = "Déclaration des droits de l'homme et du citoyen /"
+language = "fr"
+place = "A Versailles"
+date = "1789"
+note = "Caption title. Imprint from colophon. Suggested date of publication based on another edition, published in 1789. Cf. Saricks. Martin & Walter. Révolution française. Variant of Saricks, A. Melvin Coll., I, 4160. Bibliography: Martin & Walter.  Révolution française,  III, 25397. Scanner's note: No copyright page found. No table-of-contents pages found.   Title page is on the cover. Damaged, stained, and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/declarationdesdr00moun"
+subject = [
+    "France",
+    "Constitutional law",
+]
+extent = "4 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 23002"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6rz4h35d"
+internet_archive = "declarationdesdr00moun"
+
+[scan]
+file = "declarationdesdr00moun.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/declarationdesdr00moun"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Mounier, Jean Joseph, 1758-1806"
+role = "author"
+
+[[resp]]
+name = "Baudouin, François-Jean, 1759-1838"
+role = "publisher"
+
+[[resp]]
+name = "France. Déclaration des droits de l'homme et du citoyen"
+role = "author"
+
+[[resp]]
+name = "Chez Baudouin, imprimeur de l'Assemblée nationale, avenue de St.-Cloud, no. 69"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_847191"
+
+[[text]]
+file = "declarationdesdr00moun.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "declarationdesdr00moun.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "declarationdesdr00moun.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "declarationdesdr00moun.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

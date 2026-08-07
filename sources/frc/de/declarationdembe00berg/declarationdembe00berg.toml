@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "declarationdembe00berg"
+type = "pamphlet"
+title = "Déclaration de M. Bergasse, député de la sénéchaussé de Lyon, à l'Assemblée nationale, au sujet d'un article inséré dans le journal Patriote de M. Brissot de Warville."
+language = "fr"
+place = "France"
+date = "1790"
+note = 'Caption title. "Paris, ce 4 octobre 1790"--P. 4. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  I, 2663.'
+url = "https://archive.org/details/declarationdembe00berg"
+subject = ["Conspiracies"]
+extent = "4 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 14456"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t08w81t1x"
+internet_archive = "declarationdembe00berg"
+openlibrary_edition = "OL25911106M"
+openlibrary_work = "OL17334759W"
+
+[scan]
+file = "declarationdembe00berg.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/declarationdembe00berg"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Bergasse, Nicolas, 1750-1832"
+role = "author"
+
+[[resp]]
+name = "Brissot de Warville, J.-P. (Jacques-Pierre), 1754-1793. Patriote françois"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_830143"
+
+[[text]]
+file = "declarationdembe00berg.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "declarationdembe00berg.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "declarationdembe00berg.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "declarationdembe00berg.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

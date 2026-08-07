@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "dlibration00renn"
+type = "pamphlet"
+title = "Délibération /"
+language = "fr"
+place = "s.l."
+date = "1788"
+note = "Caption title. Without imprint. Dated at end: ... le 25 octobre 1788 .. Not in Martin & Walter. Scanner's note: No title page found. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/dlibration00renn"
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 7771"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3jx3fn3c"
+internet_archive = "dlibration00renn"
+openlibrary_edition = "OL26216244M"
+openlibrary_work = "OL17612114W"
+
+[scan]
+file = "dlibration00renn.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/dlibration00renn"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Rennes (France)"
+role = "author"
+
+[[resp]]
+name = "Rennes (France). Noblesse"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_64069"
+
+[[text]]
+file = "dlibration00renn.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dlibration00renn.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dlibration00renn.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dlibration00renn.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,84 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discours00unse_92"
+type = "pamphlet"
+title = "Discours de M. de Necker & de M. le duc de Liancourt."
+language = "fr"
+place = "France"
+date = "1789"
+note = """Caption title. Also published under title: Discours de M. Necker à l'Assemblée nationale, le 29 juillet 1789. Not in Martin & Walter. Révolution française. Variant of BM, CLXIX, column 372. "Discours de M. Necker, & qu'il a prononcé dans l'Assemblée nationale"--P. 2-3. "Réponse de M. le duc de Liancourt, président de l'Assemblée nationale"--P. 3-4. Scanner's note: No copyright page found. No table-of-contents pages found. Title page is on the cover. Damaged, stained, and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/discours00unse_92"
+subject = ["Necker, Jacques, 1732-1804"]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 23135"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9x11b822"
+internet_archive = "discours00unse_92"
+openlibrary_edition = "OL26237050M"
+openlibrary_work = "OL17631604W"
+
+[scan]
+file = "discours00unse_92.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/discours00unse_92"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Necker, Jacques, 1732-1804"
+role = "author"
+
+[[resp]]
+name = "Necker, Jacques, 1732-1804. Discours de M. Necker à l'Assemblée nationale, le 29 juillet 1789"
+role = "author"
+
+[[resp]]
+name = "La Rochefoucauld-Liancourt, François-Alexandre-Frédéric, duc de, 1747-1827"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_847549"
+
+[[text]]
+file = "discours00unse_92.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discours00unse_92.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discours00unse_92.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discours00unse_92.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

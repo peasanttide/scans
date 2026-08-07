@@ -1,0 +1,90 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "decretconvent00unse_57"
+type = "pamphlet"
+title = "Décret de la Convention nationale, du 22 mars 1793, l'an second de la République françoise, relatif aux professeurs & aux élèves-pensionnaires-boursiers qui se rendront aux frontières pour la défense de la patrie"
+language = "fr"
+place = "A Paris"
+date = "1793"
+note = """
+Caption title. At right of title: No. 622. Signed: Lebrun; countersigned: Gohier. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover. 
+Only one numbered page."""
+url = "https://archive.org/details/decretconvent00unse_57"
+subject = [
+    "Teachers",
+    "Students",
+    "Student aid",
+]
+extent = "2 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10330 no. 32"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t89h0s90h"
+internet_archive = "decretconvent00unse_57"
+openlibrary_edition = "OL26225166M"
+openlibrary_work = "OL17620491W"
+
+[scan]
+file = "decretconvent00unse_57.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/decretconvent00unse_57"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Lebrun, Charles-François, duc de Plaisance, 1739-1824"
+role = "author"
+
+[[resp]]
+name = "Gohier, Louis-Jérôme, 1746-1830"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du nationale exécutive du Louvre"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_852507"
+
+[[text]]
+file = "decretconvent00unse_57.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretconvent00unse_57.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretconvent00unse_57.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretconvent00unse_57.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

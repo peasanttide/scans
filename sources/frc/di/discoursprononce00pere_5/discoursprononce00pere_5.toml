@@ -1,0 +1,87 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discoursprononce00pere_5"
+type = "pamphlet"
+title = "Discours prononcé par Pérès (de la Haute-Garonne), sur la nouvelle victoire de l'armée d'Italie : séance du 6 pluviôse an 5."
+language = "fr"
+place = "Paris"
+date = "1797"
+note = """Caption title. At head of title: Corps législatif. Conseil des cinq-cents. Imprint from colophon. Martin & Walter. Révolution française. "Message. Extrait du registre des délibérations du Directoire exécutif, du 6 pluviôse, l'an V de la République française, une et indivisible"--P. 2-3; signed: P. Barras. Bibliography: Martin & Walter.  Révolution française,  III,  26818. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover."""
+url = "https://archive.org/details/discoursprononce00pere_5"
+subject = [
+    "France. Armée. Armée d'Italie",
+    "First Coalition, War of the, 1792-1797",
+]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 23513"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5n92gm2r"
+internet_archive = "discoursprononce00pere_5"
+openlibrary_edition = "OL26236988M"
+openlibrary_work = "OL17631542W"
+
+[scan]
+file = "discoursprononce00pere_5.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/discoursprononce00pere_5"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Pérès de Lagesse, Emmanuel, Baron, 1752-1833"
+role = "author"
+
+[[resp]]
+name = "Barras, Paul, vicomte de, 1755-1829"
+role = "author"
+
+[[resp]]
+name = "France. Corps législatif (1795-1814). Conseil des cinq-cents"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_847929"
+
+[[text]]
+file = "discoursprononce00pere_5.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00pere_5.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00pere_5.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00pere_5.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

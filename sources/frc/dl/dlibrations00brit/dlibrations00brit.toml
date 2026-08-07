@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "dlibrations00brit"
+type = "pamphlet"
+title = "Délibérations"
+language = "fr"
+place = "A Saint-Brieuc"
+date = "1789"
+note = "Caption title. Imprint from colophon. Martin & Walter IV 2: 2827. Scanner's note: No title page found. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/dlibrations00brit"
+extent = "[3] p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9492"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t51g5t727"
+internet_archive = "dlibrations00brit"
+openlibrary_edition = "OL26221904M"
+openlibrary_work = "OL17617404W"
+
+[scan]
+file = "dlibrations00brit.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/dlibrations00brit"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Brittany (France). Clergé"
+role = "author"
+
+[[resp]]
+name = "Brittany (France). Clergé"
+role = "author"
+
+[[resp]]
+name = "Brittany (France). Noblesse"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de L. J. Prud'homme"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_67580"
+
+[[text]]
+file = "dlibrations00brit.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dlibrations00brit.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dlibrations00brit.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dlibrations00brit.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

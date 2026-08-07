@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discoursprononce00lema_1"
+type = "pamphlet"
+title = "Discours prononcé par M. Le Marcis, procureur-général-syndic du département du Loiret, a l'ouverture de l'Assemblée nationale."
+language = "fr"
+place = "A Orléans"
+date = "1791"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover."
+url = "https://archive.org/details/discoursprononce00lema_1"
+subject = ["Nominations for office"]
+extent = "4 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 21154"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6wx2n81h"
+internet_archive = "discoursprononce00lema_1"
+openlibrary_edition = "OL26239234M"
+openlibrary_work = "OL17633785W"
+
+[scan]
+file = "discoursprononce00lema_1.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/discoursprononce00lema_1"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Lemarcis, procureur-général-syndic"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale législative (1791-1792)"
+role = "author"
+
+[[resp]]
+name = "Chez Jacob l'aîné, imprimerie du département"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_844191"
+
+[[text]]
+file = "discoursprononce00lema_1.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00lema_1.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00lema_1.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00lema_1.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

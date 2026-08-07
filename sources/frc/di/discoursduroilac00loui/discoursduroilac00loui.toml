@@ -1,0 +1,87 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discoursduroilac00loui"
+type = "pamphlet"
+title = "Discours du roi a la clôture de l'Assemblée nationale constituante."
+language = "fr"
+place = "Paris?"
+date = "1791"
+note = """Caption title. Imprint from colophon. "Tiré du Logographe, journal national qui se trouve chez Le Hodey, rue des Bons-Enfans, no. 42"--P. 4. Martin & Walter. Révolution française. "Réponse de M. le président"--P. 3-4. Bibliography: Martin & Walter.  Révolution française,  III, 21781. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/discoursduroilac00loui"
+subject = [
+    "France",
+    "France. Assemblée nationale constituante (1789-1791)",
+]
+extent = "4 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 21583"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6062t48v"
+internet_archive = "discoursduroilac00loui"
+openlibrary_edition = "OL26239644M"
+openlibrary_work = "OL17634184W"
+
+[scan]
+file = "discoursduroilac00loui.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/discoursduroilac00loui"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Louis XVI, King of France, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "Thouret, 1746-1794"
+role = "author"
+
+[[resp]]
+name = "Lehodey de Saultchevreuil, Étienne"
+role = "publisher"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Le Hodey, rue des Bons-Enfans, no. 42"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_845024"
+
+[[text]]
+file = "discoursduroilac00loui.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursduroilac00loui.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursduroilac00loui.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursduroilac00loui.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

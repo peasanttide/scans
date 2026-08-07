@@ -1,0 +1,73 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "decretdelaconven00fra_fz6"
+type = "pamphlet"
+title = "Decret de la Convention nationale, du 18e. jour du premier mois de l'an second [i.e. 9 Octobre 1793] de la République française, une & indivisible, qui permet d'extraire momentanément de la réquisition les jeunes citoyens des campagnes jugés nécessaires à l'ensemencement des terres; & retient à leur poste les imprimeurs & les ouvriers nécessaires à la fabrication ou au racommodage des armes"
+language = "fr"
+place = "A Auxerre"
+date = "1793"
+note = "Caption title. Imprint at foot of p. 4. At upper right on p. [1]: No. 1677. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Title page and cover are combined."
+url = "https://archive.org/details/decretdelaconven00fra_fz6"
+subject = [
+    "Forced labor",
+    "Weapons industry",
+    "Printers",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 11 no. 34"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4hn0x966"
+internet_archive = "decretdelaconven00fra_fz6"
+
+[scan]
+file = "decretdelaconven00fra_fz6.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/decretdelaconven00fra_fz6"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Convention nationale"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de L. Fournier"
+role = "publisher"
+
+[[text]]
+file = "decretdelaconven00fra_fz6.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelaconven00fra_fz6.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelaconven00fra_fz6.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelaconven00fra_fz6.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,107 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discoursprononce00manu"
+type = "pamphlet"
+title = "Discours prononcé par P. Manuel, procureur de la commune de Paris, à la barre de l'Assemblée nationale : le 16 juillet 1792, l'an 4e. de la liberté."
+language = "fr"
+place = "Paris"
+date = "1792"
+note = """Caption title. Imprint from colophon. "Administration no. 60"--Bottom of p. [1]. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  III, 22834. Scanner's note: No title page found. No copyright page found. No table-of-contents pages found. Damaged pages."""
+url = "https://archive.org/details/discoursprononce00manu"
+subject = [
+    "Mobs",
+    "Justification (Law)",
+]
+extent = "7 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 12512"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5gb6tt6t"
+internet_archive = "discoursprononce00manu"
+openlibrary_edition = "OL25928689M"
+openlibrary_work = "OL17351154W"
+
+[scan]
+file = "discoursprononce00manu.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/discoursprononce00manu"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Manuel, Louis-Pierre, 1751-1793"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale législative (1791-1792)"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_826742"
+
+[[text]]
+file = "discoursprononce00manu.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00manu.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00manu.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00manu.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00manu.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00manu.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00manu.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00manu.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

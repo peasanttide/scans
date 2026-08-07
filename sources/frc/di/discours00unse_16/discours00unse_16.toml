@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discours00unse_16"
+type = "pamphlet"
+title = "Discours du roi, a l'Assemblée des notables, tenue à Versailles, le 22 février 1787."
+language = "fr"
+place = "A Versailles"
+date = "1787"
+note = "Caption title. Imprint from colophon. Martin & Walter. Révolution française. Saricks, A. Melvin Coll. Bibliography: Martin & Walter.  Révolution française,  III, 21734. Scanner's note: No copyright page found. No table-of-contents pages found. Title page and cover are combined. Damaged, stained and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/discours00unse_16"
+subject = ["Fiscal policy"]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 21505"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3kx0nn0k"
+internet_archive = "discours00unse_16"
+openlibrary_edition = "OL26239712M"
+openlibrary_work = "OL17634252W"
+
+[scan]
+file = "discours00unse_16.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/discours00unse_16"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Louis XVI, King of France, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "Pierres, Philippe-Denis, 1741-1808"
+role = "publisher"
+
+[[resp]]
+name = "France. Assemblée des notables (1787-1788)"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Ph.-D. Pierres, premier imprimeur ordinaire de Sa Majesté"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_844739"
+
+[[text]]
+file = "discours00unse_16.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discours00unse_16.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discours00unse_16.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discours00unse_16.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

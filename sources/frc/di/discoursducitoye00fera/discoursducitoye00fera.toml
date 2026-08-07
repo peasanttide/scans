@@ -1,0 +1,70 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discoursducitoye00fera"
+type = "pamphlet"
+title = "Discours du citoyen Fera, président de l'ancienne administration du département du Loiret, aux nouveaux administrateurs entrant en fonctions."
+language = "fr"
+place = "A Orleans"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: Title page located on front cover. No copyright page found. No table-of-contents pages found. Worn, damaged and discolored pages and cover. Skewed text."
+url = "https://archive.org/details/discoursducitoye00fera"
+extent = "3 p. ; 18 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 18564"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2n63jn31"
+internet_archive = "discoursducitoye00fera"
+openlibrary_edition = "OL26202045M"
+openlibrary_work = "OL17598565W"
+
+[scan]
+file = "discoursducitoye00fera.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/discoursducitoye00fera"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Fera"
+role = "author"
+
+[[resp]]
+name = "Chez Jacob l'aîné, imprimerie du département, rue de l'Ecrivinerie"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_839031"
+
+[[text]]
+file = "discoursducitoye00fera.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursducitoye00fera.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursducitoye00fera.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursducitoye00fera.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

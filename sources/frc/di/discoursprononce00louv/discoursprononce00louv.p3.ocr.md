@@ -1,0 +1,54 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: discoursprononce00louv
+page: 3
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 3002
+h: 5036
+dpi: 500
+---
+
+(' 3 >’ '
+
+et par d’épouvantables rugissemens , on s’exerce ,
+on se pousse , on se rend habile à tous ies excès.
+L’heure suprême de la grande commune est sonnée ;
+ses destructeurs s’ébranlent , ils vont partir ; mais
+d’abord on s’ouvre , et de ses flancs ensanglantés
+le monstre du terrorisme vomit son avant- garfle.
+
+Elle marche , elle avance , elle accourt ; dans
+sa longue route elle s’est grossie de tout ce que
+la crédulité simple , l’aveugle confiance , la curio-
+sité présomptueuse et la peur imprudente ont pu
+lui fournir de plus imbécilles recrues. Déjà les
+postes extérieurs sont forcés , 'ces portes reten-
+tissent des coups de la hache, elles tombent brisées.
+A la tête de quelques braves , Fcnmd se précipite,
+et quel -spectacle a frappé ses yeux ! c’ést la déraison,
+l’imposture, la colère, l’impudeur, l’impudence;
+ce sont les ven.o-eances , les haines , les viles 'im-
+précations , les • malédictions féroces , toutes ies
+passions hideuses , toutes les fureurs , toutes les
+furies. Par-tout la faim s’agite et crie ; et sur tous ces
+visages bourgeonnés d’ivresse , on ne découvre
+que la débauche gorgée de viandes et de vin.
+Pourtant c’est encore du nom de femmes que tout
+cela se qualifie ! et tout cela se dit insolemment le
+peuple ! Quand donc le vrai peuple et les femmes
+dignes dé ce nom vengeronî-ils leur injure l quand
+reprendront-ils leur titre si indignement prostitué l
+
+Trois fois les flots de cette multitude entraînent
+nos défenseurs , dont le glaive brille et ne frappe
+pas. Quelque dépravée que soit cette image d’un
+sexe ordinairement innocent, bienveiliaift et doux,
+vos défenseurs la respectent encore. Trois, fois
+pourtant notre collègue revient sur la foule et la
+force à rétrograder.
+
+Vains succès! une bande nouvelle est arrivée;
+le fer la couvre , la terreur la précède , la mort
+
+A' a.

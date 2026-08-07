@@ -1,0 +1,69 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "duregistreauxcau00boul"
+type = "pamphlet"
+title = "Du registre aux causes de la sénéchaussée du Boulonnois, a été extrait ce qui suit"
+language = "fr"
+place = "A Boulogne"
+date = "1754"
+note = "Caption title. Imprint at foot of p. 4. Condemns Instruction familière sur la soumission dûe à la Constitution Unigenitus, by C.I. Castel, abbé de Saint-Pierre. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Title page and cover are combined."
+url = "https://archive.org/details/duregistreauxcau00boul"
+subject = ["Censorship"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 6 no. 31"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2d84z08s"
+internet_archive = "duregistreauxcau00boul"
+
+[scan]
+file = "duregistreauxcau00boul.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/duregistreauxcau00boul"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Boulogne-sur-Mer (France)"
+role = "author"
+
+[[resp]]
+name = "Saint-Pierre, Charles Irénée Castel de, 1658-1743"
+role = "author"
+
+[[resp]]
+name = "Chez Charles Battut"
+role = "publisher"
+
+[[text]]
+file = "duregistreauxcau00boul.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "duregistreauxcau00boul.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "duregistreauxcau00boul.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "duregistreauxcau00boul.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discoursdemdumou00dumo"
+type = "pamphlet"
+title = "Discours de M. Dumourier, ministre des affaires etrangères : prononcé à la tribune de la Société des amis de la constitution, séante aux Jacobins Saint-Honoré, le 19 mars 1792, l'an 4e de la liberté."
+language = "fr"
+place = "Paris"
+date = "1792"
+note = """Caption title. Imprint from colophon. Martin & Walter. Révolution française. "Errata de la liste des membres de l'Assemblée nationale dont la Société des amis de la constitution, dans sa séance du 26 février, a arrêté l'impression et l'envoi aux sociétés affiliées"--P. [3]. Bibliography: Martin & Walter.  Révolution française,  II, 11963. Scanner's note: No copyright page found. No table-of-contents pages found. Skewed text. Title page and cover are combined. No page numbers."""
+url = "https://archive.org/details/discoursdemdumou00dumo"
+subject = [
+    "Dumouriez, Charles François Du Périer, 1739-1823",
+    "France. Assemblée nationale législative (1791-1792)",
+    "Nominations for office",
+]
+extent = "[3] p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 17937"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6rz47q74"
+internet_archive = "discoursdemdumou00dumo"
+openlibrary_edition = "OL26196289M"
+openlibrary_work = "OL17593050W"
+
+[scan]
+file = "discoursdemdumou00dumo.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/discoursdemdumou00dumo"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Dumouriez, Charles François Du Périer, 1739-1823"
+role = "author"
+
+[[resp]]
+name = "Club des Jacobins"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie du Patriote françois, place du Théâtre Italien, no. 3"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_837206"
+
+[[text]]
+file = "discoursdemdumou00dumo.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursdemdumou00dumo.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursdemdumou00dumo.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursdemdumou00dumo.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,62 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discoursprononce1798bera"
+type = "pamphlet"
+title = "Discours prononcé par Béraud (du Rhône), en présentant au Conseil un ouvrage du citoyen Barret sur les devoirs de l'instituteur dans une République séance du premier nivose an 7."
+language = "fr"
+date = "1798"
+note = "Caption title. At head of title: Corps législatif. Conseil des cinq-cents. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,I, 2565. Scanner's note: Title found on front cover. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/discoursprononce1798bera"
+subject = [
+    "Barret, N",
+    "Teachers",
+]
+extent = "2 p. ;19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "CaseFRC10708"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t12n8571z"
+internet_archive = "discoursprononce1798bera"
+openlibrary_edition = "OL25654458M"
+openlibrary_work = "OL17083963W"
+
+[scan]
+file = "discoursprononce1798bera.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/discoursprononce1798bera"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Béraud, Paul-Emilien,1751-1836"
+role = "author"
+
+[[resp]]
+name = "A Paris :De l'Imprimerie nationale,"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_824705"
+
+[[text]]
+file = "discoursprononce1798bera.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce1798bera.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"

@@ -1,0 +1,93 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "dernierereplique00lamb"
+type = "pamphlet"
+title = "Dernière réplique de l'ordonnateur A.J. Lambert : aux nouvelles injures de Hion."
+language = "fr"
+place = "France"
+date = "1798"
+note = "Martin & Walter. Révolution française. Errata, p. [2], for both this title and Mon dernier mot a Hion. Bibliography: Martin & Walter.  Révolution française,  III, 18811. Scanner's note: No title page found. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/dernierereplique00lamb"
+subject = [
+    "Lambert, Anatole Joseph, b. 1760",
+    "Hion, L. N",
+    "France. Armée",
+    "Libel and slander",
+]
+extent = "6 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 20476"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3tt9tq1k"
+internet_archive = "dernierereplique00lamb"
+openlibrary_edition = "OL26235433M"
+openlibrary_work = "OL17630018W"
+
+[scan]
+file = "dernierereplique00lamb.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/dernierereplique00lamb"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Lambert, Anatole Joseph, b. 1760"
+role = "author"
+
+[[resp]]
+name = "Lambert, Anatole Joseph, b. 1760. Mon dernier mot a Hion"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_842844"
+
+[[text]]
+file = "dernierereplique00lamb.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dernierereplique00lamb.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dernierereplique00lamb.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dernierereplique00lamb.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dernierereplique00lamb.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dernierereplique00lamb.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

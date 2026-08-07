@@ -1,0 +1,50 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: discourssurlasit00bois_7
+page: 29
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 2432
+h: 4032
+dpi: 500
+---
+
+l’anarchie et l’oppression ; que la théorie des
+soupçons peut encore devenir un code politique ,
+qu’on peut encore croire à la doctrine abominable
+des crimes nécessaires; que le gouvernement, s il
+est épouvanté lui-mémé , réclamera les secours de
+cette classe d hommes qui appellent énergie et
+patriotisme , le vol et l’assassinat ; qu ainsi , ce
+surveillés quils sont aujourdhui , ils pourront
+devenir demain surveillant , c’est-à-diie , obtenir
+le pouvoir de selancer encore sur les proies qu ils
+n ont qu à-demi dépouillées.
+
+L’arbitraire promet au royalisme, que la liberté
+deviendra moins chère aux Français, à mesure
+qu’ils jouiront moins de sa réalité ; que la libeité
+perdra chaque jour des amis parmi les hommes
+éclairés et vertueux , à mesure qu elle acquetra des
+soutiens parmi des brigands; que la tyrannie nou-
+velle qui pourrait s’établir par lui ne serait ren-
+versée que pour faire place enfin à cette royauté
+détestée , pour laquelle il ose combattre.
+
+En vous retraçant ici de si folles , de si coupa-
+bles espérances, je frémis monmeme du délire aveu-
+gle qui faitdesirer à des hommes qui peuvent vivre
+protégés par un gouvérnement dont la justice et
+la modération garantissent la durée , deîre tour-
+mentés par un gouvernement féroce qui peut être
+violemment renversé. Eh bien ! ce délire existe.
+Il est des hommes pour qui vivre sans rigueur ,
+vivre sans se venger , vivre sans en opprimer , sans
+en humilier d’autres , n’est qu un long supplice. Ah I
+qu'ils 11e connaissent que celui-là : ne leur four-
+nissons pas cette occasion quils attendent , detre
+un instant victimes , pour devenir , à leur tour ,
+oppresseurs. Comprimons-lts tous à- la fois pat iü
+justice et la sévérité.
+
+Un bon gouvernement n’est point aibitraire;

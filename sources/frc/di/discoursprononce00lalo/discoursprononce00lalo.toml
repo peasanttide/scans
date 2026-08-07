@@ -1,0 +1,83 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discoursprononce00lalo"
+type = "pamphlet"
+title = "Discours prononcé par Laloi, président du Conseil des cinq-cents : séance du 4 ventôse, an V."
+language = "fr"
+place = "A Paris"
+date = "1797"
+note = """Caption title. At head of title: Corps législatif. Conseil des cinq-cents. Imprint from colophon. Martin & Walter. Révolution française. "Discours du citoyen Ramel, commandant des grenadiers composant la garde du Corps-législatif"--P. 3-4. Bibliography: Martin & Walter.  Révolution française,  III, 18696. Scanner's note: No copyright page found. No table-of-contents pages found."""
+url = "https://archive.org/details/discoursprononce00lalo"
+subject = [
+    "Heroes",
+    "Fire extinction",
+]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 12128"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2b89xr4k"
+internet_archive = "discoursprononce00lalo"
+openlibrary_edition = "OL25914985M"
+openlibrary_work = "OL17338292W"
+
+[scan]
+file = "discoursprononce00lalo.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/discoursprononce00lalo"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Laloy, Pierre Antoine, 1749-1846"
+role = "author"
+
+[[resp]]
+name = "France. Corps législatif (1795-1814). Conseil des cinq-cents"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_825951"
+
+[[text]]
+file = "discoursprononce00lalo.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00lalo.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00lalo.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00lalo.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

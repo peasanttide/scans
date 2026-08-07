@@ -1,0 +1,95 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "decretdelaconven00fra_zxq"
+type = "pamphlet"
+title = "Décret de la Convention nationale, du 12e. jour de prairial, an second de la République française, une & indivisible, relatif à la liquidation des frais de transport de la guillotine"
+language = "fr"
+place = "A Paris"
+date = "1794"
+note = """
+Caption title. At right of title: No. 2385. Signed: Voulland, ex-président; Briez & Carrier, secrétaires. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover. 
+No page numbers."""
+url = "https://archive.org/details/decretdelaconven00fra_zxq"
+subject = [
+    "Guillotine",
+    "Prisoners",
+    "Executions and executioners",
+    "Finance, Public",
+]
+extent = "[1] p. ; 28 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10334 no. 90"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2c87dw94"
+internet_archive = "decretdelaconven00fra_zxq"
+openlibrary_edition = "OL26225085M"
+openlibrary_work = "OL17620410W"
+
+[scan]
+file = "decretdelaconven00fra_zxq.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/decretdelaconven00fra_zxq"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Voulland, Jean-Henri, 1751-1801"
+role = "author"
+
+[[resp]]
+name = "Carrier, Jean-Baptiste, 1756-1794"
+role = "author"
+
+[[resp]]
+name = "Briez, Philippe-Constant-Joseph, 1759-1795"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale du Louvre"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_851985"
+
+[[text]]
+file = "decretdelaconven00fra_zxq.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelaconven00fra_zxq.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelaconven00fra_zxq.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelaconven00fra_zxq.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

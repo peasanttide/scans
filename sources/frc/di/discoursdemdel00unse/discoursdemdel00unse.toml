@@ -1,0 +1,87 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discoursdemdel00unse"
+type = "pamphlet"
+title = "Discours de M. de Lally-Tolendal, prononcé à l'Hôtel-de-ville de Paris le 15 juillet, & qu'il a répété à l'Assemblée nationale à la séance du 16."
+language = "fr"
+place = "A Paris"
+date = "1789"
+note = """Caption title. Imprint from colophon. "Sur la visite du roi à l'Hôtel de ville"--Tourneux. Martin & Walter. Révolution française. Tourneux, M. Paris pendant la Révolution française. Bibliography: Martin & Walter.  Révolution française,  III, 18664. Scanner's note: No title page found. No copyright page found. No table-of-contents pages found."""
+url = "https://archive.org/details/discoursdemdel00unse"
+subject = [
+    "Louis XVI, King of France, 1754-1793",
+    "France. Assemblée nationale constituante (1789-1791)",
+]
+extent = "3 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 20421"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t82k1nf7x"
+internet_archive = "discoursdemdel00unse"
+openlibrary_edition = "OL26235096M"
+openlibrary_work = "OL17629678W"
+
+[scan]
+file = "discoursdemdel00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/discoursdemdel00unse"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Lally-Tolendal, Trophime-Gérard, marquis de, 1751-1830"
+role = "author"
+
+[[resp]]
+name = "Baudouin, François-Jean, 1759-1838"
+role = "publisher"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "Hôtel de ville (Paris, France)"
+role = "author"
+
+[[resp]]
+name = "Chez Baudouin, imprimeur de l'Assemblée nationale, rue du Foin Saint-Jacques, no. 31"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_842823"
+
+[[text]]
+file = "discoursdemdel00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursdemdel00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursdemdel00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursdemdel00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

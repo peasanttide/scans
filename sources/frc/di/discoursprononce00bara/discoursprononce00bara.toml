@@ -1,0 +1,90 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discoursprononce00bara"
+type = "pamphlet"
+title = "Discours prononcé par Bara (des Ardennes), sur le départ des conscrits du même département : séance du 26 frimaire an 7."
+language = "fr"
+place = "A Paris"
+date = "1798"
+note = """Caption title. At head of title: Corps législatif. Conseil des cinq-cents. Imprint from colophon. Martin & Walter. Révolution française. "Les administrateurs & le commissaire du Directoire exécutif près l'administration centrale du département des Ardennes, aux représentans du peuple du même département au Conseil des cinq-cents"--P. 3-4. Bibliography: Martin & Walter.  Révolution française,  I, 1332. Scanner's note: No copyright page found. No table-of-contents pages found.   Skewed text."""
+url = "https://archive.org/details/discoursprononce00bara"
+subject = ["Draft"]
+extent = "6 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 13859"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9r25jj3x"
+internet_archive = "discoursprononce00bara"
+
+[scan]
+file = "discoursprononce00bara.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/discoursprononce00bara"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Bara, Jean-Baptiste, 1761-1824"
+role = "author"
+
+[[resp]]
+name = "France. Corps législatif (1795-1814). Conseil des cinq-cents"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_829117"
+
+[[text]]
+file = "discoursprononce00bara.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00bara.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00bara.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00bara.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00bara.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00bara.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

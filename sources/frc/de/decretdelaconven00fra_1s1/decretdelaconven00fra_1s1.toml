@@ -1,0 +1,85 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "decretdelaconven00fra_1s1"
+type = "pamphlet"
+title = "Décret de la Convention nationale, du 16 avril 1793, l'an second de la République françoise, qui ordonne l'interrogatoire des individus de la famille des Bourbons, & le séquestre des biens de celle des Bourbons-Orléans"
+language = "fr"
+place = "A Paris"
+date = "1793"
+note = "Caption title. At right of title: No. 766. Signed: Dalbarade; countersigned: Gohier. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."
+url = "https://archive.org/details/decretdelaconven00fra_1s1"
+subject = [
+    "Bourbon, House of",
+    "Orléans, House of",
+]
+extent = "3 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 28192"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t21c74h5w"
+internet_archive = "decretdelaconven00fra_1s1"
+
+[scan]
+file = "decretdelaconven00fra_1s1.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/decretdelaconven00fra_1s1"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Albarade, Jean d', 1743-1819"
+role = "author"
+
+[[resp]]
+name = "Gohier, Louis-Jérôme, 1746-1830"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale exécutive du Louvre"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_852539"
+
+[[text]]
+file = "decretdelaconven00fra_1s1.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelaconven00fra_1s1.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelaconven00fra_1s1.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelaconven00fra_1s1.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

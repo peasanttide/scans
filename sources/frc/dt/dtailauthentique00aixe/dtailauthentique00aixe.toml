@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "dtailauthentique00aixe"
+type = "pamphlet"
+title = "Détail authentique et circonstancié de l'infame complot qu'on avoit commenée [i.e. commencée] à exécuter à Aix en Provence. Événemens qui l'ont suivi. Noms, surnoms, qualités de trois principaux conspirateurs qu'on a exécutés. Tête d'un avocat portée en triomphe par la Garde nationale de Marseille."
+language = "fr"
+place = "s.l."
+date = "1790"
+note = "Caption title. Without imprint. Dated and signed at end: Permis d'imprimer et distribuer. A Vienne, ce 10 décembre 1790. Piot. Anti-royalist demonstrations at Aix-en-Provence, December 1790. Not in Martin & Walter. Scanner's note: No copyright. No table of contents. Title on cover. Damaged, stained pages and cover."
+url = "https://archive.org/details/dtailauthentique00aixe"
+subject = [
+    "Riots",
+    "Royalists",
+]
+extent = "4 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 3003"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8md3zv33"
+internet_archive = "dtailauthentique00aixe"
+openlibrary_edition = "OL26209183M"
+openlibrary_work = "OL17605435W"
+
+[scan]
+file = "dtailauthentique00aixe.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/dtailauthentique00aixe"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Aix-en-Provence (France)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_47752"
+
+[[text]]
+file = "dtailauthentique00aixe.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dtailauthentique00aixe.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dtailauthentique00aixe.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dtailauthentique00aixe.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

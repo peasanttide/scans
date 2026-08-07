@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discoursducithil00hila"
+type = "pamphlet"
+title = "Discours du cit. Hilaire, commissaire du Directoire exécutif près l'administration centrale du département de l'Isere, prononcé à la fête du 15 floréal, an 5 : concernant la paix avec l'empereur."
+language = "fr"
+place = "Grenoble?"
+date = "1797"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged pages and cover. No page numbers."
+url = "https://archive.org/details/discoursducithil00hila"
+subject = ["First Coalition, War of the, 1792-1797"]
+extent = "[4] p. ; 18 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 19731"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t84j5hm0x"
+internet_archive = "discoursducithil00hila"
+openlibrary_edition = "OL26203217M"
+openlibrary_work = "OL17599677W"
+
+[scan]
+file = "discoursducithil00hila.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/discoursducithil00hila"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Hilaire"
+role = "author"
+
+[[resp]]
+name = "Chez Ferry & Duclaud, près le pont de bois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_841178"
+
+[[text]]
+file = "discoursducithil00hila.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursducithil00hila.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursducithil00hila.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursducithil00hila.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

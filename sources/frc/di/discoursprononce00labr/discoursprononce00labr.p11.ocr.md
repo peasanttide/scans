@@ -1,0 +1,38 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: discoursprononce00labr
+page: 11
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 2581
+h: 4010
+dpi: 500
+---
+
+jfr
+
+r ' æ
+
+«
+
+I
+
+n , -
+
+S'
+
+■
+
+.
+
+.
+
+'
+
+' 'i, V. . I- ■•j «H
+
+KfoR • VU
+
+:
+
+■

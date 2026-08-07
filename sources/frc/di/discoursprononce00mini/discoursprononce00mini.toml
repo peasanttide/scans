@@ -1,0 +1,78 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discoursprononce00mini"
+type = "pamphlet"
+title = "Discours prononcé le 30 septembre 1788, par Me. Minier, avocat au Parlement, à l'ouverture du rôle de la Chambre des vacations, présidée par M. Bochard de Saron."
+language = "fr"
+place = "France"
+date = "1788"
+note = "Caption title. Not in Martin & Walter. Révolution française. Scanner's note: No Copyright found. No Table of Contents found. Title on cover page. Damaged, stained pages and cover. <br />."
+url = "https://archive.org/details/discoursprononce00mini"
+subject = [
+    "France. Parlement (Paris)",
+    "Separation of powers",
+    "Monarchy",
+]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 22470"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t43r64c1r"
+internet_archive = "discoursprononce00mini"
+
+[scan]
+file = "discoursprononce00mini.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/discoursprononce00mini"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "Minier, Charles"
+role = "author"
+
+[[resp]]
+name = "France. Parlement (Paris). Chambre des vacations"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_846801"
+
+[[text]]
+file = "discoursprononce00mini.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00mini.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00mini.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00mini.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

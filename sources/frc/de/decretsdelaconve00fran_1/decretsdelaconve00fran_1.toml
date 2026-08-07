@@ -1,0 +1,91 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "decretsdelaconve00fran_1"
+type = "pamphlet"
+title = "Décrets de la Convention nationale, des 20 & 23 mars 1793, l'an second de la République françoise, qui exceptent de la loi sur le recrutement, 1o. les professeurs & élèves entretenus dans les écoles vétérinaires, 2o. les évêques, curés & vicaires, 3o. les officiers de santé attachés au service des armées"
+language = "fr"
+place = "A Paris"
+date = "1793"
+note = "Caption title. At right of title: No. 621. G. No. 637. Signed: Lebrun; countersigned: Gohier. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No title page found. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/decretsdelaconve00fran_1"
+subject = [
+    "France. Armée",
+    "Veterinary students",
+    "Veterinary teachers",
+    "Clergy",
+    "Health officers",
+    "Draft",
+]
+extent = "3 p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9676 no. 15"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3cz8bc37"
+internet_archive = "decretsdelaconve00fran_1"
+openlibrary_edition = "OL26221896M"
+openlibrary_work = "OL17617396W"
+
+[scan]
+file = "decretsdelaconve00fran_1.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/decretsdelaconve00fran_1"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Lebrun, Charles-François, duc de Plaisance, 1739-1824"
+role = "author"
+
+[[resp]]
+name = "Gohier, Louis-Jérôme, 1746-1830"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale exécutif du Louvre"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_853682"
+
+[[text]]
+file = "decretsdelaconve00fran_1.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretsdelaconve00fran_1.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretsdelaconve00fran_1.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretsdelaconve00fran_1.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "dcret00fran_37"
+type = "pamphlet"
+title = "Décret /"
+language = "fr"
+place = "Paris"
+date = "1793"
+note = "Caption title. Imprint from colophon. At upper right on p.[1]: N.o 1975. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on cover page. Damaged, stained and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/dcret00fran_37"
+subject = [
+    "France. Armée",
+    "Shoemakers",
+]
+extent = "4 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 2290"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7np7597n"
+internet_archive = "dcret00fran_37"
+openlibrary_edition = "OL26218931M"
+openlibrary_work = "OL17614623W"
+
+[scan]
+file = "dcret00fran_37.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/dcret00fran_37"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie des Administrations nationales"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_43082"
+
+[[text]]
+file = "dcret00fran_37.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dcret00fran_37.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dcret00fran_37.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dcret00fran_37.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

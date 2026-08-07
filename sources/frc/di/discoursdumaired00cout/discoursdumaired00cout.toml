@@ -1,0 +1,74 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discoursdumaired00cout"
+type = "pamphlet"
+title = "Discours du maire de Charenton Saint-Maurice."
+language = "fr"
+place = "Paris"
+note = "Caption title. Signed: Couteux, maire. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  ny part of the internal notes that should be published to the checkin notes: Title is on the cover page. Skewed text. Damaged pages."
+url = "https://archive.org/details/discoursdumaired00cout"
+extent = "4 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 16721"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3rv5jr2d"
+internet_archive = "discoursdumaired00cout"
+openlibrary_edition = "OL26199326M"
+openlibrary_work = "OL17595995W"
+
+[scan]
+file = "discoursdumaired00cout.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/discoursdumaired00cout"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Couteux"
+role = "author"
+
+[[resp]]
+name = "Devaux, Jean-Baptiste, d. 1799"
+role = "publisher"
+
+[[resp]]
+name = "De l'imprimerie de Devaux, rue des Boucheries Saint-Honoré, no. 7"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_834571"
+
+[[text]]
+file = "discoursdumaired00cout.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursdumaired00cout.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursdumaired00cout.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursdumaired00cout.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

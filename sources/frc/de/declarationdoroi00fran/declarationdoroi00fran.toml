@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "declarationdoroi00fran"
+type = "pamphlet"
+title = "Declaration du roi, portant défenses à toutes personnes de quelqu' état & condition qu'elles soient, de composer, ni faire composer, imprimer & distribuer aucuns ecrits contre la régle des ordonnances, sous les peines y mentionnées"
+language = "fr"
+place = "Paris"
+date = "1757"
+note = "Caption-title. Imprint at foot of p. 4. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Title page and cover are combined."
+url = "https://archive.org/details/declarationdoroi00fran"
+subject = [
+    "Censorship",
+    "Printing industry",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 6 no. 112"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6xx01v17"
+internet_archive = "declarationdoroi00fran"
+
+[scan]
+file = "declarationdoroi00fran.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/declarationdoroi00fran"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Crown, 1715-1774 (Louis XV)"
+role = "author"
+
+[[resp]]
+name = "France. Crown, 1715-1774 (Louis XV)"
+role = "author"
+
+[[resp]]
+name = "France. Sovereign (1715-1774 : Louis XV)"
+role = "author"
+
+[[resp]]
+name = "P.G. Simon"
+role = "publisher"
+
+[[text]]
+file = "declarationdoroi00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "declarationdoroi00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "declarationdoroi00fran.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "declarationdoroi00fran.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

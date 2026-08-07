@@ -1,0 +1,83 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discours00unse_30"
+type = "pamphlet"
+title = "Discours du roi, a la séance royale ou [i.e. du] Cour plénière, du 9 mai 1788."
+language = "fr"
+place = "France"
+date = "1788"
+note = "Caption title. Martin & Walter. Révolution française. Discours du roi -- Nouvelle protestation du Parlement de Paris -- Discours du roi a la seconde séance tenue à Versailles le 9 mai 1788. Bibliography: Martin & Walter.  Révolution française,  III, 21739. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/discours00unse_30"
+subject = [
+    "France. Parlement (Paris)",
+    "Courts of last resort",
+]
+extent = "4 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 21522"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8x97g01d"
+internet_archive = "discours00unse_30"
+openlibrary_edition = "OL26239676M"
+openlibrary_work = "OL17634216W"
+
+[scan]
+file = "discours00unse_30.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/discours00unse_30"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Louis XVI, King of France, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "France. Cour plénière"
+role = "author"
+
+[[resp]]
+name = "France. Parlement (Paris)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_845228"
+
+[[text]]
+file = "discours00unse_30.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discours00unse_30.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discours00unse_30.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discours00unse_30.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

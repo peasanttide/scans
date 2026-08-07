@@ -1,0 +1,83 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discoursdedomger00gerl"
+type = "pamphlet"
+title = "Discours de Dom Gerle, prieur de la chartreuse du port Ste. Marie, député de Riom, visiteur de son ordre : et dont l'Assemblée a ordonné l'impression par son décret du 12 décembre, séance du soir : imprimée par ordre de l'Assemblée."
+language = "fr"
+place = "A Paris"
+date = "1789"
+note = """Caption title. Imprint from colophon. Martin & Walter. Révolution française. BN. Saricks, A. Melvin Coll. "Réponse de M. le président"--P. 4. Bibliography: Martin & Walter.  Révolution française,  II, 14753. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover."""
+url = "https://archive.org/details/discoursdedomger00gerl"
+subject = [
+    "Secularization",
+    "Monasticism and religious orders",
+]
+extent = "4 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 19042"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0fv3kf4c"
+internet_archive = "discoursdedomger00gerl"
+openlibrary_edition = "OL26201599M"
+openlibrary_work = "OL17598125W"
+
+[scan]
+file = "discoursdedomger00gerl.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/discoursdedomger00gerl"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Gerle, Christophe Antoine, 1736-1801"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_839850"
+
+[[text]]
+file = "discoursdedomger00gerl.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursdedomger00gerl.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursdedomger00gerl.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursdedomger00gerl.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

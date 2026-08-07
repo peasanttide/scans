@@ -1,0 +1,83 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discours00unse_rdv"
+type = "pamphlet"
+title = "Discours de M. Vincent, capitaine-commandant d'une nouvelle compagnie de chasseurs, prononcé à la barre de l'Assemblée nationale, le 27 août 1792, l'an IVe de la liberté : imprimé et envoyé aux 83 départemens et aux armées, par ordre de l'Assemblée."
+language = "fr"
+place = "Paris"
+date = "1792"
+note = """Caption title. Imprint from colophon. "Pétition, no. 98"--Bottom of p. [1]. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  IV:1, 33724. Scanner's note: No copyright found.  No table of contents found.  Title on cover page. Damaged, stained pages and cover. <br />."""
+url = "https://archive.org/details/discours00unse_rdv"
+subject = ["First Coalition, War of the, 1792-1797"]
+extent = "3 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 26187"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4jm7m38c"
+internet_archive = "discours00unse_rdv"
+lccn = "nuc87805000"
+
+[scan]
+file = "discours00unse_rdv.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/discours00unse_rdv"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "Tallien, Jean-Lambert, 1767-2474"
+role = "author"
+
+[[resp]]
+name = "Vincent, capitaine"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale législative (1791-1792)"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_864167"
+
+[[text]]
+file = "discours00unse_rdv.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discours00unse_rdv.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discours00unse_rdv.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discours00unse_rdv.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

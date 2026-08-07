@@ -1,0 +1,68 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "deparleroy00sois"
+type = "pamphlet"
+title = "De par le roy"
+language = "fr"
+date = "1721"
+note = "Caption title. Dated 1 December 1721. Imposes limitations on the sale of books. Scanner's note: No copyright found.  No table of contents found.  Damaged, stained pages and cover.  Title on cover. <br />."
+url = "https://archive.org/details/deparleroy00sois"
+subject = ["Book industries and trade"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 4 no. 39"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8tb6qv9d"
+internet_archive = "deparleroy00sois"
+
+[scan]
+file = "deparleroy00sois.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/deparleroy00sois"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "Soissons (France).Police"
+role = "author"
+
+[[resp]]
+name = "Soissons (France). Police"
+role = "author"
+
+[[resp]]
+name = "[n.p."
+role = "publisher"
+
+[[text]]
+file = "deparleroy00sois.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "deparleroy00sois.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "deparleroy00sois.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "deparleroy00sois.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

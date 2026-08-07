@@ -1,0 +1,83 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discoursprononce00guyo"
+type = "pamphlet"
+title = "Discours prononcé par Pierre Guyomar (Côtes du Nord) après la lecture du message du Directoire exécutif qui annonce les nouvelles victoires de l'armée d'Italie et son entrée à Naples : séance du 19 pluviose an 7."
+language = "fr"
+place = "A Paris"
+date = "1799"
+note = "Caption title. At head of title: Corps législatif. Conseil des anciens. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  II, 16222. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover page. Damaged pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/discoursprononce00guyo"
+subject = [
+    "France. Armée",
+    "Second Coalition, War of the, 1798-1801",
+]
+extent = "3 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 19594"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9x11021r"
+internet_archive = "discoursprononce00guyo"
+openlibrary_edition = "OL25945697M"
+openlibrary_work = "OL17366894W"
+
+[scan]
+file = "discoursprononce00guyo.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/discoursprononce00guyo"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Guyomar, Pierre-Marie-Augustin, 1757-1826"
+role = "author"
+
+[[resp]]
+name = "France. Corps législatif (1795-1814). Conseil des anciens"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_841029"
+
+[[text]]
+file = "discoursprononce00guyo.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00guyo.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00guyo.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00guyo.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

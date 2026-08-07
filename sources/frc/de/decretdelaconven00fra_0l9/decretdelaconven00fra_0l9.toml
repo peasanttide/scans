@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "decretdelaconven00fra_0l9"
+type = "pamphlet"
+title = "Décret de la Convention nationale, du 24e. jour de germinal, l'an troisième de la République française, une et indivisible, qui suspend l'exécution du décret du 10 frimaire en ce qui concerne les aliénations de petites portions de terrain à cens et rente"
+language = "fr"
+place = "A Paris"
+date = "1795"
+note = "Caption title. At right of title: No. 2314. Signed: Bréard, ex-président; N. Haussmann et Dornier l'aîné, secrétaires. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: Irregular Pagination. Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages. No title page found. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/decretdelaconven00fra_0l9"
+subject = [
+    "Confiscations",
+    "Real property",
+    "Land tenure",
+]
+extent = "[1] p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10334 no. 92"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1sf7wq8c"
+internet_archive = "decretdelaconven00fra_0l9"
+openlibrary_edition = "OL26225011M"
+openlibrary_work = "OL17620337W"
+
+[scan]
+file = "decretdelaconven00fra_0l9.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/decretdelaconven00fra_0l9"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Bréard, Jean Jacques, 1750-1840"
+role = "author"
+
+[[resp]]
+name = "Dornier, Claude-Pierre, 1744-1807"
+role = "author"
+
+[[resp]]
+name = "Haussmann, Nicolas, 1760-1846"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_851987"
+
+[[text]]
+file = "decretdelaconven00fra_0l9.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelaconven00fra_0l9.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

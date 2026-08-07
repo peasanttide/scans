@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discoursducomted00lall"
+type = "pamphlet"
+title = "Discours du comte de Lally-Tolendal a l'Hotel-de-ville, le 17 juillet 1789."
+language = "fr"
+place = "A Paris"
+date = "1789"
+note = "Caption title. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  III, 18665. Scanner's note: No title page found. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/discoursducomted00lall"
+subject = ["Representative government and representation"]
+extent = "3 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 20422"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0xq26s4w"
+internet_archive = "discoursducomted00lall"
+openlibrary_edition = "OL26235025M"
+openlibrary_work = "OL17629607W"
+
+[scan]
+file = "discoursducomted00lall.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/discoursducomted00lall"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Lally-Tolendal, Trophime-Gérard, marquis de, 1751-1830"
+role = "author"
+
+[[resp]]
+name = "Baudouin, François-Jean, 1759-1838"
+role = "publisher"
+
+[[resp]]
+name = "Hôtel de ville (Paris, France)"
+role = "author"
+
+[[resp]]
+name = "Chez Baudouin, imprimeur de l'Assemblée nationale, rue du Foin-St.-Jacques, no. 31"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_842824"
+
+[[text]]
+file = "discoursducomted00lall.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursducomted00lall.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursducomted00lall.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursducomted00lall.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,60 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "decretumferia5ad00unse"
+type = "pamphlet"
+title = "Decretum feriâ 5a die 3 Augusti 1719"
+language = "la"
+date = "1719"
+note = "Caption title. Manuscript on paper. Condemnation of L'instruction pastorale, by the Archbishop of Paris, dated 14 January 1719. Scanner's note: No copyright found.  No table of contents found.  Damaged, stained pages and cover.  Title on cover. <br />No page numbers. <br />Text extends into binding. <br /><br />."
+url = "https://archive.org/details/decretumferia5ad00unse"
+subject = [
+    "Paris (Archdiocese). Archbishop, (1695-1729 : Louis Antoine de Noailes)",
+    "Censorship",
+    "Inquisition",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 4 no. 27"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t97713k8z"
+internet_archive = "decretumferia5ad00unse"
+
+[scan]
+file = "decretumferia5ad00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/decretumferia5ad00unse"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[text]]
+file = "decretumferia5ad00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "la"
+
+[[text]]
+file = "decretumferia5ad00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "la"
+
+[[text]]
+file = "decretumferia5ad00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "la"
+
+[[text]]
+file = "decretumferia5ad00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "la"

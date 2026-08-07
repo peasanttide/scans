@@ -1,0 +1,81 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discoursprononce00barj"
+type = "pamphlet"
+title = "Discours prononcé par le citoyen Bar, en présentant l'adresse de l'administration centrale du départment de la Moselle, sur l'assassinat des ministres français au congrès de Rastadt : séance du 28 prairial an 7."
+language = "fr"
+place = "A Paris"
+date = "1799"
+note = "Caption title. At head of title: Corps législatif. Conseil des anciens. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  I, 1321. Scanner's note: No copyright page found. No table-of-contents pages found.   Skewed text."
+url = "https://archive.org/details/discoursprononce00barj"
+subject = [
+    "Congress of Rastatt 1797-1799)",
+    "Assassination",
+]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 13855"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9f528h38"
+internet_archive = "discoursprononce00barj"
+
+[scan]
+file = "discoursprononce00barj.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/discoursprononce00barj"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Bar, Jean-Étienne, 1749-1801"
+role = "author"
+
+[[resp]]
+name = "France. Corps législatif (1795-1814). Conseil des anciens"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_829113"
+
+[[text]]
+file = "discoursprononce00barj.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00barj.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00barj.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00barj.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

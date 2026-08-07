@@ -1,0 +1,57 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "dcretdelaconvent00fran_6"
+type = "pamphlet"
+title = "Décret de la Convention nationale, du 27 septembre 1793, l'an second de la République françoise, une & indivisible, qui excepte les papiers imprimés de la loi sur les accaparemens"
+language = "fr"
+place = "A Paris"
+date = "1793"
+note = "Caption title. Imprint at foot of p. 2. At upper right on p. [1]: No. 1620. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Title page and cover are combined."
+url = "https://archive.org/details/dcretdelaconvent00fran_6"
+subject = ["Printing industry"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 11 no. 33"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2c88016w"
+internet_archive = "dcretdelaconvent00fran_6"
+
+[scan]
+file = "dcretdelaconvent00fran_6.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/dcretdelaconvent00fran_6"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Convention nationale"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale exécutive du Louvre"
+role = "publisher"
+
+[[text]]
+file = "dcretdelaconvent00fran_6.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dcretdelaconvent00fran_6.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

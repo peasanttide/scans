@@ -1,0 +1,81 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discoursprononce00poul"
+type = "pamphlet"
+title = "Discours prononcé par Poullain-Grandprey, sur l'assassinat des plénipotentiaires de la République française à Rastadt : séance du 16 floréal an 7."
+language = "fr"
+place = "Paris"
+date = "1799"
+note = "Caption title. At head of title: Corps législatif. Conseil des cinq-cents. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  IV:1, 28011. Scanner's note: Title page and cover are combined. Damaged, stained, marked and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/discoursprononce00poul"
+subject = [
+    "Congress of Rastatt 1797-1799)",
+    "Assassination",
+]
+extent = "3 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 23976"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0ns61t5g"
+internet_archive = "discoursprononce00poul"
+
+[scan]
+file = "discoursprononce00poul.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/discoursprononce00poul"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Poullain de Grandprey, Joseph Clément, 1744-1826"
+role = "author"
+
+[[resp]]
+name = "France. Corps législatif (1795-1814). Conseil des cinq-cents"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_848961"
+
+[[text]]
+file = "discoursprononce00poul.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00poul.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00poul.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00poul.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

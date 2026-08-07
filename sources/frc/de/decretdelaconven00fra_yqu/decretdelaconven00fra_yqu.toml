@@ -1,0 +1,83 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "decretdelaconven00fra_yqu"
+type = "pamphlet"
+title = "Décret de la Convention nationale, du 27 juillet 1793, l'an second de la République française, qui autorise le ministre de la Marine à faire marquer & exploiter les bois propres à la construction des vaisseaux"
+language = "fr"
+place = "Paris?"
+date = "1793"
+note = "Caption title. At right of title: Marine. No. 1279. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained and/or loose pages. Skewed text."
+url = "https://archive.org/details/decretdelaconven00fra_yqu"
+subject = [
+    "France. Ministère de la marine",
+    "France. Marine",
+]
+extent = "3 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC suppl. 97 no. 4"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9r26571r"
+internet_archive = "decretdelaconven00fra_yqu"
+openlibrary_edition = "OL26235490M"
+openlibrary_work = "OL17630076W"
+
+[scan]
+file = "decretdelaconven00fra_yqu.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/decretdelaconven00fra_yqu"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Garat, Dominique-Joseph, comte, 1749-1833"
+role = "author"
+
+[[resp]]
+name = "Gohier, Louis-Jérôme, 1746-1830"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie de la sixième division du département de la Marine, rue Saint-Honoré, No. 355, vis-à-vis l'Assomption"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_861669"
+
+[[text]]
+file = "decretdelaconven00fra_yqu.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelaconven00fra_yqu.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelaconven00fra_yqu.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelaconven00fra_yqu.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

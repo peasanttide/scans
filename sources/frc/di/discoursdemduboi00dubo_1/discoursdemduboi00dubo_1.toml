@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discoursdemduboi00dubo_1"
+type = "pamphlet"
+title = "Discours de M. Dubois de Crancé à son bataillon."
+language = "fr"
+place = "Paris"
+date = "1791"
+note = "Caption title. Imprint from colophon. Dated, p. 4: 2 juin 1791. Martin & Walter. Révolution française. Accepting command of a batallion of the Garde nationale de Paris. Bibliography: Martin & Walter.  Révolution française,  II, 11135. Scanner's note: No copyright page found. No table-of-contents pages found. Damaged, stained pages and cover. Title on cover."
+url = "https://archive.org/details/discoursdemduboi00dubo_1"
+subject = ["Paris (France). Garde nationale"]
+extent = "4 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 17628"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8sb9256z"
+internet_archive = "discoursdemduboi00dubo_1"
+openlibrary_edition = "OL26193921M"
+openlibrary_work = "OL17590688W"
+
+[scan]
+file = "discoursdemduboi00dubo_1.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/discoursdemduboi00dubo_1"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Dubois de Crancé, Edmond-Louis-Alexis, 1746-1814"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_836400"
+
+[[text]]
+file = "discoursdemduboi00dubo_1.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursdemduboi00dubo_1.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursdemduboi00dubo_1.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursdemduboi00dubo_1.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

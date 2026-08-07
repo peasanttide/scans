@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discourspron00unse_4"
+type = "pamphlet"
+title = "Discours prononcé par M. l'évêque, métropolitain du département de Rhône et Loire, avant le Te Deum, chanté le dimanche 25 septembre 1791, à l'occasion de la proclamation de la constitution de l'empire."
+language = "fr"
+place = "France"
+date = "1791"
+note = "Caption title. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title page and cover are combined. Damaged, stained and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/discourspron00unse_4"
+subject = [
+    "France",
+    "Liberty",
+]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 20553"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3kx0mk08"
+internet_archive = "discourspron00unse_4"
+openlibrary_edition = "OL26235928M"
+openlibrary_work = "OL17630489W"
+
+[scan]
+file = "discourspron00unse_4.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/discourspron00unse_4"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Lamourette, Antoine Adrien, 1742-1794"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_843334"
+
+[[text]]
+file = "discourspron00unse_4.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discourspron00unse_4.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discourspron00unse_4.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discourspron00unse_4.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

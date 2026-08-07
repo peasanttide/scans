@@ -1,0 +1,60 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "declarationcommu00fran"
+type = "pamphlet"
+title = "Declaration communiquée par ordre du roy aux seigneurs États généraux des Provinces-unies"
+language = "fr"
+place = "Paris"
+date = "1747"
+note = "Binder's title: Conquest du roy. Scanner's note: Title is on the cover. Uneven binding. Skewed text. Irregular pagination. Page numbers have been marked or altered. Damaged, stained, torn and/or loose pages."
+url = "https://archive.org/details/declarationcommu00fran"
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "E 5 .L92705 v. 09 no. 02"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5s81f939"
+internet_archive = "declarationcommu00fran"
+
+[scan]
+file = "declarationcommu00fran.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/declarationcommu00fran"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Sovereign (1715-1774 : Louis XV)"
+role = "author"
+
+[[resp]]
+name = "France. Sovereign (1715-1774 : Louis XV)"
+role = "author"
+
+[[resp]]
+name = "United Provinces of the Netherlands. Staten Generaal"
+role = "author"
+
+[[resp]]
+name = "Imprimerie royale"
+role = "publisher"
+
+[[text]]
+file = "declarationcommu00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "declarationcommu00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

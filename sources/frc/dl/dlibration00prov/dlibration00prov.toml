@@ -1,0 +1,95 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "dlibration00prov"
+type = "pamphlet"
+title = "Délibération /"
+language = "fr"
+place = "s.l."
+date = "1788"
+note = "Caption title. Without imprint. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover page. Damaged, stained and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/dlibration00prov"
+extent = "8 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 7283"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1ng9rj5w"
+internet_archive = "dlibration00prov"
+openlibrary_edition = "OL26220754M"
+openlibrary_work = "OL17616338W"
+
+[scan]
+file = "dlibration00prov.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/dlibration00prov"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Provence (France)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_62520"
+
+[[text]]
+file = "dlibration00prov.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dlibration00prov.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dlibration00prov.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dlibration00prov.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dlibration00prov.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dlibration00prov.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dlibration00prov.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dlibration00prov.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

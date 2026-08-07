@@ -1,0 +1,89 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "dernierereponsed00peti"
+type = "pamphlet"
+title = "Dernière réponse de M. Petion, maire de Paris, a M. Cheron, député à l'Assemblée nationale."
+language = "fr"
+place = "Paris"
+date = "1791"
+note = "Caption title. Signed: Petion. Imprint from colophon. Place of publication from Martin & Walter. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  III, 27055. Scanner's note: No Copyright found. No Table of Contents found. Title on cover. Damaged, stained pages and cover. <br />."
+url = "https://archive.org/details/dernierereponsed00peti"
+subject = [
+    "Chéron, L. C. (Louis Claude), 1758-1807",
+    "Errors",
+]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 23593"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5s80ns3p"
+internet_archive = "dernierereponsed00peti"
+
+[scan]
+file = "dernierereponsed00peti.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/dernierereponsed00peti"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "Pétion, J. (Jérôme), 1756-1794"
+role = "author"
+
+[[resp]]
+name = "Chéron, L. C. (Louis Claude), 1758-1807"
+role = "author"
+
+[[resp]]
+name = "Lottin, Augustin-Martin, 1726-1793"
+role = "publisher"
+
+[[resp]]
+name = "Lottin de Saint Germain, Jean-Roch, b. 1754"
+role = "publisher"
+
+[[resp]]
+name = "France. Assemblée nationale législative (1791-1792)"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Lottin l'aîné, & J.-R. Lottin, imprimeurs de la municipalité"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_848491"
+
+[[text]]
+file = "dernierereponsed00peti.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dernierereponsed00peti.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dernierereponsed00peti.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dernierereponsed00peti.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

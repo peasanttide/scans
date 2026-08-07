@@ -1,0 +1,78 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "decretsrelatif00unse"
+type = "pamphlet"
+title = "Décrets relatifs aux prises et à l'armement en course"
+language = "fr"
+place = "A Paris"
+date = "1793"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. No. 760, 950, 1664, 140, 183. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."
+url = "https://archive.org/details/decretsrelatif00unse"
+subject = [
+    "Maritime law",
+    "Cultural property",
+    "Type specimens (Natural history)",
+]
+extent = "4 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10330 no. 60"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6xw9jk1x"
+internet_archive = "decretsrelatif00unse"
+
+[scan]
+file = "decretsrelatif00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/decretsrelatif00unse"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois, place du Carrousel, et se trouve dans les villes chef-lieux de département, au bureau de correspondance du Dépôt des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_852535"
+
+[[text]]
+file = "decretsrelatif00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretsrelatif00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretsrelatif00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretsrelatif00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

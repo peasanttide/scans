@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "decretduroy00spai"
+type = "pamphlet"
+title = "Decret du roy d'Espagne, par lequel il est défendu aux juges & officiers de la contrebande, de prendre & lever aucun droits sur les marchandises qui seront transportées de France en Espagne."
+language = "fr"
+place = "France?"
+date = "1703"
+note = "Caption title. Documents dated 28 February-30 April 1703. Signatures: A². Last page blank. Issued with: Decret du roy d'Espagne qui défend la visite de tous les batimens françois -- Ordre du Conseil de guerre aux officiers de la contrebande, qui permet l'introduction des marchandises sur les ennemis, sans payer aucuns droits. No. 27 of 54 titles bound together. Scanner's note: Title is on the cover. Text is lost in the binding. Damaged, stained, and/or torn pages. Some text is lost in the binding."
+url = "https://archive.org/details/decretduroy00spai"
+subject = [
+    "Commerce",
+    "Commercial policy",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio KJV5795 .A35 1728 no. 27"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t15n28m28"
+internet_archive = "decretduroy00spai"
+
+[scan]
+file = "decretduroy00spai.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/decretduroy00spai"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Spain.Sovereign (1700-1746 : Philip V),"
+role = "author"
+
+[[resp]]
+name = "Spain. Sovereign (1700-1746 : Philip V), enacting jurisdiction"
+role = "author"
+
+[[resp]]
+name = "Philip V, King of Spain, 1683-1746"
+role = "author"
+
+[[resp]]
+name = "Spain. Consejo de Guerra, enacting jurisdiction"
+role = "author"
+
+[[resp]]
+name = "[publisher not identified]"
+role = "publisher"
+
+[[text]]
+file = "decretduroy00spai.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretduroy00spai.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretduroy00spai.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretduroy00spai.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

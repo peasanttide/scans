@@ -1,0 +1,73 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "dbutdudiscours00fran_0"
+type = "pamphlet"
+title = "Début du discours"
+language = "fr"
+place = "A Douay"
+date = "1787"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter [edition 2: Douay imprint]. Scanner's note: No copyright page found. No table-of-contents pages found.  Title on cover. Damaged, stained pages and cover.  Uneven binding. Skewed text."
+url = "https://archive.org/details/dbutdudiscours00fran_0"
+extent = "4 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9717"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5jb18q72"
+internet_archive = "dbutdudiscours00fran_0"
+
+[scan]
+file = "dbutdudiscours00fran_0.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/dbutdudiscours00fran_0"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Assemblée des notables (1786-1787)"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée des notables (1786-1787)"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Willerval"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_68257"
+
+[[text]]
+file = "dbutdudiscours00fran_0.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dbutdudiscours00fran_0.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dbutdudiscours00fran_0.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dbutdudiscours00fran_0.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

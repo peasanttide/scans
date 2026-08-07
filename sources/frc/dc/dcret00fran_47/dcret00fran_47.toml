@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "dcret00fran_47"
+type = "pamphlet"
+title = "Décret"
+language = "fr"
+place = "A Paris"
+date = "1791"
+note = "Caption title. Imprint from colophon. At upper right on p.[1]: N.o 11. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages."
+url = "https://archive.org/details/dcret00fran_47"
+extent = "3 p. ; 28 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9316"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t39077p0x"
+internet_archive = "dcret00fran_47"
+openlibrary_edition = "OL26221984M"
+openlibrary_work = "OL17617484W"
+
+[scan]
+file = "dcret00fran_47.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/dcret00fran_47"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie royale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_67075"
+
+[[text]]
+file = "dcret00fran_47.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dcret00fran_47.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dcret00fran_47.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dcret00fran_47.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

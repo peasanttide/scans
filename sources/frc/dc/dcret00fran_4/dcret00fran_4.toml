@@ -1,0 +1,93 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "dcret00fran_4"
+type = "pamphlet"
+title = "Décret"
+language = "fr"
+place = "A Marseille"
+date = "1789"
+note = "Scanner's note: Title / Cover pages combined.  No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/dcret00fran_4"
+extent = "8 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 732"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6vx3vt4p"
+internet_archive = "dcret00fran_4"
+
+[scan]
+file = "dcret00fran_4.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/dcret00fran_4"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "Sur l'imprimé de Paris, de l'imprimerie de P.A. Favet"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_40088"
+
+[[text]]
+file = "dcret00fran_4.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "dcret00fran_4.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "dcret00fran_4.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "dcret00fran_4.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "dcret00fran_4.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "dcret00fran_4.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "dcret00fran_4.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "dcret00fran_4.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"

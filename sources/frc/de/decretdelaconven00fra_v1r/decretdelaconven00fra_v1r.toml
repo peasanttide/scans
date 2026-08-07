@@ -1,0 +1,86 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "decretdelaconven00fra_v1r"
+type = "pamphlet"
+title = "Décret de la Convention nationale, du 1er. jour du 2e. mois de l'an 2e. de la République française, une & indivisible, portant qu'il y a incompatibilité entre les fonctions de notaire & celles de juge de paix"
+language = "fr"
+place = "A Paris"
+date = "1793"
+note = "Caption title. At right of title: No. 1761. Signed: Paré; countersigned: Gohier. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover. Only one numbered page."
+url = "https://archive.org/details/decretdelaconven00fra_v1r"
+subject = [
+    "Incompatibility of offices",
+    "Notaries",
+    "Justices of the peace",
+]
+extent = "2 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 28184"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6qz7cr91"
+internet_archive = "decretdelaconven00fra_v1r"
+
+[scan]
+file = "decretdelaconven00fra_v1r.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/decretdelaconven00fra_v1r"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Paré, Jules-François, d. 1819"
+role = "author"
+
+[[resp]]
+name = "Gohier, Louis-Jérôme, 1746-1830"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale exécutive du Louvre"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_853097"
+
+[[text]]
+file = "decretdelaconven00fra_v1r.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelaconven00fra_v1r.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelaconven00fra_v1r.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelaconven00fra_v1r.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

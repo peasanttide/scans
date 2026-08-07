@@ -1,0 +1,48 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "decretumferia00unse_0"
+type = "pamphlet"
+title = "Decretum feria 2a. die 26. Martii 1714"
+language = "la"
+date = "1714"
+note = "Caption title. Manuscript on paper."
+url = "https://archive.org/details/decretumferia00unse_0"
+subject = ["Inquisition"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 3 no. 51"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2n645701"
+internet_archive = "decretumferia00unse_0"
+
+[scan]
+file = "decretumferia00unse_0.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/decretumferia00unse_0"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "[n.p."
+role = "publisher"
+
+[[text]]
+file = "decretumferia00unse_0.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "la"
+
+[[text]]
+file = "decretumferia00unse_0.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "la"

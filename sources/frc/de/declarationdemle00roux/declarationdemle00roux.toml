@@ -1,0 +1,81 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "declarationdemle00roux"
+type = "pamphlet"
+title = "Déclaration de M. l'évêque de Senez, a MM. les maire et officiers municipaux, ensuite de la promulgation de la Constitution civile du clergé, par eux faite & affichée à la grande porte de l'eglise cathédrale de Sénez, le 7 novembre 1790."
+language = "fr"
+place = "France"
+date = "1790"
+note = "Caption title. Signed: Jean-Baptiste-Marie-Scipion, evêque de Senez. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Damaged, stained pages. Uneven binding. Skewed text. Title and cover are combined."
+url = "https://archive.org/details/declarationdemle00roux"
+subject = [
+    "France",
+    "Jurisdiction (Ecclesiastical law)",
+    "Church and state",
+]
+extent = "4 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 15858"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9t19xk46"
+internet_archive = "declarationdemle00roux"
+lccn = "nuc87358329"
+openlibrary_edition = "OL25950904M"
+openlibrary_work = "OL17371889W"
+
+[scan]
+file = "declarationdemle00roux.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/declarationdemle00roux"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Roux de Bonneval, Jean-Baptiste-Marie-Scipion, 1747-1837"
+role = "author"
+
+[[resp]]
+name = "Catholic Church. Diocese of Sénez (France)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_833056"
+
+[[text]]
+file = "declarationdemle00roux.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "declarationdemle00roux.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "declarationdemle00roux.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "declarationdemle00roux.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

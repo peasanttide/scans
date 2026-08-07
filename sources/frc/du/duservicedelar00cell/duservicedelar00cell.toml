@@ -1,0 +1,81 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "duservicedelar00cell"
+type = "pamphlet"
+title = "Du service de l'artillerie de la guerre"
+language = "fr"
+place = "Paris"
+date = "1780"
+note = """Bookseller's catalog, preceded by prospectus for: Du service de l'artillerie a la guerre / par M. le Chevalier d'Antoni ; traduit de l'Italien, avec des additions & des notes par M. de Mont-Rozard. Paris : L. Cellot, 1780. Caption title. "A Paris, chez L. Cellot, imprimeur-libraire, rue Dauphine, gendre & successeur de Jombert pere, libraire du roi pour l'artillerie & le génie, la seconde porte cochere à droite en entrant par le Pont-Neuf, au fond de la Cour & au rez-de chaussée, in-8o, figures, 5 liv. broché"--P. [1]. "Les personnes qui voudront se le procurer, s'adresseront au sieur Cellot, libraire, à l'adresse ci-dessus, & il le leur fera parvenir par la poste, & port franc, par la voie du Bureau de l'abonnement littéraire de M. Luneau de Boisjermain ..."--P. [1]. "Notice très-abrégée de quelques-uns des livres dudit Cellot, avec les prix reliés; en les prenant brochés, on diminuera le prix de la reliure": p. [1]-4. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Text extends off of the edge of the page. Text may be lost in the binding. Permanent creases may obscure some text. Title page and cover are combined."""
+url = "https://archive.org/details/duservicedelar00cell"
+subject = [
+    "Cellot, Louis, active 1756-1788?",
+    "Papacino d'Antoni, Alessandro Vittorio, 1714-1786",
+    "Booksellers and bookselling",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 8 no. 12"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8jf0jq5w"
+internet_archive = "duservicedelar00cell"
+
+[scan]
+file = "duservicedelar00cell.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/duservicedelar00cell"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Cellot, Louis,active 1756-1788?"
+role = "author"
+
+[[resp]]
+name = "Cellot, Louis, active 1756-1788?"
+role = "author"
+
+[[resp]]
+name = "Papacino d'Antoni, Alessandro Vittorio, 1714-1786. Maneggiamento delle macchine d'artiglieria. French"
+role = "author"
+
+[[resp]]
+name = "Bureau de l'abonnement littéraire"
+role = "bookseller"
+
+[[resp]]
+name = "L. Cellot"
+role = "publisher"
+
+[[text]]
+file = "duservicedelar00cell.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "duservicedelar00cell.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "duservicedelar00cell.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "duservicedelar00cell.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

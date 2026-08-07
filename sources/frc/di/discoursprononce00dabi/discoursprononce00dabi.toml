@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discoursprononce00dabi"
+type = "pamphlet"
+title = "Discours prononcé par le sr. curé de Saran devant ses paroissiens : dans son eglise succursale de Notre-Dame des Ides, sept heurs du matin, intra missam, le dimanche 25 juillet 1790"
+language = "fr"
+place = "A Orléans"
+date = "1790"
+note = "Caption title. Attributed to Dabit in ms. on Newberry's copy. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover. Creases in pages. Pages have been cut."
+url = "https://archive.org/details/discoursprononce00dabi"
+subject = [
+    "Clergy",
+    "Nobility",
+]
+extent = "4 p. ; 25 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 26634"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9v175p9d"
+internet_archive = "discoursprononce00dabi"
+openlibrary_edition = "OL26226989M"
+openlibrary_work = "OL17622216W"
+
+[scan]
+file = "discoursprononce00dabi.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/discoursprononce00dabi"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Dabit, curé de Saran"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Jacob l'aîné, rue de l'Écrivinerie"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_863418"
+
+[[text]]
+file = "discoursprononce00dabi.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00dabi.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00dabi.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00dabi.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

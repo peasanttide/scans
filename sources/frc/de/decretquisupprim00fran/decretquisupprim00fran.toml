@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "decretquisupprim00fran"
+type = "pamphlet"
+title = "Décret qui supprime sans indemnité toutes redevances ci-devant seigneuriales, tous droits féodaux, même ceux conservés par le décret du 25 août dernier : du 17 juillet 1793"
+language = "fr"
+place = "A Paris"
+date = "1793"
+note = "Caption title. At head of title: Dépôt des lois. (No. 1214). Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: Irregular Pagination. No title page found. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/decretquisupprim00fran"
+subject = [
+    "Feudal law",
+    "Taxation",
+    "Finance, Public",
+]
+extent = "[2] p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9676 no. 30"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6935z867"
+internet_archive = "decretquisupprim00fran"
+openlibrary_edition = "OL26222177M"
+openlibrary_work = "OL17617678W"
+
+[scan]
+file = "decretquisupprim00fran.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/decretquisupprim00fran"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Chez J. Decle, seul propriétaire actuel du Dépôt des lois, place du Palais de Justice, no. 1"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_853697"
+
+[[text]]
+file = "decretquisupprim00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretquisupprim00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretquisupprim00fran.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretquisupprim00fran.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

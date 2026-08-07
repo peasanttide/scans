@@ -1,0 +1,99 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "deliberation00bord"
+type = "pamphlet"
+title = "Délibération /"
+language = "fr"
+place = "s.l."
+date = "1790"
+note = """Caption title. Without imprint. Dated at beginning: Aujourd'hui vingt-neuf mars mil sept cent quatre-vingt-dix .. "Lettre de messieurs les commissaires a MM. les colonels de tous les régimens de la Garde nationale": p.3-4. Not dated. "Lettre de messieurs les commissaires a MM. les capitaines de toutes les compagnies de la Garde nationale": p.5-7. Not dated. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page is on the cover. Skewed text. Damaged, stained, and/or loose pages."""
+url = "https://archive.org/details/deliberation00bord"
+extent = "7 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 2845"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t75t8pb67"
+internet_archive = "deliberation00bord"
+openlibrary_edition = "OL26209583M"
+openlibrary_work = "OL17605824W"
+
+[scan]
+file = "deliberation00bord.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/deliberation00bord"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Bordeaux (Aquitaine, France). Garde nationale"
+role = "author"
+
+[[resp]]
+name = "France. Armée. Régiment de St.-Rémy. Compagnie no. 23"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_45968"
+
+[[text]]
+file = "deliberation00bord.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "deliberation00bord.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "deliberation00bord.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "deliberation00bord.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "deliberation00bord.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "deliberation00bord.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "deliberation00bord.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "deliberation00bord.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

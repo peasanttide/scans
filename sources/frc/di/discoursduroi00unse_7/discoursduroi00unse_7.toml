@@ -1,0 +1,93 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discoursduroi00unse_7"
+type = "pamphlet"
+title = "Discours du roi, a l'ouverture du lit de justice, tenu à Versailles, le 8 mai 1788"
+language = "fr"
+place = "A Versailles"
+date = "1788"
+note = """Caption title. Imprint from colophon. "No. 1"--Bottom of p. [1]. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages."""
+url = "https://archive.org/details/discoursduroi00unse_7"
+subject = [
+    "Prerogative, Royal",
+    "Justice, Administration of",
+]
+extent = "4 p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9746 no. 9"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1mh2r26g"
+internet_archive = "discoursduroi00unse_7"
+
+[scan]
+file = "discoursduroi00unse_7.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/discoursduroi00unse_7"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Sovereign (1774-1792 : Louis XVI)"
+role = "author"
+
+[[resp]]
+name = "Louis XVI, King of France, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "Pierres, Philippe-Denis, 1741-1808"
+role = "publisher"
+
+[[resp]]
+name = "Mero, J. G., former owner. ICN"
+role = "author"
+
+[[resp]]
+name = "Mero, Peter G. S., 1909 or 1910-1994, former owner. ICN"
+role = "author"
+
+[[resp]]
+name = "France. Parlement (Paris)"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Ph.-D. Pierres, premier imprimeur ordinaire du roi"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_854694"
+
+[[text]]
+file = "discoursduroi00unse_7.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursduroi00unse_7.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursduroi00unse_7.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursduroi00unse_7.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

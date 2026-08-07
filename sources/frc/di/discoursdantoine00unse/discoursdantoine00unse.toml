@@ -1,0 +1,84 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discoursdantoine00unse"
+type = "pamphlet"
+title = "Discours d'Antoine Girard, citoyen de Narbonne, député du département de l'Aude : prononcé le 17 janvier 1793, l'an deuxième de la République : imprimé par ordre de la Convention nationale"
+language = "fr"
+place = "A Angers"
+date = "1793"
+note = "Caption title. At head of title: Convention nationale. Imprint from colophon. Variant of Martin & Walter. Révolution française, II, 14906. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover."
+url = "https://archive.org/details/discoursdantoine00unse"
+subject = ["Louis XVI, King of France, 1754-1793"]
+extent = "4 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 26766"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2x39xb19"
+internet_archive = "discoursdantoine00unse"
+openlibrary_edition = "OL26226477M"
+openlibrary_work = "OL17621744W"
+
+[scan]
+file = "discoursdantoine00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/discoursdantoine00unse"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Girard, Antoine,1753-1808"
+role = "author"
+
+[[resp]]
+name = "Girard, Antoine, 1753-1808"
+role = "author"
+
+[[resp]]
+name = "Mame, Charles-Pierre, 1747-1825"
+role = "publisher"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale, chez Mame, imprimeur du département"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_868338"
+
+[[text]]
+file = "discoursdantoine00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursdantoine00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursdantoine00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursdantoine00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

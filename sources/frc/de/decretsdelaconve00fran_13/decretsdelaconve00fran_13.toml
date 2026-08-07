@@ -1,0 +1,90 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "decretsdelaconve00fran_13"
+type = "pamphlet"
+title = "Décrets de la Convention nationale, des premier et 2 octobre 1793, l'an second de la République française, une et indivisible, sur le mode d'exécution de la loi qui met les citoyens de 18 à 25 ans en état de réquisition"
+language = "fr"
+place = "A Paris"
+date = "1793"
+note = """
+Caption title. At right of title: No. 1632. Signed: Destournelles; countersigned: Gohier. Imprint from colophon. Not in Martin & Walter. Révolution française. 1o. Du premier octobre, relatif aux jeunes gens qui ont atteint l'âge de 18 ans depuis la promulgation de la loi du 23 août dernier -- 2o. Du 2 octobre, relatif aux jeunes citoyens qui se sont mariés depuis la loi du 23 août 1793. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover. 
+Only one numbered page. Pages have been cut."""
+url = "https://archive.org/details/decretsdelaconve00fran_13"
+subject = [
+    "Draftees",
+    "Youth",
+    "Marital status",
+]
+extent = "2 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10332 no. 99"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t03z3cz6h"
+internet_archive = "decretsdelaconve00fran_13"
+openlibrary_edition = "OL26225452M"
+openlibrary_work = "OL17620773W"
+
+[scan]
+file = "decretsdelaconve00fran_13.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/decretsdelaconve00fran_13"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Des Champs des Tournelles, Louis-Grégoire, 1744-1795"
+role = "author"
+
+[[resp]]
+name = "Gohier, Louis-Jérôme, 1746-1830"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_852088"
+
+[[text]]
+file = "decretsdelaconve00fran_13.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretsdelaconve00fran_13.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretsdelaconve00fran_13.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretsdelaconve00fran_13.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

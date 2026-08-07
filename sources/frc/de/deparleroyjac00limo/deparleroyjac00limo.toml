@@ -1,0 +1,55 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "deparleroyjac00limo"
+type = "pamphlet"
+title = "De par le roy, Jacques-Louis de Chaumont de La Milliere, Chevalier, Seigneur de Vallançay, Luçay, Dargeville, & autres lieux, conseiller du roy en ses conseils, maître des requêtes ordinaire de son hôtel, intendant de justice, police & finances en la généralité de Limoges"
+language = "fr"
+date = "1751"
+note = "About the paper industry in the area. Dated 26 December 1751. Scanner's note: No copyright page found. No table-of-contents pages found. Title and cover pages combined. Text lost in crease."
+url = "https://archive.org/details/deparleroyjac00limo"
+subject = [
+    "Paper industry",
+    "Papermaking",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 5 no. 89"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3sv36m8x"
+internet_archive = "deparleroyjac00limo"
+
+[scan]
+file = "deparleroyjac00limo.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/deparleroyjac00limo"
+ppi = 350
+note = "Scanned on fold1.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Limoges (France)"
+role = "author"
+
+[[resp]]
+name = "[Limoges"
+role = "publisher"
+
+[[text]]
+file = "deparleroyjac00limo.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "deparleroyjac00limo.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

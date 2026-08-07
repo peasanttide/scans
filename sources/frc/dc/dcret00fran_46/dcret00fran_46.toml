@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "dcret00fran_46"
+type = "pamphlet"
+title = "Décret"
+language = "fr"
+place = "A Paris"
+date = "1793"
+note = "Caption title. Imprint from colophon. At upper right on p.[1]: N.o 9. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages."
+url = "https://archive.org/details/dcret00fran_46"
+extent = "4 p. ; 28 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9315"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4km4dm1d"
+internet_archive = "dcret00fran_46"
+openlibrary_edition = "OL26221983M"
+openlibrary_work = "OL17617483W"
+
+[scan]
+file = "dcret00fran_46.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/dcret00fran_46"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale du Louvre"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_67064"
+
+[[text]]
+file = "dcret00fran_46.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dcret00fran_46.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dcret00fran_46.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dcret00fran_46.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

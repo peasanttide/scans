@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "dtaildecequisest00ll"
+type = "pamphlet"
+title = "... Détail de ce qui s'est passé au Palais directorial [i.e. Palais du Luxembourg] : entre un membre du Directoire, un ex-conventionnel et un membre du nouveau tiers."
+language = "fr"
+place = "Paris"
+date = "1798"
+note = """Caption title. Imprint from colophon. Signed at end: L......l. "Extrait du journal Le rédacteur.". Dated in contemporary ms. at head of p.[1]: le 4 m.dor [messidor] an 6 [22 juin 1798]. Martin & Walter IV 2: 5367. Scanner's note: No copyright. No table of contents. Title on cover. Damaged, stained pages and cover."""
+url = "https://archive.org/details/dtaildecequisest00ll"
+subject = [
+    "France. Directoire exécutif (1795-1799)",
+    "Palais de Luxembourg (Paris, France)",
+]
+extent = "4 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 3015"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9k40tw8c"
+internet_archive = "dtaildecequisest00ll"
+openlibrary_edition = "OL26209838M"
+openlibrary_work = "OL17606079W"
+
+[scan]
+file = "dtaildecequisest00ll.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/dtaildecequisest00ll"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "L. L"
+role = "author"
+
+[[resp]]
+name = "Imprimerie de Lachave"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_48431"
+
+[[text]]
+file = "dtaildecequisest00ll.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dtaildecequisest00ll.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dtaildecequisest00ll.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dtaildecequisest00ll.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

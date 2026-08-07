@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discoursprononcp00fran"
+type = "pamphlet"
+title = "Discours prononcé par le roi à l'Assemblée nationale, qui a attendri jusqu'au larmes. Réponse de M. le président au roi. Lettre du roi à l'Assemblée. Lettre de M. Rochambeau au roi. Réponse du roi."
+language = "fr"
+place = "Paris"
+date = "1791"
+note = "Caption title. Imprint from colophon. Reprinted from various periodicals. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found. Title and cover page are combined. Damaged, stained and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/discoursprononcp00fran"
+extent = "4 p. ; 18 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 3487"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t16m89r36"
+internet_archive = "discoursprononcp00fran"
+openlibrary_edition = "OL26214899M"
+openlibrary_work = "OL17610798W"
+
+[scan]
+file = "discoursprononcp00fran.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/discoursprononcp00fran"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Sovereign (1774-1792 : Louis XVI)"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale législative (1791-1792)"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie D'Acard"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_49678"
+
+[[text]]
+file = "discoursprononcp00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononcp00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononcp00fran.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononcp00fran.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

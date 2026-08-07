@@ -1,0 +1,83 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discoursprononce00cuni"
+type = "pamphlet"
+title = "Discours prononcé par Cunier (du Bas-Rhin) : séance du 7 vendémiaire an 7."
+language = "fr"
+place = "A Paris"
+date = "1798"
+note = "Pagination error: p. 3 misnumbered 5. Caption title. At head of title: Corps législatif. Conseil des cinq-cents. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  I, 8994. Scanner's note: No copyright page found. No table-of-contents pages found. Damaged, stained pages and cover. Title and cover pages combined. Missing pages 3-4."
+url = "https://archive.org/details/discoursprononce00cuni"
+subject = [
+    "Soldiers",
+    "First Coalition, War of the, 1792-1797",
+]
+extent = "5 [i.e. 3] p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 16837"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8bg7ph50"
+internet_archive = "discoursprononce00cuni"
+openlibrary_edition = "OL26200329M"
+openlibrary_work = "OL17596971W"
+
+[scan]
+file = "discoursprononce00cuni.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/discoursprononce00cuni"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Cunier, David Charles Henry, 1762-1828"
+role = "author"
+
+[[resp]]
+name = "France. Corps législatif (1795-1814). Conseil des cinq-cents"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_835807"
+
+[[text]]
+file = "discoursprononce00cuni.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00cuni.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00cuni.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00cuni.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

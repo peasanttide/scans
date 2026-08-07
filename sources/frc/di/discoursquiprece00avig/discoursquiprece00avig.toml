@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discoursquiprece00avig"
+type = "pamphlet"
+title = "Discours qui a précédé la division des ordres dans leurs chambres, & la prestation de serment"
+language = "fr"
+place = "France"
+date = "1789"
+note = "Caption title. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/discoursquiprece00avig"
+subject = ["France. États généraux"]
+extent = "4 p. ; 24 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 26464"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9b61qq6t"
+internet_archive = "discoursquiprece00avig"
+openlibrary_edition = "OL26229719M"
+openlibrary_work = "OL17624752W"
+
+[scan]
+file = "discoursquiprece00avig.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/discoursquiprece00avig"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Avigneau, abbé d'"
+role = "author"
+
+[[resp]]
+name = "France. États généraux"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_862194"
+
+[[text]]
+file = "discoursquiprece00avig.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursquiprece00avig.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursquiprece00avig.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursquiprece00avig.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

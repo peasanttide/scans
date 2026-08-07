@@ -1,0 +1,86 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discoursprononce00meun"
+type = "pamphlet"
+title = "Discours prononcé par Meunier (du Loiret), pour annoncer une offrande patriotique du citoyen Rigolot, ingénieur à Orléans : séance du 29 floréal an 7."
+language = "fr"
+place = "Paris"
+date = "1799"
+note = """Caption title. At head of title: Corps législatif. Conseil des cinq-cents. Imprint from colophon. Martin & Walter. Révolution française. "Copie de la lettre écrite le 24 floréal an 7 de la République, par l'administration municipale d'Orléans, au représentant du peuple Meunier, du Loiret"--P. 2-3. Bibliography: Martin & Walter.  Révolution française,  III, 24152. Scanner's note: Title page and cover are combined. Damaged, stained, marked and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/discoursprononce00meun"
+subject = [
+    "Rigolot, citoyen",
+    "Gifts",
+    "Finance, Public",
+    "Patriotism",
+    "Assassination",
+]
+extent = "3 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 22415"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t08w8p950"
+internet_archive = "discoursprononce00meun"
+openlibrary_edition = "OL26240698M"
+openlibrary_work = "OL17635221W"
+
+[scan]
+file = "discoursprononce00meun.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/discoursprononce00meun"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Meunier, Hugues Alexandre Joseph, baron, 1758-1831"
+role = "author"
+
+[[resp]]
+name = "France. Corps législatif (1795-1814). Conseil des cinq-cents"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_846026"
+
+[[text]]
+file = "discoursprononce00meun.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00meun.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00meun.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00meun.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

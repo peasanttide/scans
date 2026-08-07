@@ -1,0 +1,83 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "decretdelaconven00fra_lpo"
+type = "pamphlet"
+title = "Décret de la Convention nationale, du 13e. jour de ventôse, an second de la République française, une & indivisible, qui prescrit l'heure des publications de criées"
+language = "fr"
+place = "A Paris"
+date = "1794"
+note = "Caption title. At right of title: No. 2220. Signed: Gohier, président du Conseil exécutif provisoire. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: Irregular Pagination. Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages. No title page found. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/decretdelaconven00fra_lpo"
+subject = [
+    "Government auctions",
+    "Promulgation (Law)",
+]
+extent = "2 p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10334 no. 30"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5m95br74"
+internet_archive = "decretdelaconven00fra_lpo"
+openlibrary_edition = "OL26224970M"
+openlibrary_work = "OL17620296W"
+
+[scan]
+file = "decretdelaconven00fra_lpo.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/decretdelaconven00fra_lpo"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Gohier, Louis-Jérôme, 1746-1830"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale exécutive du Louvre"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_851909"
+
+[[text]]
+file = "decretdelaconven00fra_lpo.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelaconven00fra_lpo.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelaconven00fra_lpo.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelaconven00fra_lpo.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

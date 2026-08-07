@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discoursprononce00dela"
+type = "pamphlet"
+title = "Discours prononcé par Monsieur de Laguelle de Coinces, président de l'assemblée electorale du district d'Orléans, lors de la proclamation faite dans l'eglise cathédrale, en presence du peuple & du clergé, des curés élus aux paroisses vacantes, le 22 février 1791."
+language = "fr"
+place = "A Orleans"
+date = "1791"
+note = """Caption title. "Imprimé par ordre de Messieurs de l'assemblée electorale, le 22 fevrier 1791"--At end. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No title page found. No copyright page found. No table-of-contents pages found."""
+url = "https://archive.org/details/discoursprononce00dela"
+subject = ["Clergy"]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 20351"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t11p3b49p"
+internet_archive = "discoursprononce00dela"
+openlibrary_edition = "OL26236979M"
+openlibrary_work = "OL17631533W"
+
+[scan]
+file = "discoursprononce00dela.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/discoursprononce00dela"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Delagueulle"
+role = "author"
+
+[[resp]]
+name = "Orléans (France). Assemblée electorale"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de J. Jacob, l'ainé imprimeur du département, rue de l'Ecrivinerie"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_842483"
+
+[[text]]
+file = "discoursprononce00dela.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00dela.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00dela.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00dela.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

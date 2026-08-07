@@ -1,0 +1,99 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discoursprononce00pali"
+type = "pamphlet"
+title = "Discours prononcé le 21 brumaire an VII, par le citoyen Palissot, en faisant hommage au Conseil d'un ouvrage du citoyen Maimieux, auteur de la Pasigraphie."
+language = "fr"
+place = "A Paris"
+date = "1798"
+note = "Caption title. At head of title: Corps législatif. Conseil des anciens. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  III, 26348. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined.  Uneven binding. Skewed text.  Damaged, stained, and/or loose pages."
+url = "https://archive.org/details/discoursprononce00pali"
+subject = [
+    "Maimieux, Joseph de, 1753-1820",
+    "Education",
+]
+extent = "6 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 23350"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t77t2xh57"
+internet_archive = "discoursprononce00pali"
+openlibrary_edition = "OL26236592M"
+openlibrary_work = "OL17631144W"
+
+[scan]
+file = "discoursprononce00pali.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/discoursprononce00pali"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Palissot de Montenoy, Charles, 1730-1814"
+role = "author"
+
+[[resp]]
+name = "Maimieux, Joseph de, 1753-1820. Trois musées de l'enfance"
+role = "author"
+
+[[resp]]
+name = "France. Corps législatif (1795-1814). Conseil des anciens"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_847198"
+
+[[text]]
+file = "discoursprononce00pali.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00pali.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00pali.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00pali.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00pali.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00pali.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

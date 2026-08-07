@@ -1,0 +1,88 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discoursduroi00unse_11"
+type = "pamphlet"
+title = "Discours du roi, prononcé à l'ouverture de l'Assemblée nationale-législative, le 7 octobre 1791"
+language = "fr"
+place = "A Paris"
+date = "1791"
+note = "Caption title. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française, III, 21784. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/discoursduroi00unse_11"
+subject = [
+    "France. Assemblée nationale législative (1791-1792)",
+    "Constitutional law",
+    "Prerogative, Royal",
+]
+extent = "4 p. ; 25 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 26923"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t58d5212x"
+internet_archive = "discoursduroi00unse_11"
+openlibrary_edition = "OL26227189M"
+openlibrary_work = "OL17622416W"
+
+[scan]
+file = "discoursduroi00unse_11.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/discoursduroi00unse_11"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Louis XVI, King of France,1754-1793"
+role = "author"
+
+[[resp]]
+name = "Louis XVI, King of France, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale législative (1791-1792)"
+role = "author"
+
+[[resp]]
+name = "Imprimerie royale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie royale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_866669"
+
+[[text]]
+file = "discoursduroi00unse_11.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursduroi00unse_11.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursduroi00unse_11.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursduroi00unse_11.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

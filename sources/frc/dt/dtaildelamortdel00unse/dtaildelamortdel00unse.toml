@@ -1,0 +1,68 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "dtaildelamortdel00unse"
+type = "pamphlet"
+title = "Détail de la mort de Louvet : l'empoisonnement de son épouse ; ses dernières paroles."
+language = "fr"
+place = "Paris"
+date = "1797"
+note = "Caption title. Imprint from colophon. Martin & Walter IV 2: 5391. Scanner's note: No copyright. No table of contents. Title on cover. Damaged, stained pages and cover."
+url = "https://archive.org/details/dtaildelamortdel00unse"
+subject = ["Louvet de Couvray, Jean-Baptiste, 1760-1797"]
+extent = "4 p. ; 18 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 3029"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4tj3jq20"
+internet_archive = "dtaildelamortdel00unse"
+openlibrary_edition = "OL26209123M"
+openlibrary_work = "OL17605375W"
+
+[scan]
+file = "dtaildelamortdel00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/dtaildelamortdel00unse"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Ce [i.e. Se] distribue chez la citoyenne Prevost ; de l'imprimerie de Donnier"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_47395"
+
+[[text]]
+file = "dtaildelamortdel00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dtaildelamortdel00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dtaildelamortdel00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dtaildelamortdel00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

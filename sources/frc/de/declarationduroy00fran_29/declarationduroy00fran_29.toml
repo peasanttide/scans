@@ -1,0 +1,69 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "declarationduroy00fran_29"
+type = "pamphlet"
+title = "Declaration du roy, en interpretation du reglement fait pour la vente des livres"
+language = "fr"
+place = "A Paris"
+date = "1711"
+note = "Caption title. Imprint at foot of p. 3. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Title page and cover are combined."
+url = "https://archive.org/details/declarationduroy00fran_29"
+subject = ["Booksellers and bookselling"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 3 no. 39"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3616ng3p"
+internet_archive = "declarationduroy00fran_29"
+
+[scan]
+file = "declarationduroy00fran_29.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/declarationduroy00fran_29"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Sovereign (1643-1715 : Louis XIV)"
+role = "author"
+
+[[resp]]
+name = "France. Sovereign (1643-1715 : Louis XIV)"
+role = "author"
+
+[[resp]]
+name = "Aux dépens de la communauté. De l'imprimerie de Jacques Josse"
+role = "publisher"
+
+[[text]]
+file = "declarationduroy00fran_29.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "declarationduroy00fran_29.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "declarationduroy00fran_29.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "declarationduroy00fran_29.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

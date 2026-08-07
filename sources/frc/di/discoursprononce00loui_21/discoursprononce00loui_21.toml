@@ -1,0 +1,83 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discoursprononce00loui_21"
+type = "pamphlet"
+title = "Discours prononcé par le roi a l'Assemblée nationale."
+language = "fr"
+place = "Grenoble"
+date = "1791"
+note = """Caption title. "Permis d'imprimer & distribuer. A Grenoble, en la maison commune, ce 21 décembre 1791. Grimaud, off. M."--P. [4]. Variant of Martin & Walter. Révolution française, III, 21788. "Réponse de l'Assemblée nationale"--P. [3]-[4]. "Discours de M. de Narbonne, ministre de la guerre, a l'Assemblée nationale"--P. [4]. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained and/or loose pages. Uneven binding. Skewed text.  No page numbers."""
+url = "https://archive.org/details/discoursprononce00loui_21"
+subject = [
+    "Joseph II, Holy Roman Emperor, 1741-1790",
+    "Executive-legislative relations",
+]
+extent = "[4] p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 21586"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t87h6v33r"
+internet_archive = "discoursprononce00loui_21"
+openlibrary_edition = "OL26239588M"
+openlibrary_work = "OL17634128W"
+
+[scan]
+file = "discoursprononce00loui_21.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/discoursprononce00loui_21"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Louis XVI, King of France, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "Narbonne, Louis de, 1755-1813"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale législative (1791-1792)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_845027"
+
+[[text]]
+file = "discoursprononce00loui_21.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00loui_21.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00loui_21.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00loui_21.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,84 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discourspron00unse_1"
+type = "pamphlet"
+title = "Discours prononcé, le 17 juin 1790, dans l'assemblée représentative du Comté Venaissin, par M. Raphel, président de la même assemblée, lorsqu'elle a reçu la visite de Mgr. le vice-légat"
+language = "fr"
+place = "A Carpentras"
+date = "1790"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/discourspron00unse_1"
+subject = [
+    "Casoni, Philippe",
+    "Catholic Church",
+    "Church and state",
+]
+extent = "[3] p. ; 28 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 27133"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t70w3mk4t"
+internet_archive = "discourspron00unse_1"
+openlibrary_edition = "OL26227193M"
+openlibrary_work = "OL17622420W"
+
+[scan]
+file = "discourspron00unse_1.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/discourspron00unse_1"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Raphel"
+role = "author"
+
+[[resp]]
+name = "Quenin, Dominique-Gaspard, 1734-1809?"
+role = "publisher"
+
+[[resp]]
+name = "Comtat Venaissin (France). Assemblée représentative"
+role = "author"
+
+[[resp]]
+name = "Chez Dominique-Gaspard Quenin, imprimeur de la province"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_867772"
+
+[[text]]
+file = "discourspron00unse_1.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discourspron00unse_1.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discourspron00unse_1.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discourspron00unse_1.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

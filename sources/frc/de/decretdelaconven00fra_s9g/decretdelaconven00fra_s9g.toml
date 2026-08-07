@@ -1,0 +1,93 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "decretdelaconven00fra_s9g"
+type = "pamphlet"
+title = "Décret de la Convention nationale, du 9e. jour de prairial, an second de la République française, une & indivisible, relatif à la liquidation des droits appartenant à la République sur les titres & papiers de la ci-devant compagnies des assurances sur la vie"
+language = "fr"
+place = "A Paris"
+date = "1794"
+note = "Caption title. At right of title: No. 2379. Signed: Voulland, ex-président; Carrier & Francastel, secrétaires. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."
+url = "https://archive.org/details/decretdelaconven00fra_s9g"
+subject = [
+    "Compagnie d'assurances sur la vie",
+    "Liquidation",
+    "Recording and registration",
+    "Finance, Public",
+]
+extent = "3 p. ; 28 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10334 no. 89"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2f81gp84"
+internet_archive = "decretdelaconven00fra_s9g"
+openlibrary_edition = "OL26225418M"
+openlibrary_work = "OL17620739W"
+
+[scan]
+file = "decretdelaconven00fra_s9g.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/decretdelaconven00fra_s9g"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Voulland, Jean-Henri, 1751-1801"
+role = "author"
+
+[[resp]]
+name = "Carrier, Jean-Baptiste, 1756-1794"
+role = "author"
+
+[[resp]]
+name = "Francastel, Marie-Pierre-Adrien, 1761-1831"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Louvre"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_851984"
+
+[[text]]
+file = "decretdelaconven00fra_s9g.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelaconven00fra_s9g.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelaconven00fra_s9g.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelaconven00fra_s9g.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

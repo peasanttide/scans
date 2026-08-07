@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discoursdemandre00andr"
+type = "pamphlet"
+title = "Discours de M. André, docteur en médecine, membre de l'Assemblée patriotique de Marseille & commissaire, portant la parole, à la visite qui fut faite aux dames des districts de l'Observance, de St. Martin & des Dominicains, le 17 juillet, l'an second de la liberté 1790."
+language = "fr"
+place = "A Marseille"
+date = "1790"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No title page found. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/discoursdemandre00andr"
+subject = ["Women"]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 13467"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7gr1n472"
+internet_archive = "discoursdemandre00andr"
+openlibrary_edition = "OL25926357M"
+openlibrary_work = "OL17348986W"
+
+[scan]
+file = "discoursdemandre00andr.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/discoursdemandre00andr"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "André, docteur en médecine"
+role = "author"
+
+[[resp]]
+name = "Favet, Pierre-Antoine"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie de P. Ant. Favet, imprimeur du Roi & de la ville, rue du Pavillon"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_828449"
+
+[[text]]
+file = "discoursdemandre00andr.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursdemandre00andr.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursdemandre00andr.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursdemandre00andr.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

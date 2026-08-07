@@ -1,0 +1,99 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "dlibration00vill"
+type = "pamphlet"
+title = "Délibération"
+language = "fr"
+place = "s.l."
+date = "1790"
+note = """Dated at beginning: Ce jourd'hui vingt-cinq juillet mil sept cent quatre-vingt-dix .. Incomplete? Does not include "L'adresse a l'Assemblée nationale.". Martin & Walter IV 2: 18014 (incomplete copy). Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover."""
+url = "https://archive.org/details/dlibration00vill"
+extent = "8 p. ; 28 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10318"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7jq63d4r"
+internet_archive = "dlibration00vill"
+openlibrary_edition = "OL26223101M"
+openlibrary_work = "OL17618562W"
+
+[scan]
+file = "dlibration00vill.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/dlibration00vill"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Villeneuve-lès-Avignon (France)"
+role = "author"
+
+[[resp]]
+name = "Villeneuve-lès-Avignon (France)"
+role = "author"
+
+[[resp]]
+name = "s.n.]"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_71935"
+
+[[text]]
+file = "dlibration00vill.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dlibration00vill.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dlibration00vill.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dlibration00vill.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dlibration00vill.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dlibration00vill.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dlibration00vill.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dlibration00vill.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

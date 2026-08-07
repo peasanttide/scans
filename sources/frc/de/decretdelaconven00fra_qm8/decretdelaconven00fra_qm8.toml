@@ -1,0 +1,87 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "decretdelaconven00fra_qm8"
+type = "pamphlet"
+title = "Décret de la Convention nationale, du 19e. jour ventôse, an second de la République française, une & indivisible, relatif à la faculté accordée à des acquéreurs de biens nationaux dans lesquels étoient compris des droits supprimés, de renoncer à leur adjudications"
+language = "fr"
+place = "A Paris"
+date = "1794"
+note = "Caption title. At right of title: No. 2241. Signed: Bouchotte; countersigned: Gohier. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."
+url = "https://archive.org/details/decretdelaconven00fra_qm8"
+subject = [
+    "Real property",
+    "Vendors and purchasers",
+]
+extent = "3 p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10334 no. 32"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4rj9kf0h"
+internet_archive = "decretdelaconven00fra_qm8"
+openlibrary_edition = "OL26224839M"
+openlibrary_work = "OL17620165W"
+
+[scan]
+file = "decretdelaconven00fra_qm8.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/decretdelaconven00fra_qm8"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Bouchotte, J. (Jean), 1754-1840"
+role = "author"
+
+[[resp]]
+name = "Gohier, Louis-Jérôme, 1746-1830"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale exécutive du Louvre"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_851911"
+
+[[text]]
+file = "decretdelaconven00fra_qm8.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelaconven00fra_qm8.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelaconven00fra_qm8.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelaconven00fra_qm8.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

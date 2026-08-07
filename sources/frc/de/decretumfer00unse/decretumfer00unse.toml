@@ -1,0 +1,51 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "decretumfer00unse"
+type = "pamphlet"
+title = "Decretum feria tertia, die 7. Decembris 1694"
+language = "la"
+date = "1694"
+note = """Caption title. Opening words of text: Sacra Congregatio Eminetissimorum, & Reverendissimorum DD. S. R. E. Cardinalium in totat Republica Christiana Generalium Inquisitorum ... prohibet, & damnat infrascriptos libros, folia, theses, & indulgentias ...". Dated 9 December 1694. Extracted from an unidentified publication. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination.  Page numbers begin at number 53.  Title page and cover are combined."""
+url = "https://archive.org/details/decretumfer00unse"
+subject = [
+    "Prohibited books",
+    "Inquisition",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 2 no. 75"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2993v796"
+internet_archive = "decretumfer00unse"
+
+[scan]
+file = "decretumfer00unse.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/decretumfer00unse"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "[n.p"
+role = "publisher"
+
+[[text]]
+file = "decretumfer00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "la"
+
+[[text]]
+file = "decretumfer00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "la"

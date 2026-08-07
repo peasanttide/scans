@@ -1,0 +1,71 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discoursdemlepre00fran"
+type = "pamphlet"
+title = "Discours de M. le premier président au roi : du 21 septembre 1787."
+language = "fr"
+place = "s.l."
+date = "1787"
+note = """Half title. Pages 3 and 4 numbered 2 and 3. "Réponse du roi, du 21 septembre": p.3 [i.e. 4]. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on cover page. Damaged, stained and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/discoursdemlepre00fran"
+extent = "3 [i.e. 4] p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 6418"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t77t2sh43"
+internet_archive = "discoursdemlepre00fran"
+openlibrary_edition = "OL26218558M"
+openlibrary_work = "OL17614264W"
+
+[scan]
+file = "discoursdemlepre00fran.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/discoursdemlepre00fran"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Sovereign (1774-1792 : Louis XVI)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_57613"
+
+[[text]]
+file = "discoursdemlepre00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursdemlepre00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursdemlepre00fran.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursdemlepre00fran.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

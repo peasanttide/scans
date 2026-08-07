@@ -1,0 +1,88 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "decretsconvent00unse_25"
+type = "pamphlet"
+title = "Décret de la Convention nationale, du 12 novembre 1792, l'an 1er. de la République françoise : fonds mis à la disposition du ministre des contributions, pour être répartis en secours entre différens départemens"
+language = "fr"
+place = "A Paris"
+date = "1792"
+note = """Caption title. At right of title: No. 139. Signed: Roland; countersigned: Garat. Imprint from colophon. Not in Martin & Walter. Révolution française. "Tableau des sommes à répartir aux départemens des Bouches du Rhône, du Calvados & de Corse"--P. 2. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages."""
+url = "https://archive.org/details/decretsconvent00unse_25"
+subject = [
+    "France. Caisse de l'extraordinaire",
+    "Public welfare",
+    "Finance, Public",
+]
+extent = "3 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10329 no. 27"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t06x4gn4q"
+internet_archive = "decretsconvent00unse_25"
+openlibrary_edition = "OL26225717M"
+openlibrary_work = "OL17621031W"
+
+[scan]
+file = "decretsconvent00unse_25.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/decretsconvent00unse_25"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Roland de La Platière, Jean-Marie, 1734-1793"
+role = "author"
+
+[[resp]]
+name = "Garat, Dominique-Joseph, comte, 1749-1833"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale exécutive du Louvre"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_852149"
+
+[[text]]
+file = "decretsconvent00unse_25.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretsconvent00unse_25.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretsconvent00unse_25.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretsconvent00unse_25.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

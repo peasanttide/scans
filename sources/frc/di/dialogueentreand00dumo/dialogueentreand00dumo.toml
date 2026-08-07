@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "dialogueentreand00dumo"
+type = "pamphlet"
+title = "Dialogue entre André Dumont et un de ses collègues."
+language = "fr"
+place = "Paris"
+date = "1792"
+note = "Caption title. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  II, 11891. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged pages.  Text is cut off."
+url = "https://archive.org/details/dialogueentreand00dumo"
+subject = [
+    "Denunciation (Criminal law)",
+    "Abuse of administrative power",
+]
+extent = "4 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 11584"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9k40ff61"
+internet_archive = "dialogueentreand00dumo"
+openlibrary_edition = "OL25913066M"
+openlibrary_work = "OL17336560W"
+
+[scan]
+file = "dialogueentreand00dumo.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/dialogueentreand00dumo"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Dumont, André, 1764-1838"
+role = "author"
+
+[[resp]]
+name = "Baudouin, François-Jean, 1759-1838"
+role = "publisher"
+
+[[resp]]
+name = "De l'imprimerie de Baudouin, imprimeur du Corps législatif, place du Carrousel"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_825231"
+
+[[text]]
+file = "dialogueentreand00dumo.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dialogueentreand00dumo.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dialogueentreand00dumo.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dialogueentreand00dumo.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

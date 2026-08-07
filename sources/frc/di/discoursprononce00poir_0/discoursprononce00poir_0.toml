@@ -1,0 +1,74 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discoursprononce00poir_0"
+type = "pamphlet"
+title = "Discours prononcé à la Société populaire & républicaine de Lille le 28 vendémiaire troisième année républicaine, en lui faisant hommage de deux cent cinquante exemplaires d'un ouvrage intitulé, Les angoisses de la mort, ou, Idées des horreurs des prisons d'Arras, avec le même nombre des discours prononcés aux sociétés populaires & républicaines d'Arras & Cambray, les 6 & 16 de ce présent mois vendémiaire, suivis de l'extrait des procès-verbaux de ces sociétés, qui en ont, à l'humanité & spontanément arrêté la mention civique & l'impression des discours des auteurs."
+language = "fr"
+place = "France?"
+date = "1794"
+note = """Caption title. At head of title: Patrie, loi, liberté, probité & humanité. Signed, Poirier & Montgey, hommes de loi de Dunkerque, résidant à Arras régénéré. "Extrait du registre aux procès-verbaux de la Société populaire & républicaine de Lille."--P. 3-4. Not in Martin & Walter. Révolution française. Scanner's note: Title page and cover are combined. Damaged, stained, marked and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/discoursprononce00poir_0"
+subject = ["Poirier, Louis-Eugène, 1777-1818"]
+extent = "4 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 23816"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t76t5zd16"
+internet_archive = "discoursprononce00poir_0"
+
+[scan]
+file = "discoursprononce00poir_0.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/discoursprononce00poir_0"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Poirier, Louis-Eugène, 1777-1818"
+role = "author"
+
+[[resp]]
+name = "Société populaire de Lille"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_848036"
+
+[[text]]
+file = "discoursprononce00poir_0.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00poir_0.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00poir_0.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00poir_0.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

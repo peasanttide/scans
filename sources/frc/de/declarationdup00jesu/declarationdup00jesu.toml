@@ -1,0 +1,59 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "declarationdup00jesu"
+type = "pamphlet"
+title = "Déclaration du P. Provincial des Jésuites, et des supérieurs de leurs maisons de Paris, touchant un ouvrage intitulé: Histoire du peuple de Dieu, depuis la naissance du Messie jusqu'ã la fin de la synagogue, tirée des seuls Livres saints; ou le texte sacré des Livres du Nouveau Testament réduit en un corps d'histoire, par le P. Isaac-Joseph Berruyer, de la Compagnie de Jesus"
+language = "fr"
+date = "1753"
+note = "Caption title. Dated 22 October 1753. Disavows the edition cited. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Title page and cover are combined."
+url = "https://archive.org/details/declarationdup00jesu"
+subject = [
+    "Berruyer, Isaac-Joseph, 1681-1758",
+    "Censorship",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 6 no. 26"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t44r3hk15"
+internet_archive = "declarationdup00jesu"
+
+[scan]
+file = "declarationdup00jesu.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/declarationdup00jesu"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Jesuits.France"
+role = "author"
+
+[[resp]]
+name = "Jesuits. France"
+role = "author"
+
+[[resp]]
+name = "[n.p."
+role = "publisher"
+
+[[text]]
+file = "declarationdup00jesu.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "declarationdup00jesu.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

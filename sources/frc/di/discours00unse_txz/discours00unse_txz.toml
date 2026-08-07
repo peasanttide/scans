@@ -1,0 +1,82 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discours00unse_txz"
+type = "pamphlet"
+title = "Discours de M. le lieutenant civil du Chatelet : prononcé à M. Bouvard de Fourqueux, conseiller d'Etat, du 21 mai, 1788."
+language = "fr"
+place = "France"
+date = "1788"
+note = """Caption title. Antoine Omer Talon was lieutenant civil of the Châtelet. Not in Martin & Walter. Révolution française. "Protestation du Chatelet de Paris, du 21 mai 1788"--P. 2-4. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover. Skewed text. Damaged, stained and/or loose pages."""
+url = "https://archive.org/details/discours00unse_txz"
+subject = ["Paris (France). Châtelet"]
+extent = "4 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 25548"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t16m8kj7r"
+internet_archive = "discours00unse_txz"
+
+[scan]
+file = "discours00unse_txz.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/discours00unse_txz"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Tallien, Jean-Lambert, 1767-1850"
+role = "author"
+
+[[resp]]
+name = "Talon, Antoine Omer, 1760-1811"
+role = "author"
+
+[[resp]]
+name = "Bouvard de Fourqueux"
+role = "author"
+
+[[resp]]
+name = "Paris (France). Châtelet"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_857583"
+
+[[text]]
+file = "discours00unse_txz.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discours00unse_txz.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discours00unse_txz.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discours00unse_txz.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

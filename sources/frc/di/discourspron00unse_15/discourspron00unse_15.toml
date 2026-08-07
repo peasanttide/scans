@@ -1,0 +1,41 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discourspron00unse_15"
+type = "pamphlet"
+title = "Untitled"
+language = "fr"
+note = "Scanner's note: Title page and cover are combined. Damaged, stained, marked and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/discourspron00unse_15"
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8vb3dg2j"
+internet_archive = "discourspron00unse_15"
+
+[scan]
+file = "discourspron00unse_15.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/discourspron00unse_15"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[text]]
+file = "discourspron00unse_15.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discourspron00unse_15.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

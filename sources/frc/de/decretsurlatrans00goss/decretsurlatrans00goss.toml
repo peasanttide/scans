@@ -1,0 +1,84 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "decretsurlatrans00goss"
+type = "pamphlet"
+title = "Décret sur la translation des cendres de Voltaire à Sainte-Geneviève : précédé du rapport fait par M. Gossin, au nom du Comité de Constitution, le 30 mars 1791 : imprimé par ordre de l'Assemblée nationale."
+language = "fr"
+place = "A Paris"
+date = "1791"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged pages. Uneven binding. Skewed text. Title and cover pages combined."
+url = "https://archive.org/details/decretsurlatrans00goss"
+subject = ["Voltaire, 1694-1778"]
+extent = "3 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 19189"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8pc7xd1p"
+internet_archive = "decretsurlatrans00goss"
+openlibrary_edition = "OL25952762M"
+openlibrary_work = "OL17373687W"
+
+[scan]
+file = "decretsurlatrans00goss.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/decretsurlatrans00goss"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Gossin, Pierre-François, 1754-1794"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791). Comité de Constitution"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_840184"
+
+[[text]]
+file = "decretsurlatrans00goss.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretsurlatrans00goss.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretsurlatrans00goss.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretsurlatrans00goss.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,16 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: discoursdelabata00guis
+page: 43
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 2769
+h: 4698
+dpi: 650
+---
+
+THE
+
+NEWBERRY
+
+LI8RARY

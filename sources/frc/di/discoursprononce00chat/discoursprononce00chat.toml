@@ -1,0 +1,87 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discoursprononce00chat"
+type = "pamphlet"
+title = "Discours prononcé par Chatry-Lafosse, en faisant hommage au Conseil des anciens, d'un mémoire du citoyen Cachin, sur le projet d'ouvrir un canal depuis la fosse de Colleville jusqu'à Caen : séance du 13 pluviose an 7."
+language = "fr"
+place = "A Paris"
+date = "1799"
+note = "Caption title. At head of title: Corps législatif. Conseil des anciens. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  I, 7046. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover."
+url = "https://archive.org/details/discoursprononce00chat"
+subject = [
+    "Canals",
+    "Inland navigation",
+]
+extent = "3 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 16110"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9091981j"
+internet_archive = "discoursprononce00chat"
+openlibrary_edition = "OL26206151M"
+openlibrary_work = "OL17602443W"
+
+[scan]
+file = "discoursprononce00chat.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/discoursprononce00chat"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Chatry-Lafosse, Pierre-Jacques-Samuel de, 1737-1808"
+role = "author"
+
+[[resp]]
+name = "Cachin"
+role = "author"
+
+[[resp]]
+name = "France. Corps législatif (1795-1814). Conseil des anciens"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_833433"
+
+[[text]]
+file = "discoursprononce00chat.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00chat.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00chat.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00chat.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

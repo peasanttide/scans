@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "dcret00fran_43"
+type = "pamphlet"
+title = "Dècret /"
+language = "fr"
+place = "Paris"
+date = "1794"
+note = "Caption title. Imprint from colophon. In upper right margin of p.[1]: No. 2130. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on cover page. Damaged, stained and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/dcret00fran_43"
+subject = ["Castles"]
+extent = "4 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 2301"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0sr3zs9w"
+internet_archive = "dcret00fran_43"
+openlibrary_edition = "OL26219262M"
+openlibrary_work = "OL17614954W"
+
+[scan]
+file = "dcret00fran_43.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/dcret00fran_43"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie du Journal de la Montagne"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_44559"
+
+[[text]]
+file = "dcret00fran_43.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dcret00fran_43.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dcret00fran_43.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dcret00fran_43.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

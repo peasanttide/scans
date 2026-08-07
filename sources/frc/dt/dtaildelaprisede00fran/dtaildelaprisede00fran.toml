@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "dtaildelaprisede00fran"
+type = "pamphlet"
+title = "Détail de la prise de Mons & de celle de Tournay par l'Armée française : suivi du décret de la Convention nationale sur la rentrée des billets de toutes les caisses patriotiques, utile aux négocians."
+language = "fr"
+place = "A Paris"
+date = "1792"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Scanner's note: No copyright. No table of contents. Title on cover. Damaged, stained pages and cover."
+url = "https://archive.org/details/dtaildelaprisede00fran"
+subject = ["Banks and banking"]
+extent = "4 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 3030"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7dr7wk7f"
+internet_archive = "dtaildelaprisede00fran"
+openlibrary_edition = "OL26208959M"
+openlibrary_work = "OL17605211W"
+
+[scan]
+file = "dtaildelaprisede00fran.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/dtaildelaprisede00fran"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Gouriet"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_49578"
+
+[[text]]
+file = "dtaildelaprisede00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dtaildelaprisede00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dtaildelaprisede00fran.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dtaildelaprisede00fran.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discours00unse_abf"
+type = "pamphlet"
+title = "Discours prononcé, le 25 septembre 1790, à la Chambre des vacations du Parlement d'Aix /"
+language = "fr"
+place = "Imprimé à Aix"
+date = "1790"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No title page found. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/discours00unse_abf"
+subject = ["Pascalis, Jean-Joseph-Pierre"]
+extent = "[4] p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 23404"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2b90h341"
+internet_archive = "discours00unse_abf"
+openlibrary_edition = "OL26237009M"
+openlibrary_work = "OL17631563W"
+
+[scan]
+file = "discours00unse_abf.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/discours00unse_abf"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Pascalis, Jean-Joseph-Pierre"
+role = "author"
+
+[[resp]]
+name = "France. Parlement (Aix-en-Provence). Chambre des vacations"
+role = "author"
+
+[[resp]]
+name = "[s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_848015"
+
+[[text]]
+file = "discours00unse_abf.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discours00unse_abf.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discours00unse_abf.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discours00unse_abf.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

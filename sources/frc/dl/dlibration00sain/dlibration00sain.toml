@@ -1,0 +1,71 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "dlibration00sain"
+type = "pamphlet"
+title = "Délibération /"
+language = "fr"
+place = "s.l."
+date = "1788"
+note = "Caption title. Without imprint. Dated at beginning: Du dimanche, 22 juin 1788 .. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover page. Uneven binding. Skewed text. Damaged, stained, and/or loose pages."
+url = "https://archive.org/details/dlibration00sain"
+extent = "4 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 8155"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7jq6302d"
+internet_archive = "dlibration00sain"
+openlibrary_edition = "OL26220428M"
+openlibrary_work = "OL17616046W"
+
+[scan]
+file = "dlibration00sain.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/dlibration00sain"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Saint-Marcellin (France)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_6462"
+
+[[text]]
+file = "dlibration00sain.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dlibration00sain.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dlibration00sain.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dlibration00sain.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

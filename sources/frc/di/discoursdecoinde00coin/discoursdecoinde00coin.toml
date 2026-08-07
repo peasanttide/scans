@@ -1,0 +1,71 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discoursdecoinde00coin"
+type = "pamphlet"
+title = "Discours de Coinde-Lativollière, l'un des députés de la municipalité de Voreppe, à l'Hôtel-de-ville de Grenoble."
+language = "fr"
+place = "France"
+date = "1789"
+note = """Caption title. "Du 15 juillet 1789, sur les trois heures ..."--P. [2]. Not in Martin & Walter. Ré́volution française. "Délibération de la ville de Voreppe"--P. [2]-4. Scanner's note: No copyright page found. No table-of-contents pages found. Title and cover pages combined."""
+url = "https://archive.org/details/discoursdecoinde00coin"
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 16413"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7dr7v28s"
+internet_archive = "discoursdecoinde00coin"
+openlibrary_edition = "OL26198061M"
+openlibrary_work = "OL17594774W"
+
+[scan]
+file = "discoursdecoinde00coin.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/discoursdecoinde00coin"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Coinde-Lativollière"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_834196"
+
+[[text]]
+file = "discoursdecoinde00coin.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursdecoinde00coin.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursdecoinde00coin.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursdecoinde00coin.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

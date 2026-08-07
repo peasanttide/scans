@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "deliberationdudi00cote_0"
+type = "pamphlet"
+title = "Délibération du directoire du département de la Côte d'Or, qui ordonne aux municipalités qui n'auroient pas formé les rôles de supplément des six derniers mois de 1789, de les terminer dans quinzaine, à compter de la publication de la présente déliberation"
+language = "fr"
+place = "A Dijon"
+date = "1790"
+note = """Caption title. "Extrait des procès-verbaux des séances du directoire du département de la Côte d'Or. Séance du 17 août 1790, au matin"--P. [1]. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. No title page found."""
+url = "https://archive.org/details/deliberationdudi00cote_0"
+subject = ["Tax administration and procedure"]
+extent = "4 p. ; 25 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9700 no. 7"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t15n1bd9d"
+internet_archive = "deliberationdudi00cote_0"
+openlibrary_edition = "OL26223062M"
+openlibrary_work = "OL17618523W"
+
+[scan]
+file = "deliberationdudi00cote_0.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/deliberationdudi00cote_0"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Côte-d'Or (France). Directoire"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Capel"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_857069"
+
+[[text]]
+file = "deliberationdudi00cote_0.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "deliberationdudi00cote_0.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "deliberationdudi00cote_0.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "deliberationdudi00cote_0.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

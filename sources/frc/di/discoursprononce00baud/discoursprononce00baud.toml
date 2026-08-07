@@ -1,0 +1,92 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discoursprononce00baud"
+type = "pamphlet"
+title = "Discours prononcé par P.C.L. Baudin (des Ardennes), en présentant au Conseil l'Essai sur les fables et sur leur histoire, ouvrage posthume de Jean-Sylvain Bailly : séance du 28 germinal an 7."
+language = "fr"
+place = "Paris"
+date = "1799"
+note = "Caption title. At head of title: Corps législatif. Conseil des anciens. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter. Révolution française,  I, 2005. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover."
+url = "https://archive.org/details/discoursprononce00baud"
+subject = ["Bailly, Jean Sylvain, 1736-1793"]
+extent = "6 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 14214"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2f81230p"
+internet_archive = "discoursprononce00baud"
+openlibrary_edition = "OL25919769M"
+openlibrary_work = "OL17342850W"
+
+[scan]
+file = "discoursprononce00baud.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/discoursprononce00baud"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Baudin, 1748-1799"
+role = "author"
+
+[[resp]]
+name = "France. Corps législatif (1795-1814). Conseil des anciens"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_829680"
+
+[[text]]
+file = "discoursprononce00baud.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00baud.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00baud.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00baud.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00baud.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00baud.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

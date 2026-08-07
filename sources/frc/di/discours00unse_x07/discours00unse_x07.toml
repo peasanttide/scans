@@ -1,0 +1,86 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discours00unse_x07"
+type = "pamphlet"
+title = "Discours fait par MM. Rovere & Duprat, députés des ci-devant états d'Avignon & du Comtat, pour être prononcé à l'Assemblée nationale."
+language = "fr"
+place = "Paris"
+date = "1791"
+note = "Caption title. Imprint from colophon. Date of publication from BM. Martin & Walter. Révolution française. BM. Bibliography: Martin & Walter.  Révolution française,  IV:1, 30310. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained, marked and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/discours00unse_x07"
+subject = [
+    "Mulot, François-Valentin, 1749-1804",
+    "Massacres",
+    "Counterrevolutions",
+]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 24798"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t18m2m03d"
+internet_archive = "discours00unse_x07"
+
+[scan]
+file = "discours00unse_x07.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/discours00unse_x07"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Rovère, Joseph-Stanislas, 1748-1798"
+role = "author"
+
+[[resp]]
+name = "Duprat, Jean, 1760-1793"
+role = "author"
+
+[[resp]]
+name = "Lehodey de Saultchevreuil, Étienne"
+role = "publisher"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Le Hodey, rue des Bons-Enfans, no. 41"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_850063"
+
+[[text]]
+file = "discours00unse_x07.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discours00unse_x07.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discours00unse_x07.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discours00unse_x07.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

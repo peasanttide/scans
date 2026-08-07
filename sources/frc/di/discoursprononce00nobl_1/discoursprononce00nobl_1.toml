@@ -1,0 +1,83 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discoursprononce00nobl_1"
+type = "pamphlet"
+title = "Discours prononcé par Noblet, en présentant au Conseil le discours composé par le citoyen Chaptinel, instituteur, concernant l'événement de Rastadt : séance du 21 prairial an 7."
+language = "fr"
+place = "A Paris"
+date = "1799"
+note = """Caption title. At head of title: Corps législatif. Conseil des anciens. Imprint from colophon. Martin & Walter. Révolution française. "Discours prononcé par un des élèves du citoyen Chaptinel, instituteur d'une école primaire, barrière du Mont-Blanc, canton de Clichy"--P. 3-4. Bibliography: Martin & Walter.  Révolution française,  III, 25835. Scanner's note: No copyright page found. No table-of-contents pages found. Title page is on the cover. Damaged, stained, and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/discoursprononce00nobl_1"
+subject = [
+    "Memorials",
+    "Assassination",
+]
+extent = "4 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 23249"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2c87j08n"
+internet_archive = "discoursprononce00nobl_1"
+openlibrary_edition = "OL26237917M"
+openlibrary_work = "OL17632468W"
+
+[scan]
+file = "discoursprononce00nobl_1.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/discoursprononce00nobl_1"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Noblet, Jean-Baptiste-Nicolas, b.1755"
+role = "author"
+
+[[resp]]
+name = "France. Corps législatif (1795-1814). Conseil des anciens"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_847349"
+
+[[text]]
+file = "discoursprononce00nobl_1.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00nobl_1.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00nobl_1.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00nobl_1.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,84 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discourspro00unse"
+type = "pamphlet"
+title = "Discours prononcé par M. de Saint-Sauveur, membre de la noblesse du bailliage d'Auxerre, le 25 mars 1789, dans l'assemblée des trois ordres réunis, & imprimé sur leur demande"
+language = "fr"
+place = "A Auxerre"
+date = "1789"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text. No title page found. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/discourspro00unse"
+subject = ["France. États généraux"]
+extent = "4 p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 27207"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0gv0rd64"
+internet_archive = "discourspro00unse"
+openlibrary_edition = "OL26229808M"
+openlibrary_work = "OL17624840W"
+
+[scan]
+file = "discourspro00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/discourspro00unse"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Saint-Sauveur, M. de,18th cent"
+role = "author"
+
+[[resp]]
+name = "Saint-Sauveur, M. de, 18th cent"
+role = "author"
+
+[[resp]]
+name = "Fournier, L. (Laurent)"
+role = "publisher"
+
+[[resp]]
+name = "France. États généraux"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de L. Fournier"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_868132"
+
+[[text]]
+file = "discourspro00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discourspro00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discourspro00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discourspro00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

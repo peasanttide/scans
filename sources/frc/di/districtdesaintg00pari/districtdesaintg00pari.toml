@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "districtdesaintg00pari"
+type = "pamphlet"
+title = "District de Saint-Germain-l'Auxerrois."
+language = "fr"
+place = "s.l."
+date = "1789"
+note = """Caption title. Without imprint. "J'ai l'honneur de vous proposer un moyen d'éviter une dépense annuelle de plus de quarante mille livre pour la Commune de Paris": p.[1]. Martin & Walter IV 2: 12443. Scanner's note: No title page found. No copyright page found. No table-of-contents pages found."""
+url = "https://archive.org/details/districtdesaintg00pari"
+subject = ["Finance, Public"]
+extent = "[4] p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 6544"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1jh8nc4z"
+internet_archive = "districtdesaintg00pari"
+openlibrary_edition = "OL26218441M"
+openlibrary_work = "OL17614147W"
+
+[scan]
+file = "districtdesaintg00pari.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/districtdesaintg00pari"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Paris (France). District de Saint-Germain-l'Auxerrois"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_58338"
+
+[[text]]
+file = "districtdesaintg00pari.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "districtdesaintg00pari.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "districtdesaintg00pari.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "districtdesaintg00pari.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

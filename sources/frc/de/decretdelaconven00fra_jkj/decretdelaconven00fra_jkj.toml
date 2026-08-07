@@ -1,0 +1,84 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "decretdelaconven00fra_jkj"
+type = "pamphlet"
+title = "Décret de la Convention nationale, du 23e. jour de brumaire, an second de la République française, une & indivisible, qui accorde des récompenses à ceux qui découvriront des matières d'or, d'argent, & des diamans enfouis sous terre, ou cachés"
+language = "fr"
+place = "A Paris"
+date = "1793"
+note = "Caption title. At right of title: No. 1865. Signed: Bouchotte; countersigned: Gohier. Imprint from colophon. Tail piece in imprint measures 7 cm.; another edition exists with tail piece measuring 5.4 cm. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages."
+url = "https://archive.org/details/decretdelaconven00fra_jkj"
+subject = ["Treasure troves"]
+extent = "3 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10333 no. 67"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6j155x4r"
+internet_archive = "decretdelaconven00fra_jkj"
+openlibrary_edition = "OL26225962M"
+openlibrary_work = "OL17621275W"
+
+[scan]
+file = "decretdelaconven00fra_jkj.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/decretdelaconven00fra_jkj"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Bouchotte, J. (Jean), 1754-1840"
+role = "author"
+
+[[resp]]
+name = "Gohier, Louis-Jérôme, 1746-1830"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale exécutive du Louvre"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_853130"
+
+[[text]]
+file = "decretdelaconven00fra_jkj.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelaconven00fra_jkj.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelaconven00fra_jkj.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelaconven00fra_jkj.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,73 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discoursduclerge00poix"
+type = "pamphlet"
+title = "Discours du clergé de Lyon au Tiers-état /"
+language = "fr"
+place = "France"
+date = "1789"
+note = "Caption title. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  IV:1, 27692. Scanner's note: Title page and cover are combined. Damaged, stained, marked and/or loose pages. Uneven binding. Skewed text.<br />No Copyright found. No Table of Contents found. <br />."
+url = "https://archive.org/details/discoursduclerge00poix"
+subject = [
+    "Estates (Social orders)",
+    "Clergy",
+]
+extent = "4 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 23835"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3wt3zj39"
+internet_archive = "discoursduclerge00poix"
+
+[scan]
+file = "discoursduclerge00poix.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/discoursduclerge00poix"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "Poix, abbé de"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_848724"
+
+[[text]]
+file = "discoursduclerge00poix.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursduclerge00poix.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursduclerge00poix.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursduclerge00poix.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

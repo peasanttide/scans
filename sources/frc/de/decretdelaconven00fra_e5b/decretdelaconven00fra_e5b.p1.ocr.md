@@ -1,0 +1,60 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: decretdelaconven00fra_e5b
+page: 1
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 3048
+h: 3996
+dpi: 350
+---
+
+E C R E T
+
+DE LA
+
+CONVENTION NATIONALE,
+
+Du 4 . c jour de Nivôfe , an 2. c de la République Françaife,
+une & inefiviilbfe ,
+
+Qui déclare communs à tous les Biens nationaux les
+termes depaiemens fixés pour les Biens des Émigrés.
+
+I r
+
+Convention nationale, après avoir entendu
+ie rapport de fes comités d’aliénation, des domaines & des
+finances, décrété qu a compter du 12 nivôfe j premier
+janvier 1794, vieux ftyle ) , les dfpoftions de l’article XXXI
+de la loi du 3 juin dernier, relatives aux termes des paie-
+ments des biens des émigrés, font communes à tous les biens
+nationaux , fans aucune diflinélion; & qu’en conféquencc, le
+prix de ceux qui referont a vendre a ladite époque , en
+fera acquitté en dix termes & paiemens égaux , le premier,
+dans 1e mois qui fuivra l’adjudication, & 'avant d’entrer en
+poffe fi on ; les neuf autres, d’année en année, avec les
+intérêts a cinq pour cent, fans retenue, décroiflànt à mefùre
+des rembourfèmens.
+
+L'infertion du préfent décret au bulletin , fervira de
+promulgation.
+
+Vifé par Bnfpeâenr . Signé S. E. Mon n el.
+
+Collationné à l’original, par nous préfidem & fecrétaires de fa
+Convention nationale. A Paris, ie 8 nivôfe, an fécond de fa
+République une & indivifibfe. Signé Voulland, ex-prêÇdm •
+Perrin & Pellissier , fecrétaires.
+
+.Au nom de la République, le Confeil exécutif provi-
+foire mande & ordonne a tous les Corps adminifratifs &
+
+N.°
+
+2003,
+
+Çitiù
+' %
+
+Wu ! 0 i

@@ -1,0 +1,90 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "decretconvent00unse_71"
+type = "pamphlet"
+title = "Décret de la Convention nationale, du 31 mars 1793, l'an second de la République françoise, portant que la loi de suspension des passeports, ne s'étend pas aux agens ni membres des ambassades des puissances étrangères, reconnus par le pouvoir exécutif"
+language = "fr"
+place = "A Paris"
+date = "1793"
+note = """
+Caption title. At right of title: No. 699. Signed: Garat; countersigned: Gohier. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover. 
+Only one numbered page."""
+url = "https://archive.org/details/decretconvent00unse_71"
+subject = [
+    "Diplomatic and consular service",
+    "Diplomatic privileges and immunities",
+    "Passports",
+]
+extent = "2 p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10330 no. 46"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t79s6wd0v"
+internet_archive = "decretconvent00unse_71"
+openlibrary_edition = "OL26225528M"
+openlibrary_work = "OL17620845W"
+
+[scan]
+file = "decretconvent00unse_71.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/decretconvent00unse_71"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Garat, Dominique-Joseph, comte, 1749-1833"
+role = "author"
+
+[[resp]]
+name = "Gohier, Louis-Jérôme, 1746-1830"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale exécutive du Louvre"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_852521"
+
+[[text]]
+file = "decretconvent00unse_71.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretconvent00unse_71.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretconvent00unse_71.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretconvent00unse_71.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

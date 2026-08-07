@@ -1,0 +1,95 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "dlibration00gapf"
+type = "pamphlet"
+title = "Délibération /"
+language = "fr"
+place = "s.l."
+date = "1789"
+note = "Half title. Dated at beginning: Ce jour, 19 juillet 1789 .. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover."
+url = "https://archive.org/details/dlibration00gapf"
+extent = "7 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 4028"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/txxxxxxxx"
+internet_archive = "dlibration00gapf"
+openlibrary_edition = "OL26212696M"
+openlibrary_work = "OL17608679W"
+
+[scan]
+file = "dlibration00gapf.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/dlibration00gapf"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Gap (France)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_51802"
+
+[[text]]
+file = "dlibration00gapf.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dlibration00gapf.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dlibration00gapf.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dlibration00gapf.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dlibration00gapf.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dlibration00gapf.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dlibration00gapf.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dlibration00gapf.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

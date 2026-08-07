@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "departementindrel00unse"
+type = "pamphlet"
+title = "Département d'Indre et Loire : extrait du registre des délibérations du Conseil-général du département, du 22 août 1793, l'an deux de la République, une et indivisible"
+language = "fr"
+place = "A Tours"
+date = "1793"
+note = "Caption title. At head of title: République françoise. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."
+url = "https://archive.org/details/departementindrel00unse"
+subject = [
+    "France. Armée",
+    "Festivals",
+]
+extent = "4 p. ; 25 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9855 no. 3"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t75t8rk7p"
+internet_archive = "departementindrel00unse"
+openlibrary_edition = "OL26222914M"
+openlibrary_work = "OL17618373W"
+
+[scan]
+file = "departementindrel00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/departementindrel00unse"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Conseil général d'Indre-et-Loire"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie d'Auguste Vauquer, & Lhéritier, imprimeurs du département"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_855761"
+
+[[text]]
+file = "departementindrel00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "departementindrel00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "departementindrel00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "departementindrel00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

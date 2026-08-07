@@ -1,0 +1,83 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discoursprononce00leve"
+type = "pamphlet"
+title = "Discours prononcé par M. Le Verdier, originaire de Rouen, curé de Choisy-le-Roi, lors de la prestation de serment le 16 janvier 1791, & élu evêque métropolitain à Rouen."
+language = "fr"
+place = "A Caen"
+date = "1791"
+note = """Caption title. Imprint from colophon. "Imprimé par ordre de la Société des amis de la constitution de Caen"--P. 4. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  III, 21424. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/discoursprononce00leve"
+subject = [
+    "France",
+    "Church and state",
+]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 21339"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7cs12r9g"
+internet_archive = "discoursprononce00leve"
+openlibrary_edition = "OL26239765M"
+openlibrary_work = "OL17634305W"
+
+[scan]
+file = "discoursprononce00leve.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/discoursprononce00leve"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Le Verdier, Jean-François, d. 1805"
+role = "author"
+
+[[resp]]
+name = "Chalopin, Pierre-Jean-Aimé, active 1785-1822"
+role = "publisher"
+
+[[resp]]
+name = "Société des amis de la consitution (Caen, France)"
+role = "author"
+
+[[resp]]
+name = "Chez P. Chalopin, imprim. & membre de ladite société"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_844455"
+
+[[text]]
+file = "discoursprononce00leve.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00leve.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00leve.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00leve.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discourslevieux00unse"
+type = "pamphlet"
+title = "Discours de M. Levieux Laverne, prononcé le jour de son installation à la mairie"
+language = "fr"
+place = "A Avignon"
+date = "1791"
+note = "Caption title. Imprint from colophon. Laverne was mayor of Avignon from 1791-1792. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/discourslevieux00unse"
+subject = ["Laverne, Levieux"]
+extent = "3 p. ; 28 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 26908"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4qk2jr0h"
+internet_archive = "discourslevieux00unse"
+openlibrary_edition = "OL26227090M"
+openlibrary_work = "OL17622317W"
+
+[scan]
+file = "discourslevieux00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/discourslevieux00unse"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Laverne, Levieux"
+role = "author"
+
+[[resp]]
+name = "Domergue, Toussaint"
+role = "publisher"
+
+[[resp]]
+name = "Chez Domergue, imprimeur"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_866655"
+
+[[text]]
+file = "discourslevieux00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discourslevieux00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discourslevieux00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discourslevieux00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

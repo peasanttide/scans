@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discoursdemlemar00boui"
+type = "pamphlet"
+title = "Discours de M. le marquis de Bouillé, prononcé à la tête des grenadiers de la garnison de Metz, le lundi 19 avril 1790."
+language = "fr"
+place = "France"
+date = "1790"
+note = "Caption title. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  I, 4532. Scanner's note: No copyright page found. No table-of-contents pages found. Title page located on front cover. Damaged, worn pages. Skewed text. No page numbers."
+url = "https://archive.org/details/discoursdemlemar00boui"
+subject = ["France. Armée"]
+extent = "[4] p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 15088"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9g49kd0t"
+internet_archive = "discoursdemlemar00boui"
+openlibrary_edition = "OL25945328M"
+openlibrary_work = "OL17366542W"
+
+[scan]
+file = "discoursdemlemar00boui.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/discoursdemlemar00boui"
+ppi = 500
+note = "Scanned on scribe7.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Bouillé, François-Claude-Amour, marquis de, 1739-1800"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_831119"
+
+[[text]]
+file = "discoursdemlemar00boui.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursdemlemar00boui.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursdemlemar00boui.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursdemlemar00boui.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

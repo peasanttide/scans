@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "deuxiemeprojetde00bonn"
+type = "pamphlet"
+title = "Deuxième projet de résolution sur les fêtes décadaires /"
+language = "fr"
+place = "Paris"
+date = "1798"
+note = "Caption title. At head of title: Corps législatif. Conseil des cinq-cents. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  I, 4070. Scanner's note: No copyright page found. No table-of-contents pages found. Damaged, stained pages and cover. Title on cover."
+url = "https://archive.org/details/deuxiemeprojetde00bonn"
+subject = ["Festivals"]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 14949"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3zs7pr4z"
+internet_archive = "deuxiemeprojetde00bonn"
+openlibrary_edition = "OL26191441M"
+openlibrary_work = "OL17588267W"
+
+[scan]
+file = "deuxiemeprojetde00bonn.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/deuxiemeprojetde00bonn"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Bonnaire, Félix, baron, 1767-1844"
+role = "author"
+
+[[resp]]
+name = "France. Corps législatif (1795-1814). Conseil des cinq-cents"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_830774"
+
+[[text]]
+file = "deuxiemeprojetde00bonn.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "deuxiemeprojetde00bonn.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "deuxiemeprojetde00bonn.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "deuxiemeprojetde00bonn.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

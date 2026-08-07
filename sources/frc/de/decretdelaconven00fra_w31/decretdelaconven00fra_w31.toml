@@ -1,0 +1,93 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "decretdelaconven00fra_w31"
+type = "pamphlet"
+title = "Décret de la Convention nationale, du 29e. jour de germinal, an 2e. de la République française, une & indivisible, contenant une nouvelle rédaction de l'article VIII du décret du 27 germinal sur la police générale"
+language = "fr"
+place = "A Paris"
+date = "1794"
+note = """
+Caption title. At right of title: No. 2306. Signed: Voulland, ex-président; Leyris & M.A. Baudot, secrétaires. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover. 
+Only one numbered page."""
+url = "https://archive.org/details/decretdelaconven00fra_w31"
+subject = [
+    "Civil defense",
+    "Aliens",
+]
+extent = "2 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10334 no. 69"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6sz1f11x"
+internet_archive = "decretdelaconven00fra_w31"
+openlibrary_edition = "OL26224853M"
+openlibrary_work = "OL17620179W"
+
+[scan]
+file = "decretdelaconven00fra_w31.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/decretdelaconven00fra_w31"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Voulland, Jean-Henri, 1751-1801"
+role = "author"
+
+[[resp]]
+name = "Baudot, Marc-Antoine, 1765-1837"
+role = "author"
+
+[[resp]]
+name = "Leyris, Augustin-Jacques, 1762-1840"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale du Louvre"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_851964"
+
+[[text]]
+file = "decretdelaconven00fra_w31.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelaconven00fra_w31.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelaconven00fra_w31.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelaconven00fra_w31.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

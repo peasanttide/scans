@@ -1,0 +1,59 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "descriptiondesar00sail"
+type = "pamphlet"
+title = "Description des arts et métiers"
+language = "fr"
+place = "Paris?"
+note = """A catalog of all published volumes and those going to press of: Description des arts et métiers. Caption title. Volumes listed as "sous presse" on p. [2] were published in the 1770s. Includes prices. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined.  Damaged pages.  Text extends off of the edge of the page."""
+url = "https://archive.org/details/descriptiondesar00sail"
+subject = [
+    "Saillant & Nyon",
+    "Description des arts et métiers",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 4 no. 2"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2s52cz7f"
+internet_archive = "descriptiondesar00sail"
+
+[scan]
+file = "descriptiondesar00sail.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/descriptiondesar00sail"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Saillant & Nyon"
+role = "bookseller"
+
+[[resp]]
+name = "Académie royale des sciences (France)"
+role = "author"
+
+[[resp]]
+name = "Saillant & Nyon?"
+role = "publisher"
+
+[[text]]
+file = "descriptiondesar00sail.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "descriptiondesar00sail.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

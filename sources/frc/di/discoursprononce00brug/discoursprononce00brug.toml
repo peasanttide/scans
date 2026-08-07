@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discoursprononce00brug"
+type = "pamphlet"
+title = "Discours prononcé par M. Brugière, lors de sa proclamation à la cure de Saint-Paul, dans l'église métropole de Paris, le 27 février 1791."
+language = "fr"
+place = "Paris"
+date = "1791"
+note = "Caption title. Imprint from colophon. Place of publication from Martin & Walter. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  I, 5417. Scanner's note: No copyright page found. No table-of-contents pages found. Title on front cover. Damaged pages."
+url = "https://archive.org/details/discoursprononce00brug"
+subject = ["Brugière, Pierre, 1730-1803"]
+extent = "3 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 15467"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t56f0r736"
+internet_archive = "discoursprononce00brug"
+openlibrary_edition = "OL25948190M"
+openlibrary_work = "OL17369244W"
+
+[scan]
+file = "discoursprononce00brug.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/discoursprononce00brug"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Brugière, Pierre, 1730-1803"
+role = "author"
+
+[[resp]]
+name = "Saint Paul (Paris, France : Parish)"
+role = "author"
+
+[[resp]]
+name = "De l'impr. de Le Fort, rue des Ménestriers, no. 9"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_831940"
+
+[[text]]
+file = "discoursprononce00brug.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00brug.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00brug.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00brug.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

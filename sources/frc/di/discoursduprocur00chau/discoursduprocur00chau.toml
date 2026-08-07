@@ -1,0 +1,83 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discoursduprocur00chau"
+type = "pamphlet"
+title = "Discours du procureur de la Commune de Paris : prononcé à la barre de la Convention nationale, le 9 mars 1793, l'an II de la République française."
+language = "fr"
+place = "Paris"
+date = "1793"
+note = "By Pierre-Gaspard Chaumette. Cf. Martin & Walter. Caption title. At head of title: Convention nationale. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  I, 7076. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover."
+url = "https://archive.org/details/discoursduprocur00chau"
+subject = [
+    "France. Armée",
+    "First Coalition, War of the, 1792-1797",
+]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 16117"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0kt1qj6g"
+internet_archive = "discoursduprocur00chau"
+openlibrary_edition = "OL26206319M"
+openlibrary_work = "OL17602614W"
+
+[scan]
+file = "discoursduprocur00chau.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/discoursduprocur00chau"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Chaumette, Pierre-Gaspard, 1763-1794"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_833440"
+
+[[text]]
+file = "discoursduprocur00chau.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursduprocur00chau.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursduprocur00chau.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursduprocur00chau.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

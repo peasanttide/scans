@@ -1,0 +1,83 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discoursprononce00mira"
+type = "pamphlet"
+title = "Discours prononcè à l'Assemblée nationale, par M. Mirabeau, à la tête de la députation du département de Paris."
+language = "fr"
+place = "A Marseille"
+date = "1791"
+note = """Caption title. Imprint from colophon. "Sur l'imprimé de Paris"--Colophon. Not in Martin & Walter. Révolution française. "Extrait d'une lettre adressée à Charles Villete. De Colmar, le 27 février 1791"--P. 3-4. Scanner's note: Title page and cover are combined. Damaged, stained, marked and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/discoursprononce00mira"
+extent = "4 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 22619"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t01z9g17s"
+internet_archive = "discoursprononce00mira"
+openlibrary_edition = "OL26240702M"
+openlibrary_work = "OL17635225W"
+
+[scan]
+file = "discoursprononce00mira.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/discoursprononce00mira"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Mirabeau, Honoré-Gabriel de Riquetti, comte de, 1749-1791"
+role = "author"
+
+[[resp]]
+name = "Villette, Charles-Michel, marquis de, 1736-1793"
+role = "author"
+
+[[resp]]
+name = "Favet, Pierre-Antoine"
+role = "publisher"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de P.A. Favet, imprimeur de la nation & des Amis de la constitution"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_846536"
+
+[[text]]
+file = "discoursprononce00mira.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00mira.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00mira.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00mira.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

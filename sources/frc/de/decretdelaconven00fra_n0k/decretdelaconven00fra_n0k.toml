@@ -1,0 +1,83 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "decretdelaconven00fra_n0k"
+type = "pamphlet"
+title = "Décret de la Convention nationale, interprétatif de celui du 18 décembre 1790, sur le rachat des rentes foncières : du 3 germinal an II de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1794"
+note = "Caption title. At right of title: No. 2225 bis. Signed: Tallien, président. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages."
+url = "https://archive.org/details/decretdelaconven00fra_n0k"
+subject = [
+    "Land tenure",
+    "Feudal law",
+]
+extent = "2 p. ; 28 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10334 no. 44"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4nk8gr67"
+internet_archive = "decretdelaconven00fra_n0k"
+openlibrary_edition = "OL26225464M"
+openlibrary_work = "OL17620785W"
+
+[scan]
+file = "decretdelaconven00fra_n0k.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/decretdelaconven00fra_n0k"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Tallien, Jean-Lambert, 1767-1820"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois, place du Carrousel"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_851940"
+
+[[text]]
+file = "decretdelaconven00fra_n0k.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelaconven00fra_n0k.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelaconven00fra_n0k.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelaconven00fra_n0k.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

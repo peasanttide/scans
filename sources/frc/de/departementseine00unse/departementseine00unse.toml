@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "departementseine00unse"
+type = "pamphlet"
+title = "Département de la Seine : extrait du registre des déliberations de l'administration centrale du département de la Seine : du 6 pluviôse, an VII de la République française, une et indivisible"
+language = "fr"
+place = "Paris"
+date = "1799"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."
+url = "https://archive.org/details/departementseine00unse"
+subject = [
+    "Forms of address",
+    "Manners and customs",
+]
+extent = "3 p. ; 25 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10263 no. 5"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4sj6m154"
+internet_archive = "departementseine00unse"
+openlibrary_edition = "OL26222842M"
+openlibrary_work = "OL17618314W"
+
+[scan]
+file = "departementseine00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/departementseine00unse"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Seine (France). Administration centrale"
+role = "author"
+
+[[resp]]
+name = "Ballard, Pierre-Robert-Christophe, 1744-1812"
+role = "publisher"
+
+[[resp]]
+name = "De l'imprimerie de Ballard, imprimeur du département, rue des Mathurins"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_857513"
+
+[[text]]
+file = "departementseine00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "departementseine00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "departementseine00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "departementseine00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

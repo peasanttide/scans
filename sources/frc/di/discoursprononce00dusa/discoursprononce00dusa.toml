@@ -1,0 +1,83 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discoursprononce00dusa"
+type = "book"
+title = "Discours prononcé à la Convention nationale, dans la séance du 17 Germinal, l'an III /"
+language = "fr"
+place = "Paris"
+date = "1795"
+note = "Caption title. At head of title: Convention nationale. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  II, 12486. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover."
+url = "https://archive.org/details/discoursprononce00dusa"
+subject = [
+    "Memorials",
+    "Monuments",
+]
+extent = "300:  : 4 p. ; 19 cm. ; cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 11624"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5m94xw5m"
+internet_archive = "discoursprononce00dusa"
+openlibrary_edition = "OL25924469M"
+openlibrary_work = "OL17347092W"
+
+[scan]
+file = "discoursprononce00dusa.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/discoursprononce00dusa"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Dusaulx, Jean, 1728-1799"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_825446"
+
+[[text]]
+file = "discoursprononce00dusa.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00dusa.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00dusa.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00dusa.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

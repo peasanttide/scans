@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "decretdelaconven00fra_5qc"
+type = "pamphlet"
+title = "Décret de la Convention nationale, du 3e. jour de prairial, an second de la République française, une et indivisible, relatif au paiement des frais d'administration des biens des émigrés, condamnés ou déportés, et des créances et rentes par eux dues"
+language = "fr"
+place = "A Paris"
+date = "1794"
+note = "Caption title. At right of title: No. 2373. Signed: Voulland, ex-président; Isoré et Bernard, secrétaires. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: Irregular Pagination. Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages. No title page found. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/decretdelaconven00fra_5qc"
+subject = [
+    "Refugees",
+    "Finance, Public",
+]
+extent = "2 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10334 no. 88"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8nd13756"
+internet_archive = "decretdelaconven00fra_5qc"
+openlibrary_edition = "OL26225202M"
+openlibrary_work = "OL17620527W"
+
+[scan]
+file = "decretdelaconven00fra_5qc.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/decretdelaconven00fra_5qc"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Voulland, Jean-Henri, 1751-1801"
+role = "author"
+
+[[resp]]
+name = "Isoré, Jacques, 1758-1839"
+role = "author"
+
+[[resp]]
+name = "Bernard de Saintes, André-Antoine des Zeuzines, 1751-1819"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois, place de la Réunion, ci-devant du grand-Carrousel"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_851983"
+
+[[text]]
+file = "decretdelaconven00fra_5qc.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelaconven00fra_5qc.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

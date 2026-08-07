@@ -1,0 +1,88 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discoursroiparl00unse"
+type = "pamphlet"
+title = "Discours du roi au Parlement, a la séance du 19 novembre 1787"
+language = "fr"
+place = "A Paris"
+date = "1787"
+note = "Caption title. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française, II, 21736. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages."
+url = "https://archive.org/details/discoursroiparl00unse"
+subject = [
+    "France. Assemblée des notables (1787-1788)",
+    "France. Parlement (Bordeaux)",
+    "Finance, Public",
+]
+extent = "4 p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9746 no. 8"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2x39x07q"
+internet_archive = "discoursroiparl00unse"
+openlibrary_edition = "OL26223788M"
+openlibrary_work = "OL17619243W"
+
+[scan]
+file = "discoursroiparl00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/discoursroiparl00unse"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Sovereign (1774-1792 : Louis XVI)"
+role = "author"
+
+[[resp]]
+name = "Louis XVI, King of France, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "Pierres, Philippe-Denis, 1741-1808"
+role = "publisher"
+
+[[resp]]
+name = "France. Parlement (Paris)"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Philippe-Denys Pierres, premier imprimeur ordinaire du roi"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_854693"
+
+[[text]]
+file = "discoursroiparl00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursroiparl00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursroiparl00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursroiparl00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

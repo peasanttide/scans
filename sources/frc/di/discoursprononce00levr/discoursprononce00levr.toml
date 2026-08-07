@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discoursprononce00levr"
+type = "pamphlet"
+title = "Discours prononcé au Parlement, les chambres assemb[l]ées, les pairs y séant /"
+language = "fr"
+place = "France"
+date = "1788"
+note = "Caption title. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  III, 21446. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/discoursprononce00levr"
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 21347"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t30343k1h"
+internet_archive = "discoursprononce00levr"
+openlibrary_edition = "OL26239503M"
+openlibrary_work = "OL17634043W"
+
+[scan]
+file = "discoursprononce00levr.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/discoursprononce00levr"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Lévrier, Antoine Joseph, 1746-1823"
+role = "author"
+
+[[resp]]
+name = "France. Parlement (Paris)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_844463"
+
+[[text]]
+file = "discoursprononce00levr.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00levr.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00levr.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00levr.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

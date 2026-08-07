@@ -1,0 +1,73 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discoursprononce00bosq"
+type = "pamphlet"
+title = "Discours prononcé par Bosquillon, en présentant au Conseil des anciens le Traité de l'imprimerie, ouvrage du citoyen Bertrand Quinquet séance du 8 thermidor an 7."
+language = "fr"
+date = "1799"
+note = "Caption title. At head of title: Corps législatif, Conseil des anciens. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,I, 4346."
+url = "https://archive.org/details/discoursprononce00bosq"
+subject = [
+    "Bertrand-Quinquet, imprimeur, d. 1808",
+    "Printing",
+    "Printing industry",
+]
+extent = "3 p. ;20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "CaseFRC10920"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5dc12m3d"
+internet_archive = "discoursprononce00bosq"
+
+[scan]
+file = "discoursprononce00bosq.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/discoursprononce00bosq"
+ppi = 650
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Bosquillon de Marigny, Jean Jacques Louis,1743-"
+role = "author"
+
+[[resp]]
+name = "A Paris :De l'Imprimerie nationale,"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_823891"
+
+[[text]]
+file = "discoursprononce00bosq.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00bosq.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00bosq.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00bosq.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"

@@ -1,0 +1,91 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "declaration00unse_10"
+type = "pamphlet"
+title = "Declaration du roi, qui fixe à six mois le délai pendant lequel les déclarations de défrichemens pourront être contredites par les communautés d'habitans ou les décimateurs : donnée à Fontainebleau le 7 novembre 1775 : registrée en Parlement le 9 décembre 1775"
+language = "fr"
+place = "A Paris"
+date = "1775"
+note = """Caption title. "Signé Louis. Et plus bas, par le roi, de Lamoignon"--P. 3. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: Title page located on front cover. No copyright page found. No table-of-contents pages found. Worn, damaged and discolored pages and cover. Skewed text. Uneven binding."""
+url = "https://archive.org/details/declaration00unse_10"
+subject = [
+    "Clearing of land",
+    "Land tenure",
+]
+extent = "3 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 28420"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3jx3hc43"
+internet_archive = "declaration00unse_10"
+openlibrary_edition = "OL26226742M"
+openlibrary_work = "OL17621975W"
+
+[scan]
+file = "declaration00unse_10.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/declaration00unse_10"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Sovereign (1774-1792 : Louis XVI)"
+role = "author"
+
+[[resp]]
+name = "Louis XVI, King of France, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "Malesherbes, Chrétien Guillaume de Lamoignon de, 1721-1794"
+role = "author"
+
+[[resp]]
+name = "Simon, P. G. (Pierre-Guillaume), 1722-1787"
+role = "publisher"
+
+[[resp]]
+name = "France. Parlement (Paris)"
+role = "author"
+
+[[resp]]
+name = "Chez P.G. Simon, imprimeur du Parlement, rue Mignon Saint André-des-Arcs"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_861546"
+
+[[text]]
+file = "declaration00unse_10.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "declaration00unse_10.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "declaration00unse_10.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "declaration00unse_10.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

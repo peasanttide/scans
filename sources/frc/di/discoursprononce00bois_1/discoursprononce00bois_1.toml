@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discoursprononce00bois_1"
+type = "pamphlet"
+title = "Discours prononcé par le représentant du peuple Boisset, à la Société populaire de Moulins, en présence des citoyens de la même commune."
+language = "fr"
+place = "Riom"
+date = "1794"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: Title and cover page are combined. Damaged, uneven binding. Skewed text.  No copyright page found. No table-of-contents pages found. No numbered pages."
+url = "https://archive.org/details/discoursprononce00bois_1"
+extent = "[4] p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 14820"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2j72d801"
+internet_archive = "discoursprononce00bois_1"
+openlibrary_edition = "OL26191370M"
+openlibrary_work = "OL17588195W"
+
+[scan]
+file = "discoursprononce00bois_1.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/discoursprononce00bois_1"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Boisset, Joseph Antoine de, 1748-1813"
+role = "author"
+
+[[resp]]
+name = "Société populaire de Moulins"
+role = "author"
+
+[[resp]]
+name = "Landriot, Pierre, 1752-1821"
+role = "publisher"
+
+[[resp]]
+name = "De l'imprimerie de Landriot, libraire-imprimeur à Riom et à Gannat"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_830704"
+
+[[text]]
+file = "discoursprononce00bois_1.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00bois_1.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00bois_1.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00bois_1.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

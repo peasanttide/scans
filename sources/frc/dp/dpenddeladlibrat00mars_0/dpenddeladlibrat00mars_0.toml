@@ -1,0 +1,73 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "dpenddeladlibrat00mars_0"
+type = "pamphlet"
+title = "Dépend de la délibération /"
+language = "fr"
+place = "A Marseille"
+date = "1789"
+note = "Caption title. Imprint from colophon. Dated at beginning: Aujourd'hui vingt-cinq mai mil sept cent quatre-vingt-neuf .. About the formation of a militia (garde bourgeoise) in Marseille. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover."
+url = "https://archive.org/details/dpenddeladlibrat00mars_0"
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 5296"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/txxxxxxxx"
+internet_archive = "dpenddeladlibrat00mars_0"
+
+[scan]
+file = "dpenddeladlibrat00mars_0.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/dpenddeladlibrat00mars_0"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Marseille (France)"
+role = "author"
+
+[[resp]]
+name = "Caraman, Victor Maurice de Riquet, Comte de, 1728-1808"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Pierre-Ant. Favet"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_57957"
+
+[[text]]
+file = "dpenddeladlibrat00mars_0.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dpenddeladlibrat00mars_0.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dpenddeladlibrat00mars_0.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dpenddeladlibrat00mars_0.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

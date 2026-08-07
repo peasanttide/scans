@@ -1,0 +1,70 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "dlibration00corp"
+type = "pamphlet"
+title = "Délibération /"
+language = "fr"
+place = "s.l."
+date = "1788"
+note = "Caption title. Without imprint. About the representation of Dauphiné in the États généraux. Not in Martin & Walter. Scanner's note: Title on cover. Damaged, stained pages and cover.<br />No copyright. No table of contents. <br /><br />."
+url = "https://archive.org/details/dlibration00corp"
+subject = ["France. Etats généraux"]
+extent = "3 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 2506"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9382dm55"
+internet_archive = "dlibration00corp"
+
+[scan]
+file = "dlibration00corp.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/dlibration00corp"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "Corps (France)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_46261"
+
+[[text]]
+file = "dlibration00corp.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dlibration00corp.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dlibration00corp.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dlibration00corp.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

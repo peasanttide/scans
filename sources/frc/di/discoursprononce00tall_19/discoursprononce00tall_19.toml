@@ -1,0 +1,77 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discoursprononce00tall_19"
+type = "pamphlet"
+title = "Discours prononcé par M. Edme-Germain Villetard, maire d'Auxerre, le 14 juillet 1790, jour de la Confédération nationale, & dont l'impression a été demandée."
+language = "fr"
+place = "A Auxerre"
+date = "1790"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright found.  No table of contents found.  Title on cover page. Damaged, stained pages and cover. <br />."
+url = "https://archive.org/details/discoursprononce00tall_19"
+extent = "4 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 26164"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6354089j"
+internet_archive = "discoursprononce00tall_19"
+
+[scan]
+file = "discoursprononce00tall_19.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/discoursprononce00tall_19"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "Tallien, Jean-Lambert, 1767-2452"
+role = "author"
+
+[[resp]]
+name = "Villetard, Edme-Germain"
+role = "author"
+
+[[resp]]
+name = "Fournier, L. (Laurent)"
+role = "publisher"
+
+[[resp]]
+name = "De l'imprimerie de L. Fournier, imprimeur du département de l'Yonne"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_864303"
+
+[[text]]
+file = "discoursprononce00tall_19.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00tall_19.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00tall_19.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00tall_19.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

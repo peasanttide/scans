@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discours00fran_4"
+type = "pamphlet"
+title = "Discours /"
+language = "fr"
+place = "s.l."
+date = "1787"
+note = "Half title. Pages 3 and 4 numbered 2 and 3. Includes, at end: Réponse du roi, du 21 septembre. In connection with the banishment to Troyes of the Parlement de Paris. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found. Title and cover page are combined. Damaged, stained and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/discours00fran_4"
+extent = "3 [i.e. 4] p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 3430"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8tb65w8r"
+internet_archive = "discours00fran_4"
+openlibrary_edition = "OL26214161M"
+openlibrary_work = "OL17610128W"
+
+[scan]
+file = "discours00fran_4.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/discours00fran_4"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Parlement (Paris)"
+role = "author"
+
+[[resp]]
+name = "France. Sovereign (1774-1792 : Louis XVI)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_51451"
+
+[[text]]
+file = "discours00fran_4.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discours00fran_4.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discours00fran_4.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discours00fran_4.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

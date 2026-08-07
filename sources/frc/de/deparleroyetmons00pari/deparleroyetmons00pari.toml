@@ -1,0 +1,68 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "deparleroyetmons00pari"
+type = "pamphlet"
+title = "De par le roy et Monsieur le Prevost de Paris, ou Monsieur son Lieutenant General de police"
+language = "fr"
+date = "1698"
+note = "Caption title. Requiring all books to be subject to customs inspection. Dated 6 June 1698. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Title page and cover are combined."
+url = "https://archive.org/details/deparleroyetmons00pari"
+subject = ["Book industries and trade"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 2 no. 87"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3325js9d"
+internet_archive = "deparleroyetmons00pari"
+
+[scan]
+file = "deparleroyetmons00pari.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/deparleroyetmons00pari"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Paris (France).Prévôté"
+role = "author"
+
+[[resp]]
+name = "Paris (France). Prévôté"
+role = "author"
+
+[[resp]]
+name = "[Paris"
+role = "publisher"
+
+[[text]]
+file = "deparleroyetmons00pari.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "deparleroyetmons00pari.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "deparleroyetmons00pari.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "deparleroyetmons00pari.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "dclarationdessen00fran"
+type = "pamphlet"
+title = "Déclaration des sentimens /"
+language = "fr"
+place = "A Marseille"
+date = "1790"
+note = "Caption title. Imprint from colophon. Expressing allegiance to the Assemblée nationale. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found. Title and cover pages combined."
+url = "https://archive.org/details/dclarationdessen00fran"
+subject = ["France. Assemblée nationale constituante (1789-1791)"]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 2777"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8z948s3c"
+internet_archive = "dclarationdessen00fran"
+openlibrary_edition = "OL26209648M"
+openlibrary_work = "OL17605892W"
+
+[scan]
+file = "dclarationdessen00fran.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/dclarationdessen00fran"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Armée. Régiment Royal-la-Marine"
+role = "author"
+
+[[resp]]
+name = "France. Armée. Régiment Royal-la-Marine"
+role = "author"
+
+[[resp]]
+name = "Marseille (France)"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de la veuve Sibié"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_50306"
+
+[[text]]
+file = "dclarationdessen00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dclarationdessen00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dclarationdessen00fran.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dclarationdessen00fran.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "delaconfederatio00beff"
+type = "pamphlet"
+title = "De la Confédération du Parnasse / par le Cousin Jacques."
+language = "fr"
+place = "France?"
+date = "1790"
+note = """An exerpt from his comic opera, La Confédération du Parnasse. "Jouée aux Beaujolais"--P. [2]. Page [1] numbered 2. Not in Martin & Walter. Révolution française. Scanner's note: Title on the cover page. No table-of-contents pages found.  Interior pages are blank."""
+url = "https://archive.org/details/delaconfederatio00beff"
+subject = [
+    "Revolutionary operas",
+    "Operas",
+]
+extent = "1 close score ([2] p.) ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 14336"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4wh78694"
+internet_archive = "delaconfederatio00beff"
+openlibrary_edition = "OL25919079M"
+openlibrary_work = "OL17342196W"
+
+[scan]
+file = "delaconfederatio00beff.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/delaconfederatio00beff"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Beffroy de Reigny, L.-A. (Louis-Abel), 1757-1811"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_830099"
+
+[[text]]
+file = "delaconfederatio00beff.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "delaconfederatio00beff.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "delaconfederatio00beff.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "delaconfederatio00beff.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

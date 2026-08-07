@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discoursauroi00unse"
+type = "pamphlet"
+title = "Discours au roi, au sujet de M. Necker"
+language = "fr"
+place = "France"
+date = "1790"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/discoursauroi00unse"
+subject = ["Necker, Jacques, 1732-1804"]
+extent = "4 p. ; 24 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 26584"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6tx8gf96"
+internet_archive = "discoursauroi00unse"
+openlibrary_edition = "OL26228683M"
+openlibrary_work = "OL17623752W"
+
+[scan]
+file = "discoursauroi00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/discoursauroi00unse"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Castries, Eugène Gabriel de La Croix, marquis de,1727-1801"
+role = "author"
+
+[[resp]]
+name = "Castries, Eugène Gabriel de La Croix, marquis de, 1727-1801"
+role = "author"
+
+[[resp]]
+name = "Louis XVI, King of France, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_863371"
+
+[[text]]
+file = "discoursauroi00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursauroi00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursauroi00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursauroi00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

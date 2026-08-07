@@ -1,0 +1,64 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "decretdusaint00unse"
+type = "pamphlet"
+title = "Decret du Saint Office, portant condamnation de trois ecrits"
+language = "fr"
+place = "A Rome"
+date = "1723"
+note = "Caption title. Imprint at end of text on p. 3. Dated 20 July 1723. Scanner's note: No copyright found.  No table of contents found.  Damaged, stained pages and cover.  Title on cover. <br />."
+url = "https://archive.org/details/decretdusaint00unse"
+subject = [
+    "Censorship",
+    "Inquisition",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 4 no. 53"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t41s2dv02"
+internet_archive = "decretdusaint00unse"
+
+[scan]
+file = "decretdusaint00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/decretdusaint00unse"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "De l'Imprimerie de la Rev. Chambre Apostolique"
+role = "publisher"
+
+[[text]]
+file = "decretdusaint00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdusaint00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdusaint00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdusaint00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

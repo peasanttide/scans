@@ -1,0 +1,102 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "dictionnairecono00chom"
+type = "pamphlet"
+title = "Dictionnaire œconomique"
+language = "fr"
+place = "A Paris"
+date = "1767"
+note = """Probably a prospectus for Noel Chomel's "Dictionnaire œconomique.". Newberry's copy imperfect: lacking all except title page. "Trois volumes in-folio. Prix, soixante-dix-huit livres, relié.". Title vignette. Scanner's note: No copyright found.  No table of contents found.  Damaged, stained pages and cover.  <br />No page numbers. <br />."""
+url = "https://archive.org/details/dictionnairecono00chom"
+subject = [
+    "Chomel, Noel, 1632-1712",
+    "Booksellers and bookselling",
+    "Agriculture publishing",
+    "Encyclopedias and dictionaries",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1b no. 30"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9s23nw17"
+internet_archive = "dictionnairecono00chom"
+
+[scan]
+file = "dictionnairecono00chom.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/dictionnairecono00chom"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "Chomel, Noel, 1632-1712. Dictionnaire œconomique"
+role = "author"
+
+[[resp]]
+name = "La Marre, L. H. de, approximately 1730-"
+role = "author"
+
+[[resp]]
+name = "Ganeau, Louis-Étienne, 1708-1777"
+role = "bookseller"
+
+[[resp]]
+name = "Bauche, Jean-Baptiste-Claude, 1712?-1777"
+role = "bookseller"
+
+[[resp]]
+name = "Houry, Laurent-Charles d', 1717?-1786"
+role = "bookseller"
+
+[[resp]]
+name = "Frères Estienne"
+role = "bookseller"
+
+[[resp]]
+name = "Chez Ganeau, rue Saint-Severin, aux Armes de Dombes & à Saint-Louis, Bauche, quai des Augustins à Sainte-Genevieve, les Freres Estienne, rue Saint-Jacques à la Vertu, D'Houry, rue de la Vielle-Bouclerie au Saint-Esprit & au Soleil d'or"
+role = "publisher"
+
+[[text]]
+file = "dictionnairecono00chom.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dictionnairecono00chom.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dictionnairecono00chom.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dictionnairecono00chom.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dictionnairecono00chom.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dictionnairecono00chom.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

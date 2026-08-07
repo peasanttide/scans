@@ -1,0 +1,85 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "decretdelaconven00fra_pyi"
+type = "pamphlet"
+title = "Decret de la Convention nationale, du 10 octobre 1792, l'an premier de la République française, portant qu'il sera sursis à la vente des bibliotheques & autres objets scientifiques, trouvés dans les maisons des émigrés"
+language = "fr"
+place = "Toulouse?"
+date = "1792"
+note = """Caption title. At head of title: République française. Printer statement from colophon. "No. 55/No. 49"--Upper right corner of p. [1]. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination."""
+url = "https://archive.org/details/decretdelaconven00fra_pyi"
+subject = ["Private libraries"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 2 no. 60"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0fv4816m"
+internet_archive = "decretdelaconven00fra_pyi"
+
+[scan]
+file = "decretdelaconven00fra_pyi.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/decretdelaconven00fra_pyi"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Convention nationale"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Besian, Jean-Gabriel"
+role = "printer"
+
+[[resp]]
+name = "De l'imprimerie de Besian"
+role = "publisher"
+
+[[text]]
+file = "decretdelaconven00fra_pyi.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelaconven00fra_pyi.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelaconven00fra_pyi.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelaconven00fra_pyi.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelaconven00fra_pyi.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelaconven00fra_pyi.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

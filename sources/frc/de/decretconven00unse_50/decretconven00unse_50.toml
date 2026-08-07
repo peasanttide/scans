@@ -1,0 +1,78 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "decretconven00unse_50"
+type = "pamphlet"
+title = "Décret de la Convention nationale, du 5 juin 1793, l'an second de la République françoise, relatif à la vente des créances de la nation affectées sur les biens nationaux"
+language = "fr"
+place = "A Paris"
+date = "1793"
+note = """
+Caption title. At right of title: No. 696. Signed: Dalbarade; countersigned: Gohier. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover. 
+Only one numbered page."""
+url = "https://archive.org/details/decretconven00unse_50"
+subject = [
+    "Government sale of real property",
+    "Finance, Public",
+    "Assignats",
+]
+extent = "2 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10331 no. 8"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4bp56p7m"
+internet_archive = "decretconven00unse_50"
+openlibrary_edition = "OL26225083M"
+openlibrary_work = "OL17620408W"
+
+[scan]
+file = "decretconven00unse_50.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/decretconven00unse_50"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Albarade, Jean d', 1743-1819"
+role = "author"
+
+[[resp]]
+name = "Gohier, Louis-Jérôme, 1746-1830"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_851510"
+
+[[text]]
+file = "decretconven00unse_50.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretconven00unse_50.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

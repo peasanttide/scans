@@ -1,0 +1,71 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "dclaration00unse_1"
+type = "pamphlet"
+title = "Déclaration /"
+language = "fr"
+place = "Paris"
+date = "1798"
+note = "Caption title. Imprint from colophon. Dated in contemporary ms. at the head of p.[1]: fin an VI [1798]. The report referred to is probably: Rapport ... sur le recrutement de l'armée de terre. Séance du 23 niveau an VI [12 janvier 1798], by Jean Baptiste Jourdan (Martin & Walter II: 17525). Not in Martin & Walter. Scanner's note: No title page found. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/dclaration00unse_1"
+subject = [
+    "Jourdan, Jean-Baptiste, 1762-1833",
+    "Draft",
+]
+extent = "4 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 2767"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1gj4j655"
+internet_archive = "dclaration00unse_1"
+openlibrary_edition = "OL26209623M"
+openlibrary_work = "OL17605865W"
+
+[scan]
+file = "dclaration00unse_1.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/dclaration00unse_1"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "De l'imprimerie de C.-J. Gelé"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_46576"
+
+[[text]]
+file = "dclaration00unse_1.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dclaration00unse_1.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dclaration00unse_1.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dclaration00unse_1.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

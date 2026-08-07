@@ -1,0 +1,84 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "deuxiemeofficere00dumi"
+type = "pamphlet"
+title = "Deuxième office remis a M. Sainte-Croix par M. le baron de Duminique, le 3 janvier 1792 : communiqué à l'Assemblée nationale, par le ministre des affaires étrangères, le 8 janvier 1792, en vertu des ordres du roi."
+language = "fr"
+place = "Paris"
+date = "1792"
+note = """Caption title. Imprint from colophon. "Imprimé par ordre de l'Assemblée nationale.". "A Coblentz ce 3 janvier 1792, Signé, le baron de Duminique. Pour copie. Délessart."--P. 2. "Diplomatie, no. 16."--Bottom of p. [1]. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  II, 11853. Scanner's note: No copyright page found. No table-of-contents pages found.   Title page and cover are combined. Skewed text."""
+url = "https://archive.org/details/deuxiemeofficere00dumi"
+subject = ["Refugees"]
+extent = "2 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 17905"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4bp5228c"
+internet_archive = "deuxiemeofficere00dumi"
+openlibrary_edition = "OL26193920M"
+openlibrary_work = "OL17590687W"
+
+[scan]
+file = "deuxiemeofficere00dumi.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/deuxiemeofficere00dumi"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Duminique, baron de"
+role = "author"
+
+[[resp]]
+name = "Bigot de Sainte-Croix, Louis Claude, 1744-1803"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale législative (1791-1792)"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_837348"
+
+[[text]]
+file = "deuxiemeofficere00dumi.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "deuxiemeofficere00dumi.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "deuxiemeofficere00dumi.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "deuxiemeofficere00dumi.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

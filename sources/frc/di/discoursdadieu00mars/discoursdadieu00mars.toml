@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discoursdadieu00mars"
+type = "pamphlet"
+title = "Discours d'adieu /"
+language = "fr"
+place = "s.l."
+date = "1789"
+note = """Caption title. Without imprint. "Discours adressé par les habitans d'Aix, sur les bornes de leur territoire, aux Marseillois qui avoient accompagné jusques là le Comte de Mirabeau, le 19 mars 1789": p.4. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found. Title and cover page are combined. Damaged, stained and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/discoursdadieu00mars"
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 3411"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t08w8gm61"
+internet_archive = "discoursdadieu00mars"
+openlibrary_edition = "OL26213850M"
+openlibrary_work = "OL17609812W"
+
+[scan]
+file = "discoursdadieu00mars.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/discoursdadieu00mars"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Marseille (France). Citizens"
+role = "author"
+
+[[resp]]
+name = "Mirabeau, Honoré-Gabriel de Riquetti, comte de, 1749-1791"
+role = "author"
+
+[[resp]]
+name = "Aix-en-Provence (France). Citizens"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_51199"
+
+[[text]]
+file = "discoursdadieu00mars.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursdadieu00mars.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursdadieu00mars.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursdadieu00mars.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

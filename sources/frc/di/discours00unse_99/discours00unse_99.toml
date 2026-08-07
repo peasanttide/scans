@@ -1,0 +1,83 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discours00unse_99"
+type = "pamphlet"
+title = "Discours de M. Louis-Philippe-Joseph Capet, ci-devant duc d'Orléans : prononcé par lui-même à l'Assemblée nationale."
+language = "fr"
+place = "Paris"
+date = "1790"
+note = """Caption title. Imprint from colophon. Place of publication from Martin & Walter. "A l'ouverture de la séance du dimanche 11 juillet 1790, M. Louis-Philippe-Joseph Capet, (ci-devant duc d'Orléans) a demandé la parole, & a dit ... "--P. [1]. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  III, 26085. Scanner's note: No copyright page found. No table-of-contents pages found.   Title page is on the cover. Damaged, stained, and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/discours00unse_99"
+subject = [
+    "Orléans, Louis Philippe Joseph, duc d', 1747-1793",
+    "Loyalty oaths",
+]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 23279"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9770qd5b"
+internet_archive = "discours00unse_99"
+openlibrary_edition = "OL26237043M"
+openlibrary_work = "OL17631597W"
+
+[scan]
+file = "discours00unse_99.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/discours00unse_99"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Orléans, Louis Philippe Joseph, duc d', 1747-1793"
+role = "author"
+
+[[resp]]
+name = "Lehodey de Saultchevreuil, Étienne"
+role = "publisher"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Le Hodey, au coin de la rue Fromenteau, plade du Palais-Royal"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_847595"
+
+[[text]]
+file = "discours00unse_99.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discours00unse_99.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discours00unse_99.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discours00unse_99.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

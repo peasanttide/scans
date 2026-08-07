@@ -1,0 +1,89 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "decretconven00unse_8"
+type = "pamphlet"
+title = "Décret de la Convention nationale, du 24 avril 1793, l'an second de la République franc̦aise, relatif à la vente des meubles et immeubles provenant des émigrés et autres effets nationaux"
+language = "fr"
+place = "A Paris"
+date = "1793"
+note = "Caption title. At right of title: No. 798. Signed: Clavière; countersigned: Gohier. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."
+url = "https://archive.org/details/decretconven00unse_8"
+subject = [
+    "Government auctions",
+    "Government sale of real property",
+    "Refugee property",
+    "Public administration",
+]
+extent = "4 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10330 no. 70"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5cc64g8f"
+internet_archive = "decretconven00unse_8"
+openlibrary_edition = "OL26225650M"
+openlibrary_work = "OL17620965W"
+
+[scan]
+file = "decretconven00unse_8.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/decretconven00unse_8"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Clavière, Étienne, 1735-1793"
+role = "author"
+
+[[resp]]
+name = "Gohier, Louis-Jérôme, 1746-1830"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois, place du Carrousel"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_852545"
+
+[[text]]
+file = "decretconven00unse_8.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretconven00unse_8.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretconven00unse_8.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretconven00unse_8.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,63 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "decretdelinqui00unse"
+type = "pamphlet"
+title = "Decret de l'Inquisition d'Espagne portant comdamnation [sic] d'un Memorial espagnol presenté à Sa Majesté contre les prétendus Jansenistes"
+language = "fr"
+date = "1698"
+note = "Caption title. French and Spanish in parallel columns. Condemnation of: [1] La embidia mas clara, mas claramente convencida. [2] Memorial al Rey Nuestro Señor Carlos Segundo en defensa de sus reales decretos en el Pais Baxo Catholico. Dated 28 September 1698. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Title page and cover are combined."
+url = "https://archive.org/details/decretdelinqui00unse"
+subject = [
+    "Prohibited books",
+    "Inquisition",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 2 no. 88"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6n06rp34"
+internet_archive = "decretdelinqui00unse"
+
+[scan]
+file = "decretdelinqui00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/decretdelinqui00unse"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "[n.p."
+role = "publisher"
+
+[[text]]
+file = "decretdelinqui00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelinqui00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelinqui00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelinqui00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

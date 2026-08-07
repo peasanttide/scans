@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "duprytaneefrancais00"
+type = "pamphlet"
+title = "... Un él`eve du Prytanée français au Conseil des anciens."
+language = "fr"
+place = "A Paris"
+date = "1798"
+note = "Caption title. Imprint from colophon. At head of title: Corps législatif. Conseil des anciens. Liberté. Égalité. Paris, 23 fructidor, an 6 de la République française, une & indivisible [9 septembre 1798]. Signed and dated at end: J... B.... B.... El`eve du Prytanée français. Paris, 23 fructidor, an 6 de la République française. Martin & Walter IV 2: 17784 (which specifies: Assurant le conseil de son patriotisme et de celui de ses camarades). Scanner's note: No copyright page found. No table-of-contents pages found.   Title is on cover page. Damaged, stained and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/duprytaneefrancais00"
+subject = ["Military education"]
+extent = "3 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 8880"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2w42v95b"
+internet_archive = "duprytaneefrancais00"
+openlibrary_edition = "OL26218843M"
+openlibrary_work = "OL17614535W"
+
+[scan]
+file = "duprytaneefrancais00.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/duprytaneefrancais00"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Corps législatif (1795-1814). Conseil des anciens"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_65064"
+
+[[text]]
+file = "duprytaneefrancais00.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "duprytaneefrancais00.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "duprytaneefrancais00.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "duprytaneefrancais00.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

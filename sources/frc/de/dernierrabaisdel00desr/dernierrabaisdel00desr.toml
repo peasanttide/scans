@@ -1,0 +1,53 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "dernierrabaisdel00desr"
+type = "pamphlet"
+title = "Dernier rabais de livres en feuilles, de plus de 60 à 75 pour cent, pendant trois mois seulement, a Paris, chez Desray, libraire, rue Hautefeuille, no. 36, près celle Saint-André-des-Arcs"
+language = "fr"
+place = "Paris"
+date = "1797"
+note = "Caption title. Latest publication date indicated of books listed: 1797. Printed in five columns. With prices. Stamp: Rép fra. 5 cent. Scanner's note: No copyright page found. No table-of-contents pages found. Title and cover pages combined."
+url = "https://archive.org/details/dernierrabaisdel00desr"
+subject = ["Desray, Jacques"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 11 no. 12"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0bw35c00"
+internet_archive = "dernierrabaisdel00desr"
+
+[scan]
+file = "dernierrabaisdel00desr.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/dernierrabaisdel00desr"
+ppi = 350
+note = "Scanned on fold1.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Desray, Jacques"
+role = "author"
+
+[[resp]]
+name = "Desray"
+role = "publisher"
+
+[[text]]
+file = "dernierrabaisdel00desr.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dernierrabaisdel00desr.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

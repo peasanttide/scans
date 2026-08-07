@@ -1,0 +1,84 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discoursauroipro00dela"
+type = "pamphlet"
+title = "Discours au roi : prononcé le 17 juillet 1790 /"
+language = "fr"
+place = "Paris"
+date = "1790"
+note = "Caption title. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  II, 9834. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover."
+url = "https://archive.org/details/discoursauroipro00dela"
+subject = ["Louis XVI, King of France, 1754-1793"]
+extent = "3 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 17193"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4rj9gf65"
+internet_archive = "discoursauroipro00dela"
+openlibrary_edition = "OL26205170M"
+openlibrary_work = "OL17601492W"
+
+[scan]
+file = "discoursauroipro00dela.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/discoursauroipro00dela"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Delaunay d'Angers, Joseph, 1752-1794"
+role = "author"
+
+[[resp]]
+name = "Maine-et-Loire (France). Garde nationale"
+role = "author"
+
+[[resp]]
+name = "Louis XVI, King of France, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "Desenne, Victor"
+role = "publisher"
+
+[[resp]]
+name = "Chez Desenne, libraire au Palais-Royal, numeros 1 et 2"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_837002"
+
+[[text]]
+file = "discoursauroipro00dela.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursauroipro00dela.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursauroipro00dela.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursauroipro00dela.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,57 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "deparleroymon00pari"
+type = "pamphlet"
+title = "De par le roy, Monsieur le Prevost de Paris, ou Monsieur son Lieutenant-General de Police"
+language = "fr"
+place = "Paris"
+date = "1724"
+note = "Printer's name at lower right. Scanner's note: No copyright page found. No table-of-contents pages found. Title and cover pages combined. Some text warped by crease."
+url = "https://archive.org/details/deparleroymon00pari"
+subject = ["Vendors and purchasters"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 4 no. 63"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9x11qg9p"
+internet_archive = "deparleroymon00pari"
+
+[scan]
+file = "deparleroymon00pari.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/deparleroymon00pari"
+ppi = 350
+note = "Scanned on fold1.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Paris (France).Châtelet"
+role = "author"
+
+[[resp]]
+name = "Paris (France). Châtelet"
+role = "author"
+
+[[resp]]
+name = "Chez C. L. Thilboust"
+role = "publisher"
+
+[[text]]
+file = "deparleroymon00pari.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "deparleroymon00pari.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,84 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "deliberationduco00roue"
+type = "pamphlet"
+title = "Délibération du conseil général de la commune de Rouen, en surveillance permanente : séance du vendredi 24 août 1792, l'an 4e. de la liberté, au soir"
+language = "fr"
+place = "A Rouen"
+date = "1792"
+note = "Caption title. At head of title: La loi. Municipalité de Rouen. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."
+url = "https://archive.org/details/deliberationduco00roue"
+subject = [
+    "Heraldry",
+    "Titles of honor and nobility",
+    "Monarchy in art",
+]
+extent = "3 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10247 no. 3"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0005837q"
+internet_archive = "deliberationduco00roue"
+openlibrary_edition = "OL26222670M"
+openlibrary_work = "OL17618141W"
+
+[scan]
+file = "deliberationduco00roue.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/deliberationduco00roue"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Rouen (France). Conseil général"
+role = "author"
+
+[[resp]]
+name = "Seyer, Pierre, b. 1735"
+role = "publisher"
+
+[[resp]]
+name = "Behourt, Pierre-Louis, 1750-1805?"
+role = "publisher"
+
+[[resp]]
+name = "De l'imp. de P. Seyer & Behourt, imp. de la municipalité, rue du Petit-Puits"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_857506"
+
+[[text]]
+file = "deliberationduco00roue.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "deliberationduco00roue.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "deliberationduco00roue.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "deliberationduco00roue.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

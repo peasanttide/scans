@@ -1,0 +1,71 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "dpartprcipitdemo00unse"
+type = "pamphlet"
+title = "Départ précipité de Monsieur, frere du roi, et de Madame Comtesse d'Artois : Songez-y bien."
+language = "fr"
+place = "Paris"
+date = "1791"
+note = "Caption title. Imprint from colophon. Martin & Walter IV 2: 5248. Scanner's note: No title page found. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/dpartprcipitdemo00unse"
+subject = [
+    "Louis XVIII, King of France, 1755-1824",
+    "Artois, Marie Thérèse de Savoie, Comtesse d'",
+]
+extent = "4 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 2913"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8rc23d7c"
+internet_archive = "dpartprcipitdemo00unse"
+openlibrary_edition = "OL26209256M"
+openlibrary_work = "OL17605508W"
+
+[scan]
+file = "dpartprcipitdemo00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/dpartprcipitdemo00unse"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "De l'imprimerie de P. de Lormel"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_47370"
+
+[[text]]
+file = "dpartprcipitdemo00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dpartprcipitdemo00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dpartprcipitdemo00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dpartprcipitdemo00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

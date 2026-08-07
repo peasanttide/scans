@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discoursprononce00bass"
+type = "pamphlet"
+title = "Discours prononcé par Basson, procureur de la commune de la Rejasse, en présence de la municipalité, de la Garde nationale & du peuple, dans l'eglise paroissiale, le dimanche 3 juillet, pour la prestation du nouveau serment."
+language = "fr"
+place = "France"
+date = "1791"
+note = """Caption title. "Cejourd'hui dimanche, 3 juillet 1791"--P. [1]. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover."""
+url = "https://archive.org/details/discoursprononce00bass"
+subject = ["Loyalty oaths"]
+extent = "4 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 14157"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3gx90g0z"
+internet_archive = "discoursprononce00bass"
+openlibrary_edition = "OL25918162M"
+openlibrary_work = "OL17341274W"
+
+[scan]
+file = "discoursprononce00bass.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/discoursprononce00bass"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Basson, Jean"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_829746"
+
+[[text]]
+file = "discoursprononce00bass.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00bass.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00bass.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00bass.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

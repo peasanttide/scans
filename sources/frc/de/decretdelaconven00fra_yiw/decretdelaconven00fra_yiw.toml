@@ -1,0 +1,69 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "decretdelaconven00fra_yiw"
+type = "pamphlet"
+title = "Décret de la Convention nationale, relatif à la résiliation des baux des biens d'émigrés, faits par des corps administratifs : du 7e. jour de ventose, an second de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1794"
+note = """
+Caption title. At right of title: No. 1949 bis. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover. 
+Only one numbered page."""
+url = "https://archive.org/details/decretdelaconven00fra_yiw"
+subject = [
+    "Leases",
+    "Refugee property",
+]
+extent = "2 p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10334 no. 22"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3xt0v032"
+internet_archive = "decretdelaconven00fra_yiw"
+openlibrary_edition = "OL26225619M"
+openlibrary_work = "OL17620934W"
+
+[scan]
+file = "decretdelaconven00fra_yiw.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/decretdelaconven00fra_yiw"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Depot des lois, place du Carrousel"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_851901"
+
+[[text]]
+file = "decretdelaconven00fra_yiw.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelaconven00fra_yiw.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

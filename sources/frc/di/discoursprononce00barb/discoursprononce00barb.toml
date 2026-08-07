@@ -1,0 +1,84 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discoursprononce00barb"
+type = "pamphlet"
+title = "Discours prononcé au Directoire du département, le 21 février 1791, l'an 2e. de la liberté, par les commissaires de la Société des amis de la Constitution, séant aux Carmes, M. Barbat Duclosel, père, portant la parole"
+language = "fr"
+place = "A Clermont-Ferrand"
+date = "1791"
+note = "Caption title. At head of title: La nation, la loi, et le roi. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/discoursprononce00barb"
+subject = ["France. Armée"]
+extent = "3 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 26489"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0jt4t624"
+internet_archive = "discoursprononce00barb"
+openlibrary_edition = "OL26229214M"
+openlibrary_work = "OL17624248W"
+
+[scan]
+file = "discoursprononce00barb.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/discoursprononce00barb"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Barbat Du Closel d'Arnery, Claude Gaspard,1733-1811"
+role = "author"
+
+[[resp]]
+name = "Barbat Du Closel d'Arnery, Claude Gaspard, 1733-1811"
+role = "author"
+
+[[resp]]
+name = "Clermont-Ferrand (France). Directoire"
+role = "author"
+
+[[resp]]
+name = "Société des amis de la constitution (Clermont-Ferrand, France)"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie patriotique de Denis Limet, membre de cette société"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_862219"
+
+[[text]]
+file = "discoursprononce00barb.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00barb.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00barb.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00barb.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

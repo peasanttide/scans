@@ -1,0 +1,91 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discours00conv"
+type = "pamphlet"
+title = "... Discours /"
+language = "fr"
+place = "Paris"
+date = "1793"
+note = """Caption title. Imprint from colophon. At head of title: Convention nationale. "La Convention nationale Rhéno-Germanique à la Convention nationale de la République française": p.3-6. Dated at end: ... le vingt-cinq mars mil sept cent quatre-vingt-treize .. Martin & Walter IV 2: 5789. Scanner's note: No copyright page found. No table-of-contents pages found. Title and cover page are combined. Damaged, stained and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/discours00conv"
+extent = "6 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 3438"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9t202s7x"
+internet_archive = "discours00conv"
+openlibrary_edition = "OL26214115M"
+openlibrary_work = "OL17610081W"
+
+[scan]
+file = "discours00conv.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/discours00conv"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Convention nationale Rhéno-Germanique"
+role = "author"
+
+[[resp]]
+name = "Convention nationale Rhéno-Germanique"
+role = "author"
+
+[[resp]]
+name = "Députés du peuple rhéno-germanique"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_47551"
+
+[[text]]
+file = "discours00conv.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discours00conv.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discours00conv.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discours00conv.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discours00conv.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discours00conv.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

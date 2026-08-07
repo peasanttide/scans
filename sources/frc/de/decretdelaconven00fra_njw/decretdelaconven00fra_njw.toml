@@ -1,0 +1,92 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "decretdelaconven00fra_njw"
+type = "pamphlet"
+title = "Décret de la Convention nationale, du 24e. jour de germinal, an second de la République française, une & indivisible, portant qu'à compter du 1er. floréal les rentes sur l'Hôtel-de-ville de Paris seront payées, à bureau ouvert, par la Trésorerie nationale"
+language = "fr"
+place = "A Paris"
+date = "1794"
+note = """Caption title. At right of title: No. 2319. Signed: Treilhard, ex-président; Ch. Pottier & Monnot, secrétaires. Imprint from colophon. Not in Martin & Walter. Révolution française. "No. 1er. Modèle du certificat du payeur des rentes"--P. 3. "No. II. Modèle du certificat de résidence, de non émigration, non détention, & d'existence"--P. 3-4. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/decretdelaconven00fra_njw"
+subject = [
+    "Hôtel de ville (Paris, France)",
+    "France. Trésorerie nationale",
+    "Pensions",
+    "Finance, Public",
+    "Debts, Public",
+]
+extent = "4 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 28143"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8vb38s7b"
+internet_archive = "decretdelaconven00fra_njw"
+
+[scan]
+file = "decretdelaconven00fra_njw.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/decretdelaconven00fra_njw"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Treilhard, M., (Jean-Baptiste), 1742-1810"
+role = "author"
+
+[[resp]]
+name = "Pottier, Charles Albert, 1755-1829"
+role = "author"
+
+[[resp]]
+name = "Monnot, Jacques-François-Charles, b. 1743"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale exécutive du Louvre"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_851963"
+
+[[text]]
+file = "decretdelaconven00fra_njw.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelaconven00fra_njw.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelaconven00fra_njw.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelaconven00fra_njw.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

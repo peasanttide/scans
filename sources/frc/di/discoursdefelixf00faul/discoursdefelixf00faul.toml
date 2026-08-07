@@ -1,0 +1,88 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discoursdefelixf00faul"
+type = "pamphlet"
+title = "Discours de Félix Faulcon, député de la Vienne, sur le quatorze juillet."
+language = "fr"
+place = "Paris"
+date = "1798"
+note = """Caption title. Imprint from colophon. "C'est, il y a aujourd'hui neuf années, que tomba cette forteresse impie ..."--P. [1]. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  II, 13146. Scanner's note: Title page located on front cover. No copyright page found. No table-of-contents pages found. Worn, damaged and discolored pages and cover. Skewed text."""
+url = "https://archive.org/details/discoursdefelixf00faul"
+subject = ["Patriotism"]
+extent = "6 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 18475"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4qk2f41p"
+internet_archive = "discoursdefelixf00faul"
+openlibrary_edition = "OL26202011M"
+openlibrary_work = "OL17598531W"
+
+[scan]
+file = "discoursdefelixf00faul.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/discoursdefelixf00faul"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Faulcon, Félix Marie, 1758-1843"
+role = "author"
+
+[[resp]]
+name = "Baudouin, François-Jean, 1759-1838"
+role = "publisher"
+
+[[resp]]
+name = "Baudouin, imprimeur du Corps législatif, place du Carrousel, no. 662"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_838656"
+
+[[text]]
+file = "discoursdefelixf00faul.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursdefelixf00faul.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursdefelixf00faul.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursdefelixf00faul.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursdefelixf00faul.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursdefelixf00faul.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

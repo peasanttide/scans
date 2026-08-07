@@ -1,0 +1,77 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "dlibration00vale_1"
+type = "pamphlet"
+title = "Délibération /"
+language = "fr"
+place = "s.l."
+date = "1788"
+note = """
+Caption title. Without imprint. Dated at beginning: Du mercredi, 3 septembre 1788 .. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover. 
+No page numbers."""
+url = "https://archive.org/details/dlibration00vale_1"
+extent = "[4] p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 8907"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t08w8hf9n"
+internet_archive = "dlibration00vale_1"
+openlibrary_edition = "OL26219592M"
+openlibrary_work = "OL17615272W"
+
+[scan]
+file = "dlibration00vale_1.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/dlibration00vale_1"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Valence (Drôme, France)"
+role = "author"
+
+[[resp]]
+name = "Valence (Drôme, France)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_65176"
+
+[[text]]
+file = "dlibration00vale_1.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dlibration00vale_1.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dlibration00vale_1.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dlibration00vale_1.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

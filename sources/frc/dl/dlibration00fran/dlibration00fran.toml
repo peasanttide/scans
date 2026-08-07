@@ -1,0 +1,93 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "dlibration00fran"
+type = "pamphlet"
+title = "Délibération"
+language = "fr"
+place = "A Paris"
+date = "1789"
+note = "Scanner's note: No title page found. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/dlibration00fran"
+extent = "6 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "CaseFRC818"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3323ff6g"
+internet_archive = "dlibration00fran"
+
+[scan]
+file = "dlibration00fran.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/dlibration00fran"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "Chez Baudouin"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_39910"
+
+[[text]]
+file = "dlibration00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "dlibration00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "dlibration00fran.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "dlibration00fran.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "dlibration00fran.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "dlibration00fran.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "dlibration00fran.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "dlibration00fran.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"

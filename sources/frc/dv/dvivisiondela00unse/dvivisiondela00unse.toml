@@ -1,0 +1,56 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "dvivisiondela00unse"
+type = "pamphlet"
+title = "Division de la ville & fauxbourgs de Bordeaux, en vingt-huit arrondissements."
+language = "fr"
+place = "A Bordeaux"
+date = "1790"
+note = "Caption title. Signed: Aquart, jurat, faisant les fonctions de secrétaire. Printed in three columns. Coat of arms of Bordeaux at head of title. No. 43 of 45 titles bound together. Scanner's note: No copyright page found. No table-of-contents pages found. Title and cover pages combined."
+url = "https://archive.org/details/dvivisiondela00unse"
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case HD9747.F72 D68 1784 no. 43"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t04z19r71"
+internet_archive = "dvivisiondela00unse"
+
+[scan]
+file = "dvivisiondela00unse.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/dvivisiondela00unse"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Aquart"
+role = "author"
+
+[[resp]]
+name = "Racle, Michel, 1739-1793, printer"
+role = "publisher"
+
+[[resp]]
+name = "Chez Michel Racle, imprimeur de l'Hôtel-de-Ville, rue Saint-James"
+role = "publisher"
+
+[[text]]
+file = "dvivisiondela00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dvivisiondela00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

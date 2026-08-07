@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "decretdelaconven00fran_0"
+type = "pamphlet"
+title = "Décret de la Convention nationale, du 12 novembre 1792, l'an 1er. de la République française, qui excepte de la vente des effets mobiliers appartenant aux commanderies, prieurés, &c. de l'Ordre de Malte, les meubles personnels des ci-devant commandeurs, baillis, prieurs ou autres bénéficiers"
+language = "fr"
+place = "A Chartres"
+date = "1792"
+note = """Caption title. Signed: Roland; countersigned: Garat. Imprint from colophon. "No. 114. Conv. nat."--Bottom of p. [1]. Not in Martin & Walter. Révolution française. Scanner's note: Irregular Pagination. No title page found. No copyright page found. No table-of-contents pages found."""
+url = "https://archive.org/details/decretdelaconven00fran_0"
+subject = ["Knights of Malta. Association française des membres de l'Ordre souverain militaire et hospitalier de Saint-Jean de Jérusalem, de Rhodes et de Malte"]
+extent = "2 p. ; 28 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9676 no. 1"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9770m30n"
+internet_archive = "decretdelaconven00fran_0"
+openlibrary_edition = "OL26221979M"
+openlibrary_work = "OL17617479W"
+
+[scan]
+file = "decretdelaconven00fran_0.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/decretdelaconven00fran_0"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Roland de La Platière, Jean-Marie, 1734-1793"
+role = "author"
+
+[[resp]]
+name = "Garat, Dominique-Joseph, comte, 1749-1833"
+role = "author"
+
+[[resp]]
+name = "Chez Fr. Durand, imprimeur du département d'Eure & Loir, & de la municipalité"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_853668"
+
+[[text]]
+file = "decretdelaconven00fran_0.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelaconven00fran_0.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelaconven00fran_0.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelaconven00fran_0.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

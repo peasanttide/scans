@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discoursducomted00mira_2"
+type = "pamphlet"
+title = "Discours du comte de Mirabeau, dans la séance de ce matin 11 juin, sur la mort de Benjamin Francklin : imprimé par ordre de l'Assemblée nationale."
+language = "fr"
+place = "A Paris"
+date = "1790"
+note = """Caption title. Imprint from colophon. "Pr. verb. no. 315"--Bottom of p. [1]. Martin & Walter. Révolution française. Proposes that the Assemblée nationale observe three days of mourning for Franklin. Bibliography: Martin & Walter.  Révolution française,  III, 24503. Scanner's note: Title page and cover are combined. Damaged, stained, marked and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/discoursducomted00mira_2"
+subject = ["Franklin, Benjamin, 1706-1790"]
+extent = "3 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 22628"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t48q18s51"
+internet_archive = "discoursducomted00mira_2"
+openlibrary_edition = "OL26240637M"
+openlibrary_work = "OL17635160W"
+
+[scan]
+file = "discoursducomted00mira_2.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/discoursducomted00mira_2"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Mirabeau, Honoré-Gabriel de Riquetti, comte de, 1749-1791"
+role = "author"
+
+[[resp]]
+name = "Baudouin, François-Jean, 1759-1838"
+role = "publisher"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "Chez Baudouin, imprimeur de l'Assemblée nationale, rue du Foin St. Jacques, no. 31"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_846545"
+
+[[text]]
+file = "discoursducomted00mira_2.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursducomted00mira_2.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursducomted00mira_2.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursducomted00mira_2.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

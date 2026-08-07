@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "demandepierr00unse"
+type = "pamphlet"
+title = "Demande par Pierre-Denis Rochez, sous-lieutenant de cavalerie lég[è]re, sans activité, au Conseil des cinq-cents, afin d'en obtenir une pension, en forme de récompense nationale, pour avoir gardé avec succ[è]s, à la tour du Temple, le dernier roi des Français et sa famille"
+language = "fr"
+place = "France"
+date = "1799"
+note = """Caption title. At head of title: Egalité. Liberté. Justice. Signed, p. 3: Le 2 pluviôse, an septième de l'ère républicaine. P.D. Rochez. Martin & Walter. Révolution française. "Commune de Paris. Du 25 octobre 1792, l'an premier de la République française. Extrait du registre des délibérations du conseil-général"--P. [4]. Bibliography: Martin & Walter.  Révolution française, IV:1, 29589. Scanner's note: No copyright page found. No table-of-contents pages found. Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/demandepierr00unse"
+subject = [
+    "Rochez, Pierre-Denis",
+    "Pensions",
+    "Remedies (Law)",
+]
+extent = "4 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 27160"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7gr22g9v"
+internet_archive = "demandepierr00unse"
+openlibrary_edition = "OL26229522M"
+openlibrary_work = "OL17624555W"
+
+[scan]
+file = "demandepierr00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/demandepierr00unse"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Rochez, Pierre-Denis"
+role = "author"
+
+[[resp]]
+name = "France. Corps législatif (1795-1814). Conseil des cinq-cents"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_868078"
+
+[[text]]
+file = "demandepierr00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "demandepierr00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "demandepierr00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "demandepierr00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

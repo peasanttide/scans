@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "dlibration00bour"
+type = "pamphlet"
+title = "Délibération /"
+language = "fr"
+place = "s.l."
+date = "1788"
+note = """Half title. Caption on p.[3]: Extrait du registre de délibérations de la communauté du Bourg-lès-Valence. Dated at beginning: Du dimanche sixieme jour de juillet, année mil sept cent quatre-vingt-huit .. "L'assemblée consternée, comme toute la province, à la vue des nouveaux édits enregistrés militairement dans le même instant, dans toutes les cours du royaume, & par l'exil du Parlement; de tout quoi les suites ne peuvent qu'être alarmantes & désastreuses": p.[3]. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Skewed text. Uneven binding. Damaged, stained, and/or loose pages.  No page numbers."""
+url = "https://archive.org/details/dlibration00bour"
+extent = "[4] p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 1490"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0sr3x87s"
+internet_archive = "dlibration00bour"
+openlibrary_edition = "OL26208490M"
+openlibrary_work = "OL17604758W"
+
+[scan]
+file = "dlibration00bour.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/dlibration00bour"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Bourg-lès-Valence (France)"
+role = "author"
+
+[[resp]]
+name = "Bourg-lès-Valence (France)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_41516"
+
+[[text]]
+file = "dlibration00bour.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dlibration00bour.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dlibration00bour.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dlibration00bour.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

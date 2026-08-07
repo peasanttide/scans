@@ -1,0 +1,73 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discoursprononce00bail"
+type = "pamphlet"
+title = "Discours prononcé à la tribune de l'Assemblée électorale du département des Bouches-du-Rhône /"
+language = "fr"
+place = "France"
+date = "1792"
+note = "Caption title. Not in Martin & Walter. Révolution française. Accepting his nomination to the Convention nationale. Scanner's note: No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/discoursprononce00bail"
+extent = "3 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 13791"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t85j24d4s"
+internet_archive = "discoursprononce00bail"
+
+[scan]
+file = "discoursprononce00bail.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/discoursprononce00bail"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Baille, Pierre Marie, 1750-1793"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_829029"
+
+[[text]]
+file = "discoursprononce00bail.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00bail.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00bail.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00bail.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

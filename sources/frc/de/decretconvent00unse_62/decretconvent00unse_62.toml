@@ -1,0 +1,89 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "decretconvent00unse_62"
+type = "pamphlet"
+title = "Décret de la Convention nationale, du 26 mars 1793, l'an second de la République françoise, qui rétablit une omission dans l'article XIV de la loi des 11 & 12 mars, relative à l'administration des biens des émigrés, & à la vente de leur mobilier"
+language = "fr"
+place = "A Paris"
+date = "1793"
+note = """
+Caption title. At right of title: No. 650. Signed: Lebrun; countersigned: Gohier. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover. 
+Only one numbered page."""
+url = "https://archive.org/details/decretconvent00unse_62"
+subject = [
+    "France. Convention nationale",
+    "Refugee property",
+]
+extent = "2 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10330 no. 37"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5dc35c57"
+internet_archive = "decretconvent00unse_62"
+openlibrary_edition = "OL26225217M"
+openlibrary_work = "OL17620542W"
+
+[scan]
+file = "decretconvent00unse_62.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/decretconvent00unse_62"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Lebrun, Charles-François, duc de Plaisance, 1739-1824"
+role = "author"
+
+[[resp]]
+name = "Gohier, Louis-Jérôme, 1746-1830"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale exécutive du Louvre"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_852512"
+
+[[text]]
+file = "decretconvent00unse_62.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretconvent00unse_62.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretconvent00unse_62.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretconvent00unse_62.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

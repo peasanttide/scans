@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discoursprononce00duch"
+type = "pamphlet"
+title = "Discours prononcé par Duchastel-Berthelin, en annonçant le départ des conscrits du département de l'Aube : séance du 23 frimaire an 7."
+language = "fr"
+place = "Paris"
+date = "1798"
+note = """Caption title. At head of title: Corps legislatif. Conseil des cinq-cents. Imprint from colophon. Martin & Walter. Révolution française. "L'administration centrale du département de l'Aube au citoyen président du Conseil des cinq-cents"--P. 3-4. Bibliography: Martin & Walter.  Révolution française,  II, 11340. Scanner's note: No copyright page found. No table-of-contents pages found. Title page and cover are combined. Skewed text. Damaged pages."""
+url = "https://archive.org/details/discoursprononce00duch"
+subject = ["Draftees"]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 17738"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2x39rk3b"
+internet_archive = "discoursprononce00duch"
+openlibrary_edition = "OL26194474M"
+openlibrary_work = "OL17591216W"
+
+[scan]
+file = "discoursprononce00duch.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/discoursprononce00duch"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Duchastel-Berthelin, Jacques Jean Baptiste, 1756-1830"
+role = "author"
+
+[[resp]]
+name = "France. Corps législatif (1795-1814). Conseil des cinq-cents"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_837087"
+
+[[text]]
+file = "discoursprononce00duch.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00duch.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00duch.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00duch.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

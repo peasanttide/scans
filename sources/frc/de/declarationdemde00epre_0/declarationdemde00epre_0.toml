@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "declarationdemde00epre_0"
+type = "pamphlet"
+title = "Déclaration de M. d'Epremesnil au sujet d'un imprimé faussement répandu sous son nom."
+language = "fr"
+place = "France"
+date = "1789"
+note = "Caption title. Dated at end: 13 janvier 1789. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  II, 12759. Scanner's note: Title page located on front cover. No copyright page found. No table-of-contents pages found. Worn, damaged and discolored pages and cover. Skewed text."
+url = "https://archive.org/details/declarationdemde00epre_0"
+subject = [
+    "Eprémesnil, M. d' (Jean-Jacques), 1745-1794",
+    "Libel and slander",
+]
+extent = "3 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 18294"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2f81c88h"
+internet_archive = "declarationdemde00epre_0"
+openlibrary_edition = "OL26201881M"
+openlibrary_work = "OL17598399W"
+
+[scan]
+file = "declarationdemde00epre_0.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/declarationdemde00epre_0"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Eprémesnil, M. d' (Jean-Jacques), 1745-1794"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_838205"
+
+[[text]]
+file = "declarationdemde00epre_0.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "declarationdemde00epre_0.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "declarationdemde00epre_0.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "declarationdemde00epre_0.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

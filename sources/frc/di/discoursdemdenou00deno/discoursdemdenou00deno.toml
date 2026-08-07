@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discoursdemdenou00deno"
+type = "pamphlet"
+title = "Discours de M. Denoux, curé de la Madeleine en la cité : prononcé après celui de M. Filleul, assisté de Mm. Oudet & Dandry, commissaires de la municipalité, & avant la prestation faite du serment civique dans la même église, le 9 Janvier 1791, en présence des fidèles."
+language = "fr"
+place = "Paris"
+date = "1790"
+note = "Caption title. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  II, 10173. Scanner's note: Title page located on front cover. No copyright page found. No table-of-contents pages found. Worn, damaged pages and cover. Skewed text."
+url = "https://archive.org/details/discoursdemdenou00deno"
+subject = ["Loyalty oaths"]
+extent = "3 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 17289"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3jx39j0x"
+internet_archive = "discoursdemdenou00deno"
+openlibrary_edition = "OL26006076M"
+openlibrary_work = "OL17423468W"
+
+[scan]
+file = "discoursdemdenou00deno.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/discoursdemdenou00deno"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Denoux, Daniel, d. ca. 1805"
+role = "author"
+
+[[resp]]
+name = "Ferry, C.-J. (Claude-Joseph), 1756-1845"
+role = "author"
+
+[[resp]]
+name = "Hérissant, Marie-Nicole, -1798"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie de Ve. Herissant, rue Neuve-Notre-Dame"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_835626"
+
+[[text]]
+file = "discoursdemdenou00deno.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursdemdenou00deno.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursdemdenou00deno.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursdemdenou00deno.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

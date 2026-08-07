@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discoursprononce00blan"
+type = "pamphlet"
+title = "Discours prononcé dans le conseil des trois ordres réunis, au conseil municipal ordinaire de la ville de Marseille, le 18 juillet 1789, & publié à la demande qui en a été faite."
+language = "fr"
+place = "France"
+date = "1789"
+note = "Caption title. Signed: M. Blanc-Gilli, electeur du Tiers Etat. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Damaged, stained pages and cover. Title on cover."
+url = "https://archive.org/details/discoursprononce00blan"
+subject = ["Political violence"]
+extent = "3 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 14705"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5s80b32h"
+internet_archive = "discoursprononce00blan"
+openlibrary_edition = "OL26191232M"
+openlibrary_work = "OL17588055W"
+
+[scan]
+file = "discoursprononce00blan.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/discoursprononce00blan"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Blanc-Gilli, Mathieu"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_830718"
+
+[[text]]
+file = "discoursprononce00blan.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00blan.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00blan.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00blan.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

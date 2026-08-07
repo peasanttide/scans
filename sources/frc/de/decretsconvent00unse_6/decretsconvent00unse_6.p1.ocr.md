@@ -1,0 +1,50 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: decretsconvent00unse_6
+page: 1
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 3049
+h: 4104
+dpi: 350
+---
+
+décret
+
+DELA
+
+CONVENTION NATIONALE,
+
+Du 8 OAobre r,„ . «
+
+Tranjlanon dans les prifora 6 maifons i arrêt établtes
+par la Lot , de tous les citoyens détenus dans des
+matfons qut ne font nt prifons , ni maifons d’arrêt.
+
+La Convention Natio NALE décrète crue re
+
+les citoyens détenus dans des maifons qui ne font nLrifo
+ni maifons d’arrêt, feront transférés dL le délai de^
+jours à compter de la publication du préfent déert
+les prifons & maifons d’arrêt établies par “ lo d’’
+que ledit délai expiré, tout citoyen contre leauel l’ ’
+ni mandat d’arrêt ni décret d’aceufarion , fera mis en ”l,Lr“é'^
+
+diviferH I?4t deXl^a ' ’f 'Ï
+
+-irons de Paris, od des^tytri S^fq^utL^
+
+dra tous les renfeignemens nécelTaires
+
+fur le nombre des détenus , la caufe de’leur détentioV
+aftes en vertu defquels ils ont été arrêtés. ’
+
+mand7& O r ^ ° ^ exécutifprovifoire
+
+banaux ' admini lira tifs & Tri-
+
+baux-, que les prefentes ils faffent configner dans leurs
+
+fnc
+
+(0

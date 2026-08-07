@@ -1,0 +1,90 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "dictionnairedel00unse"
+type = "pamphlet"
+title = "Dictionnaire de l'histoire"
+language = "fr"
+place = "A Paris"
+date = "1769"
+note = """Caption title. Proposed work never published? "Permis d'imprimer, ce 24 décembre 1769"--P. 4. "Nous avons choisi Me. Lagrénée, notaire à Paris, rue de la Tixeranderie, pour recevoir l'argent des souscriptions ... Les souscriptions seront ouvertes au premier janvier 1770 inclusivement, jusqu'au premier mai exclusivement"--P. 4. Printed in double columns. "Conditions particulières en faveur des jeunes gens": p. 4. Includes prices. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Text extends off of the edge of the page. Text may be lost in the binding. Permanent creases may obscure some text. Title page and cover are combined."""
+url = "https://archive.org/details/dictionnairedel00unse"
+subject = [
+    "Dictionnaire de l'histoire",
+    "Booksellers and bookselling",
+    "History publishing",
+    "Encyclopedias and dictionaries",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1b no. 32"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t53g0fh6x"
+internet_archive = "dictionnairedel00unse"
+
+[scan]
+file = "dictionnairedel00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/dictionnairedel00unse"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Grangé, Jean-Augustin, b. 1712?"
+role = "bookseller"
+
+[[resp]]
+name = "Duchesne, veuve"
+role = "bookseller"
+
+[[resp]]
+name = "Delalain, Nicolas-Augustin, 1735?-1807?"
+role = "bookseller"
+
+[[resp]]
+name = "D. C., M., 1743-1814"
+role = "bookseller"
+
+[[resp]]
+name = "La Grenee, Martin"
+role = "author"
+
+[[resp]]
+name = "Saillant & Nyon"
+role = "bookseller"
+
+[[resp]]
+name = "Chez Grangé, imprimeur-libraire, rue de la Parcheminerie & au Cabinet littéraire, Pont Notre-Dame, Saillant & Nyon, libraires, rue S. Jean-de-Beauvais, Veuve Duchesne, libraire, au Temple du Goût, rue S. Jacques, Delalain, libraire, rue & près la Comédie Françoise, Costard, libraire, rue Saint Jean-de-Beauvais, la première porte cochere au-dessus du collège"
+role = "publisher"
+
+[[text]]
+file = "dictionnairedel00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dictionnairedel00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dictionnairedel00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dictionnairedel00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

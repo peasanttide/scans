@@ -1,0 +1,106 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "duregistredesdel00ambo"
+type = "pamphlet"
+title = "Du registre des délibérations de la commune d'Amboise, a été extrait ce qui suit"
+language = "fr"
+place = "A Tours"
+date = "1791"
+note = """Caption title. Signed, p. 2: Moreau; signed, p. 4: Javelle, maire; Chambellan, Pic-Paris, Moreau, Seiller, Bouttet, Goujon, officiers-municipaux; & Boureau, secrétaire-greffier. Imprint from colophon. "Aujourd'hui seize avril mil sept cent quatre-vingt-onze ..."--P. 1. Denounces the author of an article published in Vedette, ou, Précis de toutes les nouvelles du jour, which accuses the government and citizens of Amboise of harboring aristocratic tendencies. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Title page and cover are combined."""
+url = "https://archive.org/details/duregistredesdel00ambo"
+subject = [
+    "Boesse, sieur",
+    "Vedette, ou, Précis de toutes les nouvelles du jour",
+    "Libel and slander",
+    "Denunciation (Criminal law)",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 2 no. 1"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9d56b131"
+internet_archive = "duregistredesdel00ambo"
+
+[scan]
+file = "duregistredesdel00ambo.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/duregistredesdel00ambo"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Amboise (France)"
+role = "author"
+
+[[resp]]
+name = "Moreau, officier municipal d'Amboise"
+role = "author"
+
+[[resp]]
+name = "Javelle"
+role = "author"
+
+[[resp]]
+name = "Vauquer-Lambert, F."
+role = "printer"
+
+[[resp]]
+name = "Chez F. Vauquer-Lambert, imprimr. de la municipalité"
+role = "publisher"
+
+[[text]]
+file = "duregistredesdel00ambo.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "duregistredesdel00ambo.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "duregistredesdel00ambo.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "duregistredesdel00ambo.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "duregistredesdel00ambo.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "duregistredesdel00ambo.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "duregistredesdel00ambo.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "duregistredesdel00ambo.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

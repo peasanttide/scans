@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discoursprononce00tala"
+type = "pamphlet"
+title = "Discours prononcé à la fête de la reconnoissance célébrée dans la commune de Brioude, le 10 prairial, an 4 de la République"
+language = "fr"
+place = "France"
+date = "1796"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text. No title page found. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/discoursprononce00tala"
+subject = [
+    "First Coalition, War of the, 1792-1797",
+    "Festivals",
+]
+extent = "4 p. ; 25 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 27223"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9z088s9z"
+internet_archive = "discoursprononce00tala"
+openlibrary_edition = "OL26229181M"
+openlibrary_work = "OL17624215W"
+
+[scan]
+file = "discoursprononce00tala.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/discoursprononce00tala"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Talairat, Jean-François Gueyffier, baron de,1766-1850"
+role = "author"
+
+[[resp]]
+name = "Talairat, Jean-François Gueyffier, baron de, 1766-1850"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_868148"
+
+[[text]]
+file = "discoursprononce00tala.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00tala.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00tala.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00tala.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

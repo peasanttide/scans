@@ -1,0 +1,77 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discoursdelacomm00bail"
+type = "pamphlet"
+title = "Discours de la commune de Paris à l'Assemblée nationale, prononcé par M. Bailly, maire de cette ville, le 19 octobre 1789."
+language = "fr"
+place = "A Paris"
+date = "1789"
+note = "Caption title. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  I, 1198. Scanner's note: No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/discoursdelacomm00bail"
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 13830"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6838dd0b"
+internet_archive = "discoursdelacomm00bail"
+
+[scan]
+file = "discoursdelacomm00bail.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/discoursdelacomm00bail"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Bailly, Jean Sylvain, 1736-1793"
+role = "author"
+
+[[resp]]
+name = "Commune de Paris (France : 1789-1794)"
+role = "author"
+
+[[resp]]
+name = "Baudouin, François-Jean, 1759-1838"
+role = "publisher"
+
+[[resp]]
+name = "Chez Baudouin, imprimeur de l'Assemblée nationale, rue du Foin-Saint-Jacques, no. 31"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_828866"
+
+[[text]]
+file = "discoursdelacomm00bail.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursdelacomm00bail.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursdelacomm00bail.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursdelacomm00bail.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

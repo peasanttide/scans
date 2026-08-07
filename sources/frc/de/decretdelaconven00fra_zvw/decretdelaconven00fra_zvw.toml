@@ -1,0 +1,94 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "decretdelaconven00fra_zvw"
+type = "pamphlet"
+title = "Décret de la Convention nationale, du 6e. jour de pluviose an second de la République française, une et indivisible, relatif aux titres ou procédures qui se trouvent sous les scellés"
+language = "fr"
+place = "A Paris"
+date = "1794"
+note = """
+Caption title. At right of title: No. 2099. Signed, p. 2 first sequence: Dalbarade; countersigned: Gohier. Imprint from colophon. Not in Martin & Walter. Révolution française. Issued with: Loi qui rapporte celle du 27 mars 1793, par laquelle les ennemies de la révolution sont mis hors de la loi, et celle du 23 ventose an deuxième, qui ordonne de regarder et punir comme leurs complices ceux qui les ont recélés. ([Bulletin des lois], no. 135); at head of title: No. 356*, at right of title: B. no. 135, D. no. 751. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover. 
+Irregular pagination."""
+url = "https://archive.org/details/decretdelaconven00fra_zvw"
+subject = [
+    "Guadet, Marguerite-Élie, 1758-1794",
+    "Seals (Law)",
+    "Legal documents",
+]
+extent = "2, 2 ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10334 no. 5"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4mm1fv14"
+internet_archive = "decretdelaconven00fra_zvw"
+openlibrary_edition = "OL26225309M"
+openlibrary_work = "OL17620634W"
+
+[scan]
+file = "decretdelaconven00fra_zvw.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/decretdelaconven00fra_zvw"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Albarade, Jean d', 1743-1819"
+role = "author"
+
+[[resp]]
+name = "Gohier, Louis-Jérôme, 1746-1830"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale. Loi qui rapporte celle du 27 mars 1793, par laquelle les ennemis de la révolution sont mis hors de la loi, et celle du 23 ventose an deuxième, qui ordonne de regarder et punir comme leurs complices ceux qui les ont recélés, du 22 germinal an troisième de la République française, une et indivisible"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois, place du Carrousel"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_851884"
+
+[[text]]
+file = "decretdelaconven00fra_zvw.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelaconven00fra_zvw.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelaconven00fra_zvw.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelaconven00fra_zvw.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

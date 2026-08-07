@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "decretsconvent00unse_28"
+type = "pamphlet"
+title = "Décret de la Convention nationale, du 17 novembre 1792, l'an premier de la République française, relatif aux demandes formées par les municipalités et les corps administratifs, à l'effet d'être autorisés à acquérir des bâtimens, maisons ou domaines nationaux ou autres"
+language = "fr"
+place = "A Paris"
+date = "1792"
+note = "Caption title. At right of title: No. 159. Signed: Clavière; countersigned: Garat. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages."
+url = "https://archive.org/details/decretsconvent00unse_28"
+subject = [
+    "Public buildings",
+    "Central-local government relations",
+]
+extent = "2 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10329 no. 30"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t79s6wd6r"
+internet_archive = "decretsconvent00unse_28"
+openlibrary_edition = "OL26225358M"
+openlibrary_work = "OL17620683W"
+
+[scan]
+file = "decretsconvent00unse_28.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/decretsconvent00unse_28"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Clavière, Étienne, 1735-1793"
+role = "author"
+
+[[resp]]
+name = "Garat, Dominique-Joseph, comte, 1749-1833"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_852152"
+
+[[text]]
+file = "decretsconvent00unse_28.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretsconvent00unse_28.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

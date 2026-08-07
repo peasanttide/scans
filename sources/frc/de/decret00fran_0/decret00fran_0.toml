@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "decret00fran_0"
+type = "pamphlet"
+title = "Decret"
+language = "fr"
+place = "A Epinal"
+date = "1793"
+note = "Caption title. Imprint from colophon. At upper right on p.[1]: No. 698. No. 538 de la consignation. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."
+url = "https://archive.org/details/decret00fran_0"
+extent = "4 p. ; 23 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9667"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3vt6rw6k"
+internet_archive = "decret00fran_0"
+openlibrary_edition = "OL26222821M"
+openlibrary_work = "OL17618292W"
+
+[scan]
+file = "decret00fran_0.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/decret00fran_0"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Vosges (France)"
+role = "author"
+
+[[resp]]
+name = "France. Armée. Armée de la Belgique"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie nationale d'Haener"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_68045"
+
+[[text]]
+file = "decret00fran_0.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decret00fran_0.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decret00fran_0.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decret00fran_0.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discoursdegourda00gour"
+type = "pamphlet"
+title = "Discours de Gourdan sur le départ des conscrits du département de la Haute-Saône : séance du 11 frimaire an 7."
+language = "fr"
+place = "A Paris"
+date = "1798"
+note = "Caption title. At head of title: Corps législatif. Conseil des anciens. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  II, 15422. Scanner's note: Title page located on front cover. No copyright page found. No table-of-contents pages found. Worn, damaged pages and cover. Skewed text."
+url = "https://archive.org/details/discoursdegourda00gour"
+subject = ["Draftees"]
+extent = "3 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 19309"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t55f3rd6q"
+internet_archive = "discoursdegourda00gour"
+openlibrary_edition = "OL25952799M"
+openlibrary_work = "OL17373724W"
+
+[scan]
+file = "discoursdegourda00gour.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/discoursdegourda00gour"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Gourdan, Charles Claude Christophe, 1744-1804"
+role = "author"
+
+[[resp]]
+name = "France. Corps législatif (1795-1814). Conseil des anciens"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_839956"
+
+[[text]]
+file = "discoursdegourda00gour.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursdegourda00gour.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursdegourda00gour.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursdegourda00gour.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

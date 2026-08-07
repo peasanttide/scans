@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "decretdelaconven00fra_x3u"
+type = "pamphlet"
+title = "Décret de la Convention nationale, du 6e. jour de germinal, an 2e. [26 March 1794] de la République françoise, une & indivisible"
+language = "fr"
+place = "A Auxerre"
+date = "1794"
+note = "Caption title. Imprint at foot of p. 4. At upper right on p. [1]: No. 2270. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Title page and cover are combined."
+url = "https://archive.org/details/decretdelaconven00fra_x3u"
+subject = [
+    "Paper industry",
+    "Printing industry",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 11 no. 41"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5t78379s"
+internet_archive = "decretdelaconven00fra_x3u"
+
+[scan]
+file = "decretdelaconven00fra_x3u.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/decretdelaconven00fra_x3u"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Convention nationale"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de L. Fournier"
+role = "publisher"
+
+[[text]]
+file = "decretdelaconven00fra_x3u.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelaconven00fra_x3u.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelaconven00fra_x3u.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelaconven00fra_x3u.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

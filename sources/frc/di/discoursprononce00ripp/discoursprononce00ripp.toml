@@ -1,0 +1,64 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discoursprononce00ripp"
+type = "pamphlet"
+title = "Discours prononcé par M. Rippert, ancien major de la garde nationale de Châteaurenard, administrateur du district de Tarascon, en présence de la municipalité, le 2 novembre 1790, jour du service funebre, célébré à Châteaurenard, dans l'eglise paroissiale, pour les soldats citoyens, morts à Nancy, pour le salut de la patrie"
+language = "fr"
+place = "France"
+date = "1790"
+note = "Caption title. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/discoursprononce00ripp"
+subject = [
+    "France. Armée. Garde nationale",
+    "Massacres",
+    "Insurgency",
+]
+extent = "2 p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 27147"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t03z3d554"
+internet_archive = "discoursprononce00ripp"
+openlibrary_edition = "OL26226761M"
+openlibrary_work = "OL17621992W"
+
+[scan]
+file = "discoursprononce00ripp.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/discoursprononce00ripp"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Rippert, M"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_867786"
+
+[[text]]
+file = "discoursprononce00ripp.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00ripp.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

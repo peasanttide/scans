@@ -1,0 +1,84 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "dekretnat0unse"
+type = "pamphlet"
+title = "Dekret des National-Konvents vom 29sten März 1793, im 2ten Jahr der fränkischen Republik, welches jedem Hauseigenthümer oder Hauptmiethmanne befiehlt, aussen an sein Haus die Namen, Vornamen, Beynamen, das Alter und die Handthierung aller in ihren Häusern wohnenden Personen anschlagen zu lassen."
+language = "de"
+place = "Strasbourg?"
+date = "1793"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Letter concerning the background of the legislation, p. [1]; signed: Lanfrey, Polizey-Verwalter. Scanner's note: No title page found. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/dekretnat0unse"
+subject = [
+    "Recording and registration",
+    "Landlord and tenant",
+    "Aliens",
+]
+extent = "4 p. ; 23 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 20575"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t89h0vq2p"
+internet_archive = "dekretnat0unse"
+openlibrary_edition = "OL26234947M"
+openlibrary_work = "OL17629529W"
+
+[scan]
+file = "dekretnat0unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/dekretnat0unse"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Lanfrei, Polizei-Verwalter"
+role = "author"
+
+[[resp]]
+name = "Dannbach, Philipp Jacob"
+role = "publisher"
+
+[[resp]]
+name = "Gedrukt bey Ph. Jacob Dannbach, Municip. Buchdr."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_843084"
+
+[[text]]
+file = "dekretnat0unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "de"
+
+[[text]]
+file = "dekretnat0unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "de"
+
+[[text]]
+file = "dekretnat0unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "de"
+
+[[text]]
+file = "dekretnat0unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "de"

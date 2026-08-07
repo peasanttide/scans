@@ -1,0 +1,91 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "decretdelaconven00fra_pyg"
+type = "pamphlet"
+title = "Décret de la Convention nationale, du 3e. jour de floréal, an second de la République française, une & indivisible, relatif aux effets d'habillement & d'équipement qui auront été distraits par des militaires, & à la visite de leurs malles & paquets"
+language = "fr"
+place = "A Paris"
+date = "1794"
+note = "Caption title. At right of title: No. 2317. Signed: Voulland, ex-président; Pocholle & N. Haussmann, secrétaires. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."
+url = "https://archive.org/details/decretdelaconven00fra_pyg"
+subject = [
+    "France. Armée",
+    "Diversion of goods",
+]
+extent = "3 p. ; 28 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10334 no. 72"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9867n987"
+internet_archive = "decretdelaconven00fra_pyg"
+openlibrary_edition = "OL26225664M"
+openlibrary_work = "OL17620979W"
+
+[scan]
+file = "decretdelaconven00fra_pyg.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/decretdelaconven00fra_pyg"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Voulland, Jean Henri, 1751-1801"
+role = "author"
+
+[[resp]]
+name = "Pocholle, Pierre-Pomponne-Amédée, 1764-1832"
+role = "author"
+
+[[resp]]
+name = "Haussmann, Nicolas, 1760-1846"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale du Louvre"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_851967"
+
+[[text]]
+file = "decretdelaconven00fra_pyg.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelaconven00fra_pyg.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelaconven00fra_pyg.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelaconven00fra_pyg.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

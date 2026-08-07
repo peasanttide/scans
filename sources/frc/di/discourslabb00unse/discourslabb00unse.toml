@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discourslabb00unse"
+type = "pamphlet"
+title = "Discours de M. l'abbé d'Avigneau, député par la chambre ecclésiastique à celle de la noblesse, avec MM. le prieur de Saint Amatre, le prieur de Rigny, le prieur de Branches, & le curé de Saint Etienne de Vezelay : imprimé sur la demande de la noblesse"
+language = "fr"
+place = "A Auxerre"
+date = "1789"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/discourslabb00unse"
+subject = ["France. États généraux. Noblesse"]
+extent = "4 p. ; 24 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 26462"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1pg6tp1r"
+internet_archive = "discourslabb00unse"
+openlibrary_edition = "OL26229408M"
+openlibrary_work = "OL17624442W"
+
+[scan]
+file = "discourslabb00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/discourslabb00unse"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Avigneau, abbé d'"
+role = "author"
+
+[[resp]]
+name = "Fournier, Laurent, d. 1825"
+role = "publisher"
+
+[[resp]]
+name = "France. États généraux. Noblesse"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de L. Fournier"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_862192"
+
+[[text]]
+file = "discourslabb00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discourslabb00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discourslabb00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discourslabb00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

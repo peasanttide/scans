@@ -1,0 +1,69 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "dcretdelaconvent00fran_0"
+type = "pamphlet"
+title = "Décret de la Convention nationale, du 14 novembre 1792, l'an 1.er de la République françoise"
+language = "fr"
+place = "A Auxerre"
+date = "1793"
+note = "Caption title. Imprint at foot of p. 2. At upper right on p. [1]: N⁰. 146. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Title page and cover are combined."
+url = "https://archive.org/details/dcretdelaconvent00fran_0"
+subject = ["Printing, Public"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 11 no. 24"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3qv96r5x"
+internet_archive = "dcretdelaconvent00fran_0"
+
+[scan]
+file = "dcretdelaconvent00fran_0.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/dcretdelaconvent00fran_0"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Convention nationale"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de L. Fournier"
+role = "publisher"
+
+[[text]]
+file = "dcretdelaconvent00fran_0.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dcretdelaconvent00fran_0.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dcretdelaconvent00fran_0.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dcretdelaconvent00fran_0.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

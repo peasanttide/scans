@@ -1,0 +1,71 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "dcretquipermetto00unse"
+type = "pamphlet"
+title = "... Décret qui permet à tous les prêtres, sans distinction, de dire la messe dans toutes les eglises : et qui défend à ceux des édifices consacrés à un culte religieux par des sociétés particulieres, de faire des discours contre la constitution du royaume, & la constitution civile du clergé, sous peine d'être poursuivi criminellement ; et celui concernant les eglises paroissiales & succursales, cimetieres, cloches, presbyteres, qui ne sont point nécessaires au service du culte public."
+language = "fr"
+place = "s.l."
+date = "1790"
+note = """Caption title. Without imprint. At head of title: (Prix, deux sols.) La nation, la loi, et le roi. The date "24 août 1790" occurs on p.2. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page is on the cover. Skewed text. Damaged, stained, and/or loose pages."""
+url = "https://archive.org/details/dcretquipermetto00unse"
+subject = [
+    "Church and state",
+    "Clergy",
+]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 2809"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2v45rx6g"
+internet_archive = "dcretquipermetto00unse"
+openlibrary_edition = "OL26209555M"
+openlibrary_work = "OL17605796W"
+
+[scan]
+file = "dcretquipermetto00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/dcretquipermetto00unse"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_51091"
+
+[[text]]
+file = "dcretquipermetto00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dcretquipermetto00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dcretquipermetto00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dcretquipermetto00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

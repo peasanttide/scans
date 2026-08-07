@@ -1,0 +1,95 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "dcouvertedelasse00unse"
+type = "pamphlet"
+title = "Découverte de l'assemblée nocturne et clandestine tenue par le clergé cette nuit, a la Sorbonne : avec le détail exact de ce qui s'y est passé."
+language = "fr"
+place = "Paris"
+date = "1790"
+note = """Caption title. Imprint from colophon. "Cejourd'hui vingt-un avril mil sept cent quatre-vingt-dix à onze heures du soir, se sont assemblés en la ville de Paris, maison de la Sorbonne les zélés et bons citoyens ... qui renouvellent ici leur serment de résister ... aux innovations désastreuses qui tendent au renversement de l'empire": p.3. Martin & Walter IV 2: 5097. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page is on the cover. Skewed text. Damaged, stained, and/or loose pages."""
+url = "https://archive.org/details/dcouvertedelasse00unse"
+subject = [
+    "Clergy",
+    "Church and state",
+]
+extent = "8 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 2799"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t09w5gt6w"
+internet_archive = "dcouvertedelasse00unse"
+openlibrary_edition = "OL26209388M"
+openlibrary_work = "OL17605642W"
+
+[scan]
+file = "dcouvertedelasse00unse.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/dcouvertedelasse00unse"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "De l'imprimerie de L.L. Girard"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_44470"
+
+[[text]]
+file = "dcouvertedelasse00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dcouvertedelasse00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dcouvertedelasse00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dcouvertedelasse00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dcouvertedelasse00unse.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dcouvertedelasse00unse.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dcouvertedelasse00unse.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dcouvertedelasse00unse.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

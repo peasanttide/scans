@@ -1,0 +1,84 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discoursprononce00guil_0"
+type = "pamphlet"
+title = "Discours prononcé par Guillard, dans la discussion sur les moyens d'assurer la rentrée de l'emprunt de 100 millions : séance du 28 messidor an 7."
+language = "fr"
+place = "A Paris"
+date = "1799"
+note = "Caption title. At head of title: Corps législatif. Conseil des cinq-cents. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  II, 19532. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover page. Damaged pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/discoursprononce00guil_0"
+subject = [
+    "Forced loans",
+    "Progressive taxation",
+    "Finance, Public",
+]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 19532"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7kq2w96p"
+internet_archive = "discoursprononce00guil_0"
+openlibrary_edition = "OL25945948M"
+openlibrary_work = "OL17367149W"
+
+[scan]
+file = "discoursprononce00guil_0.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/discoursprononce00guil_0"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Guillard, Jérôme, 1763-1808"
+role = "author"
+
+[[resp]]
+name = "France. Corps législatif (1795-1814). Conseil des cinq-cents"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_840784"
+
+[[text]]
+file = "discoursprononce00guil_0.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00guil_0.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00guil_0.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00guil_0.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

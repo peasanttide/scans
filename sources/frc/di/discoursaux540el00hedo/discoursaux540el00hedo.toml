@@ -1,0 +1,69 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discoursaux540el00hedo"
+type = "pamphlet"
+title = "Discours aux 540 électeurs (faisant suite aux procès-verbal du premier département de Marne,) envoyé à l'Assemblée nationale en 179[0]"
+language = "fr"
+place = "France"
+date = "1790"
+note = """
+Caption title. Signed: Hedoin, premier electeur du district de Reims, &c. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover. Only one numbered page. 
+Only one numbered page."""
+url = "https://archive.org/details/discoursaux540el00hedo"
+extent = "2 p. ; 25 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 26793"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t10p66c8h"
+internet_archive = "discoursaux540el00hedo"
+openlibrary_edition = "OL26227116M"
+openlibrary_work = "OL17622343W"
+
+[scan]
+file = "discoursaux540el00hedo.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/discoursaux540el00hedo"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Hédouin, Jean-Baptiste-Antoine,1749-1802"
+role = "author"
+
+[[resp]]
+name = "Hédouin, Jean-Baptiste-Antoine, 1749-1802"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_868395"
+
+[[text]]
+file = "discoursaux540el00hedo.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursaux540el00hedo.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

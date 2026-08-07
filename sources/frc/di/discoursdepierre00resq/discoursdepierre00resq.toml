@@ -1,0 +1,78 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discoursdepierre00resq"
+type = "pamphlet"
+title = "Discours de Pierre Resquier, président du district n. 7, le 29 janvier 1790."
+language = "fr"
+place = "A Marseillle"
+date = "1790"
+note = """Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. "Compliment de Pierre Resquier, président du district no. 7, assemblé le 11 février 1790, a Messieurs les maire & officiers municipaux"--P. 3. "Exposition de Pierre Resquier, à l'honorable conseil-général de la commune de Marseille, du 27 mars 1790"--P. 4. Scanner's note: Title page and cover are combined. Damaged, stained, marked and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/discoursdepierre00resq"
+subject = ["Local government"]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 24370"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t24b8c36v"
+internet_archive = "discoursdepierre00resq"
+
+[scan]
+file = "discoursdepierre00resq.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/discoursdepierre00resq"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Resquier, Pierre"
+role = "author"
+
+[[resp]]
+name = "Mossy, Jean, d. 1792"
+role = "publisher"
+
+[[resp]]
+name = "Marseille (France). Conseil général"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Jean Mossy, père & fils, imprimeurs du roi & de la nation"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_849785"
+
+[[text]]
+file = "discoursdepierre00resq.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursdepierre00resq.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursdepierre00resq.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursdepierre00resq.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

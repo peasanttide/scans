@@ -1,0 +1,44 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "decretumferiaqua00unse"
+type = "pamphlet"
+title = "Decretum feria quarta die 22 Augusti 1714"
+language = "la"
+date = "1714"
+note = "Title from opening lines of text. At end. Romae Typis Reverendae Camerae Apostolicae MDCCXIV. Manuscript copy of a published document."
+url = "https://archive.org/details/decretumferiaqua00unse"
+subject = ["Inquisition"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 3 no. 52"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6645c32f"
+internet_archive = "decretumferiaqua00unse"
+
+[scan]
+file = "decretumferiaqua00unse.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/decretumferiaqua00unse"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[text]]
+file = "decretumferiaqua00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "la"
+
+[[text]]
+file = "decretumferiaqua00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "la"

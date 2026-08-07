@@ -1,0 +1,52 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: distributiondesp00cons
+page: 9
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 2636
+h: 4271
+dpi: 500
+---
+
+(s )
+
+l
+
+ne s’achetoient qu’au poids de l’or , et par l’impulsion,
+necrette que leur donnoit la monarchie , ne tournoient
+qu’à la dégradation des mœurs.
+
+Ainsi donc , devant aux bienfaits de la patrie votre .
+éducation musicale , vous devez , en retour à la patrie ,
+les résultats entiers de cette éducation : mais pour vous
+rendre plus sensible l’obfigation de ce devoir , faites-
+vous une idee bien juste et bien distincte de l’art que
+vous etes appelés à exercer. On sait assez que la musique
+est la langue des sentimens et des passions : on sait que
+le chant est un soulagement naturf*! qi'.’uiLe espèce d’ins-
+tinct suggère à l’homme : mais ce n’est pas sous ce seul
+point de vue que votre art doit être envisairé. Consultez,
+jeunes citovecs , les oracles de la sagesse. Ecoutez les
+plus grands des philosophes. Le premier d’entr’eux (i)
+attachoit tant d'importance à la musique , qu’il ne dé-
+daigna pas de classer les sons qui sollicitent aux vertus,
+et d’indiquer ceux qui provoquent aux foiblesses avilis-
+santes. Un autre ( 2 ) consideroit votre art comme un des
+creusets où s’épurent les mœurs d’une nation. A l’âge de
+quatre-vingts ans , le plus vertueux des Romains (o)
+prenoit des leçons de musique , et gémissoit de n’avoir
+pu les recevoir plutôt. Si un peuple, parmi les Grecs (4),
+se distingua par les excès d’une affreuse férocité, ses con-
+temporains rejetèrent ce funeste penchant au crime, sur
+le dédain constant de ce peuple pour la musique. Enfin,
+dans l’antiquité , cet art fut toujours de moitié dans les
+exhortations à la vertu. Les loix divines et humaines.
+
+( 1 ) Platon.
+
+( 2 ) Aristote.
+
+(3) Caton.
+
+(4) Le penpie de Cynète.

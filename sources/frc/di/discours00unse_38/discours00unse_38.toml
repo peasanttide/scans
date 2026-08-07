@@ -1,0 +1,84 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discours00unse_38"
+type = "pamphlet"
+title = "Discours du roi, prononcé à l'Assemblée nationale, concernant son arrestation à Paris & la réponse du président de l'Assemblée : du 21 avril 1791."
+language = "fr"
+place = "A Marseille"
+date = "1791"
+note = """Caption title. Imprint from colophon. "Sur l'imprimé de Paris"--Colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  III, 21778. Scanner's note: No copyright page found. No table-of-contents pages found. Title page and cover are combined. Damaged, stained and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/discours00unse_38"
+subject = ["Louis XVI, King of France, 1754-1793"]
+extent = "4 p. ; 17 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 21582"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t76t5x96v"
+internet_archive = "discours00unse_38"
+openlibrary_edition = "OL26239598M"
+openlibrary_work = "OL17634138W"
+
+[scan]
+file = "discours00unse_38.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/discours00unse_38"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Louis XVI, King of France, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "Chabroud, Jean-Baptiste-Charles, 1750-1816"
+role = "author"
+
+[[resp]]
+name = "Favet, Pierre-Antoine"
+role = "publisher"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de P.A. Favet, imprimeur de la nation &c., rue du Pavillon"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_845023"
+
+[[text]]
+file = "discours00unse_38.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discours00unse_38.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discours00unse_38.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discours00unse_38.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

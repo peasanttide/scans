@@ -1,0 +1,87 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "decretdelaconven00fran_4"
+type = "pamphlet"
+title = "Décret de la Convention nationale, du 30 novembre 1792, l'an 1er. de la République française, qui met à la disposition du ministre de l'intérieur deux millions deux cents mille livres pour payement de grains"
+language = "fr"
+place = "Paris"
+date = "1792"
+note = "Caption title. At right of title: No. 198. Signed: Monge; countersigned: Garat. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: Irregular Pagination. No title page found. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/decretdelaconven00fran_4"
+subject = [
+    "France. Ministère de l'intérieur",
+    "Grain trade",
+]
+extent = "2 p. ; 28 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9676 no. 5"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t40s4wf1d"
+internet_archive = "decretdelaconven00fran_4"
+openlibrary_edition = "OL26222192M"
+openlibrary_work = "OL17617693W"
+
+[scan]
+file = "decretdelaconven00fran_4.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/decretdelaconven00fran_4"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Monge, Gaspard, 1746-1818"
+role = "author"
+
+[[resp]]
+name = "Garat, Dominique-Joseph, comte, 1749-1833"
+role = "author"
+
+[[resp]]
+name = "Ballard, Pierre-Robert-Christophe, 1744-1812"
+role = "publisher"
+
+[[resp]]
+name = "De l'imprimerie de Ballard, imprimeur du département de Paris, rue des Mathurins"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_853672"
+
+[[text]]
+file = "decretdelaconven00fran_4.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelaconven00fran_4.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelaconven00fran_4.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelaconven00fran_4.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "declarationduro00fran_3"
+type = "pamphlet"
+title = "Declaration du roi, concernant les communautés de papetiers & de cartiers"
+language = "fr"
+place = "A Paris"
+date = "1779"
+note = "Caption title; imprint from colophon. Scanner's note: No copyright found.  No table of contents found.  Damaged, stained pages and cover.  Title on cover. <br />."
+url = "https://archive.org/details/declarationduro00fran_3"
+subject = [
+    "Paper industry",
+    "Papermaking",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 9 no. 46"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t20d0kc0f"
+internet_archive = "declarationduro00fran_3"
+
+[scan]
+file = "declarationduro00fran_3.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/declarationduro00fran_3"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "France"
+role = "author"
+
+[[resp]]
+name = "France. Parlement (Paris)"
+role = "author"
+
+[[resp]]
+name = "France. Sovereign (1774-1792 : Louis XVI)"
+role = "author"
+
+[[resp]]
+name = "Chez P.G. Simon, imprimeur du Parlement, rue Mignon Saint André-des-Arcs"
+role = "publisher"
+
+[[text]]
+file = "declarationduro00fran_3.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "declarationduro00fran_3.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "declarationduro00fran_3.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "declarationduro00fran_3.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

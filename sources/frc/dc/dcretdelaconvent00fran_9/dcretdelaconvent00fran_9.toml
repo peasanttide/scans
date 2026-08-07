@@ -1,0 +1,57 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "dcretdelaconvent00fran_9"
+type = "pamphlet"
+title = "Décret de la Convention nationale, du 22e. jour de germinal, an second [11 April 1794] de la République française, une & indivisible, relatif à la confection des catalogues des Bibliothèques nationales"
+language = "fr"
+place = "A Paris"
+date = "1794"
+note = "Caption title. Imprint at foot of p. 2. At upper right on p. [1]: No. 2316. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Title page and cover are combined."
+url = "https://archive.org/details/dcretdelaconvent00fran_9"
+subject = ["Bibliothèque nationale (France)"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 11 no. 44"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9f53bw99"
+internet_archive = "dcretdelaconvent00fran_9"
+
+[scan]
+file = "dcretdelaconvent00fran_9.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/dcretdelaconvent00fran_9"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Convention nationale"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale du Louvre"
+role = "publisher"
+
+[[text]]
+file = "dcretdelaconvent00fran_9.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dcretdelaconvent00fran_9.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "dcret00fran_48"
+type = "pamphlet"
+title = "Décret"
+language = "fr"
+place = "A Épinal"
+date = "1792"
+note = "Caption title. Imprint from colophon. At upper right on p.[1]: N.o 77. N.o 61. de la consignation. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."
+url = "https://archive.org/details/dcret00fran_48"
+subject = ["Military service, Voluntary"]
+extent = "3 p. ; 23 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9624"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4jm7cr5j"
+internet_archive = "dcret00fran_48"
+openlibrary_edition = "OL26222527M"
+openlibrary_work = "OL17617998W"
+
+[scan]
+file = "dcret00fran_48.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/dcret00fran_48"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Vosges (France)"
+role = "author"
+
+[[resp]]
+name = "Chez Haener"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_67998"
+
+[[text]]
+file = "dcret00fran_48.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dcret00fran_48.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dcret00fran_48.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dcret00fran_48.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

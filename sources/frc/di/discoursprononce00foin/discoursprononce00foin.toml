@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discoursprononce00foin"
+type = "pamphlet"
+title = "Discours prononcé a l'Assemblée nationale /"
+language = "fr"
+place = "A Paris"
+date = "1790"
+note = """Caption title. Imprint from colophon. "Procès-verb. No. 338"--Bottom of p. [1]. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  II, 13514. Scanner's note: Title page located on front cover. No copyright page found. No table-of-contents pages found. Worn, damaged and discolored pages and cover. Skewed text."""
+url = "https://archive.org/details/discoursprononce00foin"
+extent = "3 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 18650"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9v17231p"
+internet_archive = "discoursprononce00foin"
+openlibrary_edition = "OL26202042M"
+openlibrary_work = "OL17598562W"
+
+[scan]
+file = "discoursprononce00foin.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/discoursprononce00foin"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Foin, l'ainé"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "Baudouin, François-Jean, 1759-1838"
+role = "publisher"
+
+[[resp]]
+name = "Chez Baudouin, imprimeur de l'Assemblée nationale, rue du Foin St. Jacques, no. 31"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_839199"
+
+[[text]]
+file = "discoursprononce00foin.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00foin.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00foin.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00foin.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

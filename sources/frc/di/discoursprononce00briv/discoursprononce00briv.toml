@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discoursprononce00briv"
+type = "pamphlet"
+title = "Discours prononcé par le citoyen Brival, représentant du peuple, dans la Société populaire de Montargis, le troisième jour complémentaire de l'an second de la République, une et indivisible."
+language = "fr"
+place = "A Montargis"
+date = "1794"
+note = "Caption title. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  I, 5306. Scanner's note: No copyright page found. No table-of-contents pages found. Title on front cover. Damaged pages. Skewed text."
+url = "https://archive.org/details/discoursprononce00briv"
+extent = "4 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 15422"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2z36q91j"
+internet_archive = "discoursprononce00briv"
+openlibrary_edition = "OL25948120M"
+openlibrary_work = "OL17369174W"
+
+[scan]
+file = "discoursprononce00briv.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/discoursprononce00briv"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Brival, Jacques, 1751-1820"
+role = "author"
+
+[[resp]]
+name = "Société populaire de Montargis"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie de Cl. Lequatre, imprimeur de la Société"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_832189"
+
+[[text]]
+file = "discoursprononce00briv.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00briv.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00briv.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00briv.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

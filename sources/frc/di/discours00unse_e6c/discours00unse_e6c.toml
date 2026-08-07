@@ -1,0 +1,77 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discours00unse_e6c"
+type = "pamphlet"
+title = "Discours de Rivoallan, sur la résolution du 28 fructidor an 7, qui déclare applicable au département des Côtes-du-Nord la loi du 24 messidor an 7, sur la répression du brigandage : séance du quatrième jour complémentaire an 7."
+language = "fr"
+place = "Paris"
+date = "1799"
+note = "Caption title. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  IV:1, 29427. Scanner's note: Title page and cover are combined. Damaged, stained, marked and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/discours00unse_e6c"
+subject = [
+    "Brigands and robbers",
+    "Political violence",
+]
+extent = "3 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 24465"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1ck3p994"
+internet_archive = "discours00unse_e6c"
+
+[scan]
+file = "discours00unse_e6c.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/discours00unse_e6c"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Rivoallan, Jean-Marie, 1748-1812"
+role = "author"
+
+[[resp]]
+name = "Baudouin, François-Jean, 1759-1838"
+role = "publisher"
+
+[[resp]]
+name = "Baudouin, imprimeur du Corps législatif, place du Carrousel, no. 662"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_849528"
+
+[[text]]
+file = "discours00unse_e6c.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discours00unse_e6c.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discours00unse_e6c.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discours00unse_e6c.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

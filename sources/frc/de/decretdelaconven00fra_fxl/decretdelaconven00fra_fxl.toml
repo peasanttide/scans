@@ -1,0 +1,88 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "decretdelaconven00fra_fxl"
+type = "pamphlet"
+title = "Décret de la Convention nationale, du 8e. jour de pluviôse, an second de la République française, une & indivisible, qui ordonne un rapport sur la confection d'un grand livre des propriétés territoriales, & fait défense d'insérer dans les actes aucunes clauses ou expressions tendant à rappeler le régime féodal ou nobiliaire"
+language = "fr"
+place = "A Paris"
+date = "1794"
+note = "Caption title. At right of title: No. 2161. Signed: Deforgues; countersigned: Gohier. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages. No title page found. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/decretdelaconven00fra_fxl"
+subject = [
+    "Land titles",
+    "Recording and registration",
+    "Feudal law",
+]
+extent = "3 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10334 no. 10"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t36165b90"
+internet_archive = "decretdelaconven00fra_fxl"
+openlibrary_edition = "OL26225338M"
+openlibrary_work = "OL17620663W"
+
+[scan]
+file = "decretdelaconven00fra_fxl.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/decretdelaconven00fra_fxl"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Deforgues, François-Louis-Michel Chemin, 1759-1840"
+role = "author"
+
+[[resp]]
+name = "Gohier, Louis-Jérôme, 1746-1830"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale exécutive du Louvre"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_851889"
+
+[[text]]
+file = "decretdelaconven00fra_fxl.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelaconven00fra_fxl.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelaconven00fra_fxl.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelaconven00fra_fxl.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

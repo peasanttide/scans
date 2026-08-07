@@ -1,0 +1,93 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discoursprononce00marv"
+type = "pamphlet"
+title = "Discours prononcé par Marvaud, sur l'empressement des conscrits du département de la Charente à se réunir aux armées : séance du 13 frimaire an 7."
+language = "fr"
+place = "A Paris"
+date = "1798"
+note = """Caption title. At head of title: Corps législatif. Conseil des cinq-cents. Imprint from colophon. Martin & Walter. Révolution française. "L'agent municipal de la commune de Merignac, au citoyen Marvaud, représentant du peuple au Conseil des cinq-cents"--P. 4-6. Bibliography: Martin & Walter.  Révolution française,  III, 23316. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained, marked and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/discoursprononce00marv"
+subject = ["Draftees"]
+extent = "6 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 22132"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4jm7hv80"
+internet_archive = "discoursprononce00marv"
+lccn = "nuc87537992"
+openlibrary_edition = "OL26240542M"
+openlibrary_work = "OL17635065W"
+
+[scan]
+file = "discoursprononce00marv.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/discoursprononce00marv"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Marvaud-Baudet, Michel, 1744-1820"
+role = "author"
+
+[[resp]]
+name = "France. Corps législatif (1795-1814). Conseil des cinq-cents"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_845885"
+
+[[text]]
+file = "discoursprononce00marv.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00marv.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00marv.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00marv.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00marv.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00marv.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

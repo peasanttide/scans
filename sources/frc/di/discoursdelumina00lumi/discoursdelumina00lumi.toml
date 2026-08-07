@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discoursdelumina00lumi"
+type = "pamphlet"
+title = "Discours de Luminais sur le rapport fait par Grélier sur un monument à élever, & sur une fête perpétuelle à célébrer en mémoire du 18 fructidor : séance du 20 fructidor an V."
+language = "fr"
+place = "A Paris"
+date = "1797"
+note = "Caption title. At head of title: Corps législatif, Conseil des cinq-cents. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  III, 22274. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/discoursdelumina00lumi"
+subject = ["Festivals"]
+extent = "3 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 21759"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8sb9bg69"
+internet_archive = "discoursdelumina00lumi"
+openlibrary_edition = "OL26240073M"
+openlibrary_work = "OL17634596W"
+
+[scan]
+file = "discoursdelumina00lumi.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/discoursdelumina00lumi"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Luminais, Michel Pierre, 1752-1812"
+role = "author"
+
+[[resp]]
+name = "France. Corps législatif (1795-1814). Conseil des cinq-cents"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_845095"
+
+[[text]]
+file = "discoursdelumina00lumi.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursdelumina00lumi.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursdelumina00lumi.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursdelumina00lumi.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "delhabillement00fran"
+type = "pamphlet"
+title = "... De l'habillement"
+language = "fr"
+place = "s.l."
+date = "1790"
+note = "Caption title. Without imprint. At head of title (upper left): Administration militaire. Chapitre XVI. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages."
+url = "https://archive.org/details/delhabillement00fran"
+subject = ["France. Armée"]
+extent = "4 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9133"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4rj9k26g"
+internet_archive = "delhabillement00fran"
+openlibrary_edition = "OL26221846M"
+openlibrary_work = "OL17617346W"
+
+[scan]
+file = "delhabillement00fran.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/delhabillement00fran"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Administration militaire"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_66395"
+
+[[text]]
+file = "delhabillement00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "delhabillement00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "delhabillement00fran.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "delhabillement00fran.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

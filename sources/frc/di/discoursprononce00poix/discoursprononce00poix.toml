@@ -1,0 +1,73 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discoursprononce00poix"
+type = "pamphlet"
+title = "Discours prononcé par M. l'abbé de Poix, archidiacre de l'Eglise, comte de Lyon, au nom de tout le clergé, le 19 mars 1789, en remercîment de la députation envoyée le 16 mars, au clergé, par l'assemblée du Tiers-état."
+language = "fr"
+place = "France"
+date = "1789"
+note = "Caption title. Variant of Martin & Walter. Révolution française, IV:1, 27692. Scanner's note: No Copyright found. No Table of Contents found. Title on cover. Damaged, stained pages and cover. <br />."
+url = "https://archive.org/details/discoursprononce00poix"
+subject = [
+    "Estates (Social orders)",
+    "Clergy",
+]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 23836"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2r54x50t"
+internet_archive = "discoursprononce00poix"
+
+[scan]
+file = "discoursprononce00poix.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/discoursprononce00poix"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "Poix, abbé de"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_848725"
+
+[[text]]
+file = "discoursprononce00poix.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00poix.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00poix.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00poix.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

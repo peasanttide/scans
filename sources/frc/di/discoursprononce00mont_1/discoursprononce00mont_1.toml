@@ -1,0 +1,84 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discoursprononce00mont_1"
+type = "pamphlet"
+title = "Discours prononcé par Montpellier (de l'Aude), en dénonçant un libelle provocateur au meurtre et à la royauté : séance du 16 messidor an 7."
+language = "fr"
+place = "A Paris"
+date = "1799"
+note = "Caption title. At head of title: Corps législatif. Conseil des cinq-cents. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  III, 25074. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover."
+url = "https://archive.org/details/discoursprononce00mont_1"
+subject = [
+    "L. C. P",
+    "Royalists",
+    "Counterrevolutionaries",
+]
+extent = "4 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 22835"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6q00f88s"
+internet_archive = "discoursprononce00mont_1"
+openlibrary_edition = "OL26236564M"
+openlibrary_work = "OL17631115W"
+
+[scan]
+file = "discoursprononce00mont_1.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/discoursprononce00mont_1"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Montpellier, Ambroise, b. 1764"
+role = "author"
+
+[[resp]]
+name = "France. Corps législatif (1795-1814). Conseil des cinq-cents"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_846875"
+
+[[text]]
+file = "discoursprononce00mont_1.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00mont_1.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00mont_1.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00mont_1.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

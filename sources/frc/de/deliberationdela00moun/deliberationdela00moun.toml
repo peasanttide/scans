@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "deliberationdela00moun"
+type = "pamphlet"
+title = "Délibération de la ville de Grenoble, du samedi 14 juin 1788."
+language = "fr"
+place = "France"
+date = "1788"
+note = "Caption title. By Jean Joseph Mounier. Cf. Maignien. Martin & Walter. Révolution française. BN. Maignien, E. Ouvrages anonymes et pseudonymes du Dauphiné. Summary of the meeting held by the Conseil général of Grenoble. Bibliography: Martin & Walter.  Révolution française,  III, 25380. Scanner's note: No copyright page found. No table-of-contents pages found. Title page and cover are combined. Damaged, stained and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/deliberationdela00moun"
+subject = ["France. États généraux"]
+extent = "4 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 22960"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2c87hs2n"
+internet_archive = "deliberationdela00moun"
+openlibrary_edition = "OL26236635M"
+openlibrary_work = "OL17631187W"
+
+[scan]
+file = "deliberationdela00moun.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/deliberationdela00moun"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Mounier, Jean Joseph, 1758-1806"
+role = "author"
+
+[[resp]]
+name = "Grenoble (France). Conseil général"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_848255"
+
+[[text]]
+file = "deliberationdela00moun.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "deliberationdela00moun.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "deliberationdela00moun.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "deliberationdela00moun.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

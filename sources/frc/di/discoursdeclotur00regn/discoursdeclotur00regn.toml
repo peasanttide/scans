@@ -1,0 +1,81 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discoursdeclotur00regn"
+type = "pamphlet"
+title = "Discours de cloture prononcé par Régnier, président de la Commission des anciens : séance du 5 nivose an 8."
+language = "fr"
+place = "Paris"
+date = "1799"
+note = "Caption title. At head of title: Corps législatif. Commission du Conseil des anciens. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  IV:1, 28976. Scanner's note: Title page and cover are combined. Damaged, stained, marked and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/discoursdeclotur00regn"
+subject = [
+    "France. Corps législatif (1795-1814). Conseil des anciens. Commission des anciens",
+    "France",
+]
+extent = "3 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 24346"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2g78p196"
+internet_archive = "discoursdeclotur00regn"
+
+[scan]
+file = "discoursdeclotur00regn.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/discoursdeclotur00regn"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Régnier, Claude-Ambroise, duc de Massa, 1746-1814"
+role = "author"
+
+[[resp]]
+name = "France. Corps législatif (1795-1814). Conseil des anciens. Commission des anciens"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_849179"
+
+[[text]]
+file = "discoursdeclotur00regn.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursdeclotur00regn.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursdeclotur00regn.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursdeclotur00regn.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,71 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "dclarationetprot00comt"
+type = "pamphlet"
+title = "Déclaration et protestation"
+language = "fr"
+place = "s.l."
+date = "1789"
+note = "Caption title. Without imprint. Dated in contemporary ms.: 25 9bre [novembre] 1789. Martin & Walter IV 2: 3707. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages."
+url = "https://archive.org/details/dclarationetprot00comt"
+extent = "3 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9581"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4sj6m07n"
+internet_archive = "dclarationetprot00comt"
+openlibrary_edition = "OL26222561M"
+openlibrary_work = "OL17618032W"
+
+[scan]
+file = "dclarationetprot00comt.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/dclarationetprot00comt"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Comtat Venaissin (France)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_67831"
+
+[[text]]
+file = "dclarationetprot00comt.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dclarationetprot00comt.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dclarationetprot00comt.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dclarationetprot00comt.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

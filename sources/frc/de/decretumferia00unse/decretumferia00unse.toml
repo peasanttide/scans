@@ -1,0 +1,44 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "decretumferia00unse"
+type = "pamphlet"
+title = "Decretum Feriâ quartâ, die 14â. Januarrii VIII"
+language = "la"
+date = "1711"
+note = "Title from opening lines of text. Manuscript on paper. Dated 14 January 1711. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Text extends off of the edge of the page. Title page and cover are combined."
+url = "https://archive.org/details/decretumferia00unse"
+subject = ["Inquisition"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 3 no. 35"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t45r0jc0k"
+internet_archive = "decretumferia00unse"
+
+[scan]
+file = "decretumferia00unse.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/decretumferia00unse"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[text]]
+file = "decretumferia00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "la"
+
+[[text]]
+file = "decretumferia00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "la"

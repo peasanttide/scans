@@ -1,0 +1,86 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "decretconven00unse_3ce"
+type = "pamphlet"
+title = "Décret de la Convention nationale, du 24 juillet 1793, l'an second de la République françoise, portant que le nombre des commissaires des guerres sera augmenté de cinquante adjoints"
+language = "fr"
+place = "A Paris"
+date = "1793"
+note = """
+Caption title. At right of title: No. 1264. Signed: Garat; countersigned: Gohier. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover. 
+Only one numbered page."""
+url = "https://archive.org/details/decretconven00unse_3ce"
+subject = ["France. Ministère de la guerre"]
+extent = "2 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10331 no. 65"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t06x4gm9p"
+internet_archive = "decretconven00unse_3ce"
+openlibrary_edition = "OL26225269M"
+openlibrary_work = "OL17620594W"
+
+[scan]
+file = "decretconven00unse_3ce.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/decretconven00unse_3ce"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Garat, Dominique-Joseph, comte, 1749-1833"
+role = "author"
+
+[[resp]]
+name = "Gohier, Louis-Jérôme, 1746-1830"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale exécutive du Louvre"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_851568"
+
+[[text]]
+file = "decretconven00unse_3ce.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretconven00unse_3ce.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretconven00unse_3ce.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretconven00unse_3ce.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

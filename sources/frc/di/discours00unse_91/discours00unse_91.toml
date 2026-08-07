@@ -1,0 +1,91 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discours00unse_91"
+type = "pamphlet"
+title = "Discours de M. de Narbonne, ministre de la guerre : prononcé le 14 décembre 1791 : imprimé par ordre de l'Assemblée nationale."
+language = "fr"
+place = "Paris"
+date = "1791"
+note = """Caption title. Imprint from colophon. "Militiare. No. 7"--Bottom of p. [1]. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  III, 25652. Scanner's note: No copyright page found. No table-of-contents pages found. Title page is on the cover. Damaged, stained, and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/discours00unse_91"
+extent = "6 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 23092"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4cp2bp1j"
+internet_archive = "discours00unse_91"
+openlibrary_edition = "OL26237049M"
+openlibrary_work = "OL17631603W"
+
+[scan]
+file = "discours00unse_91.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/discours00unse_91"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Narbonne, Louis de, 1755-1813"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale législative (1791-1792)"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_847525"
+
+[[text]]
+file = "discours00unse_91.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discours00unse_91.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discours00unse_91.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discours00unse_91.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discours00unse_91.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discours00unse_91.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

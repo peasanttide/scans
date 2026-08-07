@@ -1,0 +1,109 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discoursprononce00garn"
+type = "pamphlet"
+title = "Discours prononcé par Garnier (de Xantes) : à la société des Jacobins de Paris, le Ier. vendemiaire, l'an 3me. de la République une et indivisible."
+language = "fr"
+place = "Paris"
+date = "1794"
+note = """Caption title. "La société, dans sa séance du premier vendémiaire, l'an troisième de la république française, une et indivisible, a arrêté l'impression du présent discours..."--P. 8. Imprint from colophon. Place of publication from Martin & Walter. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  II, 14270. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."""
+url = "https://archive.org/details/discoursprononce00garn"
+subject = [
+    "Political clubs",
+    "Counterrevolutionaries",
+    "Jacobins",
+    "Girondists",
+]
+extent = "8 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 18896"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3422034k"
+internet_archive = "discoursprononce00garn"
+openlibrary_edition = "OL26201283M"
+openlibrary_work = "OL17597815W"
+
+[scan]
+file = "discoursprononce00garn.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/discoursprononce00garn"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Garnier, Jacques, 1754 or 5-1820"
+role = "author"
+
+[[resp]]
+name = "Club des Jacobins"
+role = "author"
+
+[[resp]]
+name = "Galletti, G.-F"
+role = "publisher"
+
+[[resp]]
+name = "De l'imprimerie de G.-F. Galletti, aux Jacobins Honoré"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_838904"
+
+[[text]]
+file = "discoursprononce00garn.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00garn.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00garn.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00garn.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00garn.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00garn.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00garn.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00garn.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

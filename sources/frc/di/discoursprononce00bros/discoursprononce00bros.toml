@@ -1,0 +1,68 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discoursprononce00bros"
+type = "pamphlet"
+title = "Discours prononcé par M. Brosselard, président du district des Minimes, en l'eglise des R.R.P.P. minimes, de la place Royale, le lundi 8 février, avant la prestation de serment civique"
+language = "fr"
+place = "Paris"
+date = "1791"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover. Only one page number."
+url = "https://archive.org/details/discoursprononce00bros"
+subject = ["France"]
+extent = "2 p. ; 24 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 26554"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2j72kx2k"
+internet_archive = "discoursprononce00bros"
+openlibrary_edition = "OL26228526M"
+openlibrary_work = "OL17623595W"
+
+[scan]
+file = "discoursprononce00bros.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/discoursprononce00bros"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Brosselard, Emmanuel,1763-1840"
+role = "author"
+
+[[resp]]
+name = "Brosselard, Emmanuel, 1763-1840"
+role = "author"
+
+[[resp]]
+name = "Hérault, J.-B."
+role = "publisher"
+
+[[resp]]
+name = "De l'imprimerie de Hérault, rue de Harlay, no. 15, au Marais"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_862669"
+
+[[text]]
+file = "discoursprononce00bros.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00bros.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

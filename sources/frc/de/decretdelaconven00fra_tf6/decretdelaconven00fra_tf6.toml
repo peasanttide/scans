@@ -1,0 +1,93 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "decretdelaconven00fra_tf6"
+type = "pamphlet"
+title = "Décret de la Convention nationale, du 7e. jour de ventôse, an second de la République française, une & indivisible, relatif aux états de navigation, de commerce & de comptabilité ordonnés par décrets des 7 brumaire & 26 frimaire"
+language = "fr"
+place = "A Paris"
+date = "1794"
+note = """
+Caption title. At right of title: No. 2332. Signed: Ruhl, président; F. Oudot & Charles Cochon, secrétaires. Imprint from colophon. Not in Martin & Walter. Révolution française. Inscribed: Marine. Commerce. Comptabilité. Contributions indir. douanes. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover. 
+Only one numbered page."""
+url = "https://archive.org/details/decretdelaconven00fra_tf6"
+subject = [
+    "Customs administration",
+    "Customs inspection",
+]
+extent = "2 p. ; 28 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10334 no. 24"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9n35043b"
+internet_archive = "decretdelaconven00fra_tf6"
+openlibrary_edition = "OL26225460M"
+openlibrary_work = "OL17620781W"
+
+[scan]
+file = "decretdelaconven00fra_tf6.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/decretdelaconven00fra_tf6"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Rühl, Philippe-Jacques, 1737-1795"
+role = "author"
+
+[[resp]]
+name = "Oudot, Charles-François, 1755-1841"
+role = "author"
+
+[[resp]]
+name = "Cochon de Lapparent, Charles, 1750-1825"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale exécutive du Louvre"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_851903"
+
+[[text]]
+file = "decretdelaconven00fra_tf6.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelaconven00fra_tf6.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelaconven00fra_tf6.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelaconven00fra_tf6.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

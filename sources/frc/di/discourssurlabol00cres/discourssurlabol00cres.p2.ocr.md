@@ -1,0 +1,16 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: discourssurlabol00cres
+page: 2
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 2509
+h: 4094
+dpi: 500
+---
+
+On trouve che^les mêmes Libraires ,
+& du même Auteur, l'Ouvrage fuivant :
+
+EJJais fut les Mœurs , ou point de
+Cotiftitution durable fans mœurs.

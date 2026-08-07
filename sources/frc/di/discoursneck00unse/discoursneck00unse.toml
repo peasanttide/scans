@@ -1,0 +1,87 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discoursneck00unse"
+type = "pamphlet"
+title = "Discours de M. Necker à l'Assemblée nationale"
+language = "fr"
+place = "A Versailles"
+date = "1789"
+note = """Caption title. Imprint from colophon. Martin & Walter. Révolution française. "Réponse de M. le duc de Liancourt président de l'Assemblée nationale"--P. [1]-4. Bibliography: Martin & Walter.  Révolution française, III, 25719. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/discoursneck00unse"
+extent = "4 p. ; 28 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 27041"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t45r02f6k"
+internet_archive = "discoursneck00unse"
+openlibrary_edition = "OL26226753M"
+openlibrary_work = "OL17621984W"
+
+[scan]
+file = "discoursneck00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/discoursneck00unse"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Necker, Jacques,1732-1804"
+role = "author"
+
+[[resp]]
+name = "Necker, Jacques, 1732-1804"
+role = "author"
+
+[[resp]]
+name = "La Rochefoucauld-Liancourt, François-Alexandre-Frédéric, duc de, 1747-1827"
+role = "author"
+
+[[resp]]
+name = "Baudouin, François-Jean, 1759-1838"
+role = "publisher"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "Chez Baudouin, imprimeur de l'Assemblée nationale, avenue de Sainte Cloud, no. 69"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_867520"
+
+[[text]]
+file = "discoursneck00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursneck00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursneck00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursneck00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discoursprononce00dema"
+type = "pamphlet"
+title = "Discours prononcé par M. le lieutenant-général-civil en la sénéchaussée de Marseille, commissaire du parlement : lors de l'installation de M. le marquis de Forbin Gardanne, dans la charge de grand sénéchal d'épée de ladite sénéchaussée, le 26 mars 1789."
+language = "fr"
+place = "France"
+date = "1789"
+note = "Caption title. By Jean François Demandolx? Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.   Title is on the cover page. Skewed text. Damaged, marked, stained and/or loose pages."
+url = "https://archive.org/details/discoursprononce00dema"
+subject = ["Forbin Gardanne, marquis de"]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 17266"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t38103z07"
+internet_archive = "discoursprononce00dema"
+openlibrary_edition = "OL26203710M"
+openlibrary_work = "OL17600148W"
+
+[scan]
+file = "discoursprononce00dema.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/discoursprononce00dema"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Demandolx, Jean François"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_835553"
+
+[[text]]
+file = "discoursprononce00dema.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00dema.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00dema.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00dema.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,85 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discours00unse_gpd"
+type = "pamphlet"
+title = "Discours de M. Roman-Tributiis, assesseur d'Aix, procureur du pays, lors de la présentation par les communes de Provence, à M. de La Tour, intendant & premier président, de la médaille décernée à ce magistrat, par leur assemblée du mois de mai 1788."
+language = "fr"
+place = "A Aix"
+date = "1789"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Saricks, A. Melvin Coll. Bibliography: Saricks, A. Melvin Coll.,  II, 4654. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained, marked and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/discours00unse_gpd"
+subject = [
+    "Latour, Charles-Jean-Baptiste des Galois de, 1715-1802",
+    "Decorations of honor",
+]
+extent = "3 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 24680"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3sv2v97w"
+internet_archive = "discours00unse_gpd"
+
+[scan]
+file = "discours00unse_gpd.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/discours00unse_gpd"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Roman de Tributiis, Jean Martin Alexandre Laurent André, 1739-1820"
+role = "author"
+
+[[resp]]
+name = "Latour, Charles-Jean-Baptiste des Galois de, 1715-1802"
+role = "author"
+
+[[resp]]
+name = "Gibelin-David, Barthélemy, b. 1747"
+role = "publisher"
+
+[[resp]]
+name = "Emeric-David, T.-B. (Toussaint-Bernard), 1755-1839"
+role = "publisher"
+
+[[resp]]
+name = "Des imprimeries des Gibelin-David & Emeric-David, avocats, imprimeurs du roi & des communes"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_849757"
+
+[[text]]
+file = "discours00unse_gpd.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discours00unse_gpd.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discours00unse_gpd.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discours00unse_gpd.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

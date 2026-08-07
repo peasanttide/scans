@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discoursprononce00coll"
+type = "pamphlet"
+title = "Discours prononcé le 18 décembre 1791, par M. Collot-d'Herbois, en présentant à l'Assemblée nationale l'Amanach [sic] du père Gérard, dont il est l'auteur : imprimé par ordre de l'Assemblée nationale."
+language = "fr"
+place = "A Paris"
+date = "1791"
+note = """Caption title. Imprint from colophon. "Matières diverses, no. 11"--Bottom of p. [1]. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  I, 7940. Scanner's note: No copyright page found. No table-of-contents pages found."""
+url = "https://archive.org/details/discoursprononce00coll"
+subject = ["Collot d'Herbois, Jean-Marie, 1750-1796"]
+extent = "3 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 16433"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3130vv5x"
+internet_archive = "discoursprononce00coll"
+openlibrary_edition = "OL26197841M"
+openlibrary_work = "OL17594553W"
+
+[scan]
+file = "discoursprononce00coll.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/discoursprononce00coll"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Collot d'Herbois, Jean-Marie, 1750-1796"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale législative (1791-1792)"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_834148"
+
+[[text]]
+file = "discoursprononce00coll.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00coll.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00coll.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00coll.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

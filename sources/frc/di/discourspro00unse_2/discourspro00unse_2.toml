@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discourspro00unse_2"
+type = "pamphlet"
+title = "Discours prononcé à l'assemblée electorale du département des Basses-Alpes, par M. Villeneuve, evêque élû du département, à la séance du matin 22 mars 1791"
+language = "fr"
+place = "À Digne"
+date = "1791"
+note = """Caption title. At head of title: Departement des Basses Alpes 1790. La nation la loi et le roi. Imprint from colophon. Not in Martin & Walter. Révolution française. "Réponse faite par M. Lions, président, à M. Villeneuve"--P. 2. Scanner's note: Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text. No title page found. No copyright page found. No table-of-contents pages found."""
+url = "https://archive.org/details/discourspro00unse_2"
+subject = [
+    "Villeneuve, Jean-Baptiste de",
+    "France",
+    "Bishops",
+]
+extent = "2 p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 27265"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0jt4t662"
+internet_archive = "discourspro00unse_2"
+openlibrary_edition = "OL26229076M"
+openlibrary_work = "OL17624110W"
+
+[scan]
+file = "discourspro00unse_2.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/discourspro00unse_2"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Villeneuve, Jean-Baptiste de"
+role = "author"
+
+[[resp]]
+name = "Basses-Alpes (France). Assemblée electorale"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de J. Guichard, imprimeur du département des Basses-Alpes"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_868188"
+
+[[text]]
+file = "discourspro00unse_2.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discourspro00unse_2.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discourspro00unse_2.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discourspro00unse_2.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

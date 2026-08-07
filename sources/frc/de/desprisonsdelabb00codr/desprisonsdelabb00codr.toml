@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "desprisonsdelabb00codr"
+type = "pamphlet"
+title = "Des prisons de l'abbaye, le 7 mai 1793, l'an 2me de la République /"
+language = "fr"
+place = "Paris"
+date = "1793"
+note = "Caption title. Imprint from colophon. Place of publication from Martin & Walter. Martin & Walter. Révolution française. A letter complaining of the injustices of his imprisonment. Bibliography: Martin & Walter.  Révolution française,  I, 7845. Scanner's note: No title page found. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/desprisonsdelabb00codr"
+subject = ["Codron, A. J"]
+extent = "4 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 16412"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0sr3vt36"
+internet_archive = "desprisonsdelabb00codr"
+openlibrary_edition = "OL26197876M"
+openlibrary_work = "OL17594588W"
+
+[scan]
+file = "desprisonsdelabb00codr.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/desprisonsdelabb00codr"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Codron, A. J"
+role = "author"
+
+[[resp]]
+name = "De l'Imprim. de Séguy-Thiboust, place Cambrai"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_834195"
+
+[[text]]
+file = "desprisonsdelabb00codr.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "desprisonsdelabb00codr.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "desprisonsdelabb00codr.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "desprisonsdelabb00codr.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

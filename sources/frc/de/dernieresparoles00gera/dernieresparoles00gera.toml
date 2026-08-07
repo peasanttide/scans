@@ -1,0 +1,88 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "dernieresparoles00gera"
+type = "pamphlet"
+title = "Dernieres paroles de M. Gérard, dans sa prison, a ses concitoyens"
+language = "fr"
+place = "France"
+date = "1792"
+note = """Caption title. Martin & Walter. Révolution française. "Copie de la lettre écrite par la Société des amis de la liberté et de l'égalité au président de la Convention nationale, le 11 octobre 1792, l'an premier de la République française"--P. [3]. Bibliography: Martin & Walter.  Révolution française, II, 14712. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/dernieresparoles00gera"
+subject = [
+    "Gérard, M. (Jean-Louis), -1792",
+    "Arms transfers",
+    "Dying declarations",
+]
+extent = "[3] p. ; 28 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 26763"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3dz5cq96"
+internet_archive = "dernieresparoles00gera"
+openlibrary_edition = "OL26226377M"
+openlibrary_work = "OL17621644W"
+
+[scan]
+file = "dernieresparoles00gera.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/dernieresparoles00gera"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Gérard, M.$q(Jean-Louis),-1792"
+role = "author"
+
+[[resp]]
+name = "Gérard, M. (Jean-Louis), -1792"
+role = "author"
+
+[[resp]]
+name = "Société des amis de la liberté et de l'égalité (Paris, France)"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_868333"
+
+[[text]]
+file = "dernieresparoles00gera.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dernieresparoles00gera.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dernieresparoles00gera.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dernieresparoles00gera.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

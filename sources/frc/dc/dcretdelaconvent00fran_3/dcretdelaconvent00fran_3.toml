@@ -1,0 +1,74 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "dcretdelaconvent00fran_3"
+type = "pamphlet"
+title = "Décret de la Convention nationale, du 19 juillet 1793, l'an second de la République française, relatif aux droits de proprieté des auteurs d'écrits en tout genre, des compositeurs de musique, des peintres et des dessinateurs"
+language = "fr"
+place = "n.p."
+date = "1793"
+note = "Caption title. Imprint at foot of p. 3. At upper left & right of p. [1]: No. 929. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Title page and cover are combined."
+url = "https://archive.org/details/dcretdelaconvent00fran_3"
+subject = [
+    "Authors, French",
+    "Composers, French",
+    "Artists, French",
+    "Copyright",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 11 no. 30"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t03z3z33w"
+internet_archive = "dcretdelaconvent00fran_3"
+
+[scan]
+file = "dcretdelaconvent00fran_3.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/dcretdelaconvent00fran_3"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Convention nationale"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de la veuve Simard"
+role = "publisher"
+
+[[text]]
+file = "dcretdelaconvent00fran_3.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dcretdelaconvent00fran_3.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dcretdelaconvent00fran_3.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dcretdelaconvent00fran_3.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,103 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "dictionnairerais00bauc"
+type = "pamphlet"
+title = "Dictionnaire raisonné et universel des animaux, ou, Le regne animal"
+language = "fr"
+place = "A Paris"
+date = "1767"
+note = """Prospectus for François-Alexandre Aubert de la Chesnaye-Debois' "Dictionnaire raisonné et universel des animaux", published several years prior and offered at a reduced price. Caption title. "Quatre volumes in-quarto, 24 livres en feuilles."--P. [1]. "Extrait de quelqu'autres livres imprimés chez le même libraire & en compagnie": p. [4]. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Title page and cover are combined."""
+url = "https://archive.org/details/dictionnairerais00bauc"
+subject = [
+    "Aubert de La Chesnaye-Desbois, François-Alexandre, 1699-1784",
+    "Bauche, Jean-Baptiste-Claude, 1712?-1777",
+    "Booksellers and bookselling",
+    "Science publishing",
+    "Encyclopedias and dictionaries",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1a no. 11"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6839gv7r"
+internet_archive = "dictionnairerais00bauc"
+
+[scan]
+file = "dictionnairerais00bauc.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/dictionnairerais00bauc"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Bauche, Jean-Baptiste-Claude,1712?-1777"
+role = "author"
+
+[[resp]]
+name = "Bauche, Jean-Baptiste-Claude, 1712?-1777"
+role = "author"
+
+[[resp]]
+name = "Aubert de La Chesnaye-Desbois, François-Alexandre, 1699-1784. Dictionnaire raisonné et universel des animaux"
+role = "author"
+
+[[resp]]
+name = "Chez Bauche, libraire, quai des Augustins, près la grande porte du Couvent"
+role = "publisher"
+
+[[text]]
+file = "dictionnairerais00bauc.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dictionnairerais00bauc.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dictionnairerais00bauc.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dictionnairerais00bauc.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dictionnairerais00bauc.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dictionnairerais00bauc.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dictionnairerais00bauc.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dictionnairerais00bauc.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

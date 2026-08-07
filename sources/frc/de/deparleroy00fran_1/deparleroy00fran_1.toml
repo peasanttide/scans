@@ -1,0 +1,65 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "deparleroy00fran_1"
+type = "pamphlet"
+title = "De par le roy :"
+language = "fr"
+place = "Lyon?"
+date = "1707"
+note = """Caption title. Signed: Trudaine. "Fait à Lyon ce 15. may 1707.". Royal arms of France at head of title. Newberry Library's copy is tightly trimmed at bottom, with some possible loss of text (including imprint?). No. 47 of 54 titles bound together."""
+url = "https://archive.org/details/deparleroy00fran_1"
+subject = ["Letters of credit"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio KJV5795 .A35 1728 no. 47"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8pc92312"
+internet_archive = "deparleroy00fran_1"
+
+[scan]
+file = "deparleroy00fran_1.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/deparleroy00fran_1"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Conseil d'État,"
+role = "author"
+
+[[resp]]
+name = "France. Conseil d'État, enacting jurisdiction"
+role = "author"
+
+[[resp]]
+name = "Trudaine"
+role = "author"
+
+[[resp]]
+name = "France. Sovereign (1643-1715 : Louis XIV)"
+role = "author"
+
+[[resp]]
+name = "[publisher not identified]"
+role = "publisher"
+
+[[text]]
+file = "deparleroy00fran_1.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "deparleroy00fran_1.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

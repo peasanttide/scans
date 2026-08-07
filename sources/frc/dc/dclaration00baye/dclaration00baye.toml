@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "dclaration00baye"
+type = "pamphlet"
+title = "Déclaration"
+language = "fr"
+place = "s.l."
+date = "1791"
+note = "Caption title. Without imprint. Dated at end: Arr^eté `a Bayeux, le 24 janvier 1791. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found. Title page is on the cover. Damaged, stained, and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/dclaration00baye"
+subject = [
+    "Catholic Church",
+    "Constitution civile du clergé",
+    "Clergy",
+]
+extent = "4 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC suppl. 21"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7qp1c75m"
+internet_archive = "dclaration00baye"
+openlibrary_edition = "OL26237607M"
+openlibrary_work = "OL17632156W"
+
+[scan]
+file = "dclaration00baye.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/dclaration00baye"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Bayeux (France). Clergé"
+role = "author"
+
+[[resp]]
+name = "Bayeux (France). Clergé"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_73401"
+
+[[text]]
+file = "dclaration00baye.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dclaration00baye.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dclaration00baye.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dclaration00baye.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

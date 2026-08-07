@@ -1,0 +1,84 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "decretconven00unse_65"
+type = "pamphlet"
+title = "Décret de la Convention nationale, du 16 juin 1793, l'an second de la République françoise, relatif aux demandes en indemnités formées par plusieurs hôpitaux & communes"
+language = "fr"
+place = "A Paris"
+date = "1793"
+note = """Caption title. At right of title: No. 1054. Signed: Gohier, président du Conseil exécutif provisoire. Imprint from colophon. The date "16 juin 1793" in title corrected in ms. to "20 juin 1793.". Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."""
+url = "https://archive.org/details/decretconven00unse_65"
+subject = [
+    "France. Ministère de l'intérieur",
+    "Indemnity",
+    "Hospitals",
+]
+extent = "4 p. ; 24 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10331 no. 23"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9479hq7b"
+internet_archive = "decretconven00unse_65"
+openlibrary_edition = "OL26225308M"
+openlibrary_work = "OL17620633W"
+
+[scan]
+file = "decretconven00unse_65.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/decretconven00unse_65"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Gohier, Louis-Jérôme, 1746-1830"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale exécutive du Louvre"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_851525"
+
+[[text]]
+file = "decretconven00unse_65.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretconven00unse_65.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretconven00unse_65.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretconven00unse_65.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

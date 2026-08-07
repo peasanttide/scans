@@ -1,0 +1,87 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discoursdespatro00patr"
+type = "pamphlet"
+title = "Discours des patrons pêcheurs de Marseille, prononcé à l'Assemblée nationale, & celui de M. Mirabeau, qui leur a servi d'interprete : du 30 octobre 1790."
+language = "fr"
+place = "A Marseille"
+date = "1790"
+note = """Caption title. Imprint from colophon. "Ces matelots ont soumis à l'Assemblée nationale une délibération ... par laquelle ils ont déterminé ... une contribution annuelle de 6000 livres, pour être distribué à cinquante bons ouvriers nécessiteux"--P. 2. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title and cover page are combined. Damaged, stained and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/discoursdespatro00patr"
+subject = [
+    "Charities",
+    "Fishers",
+]
+extent = "4 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 3444"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t07x1fq7t"
+internet_archive = "discoursdespatro00patr"
+openlibrary_edition = "OL26213832M"
+openlibrary_work = "OL17609794W"
+
+[scan]
+file = "discoursdespatro00patr.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/discoursdespatro00patr"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Patrons pêcheurs de Marseille"
+role = "author"
+
+[[resp]]
+name = "Mirabeau, Honoré-Gabriel de Riquetti, comte de, 1749-1791"
+role = "author"
+
+[[resp]]
+name = "Favet, Pierre-Antoine"
+role = "publisher"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "Sur l'imprimé de Paris, chez P.A. Favet"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_50320"
+
+[[text]]
+file = "discoursdespatro00patr.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursdespatro00patr.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursdespatro00patr.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursdespatro00patr.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

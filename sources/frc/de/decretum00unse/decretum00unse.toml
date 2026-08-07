@@ -1,0 +1,59 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "decretum00unse"
+type = "pamphlet"
+title = "Decretum. Feriâ sâ. 7 Decemb. 1690"
+language = "la"
+date = "1690"
+note = "Title from caption and opening lines of text. Manuscript on paper. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Title page and cover are combined."
+url = "https://archive.org/details/decretum00unse"
+subject = [
+    "Catholic Church. Pope (1689-1691 : Alexander VIII)",
+    "Inquisition",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 2 no. 68"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3131h04g"
+internet_archive = "decretum00unse"
+
+[scan]
+file = "decretum00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/decretum00unse"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[text]]
+file = "decretum00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "la"
+
+[[text]]
+file = "decretum00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "la"
+
+[[text]]
+file = "decretum00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "la"
+
+[[text]]
+file = "decretum00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "la"

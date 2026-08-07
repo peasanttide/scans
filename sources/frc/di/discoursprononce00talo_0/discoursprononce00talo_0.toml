@@ -1,0 +1,82 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discoursprononce00talo_0"
+type = "pamphlet"
+title = "Discours prononcé par M. le lieutenant-civil, à la séance du 26 mai 1790 : imprimé par ordre de l'Assemblée nationale."
+language = "fr"
+place = "A Paris"
+date = "1790"
+note = "Caption title. Author from Martin & Walter. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  IV:1, 32152. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover."
+url = "https://archive.org/details/discoursprononce00talo_0"
+subject = [
+    "Paris (France). Châtelet",
+    "France. Assemblée nationale constituante (1789-1791)",
+    "Judges",
+    "Prison administration",
+    "Criminal justice, Administration of",
+]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 13499"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8ff8h46f"
+internet_archive = "discoursprononce00talo_0"
+openlibrary_edition = "OL25926176M"
+openlibrary_work = "OL17348803W"
+
+[scan]
+file = "discoursprononce00talo_0.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/discoursprononce00talo_0"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Talon, Antoine Omer, 1760-1811"
+role = "author"
+
+[[resp]]
+name = "Baudouin, François-Jean, 1759-1838"
+role = "publisher"
+
+[[resp]]
+name = "Chez Baudouin, imprimeur de l'Assemblée nationale, rue du Foin-Saint-Jacques, no. 31"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_828746"
+
+[[text]]
+file = "discoursprononce00talo_0.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00talo_0.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00talo_0.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00talo_0.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

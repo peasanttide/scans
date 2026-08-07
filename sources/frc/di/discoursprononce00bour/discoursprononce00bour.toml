@@ -1,0 +1,83 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discoursprononce00bour"
+type = "pamphlet"
+title = "Discours prononcé sur la place du Perrai, au Hâvre, le 20 floréal an 7, par le citoyen Bourdois, chef de la 59e demi-brigade d'infanterie de ligne, aux officiers, sous-officiers et soldats de ladite demi-brigade, en leur remettant les drapeaux du gouvernement."
+language = "fr"
+place = "A Paris"
+date = "1799"
+note = "Caption title. At head of title: Corps législatif. Conseil des cinq-cents. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  I, 4697. Scanner's note: No copyright page found. No table-of-contents pages found. Title page located on front cover. Damaged, worn pages. Skewed text."
+url = "https://archive.org/details/discoursprononce00bour"
+subject = [
+    "France. Armée. Infanterie",
+    "Flags",
+]
+extent = "3 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 15160"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0zp8wx46"
+internet_archive = "discoursprononce00bour"
+openlibrary_edition = "OL25944862M"
+openlibrary_work = "OL17366115W"
+
+[scan]
+file = "discoursprononce00bour.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/discoursprononce00bour"
+ppi = 500
+note = "Scanned on scribe7.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Bourdois"
+role = "author"
+
+[[resp]]
+name = "France. Corps législatif (1795-1814). Conseil des cinq-cents"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_831513"
+
+[[text]]
+file = "discoursprononce00bour.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00bour.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00bour.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00bour.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

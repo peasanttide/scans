@@ -1,0 +1,102 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discours00unse_wgs"
+type = "pamphlet"
+title = "Discours tel qu'il a été prononcé, & sans aucune omission, le 15 avril 1791, dans la Société des amis de la constitution, séante à Lyon dans la salle du concert /"
+language = "fr"
+place = "France"
+date = "1791"
+note = "Caption title. Not in Martin & Walter. Révolution française. Scanner's note: Title page and cover are combined. Damaged, stained, marked and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/discours00unse_wgs"
+subject = [
+    "Mirabeau, Honoré-Gabriel de Riquetti, comte de, 1749-1791",
+    "Lamourette, Antoine Adrien, 1742-1794",
+    "Clergy",
+]
+extent = "8 p. ; 18 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 24388"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3jx3nm2x"
+internet_archive = "discours00unse_wgs"
+
+[scan]
+file = "discours00unse_wgs.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/discours00unse_wgs"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Rey, curé de Dardilly"
+role = "author"
+
+[[resp]]
+name = "Société des amis de la constitution de Lyon"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_849803"
+
+[[text]]
+file = "discours00unse_wgs.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discours00unse_wgs.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discours00unse_wgs.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discours00unse_wgs.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discours00unse_wgs.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discours00unse_wgs.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discours00unse_wgs.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discours00unse_wgs.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

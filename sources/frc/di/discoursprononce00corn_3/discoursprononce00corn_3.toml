@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discoursprononce00corn_3"
+type = "pamphlet"
+title = "Discours prononcé par M. Corniquet, vicaire épiscopal, le jeudi 15 septembre 1791, avant le Te Deum chanté dans l'eglise cathédrale de Rouen, en action de graces de l'acceptation de la Constitution."
+language = "fr"
+place = "A Rouen"
+date = "1791"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."
+url = "https://archive.org/details/discoursprononce00corn_3"
+subject = ["France"]
+extent = "3 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 16631"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t09w5fk0f"
+internet_archive = "discoursprononce00corn_3"
+openlibrary_edition = "OL26199454M"
+openlibrary_work = "OL17596123W"
+
+[scan]
+file = "discoursprononce00corn_3.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/discoursprononce00corn_3"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Corniquet"
+role = "author"
+
+[[resp]]
+name = "De l'imp. d'Oursel, imp. du Roi, rue de la Vicomté"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_834447"
+
+[[text]]
+file = "discoursprononce00corn_3.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00corn_3.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00corn_3.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00corn_3.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "decretdelaconven00fran_3"
+type = "pamphlet"
+title = "Décret de la Convention nationale du 27 novembre 1792, l'an 1er. de la République françoise, qui charge le pouvoir exécutif de notifier aux puissances étrangères, que la République ne reconnoîtra, comme ministre public, aucun émigré"
+language = "fr"
+place = "A Chartres"
+date = "1792"
+note = """Caption title. Signed: Monge; countersigned: Garat. Imprint from colophon. "No. 159. Conv. nat."--Bottom of p. [1]. Not in Martin & Walter. Révolution française. Scanner's note: Irregular Pagination. No title page found. No copyright page found. No table-of-contents pages found."""
+url = "https://archive.org/details/decretdelaconven00fran_3"
+subject = ["Refugees"]
+extent = "2 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9676 no. 4"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5m95bd65"
+internet_archive = "decretdelaconven00fran_3"
+openlibrary_edition = "OL26222196M"
+openlibrary_work = "OL17617697W"
+
+[scan]
+file = "decretdelaconven00fran_3.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/decretdelaconven00fran_3"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Monge, Gaspard, 1746-1818"
+role = "author"
+
+[[resp]]
+name = "Garat, Dominique-Joseph, comte, 1749-1833"
+role = "author"
+
+[[resp]]
+name = "Chez Fr. Labalte, libraire-imprimeur de l'Evêché et du département d'Eure et Loir"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_853671"
+
+[[text]]
+file = "decretdelaconven00fran_3.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelaconven00fran_3.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelaconven00fran_3.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelaconven00fran_3.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

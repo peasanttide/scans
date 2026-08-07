@@ -1,0 +1,95 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "dlibration00gren"
+type = "pamphlet"
+title = "Délibération /"
+language = "fr"
+place = "A Grenoble"
+date = "1790"
+note = "Half title. Imprint from colophon. Dated at beginning: Du mardi 26 janvier 1790 .. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found.   Title page is on the cover. Skewed text. Damaged, stained, and/or loose pages."
+url = "https://archive.org/details/dlibration00gren"
+extent = "8 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 2830"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t05x7c85v"
+internet_archive = "dlibration00gren"
+openlibrary_edition = "OL26209486M"
+openlibrary_work = "OL17605724W"
+
+[scan]
+file = "dlibration00gren.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/dlibration00gren"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Grenoble (France). Garde nationale"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de ve. Giroud & fils"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_44763"
+
+[[text]]
+file = "dlibration00gren.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dlibration00gren.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dlibration00gren.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dlibration00gren.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dlibration00gren.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dlibration00gren.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dlibration00gren.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dlibration00gren.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

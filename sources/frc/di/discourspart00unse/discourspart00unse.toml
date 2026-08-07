@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discourspart00unse"
+type = "pamphlet"
+title = "Discours particulier de M. le président de La Houssaye, prononcé à la barre de l'Assemblée nationale, le 8 janvier 1790."
+language = "fr"
+place = "France"
+date = "1790"
+note = "Caption title. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title page is on the cover. Damaged, stained, and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/discourspart00unse"
+subject = ["France. Parlement (Brittany)"]
+extent = "3 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 20364"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t03z3h20m"
+internet_archive = "discourspart00unse"
+openlibrary_edition = "OL26237058M"
+openlibrary_work = "OL17631612W"
+
+[scan]
+file = "discourspart00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/discourspart00unse"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "La Houssaye, Jean-Baptiste, vicomte de, 1739-1810"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_842692"
+
+[[text]]
+file = "discourspart00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discourspart00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discourspart00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discourspart00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "dtaildescrmonies00roue"
+type = "pamphlet"
+title = "Détail des cérémonies qui auront lieu au Champ de Mars : pour la fête de la souveraineté du peuple."
+language = "fr"
+place = "A Rouen"
+date = "1798"
+note = """Caption title. Imprint from colophon. "Le présent procès-verbal a été arrêté en séance publique de l'administration municipale du canton de Rouen, le 23 ventôse, an sixieme de la République françause, une & indivisible [13 mars 1798]": p.4. Not in Martin & Walter. Scanner's note: No copyright. No table of contents. Title on cover. Damaged, stained pages and cover."""
+url = "https://archive.org/details/dtaildescrmonies00roue"
+subject = ["Rites and ceremonies"]
+extent = "4 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 3036"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t87h6n11d"
+internet_archive = "dtaildescrmonies00roue"
+openlibrary_edition = "OL26209364M"
+openlibrary_work = "OL17605618W"
+
+[scan]
+file = "dtaildescrmonies00roue.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/dtaildescrmonies00roue"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Rouen (France)"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Vt. Guilbert & Herment"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_50924"
+
+[[text]]
+file = "dtaildescrmonies00roue.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dtaildescrmonies00roue.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dtaildescrmonies00roue.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dtaildescrmonies00roue.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

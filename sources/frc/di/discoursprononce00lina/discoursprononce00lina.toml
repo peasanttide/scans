@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discoursprononce00lina"
+type = "pamphlet"
+title = "Discours prononcé par M. Linars, curé de St. Medard-sur-Jalles, avant de faire son serment civique."
+language = "fr"
+place = "A Bordeaux"
+date = "1791"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/discoursprononce00lina"
+subject = [
+    "France",
+    "Clergy",
+    "Loyalty oaths",
+]
+extent = "4 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 21406"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t09w5q042"
+internet_archive = "discoursprononce00lina"
+openlibrary_edition = "OL26240004M"
+openlibrary_work = "OL17634525W"
+
+[scan]
+file = "discoursprononce00lina.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/discoursprononce00lina"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Linars, curé"
+role = "author"
+
+[[resp]]
+name = "Chez Paul Pallandre, libraire, rue du Chapeau-Rouge, no. 26"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_844520"
+
+[[text]]
+file = "discoursprononce00lina.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00lina.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00lina.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00lina.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

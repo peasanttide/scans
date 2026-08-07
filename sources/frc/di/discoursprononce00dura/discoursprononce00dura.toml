@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discoursprononce00dura"
+type = "pamphlet"
+title = "Discours prononcé a l'assemblée électorale par M. Pierre-Toussaint Durand, ex député canstituant [sic], après avoir été nommé député du département des Bouches-du-Rhône, à la Convention nationale, le 7 septembre 1792, l'an 4e. de la liberté & le 1er. de l'egalité."
+language = "fr"
+place = "France"
+date = "1792"
+note = "Caption title. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, stained pages and cover. Title on cover page. Skewed text."
+url = "https://archive.org/details/discoursprononce00dura"
+extent = "3 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 18154"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t38102r5j"
+internet_archive = "discoursprononce00dura"
+openlibrary_edition = "OL26196310M"
+openlibrary_work = "OL17593070W"
+
+[scan]
+file = "discoursprononce00dura.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/discoursprononce00dura"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Durand de Maillane, M. (Pierre Toussaint), 1729-1814"
+role = "author"
+
+[[resp]]
+name = "Bouches-du-Rhône (France). Assemblée électorale"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_837641"
+
+[[text]]
+file = "discoursprononce00dura.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00dura.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00dura.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00dura.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

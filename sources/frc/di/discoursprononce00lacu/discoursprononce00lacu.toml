@@ -1,0 +1,83 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discoursprononce00lacu"
+type = "pamphlet"
+title = "Discours prononcé par J.G. Lacuée pour présenter au Conseil, au nom du citoyen Dedon, le précis historique des campagnes de l'armée de Rhin et Moselle pendant l'an 4 et l'an 5 : séance du 30 floréal, an 7."
+language = "fr"
+place = "Paris"
+date = "1799"
+note = "Caption title. At head of title: Corps législatif, Conseil des anciens. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  II, 18200. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on cover page.  Damaged pages. Inconsistent page size.  Skewed text."
+url = "https://archive.org/details/discoursprononce00lacu"
+subject = [
+    "Dedon, Franc̦ois-Louis, 1762-1830",
+    "First Coalition, War of the, 1792-1797",
+]
+extent = "4 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 12089"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8jd9jb70"
+internet_archive = "discoursprononce00lacu"
+openlibrary_edition = "OL25915543M"
+openlibrary_work = "OL17338841W"
+
+[scan]
+file = "discoursprononce00lacu.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/discoursprononce00lacu"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Lacuée, Jean-Girard, comte de Cessac, 1752-1841"
+role = "author"
+
+[[resp]]
+name = "France. Corps législatif (1795-1814). Conseil des anciens"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_826220"
+
+[[text]]
+file = "discoursprononce00lacu.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00lacu.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00lacu.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00lacu.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

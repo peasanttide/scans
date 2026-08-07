@@ -1,0 +1,71 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "dclarationetprof00mont"
+type = "pamphlet"
+title = "Déclaration et profession patriotique /"
+language = "fr"
+place = "A Montauban"
+date = "1790"
+note = "Caption title. Imprint from colophon. Martin & Walter IV 2: 5080. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page is on the cover. Skewed text. Damaged, stained, and/or loose pages."
+url = "https://archive.org/details/dclarationetprof00mont"
+extent = "4 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 2788"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4mm1cb8z"
+internet_archive = "dclarationetprof00mont"
+openlibrary_edition = "OL26209111M"
+openlibrary_work = "OL17605363W"
+
+[scan]
+file = "dclarationetprof00mont.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/dclarationetprof00mont"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Montauban (France). Citizens"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Vincent Teulieres"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_44481"
+
+[[text]]
+file = "dclarationetprof00mont.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dclarationetprof00mont.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dclarationetprof00mont.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dclarationetprof00mont.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

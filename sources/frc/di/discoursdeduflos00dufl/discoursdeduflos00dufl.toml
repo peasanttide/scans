@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discoursdeduflos00dufl"
+type = "pamphlet"
+title = "Discours de Duflos a l'occasion d'une adresse de l'administration centrale du Pas-de-Calais sur le départ des conscrits de son arrondissement : séance du 8 frimaire an 7."
+language = "fr"
+place = "Paris"
+date = "1798"
+note = "Caption title. At head of title: Corps législatif. Conseil des cinq-cents. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  II, 11600. Scanner's note: No copyright page found. No table-of-contents pages found. Damaged, stained pages. Title on cover."
+url = "https://archive.org/details/discoursdeduflos00dufl"
+subject = ["Draftees"]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 17817"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t04z08742"
+internet_archive = "discoursdeduflos00dufl"
+openlibrary_edition = "OL26194381M"
+openlibrary_work = "OL17591123W"
+
+[scan]
+file = "discoursdeduflos00dufl.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/discoursdeduflos00dufl"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Duflos, Nicholas Joseph, 1753-1836"
+role = "author"
+
+[[resp]]
+name = "France. Corps législatif (1795-1814). Conseil des cinq-cents"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_836922"
+
+[[text]]
+file = "discoursdeduflos00dufl.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursdeduflos00dufl.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursdeduflos00dufl.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursdeduflos00dufl.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

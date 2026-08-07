@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discourspron00unse_2"
+type = "pamphlet"
+title = "Discours prononcé par M. de Tourreau, colonel de la garde citoyenne de la ville de Sarrians, a l'assemblée représentative du Comté Venaissin, dans la séance du 4 septembre 1790 : imprimé par ordre de l'assemblée"
+language = "fr"
+place = "A Carpentras"
+date = "1790"
+note = "Caption title. At head of title: L'Assemblee representative du Comté Venaissin. 1790. La loi et le prince. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/discourspron00unse_2"
+subject = ["Military service, Voluntary"]
+extent = "[3] p. ; 23 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 27238"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7dr80q4d"
+internet_archive = "discourspron00unse_2"
+openlibrary_edition = "OL26229718M"
+openlibrary_work = "OL17624751W"
+
+[scan]
+file = "discourspron00unse_2.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/discourspron00unse_2"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Tourreau, M. de"
+role = "author"
+
+[[resp]]
+name = "Quenin, Dominique-Gaspard, 1734-1809?"
+role = "publisher"
+
+[[resp]]
+name = "Comtat Venaissin (France). Assemblée représentative"
+role = "author"
+
+[[resp]]
+name = "Chez Dominique-Gaspard Quenin, imprimeur de l'assemblée représentative"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_868161"
+
+[[text]]
+file = "discourspron00unse_2.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discourspron00unse_2.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discourspron00unse_2.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discourspron00unse_2.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

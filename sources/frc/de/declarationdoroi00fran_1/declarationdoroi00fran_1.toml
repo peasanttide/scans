@@ -1,0 +1,73 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "declarationdoroi00fran_1"
+type = "pamphlet"
+title = "Déclaration du roi, concernant les bulles, brefs, rescrits & autres expéditions venans de Cour de Rome :"
+language = "fr"
+place = "A Paris"
+date = "1772"
+note = """Caption title. Imprint at foot of p. 4. "Signé Le Jay"--P. 4. Imprint statement from colophon. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Title page and cover are combined."""
+url = "https://archive.org/details/declarationdoroi00fran_1"
+subject = [
+    "Catholic Church",
+    "Papal documents",
+    "Church and state",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 8 no. 60"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7kq3mr72"
+internet_archive = "declarationdoroi00fran_1"
+
+[scan]
+file = "declarationdoroi00fran_1.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/declarationdoroi00fran_1"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France"
+role = "author"
+
+[[resp]]
+name = "France. Sovereign (1715-1774 : Louis XV)"
+role = "author"
+
+[[resp]]
+name = "Chez P.G. Simon, imprimeur du Parlement ..."
+role = "publisher"
+
+[[text]]
+file = "declarationdoroi00fran_1.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "declarationdoroi00fran_1.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "declarationdoroi00fran_1.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "declarationdoroi00fran_1.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

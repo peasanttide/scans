@@ -1,0 +1,86 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "decretsconvent00unse_3"
+type = "pamphlet"
+title = "Décret de la Convention nationale, du 3 octobre 1792, l'an 1er. de la République françoise : somme de 350,000 livres mise à la disposition du ministre des contributions, pour le payement des dépenses courantes à la charge de la liste civile"
+language = "fr"
+place = "A Paris"
+date = "1792"
+note = """
+Caption title. At right of title: No. 21. Signed: Roland; countersigned: Danton. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover. 
+Only one numbered page."""
+url = "https://archive.org/details/decretsconvent00unse_3"
+subject = ["France. Ministère des contributions publiques"]
+extent = "2 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10329 no. 5"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t24b86n40"
+internet_archive = "decretsconvent00unse_3"
+openlibrary_edition = "OL26225335M"
+openlibrary_work = "OL17620660W"
+
+[scan]
+file = "decretsconvent00unse_3.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/decretsconvent00unse_3"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Roland de La Platière, Jean-Marie, 1734-1793"
+role = "author"
+
+[[resp]]
+name = "Danton, Georges Jacques, 1759-1794"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale exécutive du Louvre"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_852128"
+
+[[text]]
+file = "decretsconvent00unse_3.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretsconvent00unse_3.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretsconvent00unse_3.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretsconvent00unse_3.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,68 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "declarationetdes00jesu"
+type = "pamphlet"
+title = "Declaration et desadvev des Peres Iesuistes"
+language = "fr"
+date = "1633"
+note = """Caption title. "Novs soubs-signez ... declarons que les liures intitulez, Nicolaus Smythaesis; & Danielis à Iesu apologia; Hermanni Leomelij Spongia; Querimonia Ecclesiae Anglicanae, & appendix ad Illustrissimum Archiepiscopum Parisiensem, n'ont pas esté composez par aucuns religieux de nostre compagnie: ce qui fait que nous les desauoüons port tels ... ". Dated 23 March 1633. Scanner's note: No copyright found.  No table of contents found.  Damaged, stained pages and cover.  Title on cover page. <br />No page numbers. <br />."""
+url = "https://archive.org/details/declarationetdes00jesu"
+subject = ["Censorship"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 1 no. 36"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3jx4056j"
+internet_archive = "declarationetdes00jesu"
+
+[scan]
+file = "declarationetdes00jesu.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/declarationetdes00jesu"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "Jesuits.France"
+role = "author"
+
+[[resp]]
+name = "Jesuits. France"
+role = "author"
+
+[[resp]]
+name = "[Paris"
+role = "publisher"
+
+[[text]]
+file = "declarationetdes00jesu.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "declarationetdes00jesu.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "declarationetdes00jesu.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "declarationetdes00jesu.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,86 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "decretdelassemble00unse_4"
+type = "pamphlet"
+title = "Décret de l'Assemblée nationale, du vingt-un juin mil sept cent quatre-vingt-onze"
+language = "fr"
+place = "A Rouen"
+date = "1791"
+note = """Caption title. Imprint from colophon. Text begins: Une députation du département de Paris s'est présentée à la Barre .. Not in Martin & Walter. Révolution française. "Département de Paris. Extrait du registre des délibérations du département de Paris, du vingt-un juin mil sept cent quatre-vingt-onze"--P. [1]-2. "A Rouen, en Directoire ... "--P. 4. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained and/or loose pages. Skewed text."""
+url = "https://archive.org/details/decretdelassemble00unse_4"
+subject = [
+    "Louis XVI, King of France, 1754-1793",
+    "Tuileries Palace (Paris, France)",
+    "Political crimes and offenses",
+]
+extent = "4 p. ; 25 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC suppl. 96 no. 6"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2g78m06g"
+internet_archive = "decretdelassemble00unse_4"
+
+[scan]
+file = "decretdelassemble00unse_4.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/decretdelassemble00unse_4"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "Le Boullenger, Jacques-Joseph-Jean-Baptiste, b. 1740"
+role = "publisher"
+
+[[resp]]
+name = "Rouen (France). Directoire"
+role = "author"
+
+[[resp]]
+name = "Paris (France : Dept.)"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de J.J. Le Boullenger, imprimeur du département de la Seine Inférieure, rue du Grand-Maulévrier"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_861654"
+
+[[text]]
+file = "decretdelassemble00unse_4.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelassemble00unse_4.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelassemble00unse_4.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelassemble00unse_4.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

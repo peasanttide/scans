@@ -1,0 +1,83 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discoursdedessai00dess"
+type = "pamphlet"
+title = "Discours de Dessaix sur le zèle des conscrits du département du Léman, et sur le mode de révision des congés de réforme : séance du 13 frimaire an 7."
+language = "fr"
+place = "Paris"
+date = "1798"
+note = "Caption title. At head of title: Corps législatif. Conseil des cinq-cents. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  II, 10585. Scanner's note: No copyright page found. No table-of-contents pages found. Damaged, stained cover and pages. Title on cover."
+url = "https://archive.org/details/discoursdedessai00dess"
+subject = [
+    "Draftees",
+    "Military discharge",
+]
+extent = "3 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 17444"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1jh8h197"
+internet_archive = "discoursdedessai00dess"
+openlibrary_edition = "OL26175342M"
+openlibrary_work = "OL17572208W"
+
+[scan]
+file = "discoursdedessai00dess.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/discoursdedessai00dess"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Dessaix, Joseph-Marie, 1764-1834"
+role = "author"
+
+[[resp]]
+name = "France. Corps législatif (1795-1814). Conseil des cinq-cents"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_835932"
+
+[[text]]
+file = "discoursdedessai00dess.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursdedessai00dess.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursdedessai00dess.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursdedessai00dess.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

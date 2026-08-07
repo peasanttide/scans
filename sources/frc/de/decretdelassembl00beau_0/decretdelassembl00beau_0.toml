@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "decretdelassembl00beau_0"
+type = "pamphlet"
+title = "Décret de l'Assemblée nationale en faveur des prisonniers illégalement détenus."
+language = "fr"
+place = "A Mrseille [sic"
+date = "1790"
+note = """Caption title. "Par M. de Beaulieu"--P. 4. Imprint from colophon. "Sur l'imprimé de Paris"--Colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover."""
+url = "https://archive.org/details/decretdelassembl00beau_0"
+subject = [
+    "False imprisonment",
+    "Prisoners",
+]
+extent = "4 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 14269"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7rn7vd5w"
+internet_archive = "decretdelassembl00beau_0"
+openlibrary_edition = "OL25920244M"
+openlibrary_work = "OL17343281W"
+
+[scan]
+file = "decretdelassembl00beau_0.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/decretdelassembl00beau_0"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Beaulieu, M. de"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "Chez F. Brebion, imprimeur du roi, & de Mgr. le commandant"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_830021"
+
+[[text]]
+file = "decretdelassembl00beau_0.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelassembl00beau_0.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelassembl00beau_0.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelassembl00beau_0.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

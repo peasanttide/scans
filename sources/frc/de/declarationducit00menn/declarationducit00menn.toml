@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "declarationducit00menn"
+type = "pamphlet"
+title = "Déclaration du citoyen Mennesson, deputé du departement des Ardennes, a la Convention nationale de France."
+language = "fr"
+place = "Paris"
+date = "1793"
+note = "Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  III, 23823. Scanner's note: Title page and cover are combined. Damaged, stained, marked and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/declarationducit00menn"
+extent = "5 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 22306"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6547zt3t"
+internet_archive = "declarationducit00menn"
+openlibrary_edition = "OL26240193M"
+openlibrary_work = "OL17634716W"
+
+[scan]
+file = "declarationducit00menn.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/declarationducit00menn"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Mennesson, Jean-Baptiste-Augustin-Prosper, 1761-1807"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_846096"
+
+[[text]]
+file = "declarationducit00menn.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "declarationducit00menn.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "declarationducit00menn.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "declarationducit00menn.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

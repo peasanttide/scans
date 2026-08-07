@@ -1,0 +1,10 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: decretdelaconven00fra_jeb
+page: 4
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 3004
+h: 4050
+dpi: 350
+---

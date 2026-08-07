@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "desetatsgeneraux00buis"
+type = "pamphlet"
+title = "Des Etats generaux et autres assemblées nationales"
+language = "fr"
+place = "Paris?"
+date = "1788"
+note = """Prospectus for "Des Etats generaux et autres assemblées nationales", published 1788-1789 and edited by Charles-Joseph Mayer, and advertisements for 10 other titles offered for sale by Buisson. Caption title. "Permis d'imprimer, ce 12 décembre 1788"--P. 4. Includes prices. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Title page and cover are combined."""
+url = "https://archive.org/details/desetatsgeneraux00buis"
+subject = [
+    "Etats generaux et autres assemblées nationales",
+    "Booksellers and bookselling",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1a no. 27"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9n35j89n"
+internet_archive = "desetatsgeneraux00buis"
+
+[scan]
+file = "desetatsgeneraux00buis.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/desetatsgeneraux00buis"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Buisson, François,1753-1814"
+role = "author"
+
+[[resp]]
+name = "Buisson, François, 1753-1814"
+role = "author"
+
+[[resp]]
+name = "Mayer, Charles-Joseph, 1751-approximately 1825"
+role = "author"
+
+[[resp]]
+name = "François Buisson?"
+role = "publisher"
+
+[[text]]
+file = "desetatsgeneraux00buis.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "desetatsgeneraux00buis.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "desetatsgeneraux00buis.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "desetatsgeneraux00buis.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,71 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "dlibration00cast_0"
+type = "pamphlet"
+title = "Délibération"
+language = "fr"
+place = "A Carcassonne"
+date = "1788"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages."
+url = "https://archive.org/details/dlibration00cast_0"
+extent = "4 p. ; 25 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9538"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t43r6039c"
+internet_archive = "dlibration00cast_0"
+openlibrary_edition = "OL26222079M"
+openlibrary_work = "OL17617579W"
+
+[scan]
+file = "dlibration00cast_0.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/dlibration00cast_0"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Castelnaudary (France)"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de R. Heirisson"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_67702"
+
+[[text]]
+file = "dlibration00cast_0.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dlibration00cast_0.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dlibration00cast_0.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dlibration00cast_0.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

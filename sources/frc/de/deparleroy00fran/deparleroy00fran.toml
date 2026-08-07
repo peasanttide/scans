@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "deparleroy00fran"
+type = "pamphlet"
+title = "De par le roy ... fait à Conde le 17 jour de may 1677"
+language = "fr"
+place = "s Graven-Hage"
+date = "1677"
+note = "French text followed by Dutch translation. A declaration stating that certain places shall be free for fishing. Imprint at foot of page. Concemnation of: [1] Centuria colloquiorum Dei et animae, quibus de gratia doctrinam e campo disputandi Martio in placidum meditandi Elysium compendiario transducere conatus est, by Johannes Wierts. [2] Opuscula theologica, ejusdem Apologia, by Michael Baius. [3] Le miroir de la piété chrétienne, by Flore de Sainte Foy [pseud. of Gabriel Gerbron]. Dated 30 August 1677. Scanner's note: No copyright page found. No table-of-contents pages found. Title and cover pages combined."
+url = "https://archive.org/details/deparleroy00fran"
+subject = [
+    "Prohibited books",
+    "Censorship",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 2 no. 43"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7np7pj6h"
+internet_archive = "deparleroy00fran"
+
+[scan]
+file = "deparleroy00fran.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/deparleroy00fran"
+ppi = 350
+note = "Scanned on fold1.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Sovereign (1643-1715 : Louis XIV)"
+role = "author"
+
+[[resp]]
+name = "France. Sovereign (1643-1715 : Louis XIV)"
+role = "author"
+
+[[resp]]
+name = "Wierts, Johannes. Centuria colloquiorum Dei et animae"
+role = "author"
+
+[[resp]]
+name = "Bajus, Michael, 1513-1589. Opuscula theologia"
+role = "author"
+
+[[resp]]
+name = "Gerberon, Gabriel, 1628-1711. Miroir de la piété chrétienne"
+role = "author"
+
+[[resp]]
+name = "J. Scheltus"
+role = "publisher"
+
+[[text]]
+file = "deparleroy00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "deparleroy00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,54 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: decretdelaconven00fra_jgv
+page: 1
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 3018
+h: 4101
+dpi: 350
+---
+
+DÉCRET
+
+DE LA
+
+N.' ijgjr.
+
+CONA^ENTION NATIONALE,
+
+Du I 2/ jour de Prairial , an fécond de la République Françaife,
+
+une & indivifible ,
+
+Relatif à la Liquidation des frais de tranfort
+
+de la Guillotine.
+
+La Contention nationale, après avoir entendu
+ion comité des finances , décrète que dans fa liquidation
+des frais pour le trânfport de la guillotine, feront compris
+les frais faits pour le trânfport des condamnés, foi t au lieu
+de l’exécution , fbk au lieu de la fépulture , ainfi que h
+fourniture des paniers , fou , cordages , fàngles , clous éc
+'Cartons néceffités pour l’exécution des jugemens criminels.
+
+Ces frais feront payés en la forme prefcrite par l’article II
+de la loi du 3 frimaire.
+
+Vifé par i’infpeâeur. Signé BoülilEROTi
+
+Collationné à Poriginai , par nous préfident & fècrétaires da
+la Convention nationale. A Paris, le 17 Prairial, an deuxième
+de la République une & iiadivifible. Signé VOULLAND,
+[ ex-préjident ; Briez & Carrier, fecrétaires.
+
+Pour copie conforme :
+
+Le Commîffaire des A dmïnïflr citions civiles ,
+PjoUce àr' Tribunaux.
+
+. A PARIS, DE L'IMPRIMERIE NATIONALE DU LOUVRE.
+’ An IL' de la République.
+
+llT.xAkY

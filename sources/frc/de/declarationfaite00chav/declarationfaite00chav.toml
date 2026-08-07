@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "declarationfaite00chav"
+type = "pamphlet"
+title = "Déclaration faite au Comité de surveillance de l'Assemblée nationale."
+language = "fr"
+place = "Paris"
+date = "1792"
+note = "Caption title. Signed: Chaverot. Imprint from colophon. Martin & Walter. Révolution française. Denouncing a royalist conspiracy. Bibliography: Martin & Walter.  Révolution française,  I, 7150. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover page. Skewed text. Uneven binding. Damaged, stained, marked and/or loose pages."
+url = "https://archive.org/details/declarationfaite00chav"
+subject = ["Conspiracies"]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 16133"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6838tr8n"
+internet_archive = "declarationfaite00chav"
+lccn = "nuc87402855"
+
+[scan]
+file = "declarationfaite00chav.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/declarationfaite00chav"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Chaverot"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale législative (1791-1792). Comité de surveillance"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_833368"
+
+[[text]]
+file = "declarationfaite00chav.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "declarationfaite00chav.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "declarationfaite00chav.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "declarationfaite00chav.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

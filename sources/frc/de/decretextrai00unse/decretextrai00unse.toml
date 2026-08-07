@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "decretextrai00unse"
+type = "pamphlet"
+title = "... Décret : extrait du proc`es-verbal des séances"
+language = "fr"
+place = "A Paris"
+date = "1799"
+note = "Caption title. Imprint from colophon. At head of title: N.o 999. Bulletin des lois, n.o 321. Au nom de la République française. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."
+url = "https://archive.org/details/decretextrai00unse"
+extent = "4 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10335"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5jb18z6q"
+internet_archive = "decretextrai00unse"
+openlibrary_edition = "OL26225090M"
+openlibrary_work = "OL17620415W"
+
+[scan]
+file = "decretextrai00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/decretextrai00unse"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Corps législatif (1795-1814). Conseil des anciens"
+role = "author"
+
+[[resp]]
+name = "France. Corps législatif (1795-1814). Conseil des anciens"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie du Dép^ot des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_72121"
+
+[[text]]
+file = "decretextrai00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretextrai00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretextrai00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretextrai00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

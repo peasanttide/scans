@@ -1,0 +1,83 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discoursprononce00guyo_0"
+type = "pamphlet"
+title = "Discours prononcé par Pierre Guyomar (Côtes-du-Nord), sur la célébration de la fête du 14 juillet : séance du 24 messidor an 7."
+language = "fr"
+place = "A Paris"
+date = "1799"
+note = "Caption title. At head of title: Corps législatif. Conseil des anciens. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  II, 16223. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on the cover page. Damaged pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/discoursprononce00guyo_0"
+subject = [
+    "Bastille Day",
+    "Festivals",
+]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 19595"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2h75975k"
+internet_archive = "discoursprononce00guyo_0"
+openlibrary_edition = "OL25945941M"
+openlibrary_work = "OL17367142W"
+
+[scan]
+file = "discoursprononce00guyo_0.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/discoursprononce00guyo_0"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Guyomar, Pierre-Marie-Augustin, 1757-1826"
+role = "author"
+
+[[resp]]
+name = "France. Corps législatif (1795-1814). Conseil des anciens"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_841030"
+
+[[text]]
+file = "discoursprononce00guyo_0.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00guyo_0.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00guyo_0.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00guyo_0.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

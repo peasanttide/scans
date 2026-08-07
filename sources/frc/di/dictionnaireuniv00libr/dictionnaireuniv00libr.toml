@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "dictionnaireuniv00libr"
+type = "pamphlet"
+title = "Dictionnaire universel françois et latin, vulgairement appelé Dictionnaire de Trévoux"
+language = "fr"
+place = "A Paris"
+date = "1771"
+note = """Prospectus for a new edition of the Dictionnaire de Trévoux. "Noms des Libraires associés: Valleyre pere, Ganeau, rue Saint-Severin; D'Houry, rue de la Vieille-Boucherie; Bailly, Debure fils jeune, quai des Augustins; Veuve Savoye, Desprez, De Hansy jeune, Durand, Desventes de la Doué, rue Saint-Jacques; Saillant, Nyon, rue Saint-Jean-de-Beauvais; Desaint, rue du Foin; Lambert, rue de la Harpe; Delalain, rue de la Comédie Françoise. On souscrira chez les libraires des principales villes du royaume"--T.p verso. Title page in red and black; title vignette; heaf-pieces; printed in double columns. "Cet ouvrage paroîtra complet en huit volumes in-folio dans le courant du mois d'août 1771, & se vendra 208 liv. en feuilles. Les personnes qui souscriront ne païeront pour chaque exemplaire que la somme de 168 liv."--P. [4]. Ms. annotations. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Title page and cover are combined."""
+url = "https://archive.org/details/dictionnaireuniv00libr"
+subject = [
+    "Dictionnaire de Trévoux",
+    "Booksellers and bookselling",
+    "Encyclopedias and dictionaries",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1a no. 109"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2r559w43"
+internet_archive = "dictionnaireuniv00libr"
+
+[scan]
+file = "dictionnaireuniv00libr.pdf"
+count = 5
+by = "Internet Archive"
+url = "https://archive.org/details/dictionnaireuniv00libr"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Libraires associés (Paris, France)"
+role = "author"
+
+[[resp]]
+name = "Par la compagnie des Libraires associés"
+role = "publisher"
+
+[[text]]
+file = "dictionnaireuniv00libr.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dictionnaireuniv00libr.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dictionnaireuniv00libr.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dictionnaireuniv00libr.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dictionnaireuniv00libr.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

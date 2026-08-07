@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discoursadressep00mont"
+type = "pamphlet"
+title = "Discours adressé par les citoyens Montgey et Poirier, hommes de loi, de Dunkerque, à la Société populaire d'Arras, le 6 vendémiaire an 3.e de la République une et indivisible."
+language = "fr"
+place = "A Arras"
+date = "1794"
+note = """Caption title. At head of title: Republique francaise. Une et indivisible. Imprint from colophon. Martin & Walter. Révolution française. "Extrait des registres aux procès verbaux des séances de la Société populaire d'Arras"--P. 3. Bibliography: Martin & Walter.  Révolution française,  III, 24996. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover."""
+url = "https://archive.org/details/discoursadressep00mont"
+subject = ["Poirier, Louis-Eugène, 1777-1818"]
+extent = "3 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 22788"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2f81kj6m"
+internet_archive = "discoursadressep00mont"
+openlibrary_edition = "OL26236342M"
+openlibrary_work = "OL17630885W"
+
+[scan]
+file = "discoursadressep00mont.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/discoursadressep00mont"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Montgey, fondé de pouvoir"
+role = "author"
+
+[[resp]]
+name = "Poirier, Louis-Eugène, 1777-1818"
+role = "author"
+
+[[resp]]
+name = "Société populaire d'Arras"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie du cit. Leducq"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_846948"
+
+[[text]]
+file = "discoursadressep00mont.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursadressep00mont.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursadressep00mont.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursadressep00mont.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

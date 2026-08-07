@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "delcaration00unse"
+type = "pamphlet"
+title = "Déclaration de M. l'archeveque d'Embrun : nous, Pierre-Louis de Leyssin, archevêque-prince d'Embrun, prince & grand chambellan du St. Empire."
+language = "fr"
+place = "France"
+date = "1791"
+note = "Caption title. Variant of Martin & Walter. Révolution française, III, 21459. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/delcaration00unse"
+subject = [
+    "France",
+    "Church and state",
+]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 21354"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9382mf3f"
+internet_archive = "delcaration00unse"
+openlibrary_edition = "OL26239566M"
+openlibrary_work = "OL17634106W"
+
+[scan]
+file = "delcaration00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/delcaration00unse"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Leyssin, Pierre-Louis de, 1724-1801"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_844469"
+
+[[text]]
+file = "delcaration00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "delcaration00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "delcaration00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "delcaration00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

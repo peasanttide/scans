@@ -1,0 +1,84 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discoursetadress00grim"
+type = "pamphlet"
+title = "Discours et adresse de M. Pascal Grimaud, professeur de théologie, et de la majorité de ses collègues, membres du ci-devant chapitre de Saint-Pierre de Clermont-Ferrand, portant adhésion à la Constitution civile du clergé : imprimés par ordre de l'Assemblée nationale."
+language = "fr"
+place = "A Paris"
+date = "1790"
+note = """Caption title. Imprint from colophon. Session date from Martin & Walter: 16 déc. 1790. "Procès-verbal, no. 503"--Bottom of p. [1]. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  II, 15792. Scanner's note: No copyright page found. No table-of-contents pages found. Title found on cover page. Damaged, worn pages."""
+url = "https://archive.org/details/discoursetadress00grim"
+subject = [
+    "France",
+    "Church and state",
+    "Clergy",
+]
+extent = "4 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 19455"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5w71bn34"
+internet_archive = "discoursetadress00grim"
+openlibrary_edition = "OL25945764M"
+openlibrary_work = "OL17366963W"
+
+[scan]
+file = "discoursetadress00grim.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/discoursetadress00grim"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Grimaud, Pascal Antoine, 1736-1799"
+role = "author"
+
+[[resp]]
+name = "Baudouin, François-Jean, 1759-1838"
+role = "publisher"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "Chez Baudouin, imprimeur de l'Assemblée nationale, rue du Foin St.-Jacques, no. 31"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_840771"
+
+[[text]]
+file = "discoursetadress00grim.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursetadress00grim.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursetadress00grim.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursetadress00grim.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

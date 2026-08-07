@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "decretdelaconven00fran_7"
+type = "pamphlet"
+title = "Décret de la Convention nationale, du 30 décembre 1792, l'an premier de la République française, relatif aux procédures concernant les délits commis relativement aux droits ci-devant féodaux et censuels"
+language = "fr"
+place = "A Paris"
+date = "1792"
+note = "Caption title. At right of title: No. 281. Signed: Claviere; countersigned: Garat. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: Irregular Pagination. No title page found. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/decretdelaconven00fran_7"
+subject = [
+    "Judgments, Criminal",
+    "Feudal law",
+]
+extent = "[1] p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9676 no. 8"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t19k9fw1n"
+internet_archive = "decretdelaconven00fran_7"
+openlibrary_edition = "OL26222068M"
+openlibrary_work = "OL17617568W"
+
+[scan]
+file = "decretdelaconven00fran_7.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/decretdelaconven00fran_7"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Clavière, Étienne, 1735-1793"
+role = "author"
+
+[[resp]]
+name = "Garat, Dominique-Joseph, comte, 1749-1833"
+role = "author"
+
+[[resp]]
+name = "Prault, Louis-François, 1734-1806"
+role = "publisher"
+
+[[resp]]
+name = "De l'imprimerie de Prault, au Palais"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_853675"
+
+[[text]]
+file = "decretdelaconven00fran_7.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelaconven00fran_7.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

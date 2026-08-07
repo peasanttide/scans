@@ -1,0 +1,91 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "decretdelaconven00fra_lgy"
+type = "pamphlet"
+title = "Décret de la Convention nationale, du 21e. jour de floréal, an 2e. de la République française, une & indivisible, qui fixe aux créanciers de la République un délai pour faire procéder à leur liquidation"
+language = "fr"
+place = "A Paris"
+date = "1794"
+note = "Caption title. At right of title: No. 2353. Signed: Dubarran, ex-président; Voulland & Leyris, secrétaires. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: Irregular Pagination. Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages. No title page found. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/decretdelaconven00fra_lgy"
+subject = [
+    "Liquidation",
+    "Finance, Public",
+]
+extent = "2 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10334 no. 81"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3nw4kv5n"
+internet_archive = "decretdelaconven00fra_lgy"
+openlibrary_edition = "OL26225588M"
+openlibrary_work = "OL17620904W"
+
+[scan]
+file = "decretdelaconven00fra_lgy.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/decretdelaconven00fra_lgy"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Du Barran, Joseph-Nicolas Barbeau, 1761-1816"
+role = "author"
+
+[[resp]]
+name = "Leyris, Augustin-Jacques, 1762-1840"
+role = "author"
+
+[[resp]]
+name = "Voulland, Jean-Henri, 1751-1801"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale du Louvre"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_851976"
+
+[[text]]
+file = "decretdelaconven00fra_lgy.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelaconven00fra_lgy.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelaconven00fra_lgy.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelaconven00fra_lgy.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

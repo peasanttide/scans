@@ -1,0 +1,94 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "dictionnairedesa00prau"
+type = "pamphlet"
+title = "Dictionnaire des arts de peinture, sculpture et gravure"
+language = "fr"
+place = "Paris"
+date = "1792"
+note = """Prospectus for Watelet and Lévesque's "Dictionnaire des arts de peinture, sculpture et gravure", published in 1792. Caption title. "Ces cinq volumes de format grand in-octavo ... se vendent 36 liv. brochés en carton"--P. [2]. Scanner's note: No copyright found.  No table of contents found.  Damaged, stained pages.  No page numbers. <br />."""
+url = "https://archive.org/details/dictionnairedesa00prau"
+subject = [
+    "Watelet, Claude-Henri, 1718-1786",
+    "Booksellers and bookselling",
+    "Encyclopedias and dictionaries",
+    "Art literature",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1a no. 132"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2h763m6w"
+internet_archive = "dictionnairedesa00prau"
+
+[scan]
+file = "dictionnairedesa00prau.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/dictionnairedesa00prau"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "Prault, Louis-François,1734-186"
+role = "author"
+
+[[resp]]
+name = "Prault, Louis-François, 1734-1806"
+role = "author"
+
+[[resp]]
+name = "Watelet, Claude-Henri, 1718-1786. Dictionnaire des arts de peinture, sculpture et gravure"
+role = "author"
+
+[[resp]]
+name = "Levesque, P. Ch"
+role = "author"
+
+[[resp]]
+name = "Chez Louis-François Prault, imprimeur du roi, quai des Augustins, près la rue Pavée, n°. 44, à l'Immortalité"
+role = "publisher"
+
+[[text]]
+file = "dictionnairedesa00prau.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dictionnairedesa00prau.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dictionnairedesa00prau.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dictionnairedesa00prau.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dictionnairedesa00prau.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dictionnairedesa00prau.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

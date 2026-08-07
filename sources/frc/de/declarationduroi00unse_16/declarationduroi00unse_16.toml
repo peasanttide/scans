@@ -1,0 +1,91 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "declarationduroi00unse_16"
+type = "pamphlet"
+title = "Déclaration du roi, concernant les receveurs & les contrôleurs municipaux des villes tarifées : donnée à Versailles le 5 juillet 1781 : registrée en la Chambre des comptes le 1er. septembre audit an"
+language = "fr"
+place = "A Paris"
+date = "1781"
+note = """Caption title. "Signé Louis. Et plus bas, par le roi. Signé Amelot"--P. 3. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, stained and/or loose pages Skewed text. Uneven binding. Title and cover page are combined. Text on the back cover is upside-down."""
+url = "https://archive.org/details/declarationduroi00unse_16"
+subject = [
+    "Tax administration and procedure",
+    "Finance, Public",
+]
+extent = "3 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC suppl. 88 no. 10"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8kd73v3z"
+internet_archive = "declarationduroi00unse_16"
+openlibrary_edition = "OL26234952M"
+openlibrary_work = "OL17629534W"
+
+[scan]
+file = "declarationduroi00unse_16.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/declarationduroi00unse_16"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Sovereign (1774-1792 : Louis XVI)"
+role = "author"
+
+[[resp]]
+name = "Louis XVI, King of France, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "Amelot de Chaillou, Antoine-Jean, d. 1795"
+role = "author"
+
+[[resp]]
+name = "France. Chambre des comptes (Paris, France)"
+role = "author"
+
+[[resp]]
+name = "Imprimerie royale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie royale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_861550"
+
+[[text]]
+file = "declarationduroi00unse_16.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "declarationduroi00unse_16.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "declarationduroi00unse_16.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "declarationduroi00unse_16.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,84 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discoursprononce00dubr"
+type = "pamphlet"
+title = "Discours prononcé a la Convention nationale pour l'acceptation de l'acte constitutionnel, par les militaires-invalides : imprimé par ordre de la Convention nationale : séance du 5 août 1793."
+language = "fr"
+place = "Paris"
+date = "1793"
+note = "Caption title. At head of title: Convention nationale. Signed: Dubroca, secrètaire, garde des archives de l'hôtel national des militaires-invalides. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  II, 11271. Scanner's note: No copyright page found. No table-of-contents pages found. Damaged, stained pages and cover. Title on cover. Skewed text."
+url = "https://archive.org/details/discoursprononce00dubr"
+subject = [
+    "France",
+    "Constitutional history",
+    "Disabled veterans",
+]
+extent = "4 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 17721"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9m37sm9g"
+internet_archive = "discoursprononce00dubr"
+openlibrary_edition = "OL26194259M"
+openlibrary_work = "OL17591002W"
+
+[scan]
+file = "discoursprononce00dubr.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/discoursprononce00dubr"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Dubroca"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_837110"
+
+[[text]]
+file = "discoursprononce00dubr.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00dubr.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00dubr.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00dubr.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

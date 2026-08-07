@@ -1,0 +1,68 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discoursprononce00camb"
+type = "pamphlet"
+title = "Discours prononcé au Champ de la Réunion, par le président de la Convention nationale, le décadi 30 vendémiaire de la troisième année, jour où l'on a célébré la Fête des Victoires."
+language = "fr"
+date = "1794"
+note = """Caption title. At head of title: Convention nationale. "Imprimé par ordre de la Convention nationale, et envoyé aux armées.". Signed, p. 3: Cambacérès..., Laporte, Pelet, Boissy-d'Anglas, Pierre Guyomar, Lozeau, Eschasseriaux jeune. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,I, 5852."""
+url = "https://archive.org/details/discoursprononce00camb"
+extent = "3 p. ;20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "CaseFRC11021"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t07w9dq4n"
+internet_archive = "discoursprononce00camb"
+
+[scan]
+file = "discoursprononce00camb.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/discoursprononce00camb"
+ppi = 650
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Cambacérès, Jean Jacques Régis de,1753-1824"
+role = "author"
+
+[[resp]]
+name = "A Paris :De l'Imprimerie nationale,"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_824161"
+
+[[text]]
+file = "discoursprononce00camb.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00camb.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00camb.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00camb.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"

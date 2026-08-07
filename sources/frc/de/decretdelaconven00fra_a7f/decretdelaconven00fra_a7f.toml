@@ -1,0 +1,68 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "decretdelaconven00fra_a7f"
+type = "pamphlet"
+title = "Décret de la Convention nationale, du 9e. jour du 2e. mois de l'an second de la République française, une et indivisible, qui déclare nuls les jugemens rendus et les poursuites faites relativement aux droits féodaux ou censuels, abolis par le décret du 28 août 1792"
+language = "fr"
+place = "A Paris"
+date = "1793"
+note = "Caption title. At right of title: No. 1915. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages."
+url = "https://archive.org/details/decretdelaconven00fra_a7f"
+subject = [
+    "Land tenure",
+    "Actions and defenses",
+    "Indemnity",
+]
+extent = "[1] p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10333 no. 50"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4rj9kf3z"
+internet_archive = "decretdelaconven00fra_a7f"
+openlibrary_edition = "OL26224835M"
+openlibrary_work = "OL17620161W"
+
+[scan]
+file = "decretdelaconven00fra_a7f.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/decretdelaconven00fra_a7f"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_853113"
+
+[[text]]
+file = "decretdelaconven00fra_a7f.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelaconven00fra_a7f.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

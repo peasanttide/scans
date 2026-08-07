@@ -1,0 +1,91 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "damnistiefav00unse"
+type = "pamphlet"
+title = "Loi d'amnistie en faveur des sous-officiers & soldats qui ont déserté leurs drapeaux avant le 1er. juin 1789, en remplissant par eux les conditions y énoncées : donnée à Paris, le 12 février 1792"
+language = "fr"
+place = "A Paris"
+date = "1793"
+note = """Caption title. At right of title: No. 1526. Signed: Louis; countersigned: M.L.F. DuPort. Imprint from colophon. Variant of Martin & Walter. Révolution française, IV:2, 9143. "Décret ed [i.e. de] l'Assemblée nationale, du 8 février 1792 ..."--P. [1]-3. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/damnistiefav00unse"
+subject = [
+    "Military deserters",
+    "Refugees",
+]
+extent = "4 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10343 no. 5"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2d84gg4b"
+internet_archive = "damnistiefav00unse"
+openlibrary_edition = "OL26230446M"
+openlibrary_work = "OL17625422W"
+
+[scan]
+file = "damnistiefav00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/damnistiefav00unse"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Sovereign (1774-1792 : Louis XVI)"
+role = "author"
+
+[[resp]]
+name = "Louis XVI, King of France, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "Duport-Dutertre, Marguerite-Louis-François, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale législative (1791-1792)"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale exécutive du Louvre"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_857306"
+
+[[text]]
+file = "damnistiefav00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "damnistiefav00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "damnistiefav00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "damnistiefav00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

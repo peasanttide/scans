@@ -1,0 +1,95 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discours00unse_ngy"
+type = "pamphlet"
+title = "Discours de C.A. Prieur (de la Côte-d'Or) prononcé à la séance du 3 germinal, an troisième, immédiatement aprèc [i.e. après] le discours de Carnot, relatif aux trois membres inculpés de l'ancien Comité de salut public."
+language = "fr"
+place = "A Paris"
+date = "1795"
+note = """Caption title. At head of title: Convention nationale. Imprint from colophon. "Imprimé en conséquence des décrets de la Convention nationale"--P. [1]. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  IV:1, 28226. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined.  Damaged, stained, marked and/or loose pages.  Uneven binding.  Skewed text.  Irregular pagination."""
+url = "https://archive.org/details/discours00unse_ngy"
+subject = [
+    "Carnot, Lazare, 1753-1823",
+    "Saint-Just, 1767-1794",
+    "Robespierre, Maximilien, 1758-1794",
+    "France. Convention nationale. Comité de salut public",
+]
+extent = "6 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 24054"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6p03g031"
+internet_archive = "discours00unse_ngy"
+
+[scan]
+file = "discours00unse_ngy.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/discours00unse_ngy"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Prieur-Duvernois, Claude Antoine, 1763-1832"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_848861"
+
+[[text]]
+file = "discours00unse_ngy.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discours00unse_ngy.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discours00unse_ngy.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discours00unse_ngy.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discours00unse_ngy.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discours00unse_ngy.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

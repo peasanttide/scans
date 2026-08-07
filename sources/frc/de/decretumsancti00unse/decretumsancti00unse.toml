@@ -1,0 +1,68 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "decretumsancti00unse"
+type = "pamphlet"
+title = "Decretum Sancti Officii. Feria iv. die 13 Aprilis 1763"
+language = "la"
+place = "Romae"
+date = "1763"
+note = "Caption title. Imprint (also in French) at foot of p. 3. Condemnation of: Ordonnance & instruction pastorale de Monseigneur l'Evêque de Soissons, au sujet des assertions extraites par le Parlement, des livres, thèses, cahiers, composés & dictés par les Jésuites. A Soissons, Chez Ponte Courtois, 1762. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Title page and cover are combined."
+url = "https://archive.org/details/decretumsancti00unse"
+subject = [
+    "Jesuits",
+    "Inquisition",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 7 no. 29"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t04z0x236"
+internet_archive = "decretumsancti00unse"
+
+[scan]
+file = "decretumsancti00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/decretumsancti00unse"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Soissons (Diocese). Bishop (1739-1764 : François Fitz-James)"
+role = "author"
+
+[[resp]]
+name = "Ex Typographia Reverendae Camerae Apostolicae"
+role = "publisher"
+
+[[text]]
+file = "decretumsancti00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "la"
+
+[[text]]
+file = "decretumsancti00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "la"
+
+[[text]]
+file = "decretumsancti00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "la"
+
+[[text]]
+file = "decretumsancti00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "la"

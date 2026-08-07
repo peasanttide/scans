@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discoursprononce00herg"
+type = "pamphlet"
+title = "Discours prononcé devant Sa Majesté /"
+language = "fr"
+place = "France"
+date = "1788"
+note = "Caption title. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged pages and cover."
+url = "https://archive.org/details/discoursprononce00herg"
+subject = [
+    "Nobility",
+    "Royalists",
+]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 19711"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8tb64f52"
+internet_archive = "discoursprononce00herg"
+openlibrary_edition = "OL26203348M"
+openlibrary_work = "OL17599808W"
+
+[scan]
+file = "discoursprononce00herg.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/discoursprononce00herg"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Hergé, Urbain René de, 1726-1795"
+role = "author"
+
+[[resp]]
+name = "Louis XVI, King of France, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_841039"
+
+[[text]]
+file = "discoursprononce00herg.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00herg.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00herg.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00herg.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

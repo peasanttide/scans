@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "decretdelaconven00fran_27"
+type = "pamphlet"
+title = "Décret de la Convention nationale, du 1er août 1793, l'an second de la République française, qui ordonne la confiscation sous huitaine, au profit de la nation, des maisons & autres edifices portant des armoiries"
+language = "fr"
+place = "A Chartres"
+date = "1793"
+note = """Caption title. Signed: Gohier, président du Conseil exécutif provisoire. Imprint from colophon. "No. 1077. Conv. nat."--Bottom of p. [1]. Not in Martin & Walter. Révolution française. Scanner's note: Irregular Pagination. No title page found. No copyright page found. No table-of-contents pages found."""
+url = "https://archive.org/details/decretdelaconven00fran_27"
+subject = ["Real property"]
+extent = "2 p. ; 28 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9676 no. 33"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7zm0g196"
+internet_archive = "decretdelaconven00fran_27"
+openlibrary_edition = "OL26221845M"
+openlibrary_work = "OL17617345W"
+
+[scan]
+file = "decretdelaconven00fran_27.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/decretdelaconven00fran_27"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Gohier, Louis-Jérôme, 1746-1830"
+role = "author"
+
+[[resp]]
+name = "Chez Fr. Durand, imprimeur du département"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_853700"
+
+[[text]]
+file = "decretdelaconven00fran_27.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelaconven00fran_27.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelaconven00fran_27.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelaconven00fran_27.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,69 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "decretdelaconven00fra_z1z"
+type = "pamphlet"
+title = "Décret de la Convention nationale, du 28e. jour de nivôse, an second [17 January 1794] de la République française, une et indivisible, relatif aux fabricans des papiers et propriétaires de papeteries"
+language = "fr"
+place = "A Avignon"
+date = "1794"
+note = "Caption title. Imprint at foot of p. 3. At upper right on p. [1]: No. 2091. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Title page and cover are combined."
+url = "https://archive.org/details/decretdelaconven00fra_z1z"
+subject = ["Paper industry"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 11 no. 39"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0qs0h54m"
+internet_archive = "decretdelaconven00fra_z1z"
+
+[scan]
+file = "decretdelaconven00fra_z1z.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/decretdelaconven00fra_z1z"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Convention nationale"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Chez Alphonse Berenguier"
+role = "publisher"
+
+[[text]]
+file = "decretdelaconven00fra_z1z.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelaconven00fra_z1z.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelaconven00fra_z1z.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelaconven00fra_z1z.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

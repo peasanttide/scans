@@ -1,0 +1,56 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "decretumferia00unse_2"
+type = "pamphlet"
+title = "Decretum. Feria iv. die 13. Aprilis 1763"
+language = "la"
+place = "Romae"
+date = "1763"
+note = "Imprint at foot of leaf. Condemnation of: Ordonnance & instruction pastorale de Monseigneur l'Eveque de Soissons au sujet des assertions extraites par le Parlement ... 1762. Scanner's note: No copyright page found. No table-of-contents pages found. Title and cover pages combined."
+url = "https://archive.org/details/decretumferia00unse_2"
+subject = [
+    "Jesuits",
+    "Inquisition",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 7 no. 30"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0ns6fd2m"
+internet_archive = "decretumferia00unse_2"
+
+[scan]
+file = "decretumferia00unse_2.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/decretumferia00unse_2"
+ppi = 350
+note = "Scanned on fold1.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Soissons (Diocese). Bishop, (1739-1764: François Fitz-James)"
+role = "author"
+
+[[resp]]
+name = "Ex Typographia Reverendae Camerae Apostolicae"
+role = "publisher"
+
+[[text]]
+file = "decretumferia00unse_2.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "la"
+
+[[text]]
+file = "decretumferia00unse_2.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "la"

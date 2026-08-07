@@ -1,0 +1,56 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "declaratio00mara"
+type = "pamphlet"
+title = "Declaratio"
+language = "la"
+date = "1673"
+note = "Caption title. Manuscript on paper (fair copy). Dated 9 January 1673. Scanner's note: No copyright page found. No table-of-contents pages found.   Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Title page and cover are combined."
+url = "https://archive.org/details/declaratio00mara"
+subject = ["Immaculate Conception"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 2 no. 38"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5k98t010"
+internet_archive = "declaratio00mara"
+
+[scan]
+file = "declaratio00mara.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/declaratio00mara"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Marais, Louis,Abbé"
+role = "author"
+
+[[resp]]
+name = "Marais, Louis, Abbé"
+role = "author"
+
+[[resp]]
+name = "[n.p."
+role = "publisher"
+
+[[text]]
+file = "declaratio00mara.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "la"
+
+[[text]]
+file = "declaratio00mara.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "la"

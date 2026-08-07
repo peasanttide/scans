@@ -1,0 +1,100 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "decretdelaconven00fra_nlu"
+type = "pamphlet"
+title = "Décret de la Convention nationale, du 19 juillet 1793, l'an second de la République françoise"
+language = "fr"
+place = "A Épinal"
+date = "1793"
+note = """Caption title. Place of publication and printer statement from colophon. Head-piece at head of title: Departement de Vosges. République française. "No. 1255/No. 1041 de la consignation"--Upper right corner of p. [1]. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Text extends off of the edge of the page. Text may be lost in the binding. Permanent creases may obscure some text. Title page and cover are combined."""
+url = "https://archive.org/details/decretdelaconven00fra_nlu"
+subject = [
+    "Intellectual property",
+    "Copyright",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 2 no. 64"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9d56b201"
+internet_archive = "decretdelaconven00fra_nlu"
+
+[scan]
+file = "decretdelaconven00fra_nlu.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/decretdelaconven00fra_nlu"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Convention nationale"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Haener, Henri"
+role = "printer"
+
+[[resp]]
+name = "De l'imprimerie nationale d'Haener"
+role = "publisher"
+
+[[text]]
+file = "decretdelaconven00fra_nlu.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelaconven00fra_nlu.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelaconven00fra_nlu.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelaconven00fra_nlu.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelaconven00fra_nlu.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelaconven00fra_nlu.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelaconven00fra_nlu.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelaconven00fra_nlu.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

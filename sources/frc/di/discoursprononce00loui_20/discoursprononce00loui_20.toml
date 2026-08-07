@@ -1,0 +1,83 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discoursprononce00loui_20"
+type = "pamphlet"
+title = "Discours prononcé par le roi à l'Assemblée nationale le 14 décembre 1791, en réponse à son message du 29 novembre précédent : imprimé par ordre de l'Assemblée nationale."
+language = "fr"
+place = "Paris"
+date = "1791"
+note = """Caption title. Imprint from colophon. "Diplomatie, 6"--Bottom of p. [1]. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  III, 21788. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/discoursprononce00loui_20"
+subject = [
+    "Joseph II, Holy Roman Emperor, 1741-1790",
+    "Executive-legislative relations",
+]
+extent = "4 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 21585"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0tr1593r"
+internet_archive = "discoursprononce00loui_20"
+openlibrary_edition = "OL26239589M"
+openlibrary_work = "OL17634129W"
+
+[scan]
+file = "discoursprononce00loui_20.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/discoursprononce00loui_20"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Louis XVI, King of France, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale législative (1791-1792)"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_845026"
+
+[[text]]
+file = "discoursprononce00loui_20.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00loui_20.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00loui_20.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00loui_20.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

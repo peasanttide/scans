@@ -1,0 +1,44 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: decretconvent00unse_70
+page: 1
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 3022
+h: 4039
+dpi: 350
+---
+
+» >^ *-»sr"7ry 1 *?* . * « 1
+
+décret
+
+DELA
+
+CONVENTION NATIONALE,
+
+Du 3 i Mars 1793, i’an fécond de la république Françoife,
+
+Qz/i fufpend pendant la guerre le Droit de Fret nnpofe
+fur les navires Génois, if autres employés au tranfport
+des Grains en France.
+
+La Convention nationale, après avoir entendu
+la le&ure de la lettre du miniftre de l'intérieur , fur la
+demande de la municipalité de Toulon, décrété que le
+droit de fret de fept livres dix fous par tonneau de mer,
+impofé fur les navires Génois , Tofcans, Romains, Vénitiens
+& Ragufois employés au tranfport des grains en France,
+eft fufpendu pendant tout le temps que durera la guerre.
+
+Collationné à l’original , par nous préfident & Secrétaires de la
+Convention nationale. A Paris, le 3 avril 1793» i an
+fécond delà république Françoife. Signé BRÉARD , préfident ;
+J. Ph. Garran & J, B. Boyer-Fonfrède, fecrétaires
+
+Au NOM DE LA République, le Confeil exécutif
+provifoire mande & ordonne à tous les Corps adminiftratifs &
+Tribunaux, que la préfente loi ils iaffent configner dans leurs
+regiltres , lire , publier & afficher , & exécuter dans leurs
+
+Jk

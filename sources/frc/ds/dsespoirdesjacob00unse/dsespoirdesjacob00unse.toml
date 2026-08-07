@@ -1,0 +1,68 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "dsespoirdesjacob00unse"
+type = "pamphlet"
+title = "Désespoir des Jacobins : et leur départ pour les frontières."
+language = "fr"
+place = "Paris"
+date = "1792"
+note = "Caption title. Imprint from colophon. Martin & Walter IV 2: 5342. Scanner's note: No copyright. No table of contents. Title on cover. Damaged, stained pages and cover."
+url = "https://archive.org/details/dsespoirdesjacob00unse"
+subject = ["Jacobins"]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 2997"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4qk2g165"
+internet_archive = "dsespoirdesjacob00unse"
+openlibrary_edition = "OL26209252M"
+openlibrary_work = "OL17605504W"
+
+[scan]
+file = "dsespoirdesjacob00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/dsespoirdesjacob00unse"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "De l'imprimerie de Remy"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_50982"
+
+[[text]]
+file = "dsespoirdesjacob00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dsespoirdesjacob00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dsespoirdesjacob00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dsespoirdesjacob00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

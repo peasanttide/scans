@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "decretdelaconven00fra_f1v"
+type = "pamphlet"
+title = "Décret de la Convention nationale, du 21e. jour du 1er. mois de l'an 2e. de la République française, une et indivisible, qui ordonne de faire retourner les plaques de cheminées ou contre-feux portant des signes de féodalité"
+language = "fr"
+place = "A Paris"
+date = "1793"
+note = "Caption title. At right of title: No. 1710. Signed: Deforgues; countersigned: Gohier. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages."
+url = "https://archive.org/details/decretdelaconven00fra_f1v"
+subject = [
+    "Regalia (Insignia)",
+    "Fireplaces",
+    "Chimneys",
+]
+extent = "1 p. ; 23 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10333 no. 19"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t11p37282"
+internet_archive = "decretdelaconven00fra_f1v"
+openlibrary_edition = "OL26225345M"
+openlibrary_work = "OL17620670W"
+
+[scan]
+file = "decretdelaconven00fra_f1v.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/decretdelaconven00fra_f1v"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Deforgues, François-Louis-Michel Chemin, 1759-1840"
+role = "author"
+
+[[resp]]
+name = "Gohier, Louis-Jérôme, 1746-1830"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_853083"
+
+[[text]]
+file = "decretdelaconven00fra_f1v.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelaconven00fra_f1v.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discoursprononce00rest"
+type = "pamphlet"
+title = "Discours prononcé par M. de Reste, vice-président du district des Prémontrés, à la rentrée de M. Beauvais de Préau, président dudit district, après sa guérison des suites de l'assassinat commis en sa personne la nuit du 16 au 17 novembre 1789"
+language = "fr"
+place = "France"
+date = "1789"
+note = "Caption title. At head of title: Distric[t] des Premontres 1789. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française, IV:1, 29070. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained and/or loose pages. Uneven binding. Skewed text. Text on back cover is upside-down."
+url = "https://archive.org/details/discoursprononce00rest"
+subject = ["Beauvais, C.-N. (Charles-Nicolas), 1745-1794"]
+extent = "3 p. ; 25 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 27138"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5bc93t2f"
+internet_archive = "discoursprononce00rest"
+openlibrary_edition = "OL26227122M"
+openlibrary_work = "OL17622349W"
+
+[scan]
+file = "discoursprononce00rest.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/discoursprononce00rest"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Reste, Bernard de"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_867777"
+
+[[text]]
+file = "discoursprononce00rest.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00rest.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00rest.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00rest.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

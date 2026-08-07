@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "declarationduroy00fran_32"
+type = "pamphlet"
+title = "Declaration du roy, qui suspend toutes les disputes, contestations & differends qui se sont formez dans le royaume"
+language = "fr"
+date = "1717"
+note = """Caption title. Imprint and imprint date at foot of p. 4. The Constitution referred to is the Papal bull Unigenitus. The Reflexions morales is part of Quesnel's French translation of the New Testament. "Prononcé à Toulouse en Parlement, le 27. octobre 1717.". An effort to suppress the disputes occasioned by Pope Clement XI's bull Unigenitus, condemning 101 Jansenist propostions in p. Quesnel's Le Nouveau Testament en françois, avec des reflexions morales sur chaque verset."""
+url = "https://archive.org/details/declarationduroy00fran_32"
+subject = [
+    "Quesnel, Pasquier, 1634-1719",
+    "Catholic Church. Pope (1700-1721 : Clement XI)",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 3 no. 82"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t12p0r46c"
+internet_archive = "declarationduroy00fran_32"
+
+[scan]
+file = "declarationduroy00fran_32.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/declarationduroy00fran_32"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France"
+role = "author"
+
+[[resp]]
+name = "France. Parlement (Toulouse)"
+role = "author"
+
+[[resp]]
+name = "France. Sovereign (1715-1774 : Louis XV)"
+role = "author"
+
+[[resp]]
+name = "[Toulouse?"
+role = "publisher"
+
+[[text]]
+file = "declarationduroy00fran_32.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "declarationduroy00fran_32.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "declarationduroy00fran_32.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "declarationduroy00fran_32.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

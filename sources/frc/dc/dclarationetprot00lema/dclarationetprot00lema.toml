@@ -1,0 +1,71 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "dclarationetprot00lema"
+type = "pamphlet"
+title = "Déclaration et protestations"
+language = "fr"
+place = "s.l."
+date = "1788"
+note = "Caption title. Without imprint. Dated at beginning: Le vingt-quatri`eme jour de novembre mil sept cent sept [sic] quatre-vingt-huit .. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages. No page numbers. Text is lost in the binding."
+url = "https://archive.org/details/dclarationetprot00lema"
+extent = "[3] p. ; 23 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9724"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6547tt0q"
+internet_archive = "dclarationetprot00lema"
+openlibrary_edition = "OL26223297M"
+openlibrary_work = "OL17618758W"
+
+[scan]
+file = "dclarationetprot00lema.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/dclarationetprot00lema"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Le Mans (France)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_68267"
+
+[[text]]
+file = "dclarationetprot00lema.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dclarationetprot00lema.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dclarationetprot00lema.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dclarationetprot00lema.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

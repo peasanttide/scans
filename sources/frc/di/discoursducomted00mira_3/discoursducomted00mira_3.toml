@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discoursducomted00mira_3"
+type = "pamphlet"
+title = "Discours du comte de Mirabaue [sic], dans la séance de ce matin 11 juin, sur la mort de Benjamin Franklin."
+language = "fr"
+place = "France"
+date = "1790"
+note = "Caption title. Suggested date of publication based on another edition, published in 1790. Cf. Martin & Walter. Martin & Walter. Révolution française. Proposes that the Assemblée nationale observe three days of mourning for Franklin. An addendum, p. 3, notes that the proposal was adopted. Bibliography: Martin & Walter.  Révolution française,  III, 24503. Scanner's note: Title page and cover are combined. Damaged, stained, marked and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/discoursducomted00mira_3"
+subject = ["Franklin, Benjamin, 1706-1790"]
+extent = "3 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 22629"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6j159r07"
+internet_archive = "discoursducomted00mira_3"
+openlibrary_edition = "OL26240563M"
+openlibrary_work = "OL17635086W"
+
+[scan]
+file = "discoursducomted00mira_3.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/discoursducomted00mira_3"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Mirabeau, Honoré-Gabriel de Riquetti, comte de, 1749-1791"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_846546"
+
+[[text]]
+file = "discoursducomted00mira_3.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursducomted00mira_3.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursducomted00mira_3.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursducomted00mira_3.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

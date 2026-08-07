@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discoursprononce00lieu"
+type = "pamphlet"
+title = "Discours prononcé par M. J.F. Lieutaud, commandant-général de la Garde nationale de Marseille, à la tribune de l'Assemblée patriotique, le 21 juin 1790."
+language = "fr"
+place = "A Marseille"
+date = "1790"
+note = "Caption title. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  III, 21520. Scanner's note: No copyright page found. No table-of-contents pages found. Title page and cover are combined. Damaged, stained and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/discoursprononce00lieu"
+subject = ["Lieutaud, Jean François"]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 21377"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1ck3nk5c"
+internet_archive = "discoursprononce00lieu"
+openlibrary_edition = "OL26239652M"
+openlibrary_work = "OL17634192W"
+
+[scan]
+file = "discoursprononce00lieu.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/discoursprononce00lieu"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Lieutaud, Jean François"
+role = "author"
+
+[[resp]]
+name = "Mossy, Jean, d. 1792"
+role = "publisher"
+
+[[resp]]
+name = "Marseille (France). Assemblée patriotique"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de J. Mossy, père & fils, imprimeurs de la nation, du roi & de la ville"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_844493"
+
+[[text]]
+file = "discoursprononce00lieu.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00lieu.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00lieu.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursprononce00lieu.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

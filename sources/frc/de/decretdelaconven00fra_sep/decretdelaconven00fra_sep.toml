@@ -1,0 +1,82 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "decretdelaconven00fra_sep"
+type = "pamphlet"
+title = "Décret de la Convention nationale, du 13e. jour du floréal, l'an deuxième de la République française, une et indivisible, qui ordonne un sursis à la vente des biens de ceux qui prétendent avoir été mal-à-propos compris dans la liste des émigrés"
+language = "fr"
+place = "A Paris"
+date = "1794"
+note = """
+Caption title. At right of title: No. 2338. Signed: Voulland, ex-président; Ch. Pottier et Ruelle, secrétaires. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover. 
+No page numbers."""
+url = "https://archive.org/details/decretdelaconven00fra_sep"
+subject = [
+    "Judicial error",
+    "Refugees",
+    "Government sale of real property",
+]
+extent = "[1] p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10334 no. 77"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9x11788q"
+internet_archive = "decretdelaconven00fra_sep"
+openlibrary_edition = "OL26225603M"
+openlibrary_work = "OL17620919W"
+
+[scan]
+file = "decretdelaconven00fra_sep.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/decretdelaconven00fra_sep"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Voulland, Jean-Henri, 1751-1801"
+role = "author"
+
+[[resp]]
+name = "Pottier, Charles Albert, 1755-1829"
+role = "author"
+
+[[resp]]
+name = "Ruelle, Albert François, 1754-1805"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_851972"
+
+[[text]]
+file = "decretdelaconven00fra_sep.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelaconven00fra_sep.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

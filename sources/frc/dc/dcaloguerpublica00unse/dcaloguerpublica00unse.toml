@@ -1,0 +1,68 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "dcaloguerpublica00unse"
+type = "pamphlet"
+title = "Décalogue républicain."
+language = "fr"
+place = "Paris"
+date = "1793"
+note = """Caption title. Imprint from colophon. In verse. First two lines: Au peuple seul tu jureras / D'obéir religieusement. "Les commandemens révolutionnaires de la Montagne": p.2-3. Not in Martin & Walter. Scanner's note: No title page found. No copyright page found. No table-of-contents pages found."""
+url = "https://archive.org/details/dcaloguerpublica00unse"
+subject = ["Montagnards"]
+extent = "3 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 2741"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8z948s0x"
+internet_archive = "dcaloguerpublica00unse"
+openlibrary_edition = "OL26209378M"
+openlibrary_work = "OL17605632W"
+
+[scan]
+file = "dcaloguerpublica00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/dcaloguerpublica00unse"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "De l'imprimerie d'Auguste Mossy"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_43795"
+
+[[text]]
+file = "dcaloguerpublica00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dcaloguerpublica00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dcaloguerpublica00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dcaloguerpublica00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

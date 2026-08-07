@@ -1,0 +1,52 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: decretdelaconven00fra_a7f
+page: 1
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 3025
+h: 4362
+dpi: 350
+---
+
+^A g »\ «^p» Ki. ir iJ E ux«iw>4ü > w
+
+DECHET
+
+DELA
+
+CONVENTION NATIONALE,
+
+Du g.® jour du 2.® mois de l’an second delà rvépubllque Française, une et indivisible ,
+
+Qui déclare nids Les Jugemens rendus et les Poursuites faites fela^
+tivcnient aux Droits Féodaux ou Censueis , abolis par le Décret
+du 28 Août 1792.
+
+T
+
+iAA Convention nationale, après avoir ontendu le rapport de
+son ccmké de législation , décrète ce qui suit :
+
+Art. D"' Tous jugemens sur les procès intentés relativement aux
+droits féodaux ou censuels, fixes et casuels, abolis sans indemnité, soit
+par le décret du 28 août 179^, soit par les lois antérieures rendues
+postérieurement à la promulgation dudit décret, ensemble les pour-
+suites faites en exécution de ces jugemens, sont nuis et comme non
+avenus.
+
+IL I .es frais de finstruction postérieurs à ladite promulgation ,
+sont à la charge des avoués qui les ont faits.
+
+lîL II est défendu aux juges, à peine de forfaiture, de prononcer
+sur les instances indécises , lorsqu’elles sont expressément anéanties
+par la loi.
+
+Visé -pur VinspecLeurs^é^è Cordif.r.
+
+Collationné à l’original , par nous président et secrétaires de la Convention nationale.
+A Paris, le 2 Frimaire , an second de la Rcpublicpie, nue et indivisible. Signé G.
+
+R OHMS, président : Reverchon et Roger Ducos , secrétaires.
+
+A Paris, de rimprimerie du Dépôt des Lois.

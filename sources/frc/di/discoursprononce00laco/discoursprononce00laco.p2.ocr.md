@@ -1,0 +1,45 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: discoursprononce00laco
+page: 2
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 2527
+h: 4519
+dpi: 500
+---
+
+( 2 )
+
+facrifices pécuniaires, je viens lui faire hommage de'
+ma perfonne. Née avec le courage d’une Romaine
+ôc la haine des tyrans , je me tiendrois’heureufe de
+contribuer à leur deftrudlon. Périffe jufqu’au dernier
+defpote ! intrigans , vils efclaves des Néron ôc des
+Caligula 5 puifle-je tous vous anéantir ! Ôc vous mères
+de famille que je blâmerois de quitter vos enfans
+pour fuivre mon exemple , pendant que je ferai mon
+devoir en combattant les ennemis de la patrie , rem-
+plilTez le vôtre en inculquant à vos enfans les fenti-
+mens que tout Français doit avoir en naiflant, l’amour
+de la liberté ôc l’horreur des defpotes. Ne perdez ja-
+mais de vue que , fans les vertus de yéturie^Rome
+auroit été privée du grand Coriolan.
+
+Légiflateurs , vous avez déclaré la patrie en dan-
+ger, mais ce n’efl: pas aflez: deflituez de leurs pou-
+voirs ceux qui feuls ont fait naître ce danger Ôc ont
+juré la perte de la France. Pouvez -vous laifler à la
+tête de nos armées ce perfide Catilina, excufable feu-
+lement aux yeux de ceux dont il a voulu fervir les
+infâmes projets ?. que tardez-vous pour lancer le dé-
+cret d’accufation contre lui ? Attendrez-vous que les
+ennemis , à qui tous les jours il fait livrer nos villes ,
+arrivent dans le fénat pour le détruire par la hache ôc
+le feu? Vous n’avez qu’à garder encore quelques
+jours un coupable filence , ôc bientôt vous les verrez
+dans votre enceinte. îi en efl encore temps , Légif-
+lateurs 5 élevez - vous à la hauteur qui vous appar-
+tient ; nommez des chefs à qui nous puiffions donner
+notre confiance ; dites un mot, un feul mot ôc les
+ennemis difparoîtront. Signé F. Lacombe.

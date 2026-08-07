@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "discoursducitoye00dubo"
+type = "pamphlet"
+title = "Discours du citoyen Dubois de Crancé, prononcé à la Société des Jacobins, amis de la liberté et de l'égalité."
+language = "fr"
+place = "Paris"
+date = "1792"
+note = """Caption title. Imprint from colophon. Place of publication from Martin & Walter. "Fait le 31 octobre 1792, l'an premier de la République française."--P. 4. Against the projected law "contre les provocateurs aux assasinats.". Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  II, 11162. Scanner's note: No copyright page found. No table-of-contents pages found. Damaged, stained pages and cover. Title on cover."""
+url = "https://archive.org/details/discoursducitoye00dubo"
+subject = [
+    "Sedition",
+    "Political violence",
+]
+extent = "4 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 17656"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0ps2rh10"
+internet_archive = "discoursducitoye00dubo"
+openlibrary_edition = "OL26193586M"
+openlibrary_work = "OL17590354W"
+
+[scan]
+file = "discoursducitoye00dubo.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/discoursducitoye00dubo"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Dubois de Crancé, Edmond-Louis-Alexis, 1746-1814"
+role = "author"
+
+[[resp]]
+name = "Société des amis de la liberté et de l'égalité"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Mayer et Compagnie, rue Saint-Martin, no. 219"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_836460"
+
+[[text]]
+file = "discoursducitoye00dubo.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursducitoye00dubo.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursducitoye00dubo.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "discoursducitoye00dubo.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

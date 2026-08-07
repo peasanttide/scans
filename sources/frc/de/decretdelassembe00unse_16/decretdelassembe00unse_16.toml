@@ -1,0 +1,83 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "decretdelassembe00unse_16"
+type = "pamphlet"
+title = "Décret de l'Assemblée nationale, du vingt-cinq juin mil sept cent quatre-vingt-onze"
+language = "fr"
+place = "A Rouen"
+date = "1791"
+note = """Caption title. Imprint from colophon. Text begins: L'Assemblée nationale, après avoir entendu le rapport de son Comité de Constitution .. Not in Martin & Walter. Révolution française. "A Rouen, en Directoire ... "--P. 4. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained and/or loose pages. Skewed text."""
+url = "https://archive.org/details/decretdelassembe00unse_16"
+subject = [
+    "Louis XVI, King of France, 1754-1793",
+    "Guards troops",
+    "Political crimes and offenses",
+    "Executive power",
+]
+extent = "4 p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC suppl. 96 no. 18"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1ck3mf0r"
+internet_archive = "decretdelassembe00unse_16"
+
+[scan]
+file = "decretdelassembe00unse_16.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/decretdelassembe00unse_16"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "Le Boullenger, Jacques-Joseph-Jean-Baptiste, b. 1740"
+role = "publisher"
+
+[[resp]]
+name = "Rouen (France). Directoire"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de J.J. Le Boullenger, imprimeur du département de la Seine Inférieure, rue du Grand-Maulévrier"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_861666"
+
+[[text]]
+file = "decretdelassembe00unse_16.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelassembe00unse_16.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelassembe00unse_16.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelassembe00unse_16.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

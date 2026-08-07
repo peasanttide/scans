@@ -1,0 +1,83 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "decretdelassemble00unse"
+type = "pamphlet"
+title = "Décret de l'Assemblée nationale, du vingt-un juin mil sept cent quatre-vingt-onze"
+language = "fr"
+place = "A Rouen"
+date = "1791"
+note = """Caption title. Imprint from colophon. Text begins: L'Assemblée nationale voulant prévenir les maux qui pourroient résulter de l'envoi .. Not in Martin & Walter. Révolution française. "A Rouen, en Directoire ..."--P. 3. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained and/or loose pages. Skewed text."""
+url = "https://archive.org/details/decretdelassemble00unse"
+subject = [
+    "Formalities (Law)",
+    "Seals (Law)",
+]
+extent = "3 p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC suppl. 96 no. 1"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t38109j3s"
+internet_archive = "decretdelassemble00unse"
+openlibrary_edition = "OL26234970M"
+openlibrary_work = "OL17629552W"
+
+[scan]
+file = "decretdelassemble00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/decretdelassemble00unse"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "Le Boullenger, Jacques-Joseph-Jean-Baptiste, b. 1740"
+role = "publisher"
+
+[[resp]]
+name = "Rouen (France). Directoire"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de J.J. Le Boullenger, imprimeur du département de la Seine Inférieur, rue du Grand-Maulévrier"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_73788"
+
+[[text]]
+file = "decretdelassemble00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelassemble00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelassemble00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretdelassemble00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

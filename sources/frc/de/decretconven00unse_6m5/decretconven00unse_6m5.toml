@@ -1,0 +1,85 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "decretconven00unse_6m5"
+type = "pamphlet"
+title = "Décret de la Convention nationale, du 28 juillet 1793, l'an second de la République françoise, qui ordonne à ceux qui possèdent des croix dites de Saint-Louis & de tout ordre royaliste, de les déposer à leur municipalité, ainsi que leurs brevets"
+language = "fr"
+place = "A Paris"
+date = "1793"
+note = """
+Caption title. At right of title: No. 1293. Signed: Gohier, président du Conseil executif provisoire. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover. 
+Only one numbered page."""
+url = "https://archive.org/details/decretconven00unse_6m5"
+subject = [
+    "Ordre de Saint-Louis",
+    "Orders of knighthood and chivalry",
+]
+extent = "2 p. ; 28 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10331 no. 74"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5p89dh64"
+internet_archive = "decretconven00unse_6m5"
+openlibrary_edition = "OL26225604M"
+openlibrary_work = "OL17620920W"
+
+[scan]
+file = "decretconven00unse_6m5.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/decretconven00unse_6m5"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Gohier, Louis-Jérôme, 1746-1830"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale exécutive du Louvre"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_851577"
+
+[[text]]
+file = "decretconven00unse_6m5.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretconven00unse_6m5.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretconven00unse_6m5.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretconven00unse_6m5.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

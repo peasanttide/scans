@@ -1,0 +1,82 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "dclaration00risf"
+type = "pamphlet"
+title = "Déclaration /"
+language = "fr"
+place = "Paris"
+date = "1789"
+note = "Caption title. Imprint from colophon. Condemnation of a pamphlet with title: Adresse aux soixante districts de la ville de Paris, par les officiers & bons soldats citoyens du bataillon de la Garde nationale de Ris. Martin & Walter IV 2: 16189 (which supplies the date: 1789). Scanner's note: No copyright page found. No table-of-contents pages found. Title is on cover page. Damaged, stained and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/dclaration00risf"
+subject = ["Ris (France). Garde nationale"]
+extent = "6 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 8073"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3wt3sd3f"
+internet_archive = "dclaration00risf"
+
+[scan]
+file = "dclaration00risf.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/dclaration00risf"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Ris (France). Citizens"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Moutard"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_101720"
+
+[[text]]
+file = "dclaration00risf.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dclaration00risf.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dclaration00risf.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dclaration00risf.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dclaration00risf.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "dclaration00risf.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

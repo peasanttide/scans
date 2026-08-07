@@ -1,0 +1,77 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "descriptiondesar00mout"
+type = "pamphlet"
+title = "Description des arts et métiers"
+language = "fr"
+place = "Paris"
+date = "1780"
+note = """Catalog listing individual volumes of "Description des arts et métiers", issued by the Académie royal des sciences, 1761-1789, and sold by Moutard. Caption title. Volumes listed as "sous presse" on p. [4] were published in 1780. "Le prix des cahiers séparés est diminué de deux cinquiemes, & celui de la collection entiere est réduit à moitié, & n'est que de 639 liv. pour les 86 cahiers"--P. [1]. Original and new discounted prices in parallel columns. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Title page and cover are combined."""
+url = "https://archive.org/details/descriptiondesar00mout"
+subject = [
+    "Moutard, Nicolas-Léger, b. 1742?",
+    "Description des arts et métiers",
+    "Booksellers and bookselling",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1a no. 117"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8ff9g092"
+internet_archive = "descriptiondesar00mout"
+
+[scan]
+file = "descriptiondesar00mout.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/descriptiondesar00mout"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Moutard, Nicolas-Léger,b. 1742?"
+role = "author"
+
+[[resp]]
+name = "Moutard, Nicolas-Léger, b. 1742?"
+role = "author"
+
+[[resp]]
+name = "Académie royale des sciences (France)"
+role = "author"
+
+[[resp]]
+name = "Chez Moutard, libraire-imprimeur de la reine & de l'Académie royale des sciences, rue des Mathurins, Hôtel de Cluny"
+role = "publisher"
+
+[[text]]
+file = "descriptiondesar00mout.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "descriptiondesar00mout.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "descriptiondesar00mout.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "descriptiondesar00mout.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

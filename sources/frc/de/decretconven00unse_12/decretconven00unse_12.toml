@@ -1,0 +1,90 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "decretconven00unse_12"
+type = "pamphlet"
+title = "Décret de la Convention nationale, du 28 avril 1793, l'an second de la République françoise, qui attribue aux régisseurs des douanes nationales, la perception des droits de feux, phares & balisage"
+language = "fr"
+place = "A Paris"
+date = "1793"
+note = """
+Décret de la Convention nationale. Caption title. At right of title: No. 812. Signed: Claviere; countersigned: Gohier. Imprint from colophon. Not in Martin & Walter. Révolution française. Date cancelled and changed to 3 mai in ms. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover. 
+No page numbers."""
+url = "https://archive.org/details/decretconven00unse_12"
+subject = [
+    "Customs administration",
+    "Aids to navigation",
+    "Tax administration and procedure",
+]
+extent = "2 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10330 no. 74"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t13n78v4n"
+internet_archive = "decretconven00unse_12"
+openlibrary_edition = "OL26225276M"
+openlibrary_work = "OL17620602W"
+
+[scan]
+file = "decretconven00unse_12.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/decretconven00unse_12"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Clavière, Étienne, 1735-1793"
+role = "author"
+
+[[resp]]
+name = "Gohier, Louis-Jérôme, 1746-1830"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale exécutive du Louvre"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_852549"
+
+[[text]]
+file = "decretconven00unse_12.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretconven00unse_12.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretconven00unse_12.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "decretconven00unse_12.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
