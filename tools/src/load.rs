@@ -241,6 +241,7 @@ pub struct Resolved {
     pub scan_file: Option<Prov<String>>,
     pub scan_by: Option<Prov<String>>,
     pub scan_url: Option<Prov<String>>,
+    pub scan_ppi: Option<Prov<i64>>,
     /// Self only. Never inherited.
     pub scan_count: Option<i64>,
     /// Self only. Never inherited.
@@ -477,8 +478,13 @@ pub fn id_is_valid(id: &str) -> bool {
 /// satisfying [`id_is_valid`] is `W105`, a warning — underscores survive on `.jp2` filenames
 /// and someone will eventually paste one in.
 pub fn id_is_preferred(id: &str) -> bool {
+    // Underscore is a group separator as well as hyphen, because an Internet Archive
+    // identifier uses it: `procesverbal00_1_0` and `case_oversize_frc_27598` are the handles
+    // archive.org publishes and everyone else cites. Ruling them out of house style would
+    // mean 1,263 warnings that say nothing a reader can act on, which is how a warning
+    // channel stops being read.
     !id.is_empty()
-        && id.split('-').all(|part| {
+        && id.split(['-', '_']).all(|part| {
             !part.is_empty()
                 && part
                     .chars()
@@ -815,6 +821,9 @@ fn discover(root: &Path) -> anyhow::Result<Vec<PathBuf>> {
         if name.starts_with('.') || CONFIG_FILES.contains(&name.as_ref()) {
             continue;
         }
+        // Note there is no guard here against the OCR sidecars: they are `.ocr.md`, and this
+        // walk only considers `.toml`, so they are never candidates for being read as
+        // records. They are reached through the `[[text]]` that points at them.
         out.push(entry.into_path());
     }
     out.sort();
@@ -1015,6 +1024,11 @@ fn resolve_inheritance(nodes: &[Node], id: NodeId) -> Resolved {
             take(&mut out.scan_file, node, scan.file.as_deref());
             take(&mut out.scan_by, node, scan.by.as_deref());
             take(&mut out.scan_url, node, scan.url.as_deref());
+            if out.scan_ppi.is_none()
+                && let Some(ppi) = scan.ppi
+            {
+                out.scan_ppi = Some(prov(node, ppi));
+            }
         }
     }
 

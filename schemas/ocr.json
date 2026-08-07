@@ -1,0 +1,45 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "additionalProperties": false,
+  "description": "One <id>.ocr.toml: word-level OCR losslessly equivalent to a DjVu XML derivative. Generated from the Rust types in tools/src/ocr.rs by `scans schema` - do not edit by hand.",
+  "properties": {
+    "dpi": {
+      "description": "Resolution the page was scanned at.",
+      "format": "int64",
+      "type": "integer"
+    },
+    "engine": {
+      "description": "Producing agent and version, e.g. `ABBYY FineReader 11.0`.",
+      "type": "string"
+    },
+    "h": {
+      "description": "Pixel height of the page image.",
+      "format": "int64",
+      "type": "integer"
+    },
+    "lang": {
+      "description": "BCP-47 code of the text, when known.",
+      "type": "string"
+    },
+    "of": {
+      "description": "Id of the record this page belongs to.",
+      "type": "string"
+    },
+    "page": {
+      "description": "1-based page index within the scanned container, matching `.pN` addressing.",
+      "format": "int64",
+      "type": "integer"
+    },
+    "w": {
+      "description": "Pixel width of the page image.",
+      "format": "int64",
+      "type": "integer"
+    }
+  },
+  "required": [
+    "of",
+    "page"
+  ],
+  "title": "Word-level OCR sidecar",
+  "type": "object"
+}

@@ -1,3 +1,19 @@
+---
+license: odbl
+language:
+  - fr
+  - la
+  - en
+tags:
+  - french-revolution
+  - ocr
+  - primary-sources
+  - digital-humanities
+pretty_name: Scans — primary sources of the French Revolution
+size_categories:
+  - 10K<n<100K
+---
+
 # scans
 
 Scans of primary sources from the French Revolution.
@@ -44,6 +60,12 @@ are inherited down the `of` chain; `date`, `title`, `note`, `url` and `[[page]]`
 
 ```
 sources/
+  frc/                                      the Newberry French Revolution Collection
+    ab/abondance00unse/
+      abondance00unse.toml                  source, one per Internet Archive item
+      abondance00unse.p1.ocr.md             OCR, one file per page
+      abondance00unse.pdf                   the scan
+    …38,377 items across ~700 two-character shards
   journal-de-paris/
     journal-de-paris.toml                   source
     1789/
@@ -58,6 +80,7 @@ sources/
     verniquet-1795.toml                     source, 73 sheets inline
     verniquet_00.jp2 … verniquet_72.jp2
 schemas/source.json                         GENERATED from tools/src/model.rs
+schemas/ocr.json                            GENERATED from tools/src/ocr.rs
 tools/                                      the `scans` CLI
 docs/                                       the design spec
 ```
@@ -118,6 +141,94 @@ toolchain to install.
 Each record carries a `#:schema` directive on its first line, which is what gets it validated
 in an editor. See `schemas/README.md` — the alternative, an editor schema association, was
 tested and silently does nothing.
+
+## OCR
+
+Word-level OCR lives in a sidecar beside the record it belongs to, one markdown file per
+scanned page, reached through the `[[text]]` that points at it.
+
+```markdown
+---
+of: 1789iemilseptcen00unse
+page: 6
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 2597
+h: 4418
+dpi: 500
+---
+
+<the page's text>
+```
+
+Frontmatter says which page of what, and how big the image is. The body is the page. That is
+the whole format.
+
+**Scalars are bare unless they would lie.** `lang: fr`, not `lang: "fr"` — the frontmatter is
+meant to read as YAML. But `no` is the ISO 639-1 code for Norwegian and, to every YAML 1.1
+parser, the boolean false; a Python user loading that with PyYAML gets `False`. So a value is
+written bare when it round-trips as itself and quoted when it would not, which keeps the
+common case clean and the pathological case correct.
+
+**What is deliberately not here:** word boxes, per-word confidence, baselines, and DjVu's
+nesting. An earlier version carried all of it and could write the source XML back out
+unchanged. The boxes were seven eighths of the bytes — 8.3 GB against about 1.2 GB for the
+text — and were not being used. Nothing is destroyed by that: the coordinates are still in
+`XML_for_OCR/` in [frc-data](https://github.com/NewberryDIS/frc-data), one clone away, so a
+later version that wants them can have them without asking archive.org for anything.
+
+```sh
+cargo run -- ocr import x_djvu.xml --out ./pages
+cargo run -- ocr check sources/frc/ab/abondance00unse
+```
+
+## The French Revolution Collection
+
+38,377 Internet Archive items from the Newberry Library, listed by
+[NewberryDIS/frc-data](https://github.com/NewberryDIS/frc-data). Records and OCR come from a
+local clone of that repository; only the PDFs are fetched.
+
+```sh
+git clone --filter=blob:none --no-checkout https://github.com/NewberryDIS/frc-data.git
+cd frc-data && git sparse-checkout set --cone Metadata XML_for_OCR && git checkout master
+
+cargo run --release -- frc ingest --frc-data ../frc-data      # records + OCR, ~3 minutes
+cargo run --release --features fetch -- frc fetch             # the PDFs, ~21 hours
+```
+
+`frc fetch` makes one request at a time, a second apart, with a `User-Agent` naming this
+repository, and verifies every download against the size and MD5 archive.org publishes for
+it. It resumes from what is already on disk, so it can be killed at any moment.
+
+## Licence
+
+The **database** — the records, the OCR sidecars, the structure and the addresses — is under
+the [Open Database License](https://opendatacommons.org/licenses/odbl/) (ODbL 1.0). Use it,
+adapt it, build on it; if you publish a derived database, share it alike and keep the
+attribution.
+
+The **contents are a separate question, and mostly not ours to license.** Every work here is
+an 18th-century imprint or a 19th-century study of one, long out of copyright everywhere, and
+the digitisations are published as public domain by the institutions that made them. Each
+record says so for itself:
+
+```toml
+[rights]
+work        = "PD-old-100-expired"
+scan        = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+```
+
+So: quoting a pamphlet, reprinting a page image, or lifting one item's OCR carries no
+obligation from us — that material is public domain and stays public domain. ODbL bites on
+the *collection*: the selection, the identifiers, the metadata mapping and the structured OCR
+taken together. That distinction is the point of using a database licence rather than a
+content one, and it is why the per-record `[rights]` fields are not redundant with this
+section.
+
+Scans and metadata originate with the [Newberry Library](https://www.newberry.org/) and the
+[Internet Archive](https://archive.org/), and the item list comes from
+[NewberryDIS/frc-data](https://github.com/NewberryDIS/frc-data).
 
 ## Design
 

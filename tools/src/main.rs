@@ -11,8 +11,7 @@ use scans::model;
 use scans::render::Grid;
 use scans::{ingest, migrate, render, validate};
 
-/// Path of the generated schema, relative to the repository root.
-const SCHEMA_PATH: &str = "schemas/source.json";
+use scans::SCHEMA_PATH;
 
 #[derive(Debug, Parser)]
 #[command(
@@ -41,6 +40,98 @@ enum Command {
     Render(RenderArgs),
     /// Write out the images stored on cited pages, without rasterising the page.
     Extract(ExtractArgs),
+    /// Convert, check and export the word-level OCR sidecars.
+    Ocr(OcrArgs),
+    /// Ingest the Newberry French Revolution Collection.
+    Frc(FrcArgs),
+}
+
+#[derive(Debug, Args)]
+struct FrcArgs {
+    #[command(subcommand)]
+    command: FrcCommand,
+}
+
+#[derive(Debug, Subcommand)]
+enum FrcCommand {
+    /// Write records and OCR sidecars from a local frc-data checkout.
+    ///
+    /// Touches no network: the item list, the catalogue metadata and the word-level OCR are
+    /// all in frc-data. Only the PDFs have to be fetched, which is a separate step.
+    Ingest {
+        /// Path to a frc-data checkout — the directory holding `Metadata/` and `XML_for_OCR/`.
+        #[arg(long)]
+        frc_data: PathBuf,
+        /// Repository root. Defaults to the nearest ancestor containing .git.
+        #[arg(long)]
+        root: Option<PathBuf>,
+        /// Stop after this many items. For trying the run out before committing to 38,377.
+        #[arg(long)]
+        limit: Option<usize>,
+        /// Only these identifiers.
+        #[arg(long = "id")]
+        ids: Vec<String>,
+        /// Rewrite items that are already done.
+        #[arg(long)]
+        force: bool,
+        /// Report what would be written without writing it.
+        #[arg(long)]
+        dry_run: bool,
+    },
+    /// Download the corpus PDFs from archive.org.
+    ///
+    /// One request at a time, paced, with an honest User-Agent. Every download is verified
+    /// against the size and MD5 archive.org publishes for it. Resumable: an item with its PDF
+    /// already on disk is skipped, so an interrupted run costs nothing to restart.
+    Fetch {
+        /// Repository root. Defaults to the nearest ancestor containing .git.
+        #[arg(long)]
+        root: Option<PathBuf>,
+        /// Minimum seconds between requests. Lower this only if you have reason to think
+        /// archive.org wants you to.
+        #[arg(long, default_value_t = 1.0)]
+        interval: f64,
+        /// Stop after this many items.
+        #[arg(long)]
+        limit: Option<usize>,
+        /// Only these identifiers.
+        #[arg(long = "id")]
+        ids: Vec<String>,
+        /// Re-fetch items that already have a PDF.
+        #[arg(long)]
+        force: bool,
+        /// Ask archive.org what it would send, without downloading it.
+        #[arg(long)]
+        dry_run: bool,
+    },
+}
+
+#[derive(Debug, Args)]
+struct OcrArgs {
+    #[command(subcommand)]
+    command: OcrCommand,
+}
+
+#[derive(Debug, Subcommand)]
+enum OcrCommand {
+    /// Convert a DjVu XML file into an `.ocr.md`.
+    Import {
+        /// The `_djvu.xml` to read.
+        xml: PathBuf,
+        /// Id of the record this is the OCR of. Defaults to the filename with `_djvu.xml`
+        /// trimmed off, which is how both derivations name their files.
+        #[arg(long)]
+        of: Option<String>,
+        /// Directory to write the per-page files into. Defaults to the current directory.
+        #[arg(long)]
+        out: Option<PathBuf>,
+    },
+    /// Report the internal inconsistencies of one or more `.ocr.md` files.
+    Check {
+        /// Files to check, or directories of them.
+        #[arg(required = true)]
+        files: Vec<PathBuf>,
+    },
 }
 
 #[derive(Debug, Args)]
@@ -191,6 +282,8 @@ fn run() -> Result<ExitCode> {
         Command::Ingest(args) => cmd_ingest(args),
         Command::Render(args) => cmd_render(args),
         Command::Extract(args) => cmd_extract(args),
+        Command::Ocr(args) => cmd_ocr(args),
+        Command::Frc(args) => cmd_frc(args),
     }
 }
 
@@ -383,6 +476,32 @@ fn cmd_resolve(args: ResolveArgs) -> Result<ExitCode> {
 // ---------------------------------------------------------------------------------------
 
 fn cmd_schema(args: SchemaArgs) -> Result<ExitCode> {
+    // Both schemas are generated from the same Rust types by the same code path, so neither
+    // can drift into being hand-maintained. `--out` writes only the record schema, because it
+    // names a single file.
+    if args.out.is_none() {
+        let root = resolve_root(args.root.as_deref())?;
+        let ocr_out = root.join(scans::ocr::SCHEMA_PATH);
+        let ocr_generated = model::ocr_json_schema_text();
+        if args.check {
+            let on_disk = std::fs::read_to_string(&ocr_out).unwrap_or_default();
+            if on_disk.replace("\r\n", "\n") != ocr_generated.replace("\r\n", "\n") {
+                eprintln!(
+                    "scans: {} is out of date with the Rust types in tools/src/ocr.rs.",
+                    show_cwd(&ocr_out)
+                );
+                return Ok(ExitCode::FAILURE);
+            }
+        } else {
+            if let Some(parent) = ocr_out.parent() {
+                std::fs::create_dir_all(parent)?;
+            }
+            std::fs::write(&ocr_out, &ocr_generated)
+                .with_context(|| format!("writing {}", ocr_out.display()))?;
+            eprintln!("wrote {}", show_cwd(&ocr_out));
+        }
+    }
+
     let generated = model::json_schema_text();
 
     let out = match args.out {
@@ -624,4 +743,319 @@ fn report_pixels(root: &Path, report: &render::Report) {
             report.skipped.len()
         );
     }
+}
+
+// ---------------------------------------------------------------------------------------
+// ocr
+// ---------------------------------------------------------------------------------------
+
+fn cmd_ocr(args: OcrArgs) -> Result<ExitCode> {
+    match args.command {
+        OcrCommand::Import { xml, of, out } => {
+            let of = match of {
+                Some(of) => of,
+                None => default_id_for(&xml)?,
+            };
+            let text = std::fs::read_to_string(&xml)
+                .with_context(|| format!("reading {}", xml.display()))?;
+            let pages = scans::djvu::parse(&text, &of)?;
+
+            // One file per page, so `--out` names a directory rather than a file.
+            let dir = out.unwrap_or_else(|| PathBuf::from("."));
+            std::fs::create_dir_all(&dir)
+                .with_context(|| format!("creating {}", dir.display()))?;
+            let schema_rel = schema_rel_for(&dir.join("x"));
+
+            for page in &pages {
+                let name = scans::ocr::file_name(&of, page.page);
+                std::fs::write(dir.join(&name), scans::ocr::to_markdown(page, &schema_rel))
+                    .with_context(|| format!("writing {name}"))?;
+            }
+            eprintln!("wrote {} page(s) into {}", pages.len(), show_cwd(&dir));
+            Ok(ExitCode::SUCCESS)
+        }
+
+        OcrCommand::Check { files } => {
+            let mut bad = 0usize;
+            let mut checked = 0usize;
+            for arg in &files {
+                for path in expand_ocr_paths(arg)? {
+                    checked += 1;
+                    let ocr = match read_ocr(&path) {
+                        Ok(ocr) => ocr,
+                        Err(e) => {
+                            println!("{}: {e:#}", path.display());
+                            bad += 1;
+                            continue;
+                        }
+                    };
+                    // The page number is stated twice — in the filename and in the
+                    // frontmatter — and a mismatch means one of them is lying about which
+                    // page this is.
+                    let expected = scans::ocr::file_name(&ocr.of, ocr.page);
+                    if !path.to_string_lossy().ends_with(&expected) {
+                        println!(
+                            "{}: of/page say this should be named {expected}",
+                            path.display()
+                        );
+                        bad += 1;
+                    }
+                }
+            }
+            eprintln!("{checked} file(s) checked, {bad} problem(s)");
+            Ok(if bad == 0 {
+                ExitCode::SUCCESS
+            } else {
+                ExitCode::FAILURE
+            })
+        }
+    }
+}
+
+/// One `.ocr.md`, or every one in a directory.
+///
+/// Accepting a directory is what makes this usable: an item's OCR is one file per page, and
+/// naming 3,378 of them on a command line is not a thing anyone should have to do.
+fn expand_ocr_paths(path: &Path) -> Result<Vec<PathBuf>> {
+    if !path.is_dir() {
+        return Ok(vec![path.to_path_buf()]);
+    }
+    let mut out = Vec::new();
+    for entry in
+        std::fs::read_dir(path).with_context(|| format!("reading {}", path.display()))?
+    {
+        let entry = entry?;
+        if entry
+            .file_name()
+            .to_str()
+            .is_some_and(|n| n.ends_with(scans::ocr::SUFFIX))
+        {
+            out.push(entry.path());
+        }
+    }
+    out.sort();
+    Ok(out)
+}
+
+fn read_ocr(path: &Path) -> Result<scans::ocr::Ocr> {
+    let text =
+        std::fs::read_to_string(path).with_context(|| format!("reading {}", path.display()))?;
+    scans::ocr::from_markdown(&text).with_context(|| format!("parsing {}", path.display()))
+}
+
+/// The id implied by a DjVu XML filename: both derivations name theirs `<id>_djvu.xml`.
+fn default_id_for(xml: &Path) -> Result<String> {
+    let name = xml
+        .file_name()
+        .and_then(|n| n.to_str())
+        .context("the XML path has no filename")?;
+    Ok(name
+        .strip_suffix("_djvu.xml")
+        .unwrap_or_else(|| name.trim_end_matches(".xml"))
+        .to_string())
+}
+
+/// A `#:schema` path from the sidecar's own directory back up to the repository root.
+///
+/// Counted from the path rather than assumed, so a sidecar written somewhere other than the
+/// standard two-deep shard still points at a schema that exists.
+fn schema_rel_for(out: &Path) -> String {
+    let depth = out
+        .parent()
+        .map(|p| p.components().count())
+        .unwrap_or_default();
+    let up = "../".repeat(depth.min(8));
+    format!("{up}{}", scans::ocr::SCHEMA_PATH)
+}
+
+// ---------------------------------------------------------------------------------------
+// frc
+// ---------------------------------------------------------------------------------------
+
+fn cmd_frc(args: FrcArgs) -> Result<ExitCode> {
+    match args.command {
+        FrcCommand::Ingest {
+            frc_data,
+            root,
+            limit,
+            ids,
+            force,
+            dry_run,
+        } => {
+            let root = resolve_root(root.as_deref())?;
+
+            let mut ids = if ids.is_empty() {
+                scans::frc::ingest::identifiers(&frc_data)?
+            } else {
+                ids
+            };
+            if let Some(limit) = limit {
+                ids.truncate(limit);
+            }
+
+            if dry_run {
+                eprintln!(
+                    "{} item(s) would be ingested into {}",
+                    ids.len(),
+                    show_cwd(&root.join(scans::frc::ingest::DIR))
+                );
+                for id in ids.iter().take(10) {
+                    println!("{}", scans::frc::ingest::item_dir(id).display());
+                }
+                if ids.len() > 10 {
+                    println!("… and {} more", ids.len() - 10);
+                }
+                return Ok(ExitCode::SUCCESS);
+            }
+
+            let total = ids.len();
+            let started = std::time::Instant::now();
+            let summary = scans::frc::ingest::ingest(&root, &frc_data, &ids, force, |i, id, outcome| {
+                if let scans::frc::ingest::Outcome::Failed(why) = outcome {
+                    eprintln!("scans: {id}: {why}");
+                }
+                // Progress on one rewritten line: 38,377 items of scrollback is not progress.
+                if i % 200 == 0 || i + 1 == total {
+                    let done = i + 1;
+                    let rate = done as f64 / started.elapsed().as_secs_f64().max(0.001);
+                    eprint!("\r  {done}/{total} ({rate:.0}/s)          ");
+                }
+            });
+            eprintln!();
+
+            eprintln!(
+                "{} written ({} without OCR), {} already done, {} failed",
+                summary.written,
+                summary.without_ocr,
+                summary.skipped,
+                summary.failed.len()
+            );
+            for (id, why) in summary.failed.iter().take(20) {
+                eprintln!("  {id}: {why}");
+            }
+
+            Ok(if summary.failed.is_empty() {
+                ExitCode::SUCCESS
+            } else {
+                ExitCode::FAILURE
+            })
+        }
+
+        FrcCommand::Fetch {
+            root,
+            interval,
+            limit,
+            ids,
+            force,
+            dry_run,
+        } => cmd_frc_fetch(root, interval, limit, ids, force, dry_run),
+    }
+}
+
+#[cfg(not(feature = "fetch"))]
+fn cmd_frc_fetch(
+    _root: Option<PathBuf>,
+    _interval: f64,
+    _limit: Option<usize>,
+    _ids: Vec<String>,
+    _force: bool,
+    _dry_run: bool,
+) -> Result<ExitCode> {
+    anyhow::bail!(
+        "this binary was built without the 'fetch' feature, which is what opens a socket.\n\
+         Rebuild with: cargo build --release --features fetch"
+    )
+}
+
+#[cfg(feature = "fetch")]
+fn cmd_frc_fetch(
+    root: Option<PathBuf>,
+    interval: f64,
+    limit: Option<usize>,
+    ids: Vec<String>,
+    force: bool,
+    dry_run: bool,
+) -> Result<ExitCode> {
+    use scans::frc::fetch;
+
+    let root = resolve_root(root.as_deref())?;
+
+    // The item list is the archive itself: everything `frc ingest` has already written a
+    // record for. That keeps the two halves in step without a shared manifest.
+    let ids = if ids.is_empty() {
+        let dir = root.join(scans::frc::ingest::DIR);
+        let mut found = Vec::new();
+        for shard in std::fs::read_dir(&dir)
+            .with_context(|| format!("reading {} — run `scans frc ingest` first", dir.display()))?
+        {
+            let shard = shard?;
+            if !shard.file_type()?.is_dir() {
+                continue;
+            }
+            for item in std::fs::read_dir(shard.path())? {
+                let item = item?;
+                if item.file_type()?.is_dir()
+                    && let Some(name) = item.file_name().to_str()
+                {
+                    found.push(name.to_string());
+                }
+            }
+        }
+        found.sort();
+        found
+    } else {
+        ids
+    };
+
+    let options = fetch::Options {
+        interval: std::time::Duration::from_secs_f64(interval.max(0.0)),
+        limit,
+        force,
+        dry_run,
+    };
+
+    let mut ids = ids;
+    if let Some(limit) = options.limit {
+        ids.truncate(limit);
+    }
+
+    let total = ids.len();
+    eprintln!(
+        "{total} item(s), one request at a time, {interval}s apart, as {}",
+        fetch::USER_AGENT
+    );
+
+    let started = std::time::Instant::now();
+    let summary = fetch::fetch(&root, &ids, &options, |i, id, outcome| {
+        match outcome {
+            fetch::Outcome::Failed(why) => eprintln!("\rscans: {id}: {why}"),
+            fetch::Outcome::NoPdf => eprintln!("\rscans: {id}: no PDF derivative"),
+            _ => {}
+        }
+        if i % 10 == 0 || i + 1 == total {
+            let done = i + 1;
+            let elapsed = started.elapsed().as_secs_f64().max(0.001);
+            let left = (total - done) as f64 * (elapsed / done as f64);
+            eprint!("\r  {done}/{total}  {:.0}h left      ", left / 3600.0);
+        }
+    });
+    eprintln!();
+
+    eprintln!(
+        "{} fetched ({:.1} GB), {} already had one, {} have no PDF, {} failed",
+        summary.fetched,
+        summary.bytes as f64 / 1e9,
+        summary.skipped,
+        summary.no_pdf,
+        summary.failed.len()
+    );
+    for (id, why) in summary.failed.iter().take(20) {
+        eprintln!("  {id}: {why}");
+    }
+
+    Ok(if summary.failed.is_empty() {
+        ExitCode::SUCCESS
+    } else {
+        ExitCode::FAILURE
+    })
 }

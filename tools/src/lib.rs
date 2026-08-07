@@ -22,11 +22,17 @@
 //! holds several gigabytes of `.jp2` in Git LFS and the default `validate` path must never
 //! touch them.
 
+/// Path of the generated record schema, relative to the repository root.
+pub const SCHEMA_PATH: &str = "schemas/source.json";
+
+pub mod djvu;
 pub mod edtf;
+pub mod frc;
 pub mod ingest;
 pub mod load;
 pub mod migrate;
 pub mod model;
+pub mod ocr;
 pub mod render;
 pub mod validate;
 

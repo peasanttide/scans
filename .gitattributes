@@ -60,3 +60,7 @@ saved_model/**/* filter=lfs diff=lfs merge=lfs -text
 # Video files - compressed
 *.mp4 filter=lfs diff=lfs merge=lfs -text
 *.webm filter=lfs diff=lfs merge=lfs -text
+# The OCR sidecars are markdown in plain git: they compress in the packfile, they stay
+# greppable, and putting 8.5 GB of them in LFS would be billed for at full size. There are no
+# exceptions any more — one file per page means none of them is bigger than a few kilobytes,
+# which is the other reason the per-page split is worth the file count.

@@ -47,6 +47,15 @@ ingest = ["dep:lopdf"]
 # rasteriser whose `images` feature carries pure-Rust JBIG2 and JPEG 2000 decoders, which is
 # the whole reason it is here — no C toolchain, no Ghostscript, no pdfium binary to ship.
 render = ["dep:hayro", "dep:png"]
+# `scans frc fetch` downloads the corpus PDFs from archive.org. Off by default because it is
+# the only feature that opens a socket, and because it drags in a TLS stack that a `validate`
+# run has no business paying for.
+#
+# `ureq` rather than `reqwest`: this makes one request at a time by design — the whole point
+# is to be a polite guest on someone else's server — so an async runtime would be several
+# hundred crates of dependency bought to do nothing. It is pure Rust with rustls, so there is
+# still no C toolchain.
+fetch = ["dep:ureq", "dep:md-5"]
 
 [dependencies]
 anyhow = "1.0.104"
@@ -58,6 +67,19 @@ lopdf = { version = "0.44", default-features = false, optional = true }
 # A bitonal scan encoded as 8-bit grey is a quarter of the size for identical pixels, and
 # these files exist to be read a few hundred at a time.
 png = { version = "0.18.1", optional = true }
+# A real XML parser rather than the hand-rolled parsing used elsewhere in this crate.
+# 38,377 files of machine-generated XML from a decade of changing derive pipelines is
+# exactly the input that finds the gap between the documented format and the served bytes.
+# Pure Rust, no C toolchain, which is the constraint that actually matters here.
+quick-xml = "0.38"
+# The OCR sidecars are markdown with YAML frontmatter, so something has to read YAML.
+# `serde_norway` rather than `serde_yaml`, which its author archived in 2024; this is the
+# maintained fork of it and keeps the same serde-based API. Pure Rust.
+serde_norway = "0.9"
+# Verifying a download against the MD5 archive.org publishes for it. A truncated PDF that is
+# committed and then believed is worse than one that failed loudly.
+md-5 = { version = "0.10", optional = true }
+ureq = { version = "3", optional = true }
 # schemars DERIVES the JSON Schema from the same types the validator uses, so the schema
 # cannot drift away from the code. It is never hand-written.
 schemars = "1.2.2"

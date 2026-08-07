@@ -204,6 +204,7 @@ pub fn validate(archive: &Archive, options: &Options) -> Report {
     check_7_files(archive, options, &mut report);
     check_8_crossrefs(archive, &mut report);
     check_10_gaps(archive, &mut report);
+    check_11_ocr(archive, options, &mut report);
 
     report.retain_selected(archive, &options.select);
     report.sort();
@@ -1480,5 +1481,109 @@ mod probe {
         let document =
             lopdf::Document::load(path).map_err(|e| format!("cannot read the PDF: {e}"))?;
         Ok(document.get_pages().len() as i64)
+    }
+}
+
+// ---------------------------------------------------------------------------------------
+// Check 11 — the OCR sidecars.
+//
+// An `.ocr.toml` is archive content but not a record: it has no `layer`, so `load` skips it
+// and it is reached instead through the `[[text]]` that points at it. That makes this the
+// only place anything looks at one, and the checks are correspondingly structural.
+//
+// ## Why the content half is behind `--probe`
+//
+// `E708` is a `stat` and runs always. Everything below it has to parse the sidecar, and the
+// frc corpus is 840,810 of them — parsing all of that turns `validate` from a six-second
+// command into a much longer one. That is the same reason `--probe` exists for the image
+// checks: the default path must stay fast enough to run on every save.
+// ---------------------------------------------------------------------------------------
+
+fn check_11_ocr(archive: &Archive, options: &Options, report: &mut Report) {
+    for node in archive.iter() {
+        for (i, text) in node.record.text().iter().enumerate() {
+            if !text.file.ends_with(crate::ocr::SUFFIX) {
+                continue;
+            }
+            let locator = format!("[[text]]#{}", i + 1);
+            let dir = node.path.parent().unwrap_or(&archive.root);
+            let path = dir.join(&text.file);
+
+            if !path.exists() {
+                report.push(
+                    Diagnostic::error(
+                        node.rel_path.clone(),
+                        "E708",
+                        format!(
+                            "OCR sidecar {:?} does not exist (resolved to {})",
+                            text.file,
+                            rel(archive, &path)
+                        ),
+                    )
+                    .at(locator.clone()),
+                );
+                continue;
+            }
+
+            if !options.probe {
+                continue;
+            }
+
+            let raw = match std::fs::read_to_string(&path) {
+                Ok(raw) => raw,
+                Err(e) => {
+                    report.push(
+                        Diagnostic::error(
+                            node.rel_path.clone(),
+                            "E708",
+                            format!("OCR sidecar {:?} cannot be read: {e}", text.file),
+                        )
+                        .at(locator),
+                    );
+                    continue;
+                }
+            };
+
+            let ocr: crate::ocr::Ocr = match crate::ocr::from_markdown(&raw) {
+                Ok(ocr) => ocr,
+                Err(e) => {
+                    report.push(Diagnostic::error(
+                        rel(archive, &path),
+                        "E709",
+                        format!("not a valid OCR sidecar: {e}"),
+                    ));
+                    continue;
+                }
+            };
+
+            // `of` is what ties the sidecar back to the record. A sidecar pointing at some
+            // other id is a file that has been moved or copied without being updated, and the
+            // OCR it holds is then attached to the wrong pamphlet.
+            if ocr.of != node.id {
+                report.push(Diagnostic::error(
+                    rel(archive, &path),
+                    "E710",
+                    format!(
+                        "of = {:?}, but this sidecar is pointed at by {:?}",
+                        ocr.of, node.id
+                    ),
+                ));
+            }
+
+            // The page number is in the filename and in the frontmatter, and a mismatch means
+            // one of them is lying about which page this is — which silently misplaces every
+            // coordinate on it.
+            let expected = crate::ocr::file_name(&ocr.of, ocr.page);
+            if !text.file.ends_with(&expected) {
+                report.push(Diagnostic::error(
+                    rel(archive, &path),
+                    "E712",
+                    format!(
+                        "page = {}, which does not match the filename; expected {expected}",
+                        ocr.page
+                    ),
+                ));
+            }
+        }
     }
 }

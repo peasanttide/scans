@@ -146,6 +146,12 @@ pub struct Source {
     /// Terse page range. Legal but unusual on a source.
     #[serde(default, skip_serializing_if = "Option::is_none")]
     pub pages: Option<PageRange>,
+    /// Subject headings as the cataloguer wrote them. Does not inherit.
+    #[serde(default, skip_serializing_if = "Vec::is_empty")]
+    pub subject: Vec<String>,
+    /// Bibliographic collation, `"7 p. ; 18 cm."`. Does not inherit.
+    #[serde(default, skip_serializing_if = "Option::is_none")]
+    pub extent: Option<String>,
 
     #[serde(default, skip_serializing_if = "Option::is_none")]
     pub rights: Option<Rights>,
@@ -206,6 +212,12 @@ pub struct CopyRecord {
     pub note: Option<String>,
     #[serde(default, skip_serializing_if = "Option::is_none")]
     pub url: Option<String>,
+    /// Subject headings as the cataloguer wrote them. Does not inherit.
+    #[serde(default, skip_serializing_if = "Vec::is_empty")]
+    pub subject: Vec<String>,
+    /// Bibliographic collation, `"7 p. ; 18 cm."`. Does not inherit.
+    #[serde(default, skip_serializing_if = "Option::is_none")]
+    pub extent: Option<String>,
 
     /// The normal home for `scan`.
     #[serde(default, skip_serializing_if = "Option::is_none")]
@@ -278,6 +290,12 @@ pub struct Document {
     pub place: Option<String>,
     #[serde(default, skip_serializing_if = "Option::is_none")]
     pub country: Option<String>,
+    /// Subject headings as the cataloguer wrote them. Does not inherit.
+    #[serde(default, skip_serializing_if = "Vec::is_empty")]
+    pub subject: Vec<String>,
+    /// Bibliographic collation, `"7 p. ; 18 cm."`. Does not inherit.
+    #[serde(default, skip_serializing_if = "Option::is_none")]
+    pub extent: Option<String>,
 
     #[serde(default, skip_serializing_if = "Option::is_none")]
     pub rights: Option<Rights>,
@@ -431,6 +449,12 @@ pub struct Scan {
     /// Landing page for the digitisation, distinct from top-level `url`. Inherits.
     #[serde(default, skip_serializing_if = "Option::is_none")]
     pub url: Option<String>,
+    /// Resolution the scan was made at, in pixels per inch. Inherits.
+    ///
+    /// Stated rather than inferred: `render` otherwise has to guess a page's native
+    /// resolution from the largest image embedded in it.
+    #[serde(default, skip_serializing_if = "Option::is_none")]
+    pub ppi: Option<i64>,
     /// Caveats. Does not inherit.
     #[serde(default, skip_serializing_if = "Option::is_none")]
     pub note: Option<String>,
@@ -699,24 +723,50 @@ impl Record {
 /// This is the only place `schemas/source.json` comes from. `scans schema --check` compares
 /// the file on disk against this, which is what stops the schema drifting from the validator.
 pub fn json_schema() -> serde_json::Value {
+    schema_for::<Record>(
+        "Scan archive record",
+        "One TOML file in the primary source and scan archive. Generated from the Rust \
+         types in tools/src/model.rs by `scans schema` - do not edit by hand.",
+    )
+}
+
+/// Generate a schema for any of the archive's file types, with `null` stripped out.
+///
+/// Shared by the record schema and the OCR sidecar schema so that both are derived the same
+/// way and neither can drift into being hand-maintained.
+pub fn schema_for<T: schemars::JsonSchema>(
+    title: &str,
+    description: &str,
+) -> serde_json::Value {
     let settings = schemars::generate::SchemaSettings::draft2020_12();
     let generator = settings.into_generator();
-    let schema = generator.into_root_schema_for::<Record>();
+    let schema = generator.into_root_schema_for::<T>();
     let mut value = serde_json::to_value(schema).expect("schema serialises");
 
     strip_null_unions(&mut value);
 
     if let Some(obj) = value.as_object_mut() {
-        obj.insert("title".into(), serde_json::json!("Scan archive record"));
-        obj.insert(
-            "description".into(),
-            serde_json::json!(
-                "One TOML file in the primary source and scan archive. Generated from the Rust \
-                 types in tools/src/model.rs by `scans schema` - do not edit by hand."
-            ),
-        );
+        obj.insert("title".into(), serde_json::json!(title));
+        obj.insert("description".into(), serde_json::json!(description));
     }
     value
+}
+
+/// The schema for an `.ocr.toml` sidecar.
+pub fn ocr_json_schema() -> serde_json::Value {
+    schema_for::<crate::ocr::Ocr>(
+        "Word-level OCR sidecar",
+        "One <id>.ocr.toml: word-level OCR losslessly equivalent to a DjVu XML derivative. \
+         Generated from the Rust types in tools/src/ocr.rs by `scans schema` - do not edit \
+         by hand.",
+    )
+}
+
+/// Serialise the OCR schema exactly as `scans schema` writes it.
+pub fn ocr_json_schema_text() -> String {
+    let mut s = serde_json::to_string_pretty(&ocr_json_schema()).expect("schema serialises");
+    s.push('\n');
+    s
 }
 
 /// Remove every trace of `null` from the generated schema.

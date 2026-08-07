@@ -232,6 +232,11 @@
           "description": "Caveats. Does not inherit.",
           "type": "string"
         },
+        "ppi": {
+          "description": "Resolution the scan was made at, in pixels per inch. Inherits.\n\nStated rather than inferred: `render` otherwise has to guess a page's native\nresolution from the largest image embedded in it.",
+          "format": "int64",
+          "type": "integer"
+        },
         "url": {
           "description": "Landing page for the digitisation, distinct from top-level `url`. Inherits.",
           "type": "string"
@@ -330,6 +335,10 @@
           "description": "EDTF. Date of the work, for single-work sources.",
           "type": "string"
         },
+        "extent": {
+          "description": "Bibliographic collation, `\"7 p. ; 18 cm.\"`. Does not inherit.",
+          "type": "string"
+        },
         "founded": {
           "description": "EDTF. Date the publication began.",
           "type": "string"
@@ -404,6 +413,13 @@
         "short_title": {
           "type": "string"
         },
+        "subject": {
+          "description": "Subject headings as the cataloguer wrote them. Does not inherit.",
+          "items": {
+            "type": "string"
+          },
+          "type": "array"
+        },
         "text": {
           "items": {
             "$ref": "#/$defs/Text"
@@ -441,6 +457,10 @@
         },
         "date": {
           "description": "EDTF. Date of the object itself, if meaningful.",
+          "type": "string"
+        },
+        "extent": {
+          "description": "Bibliographic collation, `\"7 p. ; 18 cm.\"`. Does not inherit.",
           "type": "string"
         },
         "holding": {
@@ -501,6 +521,13 @@
         "short_title": {
           "type": "string"
         },
+        "subject": {
+          "description": "Subject headings as the cataloguer wrote them. Does not inherit.",
+          "items": {
+            "type": "string"
+          },
+          "type": "array"
+        },
         "text": {
           "items": {
             "$ref": "#/$defs/Text"
@@ -537,6 +564,10 @@
         },
         "date": {
           "description": "EDTF. Used by check 6.",
+          "type": "string"
+        },
+        "extent": {
+          "description": "Bibliographic collation, `\"7 p. ; 18 cm.\"`. Does not inherit.",
           "type": "string"
         },
         "holding": {
@@ -605,6 +636,13 @@
         },
         "short_title": {
           "type": "string"
+        },
+        "subject": {
+          "description": "Subject headings as the cataloguer wrote them. Does not inherit.",
+          "items": {
+            "type": "string"
+          },
+          "type": "array"
         },
         "supplement_to": {
           "description": "Id of another **document**. Check 8.",

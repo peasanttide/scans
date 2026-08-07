@@ -1342,6 +1342,9 @@ impl Builder {
             language: common.language,
             place: common.place,
             country: common.country,
+            // Legacy records carry neither; both are new with the frc corpus ingest.
+            subject: Vec::new(),
+            extent: None,
             founded: common.founded,
             frequency: common.frequency,
             date: common.date,
@@ -1563,6 +1566,9 @@ impl Builder {
             language: common.language,
             place: common.place,
             country: common.country,
+            // Legacy records carry neither; both are new with the frc corpus ingest.
+            subject: Vec::new(),
+            extent: None,
             covers: common.covers,
             date: common.date,
             note: common.note,
@@ -1841,6 +1847,9 @@ impl Builder {
             language: common.language,
             place: common.place,
             country: common.country,
+            // Legacy records carry neither; both are new with the frc corpus ingest.
+            subject: Vec::new(),
+            extent: None,
             rights: common.rights.into_option(),
             holding: common.holding.into_option(),
             identifier: (!common.identifier.is_empty()).then_some(common.identifier),
