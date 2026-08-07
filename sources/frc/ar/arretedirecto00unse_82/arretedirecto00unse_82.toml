@@ -1,0 +1,86 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arretedirecto00unse_82"
+type = "pamphlet"
+title = "Arrêté du Directoire exécutif, concernant les avis à donner de la mort des personnes qui laissent pour héritiers, des pupilles, des mineurs ou des absens : du 22 prairial an V de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1797"
+note = """Caption title. At head of title: No. 501. "Pour expédition conforme, signé, Carnot, président; par le Directoire exécutif, le secrétaire-général, Lagarde"--P. 2. Imprint from colophon. "No. 2 et 3"--Bottom of p. [1]. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages."""
+url = "https://archive.org/details/arretedirecto00unse_82"
+subject = [
+    "Registers of births, etc",
+    "Decedents' estates",
+    "Minors",
+]
+extent = "2 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10328 no. 89"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t49p85t2d"
+internet_archive = "arretedirecto00unse_82"
+
+[scan]
+file = "arretedirecto00unse_82.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arretedirecto00unse_82"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Directoire exécutif"
+role = "author"
+
+[[resp]]
+name = "Carnot, Lazare, 1753-1823"
+role = "author"
+
+[[resp]]
+name = "Lagarde, Joseph-Jean, baron, 1755-1840"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Depot des lois, place du Carrousel : Et se trouve dans les villes chefs-lieux de départemens, au bureau de correspondance du Dépôt des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_856296"
+
+[[text]]
+file = "arretedirecto00unse_82.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretedirecto00unse_82.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretedirecto00unse_82.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretedirecto00unse_82.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

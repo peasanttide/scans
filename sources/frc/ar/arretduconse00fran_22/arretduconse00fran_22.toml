@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arretduconse00fran_22"
+type = "pamphlet"
+title = "Arrêt du Conseil d'état du Roi, qui supprime une brochure ayant pour titre: Essai sur le jugement qu'on peut porter de M. de Voltaire, &c. Du 22 juillet 1780 .."
+language = "fr"
+place = "Paris"
+date = "1780"
+note = "Caption title. Imprint at foot of p. 3. Scanner's note: No copyright found.  No table of contents found.  Damaged, stained pages and cover.  Title on cover. <br />."
+url = "https://archive.org/details/arretduconse00fran_22"
+subject = [
+    "Voltaire, 1694-1778",
+    "Censorship",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 9 no. 57"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4zh2822p"
+internet_archive = "arretduconse00fran_22"
+
+[scan]
+file = "arretduconse00fran_22.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arretduconse00fran_22"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "France.Conseil d'Etat"
+role = "author"
+
+[[resp]]
+name = "France. Conseil d'Etat"
+role = "author"
+
+[[resp]]
+name = "Impr. Royale"
+role = "publisher"
+
+[[text]]
+file = "arretduconse00fran_22.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretduconse00fran_22.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretduconse00fran_22.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretduconse00fran_22.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

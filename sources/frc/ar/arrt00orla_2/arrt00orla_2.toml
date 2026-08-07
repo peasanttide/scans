@@ -1,0 +1,77 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arrt00orla_2"
+type = "pamphlet"
+title = "Arrêté /"
+language = "fr"
+place = "s.l."
+date = "1788"
+note = """Caption title. Without imprint. "Arrêté du bailliage de Bourges, du 21 mai 1788, à sept heures du matin": p.[1]-2 (2d group). Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on cover page. Damaged, stained and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/arrt00orla_2"
+extent = "2, 2 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 6251"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4sj6k611"
+internet_archive = "arrt00orla_2"
+
+[scan]
+file = "arrt00orla_2.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arrt00orla_2"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Orléans (France). Châtelet"
+role = "author"
+
+[[resp]]
+name = "Orléans (France). Châtelet"
+role = "author"
+
+[[resp]]
+name = "Bourges (France)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_58629"
+
+[[text]]
+file = "arrt00orla_2.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrt00orla_2.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrt00orla_2.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrt00orla_2.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

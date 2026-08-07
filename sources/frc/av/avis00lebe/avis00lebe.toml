@@ -1,0 +1,56 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "avis00lebe"
+type = "pamphlet"
+title = "Avis"
+language = "fr"
+place = "Paris"
+note = """Prospectus for "Indicateur général pour la capitale et les provinces.". Proposed title never published? Caption title. First sentence: On vient de former un etablissement qui mérite l'accueil du public; il s'agit d'un bureau & d'une feuille intitulée, Indicateur général pour la capitale et les provinces. Printer statement from colophon. "L'abonnement est de 18 livres pour Paris, & de 25 livres 10 sols pour la province ... Il faut s'adresser au bureau, rue Notre-Dame des Victoires, n°. 20.". Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Title page and cover are combined."""
+url = "https://archive.org/details/avis00lebe"
+subject = [
+    "Indicateur général pour la capitale et les provinces",
+    "Booksellers and bookselling",
+    "Periodicals",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1d no. 36"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t71w16c8n"
+internet_archive = "avis00lebe"
+
+[scan]
+file = "avis00lebe.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/avis00lebe"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Le Becq"
+role = "printer"
+
+[[resp]]
+name = "De l'imprimerie de Le Becq, rue Saint-Jean-de-Beauvais, n°. 24"
+role = "publisher"
+
+[[text]]
+file = "avis00lebe.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avis00lebe.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

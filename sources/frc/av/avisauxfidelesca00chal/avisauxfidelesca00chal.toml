@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "avisauxfidelesca00chal"
+type = "pamphlet"
+title = "Avis aux fidèles catholiques."
+language = "fr"
+place = "A Sens"
+date = "1796"
+note = """Caption title. Imprint from colophon. "Les citoyens catholiques sont donc priés... de déposer les dons qu'ils voudront leur faire, entre les mains du C. Chalembert"--P. 3. Not in Martin & Walter. Ré́volution française. Scanner's note: No copyright page found. No table-of-contents pages found. Damaged pages and cover. Title on cover page."""
+url = "https://archive.org/details/avisauxfidelesca00chal"
+subject = [
+    "Catholic Church",
+    "Christian giving",
+]
+extent = "3 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 15980"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9b61h419"
+internet_archive = "avisauxfidelesca00chal"
+openlibrary_edition = "OL25951464M"
+openlibrary_work = "OL17372453W"
+
+[scan]
+file = "avisauxfidelesca00chal.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/avisauxfidelesca00chal"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Chalembert, C"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie de veuve Tarbé et fils"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_833509"
+
+[[text]]
+file = "avisauxfidelesca00chal.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avisauxfidelesca00chal.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avisauxfidelesca00chal.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avisauxfidelesca00chal.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

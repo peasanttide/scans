@@ -1,0 +1,87 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "aunomdelanationf00rove"
+type = "pamphlet"
+title = "Au nom de la nation française : Rovere et Poultier, représentans du peuple français, délégués dans les départemens méridionaux de la République, & spécialement dans ceux de Vaucluse, des Bouches-du-Rhône & du Gard, par décret de la Convention nationale, des 25, 27 juin, 22 juillet & premier août dernier"
+language = "fr"
+place = "A Avignon"
+date = "1793"
+note = "Caption title. At head of title: Égalité, liberté. Signed: Ce 4 octobre 1793 ... J.S. Rovere, F. Poultier .. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text. No title page found. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/aunomdelanationf00rove"
+subject = [
+    "France. Armée",
+    "Military service, Voluntary",
+]
+extent = "3 p. ; 24 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 27192"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0xq2512n"
+internet_archive = "aunomdelanationf00rove"
+openlibrary_edition = "OL26229606M"
+openlibrary_work = "OL17624639W"
+
+[scan]
+file = "aunomdelanationf00rove.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/aunomdelanationf00rove"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Rovère, Joseph-Stanislas,1748-1798"
+role = "author"
+
+[[resp]]
+name = "Rovère, Joseph-Stanislas, 1748-1798"
+role = "author"
+
+[[resp]]
+name = "Poultier, François, 1753-1826"
+role = "author"
+
+[[resp]]
+name = "Tournal, Sabin"
+role = "publisher"
+
+[[resp]]
+name = "De l'imprimerie de Sabin Tournal"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_868117"
+
+[[text]]
+file = "aunomdelanationf00rove.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "aunomdelanationf00rove.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "aunomdelanationf00rove.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "aunomdelanationf00rove.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

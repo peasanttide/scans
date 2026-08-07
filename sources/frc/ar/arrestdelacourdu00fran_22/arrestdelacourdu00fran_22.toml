@@ -1,0 +1,77 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arrestdelacourdu00fran_22"
+type = "pamphlet"
+title = "Arrest de la Cour du Parlement"
+language = "fr"
+place = "A Marseille"
+date = "1731"
+note = "Caption title. Imprint at foot of p. 4."
+url = "https://archive.org/details/arrestdelacourdu00fran_22"
+subject = [
+    "Censorship",
+    "Gallicanism",
+    "Church and state",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 5 no. 17"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0005rk88"
+internet_archive = "arrestdelacourdu00fran_22"
+
+[scan]
+file = "arrestdelacourdu00fran_22.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arrestdelacourdu00fran_22"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Parlement (Paris)"
+role = "author"
+
+[[resp]]
+name = "France. Parlement (Paris)"
+role = "author"
+
+[[resp]]
+name = "Catholic Church. Pope (1730-1740 : Clement XII)"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de la veuve Boy & fils"
+role = "publisher"
+
+[[text]]
+file = "arrestdelacourdu00fran_22.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacourdu00fran_22.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacourdu00fran_22.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacourdu00fran_22.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,90 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arretduconse00fran_ad0"
+type = "pamphlet"
+title = "Arrêt du Conseil d'État du roi, qui supprime deux arrêtés pris par le Conseil souverain de Roussillon, les 30 avril & 9 mai derniers"
+language = "fr"
+place = "A Versailles"
+date = "1789"
+note = """Caption title. Imprint at foot of p. 3. "Du 6 septembre 1789. Extrait des registres du Conseil d'État.". "Signé La Tour-du-Pin"--P. 3. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Title page and cover are combined."""
+url = "https://archive.org/details/arretduconse00fran_ad0"
+subject = [
+    "France. Etats généraux (1789)",
+    "Roussillon (France : Province). Conseil souverain",
+    "Elections",
+    "Justice, Administration of",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 10 no. 89"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3gx9xp57"
+internet_archive = "arretduconse00fran_ad0"
+
+[scan]
+file = "arretduconse00fran_ad0.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arretduconse00fran_ad0"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Conseil d'Etat"
+role = "author"
+
+[[resp]]
+name = "France. Conseil d'Etat"
+role = "author"
+
+[[resp]]
+name = "France. Sovereign (1774-1792 : Louis XVI)"
+role = "author"
+
+[[resp]]
+name = "La Tour-du-Pin Gouvernet, Jean Frédéric, comte de, 1727-1794"
+role = "author"
+
+[[resp]]
+name = "Roussillon (France : Province). Conseil souverain"
+role = "author"
+
+[[resp]]
+name = "France. Laws, statutes, etc"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie royale"
+role = "publisher"
+
+[[text]]
+file = "arretduconse00fran_ad0.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretduconse00fran_ad0.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretduconse00fran_ad0.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretduconse00fran_ad0.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

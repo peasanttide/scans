@@ -1,0 +1,70 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arreteduconseilg00vosg"
+type = "pamphlet"
+title = "Arrêté du conseil général du département des Vosges : séance du 13 septembre 1792, l'an quatrième de la liberte .."
+language = "fr"
+place = "A Épinal"
+date = "1792"
+note = """Caption title. At head of title: Liberté. Égalité. "instruction du conseil du département des Vosges, aux municipalités de son ressort, relativement aux ecclésiastiques insermentés"--P. [1]. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover."""
+url = "https://archive.org/details/arreteduconseilg00vosg"
+subject = ["Catholic nonjurors"]
+extent = "3 p. ; 23 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10321 no. 23"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5t77hv7g"
+internet_archive = "arreteduconseilg00vosg"
+
+[scan]
+file = "arreteduconseilg00vosg.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arreteduconseilg00vosg"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Vosges (France). Conseil général"
+role = "author"
+
+[[resp]]
+name = "Chez H[a]ener, imprimeur du département des Vosges"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_856945"
+
+[[text]]
+file = "arreteduconseilg00vosg.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arreteduconseilg00vosg.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arreteduconseilg00vosg.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arreteduconseilg00vosg.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

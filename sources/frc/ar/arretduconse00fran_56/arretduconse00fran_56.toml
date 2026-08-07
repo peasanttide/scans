@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arretduconse00fran_56"
+type = "pamphlet"
+title = "Arrêt du Conseil d'état du roi, qui supprime un éscrit ayant pour titre, Lettre à un ami sur un monument public, par feu M. Dulin, architects, du 19 juillet 1785"
+language = "fr"
+place = "A Paris"
+date = "1785"
+note = """Caption title. Imprint from colophon. Suppression of a pamphlet by Dulin which attacked the design of the new church of the Madeleine in Paris. "Extrait des registres du Conseil d'état"--p. 1. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Title page and cover are combined."""
+url = "https://archive.org/details/arretduconse00fran_56"
+subject = [
+    "Dulin, 18th cent",
+    "Eglise de la Madeleine (Paris, France)",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 10 no. 10"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t87h76s6p"
+internet_archive = "arretduconse00fran_56"
+
+[scan]
+file = "arretduconse00fran_56.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arretduconse00fran_56"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Conseil d'Etat"
+role = "author"
+
+[[resp]]
+name = "France. Conseil d'Etat"
+role = "author"
+
+[[resp]]
+name = "Montaiglon, Pierre de Courde de"
+role = "author"
+
+[[resp]]
+name = "Beaumont, Claude Étienne"
+role = "author"
+
+[[resp]]
+name = "de l'Imprimerie royale"
+role = "publisher"
+
+[[text]]
+file = "arretduconse00fran_56.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretduconse00fran_56.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretduconse00fran_56.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretduconse00fran_56.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

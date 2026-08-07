@@ -1,0 +1,71 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "avisaux00unse"
+type = "pamphlet"
+title = "Avis aux Marseillais."
+language = "fr"
+place = "France"
+date = "1789"
+note = "Caption title. Signed: Auguste Mossy, commissaire. A Marseille, le 30 juillet 1789. Not in Martin & Walter. Révolution française. Scanner's note: No title page found. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/avisaux00unse"
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 22944"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6sz1j350"
+internet_archive = "avisaux00unse"
+openlibrary_edition = "OL26237179M"
+openlibrary_work = "OL17631734W"
+
+[scan]
+file = "avisaux00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/avisaux00unse"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Mossy, Antoine-Auguste-Cécile, 1764-1819?"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_847501"
+
+[[text]]
+file = "avisaux00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avisaux00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avisaux00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avisaux00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

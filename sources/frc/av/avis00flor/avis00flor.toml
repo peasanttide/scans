@@ -1,0 +1,88 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "avis00flor"
+type = "pamphlet"
+title = "Avis"
+language = "fr"
+place = "Reims?"
+date = "1743"
+note = """Prospectus for the 1743 edition of the Old Latin version of the Bible, published by Florentain. Caption title. "On pourra s'adresser, à Reims, chez ledit Florentain, et à Paris, chez Gabriel Valleyre, imprimeur, ruë Saint Severin"--P. [2]. Head-piece. "De trois volumes in-folio, dont cette édition sera composée, les deux premiers ... sont imprimez, et le troisiéme ... est sous presse. Le prix de chaque volume sera de trente livres en blanc, fin papier d'Auvergne, & de quarante-cinq livres, grand papier aussi d'Auvergne"--P. [1]-[2]. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Title page and cover are combined."""
+url = "https://archive.org/details/avis00flor"
+subject = [
+    "Bible",
+    "Booksellers and bookselling",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1a no. 76"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9j44fm0k"
+internet_archive = "avis00flor"
+
+[scan]
+file = "avis00flor.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/avis00flor"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Florentain, Regnauld,1687-1763"
+role = "author"
+
+[[resp]]
+name = "Florentain, Regnauld, 1687-1763"
+role = "author"
+
+[[resp]]
+name = "Valleyre, Gabriel, 1693-1772"
+role = "printer"
+
+[[resp]]
+name = "Regnauld Florentain?"
+role = "publisher"
+
+[[text]]
+file = "avis00flor.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avis00flor.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avis00flor.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avis00flor.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avis00flor.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avis00flor.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,57 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "adresselabb00unse"
+type = "pamphlet"
+title = "Adressé a l'abbé Sÿes : de ce pretre, craignés l'air fin et seducteur, l[']imposteur est caché, sous son masque hypocrite, la vérité jamais ne pénétra son cœur, Francais il vous trompa, voila tout son merite"
+language = "fr"
+place = "Paris?"
+date = "1790"
+note = """Picture caption: Ne me trahis pas, ou je-- ? Subject: Sieyès is seated in a church with a nude woman holding a torch on his lap. He reads from a book on which is written the phrase "Ch. de la vérité." Two pillows with the phrases "Ch. de Paris" and "Ch. de Montpellier" lie beneath the woman on a table. Beneath the caption is text excoriating Sieyès for motions regarding freedom of the press that he presented to the Assemblée nationale. Scanner's note: Title page located on front cover. No copyright page found. No table-of-contents pages found. Worn, damaged and discolored pages and cover. Skewed text. Uneven binding."""
+url = "https://archive.org/details/adresselabb00unse"
+subject = [
+    "Sieyès, Emmanuel Joseph, comte, 1748-1836",
+    "Freedom of the press",
+]
+extent = "1 print :$betching ; plate mark 21 x 14 cm"
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 27555"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3rv5q53b"
+internet_archive = "adresselabb00unse"
+
+[scan]
+file = "adresselabb00unse.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/adresselabb00unse"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_871093"
+
+[[text]]
+file = "adresselabb00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adresselabb00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

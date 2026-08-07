@@ -1,0 +1,82 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arreteprohibe00unse"
+type = "pamphlet"
+title = "Arrêté qui prohibe l'importation des chevaux angalis en France : du 13 thermidor an IX de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1801"
+note = """Caption title. At head of title: Dépôt des lois, place du Carrousel, a Paris. No. 1389. "Le premier Consul, signé Bonaparte"--P. [1]. Imprint from colophon. "No. 11"--Bottom of p. [1]. Scanner's note: Irregular Pagination. No copyright page found. No table-of-contents pages found. No title page found."""
+url = "https://archive.org/details/arreteprohibe00unse"
+subject = [
+    "Embargo",
+    "Economic sanctions",
+    "Horse industry",
+]
+extent = "[2] p. ; 28 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10325 no. 62"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t73v4pt38"
+internet_archive = "arreteprohibe00unse"
+
+[scan]
+file = "arreteprohibe00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arreteprohibe00unse"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Consulat (1799-1804)"
+role = "author"
+
+[[resp]]
+name = "Napoleon I, Emperor of the French, 1769-1821"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois, place du Carousel"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_851369"
+
+[[text]]
+file = "arreteprohibe00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arreteprohibe00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arreteprohibe00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arreteprohibe00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,64 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "avisauxlibraires00gilb"
+type = "pamphlet"
+title = "Avis aux libraires des départements"
+language = "fr"
+place = "Paris"
+date = "1796"
+note = """Caption title. Some books listed as "sous presse" (p. [2]) were published in 1796. Without prices. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Text extends off of the edge of the page. Text may be lost in the binding. Permanent creases may obscure some text. Title page and cover are combined."""
+url = "https://archive.org/details/avisauxlibraires00gilb"
+subject = [
+    "Gilbert (Bookseller)",
+    "Patris, C.-F. (Charles-Frobert), 1751?-",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 8 no. 28"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8hf3ht83"
+internet_archive = "avisauxlibraires00gilb"
+
+[scan]
+file = "avisauxlibraires00gilb.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/avisauxlibraires00gilb"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Gilbert(Bookseller)"
+role = "author"
+
+[[resp]]
+name = "Gilbert (Bookseller)"
+role = "author"
+
+[[resp]]
+name = "Patris, C.-F. (Charles-Frobert), 1751?-"
+role = "bookseller"
+
+[[resp]]
+name = "Gilbert :;Patris"
+role = "publisher"
+
+[[text]]
+file = "avisauxlibraires00gilb.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avisauxlibraires00gilb.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

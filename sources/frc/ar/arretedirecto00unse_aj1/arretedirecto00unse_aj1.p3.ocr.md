@@ -1,0 +1,10 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: arretedirecto00unse_aj1
+page: 3
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 3081
+h: 4381
+dpi: 350
+---

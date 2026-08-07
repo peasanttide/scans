@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arretduconseil00unse_50"
+type = "pamphlet"
+title = "Arrêt du Conseil d'État du roi, qui nomme le sieur Provandier, pour signer les billets de loterie établie par autre arrêt du 4 octobre 1783 : du 9 octobre 1783 : extrait des registres du Conseil d'État"
+language = "fr"
+place = "A Paris"
+date = "1783"
+note = """
+Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover. 
+Back cover is upside down. Only one numbered page."""
+url = "https://archive.org/details/arretduconseil00unse_50"
+subject = [
+    "Provandier, Pierre-Charles",
+    "Loterie royale (France)",
+    "Lotteries",
+]
+extent = "2 p. ; 28 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC suppl. 87 no. 103"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2q57t728"
+internet_archive = "arretduconseil00unse_50"
+
+[scan]
+file = "arretduconseil00unse_50.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arretduconseil00unse_50"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Conseil d'Etat"
+role = "author"
+
+[[resp]]
+name = "Imprimerie royale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie royale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_863211"
+
+[[text]]
+file = "arretduconseil00unse_50.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretduconseil00unse_50.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretduconseil00unse_50.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretduconseil00unse_50.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

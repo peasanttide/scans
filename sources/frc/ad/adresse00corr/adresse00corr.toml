@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "adresse00corr"
+type = "pamphlet"
+title = "Adresse /"
+language = "fr"
+place = "Paris"
+date = "1791"
+note = "Caption title. Imprint from colophon. At lower left on p.[1]: Pétition. no.13. Martin & Walter IV 2: 4754 (which specifies: Pour protester contre la conduite du directoire du département de Paris). Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover."
+url = "https://archive.org/details/adresse00corr"
+extent = "3 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 2520"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t03z39g4f"
+internet_archive = "adresse00corr"
+openlibrary_edition = "OL26209654M"
+openlibrary_work = "OL17605898W"
+
+[scan]
+file = "adresse00corr.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/adresse00corr"
+ppi = 400
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Corrèze (France : Department)"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale législative (1791-1792)"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_44480"
+
+[[text]]
+file = "adresse00corr.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adresse00corr.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adresse00corr.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adresse00corr.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

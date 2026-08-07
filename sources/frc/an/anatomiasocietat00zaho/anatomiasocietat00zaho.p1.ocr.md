@@ -1,0 +1,54 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: anatomiasocietat00zaho
+page: 1
+engine: ABBYY FineReader 11.0
+lang: la
+w: 1647
+h: 2920
+dpi: 500
+---
+
+ANATOMIA
+
+SOCIETATIS
+
+jEsu:
+
+'Seu
+
+PROBATIO SPIRITVS
+
+JESUITARUM.
+
+Iccm*
+
+CANA IMPERII /ES riTl^
+
+CICVM INSTRVCTIONE SECRE^
+TISSIMU PRO SVPER10RI'RVS
+EirSDEM.
+
+ET
+
+DELICIARUM JESUITICA-
+
+RUMSPECIMIN-A;
+
+^ Tandem
+
+D I V I N A O R A C UL A D E S O C I-
+
+ETATIS EXItV.
+
+AD EXCITANDAM REGFM
+
+ET PRINCIPVM CATHOLi,
+CDRVM ATTENTIONEM
+VTILISSIMA,
+
+MO
+
+AN
+
+M

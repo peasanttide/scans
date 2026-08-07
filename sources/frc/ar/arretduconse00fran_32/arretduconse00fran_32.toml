@@ -1,0 +1,64 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arretduconse00fran_32"
+type = "pamphlet"
+title = "Arrêt du Conseil d'État du roi, du 23 septembre 1781"
+language = "fr"
+place = "A Paris"
+date = "1781"
+note = "Caption title. Publication information from colophon. Last two pages blank. Head-piece. Orders the destruction of books seized from Ancel, bookseller of Evreux, and divests him of his permission to sell books. Scanner's note: No copyright found.  No table of contents found.  Damaged, stained pages and cover.  Title on cover. <br />Only one numbered page. <br />."
+url = "https://archive.org/details/arretduconse00fran_32"
+subject = [
+    "Ancel",
+    "Booksellers and bookselling",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 9 no. 73"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9188xb4z"
+internet_archive = "arretduconse00fran_32"
+
+[scan]
+file = "arretduconse00fran_32.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/arretduconse00fran_32"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "France.Conseil d'Etat"
+role = "author"
+
+[[resp]]
+name = "France. Conseil d'Etat"
+role = "author"
+
+[[resp]]
+name = "Imprimerie royale (France)"
+role = "printer"
+
+[[resp]]
+name = "De l'Imprimerie royale"
+role = "publisher"
+
+[[text]]
+file = "arretduconse00fran_32.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretduconse00fran_32.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

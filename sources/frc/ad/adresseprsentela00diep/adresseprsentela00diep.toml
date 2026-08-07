@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "adresseprsentela00diep"
+type = "pamphlet"
+title = "Adresse présentée a l'Assemblée nationale /"
+language = "fr"
+place = "Paris"
+date = "1789"
+note = """Caption title. Imprint from colophon. "... les représentans de la commune de la ville de Dieppe ont arrêté ... de déposer dans le sein de cette Assemblée nationale ... les sentimens de son admiration & de sa reconnoissance ... ils n'ont pu lire qu'avec enthousiasme vos sublimes arrêtés des 17, 18 & 20 du mois dernier [i.e. 17, 18 & 20 juin 1789]": p.[1]. Martin & Walter IV 2: 5621. Scanner's note: No copyright page found. No table-of-contents pages found. Title and cover page are combined. Damaged, stained and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/adresseprsentela00diep"
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 3154"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t46q71b0j"
+internet_archive = "adresseprsentela00diep"
+openlibrary_edition = "OL26214207M"
+openlibrary_work = "OL17610174W"
+
+[scan]
+file = "adresseprsentela00diep.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/adresseprsentela00diep"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Dieppe (France)"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "Chez Baudouin"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_46937"
+
+[[text]]
+file = "adresseprsentela00diep.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adresseprsentela00diep.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adresseprsentela00diep.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adresseprsentela00diep.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

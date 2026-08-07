@@ -1,0 +1,97 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arretedesconsuls00fran_0"
+type = "pamphlet"
+title = "Arrêté des consuls de la République, qui approuve un plan de remboursement, par voie de loterie, du prêt de douze millions offert au trésor public : du 24 frimaire an VIII de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1799"
+note = """Caption title. At head of title: No. 1027. "Les Consuls de la République, signé Sieyes, Bonaparte, Roger-Ducos"--P. [1]. Imprint from colophon. "No. 9"--Bottom of p. [1]. "Rapport aux Consuls de la République, par le ministre des finances"--P. 2-3; signed: Gaudin. Scanner's note: No copyright page found. No table-of-contents pages found.  Title on cover. Damaged, stained pages and cover.  Uneven binding. Skewed text."""
+url = "https://archive.org/details/arretedesconsuls00fran_0"
+subject = [
+    "Banque de Paris",
+    "Lotteries",
+    "Payment",
+    "Finance, Public",
+]
+extent = "3 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10325 no. 2"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t51g5tb0m"
+internet_archive = "arretedesconsuls00fran_0"
+openlibrary_edition = "OL26223221M"
+openlibrary_work = "OL17618682W"
+
+[scan]
+file = "arretedesconsuls00fran_0.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arretedesconsuls00fran_0"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Consulat (1799-1804)"
+role = "author"
+
+[[resp]]
+name = "Napoleon I, Emperor of the French, 1769-1821"
+role = "author"
+
+[[resp]]
+name = "Ducos, Roger, 1747-1816"
+role = "author"
+
+[[resp]]
+name = "Sieyès, Emmanuel Joseph, comte, 1748-1836"
+role = "author"
+
+[[resp]]
+name = "Gaëte, Martin-Michel-Charles Gaudin, duc de, 1756-1841"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Depot des lois, place du Carrousel"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_851310"
+
+[[text]]
+file = "arretedesconsuls00fran_0.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretedesconsuls00fran_0.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretedesconsuls00fran_0.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretedesconsuls00fran_0.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

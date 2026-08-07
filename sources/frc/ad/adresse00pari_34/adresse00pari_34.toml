@@ -1,0 +1,78 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "adresse00pari_34"
+type = "pamphlet"
+title = "... Adresse /"
+language = "fr"
+place = "A Rouen"
+date = "1793"
+note = """Caption title. Imprint from colophon. At head of title: Convention nationale. "Extrait des registres de l'assemblée générale. Du 6 décembre 1792, l'an premier de la République française": p.3-4. "Réimprimé par ordre du directoire du département de la Seine inférieure. A Rouen, le 9 janvier 1793, l'an deuxieme de la République française": p.4. An attack on Louis XVI. Not in Martin & Walter [edition 2: Rouen imprint]. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on cover page. Damaged, stained and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/adresse00pari_34"
+subject = ["France. Sovereign (1774-1792 : Louis XVI)"]
+extent = "4 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 6586"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3033xv7j"
+internet_archive = "adresse00pari_34"
+
+[scan]
+file = "adresse00pari_34.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/adresse00pari_34"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Paris (France). Section des Gardes-Françaises"
+role = "author"
+
+[[resp]]
+name = "Paris (France). Section des Gardes-Françaises"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "De l'imp. de Jacques Ferrand"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_60161"
+
+[[text]]
+file = "adresse00pari_34.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adresse00pari_34.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adresse00pari_34.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adresse00pari_34.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

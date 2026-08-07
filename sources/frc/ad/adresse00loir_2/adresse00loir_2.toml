@@ -1,0 +1,73 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "adresse00loir_2"
+type = "pamphlet"
+title = "Adresse /"
+language = "fr"
+place = "Paris"
+date = "1792"
+note = "Caption title. Imprint from colophon. At lower left on p.[1]: Pétition. No.79. Opening sentence: Nous recevons en ce moment le décret par lequel vous suspendez le pouvoir exécutif. Not in Martin & Walter. Scanner's note: No title page found. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/adresse00loir_2"
+extent = "2 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 5118"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5m95hn9t"
+internet_archive = "adresse00loir_2"
+
+[scan]
+file = "adresse00loir_2.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/adresse00loir_2"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Loir-et-Cher (France)"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale législative (1791-1792)"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_53597"
+
+[[text]]
+file = "adresse00loir_2.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adresse00loir_2.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adresse00loir_2.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adresse00loir_2.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

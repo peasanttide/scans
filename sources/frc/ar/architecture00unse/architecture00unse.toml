@@ -1,0 +1,78 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "architecture00unse"
+type = "pamphlet"
+title = "Architecture rurale : extrait du registre des arrêtés du Comité de salut public de la Convention nationale, du treizième jour du mois floréal, l'an deuxième de la République française, une et indivisible."
+language = "fr"
+place = "France"
+date = "1794"
+note = "Caption title. Not in Martin & Walter. Révolution française. Scanner's note: Title page and cover are combined. Damaged, stained, marked and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/architecture00unse"
+subject = ["Farm buildings"]
+extent = "2 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 24530"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0zp99z40"
+internet_archive = "architecture00unse"
+
+[scan]
+file = "architecture00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/architecture00unse"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Commission d'instruction publique"
+role = "author"
+
+[[resp]]
+name = "Robespierre, Maximilien, 1758-1794"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale. Comité de salut public"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_849464"
+
+[[text]]
+file = "architecture00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "architecture00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "architecture00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "architecture00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

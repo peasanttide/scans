@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arrestduconse00fran_94"
+type = "pamphlet"
+title = "Arrest du Conseil d'état du roi, du 21 septembre 1771"
+language = "fr"
+place = "A Paris"
+date = "1771"
+note = "Caption title. Imprint at foot of p. 3. Suppresses 2 anonymous works, each with title: Éloge de Franc̜ois de Salignac de La Mothe-Fenelon, one of which was written by A. F. J. de Masson. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Title page and cover are combined."
+url = "https://archive.org/details/arrestduconse00fran_94"
+subject = [
+    "Fénelon, François de Salignac de La Mothe-, 1651-1715",
+    "Censorship",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 8 no. 52"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5p89wr3m"
+internet_archive = "arrestduconse00fran_94"
+
+[scan]
+file = "arrestduconse00fran_94.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arrestduconse00fran_94"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Conseil d'Etat"
+role = "author"
+
+[[resp]]
+name = "France. Conseil d'Etat"
+role = "author"
+
+[[resp]]
+name = "Pezay, Alexandre Frédéric Jacques de Masson, marquis de, 1741-1777"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie royale"
+role = "publisher"
+
+[[text]]
+file = "arrestduconse00fran_94.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestduconse00fran_94.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestduconse00fran_94.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestduconse00fran_94.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

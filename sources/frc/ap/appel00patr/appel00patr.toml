@@ -1,0 +1,117 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "appel00patr"
+type = "pamphlet"
+title = "Appel"
+language = "fr"
+place = "Paris"
+date = "1795"
+note = "Scanner's note: Title / Cover pages combined. Stained pages.  No table-of-contents pages found. No copyright page found. No physical cover."
+url = "https://archive.org/details/appel00patr"
+extent = "8 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 545"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5q84tj3h"
+internet_archive = "appel00patr"
+
+[scan]
+file = "appel00patr.pdf"
+count = 14
+by = "Internet Archive"
+url = "https://archive.org/details/appel00patr"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Patriotes de 89"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie des Patriotes de 89"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_33937"
+
+[[text]]
+file = "appel00patr.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "appel00patr.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "appel00patr.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "appel00patr.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "appel00patr.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "appel00patr.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "appel00patr.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "appel00patr.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "appel00patr.p9.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "appel00patr.p10.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "appel00patr.p11.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "appel00patr.p12.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"

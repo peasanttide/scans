@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arrestdelacourdu00fran_0"
+type = "pamphlet"
+title = "Arrest de la cour du Parlement, qui supprime un imprimé, ayant pour titre, Réponse du Comte de Lally-Tolendal, &c. comme contraire aux réglemens de la librairie : extrait des registres du Parlement : du sept août mil sept cent quatre-vingt-un"
+language = "fr"
+place = "A Paris"
+date = "1781"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text. Text on the back cover is upside-down."
+url = "https://archive.org/details/arrestdelacourdu00fran_0"
+subject = [
+    "Lally-Tolendal, Trophime-Gérard, marquis de, 1751-1830",
+    "Eprémesnil, M. d' (Jean-Jacques), 1745-1794",
+    "Réponse du comte de Lally-Tolendal au dernier libelle du sieur Duval d'Eprémesnil",
+    "Prohibited books",
+    "Press law",
+]
+extent = "3 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 27965"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2b90dn20"
+internet_archive = "arrestdelacourdu00fran_0"
+
+[scan]
+file = "arrestdelacourdu00fran_0.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arrestdelacourdu00fran_0"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Parlement (Paris)"
+role = "author"
+
+[[resp]]
+name = "Simon, P. G. (Pierre-Guillaume), 1722-1787"
+role = "publisher"
+
+[[resp]]
+name = "Chez P.G. Simon, imprimeur du Parlement, rue Mignon Saint-André-des-Arcs"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_389034"
+
+[[text]]
+file = "arrestdelacourdu00fran_0.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacourdu00fran_0.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacourdu00fran_0.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacourdu00fran_0.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arrestdelacourdu00lafa"
+type = "pamphlet"
+title = "Arrest de la cour du Parlement [of Paris], qui ordonne la suppression d'un ecrit intitulé, Lettre pastorale de M. l'evêque de Laon [E.J. de la Fare], au sujet de l'arrest du Parlement du 20. fevrier 1731 ... Du 2. mars 1731"
+language = "fr"
+place = "Paris"
+date = "1731"
+url = "https://archive.org/details/arrestdelacourdu00lafa"
+subject = ["Censorship"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 5 no. 6"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9285z479"
+internet_archive = "arrestdelacourdu00lafa"
+
+[scan]
+file = "arrestdelacourdu00lafa.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arrestdelacourdu00lafa"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "La Fare, Étienne Joseph de,Bishop of Laon"
+role = "author"
+
+[[resp]]
+name = "La Fare, Étienne Joseph de, Bishop of Laon"
+role = "author"
+
+[[resp]]
+name = "Laon, France (diocese). Bishop, 1724-1741 (Étienne Joseph de La Fare)"
+role = "author"
+
+[[resp]]
+name = "France. Parlement (Paris)"
+role = "author"
+
+[[resp]]
+name = "Chez P. Simon"
+role = "publisher"
+
+[[text]]
+file = "arrestdelacourdu00lafa.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacourdu00lafa.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacourdu00lafa.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacourdu00lafa.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

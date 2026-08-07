@@ -1,0 +1,73 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arrestduconse00fran_iix"
+type = "pamphlet"
+title = "Arrest du Conseil d'état du roi, qui supprime deux écrits concernant le Prince de Monaco"
+language = "fr"
+place = "A Paris"
+date = "1775"
+note = "Caption title. Imprint at foot of p. 2. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Title page and cover are combined."
+url = "https://archive.org/details/arrestduconse00fran_iix"
+subject = ["Censorship"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 8 no. 93"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0ps3dc1f"
+internet_archive = "arrestduconse00fran_iix"
+
+[scan]
+file = "arrestduconse00fran_iix.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arrestduconse00fran_iix"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Conseil d'Etat"
+role = "author"
+
+[[resp]]
+name = "France. Conseil d'Etat"
+role = "author"
+
+[[resp]]
+name = "Honoré IV, Prince of Monaco, 1758-1819"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie royale"
+role = "publisher"
+
+[[text]]
+file = "arrestduconse00fran_iix.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestduconse00fran_iix.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestduconse00fran_iix.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestduconse00fran_iix.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

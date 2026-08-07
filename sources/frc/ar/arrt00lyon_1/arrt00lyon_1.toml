@@ -1,0 +1,73 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arrt00lyon_1"
+type = "pamphlet"
+title = "Arrêté /"
+language = "fr"
+place = "s.l."
+date = "1788"
+note = """Caption title. Without imprint. "Arrêté du bailliage d'Angers, du 24 mai 1788": p.[3]-4. Not in Martin & Walter [edition 3: 4 p.; with extra text as indicated]. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover."""
+url = "https://archive.org/details/arrt00lyon_1"
+extent = "4 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 5187"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t65480z4w"
+internet_archive = "arrt00lyon_1"
+
+[scan]
+file = "arrt00lyon_1.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arrt00lyon_1"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Lyon (France)"
+role = "author"
+
+[[resp]]
+name = "Angers (France)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_56673"
+
+[[text]]
+file = "arrt00lyon_1.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrt00lyon_1.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrt00lyon_1.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrt00lyon_1.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

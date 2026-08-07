@@ -1,0 +1,83 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "adresseauxfranca00brou"
+type = "pamphlet"
+title = "Adresse aux Français, sur la nécessité de favoriser la libre circulation des grains dans l'intérieur de l'Empire /"
+language = "fr"
+place = "Paris"
+date = "1792"
+note = """Caption title. "29 janv. 1792"--Session date from Martin & Walter. Publisher from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  I, 5394. Scanner's note: No copyright page found. No table-of-contents pages found.  Title on front cover. Damaged, stained, worn pages.  Skewed text."""
+url = "https://archive.org/details/adresseauxfranca00brou"
+subject = [
+    "Agriculture",
+    "Grain",
+    "Food supply",
+    "Finance, Public",
+]
+extent = "4 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 15452"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4dn91q5t"
+internet_archive = "adresseauxfranca00brou"
+
+[scan]
+file = "adresseauxfranca00brou.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/adresseauxfranca00brou"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Broussonet, Pierre Marie Auguste, 1761-1807"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale législative (1791-1792)"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_831748"
+
+[[text]]
+file = "adresseauxfranca00brou.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adresseauxfranca00brou.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adresseauxfranca00brou.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adresseauxfranca00brou.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

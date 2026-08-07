@@ -1,0 +1,81 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "adresseducitoyen00gren"
+type = "pamphlet"
+title = "Adresse du citoyen Grenier, vice-président de la section de la Réunion : imprimé par ordre de la Convention nationale, et envoyée aux départements."
+language = "fr"
+place = "Paris"
+date = "1793"
+note = """Caption title. At head of title: Convention nationale. Imprint from colophon. "Du 18 mars 1793"--P. [1]. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  II, 15752. Scanner's note: No copyright page found. No table-of-contents pages found.  Title and cover page combined."""
+url = "https://archive.org/details/adresseducitoyen00gren"
+subject = [
+    "Republicanism",
+    "Political parties",
+]
+extent = "4 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 19443"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3mw79q4w"
+internet_archive = "adresseducitoyen00gren"
+
+[scan]
+file = "adresseducitoyen00gren.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/adresseducitoyen00gren"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Grenier, Antoine"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_840686"
+
+[[text]]
+file = "adresseducitoyen00gren.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adresseducitoyen00gren.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adresseducitoyen00gren.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adresseducitoyen00gren.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

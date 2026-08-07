@@ -1,0 +1,47 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "amadamelamar00unse"
+type = "pamphlet"
+title = "A Madame la Marechale, comtesse de Lowendal, sous le nom d'Uranie"
+language = "fr"
+date = "1747"
+note = "Binder's title: Conquest du roy. Poem. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on the cover. Uneven binding. Skewed text. Irregular pagination. Page numbers have been marked or altered. Damaged, stained, torn and/or loose pages. Some text may be lost in the binding."
+url = "https://archive.org/details/amadamelamar00unse"
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "E 5 .L92705 v. 09 no. 51"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9r27169w"
+internet_archive = "amadamelamar00unse"
+
+[scan]
+file = "amadamelamar00unse.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/amadamelamar00unse"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "[Paris?"
+role = "publisher"
+
+[[text]]
+file = "amadamelamar00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "amadamelamar00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

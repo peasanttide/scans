@@ -1,0 +1,53 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: arretedirecto00unse_357
+page: 2
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 3062
+h: 4366
+dpi: 350
+---
+
+Z
+
+incohérence sur un objet qui touche de si près au maintien de l’ordre et de fa
+tranquillité, compromet les intérêts du trésor public;
+
+Sur le rapport du ministre de la guerre; et interprétont, en tant que de besoin,
+ses arrêtés ci-dessus des 22 germinal , 17 floréal an IV et 25 nivôse an VIT,
+
+Arrête:
+
+Article premier.
+
+Les gardes nationales sédentaires qui , d’après les réquisitions par écrit des
+généraux, seront employées à la défense des villes assiégées, celles qui quitteront
+leurs foyers pour un service hors du territoire de leur commune, recevront»
+selon leur grade et pendant leur déplacement , la solde , les vivres et les lourrages
+attribués à l’infanterie, ainsi qu’une indemnité de huit centimes et demi à chaque
+sous-officier et soldat pour leur tenir lieu d’habiflement et d’équipement. La ré-
+quifilion n’aura d’effet qt”.e pendant un mois, au plus, à moins qu’elle ne soit
+renouvelée. Il en sera de même pour les colonnes mobiles éventuellement for-
+mées dans chacun des cantons de la République en exécution de l’arrêté du 17
+iloréal an IV, qui, d’après la réquisition formelle et positive des administra-
+tions centrales, seront mises en activité pour le maintien de la sûreté publique,
+ou pour tout autre service d’ordre et de police générale qui exigerait leur dépla-
+cement.
+
+II. Les gardes nationales sédentaires qui, à défaut de troupes suffisantes dans
+la garnison des places de leur canton, seraient requises pour la garde des éta,-
+blissemens militaires, fortifications, forts, lignes, châteaux et places des côtes
+et frontières maritimes qui seront jugées devoir être mises en état de défense,
+recevront , pour chaque jour de service la solde seulement attribuée aux mêmes
+grades dans les troupes de l’infanterie, et sans aueune fourniture : les gardes,
+montées d’un jour à l’autre ne compteront que pour un jour de service.
+
+Les citoyens qui seront requis pour faire un service dans les places d’un canton
+autre que le leur, auront droit à la même solde; mais , à raison de leur dépla-
+cement, les gardes montées d’un jour à l’autre compteront pour deux jours de
+service.
+
+Iil. Lorsque le déplacement de la garde nationale aura beu pour l’exécution
+des mesures de répression ou de réparations déterminées par la loi du 10 ven-
+démiaire an IV sur la police intérieure des communes, il en sera usé de la

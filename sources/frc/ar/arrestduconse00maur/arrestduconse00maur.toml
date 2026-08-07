@@ -1,0 +1,69 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arrestduconse00maur"
+type = "pamphlet"
+title = "Arrest du Conseil d'État du Roi"
+language = "fr"
+place = "A Paris"
+date = "1759"
+note = """Caption title. Imprint at foot of p. 3. Signed: Phélypeau. Woodcuts: large head-piece. "Extrait des Régistres du Conseil d'Etat.". Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Title page and cover are combined."""
+url = "https://archive.org/details/arrestduconse00maur"
+subject = ["Encyclopédie"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 6 no. 138"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8pc8p84t"
+internet_archive = "arrestduconse00maur"
+
+[scan]
+file = "arrestduconse00maur.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arrestduconse00maur"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Maurepas, Jean-Frédéric Phélypeaux,comte de,1701-1781"
+role = "author"
+
+[[resp]]
+name = "Maurepas, Jean-Frédéric Phélypeaux, comte de, 1701-1781"
+role = "author"
+
+[[resp]]
+name = "De L'Imprimèrie royale"
+role = "publisher"
+
+[[text]]
+file = "arrestduconse00maur.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestduconse00maur.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestduconse00maur.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestduconse00maur.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

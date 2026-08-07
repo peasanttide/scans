@@ -1,0 +1,86 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arretedirecto00unse_4pa"
+type = "pamphlet"
+title = "Arrêté du Directoire exécutif, relatif à la délivrance de bons pour le paiement des rentes et pensions : du 17 messidor an VI de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1798"
+note = """Caption title. At head of title: No. 727. "Pour expédition conforme, signé Merlin, pour le président; par le Directoire exécutif, le secrétaire-général, Lagarde"--P.2. Imprint from colophon. "No. 9"--Bottom of p. [1]. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages."""
+url = "https://archive.org/details/arretedirecto00unse_4pa"
+subject = [
+    "Taxation",
+    "Payment",
+    "Finance, Public",
+]
+extent = "2 p. ; 28 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10328 no. 113"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t44r31c25"
+internet_archive = "arretedirecto00unse_4pa"
+
+[scan]
+file = "arretedirecto00unse_4pa.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arretedirecto00unse_4pa"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Directoire exécutif"
+role = "author"
+
+[[resp]]
+name = "Merlin, M. (Philippe-Antoine), 1754-1838"
+role = "author"
+
+[[resp]]
+name = "Lagarde, Joseph-Jean, baron, 1755-1840"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Depot des lois, place du Carrousel"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_856320"
+
+[[text]]
+file = "arretedirecto00unse_4pa.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretedirecto00unse_4pa.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretedirecto00unse_4pa.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretedirecto00unse_4pa.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

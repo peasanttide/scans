@@ -1,0 +1,67 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arrestdelacourdu00fran_13"
+type = "pamphlet"
+title = "Arrest de la Cour du Parlement de Bretagne"
+language = "fr"
+date = "1718"
+url = "https://archive.org/details/arrestdelacourdu00fran_13"
+subject = ["Prohibited books"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 3 no. 96"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t26b2rm50"
+internet_archive = "arrestdelacourdu00fran_13"
+
+[scan]
+file = "arrestdelacourdu00fran_13.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arrestdelacourdu00fran_13"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Parlement (Brittany)"
+role = "author"
+
+[[resp]]
+name = "France. Parlement (Brittany)"
+role = "author"
+
+[[resp]]
+name = "[n.p."
+role = "publisher"
+
+[[text]]
+file = "arrestdelacourdu00fran_13.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacourdu00fran_13.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacourdu00fran_13.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacourdu00fran_13.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

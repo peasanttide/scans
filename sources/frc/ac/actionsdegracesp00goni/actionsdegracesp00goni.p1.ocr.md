@@ -1,0 +1,41 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: actionsdegracesp00goni
+page: 1
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 3006
+h: 4026
+dpi: 500
+---
+
+ACTIONS DE GRACES
+
+i J OUR LA CONVALESCENCE
+
+D E
+
+SA MAJESTE',,
+
+A NoS tnftes accens « tu as prêté l’oreille ,
+
+Seigneur , & ta bonté opéré une merveille.
+
+En exauçant nos vœux tu calmes notre effroy,
+
+Et nous rends à nous-même,e„ nous rendant le Roy,
+Un éluge de maux eût innondé la France,
+
+Tu les diflipes tous par fa convalefcence ;
+
+L’efperance renaît dans fon Peuple allarmé.
+
+Qui fait qu’il revivra, ce Prince Bien-aiméf
+Daignes , Dieu Tout-puilTant, conferver fa perfonne
+, “ PnnC£ cheri * l a ppui de fa Couronne ,
+
+/ ÊUrS j ° UrS P récieux Prolonges l’heureux cours,
+
+U t0n Samt Nom fera glorifié pour toujours.
+
+Éar J. B. Gonichon,

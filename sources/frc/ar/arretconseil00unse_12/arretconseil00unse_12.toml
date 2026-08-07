@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arretconseil00unse_12"
+type = "pamphlet"
+title = "Arrêt du Conseil d'État du roi, concernant la navigation de la Seine, depuis Paris jusqu'à Rouen & retour : du 4 septembre 1783 : extrait des registres du Conseil d'Etat"
+language = "fr"
+place = "A Paris"
+date = "1783"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."
+url = "https://archive.org/details/arretconseil00unse_12"
+extent = "3 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 27310"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3b049j7h"
+internet_archive = "arretconseil00unse_12"
+openlibrary_edition = "OL26229299M"
+openlibrary_work = "OL17624333W"
+
+[scan]
+file = "arretconseil00unse_12.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arretconseil00unse_12"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Conseil d'Etat"
+role = "author"
+
+[[resp]]
+name = "Imprimerie royale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie royale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_863204"
+
+[[text]]
+file = "arretconseil00unse_12.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretconseil00unse_12.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretconseil00unse_12.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretconseil00unse_12.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

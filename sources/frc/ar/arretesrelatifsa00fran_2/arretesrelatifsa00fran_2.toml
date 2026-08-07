@@ -1,0 +1,84 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arretesrelatifsa00fran_2"
+type = "pamphlet"
+title = "Arrêtés relatifs au droit de transit dans les départemens de la rive gauche du Rhin, à la réduction du droit d'entrée sur le tabac : des 14 et 16 thermidor an VIII de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1800"
+note = """Caption title. At head of title: No. 1183. "Le premier Consul, signé Bonaparte"--P. 3. Imprint from colophon. "No. 9"--Bottom of p. [1]. 1o. Arrêté relatif à la perception du droit de transit dans les nouveaux départemens situés sur la rive gauche du Rhin -- 2o. Arrêté qui détermine les cas où les tabacs en feuilles importés par bâtimens français sont admis à la réduction du droit d'entrée. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."""
+url = "https://archive.org/details/arretesrelatifsa00fran_2"
+subject = [
+    "Customs administration",
+    "Inland navigation",
+    "Transportation",
+    "Public works",
+    "Tariff on tobacco",
+]
+extent = "3 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 28201"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2896bs14"
+internet_archive = "arretesrelatifsa00fran_2"
+
+[scan]
+file = "arretesrelatifsa00fran_2.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arretesrelatifsa00fran_2"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Consulat (1799-1804)"
+role = "author"
+
+[[resp]]
+name = "Napoleon I, Emperor of the French, 1769-1821"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Depot des lois, place du Carrousel"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_851345"
+
+[[text]]
+file = "arretesrelatifsa00fran_2.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretesrelatifsa00fran_2.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretesrelatifsa00fran_2.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretesrelatifsa00fran_2.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,73 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "additionlaconsti00devi"
+type = "pamphlet"
+title = "Addition à la constitution de la République de France /"
+language = "fr"
+place = "A Beauvais"
+date = "1790"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  Title and cover page are combined. Damaged, uneven binding. Damaged pages. Skewed text."
+url = "https://archive.org/details/additionlaconsti00devi"
+subject = [
+    "France",
+    "Constitutional law",
+]
+extent = "p. 25-28 ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 17480"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4hn05s0g"
+internet_archive = "additionlaconsti00devi"
+
+[scan]
+file = "additionlaconsti00devi.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/additionlaconsti00devi"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Devienne, Charles Jean Baptiste d'Agneaux, 1728-1792"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de P.C.D. Desjardins, imprimeur du département de l'Oise"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_836476"
+
+[[text]]
+file = "additionlaconsti00devi.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "additionlaconsti00devi.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "additionlaconsti00devi.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "additionlaconsti00devi.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,77 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "affichesuniverse00aubr"
+type = "pamphlet"
+title = "Affiches universelles de l'Europe, ou, Annonces et avis des sciences, des arts, des lettres, du commerce et des affaires"
+language = "fr"
+place = "Paris"
+note = """Prospectus for "Affiches universelles de l'Europe.". Proposed work never published? Caption title. "S'adresser, par lettre affranchie, pour l'insertion des annonces, la commission en librairie et l'abonnement à tous les journaux, au citoyen Aubry, libraire, quai des Augustins, n°. 42"--P. [1]. Printer statement from colophon. Printed in double columns. Catalog of books written or sold by Aubry, p. 2-4. Includes prices. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Title page and cover are combined."""
+url = "https://archive.org/details/affichesuniverse00aubr"
+subject = [
+    "Aubry, Charles Louis, 1776-1817",
+    "Affiches universelles de l'Europe",
+    "Booksellers and bookselling",
+    "Periodicals",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1d no. 1"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t12p0t36r"
+internet_archive = "affichesuniverse00aubr"
+
+[scan]
+file = "affichesuniverse00aubr.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/affichesuniverse00aubr"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Aubry, Charles Louis,1746-1817"
+role = "author"
+
+[[resp]]
+name = "Aubry, Charles Louis, 1746-1817"
+role = "author"
+
+[[resp]]
+name = "Pellier, active 1790-1800?"
+role = "printer"
+
+[[resp]]
+name = "De l'imprimerie de Pellier, rue de la Huchette, n°. 21"
+role = "publisher"
+
+[[text]]
+file = "affichesuniverse00aubr.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "affichesuniverse00aubr.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "affichesuniverse00aubr.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "affichesuniverse00aubr.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,78 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arretedirectoire00unse_11"
+type = "pamphlet"
+title = "Arrêté du directoire, relatif aux bâtimens venant par mer à la foire de Beaucaire : du 7 juillet 1792, l'an 4e. de la liberté"
+language = "fr"
+place = "A Nismes"
+date = "1792"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/arretedirectoire00unse_11"
+subject = [
+    "Duty-free transit",
+    "Tariff",
+    "Customs administration",
+]
+extent = "4 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9831 no. 43"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t43r60865"
+internet_archive = "arretedirectoire00unse_11"
+
+[scan]
+file = "arretedirectoire00unse_11.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arretedirectoire00unse_11"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Gard (France). Directoire"
+role = "author"
+
+[[resp]]
+name = "Belle, Castor"
+role = "publisher"
+
+[[resp]]
+name = "Chez C. Belle, imprimeur national du département du Gard, place du Château, no. 32"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_854359"
+
+[[text]]
+file = "arretedirectoire00unse_11.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretedirectoire00unse_11.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretedirectoire00unse_11.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretedirectoire00unse_11.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

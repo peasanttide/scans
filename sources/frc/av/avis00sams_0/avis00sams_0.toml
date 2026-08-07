@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "avis00sams_0"
+type = "pamphlet"
+title = "Avis"
+language = "fr"
+place = "A Paris"
+date = "1792"
+note = "Caption title. Imprint from colophon. Latest publication date of books listed: 1792. Printed in double columns. BN. Catalogues de libraires. Includes original and discounted prices. Dated in ms., p. [1]: 21. 9bre 1792. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Text extends off of the edge of the page. Text may be lost in the binding. Permanent creases may obscure some text. Title page and cover are combined."
+url = "https://archive.org/details/avis00sams_0"
+subject = [
+    "Samson, Marc-Antoine",
+    "Booksellers and bookselling",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 5 no. 16"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4km5039z"
+internet_archive = "avis00sams_0"
+
+[scan]
+file = "avis00sams_0.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/avis00sams_0"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Samson, Marc-Antoine"
+role = "author"
+
+[[resp]]
+name = "Laillet"
+role = "printer"
+
+[[resp]]
+name = "De l'imprimerie de Laillet, rue de la Harpe, no. 6"
+role = "publisher"
+
+[[text]]
+file = "avis00sams_0.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avis00sams_0.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avis00sams_0.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avis00sams_0.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

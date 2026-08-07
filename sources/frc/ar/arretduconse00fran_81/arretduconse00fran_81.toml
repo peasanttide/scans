@@ -1,0 +1,81 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arretduconse00fran_81"
+type = "pamphlet"
+title = "Arrêt du Conseil d'État du roi, pourtant suppression de plusieurs libelles :"
+language = "fr"
+place = "A Paris"
+date = "1787"
+note = "Caption title. Publication information from colophon. Head-piece. Ms. annotations. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Title page and cover are combined."
+url = "https://archive.org/details/arretduconse00fran_81"
+subject = [
+    "Bergasse, Nicolas, 1750-1832",
+    "Carra, Jean-Louis, 1743-1793",
+    "Kornmann, Guillaume",
+    "Beaumarchais, Pierre Augustin Caron de, 1732-1799",
+    "Lenoir, Jean Pierre Charles, 1732-1807",
+    "Libel and slander",
+    "Prohibited books",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 10 no. 47"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7kq3mv1h"
+internet_archive = "arretduconse00fran_81"
+
+[scan]
+file = "arretduconse00fran_81.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arretduconse00fran_81"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Conseil d'Etat"
+role = "author"
+
+[[resp]]
+name = "France. Conseil d'Etat"
+role = "author"
+
+[[resp]]
+name = "Imprimerie royale (France)"
+role = "printer"
+
+[[resp]]
+name = "De l'Imprimerie royale"
+role = "publisher"
+
+[[text]]
+file = "arretduconse00fran_81.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretduconse00fran_81.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretduconse00fran_81.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretduconse00fran_81.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

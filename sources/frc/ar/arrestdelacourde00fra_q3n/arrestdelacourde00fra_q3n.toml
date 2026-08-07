@@ -1,0 +1,69 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arrestdelacourde00fra_q3n"
+type = "pamphlet"
+title = "Arrest de la Cour des monnoies, qui supprime deux mémoires imprimés, du 11 décembre 1771"
+language = "fr"
+place = "A Paris"
+date = "1772"
+note = """Suppression of two undated works attacking the procureur général du roi: Précis pour le sieur Pierre, ci-devant employé dans les fermes du roi, pour les marque d'or et d'argent ..., signed Leblan, avocat, and Addition au précis, pour le siuer Pierre, accusé, contre M. le procureurgénéral, accusateur, signed Pierre and Leblan, avocat. "Extrait des registres du Conseil d'état"--P. 1. Caption title. Imprint from colophon. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Title page and cover are combined."""
+url = "https://archive.org/details/arrestdelacourde00fra_q3n"
+subject = ["Leblan, 18th cent"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 8 no. 56"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6n06rr6g"
+internet_archive = "arrestdelacourde00fra_q3n"
+
+[scan]
+file = "arrestdelacourde00fra_q3n.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arrestdelacourde00fra_q3n"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Cour des monnaies"
+role = "author"
+
+[[resp]]
+name = "France. Cour des monnaies"
+role = "author"
+
+[[resp]]
+name = "Chez P.G. Simon ..."
+role = "publisher"
+
+[[text]]
+file = "arrestdelacourde00fra_q3n.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacourde00fra_q3n.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacourde00fra_q3n.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacourde00fra_q3n.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

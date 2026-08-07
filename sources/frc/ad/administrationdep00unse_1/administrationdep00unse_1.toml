@@ -1,0 +1,86 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "administrationdep00unse_1"
+type = "pamphlet"
+title = "L'administration départementale de la Côte-d'Or, aux administrations municipales de son ressort"
+language = "fr"
+place = "France"
+date = "1797"
+note = """Caption title. To left of title: Bureau de police civile & administrative. Signed, p. [2]: Fait à Dijon, à la séance du 28 messidor an 5 de la République française, où étoient présens les cit. Frantin, président ... [et al.]. Not in Martin & Walter. Révolution française. "Le ministre de l'intérieur, a l'administration départementale de la Côte-d'Or"--P. [2]-3; signed: Benezech. Scanner's note: Irregular Pagination. No copyright page found. No table-of-contents pages found. No title page found."""
+url = "https://archive.org/details/administrationdep00unse_1"
+subject = [
+    "France. Ministère de l'intérieur",
+    "Finance, Public",
+    "Central-local government relations",
+]
+extent = "[3] p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9701 no. 14"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6353s08m"
+internet_archive = "administrationdep00unse_1"
+
+[scan]
+file = "administrationdep00unse_1.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/administrationdep00unse_1"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Côte-d'Or (France). Administration centrale"
+role = "author"
+
+[[resp]]
+name = "Frantin, Louis-Nicolas, 1740-1803"
+role = "author"
+
+[[resp]]
+name = "Bénézech, Pierre, -1802"
+role = "author"
+
+[[resp]]
+name = "France. Ministère de l'intérieur"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_857098"
+
+[[text]]
+file = "administrationdep00unse_1.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "administrationdep00unse_1.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "administrationdep00unse_1.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "administrationdep00unse_1.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

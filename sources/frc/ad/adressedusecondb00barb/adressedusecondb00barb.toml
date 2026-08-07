@@ -1,0 +1,77 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "adressedusecondb00barb"
+type = "pamphlet"
+title = "Adresse du second bataillon des volontaires nationaux du département du Puy-de-Dôme, à l'Assemblée nationale, du 6 septembre 1792, l'an 4e. de la liberté & le premier de l'egalité."
+language = "fr"
+place = "A Paris"
+date = "1792"
+note = 'Caption title. Signed: Barbat, au nom du second bataillon du Puy-de-Dôme. Imprint from colophon. "Pétition. no. 106"--Bottom of p. [1]. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  I, 1423.'
+url = "https://archive.org/details/adressedusecondb00barb"
+extent = "3 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 13902"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0rr6fn87"
+internet_archive = "adressedusecondb00barb"
+
+[scan]
+file = "adressedusecondb00barb.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/adressedusecondb00barb"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Barbat de Closel, Étienne Victor, 1764-1842"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale législative (1791-1792)"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_829160"
+
+[[text]]
+file = "adressedusecondb00barb.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adressedusecondb00barb.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adressedusecondb00barb.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adressedusecondb00barb.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

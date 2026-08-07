@@ -1,0 +1,85 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arreterelatifauc00fran"
+type = "pamphlet"
+title = "Arrêté relatif au compte des dépenses faites en exécution de la loi du 28 germinal an VII, pour le petit équipement et mois de solde des conscrits : du 17 messidor an IX de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1801"
+note = """Caption title. At head of title: Dépôt des lois, place du Carrousel, a Paris. No. 1375. "Le premier Consul, signé Bonaparte"--P. 2. Imprint from colophon. "No. 6"--Bottom of p. [1]. Scanner's note: Irregular Pagination. No copyright page found. No table-of-contents pages found. No title page found."""
+url = "https://archive.org/details/arreterelatifauc00fran"
+subject = [
+    "France. Armée",
+    "Municipal government",
+    "Draftees",
+    "Finance, Public",
+]
+extent = "2 p. ; 29 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10325 no. 59"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4vj0nv9k"
+internet_archive = "arreterelatifauc00fran"
+openlibrary_edition = "OL26223539M"
+openlibrary_work = "OL17619004W"
+
+[scan]
+file = "arreterelatifauc00fran.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arreterelatifauc00fran"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Consulat (1799-1804)"
+role = "author"
+
+[[resp]]
+name = "Napoleon I, Emperor of the French, 1769-1821"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Depot des lois, place du Carrousel"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_851366"
+
+[[text]]
+file = "arreterelatifauc00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arreterelatifauc00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arreterelatifauc00fran.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arreterelatifauc00fran.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

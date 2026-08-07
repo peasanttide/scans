@@ -1,0 +1,69 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arrestdelacourde00fra_g4j"
+type = "pamphlet"
+title = "Arrest de la Cour de Parlement de Provence"
+language = "fr"
+place = "A Aix"
+date = "1753"
+note = "Caption title. Imprint at head of title. Condemns: Arrêt du Conseil d'etat du roi &c. sous la date du 20. juillet 1753. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Title page and cover are combined."
+url = "https://archive.org/details/arrestdelacourde00fra_g4j"
+subject = ["Censorship"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 6 no. 23"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3713rc1s"
+internet_archive = "arrestdelacourde00fra_g4j"
+
+[scan]
+file = "arrestdelacourde00fra_g4j.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arrestdelacourde00fra_g4j"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Parlement (Aix-en-Provence)"
+role = "author"
+
+[[resp]]
+name = "France. Parlement (Aix-en-Provence)"
+role = "author"
+
+[[resp]]
+name = "Chez la veuve de J. Davis & Esprit David"
+role = "publisher"
+
+[[text]]
+file = "arrestdelacourde00fra_g4j.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacourde00fra_g4j.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacourde00fra_g4j.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacourde00fra_g4j.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

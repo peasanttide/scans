@@ -1,0 +1,81 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "aucorpsleg00unse"
+type = "pamphlet"
+title = "Au Corps législatif : réclamation sur les conditions résolutoires portées dans les contrats de vente"
+language = "fr"
+place = "France"
+date = "1798"
+note = """Caption title. "Pierre Vaillard, ancien marchand, domicilié à Lyon, actuellement à Paris ... expose ..."--P. [1]. Dated at end: Le 15 prairial, an 6. Not in Martin & Walter. Révolution française. Scanner's note: Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text. No title page found. No copyright page found. No table-of-contents pages found."""
+url = "https://archive.org/details/aucorpsleg00unse"
+subject = [
+    "Vaillard, Pierre",
+    "Vendors and purchasers",
+    "Payment",
+    "Assignats",
+]
+extent = "[4] p. ; 24 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 27249"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t08w8k23n"
+internet_archive = "aucorpsleg00unse"
+openlibrary_edition = "OL26229724M"
+openlibrary_work = "OL17624757W"
+
+[scan]
+file = "aucorpsleg00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/aucorpsleg00unse"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Vaillard, Pierre"
+role = "author"
+
+[[resp]]
+name = "France. Corps législatif (1795-1814)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_868172"
+
+[[text]]
+file = "aucorpsleg00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "aucorpsleg00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "aucorpsleg00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "aucorpsleg00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

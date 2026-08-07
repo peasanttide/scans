@@ -1,0 +1,82 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "alusage00unse"
+type = "pamphlet"
+title = "A l'usage du temps."
+language = "fr"
+place = "Grenoble"
+date = "1788"
+note = """Caption title. Maignien attributes to "M. le chevalier de Laur, lieutenant au régiment royal la marine, en garnison à Grenoble.". Place and date of publication from Maignien. Maignien, E. Ouvrages anonymes et pseudonymes du Dauphiné. Not in Martin & Walter. Révolution française. Satirical songs on the reform of the parlements by Lamoignon and Loménie de Brienne. Forms part of the French Revolution Collection at the Newberry Library. Bibliography: Maignien, E.  Ouvrages anonymes et pseudonymes du Dauphiné,  98. Scanner's note: No copyright page found. No table-of-contents pages found. Damaged, stained pages and cover. Title on cover. No page numbers."""
+url = "https://archive.org/details/alusage00unse"
+subject = [
+    "Loménie de Brienne, Etienne Charles de, 1727-1794",
+    "Lamoignon, Chrétien-François de, 1735-1789",
+    "Parlements (French courts)",
+]
+extent = "[4] p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 27918"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6xw9s092"
+internet_archive = "alusage00unse"
+
+[scan]
+file = "alusage00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/alusage00unse"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Tallien, Jean-Lambert, 1767-2810"
+role = "author"
+
+[[resp]]
+name = "Laur, chevalier de"
+role = "author"
+
+[[resp]]
+name = "French Revolution Collection (Newberry Library) ICN"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_34348"
+
+[[text]]
+file = "alusage00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "alusage00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "alusage00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "alusage00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

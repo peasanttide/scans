@@ -1,0 +1,77 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arretedudirectoi00cote_4"
+type = "pamphlet"
+title = "Arrêté du directoire du département de la Côte-d'Or, concernant l'intitulé des actes de l'administration : du 11 du 2e. mois de l'an second de la République française, une et indivisible"
+language = "fr"
+place = "A Dijon"
+date = "1793"
+note = """Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. On the use of the phrase "au nom du peuple français" in decrees by entities other than the Convention nationale. Scanner's note: No copyright page found. No table-of-contents pages found. No title page found."""
+url = "https://archive.org/details/arretedudirectoi00cote_4"
+subject = [
+    "Promulgation (Law)",
+    "Constitutional law",
+]
+extent = "3 p. ; 28 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9701 no. 2"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t18m2f35n"
+internet_archive = "arretedudirectoi00cote_4"
+
+[scan]
+file = "arretedudirectoi00cote_4.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arretedudirectoi00cote_4"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Côte-d'Or (France). Directoire"
+role = "author"
+
+[[resp]]
+name = "Causse, P. (Pierre)"
+role = "publisher"
+
+[[resp]]
+name = "Chez P. Causse, imprimeur du département"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_857086"
+
+[[text]]
+file = "arretedudirectoi00cote_4.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretedudirectoi00cote_4.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretedudirectoi00cote_4.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretedudirectoi00cote_4.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

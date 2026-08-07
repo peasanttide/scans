@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "auxmanesdesonfre00rous"
+type = "pamphlet"
+title = "Aux manes de son frère et ami Gasparin représentant du peuple, le républicain T. Rousseau : Hymne."
+language = "fr"
+place = "Paris"
+date = "1793"
+note = "Caption title. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  IV:1, 30115."
+url = "https://archive.org/details/auxmanesdesonfre00rous"
+subject = ["Gasparin, Thomas-Augustin de, 1754-1793"]
+extent = "[3] p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 13084"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t18m22j2g"
+internet_archive = "auxmanesdesonfre00rous"
+openlibrary_edition = "OL25931607M"
+openlibrary_work = "OL17353836W"
+
+[scan]
+file = "auxmanesdesonfre00rous.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/auxmanesdesonfre00rous"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Rousseau, Thomas, -1800"
+role = "author"
+
+[[resp]]
+name = "Club des Jacobins"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie des 86 départemens et de la Société, aux Jacobins"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_827804"
+
+[[text]]
+file = "auxmanesdesonfre00rous.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "auxmanesdesonfre00rous.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "auxmanesdesonfre00rous.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "auxmanesdesonfre00rous.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,82 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arretesdesconsul00fran"
+type = "pamphlet"
+title = "Arrêtés des consuls de la République, concernant la liberté des cultes, et proclamation aux habitans des départemens de l'Ouest : du 7 nivose an VIII de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1799"
+note = """Caption title. At head of title: No. 1045. "Le premier Consul, signé Bonaparte"--P. 2. Imprint from colophon. "No. 3*"--Bottom of p. [1]. Io. Arrêté des consuls de la République, qui ordone la pleine et entière exécution de la liberté des cultes -- 2o. Arrêté des consuls de la République, concernant les édifices affectés par la loi du 11 prairial an 3, à l'exercise du culte -- 3o. Arrête des consuls de la République, qui prescrit le serment à prêter par les fonctionnaires publics, ministres des cultes, etc. -- Proclamation des consuls de la République aux habitans des départemens de l'Ouest. Scanner's note: No copyright page found. No table-of-contents pages found.  Title on cover. Damaged, stained pages and cover.  Uneven binding. Skewed text."""
+url = "https://archive.org/details/arretesdesconsul00fran"
+subject = [
+    "Church and state",
+    "Church buildings",
+    "Freedom of religion",
+]
+extent = "4 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10325 no. 7"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4pk5hc9b"
+internet_archive = "arretesdesconsul00fran"
+
+[scan]
+file = "arretesdesconsul00fran.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arretesdesconsul00fran"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Consulat (1799-1804)"
+role = "author"
+
+[[resp]]
+name = "Napoleon I, Emperor of the French, 1769-1821"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois, place du Carrousel"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_851315"
+
+[[text]]
+file = "arretesdesconsul00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretesdesconsul00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretesdesconsul00fran.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretesdesconsul00fran.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

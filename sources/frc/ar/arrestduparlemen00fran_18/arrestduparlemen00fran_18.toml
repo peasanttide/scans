@@ -1,0 +1,73 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arrestduparlemen00fran_18"
+type = "pamphlet"
+title = "Arrest du Parlement"
+language = "fr"
+place = "A Toulouse"
+date = "1756"
+note = "Caption title. Imprint at foot of p. [3]. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Text extends off of the edge of the page. Title page and cover are combined."
+url = "https://archive.org/details/arrestduparlemen00fran_18"
+subject = ["Censorship"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 6 no. 59"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8wb0sq5v"
+internet_archive = "arrestduparlemen00fran_18"
+
+[scan]
+file = "arrestduparlemen00fran_18.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arrestduparlemen00fran_18"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Parlement (Toulouse)"
+role = "author"
+
+[[resp]]
+name = "France. Parlement (Toulouse)"
+role = "author"
+
+[[resp]]
+name = "Castres, France (Diocese). Bishop, 1752-1773 (Jean Sébastien de Barral)"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Me Bernard Pijon"
+role = "publisher"
+
+[[text]]
+file = "arrestduparlemen00fran_18.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestduparlemen00fran_18.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestduparlemen00fran_18.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestduparlemen00fran_18.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

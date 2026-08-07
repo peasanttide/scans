@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arretedudirectoi00vauc"
+type = "pamphlet"
+title = "Arrêté du directoire du département de Vaucluse, sur les poudres et salpêtres : séance publique du 9 pluviôse, l'an second de la République française, une et indivisible : présens Lafont, président, Bosse, Dérat, Borel, Chappuis, Marchand, Cottier-Julian, secrétaire général"
+language = "fr"
+place = "A Avignon"
+date = "1794"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover."
+url = "https://archive.org/details/arretedudirectoi00vauc"
+subject = [
+    "Gunpowder industry",
+    "Saltpeter industry",
+    "War and emergency powers",
+]
+extent = "4 p. ; 24 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10310 no. 3"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0kt1t69p"
+internet_archive = "arretedudirectoi00vauc"
+openlibrary_edition = "OL26222960M"
+openlibrary_work = "OL17618420W"
+
+[scan]
+file = "arretedudirectoi00vauc.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arretedudirectoi00vauc"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Vaucluse (France : Department). Directoire"
+role = "author"
+
+[[resp]]
+name = "Chez Vincent Raphel, imprimeur du département"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_856913"
+
+[[text]]
+file = "arretedudirectoi00vauc.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretedudirectoi00vauc.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretedudirectoi00vauc.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretedudirectoi00vauc.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

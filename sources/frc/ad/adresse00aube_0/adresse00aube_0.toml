@@ -1,0 +1,73 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "adresse00aube_0"
+type = "pamphlet"
+title = "Adresse"
+language = "fr"
+place = "s.l."
+date = "1795"
+note = "Caption title. Without imprint. Dated at end: Troyes, le 14 prairial, l'an troisi`eme de la République française, une et indivisible [2 juin 1795]. Martin & Walter IV 2: 2265. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages."
+url = "https://archive.org/details/adresse00aube_0"
+extent = "[3] p. ; 24 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9364"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t12p07n00"
+internet_archive = "adresse00aube_0"
+
+[scan]
+file = "adresse00aube_0.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/adresse00aube_0"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Aube (France)"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_67222"
+
+[[text]]
+file = "adresse00aube_0.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adresse00aube_0.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adresse00aube_0.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adresse00aube_0.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

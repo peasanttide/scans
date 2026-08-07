@@ -1,0 +1,85 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "actesdeprotestat00lego"
+type = "pamphlet"
+title = "Actes de protestation signifié au sieurs syndic, doyen, & docteurs de la Faculté de theologie de Paris :"
+language = "fr"
+place = "Paris?"
+date = "1700"
+note = "Caption title. Relating to Histoire de l'édit de l'Empereur de Chine, by Le Gobien; and Nouveaux mémoires sur l'état présent de la Chine, by Le Comte. BN, 93, c.166. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Title page and cover are combined."
+url = "https://archive.org/details/actesdeprotestat00lego"
+subject = [
+    "Université de Paris. Faculté de théologie",
+    "Jesuits",
+    "Prohibited books",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 2 no. 100"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6g21m72d"
+internet_archive = "actesdeprotestat00lego"
+
+[scan]
+file = "actesdeprotestat00lego.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/actesdeprotestat00lego"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Le Gobien, Charles,1653-1708"
+role = "author"
+
+[[resp]]
+name = "Le Gobien, Charles, 1653-1708"
+role = "author"
+
+[[resp]]
+name = "Le Gobien, Charles, 1653-1708. Histoire de l'édit de l'Empereur de Chine"
+role = "author"
+
+[[resp]]
+name = "Le Comte, Louis Daniel, 1655-1728. Nouveaux mémoires sur l'état présent de la Chine"
+role = "author"
+
+[[resp]]
+name = "Université de Paris. Faculté de théologie"
+role = "author"
+
+[[resp]]
+name = "s.n.]"
+role = "publisher"
+
+[[text]]
+file = "actesdeprotestat00lego.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "actesdeprotestat00lego.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "actesdeprotestat00lego.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "actesdeprotestat00lego.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

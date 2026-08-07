@@ -1,0 +1,78 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arretconseil00unse_16"
+type = "pamphlet"
+title = "Arrêt du Conseil d'État du roi, concernant la Caisse d'escompte : du 27 septembre 1783 : extrait des registres du Conseil d'État"
+language = "fr"
+place = "A Paris"
+date = "1788"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."
+url = "https://archive.org/details/arretconseil00unse_16"
+subject = [
+    "Caisse d'escompte (France)",
+    "Money supply",
+    "Monetary policy",
+]
+extent = "3 p. ; 28 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 27316"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t02z6cq47"
+internet_archive = "arretconseil00unse_16"
+
+[scan]
+file = "arretconseil00unse_16.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arretconseil00unse_16"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Conseil d'Etat"
+role = "author"
+
+[[resp]]
+name = "Prault, Louis-François, 1734-1806"
+role = "publisher"
+
+[[resp]]
+name = "Chez Prault, libraire, à l'hôtel de la Trésorerie, cour de la Sainte-Chapelle, au Palais"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_863210"
+
+[[text]]
+file = "arretconseil00unse_16.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretconseil00unse_16.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretconseil00unse_16.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretconseil00unse_16.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

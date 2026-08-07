@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "auxcitoyensmembr00godb"
+type = "pamphlet"
+title = "Aux citoyens membres du Comité de législation et aux représentans du peuple."
+language = "fr"
+place = "Paris"
+date = "1795"
+note = """Caption title. Signed: Godbert, fondé de procuration de Cécile Parnoix. Imprint from colophon. "Présenté à Paris, le 18 prairial, troisième année de la République française une et indivisible"--P. 4. Publication location from Martin & Walter. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  II, 15079. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover."""
+url = "https://archive.org/details/auxcitoyensmembr00godb"
+subject = ["Inheritance and succession"]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 11822"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3nw4601z"
+internet_archive = "auxcitoyensmembr00godb"
+openlibrary_edition = "OL25924612M"
+openlibrary_work = "OL17347236W"
+
+[scan]
+file = "auxcitoyensmembr00godb.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/auxcitoyensmembr00godb"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Godbert"
+role = "author"
+
+[[resp]]
+name = "Parnoix, Cécile"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale. Comité de législation"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Lottin, cour de la Ste-Chapelle, no. 28, au Palais de Justice"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_825413"
+
+[[text]]
+file = "auxcitoyensmembr00godb.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "auxcitoyensmembr00godb.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "auxcitoyensmembr00godb.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "auxcitoyensmembr00godb.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

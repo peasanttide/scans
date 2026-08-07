@@ -1,0 +1,82 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arretduconseil00unse_52"
+type = "pamphlet"
+title = "Arrêt du Conseil d'État du roi, qui ordonne que les veuves d'agrégés aux nouvelles communautés, tant de la ville de Rouen, que des autres villes du ressort du Parlement de Normandie, pourront être admises dans lesdites communautés dans l'année de leur veuvage, en payant seulement la moitié des droits ordinaires de réception : du 6 février 1784 : extrait des registres du Conseil d'État"
+language = "fr"
+place = "A Paris"
+date = "1784"
+note = """
+Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover. 
+Back cover is upside down. Only one numbered page."""
+url = "https://archive.org/details/arretduconseil00unse_52"
+subject = [
+    "France. Parlement (Normandy)",
+    "Widows",
+    "Customary law",
+]
+extent = "2 p. ; 28 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC suppl. 87 no. 106"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t68391431"
+internet_archive = "arretduconseil00unse_52"
+openlibrary_edition = "OL26235117M"
+openlibrary_work = "OL17629700W"
+
+[scan]
+file = "arretduconseil00unse_52.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arretduconseil00unse_52"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Conseil d'Etat"
+role = "author"
+
+[[resp]]
+name = "Imprimerie royale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie royale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_863214"
+
+[[text]]
+file = "arretduconseil00unse_52.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretduconseil00unse_52.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretduconseil00unse_52.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretduconseil00unse_52.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

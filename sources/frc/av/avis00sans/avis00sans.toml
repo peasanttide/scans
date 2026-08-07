@@ -1,0 +1,97 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "avis00sans"
+type = "pamphlet"
+title = "Avis /"
+language = "fr"
+place = "Paris"
+date = "1794"
+note = "Caption title. Imprint from colophon. Martin & Walter IV 2: 2577. Scanner's note: No copyright. No table of contents. Title on cover. Damaged, stained pages and cover. <br /><br />."
+url = "https://archive.org/details/avis00sans"
+extent = "7 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 1326"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5w71hb2p"
+internet_archive = "avis00sans"
+
+[scan]
+file = "avis00sans.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/avis00sans"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "Sans-culotte"
+role = "author"
+
+[[resp]]
+name = "Société des amis de la liberté et de l'égalité séante aux ci-devant Jacobins"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Guffroy"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_41395"
+
+[[text]]
+file = "avis00sans.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avis00sans.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avis00sans.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avis00sans.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avis00sans.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avis00sans.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avis00sans.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avis00sans.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

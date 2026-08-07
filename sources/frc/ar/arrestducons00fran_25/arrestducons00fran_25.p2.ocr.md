@@ -1,0 +1,39 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: arrestducons00fran_25
+page: 2
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 2858
+h: 3969
+dpi: 500
+---
+
+fa faute , ledit Moreau a pris le parti d’ajouter de fon propre
+mouvement, à la fin de l’imprimé de ce Mémoire, la qualité
+d’Avocat à la fignature de celui qui en avoit fouferit la minute,
+fans s’étre informé fi ce particulier, qui ne s’étoit pas qualifié
+tel, étoit réellement Avocat, 6c s’il étoit fur le tableau des
+Avocats. Sa Majefié reconnoiffant combien il eft intéreffant
+de réprimer de pareils abus, 6c de punir ledit Moreau, pour
+s’être écarté des bornes preferites aux Imprimeurs : Ouï le
+rapport, 6c tout confidéré; Le Roi étant en son Conseil,
+de l’avis de M. le Vice-Chancelier, a ordonné 6c ordonne,
+que ledit Mémoire fera 6c demeurera fupprimé ; fait très-
+exprelfes inhibitions 6c défenfes audit Nicolas-François Moreau,
+6c à tous autres Imprimeurs, d’imprimer à l’avenir aucuns ou-
+vrages 6c Mémoires, qu’ils n’en aient obtenu la permilfion, ou
+n’y aient été autorifés par la fignature d’un Orfïcier public,
+conformément aux règlemens de la Librairie; 6c pour, par ledit
+Moreau, y être contrevenu, le condamne en cinq cents livres
+d’amende : Enjoint Sa Majefié au heur Lieutenant général de
+Police, de tenir la main à l’exécution du préfent arrêt, qui
+fera imprimé 6c affiché par-tout où befoin fera, 6c tranferit fur
+les regiftres des Chambres fyndicales du royaume. Fait au
+Confeil d’État du Roi, Sa Majefié y étant, tenu à Verfailles
+le trois mai mil fept cent foixante-fix. Signé Phelypeaux.
+
+Regiflré fur le régi (Ire de h communauté des Lib aires & Imprimeurs
+de Paris, le fei^e mai mil fept cent foixante-fix . Signé Despilly, Adjointe
+
+A PARIS, DE L’IMPRIMERIE ROYALE. 1766.

@@ -1,0 +1,87 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "avisdivers00prev"
+type = "pamphlet"
+title = "Avis divers"
+language = "fr"
+place = "Paris?"
+date = "1792"
+note = """Advertisement detached from an unidentified publication for a collection of laws decreed by the Assemblée nationale constituante, 1789-1791, and for "Vedette, ou, Précis de toutes les nouvelles du jour". "S'adr. à M. Prevost de St. Lucien, anc. avocat au Parlement de Paris, actuellement imprimeur, boulev. de la porte St.-Martin à celle St.-Denis, n°. 3.". Date written in ms. on Newberry's copy: 22 juin 1792. Includes prices. Ms annotations. Scanner's note: No copyright found.  No table of contents found.  Damaged, stained pages.  No page numbers. <br />."""
+url = "https://archive.org/details/avisdivers00prev"
+subject = [
+    "France. Assemblée nationale constituante (1789-1791)",
+    "Vedette, ou, Précis de toutes les nouvelles du jour",
+    "Booksellers and bookselling",
+    "Legal literature",
+    "Periodicals",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1a no. 133"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3713rc28"
+internet_archive = "avisdivers00prev"
+
+[scan]
+file = "avisdivers00prev.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/avisdivers00prev"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "Prévost Saint-Lucien, Roch-Henri, 1740-1808"
+role = "bookseller"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791). Laws, statutes, etc"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[text]]
+file = "avisdivers00prev.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avisdivers00prev.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avisdivers00prev.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avisdivers00prev.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avisdivers00prev.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avisdivers00prev.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

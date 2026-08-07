@@ -1,0 +1,69 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arrestdelacourde00fra_0et"
+type = "pamphlet"
+title = "Arrest de la Cour de Parlement"
+language = "fr"
+place = "A Paris"
+date = "1712"
+note = "Caption title. Imprint and imprint date on p. [4]."
+url = "https://archive.org/details/arrestdelacourde00fra_0et"
+subject = ["Noailles, Louis-Antoine de, 1651-1729"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 3 no. 41"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t61606m87"
+internet_archive = "arrestdelacourde00fra_0et"
+
+[scan]
+file = "arrestdelacourde00fra_0et.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arrestdelacourde00fra_0et"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Parlement (Paris)"
+role = "author"
+
+[[resp]]
+name = "France. Parlement (Paris)"
+role = "author"
+
+[[resp]]
+name = "Chez la veuve François Muguet & Hubert Muguet"
+role = "publisher"
+
+[[text]]
+file = "arrestdelacourde00fra_0et.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacourde00fra_0et.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacourde00fra_0et.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacourde00fra_0et.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

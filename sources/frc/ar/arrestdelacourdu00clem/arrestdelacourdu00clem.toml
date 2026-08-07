@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arrestdelacourdu00clem"
+type = "pamphlet"
+title = "Arrest de la cour du Parlement [of Paris], qui supprime un imprimé, intitulé :"
+language = "fr"
+place = "Paris"
+date = "1738"
+note = "The papal bull cited was issued by Pope Clement XII. Scanner's note: No copyright found.  No table of contents found.  Damaged, stained pages and cover.  Title on cover. <br />."
+url = "https://archive.org/details/arrestdelacourdu00clem"
+subject = [
+    "Vincent de Paul, Saint, 1576?-1660",
+    "Censorship",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 5 no. 55"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t10p6pb9b"
+internet_archive = "arrestdelacourdu00clem"
+
+[scan]
+file = "arrestdelacourdu00clem.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arrestdelacourdu00clem"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "ClementXII,Pope,1652-1740"
+role = "author"
+
+[[resp]]
+name = "Clement XII, Pope, 1652-1740"
+role = "author"
+
+[[resp]]
+name = "Catholic Church. Pope (1730-1740 : Clement XII)"
+role = "author"
+
+[[resp]]
+name = "Paulo, Canonisatio B. Vincentii à"
+role = "author"
+
+[[resp]]
+name = "Chez P. Simon"
+role = "publisher"
+
+[[text]]
+file = "arrestdelacourdu00clem.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacourdu00clem.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacourdu00clem.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacourdu00clem.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

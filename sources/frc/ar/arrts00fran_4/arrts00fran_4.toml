@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arrts00fran_4"
+type = "pamphlet"
+title = "... Arrêtés /"
+language = "fr"
+place = "Au Puy"
+date = "1795"
+note = """Caption title. Imprint from colophon. At head of title: République française. "Tous les congés et réquisitions qu'il [i.e. le Comité] a accordés depuis le 15 germinal dernier jusqu'au 15 thermidor suivant, à des militaires ou jeunes gens de l'âge de la première réquisition, sont rapportés et comme non-avenus": p.[1]. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on cover page. Damaged, stained and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/arrts00fran_4"
+subject = ["France. Armée"]
+extent = "3 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 2222"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0gv0pp6w"
+internet_archive = "arrts00fran_4"
+openlibrary_edition = "OL26218414M"
+openlibrary_work = "OL17614120W"
+
+[scan]
+file = "arrts00fran_4.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arrts00fran_4"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Corps législatif (1795-1814). Comité de salut public"
+role = "author"
+
+[[resp]]
+name = "France. Corps législatif (1795-1814). Comité de salut public"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de J.-A. Crespy"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_45944"
+
+[[text]]
+file = "arrts00fran_4.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrts00fran_4.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrts00fran_4.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrts00fran_4.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

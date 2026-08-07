@@ -1,0 +1,77 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arretduconse00fran_27"
+type = "pamphlet"
+title = "Arrêt du Conseil d'État du roi, du 25 mai 1781"
+language = "fr"
+place = "A Paris"
+date = "1781"
+note = "Caption title. Publication information from colophon. Head-piece. Prohibits the printing and display of announcements for the sale of private libraries and temporarily divests Louis-Pierre Couret de Villeneuve of his permission to print in Orléans as punishment for engaging in this activity. Scanner's note: No copyright found.  No table of contents found.  Damaged, stained pages and cover.  Title on cover. <br />."
+url = "https://archive.org/details/arretduconse00fran_27"
+subject = [
+    "Couret de Villeneuve, Louis-Pierre, 1749-1806",
+    "Printing industry",
+    "Printers",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 9 no. 66"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6p03sq2p"
+internet_archive = "arretduconse00fran_27"
+
+[scan]
+file = "arretduconse00fran_27.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arretduconse00fran_27"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "France.Conseil d'Etat"
+role = "author"
+
+[[resp]]
+name = "France. Conseil d'Etat"
+role = "author"
+
+[[resp]]
+name = "Imprimerie royale (France)"
+role = "printer"
+
+[[resp]]
+name = "De l'Imprimerie royale"
+role = "publisher"
+
+[[text]]
+file = "arretduconse00fran_27.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretduconse00fran_27.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretduconse00fran_27.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretduconse00fran_27.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

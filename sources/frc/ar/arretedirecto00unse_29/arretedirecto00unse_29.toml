@@ -1,0 +1,81 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arretedirecto00unse_29"
+type = "pamphlet"
+title = "Arrêté du Directoire exécutif, portant que celui du 14 nivose dernier, concernant l'emploi de la monnaie de cuivre dans les paiemens à faire aux différentes caisses publiques, sera publiée dans les départemens réunis par la loi du 9 vendémiaire, an IV : du 26 prairial, an IV de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1796"
+note = """
+Caption title. At head of title: No. 193. At right of title: B. 53. No. 457. "Pour expédition conforme, signé Carnot, président; par le Directoire exécutif, le secrétaire général, Lagarde"--P. 2. Imprint from colophon. Not in Martin & Walter. Révolution française. "Arrêté du Directoire exécutif, concernant l'emploi de la monnaie de cuivre dans les paiemens à faire aux différentes caisses publiques. Du 14 nivose, an IV. B. 53, No. 458"--P.[1]-2. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover. 
+Only one numbered page."""
+url = "https://archive.org/details/arretedirecto00unse_29"
+subject = [
+    "Payment",
+    "Monetary policy",
+    "Promulgation (Law)",
+    "Government publications",
+]
+extent = "2 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10328 no. 32"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t42r8zj6s"
+internet_archive = "arretedirecto00unse_29"
+
+[scan]
+file = "arretedirecto00unse_29.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/arretedirecto00unse_29"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Directoire exécutif"
+role = "author"
+
+[[resp]]
+name = "Carnot, Lazare, 1753-1823"
+role = "author"
+
+[[resp]]
+name = "Lagarde, Joseph-Jean, baron, 1755-1840"
+role = "author"
+
+[[resp]]
+name = "France. Directoire exécutif. Arrêté du Directoire exécutif, concernant l'emploi de monnaie de cuivre dans les paiemens à faire aux différentes caisses publiques, du 14 nivose, an IV"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépot des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_856239"
+
+[[text]]
+file = "arretedirecto00unse_29.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretedirecto00unse_29.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arretduconseil00unse_59"
+type = "pamphlet"
+title = "Arrêt du Conseil d'État du roi, qui, en ordonnant l'exécution des lettres patentes du mois de mai dernier, proroge jusqu'au 1er. janvier 1785, le délai pour justifier des titres de prorpiété des échoppes, rues aux Fers & de la Barillerie, & autres terreins faisant partie de la voie publique, sinon en ordonnne la réunion au domaine, la démolition & suppression : du 4 octobre 1784 : extrait des registres du Conseil d'État"
+language = "fr"
+place = "A Paris"
+date = "1784"
+note = """
+Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover. 
+Back cover is upside down."""
+url = "https://archive.org/details/arretduconseil00unse_59"
+subject = [
+    "Public land roads",
+    "Vending stands",
+    "Building laws",
+]
+extent = "3 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC suppl. 87 no. 115"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5t77mh4s"
+internet_archive = "arretduconseil00unse_59"
+
+[scan]
+file = "arretduconseil00unse_59.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arretduconseil00unse_59"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Conseil d'Etat"
+role = "author"
+
+[[resp]]
+name = "Imprimerie royale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie royale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_863223"
+
+[[text]]
+file = "arretduconseil00unse_59.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretduconseil00unse_59.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretduconseil00unse_59.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretduconseil00unse_59.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,77 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arretedudirectoi00main_9"
+type = "pamphlet"
+title = "Arrété du directoire du département de Mayenne et Loire, concernant le recouvrement arriéré des rôles du ci-devant impôt du sel pour l'année 1789 : séance du 1er. juin 1792, l'an 4e. de la liberté"
+language = "fr"
+place = "Angers"
+date = "1792"
+note = "Caption title. At head of title: Departement de Maine et Loire. La nation la loi et le roi. 1790. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on the cover page. Damaged, stained, and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/arretedudirectoi00main_9"
+subject = [
+    "Salt",
+    "Tax administration and procedure",
+]
+extent = "4 p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC suppl. 123 no. 10"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t14n4d79t"
+internet_archive = "arretedudirectoi00main_9"
+
+[scan]
+file = "arretedudirectoi00main_9.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arretedudirectoi00main_9"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Maine-et-Loire (France). Directoire"
+role = "author"
+
+[[resp]]
+name = "Mame, Charles-Pierre, 1747-1825"
+role = "publisher"
+
+[[resp]]
+name = "De l'imprimerie du département de Mayenne et Loire, chez Mame, rue Centrale, à Angers"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_861426"
+
+[[text]]
+file = "arretedudirectoi00main_9.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretedudirectoi00main_9.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretedudirectoi00main_9.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretedudirectoi00main_9.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

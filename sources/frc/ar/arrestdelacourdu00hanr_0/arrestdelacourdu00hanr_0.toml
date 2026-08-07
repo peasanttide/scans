@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arrestdelacourdu00hanr_0"
+type = "pamphlet"
+title = "Arrest de la cour du Parlement [of Paris]"
+language = "fr"
+place = "Paris"
+date = "1733"
+note = "Caption title. Imprint at foot of p. 4. Relating to the suppression of a thesis presented at the Sorbonne by John Hanrahan."
+url = "https://archive.org/details/arrestdelacourdu00hanr_0"
+subject = [
+    "Paris (France). Université",
+    "Censorship",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 5 no. 27"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5n92vv0g"
+internet_archive = "arrestdelacourdu00hanr_0"
+
+[scan]
+file = "arrestdelacourdu00hanr_0.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arrestdelacourdu00hanr_0"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Hanrahan, John"
+role = "author"
+
+[[resp]]
+name = "France. Parlement (Paris)"
+role = "author"
+
+[[resp]]
+name = "Chez P. Simon"
+role = "publisher"
+
+[[text]]
+file = "arrestdelacourdu00hanr_0.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacourdu00hanr_0.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacourdu00hanr_0.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacourdu00hanr_0.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

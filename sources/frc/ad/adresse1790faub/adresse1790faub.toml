@@ -1,0 +1,81 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "adresse1790faub"
+type = "pamphlet"
+title = "Adresse"
+language = "fr"
+place = "s.l."
+date = "1790"
+note = "Scanner's note: Title / Cover pages combined. Stained pages. Some skewed text.  No table-of-contents pages found. No copyright page found. Title and cover combined, no physical cover."
+url = "https://archive.org/details/adresse1790faub"
+extent = "6 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 352"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2g76wr3f"
+internet_archive = "adresse1790faub"
+
+[scan]
+file = "adresse1790faub.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/adresse1790faub"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Faubourg Saint-Antoine (Paris, France). Citizens"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_32997"
+
+[[text]]
+file = "adresse1790faub.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "adresse1790faub.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "adresse1790faub.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "adresse1790faub.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "adresse1790faub.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "adresse1790faub.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"

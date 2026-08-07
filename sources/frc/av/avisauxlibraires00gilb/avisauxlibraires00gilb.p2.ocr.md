@@ -1,0 +1,49 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: avisauxlibraires00gilb
+page: 2
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 2829
+h: 3820
+dpi: 350
+---
+
+Sous presse ,
+
+Les Œuvres complètes de GesSner, in- 18.
+
+Le même , in- 8 °. , très-grande marge et superbe papier.
+
+Le compère Matthieu, in- 12, et in-Q°. grande marge, aussi
+avec très-belles Gravures.
+
+Parmi leurs livres de fonds , il se trouve quelques exemplaires
+des Ouvrages ci-après :
+
+Bibliothèque des Enfants , un vol. in- 12, fîg.
+
+Histoire naturelle, pour les mêmes, un vol. in- 12, fig.
+Géographie de la France, 4 vol. in- 12.
+
+Tactique navale, à l’usagedes Marins, contenant le méchanisme
+des différentes évolutions navales , in-fol. Gravures en bois.
+
+Cecilia, ou Mémoires d’une jeune Héritière, 7 vol. in- 18,
+fig. papier commun et papier fin.
+
+Ils préviennent leurs confrères qu’ils répondront , courrier par
+courrier , à toutes les demandes qui leur seront faites ;
+
+Qu’ils mettront la plus grande exactitude et le plus grand soin
+dans les envois ;
+
+Qu’ils se chargeront de tous les abonnements pour les Ouvrages
+périodiques ou autres ;
+
+Qu’ils feront la commission , soit pour vente , soit pour échanges
+d’Ouvrages , et tout ce qui concerne la Librairie.
+
+Ils préviennent aussi qu’ils feront parvenir, franc de port , tout
+ce qui les concernera , et que les lettres qui leur seraient adressées
+sans être affranchies , ne seront pas reçues.

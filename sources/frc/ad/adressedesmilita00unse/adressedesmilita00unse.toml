@@ -1,0 +1,53 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "adressedesmilita00unse"
+type = "pamphlet"
+title = "... Adresse des militaires invalides : a la Convention nationale ; imprimée par ordre de la Convention, & envoyée aux quatre-vingt-quatre départemens."
+language = "fr"
+place = "s.l."
+date = "1793"
+note = "Scanner's note: Title and cover combined.  No table-of-contents pages found. No copyright page found. Some text skewed. No physical cover. Stained pages. No page numbers found."
+url = "https://archive.org/details/adressedesmilita00unse"
+extent = "2, [1] p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 357"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5q84tm2x"
+internet_archive = "adressedesmilita00unse"
+
+[scan]
+file = "adressedesmilita00unse.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/adressedesmilita00unse"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_36661"
+
+[[text]]
+file = "adressedesmilita00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "adressedesmilita00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"

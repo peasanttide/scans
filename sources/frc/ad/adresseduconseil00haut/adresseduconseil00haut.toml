@@ -1,0 +1,78 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "adresseduconseil00haut"
+type = "pamphlet"
+title = "Adresse du conseil du département de Haute-Garonne, a la Convention nationale"
+language = "fr"
+place = "Toulouse"
+date = "1793"
+note = "Caption title. Imprint from colophon. Dated at end: Délibéré le 9 février 1793, l'an second de la République française. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages."
+url = "https://archive.org/details/adresseduconseil00haut"
+subject = ["Louis XVI, King of France, 1754-1793"]
+extent = "3 p. ; 28 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9835 no. 31"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t21c73s8h"
+internet_archive = "adresseduconseil00haut"
+
+[scan]
+file = "adresseduconseil00haut.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/adresseduconseil00haut"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Haute-Garonne (France). Conseil général"
+role = "author"
+
+[[resp]]
+name = "Besian, Jean-Gabriel"
+role = "publisher"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Besian, place St.-George, no. 285"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_854408"
+
+[[text]]
+file = "adresseduconseil00haut.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adresseduconseil00haut.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adresseduconseil00haut.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adresseduconseil00haut.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

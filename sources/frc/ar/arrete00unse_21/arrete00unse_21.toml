@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arrete00unse_21"
+type = "pamphlet"
+title = "Arr^eté"
+language = "fr"
+place = "A Poitiers"
+date = "1797"
+note = """
+Caption title. Imprint from colophon. Martin & Walter IV 2: 18008. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover. 
+Only one numbered page. Tight margins. Text lost in binding."""
+url = "https://archive.org/details/arrete00unse_21"
+subject = ["Paper money"]
+extent = "4 p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10314"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4pk5hc8v"
+internet_archive = "arrete00unse_21"
+
+[scan]
+file = "arrete00unse_21.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arrete00unse_21"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Vienne (France)"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Barbier"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_71951"
+
+[[text]]
+file = "arrete00unse_21.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrete00unse_21.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrete00unse_21.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrete00unse_21.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

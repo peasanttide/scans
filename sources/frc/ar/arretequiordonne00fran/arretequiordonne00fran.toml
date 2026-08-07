@@ -1,0 +1,87 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arretequiordonne00fran"
+type = "pamphlet"
+title = "Arrêté qui ordonne la formation d'un tableau nominatif des conscrits qui ont été appelés à la formation des bataillons auxiliaires, du 13 pluviose an VIII de la République française"
+language = "fr"
+place = "A Paris"
+date = "1800"
+note = """Caption title. At head of title: No. 1067. "Le premier Consul, signé Bonaparte"--P. 2. Imprint from colophon. "No. 6"--Bottom of p. [1]. "Le général commandant en chef les 15e. et 17e. divisions militaires, aux conscrits"--P. 3-4. Scanner's note: No copyright page found. No table-of-contents pages found.  Title on cover. Damaged, stained pages and cover.  Uneven binding. Skewed text."""
+url = "https://archive.org/details/arretequiordonne00fran"
+subject = [
+    "France. Armée",
+    "Draftees",
+    "Draft registration",
+    "Second Coalition, War of the, 1798-1801",
+]
+extent = "4 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10325 no. 13"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3pw1mg6s"
+internet_archive = "arretequiordonne00fran"
+
+[scan]
+file = "arretequiordonne00fran.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arretequiordonne00fran"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Consulat (1799-1804)"
+role = "author"
+
+[[resp]]
+name = "Napoleon I, Emperor of the French, 1769-1821"
+role = "author"
+
+[[resp]]
+name = "Lefèbvre, Francois-Joseph, duc de Dantzick, maréchal de France, 1755-1820"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois, place du Carrousel"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_851320"
+
+[[text]]
+file = "arretequiordonne00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretequiordonne00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretequiordonne00fran.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretequiordonne00fran.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

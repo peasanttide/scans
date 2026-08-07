@@ -1,0 +1,65 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "adresseauclergde1790unse"
+type = "pamphlet"
+title = "Adresse au clergé de France."
+language = "fr"
+place = "s.l."
+date = "1790"
+note = "Scanner's note: Title / Cover pages combined. Stained pages. Some skewed text.  No table-of-contents pages found. No copyright page found. Title and cover combined, no physical cover."
+url = "https://archive.org/details/adresseauclergde1790unse"
+extent = "4 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 164"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8qc3j617"
+internet_archive = "adresseauclergde1790unse"
+
+[scan]
+file = "adresseauclergde1790unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/adresseauclergde1790unse"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_32824"
+
+[[text]]
+file = "adresseauclergde1790unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "adresseauclergde1790unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "adresseauclergde1790unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "adresseauclergde1790unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"

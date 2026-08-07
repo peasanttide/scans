@@ -1,0 +1,73 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arrestdelacourde00fra_ux0"
+type = "pamphlet"
+title = "Arrest de la Cour de Parlement"
+language = "fr"
+place = "Paris"
+date = "1731"
+note = """Caption title; imprint from colophon. "Vû l'ordonnance intitulée: Ordonnance & instruction pastorale de M. l'archevêque de Paris portant condamnation d'un ecrit qui a pour titre, Memoire pour les sieurs Samson curé d'Olivet, &c. & autres ecclésiastiques de differens diocéses, appellans comme d'abus, datée du 10 janvier 1731"--P. 3. Final p. blank."""
+url = "https://archive.org/details/arrestdelacourde00fra_ux0"
+subject = ["Catholic Church. Archdiocese of Paris. Archbishop (1729-1746 : Vintimille du Luc)"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 5 no. 7"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3wt49907"
+internet_archive = "arrestdelacourde00fra_ux0"
+
+[scan]
+file = "arrestdelacourde00fra_ux0.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arrestdelacourde00fra_ux0"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Parlement (Paris)"
+role = "author"
+
+[[resp]]
+name = "France. Parlement (Paris)"
+role = "author"
+
+[[resp]]
+name = "Catholic Church. Archdiocese of Paris (France). Archbishop (1729-1746 : Vintimille du Luc)"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Pierre Simon, ruë de la Harpe"
+role = "publisher"
+
+[[text]]
+file = "arrestdelacourde00fra_ux0.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacourde00fra_ux0.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacourde00fra_ux0.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacourde00fra_ux0.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

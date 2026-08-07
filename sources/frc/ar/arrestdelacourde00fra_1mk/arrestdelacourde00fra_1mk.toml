@@ -1,0 +1,78 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arrestdelacourde00fra_1mk"
+type = "pamphlet"
+title = "Arrest de la Cour de Parlement qui ordonne, que le libelle intitulé, Extrait des témoignages de l'eglise universelle, en faveur de la constitution Unigenitus, tiré du Second avertissement du Sieur evêque de Soissons, sera laceré & brûle comme séditieux, en la cour du palais, au pied du grand escalier, par l'executeur des sentences criminelles, du 24 novembre 1718"
+language = "fr"
+place = "A Rouen"
+date = "1718"
+note = """Extrait des témoignages de l'eglise universelle ... without imprint. "Extrait des Registres de la Cour de Parlement"--P. 2. Signed at end: De Boutigny. BN Dép. des manuscrits. Collection Anisson."""
+url = "https://archive.org/details/arrestdelacourde00fra_1mk"
+subject = [
+    "Catholic Church. Diocese of Soissons. Bishop (1715-1730 : Languet de Gergy)",
+    "Catholic Church. Pope (1700-1721 : Clement XI)",
+    "Extrait des témoignages de l'eglise universelle en faveur de la constitution Unigenitus, tiré du second avertissement du Sieur evêque de Soissons",
+    "Jansenists",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 3 no. 109"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3422kq6n"
+internet_archive = "arrestdelacourde00fra_1mk"
+
+[scan]
+file = "arrestdelacourde00fra_1mk.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arrestdelacourde00fra_1mk"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Parlement (Normandy)"
+role = "author"
+
+[[resp]]
+name = "France. Parlement (Normandy)"
+role = "author"
+
+[[resp]]
+name = "Soisson, France (Diocese). Bishop, 1715-1730 (Jean Joseph Languet de La Villeneuve)"
+role = "author"
+
+[[resp]]
+name = "Chés Jacques Besongne & Jean B. Besongne le fils"
+role = "publisher"
+
+[[text]]
+file = "arrestdelacourde00fra_1mk.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacourde00fra_1mk.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacourde00fra_1mk.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacourde00fra_1mk.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

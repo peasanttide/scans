@@ -1,0 +1,77 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "administrationcentr00unse"
+type = "pamphlet"
+title = "L'administration centrale du département de la Côte-d'Or, aux administrations municipales"
+language = "fr"
+place = "France"
+date = "1799"
+note = """Caption title. Dated, p. [1]: 1er. frimaire an 8 de la République française. Not in Martin & Walter. Révolution française. "Paris, le 22 brumaire 8. Le ministre des finances, aux administrations du département de la Côte-d'Or, et au commissaire central du département"--P. [2]-[3]; Signed: Gaudin. Scanner's note: Irregular Pagination. No copyright page found. No table-of-contents pages found. No title page found."""
+url = "https://archive.org/details/administrationcentr00unse"
+extent = "[3] p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9701 no. 37"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2w42w25m"
+internet_archive = "administrationcentr00unse"
+
+[scan]
+file = "administrationcentr00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/administrationcentr00unse"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Côte-d'Or (France). Administration centrale"
+role = "author"
+
+[[resp]]
+name = "Gaëte, Martin-Michel-Charles Gaudin, duc de, 1756-1841"
+role = "author"
+
+[[resp]]
+name = "France. Ministère des finances"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_857121"
+
+[[text]]
+file = "administrationcentr00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "administrationcentr00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "administrationcentr00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "administrationcentr00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

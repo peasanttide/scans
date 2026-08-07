@@ -1,0 +1,81 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arretedelacourde00tall"
+type = "pamphlet"
+title = "Arrêté de la Cour des comptes, aides et finances de Montpellier, du mardi 11 septembre 1787."
+language = "fr"
+place = "France"
+date = "1787"
+note = "Caption title. Not in Martin & Walter. Révolution française. Forms part of the French Revolution Collection at the Newberry Library. Scanner's note: Title is on the cover. Uneven binding. Skewed text. Damaged, stained and/or loose pages."
+url = "https://archive.org/details/arretedelacourde00tall"
+subject = [
+    "Tax incidence",
+    "Representative government and representation",
+]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 26308"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t04z0n67m"
+internet_archive = "arretedelacourde00tall"
+
+[scan]
+file = "arretedelacourde00tall.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arretedelacourde00tall"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Tallien, Jean-Lambert, 1767-2591"
+role = "author"
+
+[[resp]]
+name = "France. Cour des comptes, aides, et finances (Montpellier, France)"
+role = "author"
+
+[[resp]]
+name = "French Revolution Collection (Newberry Library) ICN"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_55040"
+
+[[text]]
+file = "arretedelacourde00tall.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretedelacourde00tall.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretedelacourde00tall.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretedelacourde00tall.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

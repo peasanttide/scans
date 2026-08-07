@@ -1,0 +1,77 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arrestdelacourdu00fran_17"
+type = "pamphlet"
+title = "Arrest de la Cour du Parlement"
+language = "fr"
+place = "A Paris"
+date = "1730"
+note = "Caption title. Imprint at foot of p. 4. Thesis title cited as: Exemplari doctorum. Quaestio theologica. With notation at end: Has theses, Deo dante, & auspice Dei-para tueri conabitur Arthurus Augustinus Blener Hassett, presbiter Keriensis, Sacrae Facultatis Parisiensis licentiatus theologus, die Lunae octava mensis Maii anno Domini 1730 ... in Sorbona .."
+url = "https://archive.org/details/arrestdelacourdu00fran_17"
+subject = ["Censorship"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 4 no. 102"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t11p3q834"
+internet_archive = "arrestdelacourdu00fran_17"
+
+[scan]
+file = "arrestdelacourdu00fran_17.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arrestdelacourdu00fran_17"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Parlement (Paris)"
+role = "author"
+
+[[resp]]
+name = "France. Parlement (Paris)"
+role = "author"
+
+[[resp]]
+name = "Blennerhassett, Arthur Augustinus"
+role = "author"
+
+[[resp]]
+name = "Université de Paris. Faculté de théologie"
+role = "author"
+
+[[resp]]
+name = "Chez Pierre Simon"
+role = "publisher"
+
+[[text]]
+file = "arrestdelacourdu00fran_17.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacourdu00fran_17.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacourdu00fran_17.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacourdu00fran_17.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

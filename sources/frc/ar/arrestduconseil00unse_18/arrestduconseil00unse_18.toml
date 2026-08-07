@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arrestduconseil00unse_18"
+type = "pamphlet"
+title = "Arrest du Conseil d'État du roi, qui proroge les gratifications accordées par l'arrêt du 8 janvier 1775, par chaque mulet ou cheval propre à la charrue, qui sera vendu dans les marchés des provinces dévastées par l'épizootie : du 29 octobre 1775 : extrait des registres du Conseil d'Etat"
+language = "fr"
+place = "A Paris"
+date = "1775"
+note = """
+Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover. 
+Only one numbered page."""
+url = "https://archive.org/details/arrestduconseil00unse_18"
+subject = [
+    "Horse trading",
+    "Horse industry",
+    "Communicable diseases in animals",
+]
+extent = "2 p. ; 28 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC suppl. 87 no. 20"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6f245k2b"
+internet_archive = "arrestduconseil00unse_18"
+
+[scan]
+file = "arrestduconseil00unse_18.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arrestduconseil00unse_18"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Conseil d'Etat"
+role = "author"
+
+[[resp]]
+name = "Simon, P. G. (Pierre-Guillaume), 1722-1787"
+role = "publisher"
+
+[[resp]]
+name = "Chez P.G. Simon, imprimeur du Parlement, rue Saint André-des-Arcs"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_863132"
+
+[[text]]
+file = "arrestduconseil00unse_18.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestduconseil00unse_18.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestduconseil00unse_18.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestduconseil00unse_18.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "alavieill00unse"
+type = "pamphlet"
+title = "A la vieillesse : fête célébrée le 10 fructidor an 6, par l'administration municipale du premier arrondissement de Paris."
+language = "fr"
+place = "Paris"
+date = "1798"
+note = """Caption title. Signed: Moussard, administr. municipal. Place and date of publication from BM. Not in Martin & Walter. Révolution française. "Stances chantées sur l'air: Père de l'univers"--P. [1]. BM. Bibliography: BM,  CLXV, column 706. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover."""
+url = "https://archive.org/details/alavieill00unse"
+subject = [
+    "Older people",
+    "Festivals",
+]
+extent = "3 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 23043"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7np79612"
+internet_archive = "alavieill00unse"
+openlibrary_edition = "OL26236376M"
+openlibrary_work = "OL17630928W"
+
+[scan]
+file = "alavieill00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/alavieill00unse"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Moussard, P"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_847327"
+
+[[text]]
+file = "alavieill00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "alavieill00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "alavieill00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "alavieill00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

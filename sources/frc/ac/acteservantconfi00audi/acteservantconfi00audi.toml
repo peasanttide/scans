@@ -1,0 +1,73 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "acteservantconfi00audi"
+type = "pamphlet"
+title = "Acte servant à confirmer l'innocence des prisonniers avignonois détenus à Orange, et à éclaircir l'origine des malheurs arrivés à Avignon."
+language = "fr"
+place = "Paris"
+date = "1790"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Deposition made by Crépin-Joseph-Pierre-Marie Audiffret on 13 September 1790, concerning the unrest in Avignon in June 1790. Scanner's note: No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/acteservantconfi00audi"
+subject = [
+    "Audiffret, Crépin-Joseph-Pierre-Marie",
+    "Insurgency",
+]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 13705"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t74v16n5c"
+internet_archive = "acteservantconfi00audi"
+
+[scan]
+file = "acteservantconfi00audi.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/acteservantconfi00audi"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Audiffret, Crépin-Joseph-Pierre-Marie"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Guillaume junior, rue de Savoye, no. 11"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_33129"
+
+[[text]]
+file = "acteservantconfi00audi.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "acteservantconfi00audi.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "acteservantconfi00audi.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "acteservantconfi00audi.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

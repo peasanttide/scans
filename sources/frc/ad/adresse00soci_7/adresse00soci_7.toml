@@ -1,0 +1,81 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "adresse00soci_7"
+type = "pamphlet"
+title = "Adresse"
+language = "fr"
+place = "s.l."
+date = "1791"
+note = "Scanner's note: Stained pages with smudged and faded print. Print is close to the binding and skewed on some pages. No table-of-contents pages found. No copyright page found. Title and cover combined, no physical cover. Page numbers begin at 4."
+url = "https://archive.org/details/adresse00soci_7"
+extent = "7 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 276"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3420gq74"
+internet_archive = "adresse00soci_7"
+
+[scan]
+file = "adresse00soci_7.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/adresse00soci_7"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Société des amis de la constitution séante aux Feuillants (Paris)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_32915"
+
+[[text]]
+file = "adresse00soci_7.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "adresse00soci_7.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "adresse00soci_7.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "adresse00soci_7.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "adresse00soci_7.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "adresse00soci_7.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"

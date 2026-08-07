@@ -1,0 +1,105 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "avisaupublic00debu"
+type = "pamphlet"
+title = "Avis au public"
+language = "fr"
+place = "Paris"
+date = "1767"
+note = """Prospectus for French translation of John Ray's "Synopsis methodica avium". Caption title. "Cet ouvrage sera en vente dans le courant de mai 1767"--P. 4. "Vol. in-4° grand papier, enrichi de 31 planches dessinées d'après nature ... Le prix est de 36 liv. relié"--P. [1]. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Title page and cover are combined."""
+url = "https://archive.org/details/avisaupublic00debu"
+subject = [
+    "Ray, John, 1627-1705",
+    "Booksellers and bookselling",
+    "Ornithological literature",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1a no. 55"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9f53bx2c"
+internet_archive = "avisaupublic00debu"
+
+[scan]
+file = "avisaupublic00debu.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/avisaupublic00debu"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Debure, Guillaume,1734-182"
+role = "author"
+
+[[resp]]
+name = "Debure, Guillaume, 1734-1820"
+role = "author"
+
+[[resp]]
+name = "Ray, John, 1627-1705. Synopsis methodica avium. French"
+role = "author"
+
+[[resp]]
+name = "Salerne, Mr. (François), -1760"
+role = "author"
+
+[[resp]]
+name = "Chez Debure pere, librarie, quai des Augustins, à l'image Saint Paul"
+role = "publisher"
+
+[[text]]
+file = "avisaupublic00debu.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avisaupublic00debu.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avisaupublic00debu.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avisaupublic00debu.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avisaupublic00debu.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avisaupublic00debu.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avisaupublic00debu.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avisaupublic00debu.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

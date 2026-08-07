@@ -1,0 +1,69 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "auxfrancais00loui"
+type = "pamphlet"
+title = "Aux Français"
+language = "fr"
+place = "France?"
+date = "1790"
+note = "Caption title. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  Title and cover are combined. Uneven binding. Skewed text. Damaged, stained and/or loose pages."
+url = "https://archive.org/details/auxfrancais00loui"
+extent = "2 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing DC137.08 .F73 v.7, no. 7"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0wq59x95"
+internet_archive = "auxfrancais00loui"
+
+[scan]
+file = "auxfrancais00loui.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/auxfrancais00loui"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Louis XVI Trial and Execution Collection (Newberry Library) ICN"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_840637"
+
+[[text]]
+file = "auxfrancais00loui.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "auxfrancais00loui.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "auxfrancais00loui.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "auxfrancais00loui.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

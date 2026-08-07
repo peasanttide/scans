@@ -1,0 +1,92 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "avisauxnegocians00devi"
+type = "pamphlet"
+title = "Avis aux négocians"
+language = "fr"
+place = "A Paris"
+date = "1776"
+note = """Prospectus for J.B.A. Malisset's "Tableau unique, ou, La principale science du commerce françois.". Caption title. "La vente s'en fait à Paris, chez M. Deville, rue Saint-Denis, vis-à-vis les Filles-Dieu.". "Permis d'imprimer & distribuer, ce 13 decembre 1776.". Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Title page and cover are combined."""
+url = "https://archive.org/details/avisauxnegocians00devi"
+subject = [
+    "Malisset, J. B. A. (Jean Baptiste Antoine), 1751-",
+    "Booksellers and bookselling",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1a no. 69"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t72v8790x"
+internet_archive = "avisauxnegocians00devi"
+
+[scan]
+file = "avisauxnegocians00devi.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/avisauxnegocians00devi"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Deville,M"
+role = "author"
+
+[[resp]]
+name = "Deville, M"
+role = "author"
+
+[[resp]]
+name = "Malisset, J. B. A. (Jean Baptiste Antoine), 1751- Tableau unique"
+role = "author"
+
+[[resp]]
+name = "Simon, P. G. (Pierre-Guillaume), 1722-1787"
+role = "printer"
+
+[[resp]]
+name = "Chez P.G. Simon, imprimeur du Parlement, rue Mignon"
+role = "publisher"
+
+[[text]]
+file = "avisauxnegocians00devi.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avisauxnegocians00devi.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avisauxnegocians00devi.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avisauxnegocians00devi.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avisauxnegocians00devi.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avisauxnegocians00devi.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

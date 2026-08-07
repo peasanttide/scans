@@ -1,0 +1,103 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arrt00fran_61"
+type = "pamphlet"
+title = "Arrêt /"
+language = "fr"
+place = "s.l."
+date = "1789"
+note = """Caption title. Without imprint. "Acte de plusieurs de MM. les membres de la chambre du clergé des États de Franche-Comté, en réclamation contre le dernier arrêté de ladite chambre": p.3-6. Dated on p.5: A Besançon, le cinq janvier mil sept cent quatre-vingt-neuf. "Acte de plusieurs de MM. les membres de la chambre de la noblesse des Etats de Franche-Comté, en réclamation contre le dernier arrêté de ladite chambre": p.6-8. Dated on p.8: ... le six janvier mil sept cent quatre-vingt-neuf. Not in Martin & Walter [edition 1: last line on p.[1]: arrêt, dont les membres du clergé & de la]. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page is on the cover. Skewed text. Damaged, stained, and/or loose pages."""
+url = "https://archive.org/details/arrt00fran_61"
+extent = "8 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 2000"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2g78f31b"
+internet_archive = "arrt00fran_61"
+openlibrary_edition = "OL26209410M"
+openlibrary_work = "OL17605664W"
+
+[scan]
+file = "arrt00fran_61.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/arrt00fran_61"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Conseil d'Etat"
+role = "author"
+
+[[resp]]
+name = "France. Parlement (Besançon)"
+role = "author"
+
+[[resp]]
+name = "Franche-Comté (France)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_46632"
+
+[[text]]
+file = "arrt00fran_61.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrt00fran_61.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrt00fran_61.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrt00fran_61.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrt00fran_61.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrt00fran_61.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrt00fran_61.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrt00fran_61.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

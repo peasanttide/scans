@@ -1,0 +1,78 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arretedudirectoi00rhon_4"
+type = "pamphlet"
+title = "Arrêté du directoire du département de Rhone et Loire, concernant les ecclésiastiques non assermentés : du trente-un août mil sept cent quatre-vingt-onze"
+language = "fr"
+place = "A Lyon"
+date = "1791"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."
+url = "https://archive.org/details/arretedudirectoi00rhon_4"
+subject = [
+    "Catholic nonjurors",
+    "Clergy",
+    "Church and state",
+]
+extent = "4 p. ; 25 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10244 no. 21"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t57d80n1h"
+internet_archive = "arretedudirectoi00rhon_4"
+
+[scan]
+file = "arretedudirectoi00rhon_4.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arretedudirectoi00rhon_4"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Rhône-et-Loire (France). Directoire"
+role = "author"
+
+[[resp]]
+name = "La Roche, Aimé de, 1715-1801"
+role = "publisher"
+
+[[resp]]
+name = "De l'imprimerie d'Aimé De La Roche, imprimeur du département de Rhône & Loire"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_857464"
+
+[[text]]
+file = "arretedudirectoi00rhon_4.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretedudirectoi00rhon_4.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretedudirectoi00rhon_4.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretedudirectoi00rhon_4.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

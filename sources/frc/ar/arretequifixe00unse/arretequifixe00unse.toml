@@ -1,0 +1,70 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arretequifixe00unse"
+type = "pamphlet"
+title = "... Arr^eté qui fixe, `a dater du premier vendémiaire an IX [23 septembre 1800], le nouveau mode de la comptabilité des recettes et dépenses du Trésor public : du 18 fructidor an VIII de la République française, une et indivisible [5 septembre 1800]"
+language = "fr"
+place = "A Paris"
+date = "1800"
+note = "Caption title. Imprint from colophon. At head of title: No 1218. At lower left on p.[1]: No 8. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."
+url = "https://archive.org/details/arretequifixe00unse"
+subject = ["France. Trésor public"]
+extent = "3 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9617"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6xw9j85t"
+internet_archive = "arretequifixe00unse"
+
+[scan]
+file = "arretequifixe00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arretequifixe00unse"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Consulat (1799-1804)"
+role = "author"
+
+[[resp]]
+name = "Chez Rondonneau"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_67938"
+
+[[text]]
+file = "arretequifixe00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretequifixe00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretequifixe00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretequifixe00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

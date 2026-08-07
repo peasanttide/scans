@@ -1,0 +1,57 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "avisauxsouscript00heri"
+type = "pamphlet"
+title = "Avis aux souscripteurs du journal intitulé, L'ami du roi, des François, de l'ordre et sur-tout de la verité"
+language = "fr"
+place = "A Paris"
+date = "1790"
+note = """Prospectus for "Ami du roi, des François, de l'ordre et sur-tout de la vérité.". Caption title. Publication information from colophon. Printed in double columns. "Le bureau des souscriptions est désormais ouvert rue Saint-André-des-Arcs, n°. 37, au coin de la rue de l'Eperon, au premier"--P. [1]. "Le prix de la souscription pour la province est de 33 liv. pour un an; 18 liv. pour six mois; 10 liv. pour trois mois. Pour Paris 30 liv. pour un an; 16 liv. pour six mois; 9 liv. pour trois mois"--P. 2. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Title page and cover are combined."""
+url = "https://archive.org/details/avisauxsouscript00heri"
+subject = [
+    "Ami du roi, des François, de l'ordre et sur-tout de la vérité",
+    "Booksellers and bookselling",
+    "Periodicals",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1d no. 3"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5jb1v34k"
+internet_archive = "avisauxsouscript00heri"
+
+[scan]
+file = "avisauxsouscript00heri.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/avisauxsouscript00heri"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Hérissant, Marie-Nicole, -1798"
+role = "printer"
+
+[[resp]]
+name = "De l'imprimerie de la veuve Herissant, rue Neuve-Notre-Dame"
+role = "publisher"
+
+[[text]]
+file = "avisauxsouscript00heri.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avisauxsouscript00heri.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

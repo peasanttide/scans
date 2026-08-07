@@ -1,0 +1,70 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "alliancedesdrape00bene"
+type = "pamphlet"
+title = "Alliance des drapeaux constitutionels de France et d'Angleterre."
+language = "fr"
+place = "France?"
+date = "1791"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover."
+url = "https://archive.org/details/alliancedesdrape00bene"
+subject = ["Revolutionary poetry, French"]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 14370"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t48q0q948"
+internet_archive = "alliancedesdrape00bene"
+
+[scan]
+file = "alliancedesdrape00bene.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/alliancedesdrape00bene"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Beneche"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie de Rochebrun et Mazet"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_829814"
+
+[[text]]
+file = "alliancedesdrape00bene.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "alliancedesdrape00bene.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "alliancedesdrape00bene.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "alliancedesdrape00bene.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

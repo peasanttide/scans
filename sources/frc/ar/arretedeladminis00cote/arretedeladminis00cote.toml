@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arretedeladminis00cote"
+type = "pamphlet"
+title = "Arrêté de l'administration départementale de la Côte-d'Or, relatif aux fonctions attribuées aux nouvelles administrations municipales : du 20 brumaire, an quatrième de la République française"
+language = "fr"
+place = "A Dijon"
+date = "1795"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. No title page found."
+url = "https://archive.org/details/arretedeladminis00cote"
+subject = ["Local government"]
+extent = "4 p. ; 28 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9701 no. 9"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0ns5w27j"
+internet_archive = "arretedeladminis00cote"
+openlibrary_edition = "OL26223734M"
+openlibrary_work = "OL17619189W"
+
+[scan]
+file = "arretedeladminis00cote.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arretedeladminis00cote"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Côte-d'Or (France)"
+role = "author"
+
+[[resp]]
+name = "Frantin, Louis-Nicolas, 1740-1803"
+role = "publisher"
+
+[[resp]]
+name = "Chez L.N. Frantin, imprimeur du département"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_857093"
+
+[[text]]
+file = "arretedeladminis00cote.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretedeladminis00cote.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretedeladminis00cote.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretedeladminis00cote.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

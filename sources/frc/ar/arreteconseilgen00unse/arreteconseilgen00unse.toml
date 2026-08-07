@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arreteconseilgen00unse"
+type = "pamphlet"
+title = "Arrêté du conseil général, du département des Vosges, relatif aux mesures à prendre contre les prêtres réfractaires : séance du 19 août 1792, l'an quatrième de la liberté"
+language = "fr"
+place = "A Épinal"
+date = "1792"
+note = "Caption title. At head of title: Liberte. Égalité. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover."
+url = "https://archive.org/details/arreteconseilgen00unse"
+subject = ["Catholic nonjurors"]
+extent = "4 p. ; 23 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10321 no. 21"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9q291p3q"
+internet_archive = "arreteconseilgen00unse"
+openlibrary_edition = "OL26223443M"
+openlibrary_work = "OL17618906W"
+
+[scan]
+file = "arreteconseilgen00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arreteconseilgen00unse"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Vosges (France). Conseil général"
+role = "author"
+
+[[resp]]
+name = "Chez Haener, imprimeur du département des Vosges"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_856943"
+
+[[text]]
+file = "arreteconseilgen00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arreteconseilgen00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arreteconseilgen00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arreteconseilgen00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

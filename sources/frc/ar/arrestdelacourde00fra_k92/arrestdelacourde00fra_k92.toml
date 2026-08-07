@@ -1,0 +1,69 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arrestdelacourde00fra_k92"
+type = "pamphlet"
+title = "Arrest de la Cour de Parlement du 19. mars 1718"
+language = "fr"
+place = "A Paris"
+date = "1718"
+note = "Caption title. Imprint on p. 4. Condemnation of Lettre de M. l'Archevesque de Reims à S.A.R. Monseigneur le Duc d'Orleans Regent du Oyaume, issued anonymously."
+url = "https://archive.org/details/arrestdelacourde00fra_k92"
+subject = ["Prohibited books"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 3 no. 93"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9091wb4x"
+internet_archive = "arrestdelacourde00fra_k92"
+
+[scan]
+file = "arrestdelacourde00fra_k92.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arrestdelacourde00fra_k92"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Parlement (Paris)"
+role = "author"
+
+[[resp]]
+name = "France. Parlement (Paris)"
+role = "author"
+
+[[resp]]
+name = "Chez la veuve de François Muguet, Hubert Muguet, & Loüis-Denis de La Tour"
+role = "publisher"
+
+[[text]]
+file = "arrestdelacourde00fra_k92.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacourde00fra_k92.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacourde00fra_k92.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacourde00fra_k92.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,73 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arretedudepartem00vosg"
+type = "pamphlet"
+title = "Arrêté du département des Vosges, relatif à l'approvisionnement des marchés : séance publique du 22e jour du 1er mois de la seconde année de la République françoise"
+language = "fr"
+place = "A Épinal"
+date = "1793"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  Title on cover. Damaged, stained pages and cover.  Uneven binding. Skewed text."
+url = "https://archive.org/details/arretedudepartem00vosg"
+subject = [
+    "Grain trade",
+    "Food supply",
+]
+extent = "4 p. ; 23 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10322 no. 1"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1tf4xc4j"
+internet_archive = "arretedudepartem00vosg"
+
+[scan]
+file = "arretedudepartem00vosg.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arretedudepartem00vosg"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Vosges (France)"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie nationale d'Haener"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_72033"
+
+[[text]]
+file = "arretedudepartem00vosg.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretedudepartem00vosg.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretedudepartem00vosg.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretedudepartem00vosg.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

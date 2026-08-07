@@ -1,0 +1,88 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arrestcons00unse_32"
+type = "pamphlet"
+title = "Arrest du Conseil d'État du roi, qui ordonne la suppression des trente premiers volumes de l'ouvrage ayant pour titre, Œuvres complettes de Voltaire, de l'imprimerie de la Société littéraire typographique, 1784 : du 3 juin 1785 : extrait des registres du Conseil d'État"
+language = "fr"
+place = "A Paris"
+date = "1785"
+note = "Caption title. Signed: Le bon. de Breteuil. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text. Text on the back cover is upside-down."
+url = "https://archive.org/details/arrestcons00unse_32"
+subject = [
+    "Voltaire, 1694-1778",
+    "Sociéte littéraire-typographique",
+    "Prohibited books",
+]
+extent = "3 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 27971"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3vt6st9j"
+internet_archive = "arrestcons00unse_32"
+openlibrary_edition = "OL26229182M"
+openlibrary_work = "OL17624216W"
+
+[scan]
+file = "arrestcons00unse_32.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arrestcons00unse_32"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Conseil d'Etat"
+role = "author"
+
+[[resp]]
+name = "Breteuil, Louis-Auguste Le Tonnelier, baron de, 1730-1807"
+role = "author"
+
+[[resp]]
+name = "Simon, P. G. (Pierre-Guillaume), 1722-1787"
+role = "publisher"
+
+[[resp]]
+name = "Nyon, Nicolas-Henri, 1751?-"
+role = "publisher"
+
+[[resp]]
+name = "Chez P.G. Simon, & N.H. Nyon, imprimeurs du Parlement, rue Mignon"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_396488"
+
+[[text]]
+file = "arrestcons00unse_32.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestcons00unse_32.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestcons00unse_32.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestcons00unse_32.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

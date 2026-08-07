@@ -1,0 +1,88 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "artdelaguerre00jomb"
+type = "pamphlet"
+title = "Art de la guerre"
+language = "fr"
+place = "A Paris"
+date = "1749"
+note = """Prospectus for the Marquis de Puységur's "Art de la guerre". Initial; head-piece. "En deux volumes in-quarto, ornés de vignettes & accompagnés de plus de cinquante planches"--P. [1]. "Le prix pour les souscripteurs sera de dix-huit francs en feuilles pour chaque exemplaire ... Cette nouvelle edition sera achevée d'imprimer vers le fin du mois de septembre 1749"--P. [2]. Includes advertisements for three other titles sold by Jombert. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Title page and cover are combined."""
+url = "https://archive.org/details/artdelaguerre00jomb"
+subject = [
+    "Puységur, Jacques François de Chastenet, marquis de, 1656-1743",
+    "Booksellers and bookselling",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1a no. 91"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t40s5fx06"
+internet_archive = "artdelaguerre00jomb"
+
+[scan]
+file = "artdelaguerre00jomb.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/artdelaguerre00jomb"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Jombert, Charles Antoine,1712-1784"
+role = "author"
+
+[[resp]]
+name = "Jombert, Charles Antoine, 1712-1784"
+role = "author"
+
+[[resp]]
+name = "Puységur, Jacques François de Chastenet, marquis de, 1656-1743. Art de la guerre"
+role = "author"
+
+[[resp]]
+name = "Chez Charles-Antoine Jombert, libraire du roi pour l'artillerie & le génie, quai des Augustins, à l'image Notre-Dame"
+role = "publisher"
+
+[[text]]
+file = "artdelaguerre00jomb.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "artdelaguerre00jomb.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "artdelaguerre00jomb.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "artdelaguerre00jomb.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "artdelaguerre00jomb.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "artdelaguerre00jomb.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,56 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arrestdelacouren00fran"
+type = "pamphlet"
+title = "Arrest de la Cour ensemble les vers et discours latins escrits sur marbre noir en lettres d'or és quatre faces de la base de la pyramide dressee deuant la grande porte du Palais à Paris"
+date = "1594"
+note = "The text within a border of type ornaments. Imperfect: only the left part of the broadside present; this includes the sentence pronounced at the execution of Jean Châtel, 29 Dec. 1594, and Latin verses with caption: Qvod sacrvm votvmqve sit memoriae, perennitati, longaevitati, salutíque maximi, fortiss & clementiss. Principis Henrici IIII. Galliae & Nauarrae, Regis Christianiss. Scanner's note: No copyright page found. No table-of-contents pages found. Title and cover pages combined."
+url = "https://archive.org/details/arrestdelacouren00fran"
+subject = [
+    "Henry IV, King of France, 1553-1610",
+    "Chastel, Jean, -1594",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 1 no. 19"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t54f7df5r"
+internet_archive = "arrestdelacouren00fran"
+
+[scan]
+file = "arrestdelacouren00fran.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/arrestdelacouren00fran"
+ppi = 350
+note = "Scanned on fold1.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Sovereign (1589-1610 : Henry IV)"
+role = "author"
+
+[[resp]]
+name = "France. Sovereign (1589-1610 : Henry IV)"
+role = "author"
+
+[[resp]]
+name = "[Paris, s.n."
+role = "publisher"
+
+[[text]]
+file = "arrestdelacouren00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+
+[[text]]
+file = "arrestdelacouren00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"

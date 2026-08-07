@@ -1,0 +1,93 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "adresse00roue_1"
+type = "pamphlet"
+title = "Adresse"
+language = "fr"
+place = "A Rouen"
+date = "1790"
+note = "Scanner's note: Title and cover combined, no physical cover. Stained pages with smudged and faded print. Print is close to the binding and skewed on some pages.  No copyright page found."
+url = "https://archive.org/details/adresse00roue_1"
+extent = "7 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 260"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3bz9q00g"
+internet_archive = "adresse00roue_1"
+
+[scan]
+file = "adresse00roue_1.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/adresse00roue_1"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Rouen (France). Garde nationale"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de la Dame Besongne"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_36962"
+
+[[text]]
+file = "adresse00roue_1.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "adresse00roue_1.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "adresse00roue_1.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "adresse00roue_1.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "adresse00roue_1.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "adresse00roue_1.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "adresse00roue_1.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "adresse00roue_1.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"

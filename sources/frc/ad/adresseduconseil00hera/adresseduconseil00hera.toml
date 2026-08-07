@@ -1,0 +1,83 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "adresseduconseil00hera"
+type = "pamphlet"
+title = "Adresse du Conseil de département de l'Hérault, a l'Assemblée nationale, touchant le projet d'impôt sur les boissons"
+language = "fr"
+place = "France?"
+date = "1789"
+note = "Caption title. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages."
+url = "https://archive.org/details/adresseduconseil00hera"
+subject = [
+    "Alcoholic beverages",
+    "Tax incidence",
+]
+extent = "4 p. ; 24 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9848 no. 4"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6k126h5f"
+internet_archive = "adresseduconseil00hera"
+openlibrary_edition = "OL26223467M"
+openlibrary_work = "OL17618930W"
+
+[scan]
+file = "adresseduconseil00hera.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/adresseduconseil00hera"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Hérault (France). Conseil général"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale législative (1791-1792)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_855757"
+
+[[text]]
+file = "adresseduconseil00hera.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adresseduconseil00hera.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adresseduconseil00hera.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adresseduconseil00hera.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arrtdelacourdepa00fran_6"
+type = "pamphlet"
+title = "Arrêt de la cour de Parlement"
+language = "fr"
+place = "A Rennes"
+date = "1789"
+note = "Caption title. Imprint at foot of p. 4. Scanner's note: No copyright page found. No table-of-contents pages found. Title and cover pages combined."
+url = "https://archive.org/details/arrtdelacourdepa00fran_6"
+subject = ["Censorship"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 10 no. 69"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5t78377t"
+internet_archive = "arrtdelacourdepa00fran_6"
+
+[scan]
+file = "arrtdelacourdepa00fran_6.pdf"
+count = 5
+by = "Internet Archive"
+url = "https://archive.org/details/arrtdelacourdepa00fran_6"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Parlement (Paris)"
+role = "author"
+
+[[resp]]
+name = "France. Parlement (Paris)"
+role = "author"
+
+[[resp]]
+name = "Chez la veuve de François Vatar & de Bruté de Remur"
+role = "publisher"
+
+[[text]]
+file = "arrtdelacourdepa00fran_6.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrtdelacourdepa00fran_6.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrtdelacourdepa00fran_6.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrtdelacourdepa00fran_6.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrtdelacourdepa00fran_6.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

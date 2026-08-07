@@ -1,0 +1,97 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "annonceetnotice00gach"
+type = "pamphlet"
+title = "Annonce et notice"
+language = "fr"
+place = "Paris"
+date = "1788"
+note = """Prospectus for: Manuel des goutteux et des rhumatistes / par M. Gachet. Paris, 1786. Caption title. "A Paris, chez M. Gachet fils, quartier Saint Denis, rue Beauregard, n°. 50; & chez Le Boucher, libraire, au coin des rues du Marché-Palu & de la Calandre, à la Prudence"--P. [1]. Printer statement and date of publication from colophon. Text within ornamental border. "Vol. in-12, broché, 2 liv. 10 s.; relié, 3 liv."--P. [1]. Scanner's note: No copyright found.  No table of contents found.  Damaged, stained pages and cover.   No numbered pages.<br /><br />."""
+url = "https://archive.org/details/annonceetnotice00gach"
+subject = [
+    "Gachet, Louis-Étienne, Dr",
+    "Booksellers and bookselling",
+    "Medical publishing",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1c no. 30"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8wb0ss29"
+internet_archive = "annonceetnotice00gach"
+
+[scan]
+file = "annonceetnotice00gach.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/annonceetnotice00gach"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "Gachet, Louis-Étienne,Dr"
+role = "author"
+
+[[resp]]
+name = "Gachet, Louis-Étienne, Dr"
+role = "author"
+
+[[resp]]
+name = "Gachet, Louis-Étienne, Dr. Manuel des goutteux et des rhumatistes"
+role = "author"
+
+[[resp]]
+name = "Le Boucher, Michel"
+role = "bookseller"
+
+[[resp]]
+name = "Grangé, Jean-Augustin, b. 1712?"
+role = "printer"
+
+[[resp]]
+name = "De l'imprimerie de Grangé"
+role = "publisher"
+
+[[text]]
+file = "annonceetnotice00gach.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "annonceetnotice00gach.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "annonceetnotice00gach.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "annonceetnotice00gach.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "annonceetnotice00gach.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "annonceetnotice00gach.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

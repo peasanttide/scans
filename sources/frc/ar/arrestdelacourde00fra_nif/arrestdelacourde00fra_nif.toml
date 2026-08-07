@@ -1,0 +1,69 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arrestdelacourde00fra_nif"
+type = "pamphlet"
+title = "Arrest de la Cour de Parlement de Provence"
+language = "fr"
+place = "A Aix"
+date = "1719"
+note = "Caption title. Imprint at foot of p. 4. Scanner's note: No copyright found.  No table of contents found.  Damaged, stained pages and cover.  Title on cover. <br />."
+url = "https://archive.org/details/arrestdelacourde00fra_nif"
+subject = ["Censorship"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 4 no. 22"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t98684g6p"
+internet_archive = "arrestdelacourde00fra_nif"
+
+[scan]
+file = "arrestdelacourde00fra_nif.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arrestdelacourde00fra_nif"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "France.Parlement (Aix-en-Provence)"
+role = "author"
+
+[[resp]]
+name = "France. Parlement (Aix-en-Provence)"
+role = "author"
+
+[[resp]]
+name = "Chez Joseph David"
+role = "publisher"
+
+[[text]]
+file = "arrestdelacourde00fra_nif.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacourde00fra_nif.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacourde00fra_nif.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacourde00fra_nif.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

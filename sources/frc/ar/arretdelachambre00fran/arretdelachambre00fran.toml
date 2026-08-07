@@ -1,0 +1,69 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arretdelachambre00fran"
+type = "pamphlet"
+title = "Arrêt de la Chambre des comptes, du mercredi, 14 mars 1787"
+language = "fr"
+place = "Paris"
+date = "1787"
+note = """Suppression of Remontrances de la Chambre de comptes as contrary to public order. Caption title. "Extrait des registres de la Chambre de comptes"--p. 1. Imprint from colophon. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Title page and cover are combined."""
+url = "https://archive.org/details/arretdelachambre00fran"
+subject = ["Remontrances de la Chambre des comptes"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 10 no. 37"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3tv07k82"
+internet_archive = "arretdelachambre00fran"
+
+[scan]
+file = "arretdelachambre00fran.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arretdelachambre00fran"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Chambre des comptes (Paris, France)"
+role = "author"
+
+[[resp]]
+name = "France. Chambre des comptes (Paris, France)"
+role = "author"
+
+[[resp]]
+name = "L. Cellot & fils ..."
+role = "publisher"
+
+[[text]]
+file = "arretdelachambre00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretdelachambre00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretdelachambre00fran.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretdelachambre00fran.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,73 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "adresse00aube"
+type = "pamphlet"
+title = "Adresse /"
+language = "fr"
+place = "Paris"
+date = "1790"
+note = "Caption title. Imprint from colophon. At lower left on p.[1]: Procès-verb No.333. Opening words: Le département de l'Aube vient d'être formé, & l'a été sans trouble .. Martin & Walter IV 2: 2267. Scanner's note: No copyright page found. No table-of-contents pages found. Damaged, stained pages and cover. Title on cover. Skewed text and uneven binding."
+url = "https://archive.org/details/adresse00aube"
+extent = "3 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 1149"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6d26zm8n"
+internet_archive = "adresse00aube"
+
+[scan]
+file = "adresse00aube.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/adresse00aube"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Aube (France)"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_43742"
+
+[[text]]
+file = "adresse00aube.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adresse00aube.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adresse00aube.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adresse00aube.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

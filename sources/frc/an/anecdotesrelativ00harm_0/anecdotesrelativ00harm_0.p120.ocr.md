@@ -1,0 +1,42 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: anecdotesrelativ00harm_0
+page: 120
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 2440
+h: 4083
+dpi: 500
+---
+
+( 100 )
+
+et lui céder 3 sans une défense suffisante > la
+proie qu’elle voulait dévorer.
+
+Essayer encore ses forces \ assurément la
+Convention Pa fait, et l’histoire ne lira pas,
+sans quelque admiration sa lutte courageuse
+jusqu’aux journées des 5 i mai et 2 juin 1793,
+où elle fut décimée , non-seulement aux yeux
+impassibles de tout Paris , mais par le concours
+de ses sections mêmes, qui vinrent en armes
+l’investir dans le lieu de ses séances.
+
+Ce second triomphe de l’anarchie, qui coûta
+la vie aux vingt-deux Députés les plus élo-
+quens et les plus courageux, et qui opéra la
+proscription de soixante-treize autres , ne laissa
+plus à l’homme de bien que la ressource de
+s’envelopper dans son manteau et d’attendre
+la cessation du mal de sa violence même. On
+sait comment , à dater de cette époque , la
+France fut comprimée , et comment elle vit
+éclore les comités révolutionnaires.
+
+Voilà , voilà les pages que la Convention
+nationale voudrait pouvoir arracher de sa san-
+glante histoire ! Mais elle n’était plus elle-
+même 5 ce n’était plus la Convention , c’était
+ses oppresseurs auxquels Paris et toute la
+F rance l’avaient abandonnée.

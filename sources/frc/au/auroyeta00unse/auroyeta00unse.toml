@@ -1,0 +1,101 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "auroyeta00unse"
+type = "pamphlet"
+title = "Au roy, et a Nosseigneurs de son Conseil."
+language = "fr"
+place = "Paris"
+date = "1713"
+note = "Caption title. Signed at end: Bronod ... Fait ce 20e avril 1713. Signé Dugué de Bagnols. Printer from colophon. Signatures: A². Initial; head-piece. No. 38 of 54 titles bound together. Scanner's note: Title is on the cover. Uneven binding. Skewed text. Damaged, stained, and/or torn pages."
+url = "https://archive.org/details/auroyeta00unse"
+subject = [
+    "Lyon (France : Généralité). Bureau des finances",
+    "Montbrison (France : Bailliage)",
+    "Jurisdiction",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio KJV5795 .A35 1728 no. 38"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8ff9tt6h"
+internet_archive = "auroyeta00unse"
+
+[scan]
+file = "auroyeta00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/auroyeta00unse"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Clapasson, André"
+role = "author"
+
+[[resp]]
+name = "Jouffret, Jean-François"
+role = "author"
+
+[[resp]]
+name = "Bronod"
+role = "author"
+
+[[resp]]
+name = "Dugué de Bagnols"
+role = "author"
+
+[[resp]]
+name = "Louis XIV, King of France, 1638-1715, addressee"
+role = "author"
+
+[[resp]]
+name = "Knapen, Jean-François, 1660-1729, printer"
+role = "publisher"
+
+[[resp]]
+name = "Lyon (France : Généralité). Bureau des finances"
+role = "author"
+
+[[resp]]
+name = "Montbrison (France : Bailliage)"
+role = "author"
+
+[[resp]]
+name = "France. Conseil d'État, addressee"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de I. Fr. Knapen, Pont Saint Michel"
+role = "publisher"
+
+[[text]]
+file = "auroyeta00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "auroyeta00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "auroyeta00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "auroyeta00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

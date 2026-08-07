@@ -1,0 +1,61 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arretduconse00fran_45"
+type = "pamphlet"
+title = "Arrêt du Conseil d'état du roi, qui supprime un ouvrage intitulé: Relation de deux voyages dans les mers Australes & des Indes, faits par M. de Kerguelen en 1771, &c"
+language = "fr"
+place = "A Paris"
+date = "1783"
+note = "Caption title. Imprint at foot of p. 2. Scanner's note: No copyright found.  No table of contents found.  Damaged, stained pages and cover.  Title on cover. <br />Only one numbered page. <br />."
+url = "https://archive.org/details/arretduconse00fran_45"
+subject = ["Censorship"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 9 no. 89"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0xq2mn9g"
+internet_archive = "arretduconse00fran_45"
+
+[scan]
+file = "arretduconse00fran_45.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/arretduconse00fran_45"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "France.Conseil d'Etat"
+role = "author"
+
+[[resp]]
+name = "France. Conseil d'Etat"
+role = "author"
+
+[[resp]]
+name = "Kerguelen-Trémarec, Yves-Joseph de, 1734-1797"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie royale"
+role = "publisher"
+
+[[text]]
+file = "arretduconse00fran_45.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretduconse00fran_45.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

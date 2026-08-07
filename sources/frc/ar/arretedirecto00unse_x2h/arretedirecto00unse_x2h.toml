@@ -1,0 +1,88 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arretedirecto00unse_x2h"
+type = "pamphlet"
+title = "Arrêté du Directoire exécutif, concernant le droit de transit établi sur le departement du Mont-Terrible pour les objets venant de Suisse : du 19 thermidor an VI de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1798"
+note = """Caption title. At head of title: No. 748. "Pour expédition conforme, signé Merlin, pour le président; par le Directoire exécutif, pour le secrétaire genéral, Treilhard"--P. 2. Imprint from colophon. "No. 11"--Bottom of p. [1]. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages."""
+url = "https://archive.org/details/arretedirecto00unse_x2h"
+subject = [
+    "Trade routes",
+    "Transportation",
+    "Customs administration",
+]
+extent = "2 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10328 no. 116"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3hx6g89k"
+internet_archive = "arretedirecto00unse_x2h"
+openlibrary_edition = "OL26225296M"
+openlibrary_work = "OL17620621W"
+
+[scan]
+file = "arretedirecto00unse_x2h.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arretedirecto00unse_x2h"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Directoire exécutif"
+role = "author"
+
+[[resp]]
+name = "Merlin, M. (Philippe-Antoine), 1754-1838"
+role = "author"
+
+[[resp]]
+name = "Treilhard, M., (Jean-Baptiste), 1742-1810"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois, place du Carrousel : Et se trouve dans les villes chef-lieux de département, au bureau de correspondance du Dépôt des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_856322"
+
+[[text]]
+file = "arretedirecto00unse_x2h.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretedirecto00unse_x2h.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretedirecto00unse_x2h.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretedirecto00unse_x2h.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

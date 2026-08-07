@@ -1,0 +1,100 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "avis00desv"
+type = "pamphlet"
+title = "Avis"
+language = "fr"
+place = "A Londres [i.e. Paris"
+note = """Prospectus for Louis Alexandre de Cézan's "Manuel anti-syphillitique", published in 1774. Caption title. False imprint; probably printed in Paris. Cf. ESTC T113450. "In-12, prix, 2 liv. 10 s"--P. 1. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Title page and cover are combined."""
+url = "https://archive.org/details/avis00desv"
+subject = [
+    "Cézan, Louis Alexandre de",
+    "Booksellers and bookselling",
+    "Medical publishing",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1a no. 68"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2896wc2v"
+internet_archive = "avis00desv"
+
+[scan]
+file = "avis00desv.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/avis00desv"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Desventes de la Doué, Antoine,b. 1737"
+role = "author"
+
+[[resp]]
+name = "Desventes de la Doué, Antoine, b. 1737"
+role = "author"
+
+[[resp]]
+name = "Cézan, Louis Alexandre de. Manuel anti-syphillitique"
+role = "author"
+
+[[resp]]
+name = "Et se trouve a Paris, chez Desventes de la Doué, libraire, rue Saint-Jacques, vis-à-vis le Collège de Louis le Grand"
+role = "publisher"
+
+[[text]]
+file = "avis00desv.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avis00desv.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avis00desv.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avis00desv.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avis00desv.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avis00desv.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avis00desv.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avis00desv.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

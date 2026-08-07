@@ -1,0 +1,69 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arrestdelacourde00fra_8qe"
+type = "pamphlet"
+title = "Arrest de la Cour de Parlement"
+language = "fr"
+place = "A Bordeaux"
+date = "1719"
+note = "Caption title. Imprint at foot of p. 4. Imperfect: slip mounted on p. 4 covers in part lower half of text. Scanner's note: Paper fused to page 4."
+url = "https://archive.org/details/arrestdelacourde00fra_8qe"
+subject = ["Censorship"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 4 no. 1"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8x97tk15"
+internet_archive = "arrestdelacourde00fra_8qe"
+
+[scan]
+file = "arrestdelacourde00fra_8qe.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arrestdelacourde00fra_8qe"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Parlement (Paris)"
+role = "author"
+
+[[resp]]
+name = "France. Parlement (Paris)"
+role = "author"
+
+[[resp]]
+name = "Chez Guillaume Boudé-Boé"
+role = "publisher"
+
+[[text]]
+file = "arrestdelacourde00fra_8qe.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacourde00fra_8qe.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacourde00fra_8qe.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacourde00fra_8qe.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

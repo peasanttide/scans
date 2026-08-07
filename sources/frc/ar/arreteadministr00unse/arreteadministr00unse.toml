@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arreteadministr00unse"
+type = "pamphlet"
+title = "Arrêté de l'administration centrale du département de la Côte-d'Or, concernant le mode de contraintes pour le recouvrement des contributions : du 16 vendémiaire an 8 de la République française"
+language = "fr"
+place = "France"
+date = "1799"
+note = "Caption title. Not in Martin & Walter. Révolution française. Scanner's note: Irregular Pagination. No copyright page found. No table-of-contents pages found. No title page found."
+url = "https://archive.org/details/arreteadministr00unse"
+subject = [
+    "France. Armée",
+    "Tax evasion",
+]
+extent = "3 p. ; 28 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9701 no. 33"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t89h0s268"
+internet_archive = "arreteadministr00unse"
+openlibrary_edition = "OL26223222M"
+openlibrary_work = "OL17618683W"
+
+[scan]
+file = "arreteadministr00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arreteadministr00unse"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Côte-d'Or (France). Administration centrale"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_857117"
+
+[[text]]
+file = "arreteadministr00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arreteadministr00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arreteadministr00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arreteadministr00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

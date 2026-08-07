@@ -1,0 +1,69 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "avisimportant00guye"
+type = "pamphlet"
+title = "Avis important."
+language = "fr"
+place = "s.l."
+date = "1789"
+note = "Caption title. Without imprint. Opening paragraph: Quelques personnes ont paru craindre que la représentation du Tiers-etat dans les Etats provinciaux de Guienne, ne fût pas suffisante. Il n'a, dit-on, que deux cents quarante voix, contre le clergé & la noblesse qui en ont autant; de sorte que s'il se trouvoit dans le Tiers-etat un seul individu capable de trahir son devoir, la balance pencheroit évidemment en faveur des deux autres ordres. Not in Martin & Walter. Scanner's note: No copyright. No table of contents. Title on cover. Damaged, stained pages and cover. <br /><br />."
+url = "https://archive.org/details/avisimportant00guye"
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 1337"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8gf5v46r"
+internet_archive = "avisimportant00guye"
+
+[scan]
+file = "avisimportant00guye.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/avisimportant00guye"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "Guyenne (France)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_40825"
+
+[[text]]
+file = "avisimportant00guye.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avisimportant00guye.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avisimportant00guye.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avisimportant00guye.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

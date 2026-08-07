@@ -1,0 +1,90 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "adresse00fran_25"
+type = "pamphlet"
+title = "Adresse /"
+language = "fr"
+place = "Paris"
+date = "1792"
+note = """Caption title. Imprint from colophon. At lower left on p.[1]: Militaire, no.100. "L'Assemblée nationale, considérant que le général Lafayette a employé les manoeuvres les plus odieuses pour égarer l'armée dont le commandement lui avoit été confié ... considérant qu'il est prévenu du crime de rebellion contre la loi ... décrète ce qui suit ...": p.5-6. Martin & Walter IV 2: 2043. Scanner's note: No copyright page found. No table-of-contents pages found.   Title page and cover are combined. Skewed text. Uneven binding. Damaged, stained pages."""
+url = "https://archive.org/details/adresse00fran_25"
+subject = ["Lafayette, Marie Joseph Paul Yves Roch Gilbert Du Motier, marquis de, 1757-1834"]
+extent = "6 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 1072"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4dn95t2c"
+internet_archive = "adresse00fran_25"
+
+[scan]
+file = "adresse00fran_25.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/adresse00fran_25"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Assemblée nationale législative (1791-1792)"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale législative (1791-1792)"
+role = "author"
+
+[[resp]]
+name = "France. Armée. Armée du nord"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_42459"
+
+[[text]]
+file = "adresse00fran_25.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adresse00fran_25.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adresse00fran_25.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adresse00fran_25.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adresse00fran_25.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adresse00fran_25.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

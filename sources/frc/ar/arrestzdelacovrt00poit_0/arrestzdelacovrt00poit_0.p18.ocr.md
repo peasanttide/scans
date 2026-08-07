@@ -1,0 +1,10 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: arrestzdelacovrt00poit_0
+page: 18
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 2294
+h: 3795
+dpi: 500
+---

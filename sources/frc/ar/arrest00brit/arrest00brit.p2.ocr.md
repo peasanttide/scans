@@ -1,0 +1,48 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: arrest00brit
+page: 2
+engine: ABBYY FineReader 9.0
+lang: fr
+w: 2570
+h: 4232
+dpi: 500
+---
+
+2
+
+ne peut être Jug^ & partie ? Qn un Par-
+lement tout noble ne pouvoit, en confé-
+quence , s'^immiscer dans une affaire de
+nobles , qui font l'odieux ferment , en
+face de la nation , de ne pas contribuer
+également aux charges publiques , qu'il
+donne ainfi ia plus grande preuve du
+fondement des réclamations constantes &
+générales , par lefquelles on fe plaint de
+Toir la balance & le glaive de Thémis
+entre les mains exclufives d'un ordre pri-
+vilégié , qui a la foiblesse de s'en servir
+en là propre faveur , contre la foule des
+Citoyens , dont il devroit être le pere :
+3î'a-t41 pas vu ^ ce Parlement tout noble ,
+qu'il donne par là l'exemple le plus dan-
+gereux du pouvoir arbitraire , & qu'il en
+fait fêntir les coups affreux après s'être
+élevé il vivement contre de pareils abus ?
+11 veut donc faire regretter à tout un
+peuple le zele & le courage avec léquel
+il a refusé & repoussé des Juges étran-
+gers , pour le maintenir fur un Siège où il
+croyoit le reiplacer pour la défenle de fe&
+droits imprefcriptibles ; il n*auroit pas dù
+oublier que lans cet enthoufiafme popu-
+laire , non- seulement tout autre moyeu
+étoit bien insuffisant , mais même fa perte
+étoit jurée. 'Le danger imminent de la caufe
+publique autorife les assemblées, La par-
+tialité la plus iiTjuste est le seul motif qui
+les lui fait défendre auj ourd'hui ; il a
+profité plus d'une fois de cet avantage i
+îous la fauve-garde du Peuple il s'est
+bien assemblé quand il n« formoit plii^

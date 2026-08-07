@@ -1,0 +1,69 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "adresse00sein"
+type = "pamphlet"
+title = "Adresse"
+language = "fr"
+place = "A Rouen"
+date = "1791"
+note = "Scanner's note: No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/adresse00sein"
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 339"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t01z7qb31"
+internet_archive = "adresse00sein"
+
+[scan]
+file = "adresse00sein.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/adresse00sein"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Seine-Maritime (France)"
+role = "author"
+
+[[resp]]
+name = "De l'imp. d'Oursel"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_35657"
+
+[[text]]
+file = "adresse00sein.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "adresse00sein.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "adresse00sein.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "adresse00sein.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"

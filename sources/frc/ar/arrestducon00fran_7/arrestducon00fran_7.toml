@@ -1,0 +1,73 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arrestducon00fran_7"
+type = "pamphlet"
+title = "Arrest du Conseil d'estat du roy, qui ordonne la suppression d'un ecrit ayant pour titre"
+language = "fr"
+place = "A Paris"
+date = "1724"
+note = "Caption title. Imprint at foot of p. 3. Scanner's note: No copyright found.  No table of contents found.  Damaged, stained pages and cover.  Title on cover. <br />."
+url = "https://archive.org/details/arrestducon00fran_7"
+subject = ["Censorship"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 4 no. 64"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7dr8g82d"
+internet_archive = "arrestducon00fran_7"
+
+[scan]
+file = "arrestducon00fran_7.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arrestducon00fran_7"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "France.Conseil d'Etat"
+role = "author"
+
+[[resp]]
+name = "France. Conseil d'Etat"
+role = "author"
+
+[[resp]]
+name = "Cadry, Jean Baptiste, 1680-1756"
+role = "author"
+
+[[resp]]
+name = "de l'Imprimerie royale"
+role = "publisher"
+
+[[text]]
+file = "arrestducon00fran_7.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestducon00fran_7.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestducon00fran_7.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestducon00fran_7.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

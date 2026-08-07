@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arrestdelacovrde00fran_38"
+type = "pamphlet"
+title = "Arrest de la Covr de Parlement"
+language = "fr"
+place = "A Paris"
+date = "1668"
+note = """Prohibits the printing and publishing of "... une pretenduë Lettre ... dans lequelle il y avait des maximes & des propositions capables de troubler la paix de l'Eglise, d'affoiblir l'authorité des declarations & bulles registrées dans ce Parlement, touchant les opinions & la doctrine de Iansenius ...". Dated 19 March 1668. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Title page and cover are combined."""
+url = "https://archive.org/details/arrestdelacovrde00fran_38"
+subject = [
+    "Jansenists",
+    "Censorship",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 2 no. 30"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t80k80d1r"
+internet_archive = "arrestdelacovrde00fran_38"
+
+[scan]
+file = "arrestdelacovrde00fran_38.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arrestdelacovrde00fran_38"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Parlement (Paris)"
+role = "author"
+
+[[resp]]
+name = "France. Parlement (Paris)"
+role = "author"
+
+[[resp]]
+name = "Par les imprimeurs ordinaires du roy"
+role = "publisher"
+
+[[text]]
+file = "arrestdelacovrde00fran_38.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacovrde00fran_38.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacovrde00fran_38.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacovrde00fran_38.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

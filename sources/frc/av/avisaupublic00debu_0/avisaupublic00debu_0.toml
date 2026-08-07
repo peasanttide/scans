@@ -1,0 +1,77 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "avisaupublic00debu_0"
+type = "pamphlet"
+title = "Avis au public sur l'ouvrage intitulé Manuel du jardinier, ou, Journal de son travail, distribué par mois"
+language = "fr"
+place = "A Paris"
+date = "1772"
+note = """Prospectus for Dézallier d'Argenville's "Manuel du jardinier.". Caption title. "Brochure in-12. Prix 1 liv. 4 sous"--P. [1]. "Chez le même libraire, se vendent les livres suivans ..."--P. [4]. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Title page and cover are combined."""
+url = "https://archive.org/details/avisaupublic00debu_0"
+subject = [
+    "Dézallier d'Argenville, A.-J. (Antoine-Joseph), 1680-1765",
+    "Booksellers and bookselling",
+    "Horticultural literature",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1a no. 58"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9383202w"
+internet_archive = "avisaupublic00debu_0"
+
+[scan]
+file = "avisaupublic00debu_0.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/avisaupublic00debu_0"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Debure, Guillaume,1734-182"
+role = "author"
+
+[[resp]]
+name = "Debure, Guillaume, 1734-1820"
+role = "author"
+
+[[resp]]
+name = "Dézallier d'Argenville, A.-J. (Antoine-Joseph), 1680-1765. Manuel du jardinier"
+role = "author"
+
+[[resp]]
+name = "Chez Debure père, quai des Augustins, à Saint-Paul"
+role = "publisher"
+
+[[text]]
+file = "avisaupublic00debu_0.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avisaupublic00debu_0.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avisaupublic00debu_0.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avisaupublic00debu_0.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

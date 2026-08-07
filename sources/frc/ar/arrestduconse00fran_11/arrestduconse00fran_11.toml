@@ -1,0 +1,56 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arrestduconse00fran_11"
+type = "pamphlet"
+title = "Arrest du Conseil d'estat du roy, portant reglement entre les libraires & imprimeurs"
+language = "fr"
+date = "1735"
+note = "Indorsed at Limoges, 26 October 1735. Scanner's note: No copyright page found. No table-of-contents pages found. Title and cover pages combined."
+url = "https://archive.org/details/arrestduconse00fran_11"
+subject = ["Printing industry"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 5 no. 44"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t63548f6n"
+internet_archive = "arrestduconse00fran_11"
+
+[scan]
+file = "arrestduconse00fran_11.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/arrestduconse00fran_11"
+ppi = 350
+note = "Scanned on fold1.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Conseil d'Etat"
+role = "author"
+
+[[resp]]
+name = "France. Conseil d'Etat"
+role = "author"
+
+[[resp]]
+name = "[n.p."
+role = "publisher"
+
+[[text]]
+file = "arrestduconse00fran_11.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestduconse00fran_11.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "adresse00pauf"
+type = "pamphlet"
+title = "Adresse /"
+language = "fr"
+place = "s.l."
+date = "1789"
+note = "Caption title. Without imprint. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on cover page. Contents are on the back cover. Damaged, stained and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/adresse00pauf"
+extent = "4 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 6709"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4rj9j77s"
+internet_archive = "adresse00pauf"
+openlibrary_edition = "OL26217991M"
+openlibrary_work = "OL17613717W"
+
+[scan]
+file = "adresse00pauf.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/adresse00pauf"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Pau (France)"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_60306"
+
+[[text]]
+file = "adresse00pauf.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adresse00pauf.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adresse00pauf.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adresse00pauf.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

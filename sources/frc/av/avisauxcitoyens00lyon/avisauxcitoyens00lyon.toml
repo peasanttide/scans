@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "avisauxcitoyens00lyon"
+type = "pamphlet"
+title = "Avis aux citoyens"
+language = "fr"
+place = "A Lyon"
+date = "1790"
+note = "Caption title. Text begins: Les officiers municipaux, réunis avec MM. les officiers composant le comité des officiers de la garde nationale .. Signed: Steinman, Bertholon, & Degraix; & chevalier Dervieu. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages. No page numbers."
+url = "https://archive.org/details/avisauxcitoyens00lyon"
+subject = [
+    "Taxation",
+    "Recording and registration",
+]
+extent = "[4] p. ; 25 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9938 no. 3"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2h75j92x"
+internet_archive = "avisauxcitoyens00lyon"
+openlibrary_edition = "OL26223726M"
+openlibrary_work = "OL17619181W"
+
+[scan]
+file = "avisauxcitoyens00lyon.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/avisauxcitoyens00lyon"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Lyon (France)"
+role = "author"
+
+[[resp]]
+name = "La Roche, Aimé de, 1715-1801"
+role = "publisher"
+
+[[resp]]
+name = "De l'imprimerie d'Aimé de La Roche, aux Halles de la Grenette"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_854536"
+
+[[text]]
+file = "avisauxcitoyens00lyon.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avisauxcitoyens00lyon.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avisauxcitoyens00lyon.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avisauxcitoyens00lyon.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

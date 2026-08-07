@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arrete07unse"
+type = "pamphlet"
+title = "... Arr^eté"
+language = "fr"
+place = "A Boen"
+date = "1794"
+note = "Caption title. Imprint from colophon. At head of title: Égalité, liberté. Dated in contemporary ms.: 18 pluvi^ose an 2 = 6 fevrier 1794. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found.   Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages."
+url = "https://archive.org/details/arrete07unse"
+subject = ["Civil rights"]
+extent = "4 p. ; 25 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9443"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9s233c7s"
+internet_archive = "arrete07unse"
+openlibrary_edition = "OL26221883M"
+openlibrary_work = "OL17617383W"
+
+[scan]
+file = "arrete07unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arrete07unse"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Boën (France)"
+role = "author"
+
+[[resp]]
+name = "Boën (France)"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de l'Administration"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_67483"
+
+[[text]]
+file = "arrete07unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrete07unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrete07unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrete07unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

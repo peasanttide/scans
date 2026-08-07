@@ -1,0 +1,71 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "auprincipalminis00neck_0"
+type = "pamphlet"
+title = "Au principal ministre."
+language = "fr"
+place = "s.l."
+date = "1790"
+note = """Caption title. Without imprint. "Copie de la lettre, dont un exemplaire fut mis sous la serviette de chaque officier de la garnison de Rennes, à l'époque du trouble du mois de mai": p.[3]-[4]. Directed to Necker? Not in Martin & Walter [edition 2: with extra text as indicated above; line 4 of p.[2] ends: se croient, &] [editions 2 and 3 closely resemble one another]. Scanner's note: No title page found. No copyright page found. No table-of-contents pages found."""
+url = "https://archive.org/details/auprincipalminis00neck_0"
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 1141"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4mm1c56r"
+internet_archive = "auprincipalminis00neck_0"
+openlibrary_edition = "OL26207143M"
+openlibrary_work = "OL17603407W"
+
+[scan]
+file = "auprincipalminis00neck_0.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/auprincipalminis00neck_0"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Necker, Jacques, 1732-1804"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_41589"
+
+[[text]]
+file = "auprincipalminis00neck_0.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "auprincipalminis00neck_0.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "auprincipalminis00neck_0.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "auprincipalminis00neck_0.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

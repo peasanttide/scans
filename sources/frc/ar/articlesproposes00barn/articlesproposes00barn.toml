@@ -1,0 +1,83 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "articlesproposes00barn"
+type = "pamphlet"
+title = "Articles proposés à l'Assemblée nationale, sur le travail du comité de constitution /"
+language = "fr"
+place = "France"
+date = "1789"
+note = "Martin & Walter. Révolution française. Bibliography: Martin & Walter. Révolution française,  I, 1747. Scanner's note: Title page located on front cover. No copyright page found. No table-of-contents pages found. Damaged, worn cover and pages. Skewed text. Faint text."
+url = "https://archive.org/details/articlesproposes00barn"
+subject = [
+    "Constitutional history",
+    "Elections",
+]
+extent = "4 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 14095"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1pg6c31r"
+internet_archive = "articlesproposes00barn"
+openlibrary_edition = "OL25917834M"
+openlibrary_work = "OL17340963W"
+
+[scan]
+file = "articlesproposes00barn.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/articlesproposes00barn"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Barnave, Antoine, 1761-1793"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791). Comité de Constitution"
+role = "author"
+
+[[resp]]
+name = "s.n.]"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_829212"
+
+[[text]]
+file = "articlesproposes00barn.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "articlesproposes00barn.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "articlesproposes00barn.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "articlesproposes00barn.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

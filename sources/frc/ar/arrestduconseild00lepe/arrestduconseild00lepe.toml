@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arrestduconseild00lepe"
+type = "pamphlet"
+title = "Arrest du conseil d'estat du roy, du premier May 1733"
+language = "fr"
+place = "Paris"
+date = "1733"
+note = "Signed Phelypeaux. Caption title. Imprint at foot of p. 3. Relating to the suppression of 2 works by Claude Le Pelletier (Nouvelle défense de la Constitution; and Traité de l'amour de Dieu)."
+url = "https://archive.org/details/arrestduconseild00lepe"
+subject = [
+    "Censorship",
+    "Unigenitus (Papal bull) 1713",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 5 no. 35"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5hb4r87v"
+internet_archive = "arrestduconseild00lepe"
+
+[scan]
+file = "arrestduconseild00lepe.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arrestduconseild00lepe"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Le Pelletier, Claude, approximately 1670-1743"
+role = "author"
+
+[[resp]]
+name = "France. Conseil d'Etat"
+role = "author"
+
+[[resp]]
+name = "L'imprimerie royale"
+role = "publisher"
+
+[[text]]
+file = "arrestduconseild00lepe.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestduconseild00lepe.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestduconseild00lepe.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestduconseild00lepe.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

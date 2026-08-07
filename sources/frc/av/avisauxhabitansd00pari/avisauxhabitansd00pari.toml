@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "avisauxhabitansd00pari"
+type = "pamphlet"
+title = "Avis aux habitans de la ville de Paris."
+language = "fr"
+place = "s.l."
+date = "1789"
+note = "Caption title. Without imprint. Closing words (p.3): ... il seroit à désirer que les assemblées préliminaires ... recommandassent & enjoinissent expressément aux electeurs ... d'insister ... pour que la rédaction du cahier [des doléances] et l'élection des dix députés du clergé, des dix de la noblesse, et des vingt du Tiers, soient faites par tous les ordres et en commun. Martin & Walter IV 2: 2543. Scanner's note: No title page found. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/avisauxhabitansd00pari"
+subject = ["France. Etats généraux"]
+extent = "3 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 1298"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1tf4tz9b"
+internet_archive = "avisauxhabitansd00pari"
+openlibrary_edition = "OL26207917M"
+openlibrary_work = "OL17604193W"
+
+[scan]
+file = "avisauxhabitansd00pari.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/avisauxhabitansd00pari"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Paris (France)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_42300"
+
+[[text]]
+file = "avisauxhabitansd00pari.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avisauxhabitansd00pari.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avisauxhabitansd00pari.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avisauxhabitansd00pari.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

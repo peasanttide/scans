@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arrestduconseil00unse_32"
+type = "pamphlet"
+title = "Arrest du Conseil d'État du roi, qui accorde une modération des droits d'entrée à Paris sur les gazes : du 8 juillet 1781 : extrait des registres du Conseil d'Etat"
+language = "fr"
+place = "A Paris"
+date = "1781"
+note = """
+Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover. 
+Back cover is upside down."""
+url = "https://archive.org/details/arrestduconseil00unse_32"
+subject = [
+    "Textile fabrics",
+    "Octroi",
+]
+extent = "3 p. ; 28 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC suppl. 87 no. 54"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t40s5053d"
+internet_archive = "arrestduconseil00unse_32"
+
+[scan]
+file = "arrestduconseil00unse_32.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arrestduconseil00unse_32"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Conseil d'Etat"
+role = "author"
+
+[[resp]]
+name = "Simon, P. G. (Pierre-Guillaume), 1722-1787"
+role = "publisher"
+
+[[resp]]
+name = "Chez P.G. Simon, imprimeur du Parlement, rue Mignon Saint André-des-Arcs"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_863165"
+
+[[text]]
+file = "arrestduconseil00unse_32.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestduconseil00unse_32.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestduconseil00unse_32.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestduconseil00unse_32.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

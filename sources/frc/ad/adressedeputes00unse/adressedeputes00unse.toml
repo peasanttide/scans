@@ -1,0 +1,81 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "adressedeputes00unse"
+type = "pamphlet"
+title = "Adresse a MM. les députés de l'Assemblée nationale, par le maire d'Issy-l'Evêque, détenu aux prisons du Châtelet de Paris"
+language = "fr"
+place = "Paris"
+date = "1790"
+note = """Caption title. Signed, p. 3: Carion, curé, maire du d'Issy-l'Évêque en Bourgogne .. Imprint from colophon. Variant of Martin & Walter. Révolution française, I, 6118. "Courte réponse aux prétendus délits du maire d'Issy-l'Évêque"--P. 3-4. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."""
+url = "https://archive.org/details/adressedeputes00unse"
+subject = [
+    "Carion, Jean-François",
+    "Political crimes and offenses",
+]
+extent = "4 p. ; 25 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 26573"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9q29246d"
+internet_archive = "adressedeputes00unse"
+
+[scan]
+file = "adressedeputes00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/adressedeputes00unse"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Carion, Jean-François"
+role = "author"
+
+[[resp]]
+name = "Imprimerie de Le Normant"
+role = "publisher"
+
+[[resp]]
+name = "France. Assemblée nationale législative (1791-1792)"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Vezard & Le Normant, rue des Prêtres-Saint-Germain-l'Auxerrois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_863360"
+
+[[text]]
+file = "adressedeputes00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adressedeputes00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adressedeputes00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adressedeputes00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

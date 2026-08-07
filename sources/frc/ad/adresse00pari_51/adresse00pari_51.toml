@@ -1,0 +1,73 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "adresse00pari_51"
+type = "pamphlet"
+title = "Adresse /"
+language = "fr"
+place = "Paris"
+date = "1792"
+note = "Caption title. Imprint from colophon. Martin & Walter IV 2: 13218 (which specifies: Signé: Devaudichon, président du comité. Cavé, secrétaire-greffier. -- En remettant un don volontaire de 4 800 livres). Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on cover page. Damaged, stained and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/adresse00pari_51"
+extent = "2 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 6641"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6838wj3c"
+internet_archive = "adresse00pari_51"
+
+[scan]
+file = "adresse00pari_51.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/adresse00pari_51"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Paris (France). Section de la Rue Poissonnière"
+role = "author"
+
+[[resp]]
+name = "Paris (France). Section de la Rue Poissonnière"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_60760"
+
+[[text]]
+file = "adresse00pari_51.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adresse00pari_51.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adresse00pari_51.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adresse00pari_51.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

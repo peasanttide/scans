@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "auxmontagnards00"
+type = "pamphlet"
+title = "Aux Montagnards : aux vrais amis des Sans-culottes"
+language = "fr"
+place = "Paris"
+date = "1793"
+note = "Caption title. Imprint from colophon. In right margin of p.[1]: Mont-de-Piété, ou Maison commune de Prét. Dated at end: Ce 20 frimaire, l'an 2 de la République française une et indivisible [10 décembre 1793]. Martin & Walter IV 2: 2388 (which specifies: Par le Club des Sans-culottes du Mont-de-Piété). Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages."
+url = "https://archive.org/details/auxmontagnards00"
+subject = [
+    "Sansculottes",
+    "Montagnards",
+]
+extent = "4 p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9390"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6g213r1f"
+internet_archive = "auxmontagnards00"
+openlibrary_edition = "OL26222013M"
+openlibrary_work = "OL17617513W"
+
+[scan]
+file = "auxmontagnards00.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/auxmontagnards00"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Club des Sans-culottes de Mont-de-Piété"
+role = "author"
+
+[[resp]]
+name = "Club des Sans-culottes de Mont-de-Piété"
+role = "author"
+
+[[resp]]
+name = "Limodin, imprimeur"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_67273"
+
+[[text]]
+file = "auxmontagnards00.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "auxmontagnards00.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "auxmontagnards00.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "auxmontagnards00.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

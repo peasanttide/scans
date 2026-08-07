@@ -1,0 +1,68 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arreteaccorde00unse"
+type = "pamphlet"
+title = "Arrêté qui accorde l'indemnité de logement aux maréchaux-des-logis du train d'artillerie détachés dans les départemens pour y faire des tournées : du 13 messidor an X de la République fançaise, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1802"
+note = """Caption title. At head of title: Dépôt des lois, place du Carrousel, a Paris. No. 1584. "Le premier Consul, signé Bonaparte"--P. [1]. Imprint from colophon. "No. 6"--Bottom of p. [1]. Scanner's note: Irregular Pagination. No copyright page found. No table-of-contents pages found. No title page found."""
+url = "https://archive.org/details/arreteaccorde00unse"
+subject = ["France. Armée. Artillerie"]
+extent = "[1] p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10325 no. 69"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2h75j740"
+internet_archive = "arreteaccorde00unse"
+openlibrary_edition = "OL26223413M"
+openlibrary_work = "OL17618876W"
+
+[scan]
+file = "arreteaccorde00unse.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/arreteaccorde00unse"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Consulat (1799-1804)"
+role = "author"
+
+[[resp]]
+name = "Napoleon I, Emperor of the French, 1769-1821"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois, place du Carrousel"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_851376"
+
+[[text]]
+file = "arreteaccorde00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arreteaccorde00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

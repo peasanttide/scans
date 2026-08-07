@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arretedudirectoi00rhon_9"
+type = "pamphlet"
+title = "Arrêté du directoire du département de Rhône et Loire, relatif aux opérations concernant les contributions fonciere et mobiliaire : du 6 juin 1791"
+language = "fr"
+place = "A Lyon"
+date = "1791"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."
+url = "https://archive.org/details/arretedudirectoi00rhon_9"
+subject = [
+    "Property tax",
+    "Tax administration and procedure",
+]
+extent = "4 p. ; 24 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10244 no. 47"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3b048m70"
+internet_archive = "arretedudirectoi00rhon_9"
+openlibrary_edition = "OL26222694M"
+openlibrary_work = "OL17618165W"
+
+[scan]
+file = "arretedudirectoi00rhon_9.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arretedudirectoi00rhon_9"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Rhône-et-Loire (France). Directoire"
+role = "author"
+
+[[resp]]
+name = "La Roche, Aimé de, 1715-1801"
+role = "publisher"
+
+[[resp]]
+name = "De l'imprimerie d'Aimé de La Roche, imprimeur du département de Rhône & Loire"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_857490"
+
+[[text]]
+file = "arretedudirectoi00rhon_9.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretedudirectoi00rhon_9.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretedudirectoi00rhon_9.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretedudirectoi00rhon_9.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,85 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "avertissement00bisc"
+type = "pamphlet"
+title = "Avertissement"
+language = "fr"
+place = "Nuremberg?"
+date = "1775"
+note = """Advertisement for v. 1, pt. 1 of Schmidel's "Icones platarum", and prospectus for pt. 2, edited by Valentin Bischoff. Signed: À Nuremberg, ce 2. octob. 1775, Valentin Bischoff, graveur en taille douce. "Volume I. partie I. de 25 planches sur du papier de Hollande & bien coloriées, in folio imperial, 1773. Chez Valentin Bischoff ... à 16 fl. ... cette seconde partie du premier volume consistera aussi ... en vingt cinq planches enluminées, qui coutent ensemble ... trente trois florins.". Ms. annotations. Scanner's note: No copyright found.  No table of contents found.  Damaged, stained pages.  No page numbers. <br />."""
+url = "https://archive.org/details/avertissement00bisc"
+subject = [
+    "Schmidel, Casimir Christoph, 1718-1792",
+    "Booksellers and bookselling",
+    "Botanical literature",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1a no. 15"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0kt2cm35"
+internet_archive = "avertissement00bisc"
+
+[scan]
+file = "avertissement00bisc.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/avertissement00bisc"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "Bischoff, Valentin"
+role = "author"
+
+[[resp]]
+name = "Schmidel, Casimir Christoph, 1718-1792. Icones plantarum"
+role = "author"
+
+[[resp]]
+name = "Valentin Bischoff?"
+role = "publisher"
+
+[[text]]
+file = "avertissement00bisc.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avertissement00bisc.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avertissement00bisc.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avertissement00bisc.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avertissement00bisc.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avertissement00bisc.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

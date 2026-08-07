@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arrt00fran_53"
+type = "pamphlet"
+title = "Arrêt /"
+language = "fr"
+place = "A Paris"
+date = "1788"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter [edition 1: 4 p.]. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page is on the cover. Skewed text. Damaged, stained, and/or loose pages."
+url = "https://archive.org/details/arrt00fran_53"
+subject = ["Fiscal policy"]
+extent = "4 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 1992"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8dg1sg92"
+internet_archive = "arrt00fran_53"
+openlibrary_edition = "OL26209053M"
+openlibrary_work = "OL17605305W"
+
+[scan]
+file = "arrt00fran_53.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arrt00fran_53"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Conseil d'Etat"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie royale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_43689"
+
+[[text]]
+file = "arrt00fran_53.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrt00fran_53.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrt00fran_53.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrt00fran_53.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

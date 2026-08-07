@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "adresse00pgig"
+type = "pamphlet"
+title = "Adresse"
+language = "fr"
+place = "s.l."
+date = "1790"
+note = "Caption title. Without imprint. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages."
+url = "https://archive.org/details/adresse00pgig"
+extent = "4 p. ; 23 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9159"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8ff8wh7d"
+internet_archive = "adresse00pgig"
+openlibrary_edition = "OL26221968M"
+openlibrary_work = "OL17617468W"
+
+[scan]
+file = "adresse00pgig.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/adresse00pgig"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Pégigueux (France). Garde nationale"
+role = "author"
+
+[[resp]]
+name = "Pégigueux (France). Garde nationale"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_66471"
+
+[[text]]
+file = "adresse00pgig.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adresse00pgig.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adresse00pgig.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adresse00pgig.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

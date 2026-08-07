@@ -1,0 +1,77 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "abregedurecueild00desp"
+type = "pamphlet"
+title = "Abregé du Recueil des actes, titres et mémoires concernant les affaires du clergé de France, ou, Table raisonnée en forme de précis des matieres contenues en ce recueil, &c."
+language = "fr"
+place = "Paris"
+date = "1752"
+note = "Prospectus for: Abregé du Recueil des actes, titres et mémoires concernant les affaires du clergé de France / [rédigé par Marc Du Saulzet]. Paris : Guillaume Desprez, 1752. Caption title. Initial; head- and tail-pieces. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Text extends off of the edge of the page. Text may be lost in the binding. Permanent creases may obscure some text. Title page and cover are combined."
+url = "https://archive.org/details/abregedurecueild00desp"
+subject = [
+    "Abregé du Recueil des actes, titres et mémoires concernant les affaires du clergé de France",
+    "Religious literature",
+    "Booksellers and bookselling",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 8 no. 19"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0fv4821n"
+internet_archive = "abregedurecueild00desp"
+
+[scan]
+file = "abregedurecueild00desp.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/abregedurecueild00desp"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Desprez, Guillaume,168?-1753"
+role = "author"
+
+[[resp]]
+name = "Desprez, Guillaume, 1680?-1753"
+role = "author"
+
+[[resp]]
+name = "Du Saulzet, Marc"
+role = "author"
+
+[[resp]]
+name = "G. Desprez"
+role = "publisher"
+
+[[text]]
+file = "abregedurecueild00desp.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "abregedurecueild00desp.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "abregedurecueild00desp.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "abregedurecueild00desp.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

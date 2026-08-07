@@ -1,0 +1,74 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "adresseduconseil00dign"
+type = "pamphlet"
+title = "Adresse du conseil d'administration du district du Digne, aux citoyens du district"
+language = "fr"
+place = "A Digne"
+date = "1793"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages."
+url = "https://archive.org/details/adresseduconseil00dign"
+subject = [
+    "Political clubs",
+    "Representative government and representation",
+    "Counterrevolutionaries",
+]
+extent = "4 p. ; 23 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9738 no. 3"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7vm9cf9t"
+internet_archive = "adresseduconseil00dign"
+
+[scan]
+file = "adresseduconseil00dign.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/adresseduconseil00dign"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Digne (France). Conseil d'administration"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de J. Guichard"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_854660"
+
+[[text]]
+file = "adresseduconseil00dign.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adresseduconseil00dign.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adresseduconseil00dign.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adresseduconseil00dign.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

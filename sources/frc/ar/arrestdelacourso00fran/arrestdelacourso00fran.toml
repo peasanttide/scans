@@ -1,0 +1,73 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arrestdelacourso00fran"
+type = "pamphlet"
+title = "Arrest de la Cour souveraine de Lorraine et Barrois, portant condamnation d'un imprimé"
+language = "fr"
+place = "A Nancy"
+date = "1761"
+note = "Caption title. Imprint at foot of p. 4. Condemns Observations sur les dernières réponses des habitans de Maron. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Title page and cover are combined."
+url = "https://archive.org/details/arrestdelacourso00fran"
+subject = ["Censorship"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 6 no. 177"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t04z1008x"
+internet_archive = "arrestdelacourso00fran"
+
+[scan]
+file = "arrestdelacourso00fran.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arrestdelacourso00fran"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Parlement (Nancy)"
+role = "author"
+
+[[resp]]
+name = "France. Parlement (Nancy)"
+role = "author"
+
+[[resp]]
+name = "Maron, France. Citizens"
+role = "author"
+
+[[resp]]
+name = "Chez Charlot, père, & Charlot, fils"
+role = "publisher"
+
+[[text]]
+file = "arrestdelacourso00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacourso00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacourso00fran.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacourso00fran.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

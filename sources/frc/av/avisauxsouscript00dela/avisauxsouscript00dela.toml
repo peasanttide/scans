@@ -1,0 +1,65 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "avisauxsouscript00dela"
+type = "pamphlet"
+title = "Avis aux souscripteurs"
+language = "fr"
+place = "À Paris"
+date = "1786"
+note = """Notice regarding the final installment of Saint Non's "Voyage pittoresque, ou, Description des royaumes de Naples et de Sicile", published 1781-1786. Caption title. Imprint from colophon. Printer precedes place of publication in colophon. "Ce dernier cahier contient, entres autres, quatres planches nouvelles des médailles de la Sicile ... Les soins et la finesse avec lesquels ces médailles ont été gravées, ne permettant pas d'en tirer beaucoup d'épreuves, elles ne seront délivrées qu'à ceux des souscripteurs qui les désireront ... en payant 9 liv. de plus pour les quatorze estampes.". Scanner's note: No copyright page found. No table-of-contents pages found. Title and cover pages combined."""
+url = "https://archive.org/details/avisauxsouscript00dela"
+subject = [
+    "Saint Non, Jean Claude Richard de, 1727-1791",
+    "Booksellers and bookselling",
+    "Prints",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1a no. 92"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4hn0xb0r"
+internet_archive = "avisauxsouscript00dela"
+
+[scan]
+file = "avisauxsouscript00dela.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/avisauxsouscript00dela"
+ppi = 500
+note = "Scanned on fold1.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Delafosse, Jean Baptiste,1721-1775"
+role = "author"
+
+[[resp]]
+name = "Delafosse, Jean Baptiste, 1721-1775"
+role = "author"
+
+[[resp]]
+name = "Saint Non, Jean Claude Richard de, 1727-1791. Voyage pittoresque à Naples et en Sicile"
+role = "author"
+
+[[resp]]
+name = "M. de La Fosse, graveur, demeure place du Carrousel"
+role = "publisher"
+
+[[text]]
+file = "avisauxsouscript00dela.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avisauxsouscript00dela.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

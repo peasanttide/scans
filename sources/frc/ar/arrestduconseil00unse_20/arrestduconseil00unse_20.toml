@@ -1,0 +1,81 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arrestduconseil00unse_20"
+type = "pamphlet"
+title = "Arrest du Conseil d'état du roi, qui casse la modification mise par le Parlement de Rouen, à l'enregistrement des lettres patentes du 2 novembre 1774, concernant le commerce des grains dans l'intérieur du royaume : du 27 janvier 1776 : extrait des registres du Conseil d'État"
+language = "fr"
+place = "A Paris"
+date = "1776"
+note = """
+Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover. 
+Back cover is upside down. Only one numbered page."""
+url = "https://archive.org/details/arrestduconseil00unse_20"
+subject = [
+    "Grain trade",
+    "Food supply",
+]
+extent = "2 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC suppl. 87 no. 22"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8nd15m7x"
+internet_archive = "arrestduconseil00unse_20"
+openlibrary_edition = "OL26235174M"
+openlibrary_work = "OL17629757W"
+
+[scan]
+file = "arrestduconseil00unse_20.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arrestduconseil00unse_20"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Conseil d'Etat"
+role = "author"
+
+[[resp]]
+name = "Imprimerie royale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie royale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_863134"
+
+[[text]]
+file = "arrestduconseil00unse_20.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestduconseil00unse_20.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestduconseil00unse_20.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestduconseil00unse_20.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

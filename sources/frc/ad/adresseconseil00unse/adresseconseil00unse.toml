@@ -1,0 +1,81 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "adresseconseil00unse"
+type = "pamphlet"
+title = "Adresse du conseil-général du département de l'Isere, a la Convention nationale"
+language = "fr"
+place = "A Grenoble"
+date = "1792"
+note = "Caption title. Imprint from colophon. Dated at end: Le 19 septembre 1792, l'an 1er. de la République françoise. Not in Martin & Walter. Révolution française. Argues that citizens of Paris are unfairly favored in the liquidation of pensions and proposes a remedy that would ensure that residents of the departments are not neglected. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages."
+url = "https://archive.org/details/adresseconseil00unse"
+subject = [
+    "Pensions",
+    "Debts, Public",
+]
+extent = "4 p. ; 24 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9874 no. 19"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5q86f82n"
+internet_archive = "adresseconseil00unse"
+
+[scan]
+file = "adresseconseil00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/adresseconseil00unse"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Isère (France). Conseil général"
+role = "author"
+
+[[resp]]
+name = "Cuchet, Joseph-Marie, 1760-1808"
+role = "publisher"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Chez J.M. Cuchet, imprimeur du département de l'Isere"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_855811"
+
+[[text]]
+file = "adresseconseil00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adresseconseil00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adresseconseil00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adresseconseil00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

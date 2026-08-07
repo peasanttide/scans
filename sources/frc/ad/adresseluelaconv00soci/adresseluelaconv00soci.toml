@@ -1,0 +1,78 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "adresseluelaconv00soci"
+type = "pamphlet"
+title = "... Adresse lue a la Convention nationale : séance du 31 octobre, l'an 1er de la République [1792]"
+language = "fr"
+place = "Paris"
+date = "1792"
+note = "Caption title. Imprint from colophon. At head of title: [cartouche, with wording: Soté des Jacobins amis de la liberté et de l'égalité. Republique françoise, Paris] Sociéte des amis de la liberté et de l'égalité, séante aux ci-devant Jacobins Saint-Honoré, `a Paris. Martin & Walter IV 2: 16652 (which specifies: Contre la création d'une garde pour la Convention). Scanner's note: No copyright page found. No table-of-contents pages found. Title is on the cover page. Uneven binding. Skewed text. Damaged, stained, and/or loose pages."
+url = "https://archive.org/details/adresseluelaconv00soci"
+subject = ["Jacobins"]
+extent = "3 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 8298"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t80k7gn57"
+internet_archive = "adresseluelaconv00soci"
+
+[scan]
+file = "adresseluelaconv00soci.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/adresseluelaconv00soci"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Société des amis de la liberté et de l'égalité séante aux ci-devant Jacobins"
+role = "author"
+
+[[resp]]
+name = "Société des amis de la liberté et de l'égalité séante aux ci-devant Jacobins"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de L. Potier de Lille"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_6391"
+
+[[text]]
+file = "adresseluelaconv00soci.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adresseluelaconv00soci.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adresseluelaconv00soci.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adresseluelaconv00soci.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,64 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arrestduconse00fran_23"
+type = "pamphlet"
+title = "Arrest du Conseil d'état du roi, portant suppression d'un livre imprimé sans permission"
+language = "fr"
+place = "A Paris"
+date = "1752"
+note = "Caption title. Imprint at foot of p. 2. The work in question is: Opera omnia pro defensione Constitutiones Unigenitus, by Languet de La Villeneuve de Gergy. Scanner's note: No copyright found.  No table of contents found.  Damaged, stained pages and cover.  Title on cover. <br />Only one numbered page. <br />."
+url = "https://archive.org/details/arrestduconse00fran_23"
+subject = [
+    "Censorship",
+    "Unigenitus (Papal bull) 1713",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 5 no. 99"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0102sf63"
+internet_archive = "arrestduconse00fran_23"
+
+[scan]
+file = "arrestduconse00fran_23.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/arrestduconse00fran_23"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "France.Conseil d'Etat"
+role = "author"
+
+[[resp]]
+name = "France. Conseil d'Etat"
+role = "author"
+
+[[resp]]
+name = "Languet, Jean Joseph, 1677-1753"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie royale"
+role = "publisher"
+
+[[text]]
+file = "arrestduconse00fran_23.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestduconse00fran_23.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

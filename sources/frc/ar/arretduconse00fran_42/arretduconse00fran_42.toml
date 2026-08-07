@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arretduconse00fran_42"
+type = "pamphlet"
+title = "Arrêt du Conseil d'état du roi, qui supprime deux imprimés et Mémoires pour le sieur Serpaud, contre les créanciers du sieur Haudry, du 25 juillet 1782"
+language = "fr"
+place = "A Paris"
+date = "1782"
+note = """Caption title. "Extrait des registres du conseil d'état"--p. 1. Imprint from colophon. Scanner's note: No copyright found.  No table of contents found.  Damaged, stained pages and cover.  Title on cover. <br />."""
+url = "https://archive.org/details/arretduconse00fran_42"
+subject = [
+    "Mémoire pour le sieur Serpaud contre le créanciers du sieur Haudry ..",
+    "Courts",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 9 no. 84"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9285z73q"
+internet_archive = "arretduconse00fran_42"
+
+[scan]
+file = "arretduconse00fran_42.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arretduconse00fran_42"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "France.Conseil d'Etat"
+role = "author"
+
+[[resp]]
+name = "France. Conseil d'Etat"
+role = "author"
+
+[[resp]]
+name = "de l'Imprimerie royale"
+role = "publisher"
+
+[[text]]
+file = "arretduconse00fran_42.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretduconse00fran_42.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretduconse00fran_42.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretduconse00fran_42.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

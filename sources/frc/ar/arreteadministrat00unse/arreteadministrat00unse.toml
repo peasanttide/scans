@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arreteadministrat00unse"
+type = "pamphlet"
+title = "Arrêté de l'administration centrale du département de la Côte-d'Or, portant que provisoirement les amendes encourues en exécution de la loi du 3 nivôse an 6, seront versées dans les caisses des receveurs de l'enregistrement"
+language = "fr"
+place = "A Dijon"
+date = "1798"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: Irregular Pagination. No copyright page found. No table-of-contents pages found. No title page found."
+url = "https://archive.org/details/arreteadministrat00unse"
+subject = [
+    "Tax penalties",
+    "Tax administration and procedure",
+]
+extent = "[3] p. ; 28 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9701 no. 23"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2s51sc8w"
+internet_archive = "arreteadministrat00unse"
+openlibrary_edition = "OL26223359M"
+openlibrary_work = "OL17618822W"
+
+[scan]
+file = "arreteadministrat00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arreteadministrat00unse"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Côte-d'Or (France). Administration centrale"
+role = "author"
+
+[[resp]]
+name = "Frantin, Louis-Nicolas, 1740-1803"
+role = "publisher"
+
+[[resp]]
+name = "De l'imprimerie de L.N. Frantin"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_857107"
+
+[[text]]
+file = "arreteadministrat00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arreteadministrat00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arreteadministrat00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arreteadministrat00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

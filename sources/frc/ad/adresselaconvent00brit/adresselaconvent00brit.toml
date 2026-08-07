@@ -1,0 +1,81 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "adresselaconvent00brit"
+type = "pamphlet"
+title = "Adresse a la Convention nationale de France"
+language = "fr"
+place = "A Dijon"
+date = "1792"
+note = "Caption title. Imprint from colophon. This edition not in Martin & Walter (cf. IV 2: 343). Scanner's note: No copyright page found. No table-of-contents pages found. Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages."
+url = "https://archive.org/details/adresselaconvent00brit"
+extent = "4 p. ; 28 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9143"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6k126d15"
+internet_archive = "adresselaconvent00brit"
+
+[scan]
+file = "adresselaconvent00brit.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/adresselaconvent00brit"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Brittany (France)"
+role = "author"
+
+[[resp]]
+name = "Manchester (England)"
+role = "author"
+
+[[resp]]
+name = "Norwich (England)"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Capel"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_66412"
+
+[[text]]
+file = "adresselaconvent00brit.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adresselaconvent00brit.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adresselaconvent00brit.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adresselaconvent00brit.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

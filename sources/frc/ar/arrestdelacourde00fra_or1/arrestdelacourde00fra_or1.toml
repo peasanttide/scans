@@ -1,0 +1,77 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arrestdelacourde00fra_or1"
+type = "pamphlet"
+title = "Arrest de la cour de Parlement qui condamne un imprimé ayant pour titre, Adhésion de Monseigneur l'evêque d'Amiens à l'Instruction pastorale de Monseigneur l'archevêque de Paris sur les atteintes données à l'autorité de l'eglise par les jugemens des tribunaux séculiers dans l'affaire des jésuites, communiquée à tout son diocése, en date du premier février 1764, à être lacéré et brûlé par l'executeur de la haute-justice :"
+language = "fr"
+place = "A Paris"
+date = "1764"
+note = "Caption title. Imprint from colophon. Signed at end: Dufranc. Imperfect: p. 3-6 wanting. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Missing pages 3-6.  Title page and cover are combined."
+url = "https://archive.org/details/arrestdelacourde00fra_or1"
+subject = ["Censorship"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 7 no. 54"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3gx9xm0x"
+internet_archive = "arrestdelacourde00fra_or1"
+
+[scan]
+file = "arrestdelacourde00fra_or1.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arrestdelacourde00fra_or1"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Parlement (Paris)"
+role = "author"
+
+[[resp]]
+name = "France. Parlement (Paris)"
+role = "author"
+
+[[resp]]
+name = "Amiens, France (Diocese) Bishop, 1734-1774 (Louis François Gabriel d'Orléans de La Motte)"
+role = "author"
+
+[[resp]]
+name = "Catholic Church. Archdiocese of Paris (France). Archbishop (1746-1781 : Beaumont)"
+role = "author"
+
+[[resp]]
+name = "chez P.G. Simon ..."
+role = "publisher"
+
+[[text]]
+file = "arrestdelacourde00fra_or1.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacourde00fra_or1.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacourde00fra_or1.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacourde00fra_or1.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

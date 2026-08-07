@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "aubustedebarra00unse"
+type = "pamphlet"
+title = "Au buste de Barra."
+language = "fr"
+place = "Paris"
+date = "1793"
+note = """Caption title. "Par le c. Lamotte, section de la République, deuxième compagnie"--P. 2. Imprint from colophon. "Air: De l'Hymne à l'Être suprême"--P. [1], first sequence. Not in Martin & Walter. Révolution française. "Invocation aux manes de Barra et de Viala"--P. [1] at end. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on the cover page. Damaged, stained, and/or loose pages. Uneven binding. Skewed text. Only one numbered page."""
+url = "https://archive.org/details/aubustedebarra00unse"
+subject = [
+    "Bara, Joseph, 1779-1793",
+    "Viala, Joseph-Agricol, 1780-1793",
+    "Revolutionary ballads and songs",
+]
+extent = "2, [1] p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 20544"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t69362373"
+internet_archive = "aubustedebarra00unse"
+openlibrary_edition = "OL26235790M"
+openlibrary_work = "OL17630350W"
+
+[scan]
+file = "aubustedebarra00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/aubustedebarra00unse"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Lamotte, citoyen"
+role = "author"
+
+[[resp]]
+name = "Lamotte, citoyen. Invocation aux manes de Barra et de Viala"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Massot, rue des Victoires-Nationales, n. 5"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_843326"
+
+[[text]]
+file = "aubustedebarra00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "aubustedebarra00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "aubustedebarra00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "aubustedebarra00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

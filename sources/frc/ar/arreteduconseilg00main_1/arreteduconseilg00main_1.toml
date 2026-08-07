@@ -1,0 +1,77 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arreteduconseilg00main_1"
+type = "pamphlet"
+title = "Arrêté du conseil général du département de Maine et Loire, en permanence : séance du 27 mars 1793, l'an second de la République française : les trois corps administratifs réunis, en présence des commissaires députés de la Convention nationale, dans le département de Maine et Loire"
+language = "fr"
+place = "A Angers"
+date = "1793"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on the cover page. Damaged, stained, and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/arreteduconseilg00main_1"
+subject = [
+    "Internal security",
+    "Subversive activities",
+]
+extent = "3 p. ; 25 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC suppl. 116 no. 10"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4jm7gk3k"
+internet_archive = "arreteduconseilg00main_1"
+
+[scan]
+file = "arreteduconseilg00main_1.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arreteduconseilg00main_1"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Maine-et-Loire (France). Conseil général"
+role = "author"
+
+[[resp]]
+name = "Mame, Charles-Pierre, 1747-1825"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale, chez Mame, imprimeur du département"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_861414"
+
+[[text]]
+file = "arreteduconseilg00main_1.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arreteduconseilg00main_1.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arreteduconseilg00main_1.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arreteduconseilg00main_1.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

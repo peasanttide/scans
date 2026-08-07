@@ -1,0 +1,81 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arrestdelacourde00fra_rcf"
+type = "pamphlet"
+title = "Arrest de la cour de Parlement, contre le tres-meschant parricide François Rauaillac."
+language = "fr"
+place = "A Aix"
+date = "1610"
+note = "Title vignette (royal arms of France); initial; head-piece. Newberry Library's copy lacking pages 3-14. No. 8 of 15 titles bound together. Scanner's note: Skips from page 3 to page 15."
+url = "https://archive.org/details/arrestdelacourde00fra_rcf"
+subject = [
+    "Ravaillac, François, 1578-1610",
+    "Henry IV, King of France, 1553-1610",
+]
+extent = "16 pages ; 17 cm"
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case F 39 .326 1634fp no.8"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4xh53050"
+internet_archive = "arrestdelacourde00fra_rcf"
+
+[scan]
+file = "arrestdelacourde00fra_rcf.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arrestdelacourde00fra_rcf"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Parlement (Paris)"
+role = "author"
+
+[[resp]]
+name = "France. Parlement (Paris), enacting jurisdiction"
+role = "author"
+
+[[resp]]
+name = "Tholosan, Jean, -1626, printer"
+role = "publisher"
+
+[[resp]]
+name = "Par Iean Tholosan, imprimeur du roy & de ladicte ville, MDCX [1610]"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_964201"
+
+[[text]]
+file = "arrestdelacourde00fra_rcf.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacourde00fra_rcf.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacourde00fra_rcf.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacourde00fra_rcf.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

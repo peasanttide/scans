@@ -1,0 +1,96 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arrivedelabannie00main"
+type = "pamphlet"
+title = "Arrivée de la banniere de la liberté."
+language = "fr"
+place = "s.l."
+date = "1790"
+note = """
+Scanner's note: No copyright page found. No table-of-contents pages found.
+Title / Cover pages combined.
+Page numbers skip from page 3 to un-numbered page to page 7."""
+url = "https://archive.org/details/arrivedelabannie00main"
+extent = "8 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 652"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5q84th9z"
+internet_archive = "arrivedelabannie00main"
+
+[scan]
+file = "arrivedelabannie00main.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/arrivedelabannie00main"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Maine-et-Loire (France)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_37028"
+
+[[text]]
+file = "arrivedelabannie00main.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "arrivedelabannie00main.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "arrivedelabannie00main.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "arrivedelabannie00main.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "arrivedelabannie00main.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "arrivedelabannie00main.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "arrivedelabannie00main.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "arrivedelabannie00main.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"

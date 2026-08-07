@@ -1,0 +1,97 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "avisaupublic00prud"
+type = "pamphlet"
+title = "Avis au public"
+language = "fr"
+place = "Paris?"
+date = "1792"
+note = """Prospectus for "Journal de tranquillité publique.". Caption title. "On souscrit à Paris, chez le sieur Prudhomme, propriétaire & editeur des Révolutions, rue Jacob, F.S.G., vis-à-vis la rue Saint-Benoît, n°. 28"--P. 4. "Annoncé pour paraitre le 1er dec. 1792"--Martin & Walter. Martin & Walter. Révolution française. "Le prix de l'abonnement sera de six livres pour trois mois pour Paris, & sept livres dix sols pour la province, franc de port"--P. 4. Scanner's note: No copyright found.  No table of contents found.  Damaged, stained pages and cover.  <br />."""
+url = "https://archive.org/details/avisaupublic00prud"
+subject = [
+    "Journal de tranquillité publique",
+    "Booksellers and bookselling",
+    "Periodicals",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1d no. 55"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t56f1gb1n"
+internet_archive = "avisaupublic00prud"
+
+[scan]
+file = "avisaupublic00prud.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/avisaupublic00prud"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "Prudhomme, Louis Marie,1752-183"
+role = "author"
+
+[[resp]]
+name = "Prudhomme, Louis Marie, 1752-1830"
+role = "author"
+
+[[resp]]
+name = "Prudhomme?"
+role = "publisher"
+
+[[text]]
+file = "avisaupublic00prud.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avisaupublic00prud.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avisaupublic00prud.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avisaupublic00prud.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avisaupublic00prud.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avisaupublic00prud.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avisaupublic00prud.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avisaupublic00prud.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

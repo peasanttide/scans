@@ -1,0 +1,73 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "adresse00lill"
+type = "pamphlet"
+title = "... Adresse /"
+language = "fr"
+place = "Paris"
+date = "1793"
+note = """Caption title. Imprint from colophon. At head of title: Convention nationale. Opening words: Des faits vous ont déjà prouvé le patriotisme des Lillois .. Dated on p.2: Lille, le premier juillet 1793, l'an II de la République. "Extrait du registre aux délibérations du corps municipal de la ville de Lille. Séance du 29 juin 1793, l'an II de la République": p.2-3. Martin & Walter IV 2: 8925. Scanner's note: No title page found. No copyright page found. No table-of-contents pages found."""
+url = "https://archive.org/details/adresse00lill"
+extent = "3 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 5030"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t02z6968m"
+internet_archive = "adresse00lill"
+
+[scan]
+file = "adresse00lill.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/adresse00lill"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Lille (France)"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_56736"
+
+[[text]]
+file = "adresse00lill.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adresse00lill.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adresse00lill.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adresse00lill.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

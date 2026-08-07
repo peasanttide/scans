@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "aunomdupeuplefra00char"
+type = "pamphlet"
+title = "Au nom du peuple françois"
+language = "fr"
+place = "A Marseille"
+date = "1793"
+note = "Caption title. At head of title: Égalité, liberté. Signed: J. Charbonnier, Pomme l'américain. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover. Only one page number."
+url = "https://archive.org/details/aunomdupeuplefra00char"
+subject = ["Refugee property"]
+extent = "2 p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 26593"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7np76j57"
+internet_archive = "aunomdupeuplefra00char"
+openlibrary_edition = "OL26227149M"
+openlibrary_work = "OL17622376W"
+
+[scan]
+file = "aunomdupeuplefra00char.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/aunomdupeuplefra00char"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Charbonnier, J"
+role = "author"
+
+[[resp]]
+name = "Pomme, André, 1756-1842"
+role = "author"
+
+[[resp]]
+name = "Brebion, François, 1730-1818"
+role = "publisher"
+
+[[resp]]
+name = "Chez F. Brebion, imprimeur de la nation & du département"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_863380"
+
+[[text]]
+file = "aunomdupeuplefra00char.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "aunomdupeuplefra00char.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "aunomdupeuplefra00char.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "aunomdupeuplefra00char.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

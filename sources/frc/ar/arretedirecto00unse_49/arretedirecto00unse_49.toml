@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arretedirecto00unse_49"
+type = "pamphlet"
+title = "Arrêté du Directoire exécutif, portant défenses à tous autres que les notaires, greffiers et huissiers, de s'immiscer dans les prisées, estimations et ventes publiques de meubles et effets mobiliers : du 12 fructidor, an IV de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1796"
+note = """
+Caption title. At head of title: No. 282. At right of title: B. 72. No. 666. "Pour expédition conforme, signé L.M. Réveillière-Lépeaux, président; par le Directoire pour le secrétaire général, Lagarde"--P. 2. Imprint from colophon. "No. 2, 11"--Bottom of p. [1]. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover. 
+Only one numbered page."""
+url = "https://archive.org/details/arretedirecto00unse_49"
+subject = [
+    "Courts",
+    "Formalities (Law)",
+]
+extent = "2 p. ; 28 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10328 no. 52"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3713671c"
+internet_archive = "arretedirecto00unse_49"
+
+[scan]
+file = "arretedirecto00unse_49.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/arretedirecto00unse_49"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Directoire exécutif"
+role = "author"
+
+[[resp]]
+name = "La Revellière-Lépeaux, Louis-Marie de, 1753-1824"
+role = "author"
+
+[[resp]]
+name = "Lagarde, Joseph-Jean, baron, 1755-1840"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois, place du Carrousel"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_856259"
+
+[[text]]
+file = "arretedirecto00unse_49.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretedirecto00unse_49.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

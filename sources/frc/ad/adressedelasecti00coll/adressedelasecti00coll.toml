@@ -1,0 +1,84 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "adressedelasecti00coll"
+type = "pamphlet"
+title = "Adresse de la section de la Bibliothèque à l'Assemblée nationale : imprimée par ordre de l'Assemblée nationale."
+language = "fr"
+place = "Paris"
+date = "1792"
+note = """Caption title. Signed: Collot d'Herbois, président. Imprint from colophon. "Pétition, no. 93"--Bottom of p. [1]. Martin & Walter. Révolution française. On the renaming of the bataillon des Filles Saint-Thomas to bataillon de la Bibliothèque in honor of the section. Bibliography: Martin & Walter.  Révolution française,  I, 7936. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged pages and cover."""
+url = "https://archive.org/details/adressedelasecti00coll"
+subject = ["Bibliothèque (Paris, France : Section)"]
+extent = "3 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 16429"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t51g5pk41"
+internet_archive = "adressedelasecti00coll"
+openlibrary_edition = "OL26198366M"
+openlibrary_work = "OL17595070W"
+
+[scan]
+file = "adressedelasecti00coll.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/adressedelasecti00coll"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Collot d'Herbois, Jean-Marie, 1750-1796"
+role = "author"
+
+[[resp]]
+name = "Bibliothèque (Paris, France : Section)"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale législative (1791-1792)"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_834144"
+
+[[text]]
+file = "adressedelasecti00coll.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adressedelasecti00coll.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adressedelasecti00coll.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adressedelasecti00coll.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

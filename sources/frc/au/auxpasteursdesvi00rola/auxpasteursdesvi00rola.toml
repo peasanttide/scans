@@ -1,0 +1,91 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "auxpasteursdesvi00rola"
+type = "pamphlet"
+title = "Aux pasteurs des villes et des campagnes : 6 novembre, l'an premier de l'égalité et de la République"
+language = "fr"
+place = "A Angers"
+date = "1792"
+note = """Caption title. Signed, p. 3: Roland. Imprint from colophon. Variant of Martin & Walter. Révolution française. IV:1, 29771. "Lettre d'envoi au directoire du département de Maine et Loire, du 6 novembre 1792 ..."--P. 2-3. Scanner's note: Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text. No title page found. No copyright page found. No table-of-contents pages found."""
+url = "https://archive.org/details/auxpasteursdesvi00rola"
+subject = [
+    "Education and state",
+    "Clergy",
+]
+extent = "4 p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 27180"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7fr51m4n"
+internet_archive = "auxpasteursdesvi00rola"
+openlibrary_edition = "OL26229862M"
+openlibrary_work = "OL17624893W"
+
+[scan]
+file = "auxpasteursdesvi00rola.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/auxpasteursdesvi00rola"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Roland de La Platière, Jean-Marie,1734-1793"
+role = "author"
+
+[[resp]]
+name = "Roland de La Platière, Jean-Marie, 1734-1793"
+role = "author"
+
+[[resp]]
+name = "Mame, Charles-Pierre, 1747-1825"
+role = "publisher"
+
+[[resp]]
+name = "Maine-et-Loire (France). Directoire"
+role = "author"
+
+[[resp]]
+name = "France. Ministère de l'intérieur"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale, chez Mame, imprimeur du département"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_868104"
+
+[[text]]
+file = "auxpasteursdesvi00rola.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "auxpasteursdesvi00rola.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "auxpasteursdesvi00rola.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "auxpasteursdesvi00rola.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

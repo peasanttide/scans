@@ -1,0 +1,92 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "avisauxgensdelet00rous"
+type = "pamphlet"
+title = "Avis aux gens de lettres"
+language = "fr"
+place = "Paris?"
+date = "1783"
+note = """Notice from the Société typographique de Genève announcing the availability of "Œuvres posthumes de Jean-Jacques Rousseau," published 1781-1783. Head-piece. "9 vol. in 8°. Prix, 21 liv. br.". "Les personnes qui auront l'edition in-12, & qui desireroient acquérir ce Supplément, sont priées d'envoyer un volume aux sieurs Hardoin, libraire, rue des Prêtres Saint-Germain-l'Auxerrois, & Guyot, libraire, rue de la Harpe, pour servir de modèle au relieur qui sera chargé de les rendre du même format.". Scanner's note: No copyright found.  No table of contents found.  Damaged, stained pages and cover.   No page numbers. <br /><br />."""
+url = "https://archive.org/details/avisauxgensdelet00rous"
+subject = [
+    "Rousseau, Jean-Jacques, 1712-1778",
+    "Booksellers and bookselling",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1b no. 37"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0bw35c4x"
+internet_archive = "avisauxgensdelet00rous"
+
+[scan]
+file = "avisauxgensdelet00rous.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/avisauxgensdelet00rous"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "Rousseau, Jean-Jacques, 1712-1778. Selections. 1781"
+role = "author"
+
+[[resp]]
+name = "Hardoin, libraire"
+role = "author"
+
+[[resp]]
+name = "Guyot, libraire"
+role = "author"
+
+[[resp]]
+name = "Société typographique de Genève"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[text]]
+file = "avisauxgensdelet00rous.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avisauxgensdelet00rous.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avisauxgensdelet00rous.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avisauxgensdelet00rous.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avisauxgensdelet00rous.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avisauxgensdelet00rous.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

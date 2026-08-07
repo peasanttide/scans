@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arrestduconseil00unse_27"
+type = "pamphlet"
+title = "Arrest du Conseil d'État du roi, qui autorise le trésorier général des revenus casuels à recevoir sur le pied du quart ou du tiers de la fixation faite par l'édit d'avril 1777, les marchands & artisans de la ville de Beauvais, qui sont dans le cas d'être admis à cette fixation : du 4 février 1779 : extrait des registres du Conseil d'Etat"
+language = "fr"
+place = "A Paris"
+date = "1779"
+note = """
+Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover. 
+Back cover is upside down."""
+url = "https://archive.org/details/arrestduconseil00unse_27"
+subject = [
+    "Tax collection",
+    "Guilds",
+    "Finance, Public",
+]
+extent = "3 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC suppl. 87 no. 33"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4pk5m155"
+internet_archive = "arrestduconseil00unse_27"
+
+[scan]
+file = "arrestduconseil00unse_27.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arrestduconseil00unse_27"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Conseil d'Etat"
+role = "author"
+
+[[resp]]
+name = "Simon, P. G. (Pierre-Guillaume), 1722-1787"
+role = "publisher"
+
+[[resp]]
+name = "Chez P.G. Simon, imprimeur du Parlement, rue Mignon S. André-des-Arcs"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_863145"
+
+[[text]]
+file = "arrestduconseil00unse_27.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestduconseil00unse_27.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestduconseil00unse_27.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestduconseil00unse_27.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

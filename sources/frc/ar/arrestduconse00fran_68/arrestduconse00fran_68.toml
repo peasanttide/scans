@@ -1,0 +1,61 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arrestduconse00fran_68"
+type = "pamphlet"
+title = "Arrest du Conseil d'état du roi, qui ordonne qu'une brochure intitulée"
+language = "fr"
+place = "A Paris"
+date = "1761"
+note = "Caption title. Imprint at foot of p. 2. The work in question is by F. C. Huerne de La Mothe. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Title page and cover are combined. Permanent creases in the page."
+url = "https://archive.org/details/arrestduconse00fran_68"
+subject = ["Censorship"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 6 no. 178"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t50g9bt85"
+internet_archive = "arrestduconse00fran_68"
+
+[scan]
+file = "arrestduconse00fran_68.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/arrestduconse00fran_68"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Conseil d'Etat"
+role = "author"
+
+[[resp]]
+name = "France. Conseil d'Etat"
+role = "author"
+
+[[resp]]
+name = "Huerne de La Mothe, François Charles"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie royale"
+role = "publisher"
+
+[[text]]
+file = "arrestduconse00fran_68.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestduconse00fran_68.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

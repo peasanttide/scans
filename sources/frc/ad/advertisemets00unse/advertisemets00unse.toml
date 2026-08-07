@@ -1,0 +1,60 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "advertisemets00unse"
+type = "pamphlet"
+title = "[Advertisements for l'Histoire naturelle éclaircie dans une de ses parties principales, l'ornithologie]"
+language = "fr"
+date = "1767"
+note = "Two clippings advertising French translation by Mr. Salerne of John Ray's Synopsis methodica avium, published in 1767 by Guillaume Debure. The first advertisement is on sheet paged 537-538, probably detached from the 1767 volume of Avantcoureur, feuille hebdomadaire. The second advertisement, possibly detached from a catalog and trimmed, lists bookseller details: Chez Debure père, quai des Augustins, 1767. 1 vol. in-4°. 36 liv. rel. Ms. annotations on first advertisement. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Title page and cover are combined."
+url = "https://archive.org/details/advertisemets00unse"
+subject = [
+    "Ray, John, 1627-1705",
+    "Booksellers and bookselling",
+    "Science publishing",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1a no. 56"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4mm2102t"
+internet_archive = "advertisemets00unse"
+
+[scan]
+file = "advertisemets00unse.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/advertisemets00unse"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Ray, John, 1627-1705. Synopsis methodica avium. French"
+role = "author"
+
+[[resp]]
+name = "Salerne, Mr. (François), -1760"
+role = "translator"
+
+[[resp]]
+name = "Debure, Guillaume, 1734-1820"
+role = "bookseller"
+
+[[text]]
+file = "advertisemets00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "advertisemets00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

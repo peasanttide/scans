@@ -1,0 +1,97 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "avis00sams_1"
+type = "pamphlet"
+title = "Avis"
+language = "fr"
+place = "A Paris"
+date = "1789"
+note = """Caption title. Imprint from colophon. Advertises the "nouvelle édition de 1789" of the Dictionnaire de l'Académie française. With prices. Scanner's note: No copyright found.  No table of contents found.  Damaged, stained pages and cover.  <br />."""
+url = "https://archive.org/details/avis00sams_1"
+subject = [
+    "Samson, Marc-Antoine",
+    "Educational literature",
+    "Textbooks",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 4 no. 97"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1tf5gs1g"
+internet_archive = "avis00sams_1"
+
+[scan]
+file = "avis00sams_1.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/avis00sams_1"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "Samson, Marc-Antoine"
+role = "author"
+
+[[resp]]
+name = "Laillet"
+role = "printer"
+
+[[resp]]
+name = "De l'imprimerie de Laillet, rue de la Harpe, no. 6"
+role = "publisher"
+
+[[text]]
+file = "avis00sams_1.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avis00sams_1.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avis00sams_1.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avis00sams_1.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avis00sams_1.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avis00sams_1.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avis00sams_1.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avis00sams_1.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

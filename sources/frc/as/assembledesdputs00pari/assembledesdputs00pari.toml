@@ -1,0 +1,71 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "assembledesdputs00pari"
+type = "pamphlet"
+title = "... Assemblée des députés des soixante sections de la Commune de Paris : proclamation du samedi 19 juin 1790."
+language = "fr"
+place = "Paris"
+date = "1790"
+note = "Caption title. Imprint from colophon. At head of title: Confédération nationale. Martin & Walter IV 2: 11901. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on cover page. Damaged, stained and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/assembledesdputs00pari"
+extent = "3 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 6413"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t81k4h19p"
+internet_archive = "assembledesdputs00pari"
+openlibrary_edition = "OL26218677M"
+openlibrary_work = "OL17614384W"
+
+[scan]
+file = "assembledesdputs00pari.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/assembledesdputs00pari"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Paris (France). Commune (1789-1794)"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Lottin l'aîné & Lottin de S.-Germain"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_59623"
+
+[[text]]
+file = "assembledesdputs00pari.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "assembledesdputs00pari.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "assembledesdputs00pari.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "assembledesdputs00pari.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

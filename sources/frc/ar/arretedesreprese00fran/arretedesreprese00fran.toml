@@ -1,0 +1,77 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arretedesreprese00fran"
+type = "pamphlet"
+title = "Arrête des représentans du peuple français, envoyés par la Convention nationale dans les départemens de la Seine Inférieure et circonvoisins : a Tillierres, le neuf nivose, an deuxieme de la République française, une & indivisible"
+language = "fr"
+place = "A Rouen"
+date = "1794"
+note = """Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. "A Rouen, en Directoire permanent ..."--P. 3. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."""
+url = "https://archive.org/details/arretedesreprese00fran"
+extent = "3 p. ; 24 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 26650"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t27999j4v"
+internet_archive = "arretedesreprese00fran"
+
+[scan]
+file = "arretedesreprese00fran.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arretedesreprese00fran"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Le Boullenger, Jacques-Joseph-Jean-Baptiste, b. 1740"
+role = "publisher"
+
+[[resp]]
+name = "Rouen (France). Directoire"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de J.J. Le Boullenger, imprimeur du département de la Seine Inférieure, rue du Grand-Maulévrier, no. 44"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_863436"
+
+[[text]]
+file = "arretedesreprese00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretedesreprese00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretedesreprese00fran.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretedesreprese00fran.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

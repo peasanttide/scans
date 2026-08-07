@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arretedirecto00unse_16"
+type = "pamphlet"
+title = "Arrêté du Directoire exécutif, qui supprime, à compter du premier floréal prochain, les agens militaires chargés de fonctions relatives aux jeunes gens de la première réquisition et aux déserteurs de l'intérieur : du 13 germinal, an quatrième de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1796"
+note = """
+Caption title. At head of title: No. 128. At right of title: B. 37. No. 282. "Pour expédition conforme, signé, Letourneur, président; par le Directoire exécutif, le secrétaire-général, Lagarde"--P. 2. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover. 
+Only one numbered page."""
+url = "https://archive.org/details/arretedirecto00unse_16"
+subject = [
+    "France. Armée",
+    "Soldiers",
+]
+extent = "2 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10328 no. 19"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5k989v0h"
+internet_archive = "arretedirecto00unse_16"
+
+[scan]
+file = "arretedirecto00unse_16.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/arretedirecto00unse_16"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Directoire exécutif"
+role = "author"
+
+[[resp]]
+name = "Le Tourneur, Etienne-François-Louis-Honoré, 1751-1817"
+role = "author"
+
+[[resp]]
+name = "Lagarde, Joseph-Jean, baron, 1755-1840"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Depot des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_856225"
+
+[[text]]
+file = "arretedirecto00unse_16.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretedirecto00unse_16.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

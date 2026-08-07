@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arrestdelacourde00drou"
+type = "pamphlet"
+title = "Arrest de la Cour de Parlement, contre une thèse de théologie, qui devoit estre soustenuë le 19 jan. 1663"
+language = "fr"
+date = "1663"
+note = "Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Title page and cover are combined."
+url = "https://archive.org/details/arrestdelacourde00drou"
+subject = ["Censorship"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 2 no. 8"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8gf6dw35"
+internet_archive = "arrestdelacourde00drou"
+
+[scan]
+file = "arrestdelacourde00drou.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arrestdelacourde00drou"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Drouët, Gabriel"
+role = "author"
+
+[[resp]]
+name = "Drouët, Gabriel"
+role = "author"
+
+[[resp]]
+name = "Drouet, Gabriel"
+role = "author"
+
+[[resp]]
+name = "France. Parlement (Paris)"
+role = "author"
+
+[[resp]]
+name = "Paris"
+role = "publisher"
+
+[[text]]
+file = "arrestdelacourde00drou.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacourde00drou.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacourde00drou.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacourde00drou.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

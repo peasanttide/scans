@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arrestduconseil00unse_5"
+type = "pamphlet"
+title = "Arrest du Conseil d'État du roi, qui commet M. Bertin, maître des requêtes, lieutenant général de Police, au lieu & place de M. Berryer, pour connoître & juger toutes les contestations nées & à̀ naître, concernant la construction des bâtimens destinés à la Manufacture royale de porcelaine de France, au village de Sèvres : du 13 avril 1758 : extrait des registres du Conseil d'État"
+language = "fr"
+place = "A Paris"
+date = "1758"
+note = """
+Caption title. Imprint from colophon. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover. 
+Back cover is upside down. Only one numbered page."""
+url = "https://archive.org/details/arrestduconseil00unse_5"
+subject = [
+    "Bertin, Henri-Léonard-Jean-Baptiste, 1719-1792",
+    "Manufacture nationale de Sèvres",
+    "Porcelain industry",
+]
+extent = "2 p. ; 28 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC suppl. 87 no. 7"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8bg7wk8t"
+internet_archive = "arrestduconseil00unse_5"
+
+[scan]
+file = "arrestduconseil00unse_5.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arrestduconseil00unse_5"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Conseil d'Etat"
+role = "author"
+
+[[resp]]
+name = "Imprimerie royale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie royale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_863119"
+
+[[text]]
+file = "arrestduconseil00unse_5.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestduconseil00unse_5.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestduconseil00unse_5.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestduconseil00unse_5.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,77 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arretedudirectoi00haut_2"
+type = "pamphlet"
+title = "Arrêté du directoire du département de la Haute-Garonne, sur le paiement des impositions des ecclésiastiques des six derniers mois 1789 & de l'année 1790 : du 10 juin 1791"
+language = "fr"
+place = "A Toulouse"
+date = "1791"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages."
+url = "https://archive.org/details/arretedudirectoi00haut_2"
+subject = [
+    "Clergy",
+    "Fiscal policy",
+]
+extent = "4 p. ; 25 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9835 no. 9"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1sf7wj7n"
+internet_archive = "arretedudirectoi00haut_2"
+
+[scan]
+file = "arretedudirectoi00haut_2.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arretedudirectoi00haut_2"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Haute-Garonne (France). Directoire"
+role = "author"
+
+[[resp]]
+name = "Desclassan, Dominique, d. 1793"
+role = "publisher"
+
+[[resp]]
+name = "Chez D. Desclassan, maître-ès-arts, imprimeur de l'Académie des sciences, près la place-Royale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_854386"
+
+[[text]]
+file = "arretedudirectoi00haut_2.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretedudirectoi00haut_2.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretedudirectoi00haut_2.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretedudirectoi00haut_2.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

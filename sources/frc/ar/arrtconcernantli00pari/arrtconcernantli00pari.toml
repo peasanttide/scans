@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arrtconcernantli00pari"
+type = "pamphlet"
+title = "... Arrêté concernant l'incorporation des citoyens armés de piques dans les bataillons & leur réunion sous les drapeaux de la Garde nationale ; extrait du registre des délibérations du corps municipal ; du mercredi 11 juillet 1792. l'an quatrième de la liberté."
+language = "fr"
+place = "Paris"
+date = "1792"
+note = "Caption title. Imprint from colophon. At head of title: Municipalité de Paris. Par le maire et les officiers municipaux. Page 3 numbered 4. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on cover page. Damaged, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Page numbers skip from 2 to 4."
+url = "https://archive.org/details/arrtconcernantli00pari"
+subject = ["Paris (France). Garde nationale"]
+extent = "4 [i.e. 3] p. ; 23 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 6343"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5m959n4x"
+internet_archive = "arrtconcernantli00pari"
+openlibrary_edition = "OL26218483M"
+openlibrary_work = "OL17614189W"
+
+[scan]
+file = "arrtconcernantli00pari.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arrtconcernantli00pari"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Paris (France). Commune (1789-1794)"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de la municipalité"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_58555"
+
+[[text]]
+file = "arrtconcernantli00pari.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrtconcernantli00pari.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrtconcernantli00pari.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrtconcernantli00pari.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

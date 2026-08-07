@@ -1,0 +1,69 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arrestduconse00unse"
+type = "pamphlet"
+title = "Arrest du conseil d'état du roy, rendu au sujet de quatre consultations d'avocats, &c"
+language = "fr"
+place = "Paris"
+date = "1749"
+note = """Signed De Voyer d'Argenson. Caption title. Imprint at foot of p. 3. Suppression, because spurious, of publications attributed to "Avocats au Parlement de Paris.". Scanner's note: No copyright found.  No table of contents found.  Damaged, stained pages and cover.  Title on cover. <br />."""
+url = "https://archive.org/details/arrestduconse00unse"
+subject = ["Censorship"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 5 no. 81"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9h47br0z"
+internet_archive = "arrestduconse00unse"
+
+[scan]
+file = "arrestduconse00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arrestduconse00unse"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "France. Conseil d'Etat"
+role = "author"
+
+[[resp]]
+name = "France. Parlement (Paris). Avocats"
+role = "author"
+
+[[resp]]
+name = "L'imprimerie royale"
+role = "publisher"
+
+[[text]]
+file = "arrestduconse00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestduconse00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestduconse00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestduconse00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

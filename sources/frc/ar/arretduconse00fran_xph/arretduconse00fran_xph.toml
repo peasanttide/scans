@@ -1,0 +1,70 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arretduconse00fran_xph"
+type = "pamphlet"
+title = "Arrêt du Conseil d'état du roi, concernant les dettes des habitans de l'isle de la Grenade."
+language = "fr"
+place = "Paris"
+date = "1780"
+note = "No. 5 in a volume lettered: Commerce des colonies. Règlements, arrêts, ordonnances. Caption title."
+url = "https://archive.org/details/arretduconse00fran_xph"
+subject = ["Debt"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case F 39 .328 no. 103"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9x12421s"
+internet_archive = "arretduconse00fran_xph"
+lccn = "ca 17000688"
+
+[scan]
+file = "arretduconse00fran_xph.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arretduconse00fran_xph"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Conseil d'Etat"
+role = "author"
+
+[[resp]]
+name = "France. Conseil d'Etat"
+role = "author"
+
+[[resp]]
+name = "Imprimerie royale"
+role = "publisher"
+
+[[text]]
+file = "arretduconse00fran_xph.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretduconse00fran_xph.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretduconse00fran_xph.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretduconse00fran_xph.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arrestdelacourdu00fran_47"
+type = "pamphlet"
+title = "Arrest de la Cour du Parlement de Rouen"
+language = "fr"
+place = "Rouen?"
+date = "1756"
+note = "Caption title. Imprint at foot of p. 4. Scanner's note: No copyright page found. No table-of-contents pages found.   Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Title page and cover are combined."
+url = "https://archive.org/details/arrestdelacourdu00fran_47"
+subject = [
+    "Jesuits",
+    "Church and state",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 6 no. 84"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9k41dm0b"
+internet_archive = "arrestdelacourdu00fran_47"
+
+[scan]
+file = "arrestdelacourdu00fran_47.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arrestdelacourdu00fran_47"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Parlement (Normandy)"
+role = "author"
+
+[[resp]]
+name = "France. Parlement (Normandy)"
+role = "author"
+
+[[resp]]
+name = "Maxwell, James Francis, 1712-1784"
+role = "author"
+
+[[resp]]
+name = "Chez Jacques-Joseph Le Boullenger"
+role = "publisher"
+
+[[text]]
+file = "arrestdelacourdu00fran_47.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacourdu00fran_47.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacourdu00fran_47.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacourdu00fran_47.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

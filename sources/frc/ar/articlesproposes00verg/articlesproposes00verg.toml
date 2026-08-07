@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "articlesproposes00verg"
+type = "pamphlet"
+title = "Articles, proposés par M. Vergniaud, sur le mode de séquestre des biens des émigrés, à substituer aux articles XI, XII, XIII, XIV, XV, XVI et XVII du projet de décret présenté, au nom du Comité de législation, par M. Sedillez : le 10 mars 1792 : imprimés par ordre de l'Assemblée nationale."
+language = "fr"
+place = "Paris"
+date = "1792"
+note = """Caption title. Imprint from colophon. "Législation. Cc"--Bottom of p. [1]. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  IV:1, 33329. Scanner's note: No copyright page found. No table-of-contents pages found. Uneven binding. Damaged pages. Inconsistent page size. Skewed text."""
+url = "https://archive.org/details/articlesproposes00verg"
+subject = ["Refugee property"]
+extent = "4 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 13302"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7sn4x675"
+internet_archive = "articlesproposes00verg"
+openlibrary_edition = "OL25927075M"
+openlibrary_work = "OL17349682W"
+
+[scan]
+file = "articlesproposes00verg.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/articlesproposes00verg"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Vergniaud, Pierre-Victurnien, 1753-1793"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale législative (1791-1792)"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_827930"
+
+[[text]]
+file = "articlesproposes00verg.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "articlesproposes00verg.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "articlesproposes00verg.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "articlesproposes00verg.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

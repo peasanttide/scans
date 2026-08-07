@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "avis00dela"
+type = "pamphlet"
+title = "Avis"
+language = "fr"
+place = "Paris"
+date = "1790"
+note = "Caption title. Imprint from colophon. Printed in double columns. With prices. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Title page and cover are combined."
+url = "https://archive.org/details/avis00dela"
+subject = [
+    "Delalain, Nicolas-Augustin, 1735?-1807?",
+    "Delalain, Jacques-Nicolas",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 11 no. 8"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3qv94w8b"
+internet_archive = "avis00dela"
+
+[scan]
+file = "avis00dela.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/avis00dela"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Delalain, Nicolas-Augustin,1735?-187?"
+role = "author"
+
+[[resp]]
+name = "Delalain, Nicolas-Augustin, 1735?-1807?"
+role = "bookseller"
+
+[[resp]]
+name = "Delalain, Jacques-Nicolas"
+role = "bookseller"
+
+[[resp]]
+name = "Valleyre, Nicolas-François, 1736-"
+role = "printer"
+
+[[resp]]
+name = "De l'imprimerie de Valleyre le jeune, rue Saint-Jacques, no 240"
+role = "publisher"
+
+[[text]]
+file = "avis00dela.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avis00dela.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avis00dela.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avis00dela.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

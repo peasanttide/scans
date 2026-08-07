@@ -1,0 +1,63 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "avisauxcitoyens00mail"
+type = "pamphlet"
+title = "Avis aux citoyens"
+language = "fr"
+place = "France"
+note = """Caption title. At head of title: Égalité, liberté. Imprint from colophon. Title and text within decorative border. Not in Martin & Walter. Révolution française. "Il est logé chez [blank]"--P. [2]; Newberry's copy completed in ms.: Bonnet a Riom. Describes the training and expertise of physician Antoine-François Maillet, inviting potential patients to send urine samples for diagnosis. Scanner's note: No copyright page found. No table-of-contents pages found.  No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."""
+url = "https://archive.org/details/avisauxcitoyens00mail"
+subject = [
+    "Maillet, Antoine-François",
+    "Physicians",
+    "Urine",
+]
+extent = "[2] p. ; 23 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 27552"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7rn89p0t"
+internet_archive = "avisauxcitoyens00mail"
+openlibrary_edition = "OL26229605M"
+openlibrary_work = "OL17624638W"
+
+[scan]
+file = "avisauxcitoyens00mail.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/avisauxcitoyens00mail"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Maillet, Antoine-François"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_867974"
+
+[[text]]
+file = "avisauxcitoyens00mail.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avisauxcitoyens00mail.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

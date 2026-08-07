@@ -1,0 +1,69 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "adresse00baso"
+type = "pamphlet"
+title = "Adresse"
+language = "fr"
+place = "Paris"
+date = "1790"
+note = "Scanner's note: Title and cover combined, no physical cover. Stained pages with smudged and faded print. Print is close to the binding and skewed on some pages.  No copyright page found."
+url = "https://archive.org/details/adresse00baso"
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 254"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1pg5669h"
+internet_archive = "adresse00baso"
+
+[scan]
+file = "adresse00baso.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/adresse00baso"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Basoche"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_35496"
+
+[[text]]
+file = "adresse00baso.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "adresse00baso.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "adresse00baso.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "adresse00baso.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"

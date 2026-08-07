@@ -1,0 +1,73 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arrestdelacourde00fra_vlx"
+type = "pamphlet"
+title = "Arrest de la Cour de Parlement"
+language = "fr"
+place = "A Reims"
+date = "1756"
+note = "Caption title. Imprint at foot of p. 3. On p. 4 (relating also to the Bishop of Troyes): Arrest de la Cour de Parlement. Extrait des registres du Parlement. Du 9 juillet 1756. Scanner's note: No table-of-contents pages found. No copyright page found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Title page and cover are combined."
+url = "https://archive.org/details/arrestdelacourde00fra_vlx"
+subject = ["Censorship"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 6 no. 83"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t43r6gp89"
+internet_archive = "arrestdelacourde00fra_vlx"
+
+[scan]
+file = "arrestdelacourde00fra_vlx.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arrestdelacourde00fra_vlx"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Parlement (Paris)"
+role = "author"
+
+[[resp]]
+name = "France. Parlement (Paris)"
+role = "author"
+
+[[resp]]
+name = "Catholic Church. Diocese of Troyes (France). Bishop, 1742-1758 (Mathias Poncet de La Rivière)"
+role = "author"
+
+[[resp]]
+name = "Chez Regnauld Florentain"
+role = "publisher"
+
+[[text]]
+file = "arrestdelacourde00fra_vlx.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacourde00fra_vlx.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacourde00fra_vlx.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacourde00fra_vlx.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

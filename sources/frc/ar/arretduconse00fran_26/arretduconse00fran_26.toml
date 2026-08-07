@@ -1,0 +1,66 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arretduconse00fran_26"
+type = "pamphlet"
+title = "Arrêt du Conseil d'État du roi, qui ordonne l'exécution de l'arrêt du Conseil du 30 août 1777, concernant les contrefaçons :"
+language = "fr"
+place = "A Paris"
+date = "1781"
+note = "Caption title. Publication information from colophon. Last two pages blank. Head-piece. Fines Jean Rayet of Toulouse for printing a pirated edition of Marmontel's Contes moraux. Scanner's note: No copyright found.  No table of contents found.  Damaged, stained pages and cover.  Title on cover. <br />Only one numbered page. <br />."
+url = "https://archive.org/details/arretduconse00fran_26"
+subject = [
+    "Rayet, Jean, 18th cent",
+    "Marmontel, Jean-François, 1723-1799",
+    "Books",
+    "Printing industry",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 9 no. 64"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6rz4wc61"
+internet_archive = "arretduconse00fran_26"
+
+[scan]
+file = "arretduconse00fran_26.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/arretduconse00fran_26"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "France.Conseil d'Etat"
+role = "author"
+
+[[resp]]
+name = "France. Conseil d'Etat"
+role = "author"
+
+[[resp]]
+name = "Imprimerie royale (France)"
+role = "printer"
+
+[[resp]]
+name = "De l'Imprimerie royale"
+role = "publisher"
+
+[[text]]
+file = "arretduconse00fran_26.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretduconse00fran_26.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

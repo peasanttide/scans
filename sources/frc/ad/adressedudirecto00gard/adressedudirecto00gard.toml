@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "adressedudirecto00gard"
+type = "pamphlet"
+title = "Adresse du directoire du département du Gard, a l'Assemblée nationale : Nismes, le 24 janvier 1792, l'an 4me. de la liberté"
+language = "fr"
+place = "A Nismes"
+date = "1792"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. No title page found."
+url = "https://archive.org/details/adressedudirecto00gard"
+subject = [
+    "France. Assemblée nationale constituante (1789-1791)",
+    "France. Assemblée nationale législative (1791-1792)",
+]
+extent = "3 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9831 no. 19"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3sv2q56z"
+internet_archive = "adressedudirecto00gard"
+openlibrary_edition = "OL26223371M"
+openlibrary_work = "OL17618834W"
+
+[scan]
+file = "adressedudirecto00gard.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/adressedudirecto00gard"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Gard (France). Directoire"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale législative (1791-1792)"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale, chez J. Gaude, imprimeur du département du Gard"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_854335"
+
+[[text]]
+file = "adressedudirecto00gard.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adressedudirecto00gard.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adressedudirecto00gard.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adressedudirecto00gard.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

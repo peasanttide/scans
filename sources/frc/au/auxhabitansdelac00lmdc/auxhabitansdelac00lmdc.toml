@@ -1,0 +1,100 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "auxhabitansdelac00lmdc"
+type = "pamphlet"
+title = "Aux habitans de la campagne."
+language = "fr"
+place = "s.l."
+date = "1790"
+note = """Caption title. Without imprint. Signed on p.4: L.M.d.C.d.B. "Vous manquez à la loi ... quand vous vous présentez en attroupemens chez quelqu'un pour manger son pain, pour boire son vin, & pour le mettre à contribution": p.[1]. Not in Martin & Walter. Scanner's note: No title page found. No copyright page found. No table-of-contents pages found."""
+url = "https://archive.org/details/auxhabitansdelac00lmdc"
+subject = ["Soldiers"]
+extent = "8 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 1181"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9d55p68f"
+internet_archive = "auxhabitansdelac00lmdc"
+openlibrary_edition = "OL26207214M"
+openlibrary_work = "OL17603479W"
+
+[scan]
+file = "auxhabitansdelac00lmdc.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/auxhabitansdelac00lmdc"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "L. M. d. C. d. B"
+role = "author"
+
+[[resp]]
+name = "B., L. M. d. C. d"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_40618"
+
+[[text]]
+file = "auxhabitansdelac00lmdc.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "auxhabitansdelac00lmdc.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "auxhabitansdelac00lmdc.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "auxhabitansdelac00lmdc.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "auxhabitansdelac00lmdc.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "auxhabitansdelac00lmdc.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "auxhabitansdelac00lmdc.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "auxhabitansdelac00lmdc.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

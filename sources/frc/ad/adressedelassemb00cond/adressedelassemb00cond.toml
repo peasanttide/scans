@@ -1,0 +1,78 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "adressedelassemb00cond"
+type = "pamphlet"
+title = "Adresse de l'Assemblée nationale aux Français : imprimée par son ordre, envoyée aux 83 départemens, et à l'Armée ; du 19 août 1792, l'an IVe de la liberté."
+language = "fr"
+place = "A Paris"
+date = "1792"
+note = "Caption title. Author from Martin & Walter. Imprint from colophon. Variant of Martin & Walter. Révolution française, I, 8132. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged pages. Skewed text."
+url = "https://archive.org/details/adressedelassemb00cond"
+subject = ["Monarchy"]
+extent = "4 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 16544"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t07x1ch79"
+internet_archive = "adressedelassemb00cond"
+
+[scan]
+file = "adressedelassemb00cond.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/adressedelassemb00cond"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Condorcet, Jean-Antoine-Nicolas de Caritat, marquis de, 1743-1794"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale législative (1791-1792)"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_834374"
+
+[[text]]
+file = "adressedelassemb00cond.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adressedelassemb00cond.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adressedelassemb00cond.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adressedelassemb00cond.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

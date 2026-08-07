@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "avismessieursles00dubu"
+type = "pamphlet"
+title = "Avis : Messieurs les journalistes patriotes sont priés d'insérer dans leurs feuilles la note que je soumets au public."
+language = "fr"
+place = "Paris"
+date = "1791"
+note = "Caption title. Signed: Dubu de Longchamp. Imprint from colophon. Place of publication from Martin & Walter. Martin & Walter. Révolution française. Defending himself against accusations by the Club des Cordeliers and Dubois-Crancé. Bibliography: Martin & Walter.  Révolution française,  II, 11300. Scanner's note: No copyright page found. No table-of-contents pages found. Damaged, stained pages. Title on cover."
+url = "https://archive.org/details/avismessieursles00dubu"
+subject = [
+    "Dubu de Longchamps, Jean-François",
+    "Libel and slander",
+]
+extent = "4 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 17725"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t41s1s23c"
+internet_archive = "avismessieursles00dubu"
+openlibrary_edition = "OL26194353M"
+openlibrary_work = "OL17591095W"
+
+[scan]
+file = "avismessieursles00dubu.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/avismessieursles00dubu"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Dubu de Longchamps, Jean-François"
+role = "author"
+
+[[resp]]
+name = "Jorry, Louis"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie de L. Jorry, rue de la Huchette"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_837114"
+
+[[text]]
+file = "avismessieursles00dubu.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avismessieursles00dubu.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avismessieursles00dubu.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avismessieursles00dubu.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

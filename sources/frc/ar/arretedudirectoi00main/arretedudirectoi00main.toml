@@ -1,0 +1,78 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arretedudirectoi00main"
+type = "pamphlet"
+title = "Arrêté du directoire du département de Maine et Loire, relatif aux citoyens sujets aux patentes, qui n'ont pas fait de soumissions, et à ceux qui ont fait des déclarations fausses et insuffisantes : séance du 7 août 1792, l'an 4e. de la liberté"
+language = "fr"
+place = "A Angers"
+date = "1792"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on the cover page. Damaged, stained, and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/arretedudirectoi00main"
+subject = [
+    "Business tax",
+    "Tax evasion",
+    "Taxpayer compliance",
+]
+extent = "4 p. ; 25 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC suppl. 116 no. 4"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2c87hd55"
+internet_archive = "arretedudirectoi00main"
+
+[scan]
+file = "arretedudirectoi00main.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arretedudirectoi00main"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Maine-et-Loire (France). Directoire"
+role = "author"
+
+[[resp]]
+name = "Mame, Charles-Pierre, 1747-1825"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale, chez Mame, imprimeur du département de Maine & Loire"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_861408"
+
+[[text]]
+file = "arretedudirectoi00main.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretedudirectoi00main.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretedudirectoi00main.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretedudirectoi00main.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

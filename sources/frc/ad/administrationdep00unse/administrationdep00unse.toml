@@ -1,0 +1,77 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "administrationdep00unse"
+type = "pamphlet"
+title = "L'administration départementale de la Côte-d'Or, aux administrations municipales de son ressort"
+language = "fr"
+place = "France"
+date = "1796"
+note = "Caption title. To left of title: Contribution personnelle & somptuaire. Signed: Fait à Dijon à la séance du 7 pluviôse, l'an quatrième de la République française, où étoient présens les citoyens Presevot, président ... [et al.]. Not in Martin & Walter. Révolution française. Scanner's note: Irregular Pagination. No copyright page found. No table-of-contents pages found. No title page found."
+url = "https://archive.org/details/administrationdep00unse"
+subject = [
+    "Taxation",
+    "Tax administration and procedure",
+]
+extent = "[3] p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9701 no. 11"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7qp17w3h"
+internet_archive = "administrationdep00unse"
+
+[scan]
+file = "administrationdep00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/administrationdep00unse"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Côte-d'Or (France). Administration centrale"
+role = "author"
+
+[[resp]]
+name = "Presevot, Joseph"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_857095"
+
+[[text]]
+file = "administrationdep00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "administrationdep00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "administrationdep00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "administrationdep00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

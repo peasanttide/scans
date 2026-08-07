@@ -1,0 +1,77 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "adresse00orla"
+type = "pamphlet"
+title = "Adresse /"
+language = "fr"
+place = "A Paris"
+date = "1790"
+note = "Caption title. Imprint from colophon. At lower left on p.[1]: Procès-verbal. No. 295. Opening sentence: Admiration & respect, amour & reconnoissance, tel est le tribut journalier que vous offrent à l'envi tous les enfans d'une immense famille dont vous êtes les libérateurs & les pères. Martin & Walter IV 2: 11647. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on cover page. Damaged, stained and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/adresse00orla"
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 6247"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6g212z45"
+internet_archive = "adresse00orla"
+
+[scan]
+file = "adresse00orla.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/adresse00orla"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Orléans (France)"
+role = "author"
+
+[[resp]]
+name = "Orléans (France)"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "Chez Baudouin"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_57373"
+
+[[text]]
+file = "adresse00orla.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adresse00orla.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adresse00orla.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adresse00orla.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,90 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "almanachnati00cuch"
+type = "pamphlet"
+title = "Almanach national, pour l'année 1790"
+language = "fr"
+place = "Paris"
+date = "1789"
+note = """Prospectus for "Almanach national", for the year 1790. Caption title. "1 volume in-8°, petit format. Prix, 3 l. 12 s. broché. A Paris, chez Cuchet, libraire, rue & Hôtel Serpente"--P. [1]. Scanner's note: No copyright found.  No table of contents found.  Damaged, stained pages.  No page numbers. <br />."""
+url = "https://archive.org/details/almanachnati00cuch"
+subject = [
+    "Almanach national",
+    "Booksellers and bookselling",
+    "Almanac publishing",
+    "Periodicals",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1a no. 50"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t16m8xp3r"
+internet_archive = "almanachnati00cuch"
+
+[scan]
+file = "almanachnati00cuch.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/almanachnati00cuch"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "Cuchet, Gaspard-Joseph,d. 1833"
+role = "author"
+
+[[resp]]
+name = "Cuchet, Gaspard-Joseph, d. 1833"
+role = "author"
+
+[[resp]]
+name = "Demonville, Antoine Guénard, -1799"
+role = "printer"
+
+[[resp]]
+name = "De l'imprimerie de Demonviele, rue Christine"
+role = "publisher"
+
+[[text]]
+file = "almanachnati00cuch.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "almanachnati00cuch.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "almanachnati00cuch.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "almanachnati00cuch.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "almanachnati00cuch.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "almanachnati00cuch.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,77 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "additionaumemoir00bron"
+type = "pamphlet"
+title = "Addition au memoire des tresoriers de France de Lyon"
+language = "fr"
+place = "Lyon?"
+date = "1705"
+note = """Caption title. Signed at end: Me Bronod, avocat. " ... par sa déclaration du 21. avril 1705"--Page 2. Signatures: A². Last page blank. Head-piece. No. 37 of 54 titles bound together. Scanner's note: Title is on the cover. Uneven binding. Skewed text. Damaged, stained, and/or torn pages. Text is lost in the binding."""
+url = "https://archive.org/details/additionaumemoir00bron"
+subject = [
+    "Lyon (France : Généralité). Bureau des finances",
+    "Montbrison (France : Bailliage)",
+    "Jurisdiction",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio KJV5795 .A35 1728 no. 37"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8sc04r89"
+internet_archive = "additionaumemoir00bron"
+
+[scan]
+file = "additionaumemoir00bron.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/additionaumemoir00bron"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Bronod"
+role = "author"
+
+[[resp]]
+name = "Lyon (France : Généralité). Bureau des finances"
+role = "author"
+
+[[resp]]
+name = "Montbrison (France : Bailliage)"
+role = "author"
+
+[[resp]]
+name = "[publisher not identified]"
+role = "publisher"
+
+[[text]]
+file = "additionaumemoir00bron.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "additionaumemoir00bron.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "additionaumemoir00bron.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "additionaumemoir00bron.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

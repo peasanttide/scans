@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "articlesprlimina00fran"
+type = "pamphlet"
+title = "Articles préliminaires de paix : entre la République française et Sa Majesté Britannique ; signés `a Londres le 9 vendémiaire an X de la République française, (le 1er. octobre 1801.)"
+language = "fr"
+place = "Paris"
+date = "1801"
+note = "Caption title. Imprint from colophon. At head of title: No. 1415. At lower left on p.[1]: No. 15. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages."
+url = "https://archive.org/details/articlesprlimina00fran"
+extent = "4 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9305"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5n92c910"
+internet_archive = "articlesprlimina00fran"
+openlibrary_edition = "OL26221905M"
+openlibrary_work = "OL17617405W"
+
+[scan]
+file = "articlesprlimina00fran.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/articlesprlimina00fran"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France"
+role = "author"
+
+[[resp]]
+name = "France. Treaties, etc. Great Britain, 1801 Oct. 1"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie du Dép^ot des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_67034"
+
+[[text]]
+file = "articlesprlimina00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "articlesprlimina00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "articlesprlimina00fran.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "articlesprlimina00fran.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

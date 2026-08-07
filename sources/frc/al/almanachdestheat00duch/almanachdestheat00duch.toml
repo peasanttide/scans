@@ -1,0 +1,67 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "almanachdestheat00duch"
+type = "pamphlet"
+title = "Almanach des theatres"
+language = "fr"
+place = "Paris"
+date = "1792"
+note = """Prospectus for "Les spectacles de Paris et de toute la France, ou, Calendrier historique & chronologique des théâtres.". Caption title. "Almanachs pour l'année 1792, et livres nouveaux": p. [1]-[2]. Includes prices. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Title page and cover are combined.  Text extends off of the edge of the page."""
+url = "https://archive.org/details/almanachdestheat00duch"
+subject = [
+    "Duchesne, veuve",
+    "Spectacles de Paris et de toute la France",
+    "Booksellers and bookselling",
+    "Periodicals",
+    "Almanac publishing",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1d no. 2"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t84j65z71"
+internet_archive = "almanachdestheat00duch"
+
+[scan]
+file = "almanachdestheat00duch.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/almanachdestheat00duch"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Duchesne,veuve"
+role = "author"
+
+[[resp]]
+name = "Duchesne, veuve"
+role = "author"
+
+[[resp]]
+name = "Duchesne, Jean-Nicolas, 1757-1845"
+role = "bookseller"
+
+[[resp]]
+name = "Veuve Duchesene et fils"
+role = "publisher"
+
+[[text]]
+file = "almanachdestheat00duch.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "almanachdestheat00duch.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,77 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arrestduparlem00fran"
+type = "pamphlet"
+title = "Arrest du Parlement du 17. juillet 1752 portant suppression d'une these de theologie dédiée à M. l'evêque de Besiers!, ordonne l'enquis & décrete le frere Besson, religieux cordelier, d'ajournement personnel :"
+language = "fr"
+place = "Toulouse"
+date = "1752"
+note = "Caption title. Imprint at foot of p. 4. Scanner's note: No copyright found.  No table of contents found.  Damaged, stained pages and cover.  Title on cover. <br />."
+url = "https://archive.org/details/arrestduparlem00fran"
+subject = ["Catholic Church"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 5 no. 105"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t16m8vq3c"
+internet_archive = "arrestduparlem00fran"
+
+[scan]
+file = "arrestduparlem00fran.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arrestduparlem00fran"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "France.Parlement (Toulouse)"
+role = "author"
+
+[[resp]]
+name = "France. Parlement (Toulouse)"
+role = "author"
+
+[[resp]]
+name = "David, Honoré"
+role = "author"
+
+[[resp]]
+name = "Besson, Vincent"
+role = "author"
+
+[[resp]]
+name = "Veuve de Claude-Gilles Lecamus"
+role = "publisher"
+
+[[text]]
+file = "arrestduparlem00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestduparlem00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestduparlem00fran.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestduparlem00fran.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

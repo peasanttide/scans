@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arretduconseil00unse"
+type = "pamphlet"
+title = "Arrêt du Conseil d'État du roi, qui ordonne que les réceptions de nouveaux maîtres, faites dans les communautés des fabricans de bas & des boulangers de la ville de Lyon, depuis la publication de l'arrêt du 26 août dernier, & sans qu'il ait été permis par le consulat auxdites communautés de s'assembler à cet effet, seront & demeureront nulles : du 18 mai 1777 : extrait des registres du Conseil d'État"
+language = "fr"
+place = "A Paris"
+date = "1777"
+note = """
+Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover. 
+Back cover is upside down. Only one numbered page."""
+url = "https://archive.org/details/arretduconseil00unse"
+subject = ["Guilds"]
+extent = "2 p. ; 28 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC suppl. 87 no. 27"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6b332w7k"
+internet_archive = "arretduconseil00unse"
+
+[scan]
+file = "arretduconseil00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arretduconseil00unse"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Conseil d'Etat"
+role = "author"
+
+[[resp]]
+name = "Imprimerie royale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie royale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_863139"
+
+[[text]]
+file = "arretduconseil00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretduconseil00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretduconseil00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretduconseil00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

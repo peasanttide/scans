@@ -1,0 +1,78 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arretdelacourdes00fran"
+type = "pamphlet"
+title = "Arrêt de la Cour des aides de Paris, qui infirme une sentence de l'election de Montargis du 18 septembre 1779, qui avoit déclaré un procès-verbal rendu contre le sieur Dubuisson, marchand orfevre en ladite ville, le 9 juillet précédent, nul, faute par les commis de l'avoir sommé d'apposer son cachet sur la boîte renfermant les ouvrages saisis, d'avoir déposé au greffe ladite boîte, & d'avoir donné copie de l'attestation du juge qui avoit assisté à la visite, émandant, met les parties hors de cour, faisant droit sur les conclusions de M. le procureur de faire leurs déclarations & soumissions au bureau du régisseur pour les petits ouvrages qui ne pourront pas supporter l'apposition des poinçons de la régie, conformément à l'article 9 de la déclaration du 26 janvier 1749 : du 26 juin 1781 : extrait des registres de la Cour des aides"
+language = "fr"
+place = "A Paris"
+date = "1782"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text. No title page found. No copyright page found. No table-of-contents pages found. Text on the back cover is upside-down."
+url = "https://archive.org/details/arretdelacourdes00fran"
+subject = [
+    "Dubuisson, Henri",
+    "Goldwork",
+    "Hallmarks",
+]
+extent = "3 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 27531"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2j72m12b"
+internet_archive = "arretdelacourdes00fran"
+
+[scan]
+file = "arretdelacourdes00fran.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arretdelacourdes00fran"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Cour des aides (Paris)"
+role = "author"
+
+[[resp]]
+name = "Prault, Louis-François, 1734-1806"
+role = "publisher"
+
+[[resp]]
+name = "De l'imprimerie de Prault, imprimeur du roi, quai de Gêvres"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_861404"
+
+[[text]]
+file = "arretdelacourdes00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretdelacourdes00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretdelacourdes00fran.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretdelacourdes00fran.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

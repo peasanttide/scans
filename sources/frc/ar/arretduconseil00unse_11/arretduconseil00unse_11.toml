@@ -1,0 +1,81 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arretduconseil00unse_11"
+type = "pamphlet"
+title = "Arrêt du Conseil d'État du roi, qui ordonne que, sans s'arrêter à la sentence du prévôt de Montrouge du 29 mai 1779, l'ordonnance du Bureau des finances du 30 avril précédent, sera exécuté selon sa forme & teneur : du 6 octobre 1780 : extrait des registres du Conseil d'État"
+language = "fr"
+place = "A Paris"
+date = "1780"
+note = """
+Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover. 
+Back cover is upside down."""
+url = "https://archive.org/details/arretduconseil00unse_11"
+subject = [
+    "Montigny, Étienne Mignot de",
+    "Buildings",
+]
+extent = "3 p. ; 28 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC suppl. 87 no. 45"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7hq9553s"
+internet_archive = "arretduconseil00unse_11"
+openlibrary_edition = "OL26234963M"
+openlibrary_work = "OL17629545W"
+
+[scan]
+file = "arretduconseil00unse_11.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arretduconseil00unse_11"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Conseil d'Etat"
+role = "author"
+
+[[resp]]
+name = "Imprimerie royale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie royale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_863157"
+
+[[text]]
+file = "arretduconseil00unse_11.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretduconseil00unse_11.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretduconseil00unse_11.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretduconseil00unse_11.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,82 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arrestdelacourdu00fran_48"
+type = "pamphlet"
+title = "Arrest de la cour du Parlement de Toulouse, du 16 octobre 1756 :"
+language = "fr"
+place = "A Toulouse"
+date = "1756"
+note = "Caption title. Imprint from colophon. The Archbishop's Lettre dated 5 juillet 1756. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Text extends off of the edge of the page. Title page and cover are combined."
+url = "https://archive.org/details/arrestdelacourdu00fran_48"
+subject = [
+    "Chatillard de Montillet, Jean François de, Abp., 1702-1776",
+    "Catholic Church",
+    "Censorship",
+    "Religion and state",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 6 no. 93"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5gb7qd6k"
+internet_archive = "arrestdelacourdu00fran_48"
+
+[scan]
+file = "arrestdelacourdu00fran_48.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arrestdelacourdu00fran_48"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Parlement (Toulouse)"
+role = "author"
+
+[[resp]]
+name = "France. Parlement (Toulouse)"
+role = "author"
+
+[[resp]]
+name = "Catholic Church. Archdiocese of Auch (France). Archbishop (1742-1776 : Chatillard de Montillet)"
+role = "author"
+
+[[resp]]
+name = "Loyola University Chicago, joint owner. ICN"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Me. Bernard Pijon, avocat, seul imprimeur du roi & de la cour, chez la veuve Lecamus"
+role = "publisher"
+
+[[text]]
+file = "arrestdelacourdu00fran_48.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacourdu00fran_48.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacourdu00fran_48.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacourdu00fran_48.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

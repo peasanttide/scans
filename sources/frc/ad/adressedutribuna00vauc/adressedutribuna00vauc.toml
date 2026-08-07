@@ -1,0 +1,73 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "adressedutribuna00vauc"
+type = "pamphlet"
+title = "Adresse du tribunal criminel du département de Vaucluse, a ses justiciables"
+language = "fr"
+place = "A Avignon"
+date = "1794"
+note = "Caption title. At head of title: Égalité, liberté. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover."
+url = "https://archive.org/details/adressedutribuna00vauc"
+subject = [
+    "Criminal justice, Administration of",
+    "Jurisprudence",
+]
+extent = "4 p. ; 25 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10310 no. 7"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7np7631g"
+internet_archive = "adressedutribuna00vauc"
+
+[scan]
+file = "adressedutribuna00vauc.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/adressedutribuna00vauc"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Vaucluse (France : Department). Tribunal criminel"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Vincent Raphel"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_856917"
+
+[[text]]
+file = "adressedutribuna00vauc.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adressedutribuna00vauc.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adressedutribuna00vauc.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adressedutribuna00vauc.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

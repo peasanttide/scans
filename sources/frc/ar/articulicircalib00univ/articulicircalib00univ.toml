@@ -1,0 +1,68 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "articulicircalib00univ"
+type = "pamphlet"
+title = "Articuli circà librorum approbationem observandi"
+language = "la"
+date = "1696"
+note = "Caption title. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Title page and cover are combined."
+url = "https://archive.org/details/articulicircalib00univ"
+subject = ["Printing"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 2 no. 78"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8ff9d08r"
+internet_archive = "articulicircalib00univ"
+
+[scan]
+file = "articulicircalib00univ.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/articulicircalib00univ"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Université de Paris.Faculté de théologie"
+role = "author"
+
+[[resp]]
+name = "Université de Paris. Faculté de théologie"
+role = "author"
+
+[[resp]]
+name = "[Paris"
+role = "publisher"
+
+[[text]]
+file = "articulicircalib00univ.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "la"
+
+[[text]]
+file = "articulicircalib00univ.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "la"
+
+[[text]]
+file = "articulicircalib00univ.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "la"
+
+[[text]]
+file = "articulicircalib00univ.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "la"

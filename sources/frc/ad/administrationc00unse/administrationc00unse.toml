@@ -1,0 +1,73 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "administrationc00unse"
+type = "pamphlet"
+title = "... L'administration centrale du département du Pui-de-D^ome : aux administrations municipales et aux commissaires du directoire exécutif de l'arrondissement"
+language = "fr"
+place = "A Clermont-Ferrand"
+date = "1798"
+note = "Caption title. Imprint from colophon. At head of title: Liberté, égalité. Clermont-Ferrand, le 4 prairial, an VI de la République française, une et indivisible [23 mai 1798]. At upper left on p.[1]: Bureau des établissemens, travaux et secours publics. N.o 5. Fixation des jours de marchés. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover. No page numbers."
+url = "https://archive.org/details/administrationc00unse"
+extent = "[3] p. ; 25 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10164"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3b048n6z"
+internet_archive = "administrationc00unse"
+
+[scan]
+file = "administrationc00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/administrationc00unse"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Puy-de-Dôme (France)"
+role = "author"
+
+[[resp]]
+name = "Puy-de-Dôme (France)"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Denis Limet"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_71268"
+
+[[text]]
+file = "administrationc00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "administrationc00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "administrationc00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "administrationc00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

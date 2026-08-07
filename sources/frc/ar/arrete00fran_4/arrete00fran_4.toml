@@ -1,0 +1,71 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arrete00fran_4"
+type = "pamphlet"
+title = "Arrêté /"
+language = "fr"
+place = "s.l."
+date = "1789"
+note = """Caption title. Without imprint. "La cour, instruite des grands événements qui viennent de couronner le zele & les efforts patriotiques des augustes représentants de la nation ...": p.[1]-2. Not in Martin & Walter. Scanner's note: Title page located on front cover. No copyright page found. No table-of-contents pages found. Worn, damaged and discolored pages and cover. Skewed text. Uneven binding."""
+url = "https://archive.org/details/arrete00fran_4"
+extent = "4 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 5626"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t71w0kr2v"
+internet_archive = "arrete00fran_4"
+openlibrary_edition = "OL26215734M"
+openlibrary_work = "OL17611600W"
+
+[scan]
+file = "arrete00fran_4.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arrete00fran_4"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Cour des comptes, aides, et finances (Montpellier, France)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_58927"
+
+[[text]]
+file = "arrete00fran_4.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrete00fran_4.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrete00fran_4.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrete00fran_4.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

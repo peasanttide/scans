@@ -1,0 +1,96 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "auxfranois00amid"
+type = "pamphlet"
+title = "Aux François /"
+language = "fr"
+place = "s.l."
+date = "1789"
+note = """Caption title. Without imprint. "Vu l'importance des fonctions & des délibérations des Etats-généraux, il importe extrêmement d'y conserver la forme, antique & légale de voter par ordre ...": p.2. Not in Martin & Walter. Scanner's note: No title page found. No copyright page found. No table-of-contents pages found."""
+url = "https://archive.org/details/auxfranois00amid"
+subject = ["France. Etats généraux"]
+extent = "8 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 1178"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1bk6df22"
+internet_archive = "auxfranois00amid"
+openlibrary_edition = "OL26207187M"
+openlibrary_work = "OL17603451W"
+
+[scan]
+file = "auxfranois00amid.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/auxfranois00amid"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Ami des Trois ordres"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_41769"
+
+[[text]]
+file = "auxfranois00amid.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "auxfranois00amid.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "auxfranois00amid.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "auxfranois00amid.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "auxfranois00amid.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "auxfranois00amid.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "auxfranois00amid.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "auxfranois00amid.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

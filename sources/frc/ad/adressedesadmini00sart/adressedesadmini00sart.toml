@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "adressedesadmini00sart"
+type = "pamphlet"
+title = "Adresse des administrateurs du département de la Sarthe, a la Convention nationale"
+language = "fr"
+place = "Au Mans"
+date = "1793"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover.  No page numbers."
+url = "https://archive.org/details/adressedesadmini00sart"
+extent = "[3] p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10255 no. 4"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3033zp86"
+internet_archive = "adressedesadmini00sart"
+openlibrary_edition = "OL26222706M"
+openlibrary_work = "OL17618177W"
+
+[scan]
+file = "adressedesadmini00sart.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/adressedesadmini00sart"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Sarthe (France)"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Pivron, imprimeur du département de la Sarthe"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_857509"
+
+[[text]]
+file = "adressedesadmini00sart.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adressedesadmini00sart.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adressedesadmini00sart.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adressedesadmini00sart.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

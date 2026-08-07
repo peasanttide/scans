@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "alassembl00unse"
+type = "pamphlet"
+title = "A l'Assemblée nationale."
+language = "fr"
+place = "France"
+date = "1791"
+note = "Caption title. Signed: Saur, député de la municipalité & commune d'Haugenau. Fait à Paris, le 18 janvier 1791. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  IV:1, 31084. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained, marked and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/alassembl00unse"
+subject = [
+    "Régnier, Claude-Ambroise, duc de Massa, 1746-1814",
+    "Westermann, François-Joseph",
+    "Central-local government relations",
+    "Municipal government",
+]
+extent = "3 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 25070"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t16m8j63x"
+internet_archive = "alassembl00unse"
+
+[scan]
+file = "alassembl00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/alassembl00unse"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Saur, député de la municipalité et commune d'Haguenau"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_850357"
+
+[[text]]
+file = "alassembl00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "alassembl00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "alassembl00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "alassembl00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

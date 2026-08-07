@@ -1,0 +1,66 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "adresseroi00unse"
+type = "pamphlet"
+title = "Adresse au roi, des administrateurs composant le directoire du département de la Seine Inférieure"
+language = "fr"
+place = "A Paris"
+date = "1792"
+note = "Caption title. Imprint from colophon. Head-piece consists of 20 fleurs-de-lys; another edition exists with 21 fleurs-de-lys. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française, IV:2, 16553. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover. No page numbers."
+url = "https://archive.org/details/adresseroi00unse"
+subject = ["Mobs"]
+extent = "[2] p. ; 25 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10266 no. 2"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2993bt7n"
+internet_archive = "adresseroi00unse"
+
+[scan]
+file = "adresseroi00unse.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/adresseroi00unse"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Seine-Inférieure (France). Directoire"
+role = "author"
+
+[[resp]]
+name = "Louis XVI, King of France, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "Imprimerie royale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie royale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_857514"
+
+[[text]]
+file = "adresseroi00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adresseroi00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

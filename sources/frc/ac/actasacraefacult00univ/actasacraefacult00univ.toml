@@ -1,0 +1,73 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "actasacraefacult00univ"
+type = "pamphlet"
+title = "Acta Sacrae facultatis theologiae parisiensis"
+language = "la"
+place = "Parisiis"
+date = "1780"
+note = "Reprints censurable passages from Buffon's Histoire naturelle, followed by the faculty's observations on them. Incomplete: only the t.-p. is present. Scanner's note: No copyright found.  No table of contents found.  Damaged, stained pages and cover.  Title on cover. <br />No numbered page.<br />."
+url = "https://archive.org/details/actasacraefacult00univ"
+subject = ["Buffon, Georges Louis Leclerc, comte de, 1707-1788"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 9 no. 52"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4fn6sp1q"
+internet_archive = "actasacraefacult00univ"
+
+[scan]
+file = "actasacraefacult00univ.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/actasacraefacult00univ"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "Université de Paris.Faculté de théologie"
+role = "author"
+
+[[resp]]
+name = "Université de Paris. Faculté de théologie"
+role = "author"
+
+[[resp]]
+name = "Buffon, Georges Louis Leclerc, comte de, 1707-1788. Histoire naturelle"
+role = "author"
+
+[[resp]]
+name = "Ex typis Clousier, typographi ..."
+role = "publisher"
+
+[[text]]
+file = "actasacraefacult00univ.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "la"
+
+[[text]]
+file = "actasacraefacult00univ.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "la"
+
+[[text]]
+file = "actasacraefacult00univ.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "la"
+
+[[text]]
+file = "actasacraefacult00univ.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "la"

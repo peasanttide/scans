@@ -1,0 +1,94 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "avissurleur00nyon"
+type = "pamphlet"
+title = "Avis sur l'Europe illustre"
+language = "fr"
+place = "Paris"
+date = "1776"
+note = """Prospectus for Dreux du Radier's "L'Europe illustre". Caption title. "A Paris, chez Nyon aîné, libraire, rue Saint-Jean-de-Beauvais"--P. [1]. Imprint from colophon. Includes prices for four different formats. Scanner's note: No copyright found.  No table of contents found.  Damaged, stained pages.  No page numbers. <br />."""
+url = "https://archive.org/details/avissurleur00nyon"
+subject = [
+    "Dreux du Radier, M. (Jean-François), 1714-1780",
+    "Booksellers and bookselling",
+    "Biography",
+    "Illustrated books",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1a no. 125"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t08w93k0h"
+internet_archive = "avissurleur00nyon"
+
+[scan]
+file = "avissurleur00nyon.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/avissurleur00nyon"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "Nyon, Jean-Luc,d. 1799"
+role = "author"
+
+[[resp]]
+name = "Nyon, Jean-Luc, d. 1799"
+role = "author"
+
+[[resp]]
+name = "Dreux du Radier, M. (Jean-François), 1714-1780. Europe illustre"
+role = "author"
+
+[[resp]]
+name = "Stoupe, M. (Jean-Georges-Antoine), -1808"
+role = "printer"
+
+[[resp]]
+name = "De l'imprimerie de Stoupe, rue de la Harpe"
+role = "publisher"
+
+[[text]]
+file = "avissurleur00nyon.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avissurleur00nyon.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avissurleur00nyon.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avissurleur00nyon.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avissurleur00nyon.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avissurleur00nyon.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

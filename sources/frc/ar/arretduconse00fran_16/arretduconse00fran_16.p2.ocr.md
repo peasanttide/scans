@@ -1,0 +1,42 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: arretduconse00fran_16
+page: 2
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 3350
+h: 4788
+dpi: 300
+---
+
+pourroit avoir îes fuites les plus dangereufes. A quoi voulant
+pourvoir; le Roi étant en son Conseil, de lavis
+de M. le Garde des Sceaux , a ordonné 6c ordonne que les -
+trois cents quatre -vingt- dix- fept exemplaires de l’ouvrage
+intitulé, Apologie du Commerce, faifis chez le deur Defprez,
+
+6c les cinq exemplaires du même ouvrage, faifis chez le fieur
+l’EfcIapart, Libraire, par procès-verbal du 12 octobre dernier,
+feront tranfportés en la Chambre Syndicale de Paris , pour
+y être mis au pilon. Fait Sa Majedé très-expreiïes inhibitions
+6c défenfes à tous Imprimeurs, de rétablir dans les Ouvrages
+qu’ils imprimeront , les paflages fupprimés par les Cenfeurs ,
+à peine d’interdidion 6c de plus grande peine* s’il y échoit:
+Et comme il peut arriver que lefdits paiïages foient rétablis
+par les Auteurs à l’infu des Imprimeurs, veut Sa Maiedé,
+que lefdits Imprimeurs envoient auxdits Cenfeurs la troifième
+épreuve de chaque feuille, 6c qu’ils ne tirent ladite feuille,
+que îorfque l’épreuve leur aura été rendue, dûment paraphée.
+Enjoint Sa Majedé au fieur Lenoir , Confeiller d’État ,
+Lieutenant général de Police de la ville, prévôté 6c vicomté de
+Paris, 6c au fieur de Néville, Maître des Requêtes, Directeur
+général de la Librairie, de tenir la main , chacun en ce qui les
+concerne, à l’exécution du préfent arrêt, qui fera imprimé ,
+publié 6c affiché par-tout où befoin fera, 6c enregidré fur les
+regidres de toutes les Chambres Syndicales du royaume.
+Fait au Confeil d’Etat du Roi, Sa Majedé y étant, tenu à
+L VerfaiIîes le vingt-un décembre mil fept cent foixante-dix-huit.
+
+Signé A M E L O T.
+
+A PARIS, DE L'IMPRIMERIE ROYALE. 1779.

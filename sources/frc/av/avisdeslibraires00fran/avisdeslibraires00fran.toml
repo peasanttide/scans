@@ -1,0 +1,70 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "avisdeslibraires00fran"
+type = "pamphlet"
+title = "Avis des libraires : a messieurs les députés de l'Assemblée nationale ; relatif aux ouvrages de M. Thorillon, député de Paris, sur la législation criminelle, de police & civile, & sur l'impôt unique ; qui se trouvent chez Baudouin, imprimeur de l'Assemblée nationale, cour des Capucins ; & chez Boucher, Jardin des Feuillans."
+language = "fr"
+place = "Paris"
+date = "1792"
+note = "Caption title. Imprint from colophon. The works in question are: [1] Idées sur les loix criminelles; [2] Idées sur les impôts publics. Dated in contemporary ms.: 31 mars 1792. Not in Martin & Walter. Scanner's note: No copyright. No table of contents. Title on cover. Damaged, stained pages and cover. <br /><br />."
+url = "https://archive.org/details/avisdeslibraires00fran"
+subject = ["Thorillon, Antoine-Joseph, b. 1742"]
+extent = "4 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 1334"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5q86bt0m"
+internet_archive = "avisdeslibraires00fran"
+
+[scan]
+file = "avisdeslibraires00fran.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/avisdeslibraires00fran"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_42180"
+
+[[text]]
+file = "avisdeslibraires00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avisdeslibraires00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avisdeslibraires00fran.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avisdeslibraires00fran.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

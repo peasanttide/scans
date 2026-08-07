@@ -1,0 +1,77 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arreteduconseilg00main_0"
+type = "pamphlet"
+title = "Arrêté du conseil-général du département de Maine et Loire, relatif à l'appurement des rôles de contribution patriotique : séance publique du 8 janvier 1793, l'an 2e. de la République française"
+language = "fr"
+place = "A Angers"
+date = "1793"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on the cover page. Damaged, stained, and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/arreteduconseilg00main_0"
+subject = [
+    "Taxpayer compliance",
+    "Tax administration and procedure",
+]
+extent = "3 p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC suppl. 116 no. 8"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5v74nh4c"
+internet_archive = "arreteduconseilg00main_0"
+
+[scan]
+file = "arreteduconseilg00main_0.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arreteduconseilg00main_0"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Maine-et-Loire (France). Conseil général"
+role = "author"
+
+[[resp]]
+name = "Mame, Charles-Pierre, 1747-1825"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale, chez Mame, imprimeur du département"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_861412"
+
+[[text]]
+file = "arreteduconseilg00main_0.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arreteduconseilg00main_0.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arreteduconseilg00main_0.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arreteduconseilg00main_0.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

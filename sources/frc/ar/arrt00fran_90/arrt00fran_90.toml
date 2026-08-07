@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arrt00fran_90"
+type = "pamphlet"
+title = "Arrêté /"
+language = "fr"
+place = "s.l."
+date = "1789"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Scanner's note: No title page found. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/arrt00fran_90"
+extent = "4 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 4007"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9k40vr80"
+internet_archive = "arrt00fran_90"
+openlibrary_edition = "OL26215445M"
+openlibrary_work = "OL17611330W"
+
+[scan]
+file = "arrt00fran_90.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arrt00fran_90"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Parlement (Franche-Comté)"
+role = "author"
+
+[[resp]]
+name = "France. Parlement (Franche-Comté)"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de J.-F. Daclin"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_49487"
+
+[[text]]
+file = "arrt00fran_90.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrt00fran_90.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrt00fran_90.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrt00fran_90.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

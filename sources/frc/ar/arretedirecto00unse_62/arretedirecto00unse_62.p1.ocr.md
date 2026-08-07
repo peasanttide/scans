@@ -1,0 +1,44 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: arretedirecto00unse_62
+page: 1
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 3041
+h: 4169
+dpi: 350
+---
+
+N.° 561. Bulletin des Lois, N.° 93»
+
+A /
+
+ARRETE
+
+Du Directoire exécutifs portant que les dispositions de celui
+du zy Fructidor an IF, qui accorde aux ojficiers des armées
+de terre le paiement du quart de leur solde en numéraire ,
+sont applicables aux offciers de la marine militaire.
+
+Du 28 Brumaire, an V de la République Française, une et indivisible.
+
+Ije Directoire exécutif arrête que les dispositions de son arrêté du
+27 fructidor an IV, qui accorde aux officiers cle tout grade et de toute arme dans
+les armées de terre, le paiement du quart de leur solde en numéraire, sont appli-
+cables, et à dater ÉD la même époque, aux officiers de la marine militaire , tant
+dans les ports qu’à bord des vaisseaux delà République, ainsi qu’aux officiers deg
+troupes de la marine et des colonies, et officiers d’administration ;
+
+Charge les ministres des finances , de la marine et des colonies , de l’exécution du
+présent arrêté , qui sera ioiprimé.
+
+Four expédition conforme, signé P. Barras, ptésLdent ^ par le Directoire
+exécutif , Le secrétaire générai , L a 6 a B n e.
+
+A Paris, de l’Imprimerie du Dépôt des Lois, place du Cariousel.
+
+JEtse trouve dans les villes uhefs-lieux de département, au bureau de correspondance
+
+du Dépôt des Lois.
+
+N. 7.

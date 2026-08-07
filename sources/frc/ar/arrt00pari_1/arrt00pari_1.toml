@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arrt00pari_1"
+type = "pamphlet"
+title = "... Arrêté /"
+language = "fr"
+place = "Paris"
+date = "1789"
+note = "Caption title. Imprint from colophon. At head of title: Assemblée des représentans de la Commune de Paris. Martin & Walter IV 2: 11847. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on cover page. Damaged, stained and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/arrt00pari_1"
+subject = ["Lambesc, Charles Eugène de Lorraine, Prince de, 1751-1825"]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 6345"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t12p06v9m"
+internet_archive = "arrt00pari_1"
+openlibrary_edition = "OL26218605M"
+openlibrary_work = "OL17614312W"
+
+[scan]
+file = "arrt00pari_1.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arrt00pari_1"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Paris (France). Commune (1789-1794)"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Lottin l'aîné, & Lottin de S.-Germain"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_58734"
+
+[[text]]
+file = "arrt00pari_1.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrt00pari_1.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrt00pari_1.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrt00pari_1.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

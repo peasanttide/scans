@@ -1,0 +1,99 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arrt00bour"
+type = "pamphlet"
+title = "Arrêté /"
+language = "fr"
+place = "A Bourg"
+date = "1789"
+note = """Caption title. Imprint from colophon. "... l'Assemblée nationale est instamment priée de demander que le procès soit fait aux auteurs & instigateurs des maux actuels ... afin, qu'un exemple terrible à jamais mémorable, garantisse à l'avenir les rois & les peuples": p.4. Martin & Walter IV 2: 2797. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Skewed text. Uneven binding. Damaged, stained, and/or loose pages."""
+url = "https://archive.org/details/arrt00bour"
+extent = "7 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 1486"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t88h3nv6r"
+internet_archive = "arrt00bour"
+openlibrary_edition = "OL26208651M"
+openlibrary_work = "OL17604922W"
+
+[scan]
+file = "arrt00bour.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/arrt00bour"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Bourg-en-Bresse (France)"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Louis-Hyacinth Goyffon"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_41971"
+
+[[text]]
+file = "arrt00bour.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrt00bour.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrt00bour.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrt00bour.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrt00bour.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrt00bour.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrt00bour.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrt00bour.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

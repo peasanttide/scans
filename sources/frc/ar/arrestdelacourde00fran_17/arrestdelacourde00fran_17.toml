@@ -1,0 +1,84 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arrestdelacourde00fran_17"
+type = "pamphlet"
+title = "Arrest de la Cour des aides, qui défend aux gardes & employés des fermes de se servir de fusils à deux coups, sous peine de punition corporelle : du 21 janvier 1783"
+language = "fr"
+place = "A Paris"
+date = "1783"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text. No title page found. No copyright page found. No table-of-contents pages found. Text on the back cover is upside-down."
+url = "https://archive.org/details/arrestdelacourde00fran_17"
+subject = [
+    "Firearms",
+    "Peace officers",
+    "Rifles",
+]
+extent = "3 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 27530"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t83j8mk8d"
+internet_archive = "arrestdelacourde00fran_17"
+openlibrary_edition = "OL26229099M"
+openlibrary_work = "OL17624133W"
+
+[scan]
+file = "arrestdelacourde00fran_17.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arrestdelacourde00fran_17"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Cour des aides (Paris)"
+role = "author"
+
+[[resp]]
+name = "Simon, P. G. (Pierre-Guillaume), 1722-1787"
+role = "publisher"
+
+[[resp]]
+name = "Nyon, Nicolas-Henri, b. 1751?"
+role = "publisher"
+
+[[resp]]
+name = "Chez P.G. Simon, & N.H Nyon, imprimeurs du parlement, rue Mignon"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_861405"
+
+[[text]]
+file = "arrestdelacourde00fran_17.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacourde00fran_17.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacourde00fran_17.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacourde00fran_17.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

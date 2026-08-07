@@ -1,0 +1,68 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arrestduconse00fran"
+type = "pamphlet"
+title = "Arrest du Conseil d'état privé du roy, du trentiéme avril 1718"
+language = "fr"
+date = "1718"
+note = "Caption title."
+url = "https://archive.org/details/arrestduconse00fran"
+subject = ["Book industries and trade"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 3 no. 98"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1bk7089m"
+internet_archive = "arrestduconse00fran"
+
+[scan]
+file = "arrestduconse00fran.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arrestduconse00fran"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Conseil privé"
+role = "author"
+
+[[resp]]
+name = "France. Conseil privé"
+role = "author"
+
+[[resp]]
+name = "[n.p."
+role = "publisher"
+
+[[text]]
+file = "arrestduconse00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestduconse00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestduconse00fran.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestduconse00fran.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

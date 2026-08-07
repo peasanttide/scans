@@ -1,0 +1,61 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arrestduconse00fran_17"
+type = "pamphlet"
+title = "Arrest du Conseil d'estat du roy"
+language = "fr"
+place = "A Paris"
+date = "1745"
+note = "Caption title. Imprint at foot of p. 2. Scanner's note: No copyright found.  No table of contents found.  Damaged, stained pages and cover.  Title on cover. <br />Only one numbered page.<br />."
+url = "https://archive.org/details/arrestduconse00fran_17"
+subject = ["Censorship"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 5 no. 69"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6wx30v7j"
+internet_archive = "arrestduconse00fran_17"
+
+[scan]
+file = "arrestduconse00fran_17.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/arrestduconse00fran_17"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "France.Conseil d'Etat"
+role = "author"
+
+[[resp]]
+name = "France. Conseil d'Etat"
+role = "author"
+
+[[resp]]
+name = "Cathédrale Saint-Julien (Le Mans, France)"
+role = "author"
+
+[[resp]]
+name = "Chez Pierre-Guillaume Simon"
+role = "publisher"
+
+[[text]]
+file = "arrestduconse00fran_17.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestduconse00fran_17.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,68 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "avisaucousinlame00unse"
+type = "pamphlet"
+title = "Avis au cousin Lameth."
+language = "fr"
+place = "s.l."
+date = "1790"
+note = "Caption title. Without imprint. Dated at end: Paris, ce 18 juin 1790. Martin & Walter IV 2: 2475 (which specfies: Pour lui [i.e. Alexandre Lameth] montrer qu'il ne doit pas chercher à se mettre en avant). Scanner's note: No title page found. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/avisaucousinlame00unse"
+subject = ["Lameth, Alexandre, comte de, 1760-1829"]
+extent = "4 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 1239"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3nw4h64t"
+internet_archive = "avisaucousinlame00unse"
+openlibrary_edition = "OL26207668M"
+openlibrary_work = "OL17603945W"
+
+[scan]
+file = "avisaucousinlame00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/avisaucousinlame00unse"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_42275"
+
+[[text]]
+file = "avisaucousinlame00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avisaucousinlame00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avisaucousinlame00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avisaucousinlame00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "avis00desn"
+type = "pamphlet"
+title = "Avis"
+language = "fr"
+place = "S.l."
+date = "1791"
+note = "Caption title. Without imprint. Prospectus for a number of atlases produced by L.C. Desnos. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found.  No margin space. Text is lost in the binding. Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages."
+url = "https://archive.org/details/avis00desn"
+subject = ["Atlases"]
+extent = "[4] p. ; 28 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9421"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6xw9j799"
+internet_archive = "avis00desn"
+openlibrary_edition = "OL26221878M"
+openlibrary_work = "OL17617378W"
+
+[scan]
+file = "avis00desn.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/avis00desn"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Desnos, Louis-Charles,1725-1805"
+role = "author"
+
+[[resp]]
+name = "Desnos, Louis-Charles, 1725-1805"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_67368"
+
+[[text]]
+file = "avis00desn.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avis00desn.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avis00desn.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avis00desn.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

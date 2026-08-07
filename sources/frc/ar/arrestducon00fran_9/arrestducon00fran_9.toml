@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arrestducon00fran_9"
+type = "pamphlet"
+title = "Arrest du Conseil d'estat du roy, qui ordonne la suppression d'un ecrit intitulé Les très-humbles remonstrances des Curez de la ville de Paris"
+language = "fr"
+place = "A Paris"
+date = "1727"
+note = "Caption title. Imprint at foot of p. 4. Scanner's note: No copyright found.  No table of contents found.  Damaged, stained pages and cover.  Title on cover. <br />."
+url = "https://archive.org/details/arrestducon00fran_9"
+subject = [
+    "Censorship",
+    "Unigenitus (Papal bull) 1713",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 4 no. 81"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t54f7dd59"
+internet_archive = "arrestducon00fran_9"
+
+[scan]
+file = "arrestducon00fran_9.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arrestducon00fran_9"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "France.Conseil d'Etat"
+role = "author"
+
+[[resp]]
+name = "France. Conseil d'Etat"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie royale"
+role = "publisher"
+
+[[text]]
+file = "arrestducon00fran_9.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestducon00fran_9.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestducon00fran_9.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestducon00fran_9.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

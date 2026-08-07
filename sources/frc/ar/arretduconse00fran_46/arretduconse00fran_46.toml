@@ -1,0 +1,69 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arretduconse00fran_46"
+type = "pamphlet"
+title = "Arrest du Parlement, qui ordonne qu'un imprimé, portant pour titre"
+language = "fr"
+place = "A Aix"
+date = "1784"
+note = "Caption title. Imprint at foot of p. 3. Scanner's note: No copyright found.  No table of contents found.  Damaged, stained pages and cover.  Title on cover. <br />."
+url = "https://archive.org/details/arretduconse00fran_46"
+subject = ["Censorship"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 9 no. 93"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7wm6wv5n"
+internet_archive = "arretduconse00fran_46"
+
+[scan]
+file = "arretduconse00fran_46.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arretduconse00fran_46"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "France.Parlement (Aix-en-Provence)"
+role = "author"
+
+[[resp]]
+name = "France. Parlement (Aix-en-Provence)"
+role = "author"
+
+[[resp]]
+name = "Chez Joseph David"
+role = "publisher"
+
+[[text]]
+file = "arretduconse00fran_46.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretduconse00fran_46.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretduconse00fran_46.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretduconse00fran_46.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

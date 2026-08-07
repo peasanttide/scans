@@ -1,0 +1,81 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arrestdelacourdu00fran_15"
+type = "pamphlet"
+title = "Arrest de la Cour du Parlement de Bordeaux"
+language = "fr"
+place = "Bordeaux"
+date = "1718"
+note = 'Caption title. Imprint at foot of p. 4. "Extrait des Registres de Parlement.". [Pieces concernant la constitution [Unigenitus] no. 19].'
+url = "https://archive.org/details/arrestdelacourdu00fran_15"
+subject = ["Censorship"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 3 no. 108"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t70w43j70"
+internet_archive = "arrestdelacourdu00fran_15"
+
+[scan]
+file = "arrestdelacourdu00fran_15.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arrestdelacourdu00fran_15"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Parlement (Bordeaux)"
+role = "author"
+
+[[resp]]
+name = "France. Parlement (Bordeaux)"
+role = "author"
+
+[[resp]]
+name = "Aire, France (Diocese). Bishop, 1710-1723 (Joseph Caspar de Montmorin de Saint-Hérem)"
+role = "author"
+
+[[resp]]
+name = "Limoges, France (Diocese). Bishop, 1706-1729 (Antoine Charpin de Gennetines)"
+role = "author"
+
+[[resp]]
+name = "Saintes, France (Diocese). Bishop, 1716-1744 (Léon de Beaumont)"
+role = "author"
+
+[[resp]]
+name = "Chez G. Boudé-Boé"
+role = "publisher"
+
+[[text]]
+file = "arrestdelacourdu00fran_15.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacourdu00fran_15.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacourdu00fran_15.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacourdu00fran_15.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

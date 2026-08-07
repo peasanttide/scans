@@ -1,0 +1,83 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "articlessurleslo00guil"
+type = "pamphlet"
+title = "Articles sur les lois criminelles, dont l'Assemblée nationale a ordonné l'impression le premier décembre 1789, pour être discutés dans la séance du 2."
+language = "fr"
+place = "A Paris"
+date = "1789"
+note = "Caption title. Signed: Guillotin. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  II, 16127. Scanner's note: No copyright page found. No table-of-contents pages found. Title on front cover. Damaged and stained pages."
+url = "https://archive.org/details/articlessurleslo00guil"
+subject = [
+    "Capital punishment",
+    "Equality before the law",
+]
+extent = "3 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 19558"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9867d464"
+internet_archive = "articlessurleslo00guil"
+openlibrary_edition = "OL25946182M"
+openlibrary_work = "OL17367358W"
+
+[scan]
+file = "articlessurleslo00guil.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/articlessurleslo00guil"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Guillotin, Joseph Ignace, 1738-1814"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_840859"
+
+[[text]]
+file = "articlessurleslo00guil.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "articlessurleslo00guil.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "articlessurleslo00guil.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "articlessurleslo00guil.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

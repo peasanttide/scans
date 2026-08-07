@@ -1,0 +1,71 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "administrateurscomp00unse"
+type = "pamphlet"
+title = "... Les administrateurs composant le directoire du district de Grenoble, a la municipalité d [blank]"
+language = "fr"
+place = "s.l."
+date = "1795"
+note = "Caption title. Without imprint. At head of title: Egalité, liberté. Grenoble, le 28 germinal, an troisieme de la République françoise, une et indivisible [17 avril 1795]. Not in Martin & Walter. Scanner's note: Irregular Pagination. No copyright page found. No table-of-contents pages found. No title page found."
+url = "https://archive.org/details/administrateurscomp00unse"
+extent = "[3] p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9840"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4dn9896t"
+internet_archive = "administrateurscomp00unse"
+openlibrary_edition = "OL26223994M"
+openlibrary_work = "OL17619450W"
+
+[scan]
+file = "administrateurscomp00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/administrateurscomp00unse"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Grenoble (France)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_68825"
+
+[[text]]
+file = "administrateurscomp00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "administrateurscomp00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "administrateurscomp00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "administrateurscomp00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

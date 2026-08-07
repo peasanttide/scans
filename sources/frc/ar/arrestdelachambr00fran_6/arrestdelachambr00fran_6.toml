@@ -1,0 +1,57 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arrestdelachambr00fran_6"
+type = "pamphlet"
+title = "Arrest de la Chambre des vacations"
+language = "fr"
+place = "A Paris"
+date = "1753"
+note = "Caption title. Imprint a foot of p. 2. In the text the title is given: Mandement de Monseigneur l'illustrissime & révérendissime Evêque de Boulogne, qui ordonne que le Te Deum sera chanté en actions de graces de la naissance de Monseigneur le Duc d'Acquitaine. The work was suppressed beacuse spurious. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Title page and cover are combined."
+url = "https://archive.org/details/arrestdelachambr00fran_6"
+subject = ["Censorship"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 6 no. 25"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t80k80g5k"
+internet_archive = "arrestdelachambr00fran_6"
+
+[scan]
+file = "arrestdelachambr00fran_6.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/arrestdelachambr00fran_6"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Chambre des vacations"
+role = "author"
+
+[[resp]]
+name = "France. Chambre des vacations"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie royale"
+role = "publisher"
+
+[[text]]
+file = "arrestdelachambr00fran_6.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelachambr00fran_6.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

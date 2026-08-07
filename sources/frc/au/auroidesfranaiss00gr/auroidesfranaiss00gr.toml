@@ -1,0 +1,71 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "auroidesfranaiss00gr"
+type = "pamphlet"
+title = "Au Roi des Français : sur l'air grivois des trembleurs /"
+language = "fr"
+place = "s.l."
+date = "1790"
+note = """Caption title. Without imprint. "Chanson nouvelle. Au sujet des menaces des émigrés": p.[3]-[4]. Satires in verse. Martin & Walter IV 2: 2244. Scanner's note: No title page found. No copyright page found. No table-of-contents pages found."""
+url = "https://archive.org/details/auroidesfranaiss00gr"
+extent = "[4] p. ; 16 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 1145"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9f52q34r"
+internet_archive = "auroidesfranaiss00gr"
+openlibrary_edition = "OL26207309M"
+openlibrary_work = "OL17603577W"
+
+[scan]
+file = "auroidesfranaiss00gr.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/auroidesfranaiss00gr"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "G. R"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_42196"
+
+[[text]]
+file = "auroidesfranaiss00gr.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "auroidesfranaiss00gr.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "auroidesfranaiss00gr.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "auroidesfranaiss00gr.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

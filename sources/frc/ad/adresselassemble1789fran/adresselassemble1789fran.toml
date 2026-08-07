@@ -1,0 +1,69 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "adresselassemble1789fran"
+type = "pamphlet"
+title = "Adresse a l'Assemblée nationale : relativement au projet de décret"
+language = "fr"
+place = "Paris"
+date = "1789"
+note = "Scanner's note: Title and cover combined, no physical cover.  No table-of-contents pages found. No copyright page found. Stained pages and some skewed text."
+url = "https://archive.org/details/adresselassemble1789fran"
+extent = "3 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 129"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2v447m3d"
+internet_archive = "adresselassemble1789fran"
+
+[scan]
+file = "adresselassemble1789fran.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/adresselassemble1789fran"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791). Comité militaire"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_36396"
+
+[[text]]
+file = "adresselassemble1789fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "adresselassemble1789fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "adresselassemble1789fran.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "adresselassemble1789fran.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"

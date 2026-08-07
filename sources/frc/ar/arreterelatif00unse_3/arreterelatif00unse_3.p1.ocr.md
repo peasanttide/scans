@@ -1,0 +1,43 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: arreterelatif00unse_3
+page: 1
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 3012
+h: 4199
+dpi: 350
+---
+
+npfeian y ' pAPÏÏT PES" L.OIS, PLACE. DU C AIVROVSEL. A. PAKl^
+
+Bulletin des Lois , N^. ^4
+
+H
+Il ^
+
+Relatif à r exécution des lois des 15 germinal et \ floréal
+
+an Kl sur les conscrits.
+
+Du 7 Thermidor an VIII de la République française , une et indivisible.
+
+X_iES Consuls de la République, sur le rapport du ministre de la
+justice ; le conseil d’état entendu ,
+
+Arrêtent:
+
+Il n’y a pas lieu à modifier, en faveur des conscrits, les dispositions des
+lois des i5 germinal et 4 floréal an VI. (i)
+
+Le ministre de la justice est chargé de l’exécution du présent arrêté , qui
+sera imprimé.
+
+Le premier Consul , signé BONAPARTE.
+
+Par le premier Consul : le secrétaire d’Etat , signé Hugues B. Maret.
+
+Le ministre de la justice , signé Abrial.
+(i) Ces lois sont relatives à la contrainte par corps.
+
+A F ARis. De l’imprimerie du Dépôt des Lois, place du CarouseL

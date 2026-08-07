@@ -1,0 +1,73 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "adresselaconvent00auxe"
+type = "pamphlet"
+title = "Adresse a la Convention nationale : le peuple d'Auxerre réuni en assemblée générale de sections, & les autorités constituées séantes en cette ville, aux représentans de la nation française"
+language = "fr"
+place = "A Auxerre"
+date = "1792"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages."
+url = "https://archive.org/details/adresselaconvent00auxe"
+extent = "4 p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9391"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3vt6rv9k"
+internet_archive = "adresselaconvent00auxe"
+
+[scan]
+file = "adresselaconvent00auxe.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/adresselaconvent00auxe"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Auxerre (France)"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de L. Fournier"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_67277"
+
+[[text]]
+file = "adresselaconvent00auxe.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adresselaconvent00auxe.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adresselaconvent00auxe.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adresselaconvent00auxe.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

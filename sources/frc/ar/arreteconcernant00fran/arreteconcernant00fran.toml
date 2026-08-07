@@ -1,0 +1,70 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arreteconcernant00fran"
+type = "pamphlet"
+title = "Arrêté concernant les biens dévolus a la France par le traité de Lunéville : et le reces de l'Empire d'Allemagne ; Saint-Cloud, le 21 floréal, an XII de la République [11 mai 1804]"
+language = "fr"
+place = "A Paris"
+date = "1804"
+note = "Caption title. Imprint from colophon. At head of title: No. 2010. Bulletin des lois, No. 7. Signed at end: Le premier consul, signé Bonaparte. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages."
+url = "https://archive.org/details/arreteconcernant00fran"
+subject = ["Lunéville, Treaty of, 1801"]
+extent = "4 p. ; 28 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9319"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5t77hr74"
+internet_archive = "arreteconcernant00fran"
+
+[scan]
+file = "arreteconcernant00fran.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arreteconcernant00fran"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Consulat (1799-1804)"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie du Dépot des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_67072"
+
+[[text]]
+file = "arreteconcernant00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arreteconcernant00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arreteconcernant00fran.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arreteconcernant00fran.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

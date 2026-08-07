@@ -1,0 +1,64 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "adressecitoyen00unse"
+type = "pamphlet"
+title = "Adresse d'un citoyen, soldat, a ses frères d'armes de la Garde-nationale parisienne"
+language = "fr"
+place = "France"
+date = "1790"
+note = "Caption title. Signed: Belin, menuisier de la reine, de la Société des amis de la Constitution, soldat, capitain de la Garde-national parisienne, de la section de la place Vendôme. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française, I, 2429. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover. Only one numbered page."
+url = "https://archive.org/details/adressecitoyen00unse"
+subject = ["Paris (France). Garde nationale"]
+extent = "2 p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 26501"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9382h168"
+internet_archive = "adressecitoyen00unse"
+openlibrary_edition = "OL26227171M"
+openlibrary_work = "OL17622398W"
+
+[scan]
+file = "adressecitoyen00unse.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/adressecitoyen00unse"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Belin"
+role = "author"
+
+[[resp]]
+name = "Paris (France). Garde nationale"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_862827"
+
+[[text]]
+file = "adressecitoyen00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adressecitoyen00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

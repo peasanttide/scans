@@ -1,0 +1,88 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arretedirecto00unse_ghf"
+type = "pamphlet"
+title = "Loi, et arrete du Directoire exécutif, concernant la conscription : des 9 et 12 vendémiaire an VIII de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1799"
+note = """Caption title. At head of title: Au nom de la République française. Signed: Gohier, président; par le Directoire exécutif, le secrétaire général, Lagarde. Imprint from colophon. "No. 6, 7"--Bottom of p. [1]; "No. 991"--Top of p. [1]. Not in Martin & Walter. Révolution française. 1o. Arrêté du Directoire exécutif, concernant les conscrits enrôlés pour les troupes de la Marine, du 9 vendémiaire an VIII -- 2o. Loi qui proroge le délai accordé aux jurys chargés de prononcer sur les demandes de dispense de service militaire, du 12 vendémiaire an VIII. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/arretedirecto00unse_ghf"
+subject = [
+    "France. Marine",
+    "Draftees",
+    "Military discharge",
+    "Jury",
+    "Justice, Administration of",
+]
+extent = "3 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10350 no. 71"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t02z6cn2c"
+internet_archive = "arretedirecto00unse_ghf"
+
+[scan]
+file = "arretedirecto00unse_ghf.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arretedirecto00unse_ghf"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Directoire exécutif"
+role = "author"
+
+[[resp]]
+name = "Gohier, Louis-Jérôme, 1746-1830"
+role = "author"
+
+[[resp]]
+name = "Lagarde, Joseph-Jean, baron, 1755-1840"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Depot des lois, place du Carrousel"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_859383"
+
+[[text]]
+file = "arretedirecto00unse_ghf.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretedirecto00unse_ghf.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretedirecto00unse_ghf.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretedirecto00unse_ghf.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

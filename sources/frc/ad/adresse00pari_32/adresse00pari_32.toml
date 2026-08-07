@@ -1,0 +1,88 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "adresse00pari_32"
+type = "pamphlet"
+title = "... Adresse /"
+language = "fr"
+place = "A Arras"
+date = "1793"
+note = "Caption title. Imprint from colophon. At head of title: Convention nationale. Dated on p.3: ... du 16 mai 1793, l'an deuxième de la République. About soldiers furnished by the section. Martin & Walter IV 2: 12821 [edition 2: Arras imprint]. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on cover page. Damaged, stained and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/adresse00pari_32"
+subject = ["Soldiers"]
+extent = "3 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 6584"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2t48sc90"
+internet_archive = "adresse00pari_32"
+openlibrary_edition = "OL26218523M"
+openlibrary_work = "OL17614229W"
+
+[scan]
+file = "adresse00pari_32.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/adresse00pari_32"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Paris (France). Section de la Fraternité"
+role = "author"
+
+[[resp]]
+name = "Paris (France). Section de la Fraternité"
+role = "author"
+
+[[resp]]
+name = "Paris (France). Section de la Butte-des-Moulins"
+role = "author"
+
+[[resp]]
+name = "Paris (France). Section de Mil-sept-cent-quatre-vingt-douze"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Chez la citoyenne Varlé"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_58958"
+
+[[text]]
+file = "adresse00pari_32.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adresse00pari_32.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adresse00pari_32.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adresse00pari_32.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

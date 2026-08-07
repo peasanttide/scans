@@ -1,0 +1,74 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arrt00roma_0"
+type = "pamphlet"
+title = "... Arrêté /"
+language = "fr"
+place = "s.l."
+date = "1789"
+note = "Caption title. Without imprint. At head of title: Dauphiné. About the États généraux. Martin & Walter IV 2: 16216 [edition 2: first line on p.3: où les Etats-généraux seront composés de]. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on the cover page. Uneven binding. Skewed text. Damaged, stained, and/or loose pages."
+url = "https://archive.org/details/arrt00roma_0"
+subject = ["France. Etats généraux"]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 8092"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t76t5s36h"
+internet_archive = "arrt00roma_0"
+
+[scan]
+file = "arrt00roma_0.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arrt00roma_0"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Romans-sur-Isère (France)"
+role = "author"
+
+[[resp]]
+name = "Romans-sur-Isère (France)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_101739"
+
+[[text]]
+file = "arrt00roma_0.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrt00roma_0.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrt00roma_0.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrt00roma_0.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

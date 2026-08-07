@@ -1,0 +1,87 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "auxpasteurs00unse"
+type = "pamphlet"
+title = "[Aux pasteurs des villes et des campagnes]"
+language = "fr"
+place = "À Rennes"
+date = "1792"
+note = """Title from another edition (Martin & Walter 29771). Signed: Le ministre de l'intérieur ... Roland. Imprint from colophon. Variant of Martin & Walter. Révolution française. IV:1, 29771. "Copie de la lettre du ministre de l'intérieur aux corps administratifs, du 6 novembre 1792 ....". Scanner's note: Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text. No title page found. No copyright page found. No table-of-contents pages found."""
+url = "https://archive.org/details/auxpasteurs00unse"
+subject = [
+    "Education and state",
+    "Clergy",
+]
+extent = "1 sheet ; 26 x 36 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 27181"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t09w5kz4z"
+internet_archive = "auxpasteurs00unse"
+openlibrary_edition = "OL26229140M"
+openlibrary_work = "OL17624174W"
+
+[scan]
+file = "auxpasteurs00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/auxpasteurs00unse"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Roland de La Platière, Jean-Marie,1734-1793"
+role = "author"
+
+[[resp]]
+name = "Roland de La Platière, Jean-Marie, 1734-1793"
+role = "author"
+
+[[resp]]
+name = "Robiquet, J."
+role = "publisher"
+
+[[resp]]
+name = "France. Ministère de l'intérieur"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale du département d'Ille et Vilaine, chez J. Robiquet, rue de la République"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_868106"
+
+[[text]]
+file = "auxpasteurs00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "auxpasteurs00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "auxpasteurs00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "auxpasteurs00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

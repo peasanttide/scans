@@ -1,0 +1,94 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arret00alpe"
+type = "pamphlet"
+title = "Arr^eté"
+language = "fr"
+place = "A Marseille"
+date = "1793"
+note = "Caption title. Imprint from colophon. This edition not in Martin & Walter (cf. IV 2: 1009, which specifies: Au sujet de la reddition de Toulon aux Anglais). Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages."
+url = "https://archive.org/details/arret00alpe"
+subject = ["Toulon (France)"]
+extent = "7 p. ; 23 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9268"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6sz1dh5q"
+internet_archive = "arret00alpe"
+
+[scan]
+file = "arret00alpe.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/arret00alpe"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Alpes-Maritimes (France)"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale d'Auguste Mossy"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_66869"
+
+[[text]]
+file = "arret00alpe.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arret00alpe.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arret00alpe.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arret00alpe.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arret00alpe.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arret00alpe.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arret00alpe.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arret00alpe.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

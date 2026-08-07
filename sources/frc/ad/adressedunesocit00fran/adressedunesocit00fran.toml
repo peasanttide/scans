@@ -1,0 +1,70 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "adressedunesocit00fran"
+type = "pamphlet"
+title = "... Adresse d'une société allemande a la Convention nationale : précédée de la lettre d'envoi du citoyen François <de Neufch^ateau> ; lues `a la séance du 16 novembre 1792, l'an 1er. de la République ; imprimées et envoyées aux 83 départemens, par ordre de la Convention nationale"
+language = "fr"
+place = "A Niort"
+date = "1792"
+note = """Caption title. Imprint from colophon. At head of title: Convention nationale. "Adresse de la société allemande. De Mannheim, le 28 septembre 1792": p.2-4. About Louis XVI. Dated in contemporary ms.: 16 9bre [novembre] 1792. This edition not in Martin & Walter (cf. IV 2: 535, octavo edition). Scanner's note: No copyright page found. No table-of-contents pages found. Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages."""
+url = "https://archive.org/details/adressedunesocit00fran"
+subject = ["Louis XVI, King of France, 1754-1793"]
+extent = "4 p. ; 24 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9153"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1tf4x827"
+internet_archive = "adressedunesocit00fran"
+
+[scan]
+file = "adressedunesocit00fran.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/adressedunesocit00fran"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Chez Jean-Baptist Lefranc-Élies"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_66474"
+
+[[text]]
+file = "adressedunesocit00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adressedunesocit00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adressedunesocit00fran.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adressedunesocit00fran.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

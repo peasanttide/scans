@@ -1,0 +1,102 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "avis00desp"
+type = "pamphlet"
+title = "Avis"
+language = "fr"
+place = "Paris?"
+date = "1765"
+note = """Prospectus for François A. de Garsault's "Explication abrégée de sept cents dix-neuf plantes, tant étrangères que de nos climats, et de cent trente quatre animaux, en sept cents trente planches," a volume of descriptive text published in 1766 to accompany Garsault's "Les figures des plantes et animaux d'usage en médecine," published in 1764 as a volume of illustrations based on Etienne-François Geoffroy's "Tractatus de materia medica.". Caption title. "Son recueil sera vendu 48 livres, depuis le premier juillet jusqu'au premier janvier 1766, après lequel temps tout l'ouvrage coutera 51 livres broché.". "Ceux qui ont jusqu'à présent acquis le recueil d'estampes trouveront l'explication, sans rien payer (chez MM. Desprez, imprimeur du roi & du clergé de France, rue Saint-Jacques, au coin de la rue des Noyers, & Desaint, libraire, rue Saint-Jean-de-Beauvais).". Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained, marked and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/avis00desp"
+subject = [
+    "Garsault, François A. de (François Alexandre), 1693-1778",
+    "Booksellers and bookselling",
+    "Medical publishing",
+    "Biology publishing",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1b no. 21"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t61608m7k"
+internet_archive = "avis00desp"
+
+[scan]
+file = "avis00desp.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/avis00desp"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Desprez, Guillaume-Nicolas,1713-1795"
+role = "author"
+
+[[resp]]
+name = "Desprez, Guillaume-Nicolas, 1713-1795"
+role = "author"
+
+[[resp]]
+name = "Garsault, François A. de (François Alexandre), 1693-1778. Explication abrégée de sept cents dix-neuf plantes, tant étrangères que de nos climats, et de cent trente quatre animaux, en sept cents trente planches"
+role = "author"
+
+[[resp]]
+name = "Garsault, François A. de (François Alexandre), 1693-1778. Figures des plantes et animaux d'usage en médecine"
+role = "author"
+
+[[resp]]
+name = "Geoffroy, Etienne-François, 1672-1731. Tractatus de materia medica. French"
+role = "author"
+
+[[resp]]
+name = "Desaint, Nicolas, 1731?-1771"
+role = "bookseller"
+
+[[resp]]
+name = "Guillaume-Nicolas Desprez? :;Nicolas Desaint?"
+role = "publisher"
+
+[[text]]
+file = "avis00desp.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avis00desp.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avis00desp.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avis00desp.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avis00desp.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avis00desp.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

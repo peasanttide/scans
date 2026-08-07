@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "abschrifteinesci00fran"
+type = "pamphlet"
+title = "Abschrift eines Circular-Briefs"
+language = "de"
+place = "s.l."
+date = "1790"
+note = "Caption title. Without imprint. Martin & Walter IV 2: 184. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover. No page numbers."
+url = "https://archive.org/details/abschrifteinesci00fran"
+extent = "[4] p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9126"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t54f6ww31"
+internet_archive = "abschrifteinesci00fran"
+openlibrary_edition = "OL26221854M"
+openlibrary_work = "OL17617354W"
+
+[scan]
+file = "abschrifteinesci00fran.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/abschrifteinesci00fran"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Armée. Régiment de Normandie et Beauce"
+role = "author"
+
+[[resp]]
+name = "France. Armée. Régiment de Normandie et Beauce"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_66373"
+
+[[text]]
+file = "abschrifteinesci00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "de"
+
+[[text]]
+file = "abschrifteinesci00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "de"
+
+[[text]]
+file = "abschrifteinesci00fran.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "de"
+
+[[text]]
+file = "abschrifteinesci00fran.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "de"

@@ -1,0 +1,40 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: arretesdudirecto00fran_1
+page: 2
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 3053
+h: 4049
+dpi: 350
+---
+
+»
+
+A E. T I
+
+CLE PREMIEK,
+
+Xes dîsposmons de l’arrêté du 25 pluviôse dernier, qui a supprimé l’étane e»
+nature pour les militaires voyageant isolément, l’a remplacée par une indemnité
+de trois sous par heue, et leur a accordé le logement en rLte, se^^rm
+
+munes aur olhciers mariniers, timonniers, matelots, novices et mousse, voya-
+géant pour le service. ^
+
+IL Les ministres de la marine et de la guerre sont chargés de l’exécution du
+
+pi esent arreté , qui sera imprimé au Bulletin des lois.
+
+Pour expédition conforme, Rsvbell ^ p/ésii/eni y par le Directoire
+
+exécutif, Le secrétaire générai , L a e jlr d. s.
+
+A PARIS ,
+
+D E L’I M P R I M E R I E D ü DEPOT DES LOIS
+place du Carrousel.
+
+Et SC trouve dans les vUlescBels-lIeuxde département, auburenudecorrespondanc»
+
+du Depot des Lois,

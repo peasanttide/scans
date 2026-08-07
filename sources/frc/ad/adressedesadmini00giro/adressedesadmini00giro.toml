@@ -1,0 +1,77 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "adressedesadmini00giro"
+type = "pamphlet"
+title = "Adresse des administrateurs du département de la Gironde a la Convention nationale : imprimée par ordre de la Convention nationale"
+language = "fr"
+place = "A Dijon"
+date = "1793"
+note = "Caption title. At head of title: Convention nationale. Signed: Les administrateurs composant le conseil-général du département de la Gironde .. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: Irregular Pagination. No copyright page found. No table-of-contents pages found. No title page found."
+url = "https://archive.org/details/adressedesadmini00giro"
+subject = [
+    "Political crimes and offenses",
+    "Central-local government relations",
+]
+extent = "4 p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9837 no. 3"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t52g2v885"
+internet_archive = "adressedesadmini00giro"
+
+[scan]
+file = "adressedesadmini00giro.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/adressedesadmini00giro"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Gironde (France). Conseil général"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Capel"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_854416"
+
+[[text]]
+file = "adressedesadmini00giro.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adressedesadmini00giro.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adressedesadmini00giro.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adressedesadmini00giro.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

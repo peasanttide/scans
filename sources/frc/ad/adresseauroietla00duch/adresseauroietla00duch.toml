@@ -1,0 +1,77 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "adresseauroietla00duch"
+type = "pamphlet"
+title = "Adresse au roi et à la nation française."
+language = "fr"
+place = "France"
+date = "1791"
+note = "Caption title. Signed: Duchesne, intendant de la maison de Madame, Paris, ce 3 septembre 1791. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  II, 11398. Scanner's note: No copyright page found. No table-of-contents pages found. Damaged, stained pages and cover. Title on cover."
+url = "https://archive.org/details/adresseauroietla00duch"
+subject = [
+    "France",
+    "Equality before the law",
+]
+extent = "4 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 17751"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t01z95j69"
+internet_archive = "adresseauroietla00duch"
+
+[scan]
+file = "adresseauroietla00duch.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/adresseauroietla00duch"
+ppi = 650
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Duchesne, Louis-Henri, 1737-1793"
+role = "author"
+
+[[resp]]
+name = "Louis XVI, King of France, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_836655"
+
+[[text]]
+file = "adresseauroietla00duch.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adresseauroietla00duch.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adresseauroietla00duch.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adresseauroietla00duch.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

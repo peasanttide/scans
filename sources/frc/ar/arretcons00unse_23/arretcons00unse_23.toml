@@ -1,0 +1,77 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arretcons00unse_23"
+type = "pamphlet"
+title = "Arrêt du Conseil d'État du roi, qui porte à quatorze sous, au lieu de douze sous, le prix de chaque livre de salpêtre brut que sera lévé dans les magasins de la Régie des poudres et salpêtres : du 14 mai 1786 : extrait des registres du Conseil d'Etat"
+language = "fr"
+place = "A Paris"
+date = "1787"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover. Text on back cover is upside-down."
+url = "https://archive.org/details/arretcons00unse_23"
+subject = [
+    "France. Régie des poudres et salpêtres",
+    "Saltpeter industry",
+]
+extent = "3 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 27422"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6062q78z"
+internet_archive = "arretcons00unse_23"
+
+[scan]
+file = "arretcons00unse_23.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arretcons00unse_23"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Conseil d'Etat"
+role = "author"
+
+[[resp]]
+name = "Nyon, Nicolas-Henri, b. 1751?"
+role = "publisher"
+
+[[resp]]
+name = "Chez N.H. Nyon, imprimeur du Parlement, rue Mignon Saint-André-des-Arcs"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_863245"
+
+[[text]]
+file = "arretcons00unse_23.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretcons00unse_23.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretcons00unse_23.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretcons00unse_23.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

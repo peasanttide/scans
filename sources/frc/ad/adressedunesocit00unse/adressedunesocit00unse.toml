@@ -1,0 +1,65 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "adressedunesocit00unse"
+type = "pamphlet"
+title = "... Adresse d'une société allemande a la Convention nationale : précédée de la lettre d'envoi du citoyen François (de Neufchâteau) ; lues à la séance du 16 novembre 1792, l'an premier de la République ; imprimées et envoyées aux 83 départemens, par ordre"
+language = "fr"
+place = "Paris"
+date = "1792"
+note = "Scanner's note: Title found on front cover. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/adressedunesocit00unse"
+extent = "4 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 244"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2q56410z"
+internet_archive = "adressedunesocit00unse"
+
+[scan]
+file = "adressedunesocit00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/adressedunesocit00unse"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_35287"
+
+[[text]]
+file = "adressedunesocit00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "adressedunesocit00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "adressedunesocit00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "adressedunesocit00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"

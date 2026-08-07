@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "abregedelhistoir00audo"
+type = "pamphlet"
+title = "Abrégé de l'histoire de la Convention"
+language = "fr"
+date = "1795"
+note = """Caption title. At head of title: Conv. natio. "Imprimé par ordre de la Convention nationale.". Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,I, 759. Scanner's note: Title found on front cover. No copyright page found. No table-of-contents pages found."""
+url = "https://archive.org/details/abregedelhistoir00audo"
+subject = [
+    "France. Convention nationale",
+    "Counterrevolutionaries",
+]
+extent = "4 p. ;20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "CaseFRC10562"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t06x2d26g"
+internet_archive = "abregedelhistoir00audo"
+
+[scan]
+file = "abregedelhistoir00audo.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/abregedelhistoir00audo"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Audouin, Pierre Jean,1764-"
+role = "author"
+
+[[resp]]
+name = "[Paris] :De l'Imprimerie nationale,"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_823801"
+
+[[text]]
+file = "abregedelhistoir00audo.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "abregedelhistoir00audo.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "abregedelhistoir00audo.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "abregedelhistoir00audo.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"

@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "auxcitoyensmembr00desr"
+type = "pamphlet"
+title = "Aux citoyens membres du Directoire exécutif de la République française, une et indivisible."
+language = "fr"
+place = "France"
+date = "1798"
+note = "Caption title. Signed: Charles Desroches-Chassay, détenu à la maison militaire d'arrêt, à l'Abbaye. Paris, 5 messidor an VI de la République française, une et indivisible. Martin & Walter. Révolution française. On the author's wrongful imprisonment due to confusion of names. Bibliography: Martin & Walter.  Révolution française,  II, 10573. Scanner's note: No copyright page found. No table-of-contents pages found. Damaged, stained cover and pages. Title on cover."
+url = "https://archive.org/details/auxcitoyensmembr00desr"
+subject = [
+    "Desroches-Chassay, Charles",
+    "False imprisonment",
+]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 17440"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1jh8h20b"
+internet_archive = "auxcitoyensmembr00desr"
+openlibrary_edition = "OL26175226M"
+openlibrary_work = "OL17572090W"
+
+[scan]
+file = "auxcitoyensmembr00desr.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/auxcitoyensmembr00desr"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Desroches-Chassay, Charles"
+role = "author"
+
+[[resp]]
+name = "France. Directoire exécutif"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_835928"
+
+[[text]]
+file = "auxcitoyensmembr00desr.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "auxcitoyensmembr00desr.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "auxcitoyensmembr00desr.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "auxcitoyensmembr00desr.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

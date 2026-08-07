@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "auxvraispatriote00moss"
+type = "pamphlet"
+title = "Aux vrais patriotes."
+language = "fr"
+place = "A Marseille"
+date = "1789"
+note = "Caption title. Signed: Auguste Mossy, commissaire du peuple. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.   Title page is on the cover. Damaged, stained, and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/auxvraispatriote00moss"
+subject = ["Mossy, Antoine-Auguste-Cécile, 1764-1819?"]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 22942"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3nw4pv1z"
+internet_archive = "auxvraispatriote00moss"
+openlibrary_edition = "OL26237263M"
+openlibrary_work = "OL17631818W"
+
+[scan]
+file = "auxvraispatriote00moss.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/auxvraispatriote00moss"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Mossy, Antoine-Auguste-Cécile, 1764-1819?"
+role = "author"
+
+[[resp]]
+name = "Mossy, Jean, d. 1792"
+role = "publisher"
+
+[[resp]]
+name = "Chez Jean Mossy, père & fils, imprimeurs-libraires"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_847499"
+
+[[text]]
+file = "auxvraispatriote00moss.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "auxvraispatriote00moss.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "auxvraispatriote00moss.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "auxvraispatriote00moss.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

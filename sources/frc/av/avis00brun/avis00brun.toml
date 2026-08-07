@@ -1,0 +1,90 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "avis00brun"
+type = "pamphlet"
+title = "Avis"
+language = "fr"
+place = "Paris?"
+date = "1775"
+note = """Prospectus for the 1775 edition of Buc'hoz's "Dictionnaire vétérinaire et des animaux domestiques". Caption title. "Les quatre premiers volumes se distribuent actuellement, & les deux derniers paroîtront dans six semaines, au plus tard.". Scanner's note: No copyright found.  No table of contents found.  Damaged, stained pages.  No page numbers. <br />."""
+url = "https://archive.org/details/avis00brun"
+subject = [
+    "Buc'hoz, Pierre-Joseph, 1731-1807",
+    "Booksellers and bookselling",
+    "Encyclopedias and dictionaries",
+    "Veterinary literature",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1a no. 19"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6451c90c"
+internet_archive = "avis00brun"
+
+[scan]
+file = "avis00brun.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/avis00brun"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "Brunet, Pierre Prudence,d. 1781"
+role = "author"
+
+[[resp]]
+name = "Brunet, Pierre Prudence, d. 1781"
+role = "author"
+
+[[resp]]
+name = "Buc'hoz, Pierre-Joseph, 1731-1807. Dictionnaire vétérinaire et des animaux domestiques"
+role = "author"
+
+[[resp]]
+name = "Brunet?"
+role = "publisher"
+
+[[text]]
+file = "avis00brun.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avis00brun.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avis00brun.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avis00brun.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avis00brun.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avis00brun.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

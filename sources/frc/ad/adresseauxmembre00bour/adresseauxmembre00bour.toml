@@ -1,0 +1,78 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "adresseauxmembre00bour"
+type = "pamphlet"
+title = "Adresse aux membres de la Convention nationale."
+language = "fr"
+place = "Paris?"
+date = "1793"
+note = """Caption title. Imprint from colophon. Signed at end: L.J. Bourdon. "Ce projet se trouve chez Maret, libraire au Palais de l'Egalité"--P. 4. Variant of Martin & Walter. Révolution française, I, 4728. Scanner's note: No copyright page found. No table-of-contents pages found. Title page located on front cover. Damaged, worn pages. Skewed text."""
+url = "https://archive.org/details/adresseauxmembre00bour"
+subject = ["Food supply"]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 15170"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8gf5pd49"
+internet_archive = "adresseauxmembre00bour"
+
+[scan]
+file = "adresseauxmembre00bour.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/adresseauxmembre00bour"
+ppi = 500
+note = "Scanned on scribe7.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Bourdon des Planches, Louis Joseph"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie de Pain"
+role = "publisher"
+
+[[resp]]
+name = "De l'imprimerie de Pain, passage Honoré"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_831523"
+
+[[text]]
+file = "adresseauxmembre00bour.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adresseauxmembre00bour.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adresseauxmembre00bour.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adresseauxmembre00bour.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

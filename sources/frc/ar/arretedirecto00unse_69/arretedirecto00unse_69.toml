@@ -1,0 +1,74 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arretedirecto00unse_69"
+type = "pamphlet"
+title = "Arrêté du Directoire exécutif, en interprétation de celui du premier nivose, concernant la remise aux receveurs des droits d'enregistrement, d'un extrait des jugemens portant peine d'amende et de confiscation : du 16 nivose, an V de la Republique francaise, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1797"
+note = """Caption title. At head of title: No. 389. "Pour expédition conforme. Signé P. Barras, président; par le Directoire exécutif, pour le secrétaire général L.M. Réveillère-Lépeaux"--P. 2. Imprint from colophon. "No. 2, 3, 9"--Bottom of p. [1]. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages."""
+url = "https://archive.org/details/arretedirecto00unse_69"
+subject = [
+    "Judgments",
+    "Appellate procedure",
+    "Criminal justice, Administration of",
+]
+extent = "2 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10328 no. 73"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4bp56q34"
+internet_archive = "arretedirecto00unse_69"
+
+[scan]
+file = "arretedirecto00unse_69.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/arretedirecto00unse_69"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Directoire exécutif"
+role = "author"
+
+[[resp]]
+name = "Barras, Paul, vicomte de, 1755-1829"
+role = "author"
+
+[[resp]]
+name = "La Revellière-Lépeaux, Louis-Marie de, 1753-1824"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois, place du Carrousel : Et se trouve dans les villes chefs-lieux de départemens, au bureau de correspondance du Dépôt des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_856280"
+
+[[text]]
+file = "arretedirecto00unse_69.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretedirecto00unse_69.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

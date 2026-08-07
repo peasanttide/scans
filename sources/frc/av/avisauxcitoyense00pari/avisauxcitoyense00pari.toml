@@ -1,0 +1,88 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "avisauxcitoyense00pari"
+type = "pamphlet"
+title = "... Avis aux citoyens et citoyennes : extrait des registres /"
+language = "fr"
+place = "Paris"
+date = "1793"
+note = "Caption title. Imprint from colophon. At head of title: Section de la Butte des Moulins. Proposal to initiate a subscription in support of French soldiers. Bookplate laid in: Des archives de Michel Adanson naturaliste français collaborateur de l'Encyclopédie membre de l'Academie des scienes membre de l'Institut 1727-1806. Copious contemporary ms. notes (by Adanson?). Martin & Walter IV 2: 12698. Scanner's note: Title page located on front cover. No copyright page found. No table-of-contents pages found. Worn, damaged and discolored pages and cover. Skewed text. Uneven binding."
+url = "https://archive.org/details/avisauxcitoyense00pari"
+subject = ["Soldiers"]
+extent = "4 p. ; 17 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 6570"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4qk2hb92"
+internet_archive = "avisauxcitoyense00pari"
+openlibrary_edition = "OL26217603M"
+openlibrary_work = "OL17613328W"
+
+[scan]
+file = "avisauxcitoyense00pari.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/avisauxcitoyense00pari"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Paris (France). Section de la Butte-des-Moulins"
+role = "author"
+
+[[resp]]
+name = "Adanson, Michel, 1727-1806"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Laurens aîné et Comminges"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_58732"
+
+[[text]]
+file = "avisauxcitoyense00pari.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avisauxcitoyense00pari.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avisauxcitoyense00pari.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avisauxcitoyense00pari.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avisauxcitoyense00pari.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avisauxcitoyense00pari.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

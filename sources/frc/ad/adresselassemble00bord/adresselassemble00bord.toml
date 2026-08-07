@@ -1,0 +1,93 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "adresselassemble00bord"
+type = "pamphlet"
+title = "Adresse a l'Assemblée nationale : imprimée par ordre de l'Assemblée nationale."
+language = "fr"
+place = "A Paris"
+date = "1790"
+note = "Scanner's note: Title and cover combined, no physical cover.  No table-of-contents pages found. No copyright page found. Stained pages and some skewed text."
+url = "https://archive.org/details/adresselassemble00bord"
+extent = "8 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 117"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t13n5p19h"
+internet_archive = "adresselassemble00bord"
+
+[scan]
+file = "adresselassemble00bord.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/adresselassemble00bord"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Bordeaux (Aquitaine, France)"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_36907"
+
+[[text]]
+file = "adresselassemble00bord.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "adresselassemble00bord.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "adresselassemble00bord.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "adresselassemble00bord.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "adresselassemble00bord.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "adresselassemble00bord.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "adresselassemble00bord.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "adresselassemble00bord.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"

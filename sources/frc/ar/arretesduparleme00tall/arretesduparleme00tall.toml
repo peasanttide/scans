@@ -1,0 +1,81 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arretesduparleme00tall"
+type = "pamphlet"
+title = "Arrêtés du Parlement de Franche-Comté, des 4 & 9 janvier 1788."
+language = "fr"
+place = "France"
+date = "1788"
+note = "Caption title. Not in Martin & Walter. Révolution française. Forms part of the French Revolution Collection at the Newberry Library. Scanner's note: Title is on the cover. Uneven binding. Skewed text. Damaged, stained and/or loose pages."
+url = "https://archive.org/details/arretesduparleme00tall"
+subject = [
+    "France. Parlement (Bordeaux)",
+    "Courts",
+]
+extent = "4 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 26297"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t17m5ms60"
+internet_archive = "arretesduparleme00tall"
+
+[scan]
+file = "arretesduparleme00tall.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arretesduparleme00tall"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Tallien, Jean-Lambert, 1767-2580"
+role = "author"
+
+[[resp]]
+name = "France. Parlement (Besançon)"
+role = "author"
+
+[[resp]]
+name = "French Revolution Collection (Newberry Library) ICN"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_48667"
+
+[[text]]
+file = "arretesduparleme00tall.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretesduparleme00tall.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretesduparleme00tall.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretesduparleme00tall.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

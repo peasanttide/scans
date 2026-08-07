@@ -1,0 +1,71 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "adresseauxcitoye00caen"
+type = "pamphlet"
+title = "Adresse aux citoyens de Caen, assemblés en sections permanentes"
+language = "fr"
+place = "s.l."
+date = "1790"
+note = "Caption title. Without imprint. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found. Title page is on the cover. Damaged, stained, and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/adresseauxcitoye00caen"
+extent = "3 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC suppl. 30"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3zs8005p"
+internet_archive = "adresseauxcitoye00caen"
+openlibrary_edition = "OL26237900M"
+openlibrary_work = "OL17632451W"
+
+[scan]
+file = "adresseauxcitoye00caen.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/adresseauxcitoye00caen"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Caen (France). Citizens"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_73410"
+
+[[text]]
+file = "adresseauxcitoye00caen.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adresseauxcitoye00caen.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adresseauxcitoye00caen.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adresseauxcitoye00caen.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

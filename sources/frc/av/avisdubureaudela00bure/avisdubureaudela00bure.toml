@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "avisdubureaudela00bure"
+type = "pamphlet"
+title = "Avis du Bureau de l'abonnement littéraire"
+language = "fr"
+place = "Paris"
+date = "1789"
+note = """Caption title. Imprint from colophon. "Ce Bureau est actuellement rue de Condé, no. 8, depuis le 3 octobre 1788"--P. [1]. Lists several works published in 1789 and one to be published at the end of October 1789. Tail-piece. BN. Catalogues de libraires. Includes listings for several works by Bureau director Pierre Joseph François Luneau de Boisjermain. With prices. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Text extends off of the edge of the page. Text may be lost in the binding. Permanent creases may obscure some text. Title page and cover are combined."""
+url = "https://archive.org/details/avisdubureaudela00bure"
+subject = [
+    "Luneau de Boisjermain, Pierre Joseph François, 1732-1801",
+    "Bureau de l'abonnement littéraire",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 8 no. 8"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1gj55v5h"
+internet_archive = "avisdubureaudela00bure"
+
+[scan]
+file = "avisdubureaudela00bure.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/avisdubureaudela00bure"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Bureau de l'abonnement littéraire"
+role = "author"
+
+[[resp]]
+name = "Delaguette, Catherine, active 1788-1812"
+role = "printer"
+
+[[resp]]
+name = "De l'imprimerie de la veuve Delaguette, rue de la Vieille-Draperie"
+role = "publisher"
+
+[[text]]
+file = "avisdubureaudela00bure.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avisdubureaudela00bure.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avisdubureaudela00bure.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avisdubureaudela00bure.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

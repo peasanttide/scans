@@ -1,0 +1,69 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "adresse1790bord"
+type = "pamphlet"
+title = "Adresse"
+language = "fr"
+place = "s.l."
+date = "1790"
+note = "Scanner's note: Title and cover combined, no physical cover. Stained pages with smudged and faded print. Print is close to the binding and skewed on some pages.  No copyright page found."
+url = "https://archive.org/details/adresse1790bord"
+extent = "3 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 256"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9s21gw5b"
+internet_archive = "adresse1790bord"
+
+[scan]
+file = "adresse1790bord.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/adresse1790bord"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Bordeaux (Aquitaine, France). Garde nationale"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_35409"
+
+[[text]]
+file = "adresse1790bord.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "adresse1790bord.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "adresse1790bord.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "adresse1790bord.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"

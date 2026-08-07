@@ -1,0 +1,65 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "adressedesouvrie00unse"
+type = "pamphlet"
+title = "Adresse des ouvriers de plusieurs ateliers de Paris : présentée à la Convention nationale, dans la séance du 30 ventôse, l'an troisième de la République française, une et indivisible [20 mars 1795] ; imprimée par ordre de la Convention nationale."
+language = "fr"
+place = "Paris"
+date = "1795"
+note = "Scanner's note: Title found on front cover. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/adressedesouvrie00unse"
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 364"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0xq0hg6s"
+internet_archive = "adressedesouvrie00unse"
+
+[scan]
+file = "adressedesouvrie00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/adressedesouvrie00unse"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_36360"
+
+[[text]]
+file = "adressedesouvrie00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "adressedesouvrie00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "adressedesouvrie00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "adressedesouvrie00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"

@@ -1,0 +1,77 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arrestduconseil00unse_2"
+type = "pamphlet"
+title = "Arrest du Conseil d'État du roi, qui ordonne que Pierre Henriet, adjudicataire des fermes générales unies, jouira des droits de lods & ventes, dépendans du domaine de Rochefort, en payant cinquante mille livres aux cautions de Nicolas Godde, ci-devant sous-fermier des domaines de la généralité de La Rochelle, de laquelle somme de cinquante mille livres ledit Henriet sera remboursé par le fermier qui lui succédera, ou par le roi : du 23 août 1757 : extrait des registres du Conseil d'État"
+language = "fr"
+place = "Paris"
+date = "1757"
+note = """
+Caption title. Newberry's copy imperfect: Lacking all after p. 2. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover. 
+Back cover is upside down. Only one numbered page."""
+url = "https://archive.org/details/arrestduconseil00unse_2"
+subject = [
+    "Godde, Nicolas",
+    "Henriet, Pierre",
+    "Vendors and purchasers",
+    "Feudal law",
+]
+extent = "2 + p. ; 28 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC suppl. 87 no. 4"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9z08bj85"
+internet_archive = "arrestduconseil00unse_2"
+
+[scan]
+file = "arrestduconseil00unse_2.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arrestduconseil00unse_2"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Conseil d'Etat"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_863116"
+
+[[text]]
+file = "arrestduconseil00unse_2.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestduconseil00unse_2.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestduconseil00unse_2.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestduconseil00unse_2.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

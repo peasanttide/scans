@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "affairesetran00unse_0"
+type = "pamphlet"
+title = "Affaires étrangères : etat des traitemens annuels des premiers commis & autres employés des bureaux des Affaires étrangères en 1789."
+language = "fr"
+place = "Paris?"
+date = "1790"
+note = """
+Caption title. By Charles-François Lebrun. Cf. Martin & Walter. Published in Paris by Baudouin. Cf. Martin & Walter. "Séance du 6 février 1790."--Martin & Walter. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  III, 20049. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover.
+No page numbers."""
+url = "https://archive.org/details/affairesetran00unse_0"
+subject = ["Diplomatic and consular service, French"]
+extent = "3 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 20933"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9964sr8w"
+internet_archive = "affairesetran00unse_0"
+
+[scan]
+file = "affairesetran00unse_0.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/affairesetran00unse_0"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Lebrun, Charles-François, duc de Plaisance, 1739-1824"
+role = "author"
+
+[[resp]]
+name = "Baudouin, François-Jean, 1759-1838"
+role = "publisher"
+
+[[resp]]
+name = "Boudouin?"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_844028"
+
+[[text]]
+file = "affairesetran00unse_0.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "affairesetran00unse_0.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "affairesetran00unse_0.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "affairesetran00unse_0.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

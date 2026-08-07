@@ -1,0 +1,82 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arretedirecto00unse_48"
+type = "pamphlet"
+title = "Arrêté du Directoire exécutif, qui ordonne la suppression de l'Armée des Côtes-de l'Océan et de celle de l'interieur : du 8 fructidor, an quatrième de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1796"
+note = """Caption title. At head of title: No. 272. At right of title: B. 71. No. 650. "Pour expédition conforme, signé L.M. Réveillère-Lépeaux, président; par le Directoire exécutif, le secrétaire général, Lagarde"--P. 3. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."""
+url = "https://archive.org/details/arretedirecto00unse_48"
+subject = ["France. Armée"]
+extent = "3 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10328 no. 51"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8cg4v31x"
+internet_archive = "arretedirecto00unse_48"
+
+[scan]
+file = "arretedirecto00unse_48.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arretedirecto00unse_48"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Directoire exécutif"
+role = "author"
+
+[[resp]]
+name = "La Revellière-Lépeaux, Louis-Marie de, 1753-1824"
+role = "author"
+
+[[resp]]
+name = "Lagarde, Joseph-Jean, baron, 1755-1840"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Depot des lois, place du Carrousel"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_856258"
+
+[[text]]
+file = "arretedirecto00unse_48.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretedirecto00unse_48.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretedirecto00unse_48.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretedirecto00unse_48.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

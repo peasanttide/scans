@@ -1,0 +1,70 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arret00fran_21"
+type = "pamphlet"
+title = "Arr^et"
+language = "fr"
+place = "A Versailles"
+date = "1788"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter (quarto edition). Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages."
+url = "https://archive.org/details/arret00fran_21"
+subject = ["France. Parlement (Paris)"]
+extent = "3 p. ; 25 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9285"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2f81g63f"
+internet_archive = "arret00fran_21"
+
+[scan]
+file = "arret00fran_21.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arret00fran_21"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Conseil d'Etat"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Ph.-D. Pierres"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_67000"
+
+[[text]]
+file = "arret00fran_21.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arret00fran_21.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arret00fran_21.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arret00fran_21.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

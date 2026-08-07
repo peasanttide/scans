@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arrestduconseil00unse_11"
+type = "pamphlet"
+title = "Arrest du Conseil d'État du roi, concernant l'alignement de la traverse de la ville de Beauvais : du 3 février 1764 : extrait des registres du Conseil d'État"
+language = "fr"
+place = "Paris"
+date = "1764"
+note = """
+Caption title. Newberry's copy imperfect: Lacking all after p. 2. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover. 
+Back cover is upside down.  Only one numbered page."""
+url = "https://archive.org/details/arrestduconseil00unse_11"
+subject = ["Buildings"]
+extent = "2 + p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC suppl. 87 no. 13"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8qc57f0x"
+internet_archive = "arrestduconseil00unse_11"
+
+[scan]
+file = "arrestduconseil00unse_11.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arrestduconseil00unse_11"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Conseil d'Etat"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_863125"
+
+[[text]]
+file = "arrestduconseil00unse_11.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestduconseil00unse_11.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestduconseil00unse_11.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestduconseil00unse_11.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,69 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arrestduconse00fran_12"
+type = "pamphlet"
+title = "Arrest du Conseil d'estat du roy, portant reglement entre les marchands libraires & imprimeurs"
+language = "fr"
+place = "A Aix"
+date = "1735"
+note = "Caption title. Imprint at foot of last page. Numbers for p. 1 and 4 interchanged. Indorsed at Aix, 17 October 1735."
+url = "https://archive.org/details/arrestduconse00fran_12"
+subject = ["Printing industry"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 5 no. 45"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3jx40c0b"
+internet_archive = "arrestduconse00fran_12"
+
+[scan]
+file = "arrestduconse00fran_12.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arrestduconse00fran_12"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Conseil d'Etat"
+role = "author"
+
+[[resp]]
+name = "France. Conseil d'Etat"
+role = "author"
+
+[[resp]]
+name = "Chez Joseph David"
+role = "publisher"
+
+[[text]]
+file = "arrestduconse00fran_12.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestduconse00fran_12.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestduconse00fran_12.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestduconse00fran_12.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

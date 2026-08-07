@@ -1,0 +1,78 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arreteduconseilg00cote"
+type = "pamphlet"
+title = "Arrêté du conseil général du département de la Côte-d'Or, a lui joints les députés des sept conseils généraux de district de son ressort, relatif au paiement d'un à-compte sur l'emprunt forcé décrété par la Convention nationale : du 30 mai 1793, l'an second de la République française"
+language = "fr"
+place = "A Dijon"
+date = "1793"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. No title page found."
+url = "https://archive.org/details/arreteduconseilg00cote"
+subject = [
+    "Forced loans",
+    "Tax administration and procedure",
+    "Finance, Public",
+]
+extent = "3 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9700 no. 20"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8rc25p1w"
+internet_archive = "arreteduconseilg00cote"
+
+[scan]
+file = "arreteduconseilg00cote.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arreteduconseilg00cote"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Côte-d'Or (France). Conseil général"
+role = "author"
+
+[[resp]]
+name = "Causse, P. (Pierre)"
+role = "publisher"
+
+[[resp]]
+name = "Chez P. Causse, imprimeur du département"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_857082"
+
+[[text]]
+file = "arreteduconseilg00cote.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arreteduconseilg00cote.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arreteduconseilg00cote.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arreteduconseilg00cote.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,69 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "adhsiondesgentil00comm"
+type = "pamphlet"
+title = "Adhésion des gentilshommes du pays de Comminges : aux supplications que la noblesse de Toulouse a adressées au Roi, le 10 juillet dernier."
+language = "fr"
+place = "s.l."
+date = "1788"
+note = "Scanner's note: Title found on front cover. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/adhsiondesgentil00comm"
+extent = "[3] p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 95"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9283v37v"
+internet_archive = "adhsiondesgentil00comm"
+
+[scan]
+file = "adhsiondesgentil00comm.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/adhsiondesgentil00comm"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Comminges (France : County)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_36491"
+
+[[text]]
+file = "adhsiondesgentil00comm.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "adhsiondesgentil00comm.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "adhsiondesgentil00comm.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "adhsiondesgentil00comm.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"

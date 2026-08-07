@@ -1,0 +1,74 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arretedirecto00unse_33"
+type = "pamphlet"
+title = "Arrêté du Directoire exécutif, portant que l'indemnité accordée par la loi du 2 de ce mois aux fonctionnaires et employés dans l'état civil, ne sera allouée qu'à ceux qui étaient en fonctions le premier germinal, et qui y sont encore : du 14 messidor, an IV de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1796"
+note = """
+Caption title. At head of title: No. 214. At right of title: B. 56. No. 504. "Pour expédition conforme, signé Carnot, président; par le Directoire exécutif, le secrétaire général, Lagarde"--P. [1]. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover. 
+No page numbers."""
+url = "https://archive.org/details/arretedirecto00unse_33"
+subject = ["Indemnity"]
+extent = "[1] p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10328 no. 36"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t51g5tj85"
+internet_archive = "arretedirecto00unse_33"
+openlibrary_edition = "OL26225179M"
+openlibrary_work = "OL17620504W"
+
+[scan]
+file = "arretedirecto00unse_33.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/arretedirecto00unse_33"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Directoire exécutif"
+role = "author"
+
+[[resp]]
+name = "Lagarde, Joseph-Jean, baron, 1755-1840"
+role = "author"
+
+[[resp]]
+name = "Carnot, Lazare, 1753-1823"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_856243"
+
+[[text]]
+file = "arretedirecto00unse_33.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretedirecto00unse_33.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

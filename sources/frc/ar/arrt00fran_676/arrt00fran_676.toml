@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arrt00fran_676"
+type = "pamphlet"
+title = "Arrêt /"
+language = "fr"
+place = "A Aix"
+date = "1790"
+note = "Caption title. Imprint from colophon. Opening words: Vu par la cour de Parlement de ce pays de Provence .. Martin & Walter IV 2: 15588, pt.2. Scanner's note: No title page found. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/arrt00fran_676"
+subject = [
+    "Albertas, d', père",
+    "Martel, Anicet",
+]
+extent = "4 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 7689"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8bg7rp52"
+internet_archive = "arrt00fran_676"
+openlibrary_edition = "OL26217252M"
+openlibrary_work = "OL17613064W"
+
+[scan]
+file = "arrt00fran_676.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arrt00fran_676"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Parlement (Aix-en-Provence)"
+role = "author"
+
+[[resp]]
+name = "Chez Pierre-Joseph Calmen"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_62836"
+
+[[text]]
+file = "arrt00fran_676.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrt00fran_676.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrt00fran_676.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrt00fran_676.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

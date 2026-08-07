@@ -1,0 +1,64 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arrestdelacourde00unse"
+type = "pamphlet"
+title = "Arrest de la cour de Parlement"
+language = "fr"
+place = "A Paris"
+date = "1665"
+note = "Pages 2-4 misnumbered 3-5. Heraldic device on t.p. Last 2 pages numbered 4 and 5, respectively. Directed specifically against the unauthorized publication in Paris of the papal bull on the five propositions extracted from Jansenius' Augustinus. Scanner's note: No copyright page found. No table-of-contents pages found.  Starts with page number 2.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Title page and cover are combined."
+url = "https://archive.org/details/arrestdelacourde00unse"
+subject = [
+    "Bulls, Papal",
+    "Printing",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 2 no. 18"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4bp5pt95"
+internet_archive = "arrestdelacourde00unse"
+
+[scan]
+file = "arrestdelacourde00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arrestdelacourde00unse"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Par les imprimeurs & libraries ordinaires du roy."
+role = "publisher"
+
+[[text]]
+file = "arrestdelacourde00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacourde00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacourde00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacourde00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

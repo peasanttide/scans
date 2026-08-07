@@ -1,0 +1,81 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arrestdelacourdu00fran_2"
+type = "pamphlet"
+title = "Arrest de la Cour du Parlement, qui condamne Michel Gallet, charretier de vuidangeur, à être attaché au carcan à l'entrée du village de Vaugirard, à la marque & aux galeres pendat trois ans, pour avoir été rebelle avec insultes, voies de fait & violences envers la garde de Paris : extrait des registres du Parlement : du vingt-sept octobre mil sept cent soixante-quinze"
+language = "fr"
+place = "A Paris"
+date = "1775"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained and/or loose pages. Skewed text. Text on the back cover is upside-down."
+url = "https://archive.org/details/arrestdelacourdu00fran_2"
+subject = [
+    "Gallet, Michel",
+    "Sedition",
+    "Stocks (Punishment)",
+    "Branding (Punishment)",
+]
+extent = "3 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC suppl. 93 no. 6"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3sv2st5t"
+internet_archive = "arrestdelacourdu00fran_2"
+openlibrary_edition = "OL26235251M"
+openlibrary_work = "OL17629836W"
+
+[scan]
+file = "arrestdelacourdu00fran_2.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arrestdelacourdu00fran_2"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Parlement (Paris)"
+role = "author"
+
+[[resp]]
+name = "Simon, P. G. (Pierre-Guillaume), 1722-1787"
+role = "publisher"
+
+[[resp]]
+name = "Chez P.G. Simon, imprimeur du Parlement, rue Mignon Saint André-des-Arcs"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_861605"
+
+[[text]]
+file = "arrestdelacourdu00fran_2.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacourdu00fran_2.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacourdu00fran_2.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacourdu00fran_2.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

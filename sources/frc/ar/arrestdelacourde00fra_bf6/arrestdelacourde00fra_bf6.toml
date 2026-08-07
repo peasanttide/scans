@@ -1,0 +1,84 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arrestdelacourde00fra_bf6"
+type = "pamphlet"
+title = "Arrest de la Cour de Parlement"
+language = "fr"
+place = "A Paris"
+date = "1719"
+note = """"Extrait des registres de Parlement"--p. 3. Signed at end: Gilbert. Title of second work suppressed: Avis aux curez du diocese de Soissons, donnez par Monseigneur l'evêque au petit synode du 30 mars 1719 (p. 3). Titles of suppressed letters: Lettre pastorale de Monseigneur J. Joseph Languet, evêque de Soissons, aux ecclesiastiques de son diocese and Lettre de Monseigneur l'evêque de Soissons à l'evêque d'Angoulême [Cyprien Gabriel Bernard de Rezay], au sujet de l'appel de ce prélat et du Mandement qu'il a publié à Angoulême au mois de decembre 1718."""
+url = "https://archive.org/details/arrestdelacourde00fra_bf6"
+subject = [
+    "Catholic Church. Diocese of Soissons (France). Bishop (1715-1730 : Languet)",
+    "Catholic Church. Pope (1700-1721 : Clement XI)",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 4 no. 20"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5t78192g"
+internet_archive = "arrestdelacourde00fra_bf6"
+
+[scan]
+file = "arrestdelacourde00fra_bf6.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arrestdelacourde00fra_bf6"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Parlement (Paris)"
+role = "author"
+
+[[resp]]
+name = "France. Parlement (Paris)"
+role = "author"
+
+[[resp]]
+name = "Muguet, François, 1630?-1702, Veuve de"
+role = "printer"
+
+[[resp]]
+name = "Delatour, Louis-Denis, 1666-1734"
+role = "printer"
+
+[[resp]]
+name = "Catholic Church. Diocese of Soissons (France). Bishop (1715-1730 : Languet)"
+role = "author"
+
+[[resp]]
+name = "Chez la veuve de François Muguet ... & Louis Denis de La Tour ..."
+role = "publisher"
+
+[[text]]
+file = "arrestdelacourde00fra_bf6.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacourde00fra_bf6.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacourde00fra_bf6.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacourde00fra_bf6.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

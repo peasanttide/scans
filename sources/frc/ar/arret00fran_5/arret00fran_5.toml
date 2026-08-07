@@ -1,0 +1,73 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arret00fran_5"
+type = "pamphlet"
+title = "Arret /"
+language = "fr"
+place = "s.l."
+date = "1787"
+note = """Caption title. Without imprint. "Arreté du Parlement de Bordeaux. Du 25 juillet 1787": p.[3]. "Lettre au roi": p.[4] From the Parlement de Bordeaux, dated at end: A Bordeaux le 27 juillet 1787. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on cover page. Damaged, stained and/or loose pages. Uneven binding. Skewed text. No page numbers."""
+url = "https://archive.org/details/arret00fran_5"
+extent = "[4] p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 6335"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5m959n3f"
+internet_archive = "arret00fran_5"
+
+[scan]
+file = "arret00fran_5.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arret00fran_5"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Parlement (Bordeaux)"
+role = "author"
+
+[[resp]]
+name = "France. Sovereign (1774-1792 : Louis XVI)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_57654"
+
+[[text]]
+file = "arret00fran_5.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arret00fran_5.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arret00fran_5.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arret00fran_5.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

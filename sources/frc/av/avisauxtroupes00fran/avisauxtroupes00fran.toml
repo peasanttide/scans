@@ -1,0 +1,69 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "avisauxtroupes00fran"
+type = "pamphlet"
+title = "Avis aux troupes."
+language = "fr"
+place = "s.l."
+date = "1790"
+note = "Caption title. Without imprint. Martin & Walter IV 2: 2563. Scanner's note: No copyright. No table of contents. Title on cover. Damaged, stained pages and cover. <br /><br />."
+url = "https://archive.org/details/avisauxtroupes00fran"
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 1315"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t84j5j68t"
+internet_archive = "avisauxtroupes00fran"
+
+[scan]
+file = "avisauxtroupes00fran.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/avisauxtroupes00fran"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "France. Armée"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_42378"
+
+[[text]]
+file = "avisauxtroupes00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avisauxtroupes00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avisauxtroupes00fran.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avisauxtroupes00fran.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,77 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "adressedudirecto00rhon"
+type = "pamphlet"
+title = "Adresse du directoire du département de Rhône et Loire, a ses concitoyens, relativement à la déclaration de guerre contre le roi de Hongrie & de Bohême"
+language = "fr"
+place = "A Lyon"
+date = "1792"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."
+url = "https://archive.org/details/adressedudirecto00rhon"
+subject = [
+    "War, Declaration of",
+    "First Coalition, War of the, 1792-1797",
+]
+extent = "3 p. ; 24 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10244 no. 37"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6h184p5h"
+internet_archive = "adressedudirecto00rhon"
+
+[scan]
+file = "adressedudirecto00rhon.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/adressedudirecto00rhon"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Rhône-et-Loire (France). Directoire"
+role = "author"
+
+[[resp]]
+name = "Vatar-Delaroche, Aimé"
+role = "publisher"
+
+[[resp]]
+name = "De l'imprimerie d'Aimé Vatar-Delaroche, imprimeur du département de Rhône & Loire"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_857480"
+
+[[text]]
+file = "adressedudirecto00rhon.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adressedudirecto00rhon.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adressedudirecto00rhon.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adressedudirecto00rhon.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

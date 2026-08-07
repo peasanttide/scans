@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "auxdameslyonnois00patr"
+type = "pamphlet"
+title = "Aux dames lyonnoises /"
+language = "fr"
+place = "s.l."
+date = "1790"
+note = """Caption title. Without imprint. "Deux choses bien faciles peuvent produire un bien immense: la renonciation aux ouvrages de manufactures étrangers, & la conversion en écus de tout l'argent ouvragé": p.2. Not in Martin & Walter. Scanner's note: Title page and cover are combined. Skewed text. Uneven binding. Damaged, stained, and/or loose pages. No title page found. No copyright page found. No table-of-contents pages found."""
+url = "https://archive.org/details/auxdameslyonnois00patr"
+subject = [
+    "Women in politics",
+    "Trade regulation",
+]
+extent = "4 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 1170"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1jh8kt8w"
+internet_archive = "auxdameslyonnois00patr"
+openlibrary_edition = "OL26208114M"
+openlibrary_work = "OL17604397W"
+
+[scan]
+file = "auxdameslyonnois00patr.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/auxdameslyonnois00patr"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Patriote françois"
+role = "author"
+
+[[resp]]
+name = "Patriote françois"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_40680"
+
+[[text]]
+file = "auxdameslyonnois00patr.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "auxdameslyonnois00patr.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "auxdameslyonnois00patr.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "auxdameslyonnois00patr.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

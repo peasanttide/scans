@@ -1,0 +1,74 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arrestdelacour00fran_1"
+type = "pamphlet"
+title = "Arrest de la Cour, rendu sur les remontrance & conclusions de Monsieur le procureur general du roy, qui condamne un libelle, intitulé, Reflexions pour les evêques de France :"
+language = "fr"
+place = "A Rennes"
+date = "1733"
+note = '"Fait en Parlement à Rennes le 28. mars 1733"--P. 8. Caption title. Imprint at foot of p. 3.'
+url = "https://archive.org/details/arrestdelacour00fran_1"
+subject = [
+    "Réflexions pour les évêques de France",
+    "Church and state",
+    "Jansenists",
+    "Censorship",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 5 no. 31"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8vb3rs36"
+internet_archive = "arrestdelacour00fran_1"
+
+[scan]
+file = "arrestdelacour00fran_1.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arrestdelacour00fran_1"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Parlement (Brittany)"
+role = "author"
+
+[[resp]]
+name = "France. Parlement (Brittany)"
+role = "author"
+
+[[resp]]
+name = "Chez Guillaume Vatar ..."
+role = "publisher"
+
+[[text]]
+file = "arrestdelacour00fran_1.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacour00fran_1.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacour00fran_1.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacour00fran_1.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

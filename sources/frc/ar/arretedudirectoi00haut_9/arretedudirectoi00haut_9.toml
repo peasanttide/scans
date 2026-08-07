@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arretedudirectoi00haut_9"
+type = "pamphlet"
+title = "Arrêté du directoire du département de Haute-Garonne, concernant la circulation des assignats : du 27 janvier 1792"
+language = "fr"
+place = "A Toulouse"
+date = "1792"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages."
+url = "https://archive.org/details/arretedudirectoi00haut_9"
+subject = [
+    "Assignats",
+    "Monetary policy",
+]
+extent = "3 p. ; 25 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9835 no. 20"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7jq63g73"
+internet_archive = "arretedudirectoi00haut_9"
+openlibrary_edition = "OL26223862M"
+openlibrary_work = "OL17619317W"
+
+[scan]
+file = "arretedudirectoi00haut_9.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arretedudirectoi00haut_9"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Haute-Garonne (France). Directoire"
+role = "author"
+
+[[resp]]
+name = "Besian, Jean-Gabriel"
+role = "publisher"
+
+[[resp]]
+name = "De l'imprimerie de J.G. Besian, seul imprimeur du département de Haute-Garonne, rue Boulbonne, no. 630"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_854397"
+
+[[text]]
+file = "arretedudirectoi00haut_9.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretedudirectoi00haut_9.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretedudirectoi00haut_9.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretedudirectoi00haut_9.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

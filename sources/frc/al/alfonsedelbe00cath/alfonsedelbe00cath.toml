@@ -1,0 +1,73 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "alfonsedelbe00cath"
+type = "pamphlet"
+title = "Alfonse del'Bene"
+language = "fr"
+date = "1658"
+note = "Title from opening words of text. Condemns A. Pirot's Apologie pour les casuistes. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Title page and cover are combined."
+url = "https://archive.org/details/alfonsedelbe00cath"
+subject = [
+    "Pirot, Georges, 1599-1659",
+    "Catholic Church",
+    "Jansenists",
+    "Censorship",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v.1 no. 70"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4mm1xx3s"
+internet_archive = "alfonsedelbe00cath"
+
+[scan]
+file = "alfonsedelbe00cath.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/alfonsedelbe00cath"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Catholic Church.Diocese of Orléans (France).Bishop (A. del Bene)"
+role = "author"
+
+[[resp]]
+name = "Catholic Church. Diocese of Orléans (France). Bishop (A. del Bene)"
+role = "author"
+
+[[resp]]
+name = "[Orleans"
+role = "publisher"
+
+[[text]]
+file = "alfonsedelbe00cath.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "alfonsedelbe00cath.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "alfonsedelbe00cath.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "alfonsedelbe00cath.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

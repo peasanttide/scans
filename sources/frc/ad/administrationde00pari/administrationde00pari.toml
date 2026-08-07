@@ -1,0 +1,74 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "administrationde00pari"
+type = "pamphlet"
+title = "Administration des biens nationaux du départment de Paris : Bureau d'agence générale"
+language = "fr"
+place = "France"
+date = "1791"
+note = """Caption title. Dated, p. [2]: Le 10 janvier 1791. Not in Martin & Walter. Révolution française. "Article VIII du décret du 18 juin 1790, sanctionné le 23 du même mois"--P. [2]-[3]. "Décret du 13 novembre 1789, sanctionné le 18 dudit mois"--P. [3]. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages."""
+url = "https://archive.org/details/administrationde00pari"
+subject = ["Eminent domain"]
+extent = "[3] p. ; 25 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10081 no. 1"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8dg1vp9k"
+internet_archive = "administrationde00pari"
+
+[scan]
+file = "administrationde00pari.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/administrationde00pari"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Paris (France : Dept.). Bureau d'agence générale"
+role = "author"
+
+[[resp]]
+name = "Commune de Paris (France : 1789-1794)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_70948"
+
+[[text]]
+file = "administrationde00pari.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "administrationde00pari.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "administrationde00pari.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "administrationde00pari.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,82 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "amletroy00unse"
+type = "pamphlet"
+title = "A M. Leroy, ancien maire de Lisieux, député à l'Assemblée nationale."
+language = "fr"
+place = "Paris"
+date = "1792"
+note = """
+Caption title. At head of title: Moyaux, premier juin 1792, l'an 4e. de la liberté. Imprint from colophon. Martin & Walter. Révolution française. A warning from the Jacobins to Leroy and his response concerning Leroy's vote in favour of Bertrand de Moleville and the Feuillants. Bibliography: Martin & Walter.  Révolution française,  III, 21162. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover.
+Only one numbered page."""
+url = "https://archive.org/details/amletroy00unse"
+subject = [
+    "Bertrand de Moleville, Antoine-François, marquis de, 1744-1818",
+    "Le Roy, François-Pierre, 1753-1836",
+    "Club des Feuillants",
+    "Club des Jacobins",
+    "France. Assemblée nationale constituante (1789-1791)",
+]
+extent = "3 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 21269"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5k98fd5r"
+internet_archive = "amletroy00unse"
+
+[scan]
+file = "amletroy00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/amletroy00unse"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Le Roy, François-Pierre, 1753-1836"
+role = "author"
+
+[[resp]]
+name = "Club des Jacobins"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_844350"
+
+[[text]]
+file = "amletroy00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "amletroy00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "amletroy00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "amletroy00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

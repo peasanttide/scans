@@ -1,0 +1,39 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: arretduconse00fran_rp7
+page: 4
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 2791
+h: 3874
+dpi: 500
+---
+
+2
+
+îefqueîs il n’a été accordé aucunes permifiïons , a réfolu
+de réprimer un abus auffi contraire au bon ordre qu’aux
+Règlemens de la Librairie , dont Sa Majefté entend maintenir
+l’exécution , jufqu’à ce que d’après les obfèrvations qui
+lui feront préfentées par les Etats - généraux , Elle ait
+fait connoître fes intentions fur les modifications dont ces
+Règiemens peuvent être fufceptîbles. A quoi voulant
+pourvoir : Ouï le rapport , le Roi étant en son Conseil,
+de l’avis de M. le Garde des Sceaux, a ordonné &
+ordonne que les Règiemens rendus fur la police de la
+Librairie , feront exécutés félon leur forme & teneur , jufqu’à
+ce que par Sa Majefté il en ait été autrement ordonné :
+Fait en conféquence Sa Majefté très- expreffes inhibitions
+& défenies à tous Imprimeurs , Libraires ou autres ,
+d'imprimer, publier ou diltribuer aucun Frofpeélus, Journal
+ou autre feuille périodique , fous quelque dénomination
+que ce foit , à moins qu’ils n’en aient obtenu une permiffion
+expreiïe de Sa Majefté. Défend pareillement Sa Majefté à
+tous Imprimeurs & Libraires , de recevoir aucune foufcription
+pour lefdits Ouvrages périodiques publiés fans permiftion,
+fous peine d’interdiélion de leur état , & même de plus
+grande peine s’il y échoit. Enjoint Sa Majefté au fieur
+Lieutenant général de police à Paris , & aux heurs Intendans
+& Commiflàires départis dans les Provinces , de tenir la
+main , chacun en droit foi , à l’exécution du préfent
+arrêt, lequel fera imprimé, publié & affiché par-tout où

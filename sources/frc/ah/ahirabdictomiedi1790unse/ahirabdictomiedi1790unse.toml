@@ -1,0 +1,53 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "ahirabdictomiedi1790unse"
+type = "pamphlet"
+title = "Ah! ça ira : dictom [i.e. dicton] populaire ; air de la nouvelle-contre-danse Le carillon national."
+language = "fr"
+place = "Paris"
+date = "1790"
+note = "Scanner's note: Title / Cover pages combined. Stained pages.  No table-of-contents pages found. No copyright page found. No page numbers found. No physical cover."
+url = "https://archive.org/details/ahirabdictomiedi1790unse"
+extent = "[2] leaves ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 420"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6vx3vw52"
+internet_archive = "ahirabdictomiedi1790unse"
+
+[scan]
+file = "ahirabdictomiedi1790unse.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/ahirabdictomiedi1790unse"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Chez Frere, passage du Saumon"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_36560"
+
+[[text]]
+file = "ahirabdictomiedi1790unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "ahirabdictomiedi1790unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"

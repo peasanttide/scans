@@ -1,0 +1,70 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "avisimportant00gent"
+type = "pamphlet"
+title = "Avis important /"
+language = "fr"
+place = "s.l."
+date = "1789"
+note = "Caption title. Without imprint. Opening sentence: Il est évident que toute l'ancienne & vraie noblesse est intéressée à ne pas laisser succomber ses principaux membres sous des accusations frivoles, & à demander justice au chef de la noblesse & de la justice, dont la maison est sur le trône depuis plus de huit cents ans. Not in Martin & Walter. Scanner's note: No copyright. No table of contents. Title on cover. Damaged, stained pages and cover.  No page numbers. <br /><br /><br />."
+url = "https://archive.org/details/avisimportant00gent"
+subject = ["Nobility"]
+extent = "[4] p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 1341"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t70w3hr2v"
+internet_archive = "avisimportant00gent"
+
+[scan]
+file = "avisimportant00gent.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/avisimportant00gent"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "Gentilhomme"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_40972"
+
+[[text]]
+file = "avisimportant00gent.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avisimportant00gent.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avisimportant00gent.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avisimportant00gent.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

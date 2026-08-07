@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "auxamisdelaconst00amis"
+type = "pamphlet"
+title = "Aux Amis de la constitution : proposition intéressante, fait par une société de gens de lettres et d'artistes, amis de la constitution, `a toutes les sociétés patriotiques, et acceptée jusqu'`a présent par plus de 150 d'entr'elles"
+language = "fr"
+place = "s.l."
+date = "1791"
+note = "Caption title. Without imprint. Dated in contemporary (?) ms.: 29 9bre [novembre] 1791. Martin & Walter IV 2: 2317. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages."
+url = "https://archive.org/details/auxamisdelaconst00amis"
+subject = ["Political clubs"]
+extent = "[3] p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9386"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2p60pm3d"
+internet_archive = "auxamisdelaconst00amis"
+openlibrary_edition = "OL26222201M"
+openlibrary_work = "OL17617702W"
+
+[scan]
+file = "auxamisdelaconst00amis.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/auxamisdelaconst00amis"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Amis de la constitution"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_67190"
+
+[[text]]
+file = "auxamisdelaconst00amis.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "auxamisdelaconst00amis.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "auxamisdelaconst00amis.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "auxamisdelaconst00amis.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

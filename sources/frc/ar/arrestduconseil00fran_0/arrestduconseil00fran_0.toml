@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arrestduconseil00fran_0"
+type = "pamphlet"
+title = "Arrest du Conseil d'état du roi, qui casse & annulle l'arrêt du Parlement de Grenoble, du 31. mai 1758. Du 3 octobre 1759. Extrait des registres du Conseil d'état."
+language = "fr"
+place = "A Paris"
+date = "1759"
+note = "Caption title. Imprint at foot of p. 2. Scanner's note: No copyright page found. No table-of-contents pages found.  Uneven binding. Skewed text. Title is on the cover."
+url = "https://archive.org/details/arrestduconseil00fran_0"
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case DC133.4.P232 P2 1753 v. 2 no. 4"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3228xp7g"
+internet_archive = "arrestduconseil00fran_0"
+
+[scan]
+file = "arrestduconseil00fran_0.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arrestduconseil00fran_0"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Conseil d'Etat"
+role = "author"
+
+[[resp]]
+name = "France. Conseil d'Etat"
+role = "author"
+
+[[resp]]
+name = "France. Parlement (Grenoble)"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie royale"
+role = "publisher"
+
+[[text]]
+file = "arrestduconseil00fran_0.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestduconseil00fran_0.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestduconseil00fran_0.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestduconseil00fran_0.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,91 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "annoncedunouv00unse"
+type = "pamphlet"
+title = "Annonce d'un ouvrage périodique concernant les sciences"
+language = "fr"
+place = "A Paris"
+date = "1795"
+note = """Caption title. "Il se trouve à Paris, chez les citoyens Régent et Bernard, libraires, quai des Augustins, n°. 37"--P. 2. Publication information from colophon. "Le premier cahier comprend vingt-cinq feuilles et plusieurs planches ou tableaux repliés; son prix est de trente francs ... Les cahiers qui paraîtront successivement chaque mois seront donnés de même raison d'un franc deux décimes la feuille"--P. 2. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Title page and cover are combined."""
+url = "https://archive.org/details/annoncedunouv00unse"
+subject = [
+    "Journal polytechnique",
+    "Booksellers and bookselling",
+    "Science publishing",
+    "Mathematical literature",
+    "Periodicals",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1d no. 80"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t76t6bw4v"
+internet_archive = "annoncedunouv00unse"
+
+[scan]
+file = "annoncedunouv00unse.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/annoncedunouv00unse"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Ecole polytechnique (France)"
+role = "author"
+
+[[resp]]
+name = "Régent et Bernard"
+role = "bookseller"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "printer"
+
+[[resp]]
+name = "De l'Imprimerie de la République"
+role = "publisher"
+
+[[text]]
+file = "annoncedunouv00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "annoncedunouv00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "annoncedunouv00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "annoncedunouv00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "annoncedunouv00unse.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "annoncedunouv00unse.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

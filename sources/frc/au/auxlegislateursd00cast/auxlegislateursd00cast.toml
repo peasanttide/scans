@@ -1,0 +1,69 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "auxlegislateursd00cast"
+type = "pamphlet"
+title = "Aux législateurs du peuple français."
+language = "fr"
+date = "1795"
+note = "Caption title. Signed: C. Castel, rue Haute-feuille, no. 10. Publication location from Martin & Walter. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,I, 6351. Scanner's note: No title page found. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/auxlegislateursd00cast"
+subject = ["Assignats"]
+extent = "3 p. ;20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "CaseFRC11073"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t05x5bw86"
+internet_archive = "auxlegislateursd00cast"
+
+[scan]
+file = "auxlegislateursd00cast.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/auxlegislateursd00cast"
+ppi = 650
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Castel, C"
+role = "author"
+
+[[resp]]
+name = "[Paris] :De l'Imp. de la Société typographiqe des Trois Amis, rue Jacques, no. 51, au-dessus de la place Cambrai,"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_824561"
+
+[[text]]
+file = "auxlegislateursd00cast.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "auxlegislateursd00cast.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "auxlegislateursd00cast.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "auxlegislateursd00cast.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"

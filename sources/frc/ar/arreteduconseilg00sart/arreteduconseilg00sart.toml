@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arreteduconseilg00sart"
+type = "pamphlet"
+title = "Arrêté du conseil général du département de la Sarthe, qui indique pour le jeudi 4 octobre prochain, le serment qui sera prêté par chacun de ses membres : séance du 2 octobre 1792, l'an 1er. de la République française"
+language = "fr"
+place = "Au Mans"
+date = "1792"
+note = """
+Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover. 
+Only one numbered page."""
+url = "https://archive.org/details/arreteduconseilg00sart"
+subject = ["Loyalty oaths"]
+extent = "2 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10255 no. 3"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t05x7fg1f"
+internet_archive = "arreteduconseilg00sart"
+
+[scan]
+file = "arreteduconseilg00sart.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arreteduconseilg00sart"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Sarthe (France). Conseil général"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Pivron, imprimeur du département de la Sarthe"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_857508"
+
+[[text]]
+file = "arreteduconseilg00sart.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arreteduconseilg00sart.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arreteduconseilg00sart.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arreteduconseilg00sart.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,74 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "adresse00perp"
+type = "pamphlet"
+title = "Adresse /"
+language = "fr"
+place = "A Paris"
+date = "1790"
+note = "Caption title. Imprint from colophon. At lower left on p.[1]: Pr. Verb. No.323. About disorders stirred up by the Vicomte de Mirabeau in Perpignan. Martin & Walter IV 2: 13571. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on cover page. Damaged, stained and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/adresse00perp"
+subject = ["Mirabeau, André Boniface Louis de Riquetti, Vicomte de, 1754-1795"]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 6735"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9g49sj3j"
+internet_archive = "adresse00perp"
+
+[scan]
+file = "adresse00perp.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/adresse00perp"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Perpignan (France)"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_60427"
+
+[[text]]
+file = "adresse00perp.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adresse00perp.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adresse00perp.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adresse00perp.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

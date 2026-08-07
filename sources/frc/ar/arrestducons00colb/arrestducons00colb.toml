@@ -1,0 +1,73 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arrestducons00colb"
+type = "pamphlet"
+title = "Arrest du Conseil d'estat du roy, qui ordonne la suppression d'un écrit intitulé, Instruction pastorale de M. l'evesque de Montpellier [C.J. Colbert], &c. Du 25. avril 1733"
+language = "fr"
+place = "Paris"
+date = "1733"
+note = "Caption title. Imprint at foot of p. 3."
+url = "https://archive.org/details/arrestducons00colb"
+subject = ["Censorship"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 5 no. 33"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t12p0r56t"
+internet_archive = "arrestducons00colb"
+
+[scan]
+file = "arrestducons00colb.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arrestducons00colb"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Colbert, Charles Joachim,Bishop of Montpellier"
+role = "author"
+
+[[resp]]
+name = "Colbert, Charles Joachim, Bishop of Montpellier"
+role = "author"
+
+[[resp]]
+name = "France. Conseil d'Etat"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie Royale"
+role = "publisher"
+
+[[text]]
+file = "arrestducons00colb.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestducons00colb.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestducons00colb.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestducons00colb.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,103 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "avisauxcitoyens00fran"
+type = "pamphlet"
+title = "Avis aux citoyens."
+language = "fr"
+place = "A Lyon"
+date = "1789"
+note = """Caption title. Imprint from colophon. "Lettre du roi a l'Assemblée nationale, du 4 août matin": p.[1]-2. "Lettre des députés de la sénéchaussée de Lyon aux Etats-généraux, adressée au Comité des electeurs-unis. De la salle de l'Assemblée nationale, le mardi 4 août 1789, à minuit": p.3-6. Dated in contemporary ms. on p.[1]: 4 août 1789. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover."""
+url = "https://archive.org/details/avisauxcitoyens00fran"
+extent = "6 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 1284"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2g78dz0n"
+internet_archive = "avisauxcitoyens00fran"
+openlibrary_edition = "OL26207916M"
+openlibrary_work = "OL17604192W"
+
+[scan]
+file = "avisauxcitoyens00fran.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/avisauxcitoyens00fran"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Sovereign (1774-1792 : Louis XVI)"
+role = "author"
+
+[[resp]]
+name = "France. Etats généraux"
+role = "author"
+
+[[resp]]
+name = "Lyon (France)"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie du Comité des electeurs-unis de la ville & sénéchaussée de Lyon"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_42016"
+
+[[text]]
+file = "avisauxcitoyens00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avisauxcitoyens00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avisauxcitoyens00fran.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avisauxcitoyens00fran.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avisauxcitoyens00fran.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avisauxcitoyens00fran.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avisauxcitoyens00fran.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avisauxcitoyens00fran.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

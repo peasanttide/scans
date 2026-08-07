@@ -1,0 +1,56 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arrestducons00fran_20"
+type = "pamphlet"
+title = "Arrest du Conseil d'estat du roy, portant reglement sur le fait de la librairie & imprimerie"
+language = "fr"
+date = "1727"
+note = "Scanner's note: No copyright page found. No table-of-contents pages found. Title and cover pages combined."
+url = "https://archive.org/details/arrestducons00fran_20"
+subject = ["Printing industry"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 4 no. 75"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8nd1kf1r"
+internet_archive = "arrestducons00fran_20"
+
+[scan]
+file = "arrestducons00fran_20.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/arrestducons00fran_20"
+ppi = 350
+note = "Scanned on fold1.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Conseil d'Etat"
+role = "author"
+
+[[resp]]
+name = "France. Conseil d'Etat"
+role = "author"
+
+[[resp]]
+name = "[Paris"
+role = "publisher"
+
+[[text]]
+file = "arrestducons00fran_20.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestducons00fran_20.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

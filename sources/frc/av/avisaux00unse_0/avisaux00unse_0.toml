@@ -1,0 +1,77 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "avisaux00unse_0"
+type = "pamphlet"
+title = "Avis aux voyageurs."
+language = "fr"
+place = "France?"
+date = "1795"
+note = "Caption title. Signed: C.J. Veriselle. Publication date inferred from references to the Conseil des anciens, instituted in 1795. Variant of Martin & Walter. Révolution française, IV:1, 33347. Scanner's note: Uneven binding. Skewed text. Damaged, stained and/or loose pages."
+url = "https://archive.org/details/avisaux00unse_0"
+subject = [
+    "Taxes, Farming of",
+    "Coaching (Transportation)",
+]
+extent = "4 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 26054"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3vt70g7z"
+internet_archive = "avisaux00unse_0"
+
+[scan]
+file = "avisaux00unse_0.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/avisaux00unse_0"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Tallien, Jean-Lambert, 1767-2345"
+role = "author"
+
+[[resp]]
+name = "Veriselle, C. J"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_864327"
+
+[[text]]
+file = "avisaux00unse_0.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avisaux00unse_0.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avisaux00unse_0.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avisaux00unse_0.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

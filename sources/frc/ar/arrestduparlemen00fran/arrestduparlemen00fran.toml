@@ -1,0 +1,69 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arrestduparlemen00fran"
+type = "pamphlet"
+title = "Arrest du Parlement sur le decret de l'Inqusition, contre plusieurs propositions, tirées de differends casuistes"
+language = "fr"
+place = "A Paris"
+date = "1679"
+note = "Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Title page and cover are combined. No title page found. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/arrestduparlemen00fran"
+subject = ["Inquisition"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 2 no. 45"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8nd1k77z"
+internet_archive = "arrestduparlemen00fran"
+
+[scan]
+file = "arrestduparlemen00fran.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arrestduparlemen00fran"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Parlement (Paris)"
+role = "author"
+
+[[resp]]
+name = "France. Parlement (Paris)"
+role = "author"
+
+[[resp]]
+name = "Chez François Muguet"
+role = "publisher"
+
+[[text]]
+file = "arrestduparlemen00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestduparlemen00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestduparlemen00fran.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestduparlemen00fran.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

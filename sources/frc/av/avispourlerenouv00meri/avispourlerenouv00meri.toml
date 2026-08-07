@@ -1,0 +1,81 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "avispourlerenouv00meri"
+type = "pamphlet"
+title = "Avis pour le renouvellement des souscriptions de l'Année littéraire, 1786"
+language = "fr"
+place = "Paris?"
+date = "1786"
+note = """Caption title. At head of title: L'année littéraire. 1786. "On souscrit à Paris, chez Merigot le jeune, libraire, quai des Augustins, au coin de la rue Pavée, & chez tous les libraires du royaume, MM. les directeurs des postes, & aux bureaux de toutes les affiches de province"--P. [2]. "L'abonnement est de 24 liv. pour Paris, & de 32 liv. pour la province"--P. [2]. Scanner's note: No copyright found.  No table of contents found.  Damaged, stained pages and cover.  No numbered pages.<br /><br />."""
+url = "https://archive.org/details/avispourlerenouv00meri"
+subject = [
+    "Année littéraire",
+    "Booksellers and bookselling",
+    "Periodicals",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1d no. 6"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t54f7dh83"
+internet_archive = "avispourlerenouv00meri"
+
+[scan]
+file = "avispourlerenouv00meri.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/avispourlerenouv00meri"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "Mérigot, Jean-Gabriel"
+role = "author"
+
+[[resp]]
+name = "Mérigot?"
+role = "publisher"
+
+[[text]]
+file = "avispourlerenouv00meri.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avispourlerenouv00meri.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avispourlerenouv00meri.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avispourlerenouv00meri.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avispourlerenouv00meri.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avispourlerenouv00meri.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

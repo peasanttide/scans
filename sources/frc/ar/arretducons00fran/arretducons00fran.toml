@@ -1,0 +1,74 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arretducons00fran"
+type = "pamphlet"
+title = "Arrêt du Conseil d'État du roi, qui, en confirmant les anciennes ordonnances & règlemens, ordonne que les ouvrages & matières d'or & d'argent qui se trouveront à bord des prises, seront portés aux hôtels des monnoies ou aux changes les plus prochains : du 5 juillet 1782 : extrait des registres du Conseil d'État."
+language = "fr"
+place = "A Paris"
+date = "1782"
+note = "Caption title. Imprint from colophon. Signatures: [A]². Head-piece. No. 19 of 45 titles bound together."
+url = "https://archive.org/details/arretducons00fran"
+subject = [
+    "Coinage",
+    "Prizes (Property captured at sea)",
+    "Prize law",
+    "Booty (International law)",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case HD9747.F72 D68 1784 no. 19"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2j73g489"
+internet_archive = "arretducons00fran"
+
+[scan]
+file = "arretducons00fran.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arretducons00fran"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Conseil d'État,"
+role = "author"
+
+[[resp]]
+name = "France. Conseil d'État, enacting jurisdiction"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie royale"
+role = "publisher"
+
+[[text]]
+file = "arretducons00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretducons00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretducons00fran.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretducons00fran.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

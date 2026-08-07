@@ -1,0 +1,84 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "avis00buis"
+type = "pamphlet"
+title = "Avis"
+language = "fr"
+place = "Paris?"
+date = "1791"
+note = "Caption title. Signed: L'éditeur de Mirabeau peint par lui-même. François Buisson published Mirabeau peint par lui-même in 1791. Defends Mirabeau peint par lui-même against remarks made by Étienne Méjan, editor of the forthcoming Collection complette des travaux de M. Mirabeau l'ainé, a l'Assemblée nationale. Scanner's note: No copyright found.  No table of contents found.  Damaged, stained pages and cover.  No page numbers. <br /><br />."
+url = "https://archive.org/details/avis00buis"
+subject = [
+    "Mirabeau, Honoré-Gabriel de Riquetti, comte de, 1749-1791",
+    "Méjan, Etienne, comte, 1766-1846",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 6 no. 1"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t02z6x74k"
+internet_archive = "avis00buis"
+
+[scan]
+file = "avis00buis.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/avis00buis"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "Buisson, François,1753-1814"
+role = "author"
+
+[[resp]]
+name = "Buisson, François, 1753-1814"
+role = "author"
+
+[[resp]]
+name = "Buisson?"
+role = "publisher"
+
+[[text]]
+file = "avis00buis.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avis00buis.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avis00buis.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avis00buis.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avis00buis.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avis00buis.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

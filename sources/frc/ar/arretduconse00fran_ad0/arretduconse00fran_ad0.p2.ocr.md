@@ -1,0 +1,41 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: arretduconse00fran_ad0
+page: 2
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 3164
+h: 4306
+dpi: 350
+---
+
+2
+
+ces 23, 24 & 29 avril dernier, avoir ordonné Jes informa-
+tions à l’effet de confia ter iefdites irrégularités ; Sa Majefié a
+jugé que le Confeil Souverain n’avoit pu rendre de pareils
+Arrêts fans contrevenir à l’article Lî du Règlement général
+du 24 janvier dernier ; mais ledit Confeil s’étant empreffé
+cî’envoyer à M. le Garde des Sceaux, en conféquence de
+deux arrêtés des 30 avril dernier de 9 mai fuivant, les
+informations qui avoient été les fuites de ces précédens
+Arrêts, Sa Majefié difpofée à juger favorablement des
+motifs qui avoient déterminé le Confeil Souverain dans
+cette circonfiance, a penfé que cette Cour rfavoit eu
+d’autre intention que de 1 eclairer fur ce qui s’étoit paffé
+dans les Affemblées préfidées par les Juges des Vigueries de
+Rouffillon de de Confîans : Sa Majefié a donc cru pouvoir
+fe difpenfer d’annulîer les Arrêts de ladite Cour , de Elle
+sert contentée de lui en faire connoître l'irrégularité.
+Aujourd’hui le Roi eft informé que les deux arrêtés des
+30 avril < 5 c 9 mai, ont été imprimés de répandus dans
+la province; de Sa Majefié ayant reconnu qu’ils tendoient
+à inculper lesfieurs Terratsde Tixedor, Juges des Vigueries
+de Rouffillon de de Confîans, ainfi que le fieur Roca,
+Sa Majefié a penfé qu’Elle devoit d’autant moins laiffer
+fubfifer lefdits arrêtés, que les fieurs Terrats, Tixedor de
+Roca, dont la conduite lui a paru digne d’approbation ,
+avoient obtenu le fuffrage de la confiance de leurs Conci-
+toyens. A quoi voulant pourvoir : Ouï je rapport ; LE
+Roi étant en son Conseil, a ordonné de ordonne
+que les deux arrêtés pris par le Confeil Souverain de

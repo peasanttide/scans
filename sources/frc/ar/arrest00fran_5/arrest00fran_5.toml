@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arrest00fran_5"
+type = "pamphlet"
+title = "Arrest"
+language = "fr"
+place = "A Orléans"
+date = "1788"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter (quarto edition). Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages."
+url = "https://archive.org/details/arrest00fran_5"
+subject = ["France. Assemblée des notables (1788)"]
+extent = "4 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9289"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t81k4hn88"
+internet_archive = "arrest00fran_5"
+openlibrary_edition = "OL26221414M"
+openlibrary_work = "OL17616979W"
+
+[scan]
+file = "arrest00fran_5.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arrest00fran_5"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Conseil d'Etat"
+role = "author"
+
+[[resp]]
+name = "Sur l'imprimé a Paris, de l'imprimerie de Jacob l'a^iné"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_66969"
+
+[[text]]
+file = "arrest00fran_5.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrest00fran_5.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrest00fran_5.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrest00fran_5.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

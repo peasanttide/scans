@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "additionlaprocla00tarn"
+type = "pamphlet"
+title = "Addition a la proclamation du directoire du département du Tarn, concernant la réparation des chemins vicinaux : du 1er. avril 1791"
+language = "fr"
+place = "A Castres"
+date = "1791"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover. Only one page number."
+url = "https://archive.org/details/additionlaprocla00tarn"
+subject = [
+    "Highway law",
+    "Servitudes",
+]
+extent = "2 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10296 no. 11"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2d84fj1c"
+internet_archive = "additionlaprocla00tarn"
+openlibrary_edition = "OL26223243M"
+openlibrary_work = "OL17618704W"
+
+[scan]
+file = "additionlaprocla00tarn.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/additionlaprocla00tarn"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Tarn (France). Directoire"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de P.D.G. Robert, docteur en philosophie, imprimeur du roi & du département du Tarn"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_856898"
+
+[[text]]
+file = "additionlaprocla00tarn.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "additionlaprocla00tarn.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "additionlaprocla00tarn.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "additionlaprocla00tarn.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

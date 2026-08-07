@@ -1,0 +1,95 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "assemble00sign"
+type = "pamphlet"
+title = "Assemblée /"
+language = "fr"
+place = "s.l."
+date = "1789"
+note = "Caption title. Without imprint. Dated on p.[1]: ... 2 août 1789 .. Martin & Walter IV 2: 2019 (which specifies: Reconnaissance au roi et à l'Assemblée nationale). Scanner's note: No title page found. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/assemble00sign"
+extent = "8 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 1063"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t72v7kh0c"
+internet_archive = "assemble00sign"
+openlibrary_edition = "OL26207450M"
+openlibrary_work = "OL17603724W"
+
+[scan]
+file = "assemble00sign.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/assemble00sign"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Signe (France). Citizens"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_41991"
+
+[[text]]
+file = "assemble00sign.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "assemble00sign.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "assemble00sign.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "assemble00sign.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "assemble00sign.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "assemble00sign.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "assemble00sign.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "assemble00sign.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

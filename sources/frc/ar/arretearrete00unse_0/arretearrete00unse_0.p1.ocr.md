@@ -1,0 +1,49 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: arretearrete00unse_0
+page: 1
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 3103
+h: 4328
+dpi: 350
+---
+
+N.® 441.
+
+Bulletin des Lois , N.® xi 1.
+
+s' "—■‘MTHimi . 1 .
+
+R E T É
+
+) u Directoire executif , qui supprimera l'étape en nature pour
+les militaires voyageant isolément.
+
+,» Du 25 Pluviôse an V de la République française, une et indivisible.
+
+jlJe Directoire exécutif, considérant que la distribution de lelape en
+nature est, pour les militaires qui voyagent isolément, sujète à des mconvemens
+nombreux , ARRÊTE :
+
+Article premier*
+
+L’étape en nature est supprimée pour les militaires voyageant isolément, et
+«lie sera remplacée par une indemnité de trois scus par lieue. ^ _
+
+II Cette indemnité sera payée aux individus c.-dessus désignés , dans les
+principales communes de leurs passages, sur le vu de leur ordre de route, et
+
+d’après le mode qui sera établi par le ministre de la guerre
+
+III. Outre cette indemnité, le logement sera fourni auxdits militaires , dans
+la commune du Heu du coucher. Ils ne pourront jamais faire moins que la joui-
+née de marche fixée sur l’ordre de route.
+
+2 q Du 2 Ventôse an V de la République française, une et indivisibles
+
+Le Directoire exécutif , considérant que la loi du 27 brumaire an III a
+assimilé les marins, pour la conduite enroule, aux nuhtair» de 1 armee d 9
+terre , arrête ce qui suit ;
+
+N®° 9*

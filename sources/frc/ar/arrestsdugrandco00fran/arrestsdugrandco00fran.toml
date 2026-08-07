@@ -1,0 +1,60 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arrestsdugrandco00fran"
+type = "pamphlet"
+title = "Arrests du Grand conseil qui cassent une sentence de Police surprise par deffaut, faute de comparoir, contre le Sieur Contugy, le 26. août 1729"
+language = "fr"
+place = "Paris"
+date = "1729"
+note = "Printer's name at lower right. Scanner's note: No copyright page found. No table-of-contents pages found. Title and cover pages combined."
+url = "https://archive.org/details/arrestsdugrandco00fran"
+subject = [
+    "Censorship",
+    "Broadsides",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 4 no. 95"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1jh95p4k"
+internet_archive = "arrestsdugrandco00fran"
+
+[scan]
+file = "arrestsdugrandco00fran.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/arrestsdugrandco00fran"
+ppi = 350
+note = "Scanned on fold1.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Grand conseil"
+role = "author"
+
+[[resp]]
+name = "France. Grand conseil"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de la v. Vaugon"
+role = "publisher"
+
+[[text]]
+file = "arrestsdugrandco00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestsdugrandco00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

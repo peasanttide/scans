@@ -1,0 +1,77 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arretduconse00fran_82"
+type = "pamphlet"
+title = "Arrêt du Conseil d'état du roi, portant suppression de l'Imprimerie Polytipe, du [premier] novembre 1787"
+language = "fr"
+place = "A Paris"
+date = "1787"
+note = """Revocation of a monopoly on a printing technique, given in 1785 to François Ignace Joseph Hoffman and to his son Antoine Romain Joseph Hofffman. Caption title. "Extrait des registres du Conseil d'état"--p. 1. Imprint from colophon. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Title page and cover are combined."""
+url = "https://archive.org/details/arretduconse00fran_82"
+subject = [
+    "Hoffman, François Ignace Joseph, 18th cent",
+    "Hoffman, Antoine Romain Joseph, 18th cent",
+    "Printing industry",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 10 no. 48"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3qv94x5b"
+internet_archive = "arretduconse00fran_82"
+
+[scan]
+file = "arretduconse00fran_82.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arretduconse00fran_82"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Conseil d'Etat"
+role = "author"
+
+[[resp]]
+name = "France. Conseil d'Etat"
+role = "author"
+
+[[resp]]
+name = "Hoffman, firm, printers, Paris"
+role = "printer"
+
+[[resp]]
+name = "de l'Imprimerie royale"
+role = "publisher"
+
+[[text]]
+file = "arretduconse00fran_82.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretduconse00fran_82.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretduconse00fran_82.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretduconse00fran_82.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

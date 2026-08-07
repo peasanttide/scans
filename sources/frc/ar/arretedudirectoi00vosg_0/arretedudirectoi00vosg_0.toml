@@ -1,0 +1,69 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arretedudirectoi00vosg_0"
+type = "pamphlet"
+title = "Arrêté du directoire du departement des Vosges, qui ordonne l'impression de la lettre circulaire du ministre de la guerre aux officiers généraux employés, adressée par le général Lafayette, au directoire du département : séance du 26 avril 1792, l'an quatrième de la liberté"
+language = "fr"
+place = "A Épinal"
+date = "1792"
+note = """Caption title. At head of title: Departement des Vosges. La nation, la loi, et le roi. Imprint from colophon. Not in Martin & Walter. Révolution française. "Copie de la lettre circulaire du ministre de la guerre pour les officiers généraux employés"--P. 2. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover."""
+url = "https://archive.org/details/arretedudirectoi00vosg_0"
+extent = "4 p. ; 23 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10321 no. 9"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1ck3hr7x"
+internet_archive = "arretedudirectoi00vosg_0"
+
+[scan]
+file = "arretedudirectoi00vosg_0.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arretedudirectoi00vosg_0"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Vosges (France). Directoire"
+role = "author"
+
+[[resp]]
+name = "Chez Haener, imprimeur du département des Vosges, rue d'Ambrail, section B., no. 56"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_856931"
+
+[[text]]
+file = "arretedudirectoi00vosg_0.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretedudirectoi00vosg_0.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretedudirectoi00vosg_0.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretedudirectoi00vosg_0.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

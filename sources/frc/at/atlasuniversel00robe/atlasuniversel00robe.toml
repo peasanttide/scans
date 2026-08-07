@@ -1,0 +1,89 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "atlasuniversel00robe"
+type = "pamphlet"
+title = "Atlas universel"
+language = "fr"
+place = "A Paris :;Et à Bordeaux"
+date = "1757"
+note = """Prospectus for: Atlas universel / par M. Robert et M. Robert de Vaugondy. Paris, 1757. "Depuis ce tems que par un travail assidu l'ouvrage s'est avancé, nous sommes arrivés (à présent 1757) à pouvoir délivrer 90 cartes"--P. 4. Title vignette. "Les personnes qui voudront à présent souscrire, c'est-à-dire se pouvoir d'un exemplaire de ce nouvel atlas, payeront en retirant actuellement les 90 cartes terminées & le porte-feuille en grand papier 120 liv. Et en petit papier 96 liv."--P. 4. Scanner's note: No copyright page found. No table-of-contents pages found. Title and cover pages combined.<br />."""
+url = "https://archive.org/details/atlasuniversel00robe"
+subject = [
+    "Robert de Vaugondy, Gilles, 1688-1766",
+    "Booksellers and bookselling",
+    "Map publishing",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1c no. 63"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0zp9qf5q"
+internet_archive = "atlasuniversel00robe"
+
+[scan]
+file = "atlasuniversel00robe.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/atlasuniversel00robe"
+ppi = 500
+note = "Scanned on fold1.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Robert de Vaugondy, Gilles,1688-1766"
+role = "author"
+
+[[resp]]
+name = "Robert de Vaugondy, Gilles, 1688-1766"
+role = "author"
+
+[[resp]]
+name = "Robert de Vaugondy, Gilles, 1688-1766. Atlas universel"
+role = "author"
+
+[[resp]]
+name = "Robert de Vaugondy, Didier, 1723-1786"
+role = "author"
+
+[[resp]]
+name = "Boudet, Antoine, 1715?-1787"
+role = "bookseller"
+
+[[resp]]
+name = "Labottière, Louis-Guillaume, b. 1715"
+role = "bookseller"
+
+[[resp]]
+name = "Chez les auteurs, quai de l'Horloge du Palais :;Antoine Boudet, libraire-imprimeur du roi, rue S. Jacques ;;Chez L.G. Labottière, libraire, rue Saint Pierre, vis-à-vis le Puits de la Samaritaine"
+role = "publisher"
+
+[[text]]
+file = "atlasuniversel00robe.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "atlasuniversel00robe.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "atlasuniversel00robe.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "atlasuniversel00robe.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

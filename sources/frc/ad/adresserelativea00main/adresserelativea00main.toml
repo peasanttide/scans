@@ -1,0 +1,78 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "adresserelativea00main"
+type = "pamphlet"
+title = "Adresse relative aux patentes : le conseil-général du département de Maine et Loire à ses concitoyens"
+language = "fr"
+place = "Angers"
+date = "1793"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover page. Damaged, stained, and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/adresserelativea00main"
+subject = [
+    "Business tax",
+    "Taxpayer compliance",
+    "Tax administration and procedure",
+]
+extent = "4 p. ; 25 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC suppl. 116 no. 7"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7zm0jw1c"
+internet_archive = "adresserelativea00main"
+
+[scan]
+file = "adresserelativea00main.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/adresserelativea00main"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Maine-et-Loire (France). Conseil général"
+role = "author"
+
+[[resp]]
+name = "Mame, Charles-Pierre, 1747-1825"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale, chez Mame, imprimeur du département"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_861411"
+
+[[text]]
+file = "adresserelativea00main.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adresserelativea00main.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adresserelativea00main.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adresserelativea00main.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,77 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "adresselaconvent00orla"
+type = "pamphlet"
+title = "Adresse a la Convention nationale : du 22 mai 1793, l'an 2d de la République."
+language = "fr"
+place = "s.l."
+date = "1793"
+note = """Caption title. Imprint from colophon. Signed at end: Les commissaires des onze sections de la ville d'Orléans. "La Convention nationale ... est investie de toute notre confiance ...": p.3. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on cover page. Damaged, stained and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/adresselaconvent00orla"
+extent = "4 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 6246"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2z36wz71"
+internet_archive = "adresselaconvent00orla"
+
+[scan]
+file = "adresselaconvent00orla.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/adresselaconvent00orla"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Orléans (France)"
+role = "author"
+
+[[resp]]
+name = "Orléans (France)"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de l'Union"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_58099"
+
+[[text]]
+file = "adresselaconvent00orla.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adresselaconvent00orla.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adresselaconvent00orla.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adresselaconvent00orla.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

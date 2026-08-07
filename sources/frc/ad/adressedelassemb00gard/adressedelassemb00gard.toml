@@ -1,0 +1,77 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "adressedelassemb00gard"
+type = "pamphlet"
+title = "Adresse de l'assemblée administrative du département du Gard, a l'Assemblée nationale : Nismes, le 1er. juillet 1791"
+language = "fr"
+place = "A Nismes"
+date = "1791"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. No title page found."
+url = "https://archive.org/details/adressedelassemb00gard"
+extent = "3 p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9831 no. 9"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9964nz6z"
+internet_archive = "adressedelassemb00gard"
+
+[scan]
+file = "adressedelassemb00gard.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/adressedelassemb00gard"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Gard (France). Assemblée administrative"
+role = "author"
+
+[[resp]]
+name = "Belle, Castor"
+role = "publisher"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "Chez C. Belle, imprimeur national du département du Gard, rue des Fourbisseurs"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_854325"
+
+[[text]]
+file = "adressedelassemb00gard.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adressedelassemb00gard.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adressedelassemb00gard.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adressedelassemb00gard.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

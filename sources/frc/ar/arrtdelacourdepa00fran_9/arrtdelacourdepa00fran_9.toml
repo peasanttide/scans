@@ -1,0 +1,83 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arrtdelacourdepa00fran_9"
+type = "pamphlet"
+title = "Arrêt de la cour de parlement, rendu les chambres assemblées, les pairs y séant"
+language = "fr"
+place = "Paris"
+date = "1789"
+note = "Caption title. Imprint at foot of p. 4. The work in question is by J.B.M.L. de La Reynie de La Bruyère. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Title page and cover are combined."
+url = "https://archive.org/details/arrtdelacourdepa00fran_9"
+subject = [
+    "Passion, la mort & la résurrection du peuple",
+    "Religion",
+    "Church and state",
+    "Executive power",
+    "Monarchy",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 10 no. 78"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0vq8jx0j"
+internet_archive = "arrtdelacourdepa00fran_9"
+
+[scan]
+file = "arrtdelacourdepa00fran_9.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arrtdelacourdepa00fran_9"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Parlement (Paris)"
+role = "author"
+
+[[resp]]
+name = "France. Parlement (Paris)"
+role = "author"
+
+[[resp]]
+name = "Nyon, N. H. prt"
+role = "author"
+
+[[resp]]
+name = "La Reynie de La Bruyère, Jean Baptiste Marie Louis de, 1760-ca.1830"
+role = "author"
+
+[[resp]]
+name = "Chez N.H. Nyon"
+role = "publisher"
+
+[[text]]
+file = "arrtdelacourdepa00fran_9.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrtdelacourdepa00fran_9.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrtdelacourdepa00fran_9.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrtdelacourdepa00fran_9.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,68 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "avisaupublic00unse"
+type = "pamphlet"
+title = "Avis au public."
+language = "fr"
+place = "s.l."
+date = "1799"
+note = "Caption title. Without imprint. Opening sentences: Le public est averti que, le 1er. germinal de l'an 7 [21 mars 1799], les assemblées primaires s'ouvriront dans tous les cantons de la République; c'est le jour des citoyens actifs; qu'ils ne manquent pas de s'y rendre. Ils pourront dormir en paix le reste de l'année. Martin & Walter IV 2: 2485 (?). Scanner's note: No title page found. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/avisaupublic00unse"
+subject = ["Elections"]
+extent = "4 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 1250"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t29938g2x"
+internet_archive = "avisaupublic00unse"
+openlibrary_edition = "OL26207525M"
+openlibrary_work = "OL17603800W"
+
+[scan]
+file = "avisaupublic00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/avisaupublic00unse"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_41649"
+
+[[text]]
+file = "avisaupublic00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avisaupublic00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avisaupublic00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avisaupublic00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

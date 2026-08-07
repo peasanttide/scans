@@ -1,0 +1,93 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "atlasportatif00gren"
+type = "pamphlet"
+title = "Atlas portatif"
+language = "fr"
+place = "Paris"
+date = "1784"
+note = """"Nouveau prospectus"--P. [1]. Caption title. Printer statement from colophon. "Permis d'impr. le 30 septembre 1784"--P. [2]. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Title page and cover are combined."""
+url = "https://archive.org/details/atlasportatif00gren"
+subject = [
+    "Grenet, abbé, 1750-",
+    "Booksellers and bookselling",
+    "Map publishing",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1c no. 37"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1tf5gr30"
+internet_archive = "atlasportatif00gren"
+
+[scan]
+file = "atlasportatif00gren.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/atlasportatif00gren"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Grenet,abbé,175-"
+role = "author"
+
+[[resp]]
+name = "Grenet, abbé, 1750-"
+role = "author"
+
+[[resp]]
+name = "Grenet, abbé, 1750- Abrégé de géographie ancienne et moderne"
+role = "author"
+
+[[resp]]
+name = "Valade, veuve, fl. 1784-1799"
+role = "printer"
+
+[[resp]]
+name = "De l'imprimerie de la veuve Valade, rue des Noyers"
+role = "publisher"
+
+[[text]]
+file = "atlasportatif00gren.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "atlasportatif00gren.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "atlasportatif00gren.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "atlasportatif00gren.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "atlasportatif00gren.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "atlasportatif00gren.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

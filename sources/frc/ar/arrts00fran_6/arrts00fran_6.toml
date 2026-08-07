@@ -1,0 +1,73 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arrts00fran_6"
+type = "pamphlet"
+title = "Arrêtés /"
+language = "fr"
+place = "s.l."
+date = "1788"
+note = "Caption title. Without imprint. Not in Martin & Walter [edition 1: last line on p.[1]: deurs qu'entraîne le mépris des loix;]. Scanner's note: No title page found. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/arrts00fran_6"
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 4003"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t07x1fx9g"
+internet_archive = "arrts00fran_6"
+
+[scan]
+file = "arrts00fran_6.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arrts00fran_6"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Parlement (Franche-Comté)"
+role = "author"
+
+[[resp]]
+name = "France. Parlement (Franche-Comté)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_50164"
+
+[[text]]
+file = "arrts00fran_6.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrts00fran_6.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrts00fran_6.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrts00fran_6.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

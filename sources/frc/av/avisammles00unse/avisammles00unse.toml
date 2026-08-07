@@ -1,0 +1,70 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "avisammles00unse"
+type = "pamphlet"
+title = "Avis a MM. les souscripteurs"
+language = "fr"
+place = "Paris"
+date = "1804"
+note = """Prospectus for: Dictionnaire des sciences naturelles. Paris : Levrault, Schoell et cie., 1804-1830. Caption title. "Les souscripteurs sont invités de faire retirer chez Levrault, Schoell et compagnie, rue de Seine S.G., à Paris, ou chez Levrault et compagnie, à Strasbourg, la première livraison du Dictionnaire ..."--P. [2]. With prices. Title page for the "première livraison" of Dictionnaire des sciences naturelles bound in at beginning. No. 5 of 17 titles bound together. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Title page and cover are combined."""
+url = "https://archive.org/details/avisammles00unse"
+subject = [
+    "Dictionnaire des sciences naturelles",
+    "Science publishing",
+    "Encyclopedias and dictionaries",
+    "Booksellers and bookselling",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 10"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6rz4z80m"
+internet_archive = "avisammles00unse"
+
+[scan]
+file = "avisammles00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/avisammles00unse"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Levrault, Schoell et compagnie"
+role = "bookseller"
+
+[[resp]]
+name = "Levrault, Schoell et cie."
+role = "publisher"
+
+[[text]]
+file = "avisammles00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avisammles00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avisammles00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avisammles00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

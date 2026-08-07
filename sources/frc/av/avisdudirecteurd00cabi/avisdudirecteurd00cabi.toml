@@ -1,0 +1,68 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "avisdudirecteurd00cabi"
+type = "pamphlet"
+title = "Avis du directeur du Cabinet littéraire de Nismes, près la place de la Salamandre, rue porte de la Couronne"
+language = "fr"
+place = "Nîmes"
+date = "1790"
+note = """Caption title. "A compter du premier janvier 1791, les abonnemens pour le dehors & la campagne seront ..."--P. 2. Lists several works published in 1790. Catalogue des gazettes, journaux & feuilles périodiques les plus intéressantes, qui se trouvent à toute heure du jour, depuis sept du matin jusqu'à neuf heures du soir, dans la Salle de lecture -- Extrait du catalogue des livres & gravures qui se trouve chez le même libraire, à Nismes. With prices. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Text extends off of the edge of the page. Text may be lost in the binding. Permanent creases may obscure some text. Title page and cover are combined."""
+url = "https://archive.org/details/avisdudirecteurd00cabi"
+subject = [
+    "Cabinet littéraire (Nîmes, France)",
+    "French periodicals",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 8 no. 10"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8wb0vn87"
+internet_archive = "avisdudirecteurd00cabi"
+
+[scan]
+file = "avisdudirecteurd00cabi.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/avisdudirecteurd00cabi"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Cabinet littéraire (Nîmes, France)"
+role = "author"
+
+[[resp]]
+name = "Cabinet littéraire"
+role = "publisher"
+
+[[text]]
+file = "avisdudirecteurd00cabi.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avisdudirecteurd00cabi.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avisdudirecteurd00cabi.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avisdudirecteurd00cabi.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,74 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arrestdelacourde00fra_upo"
+type = "pamphlet"
+title = "Arrest de la Cour de Parlement, du 2. decembre 1717. :"
+language = "fr"
+place = "Paris"
+date = "1717"
+note = "Caption title. The Declaration in question has title: Declaration du roy, qui suspend toutes les disputes formez dans le royaume, à l'occasion de la Constitution of Nostre Saint Pere .. The suppressed libel is not named. Imperfect and incomplete: p.[1-2] (t.-p.) and all after p. 6 wanting; slip mounted on p. 6 covers 10 lines of text. Scanner's note: Paper fused to page 6."
+url = "https://archive.org/details/arrestdelacourde00fra_upo"
+subject = [
+    "Quesnel, Pasquier, 1634-1719",
+    "France. Sovereign (1715-1774 : Louis XV)",
+    "Catholic Church. Pope (1700-1721 : Clement XI)",
+    "Prohibited books",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 3 no. 86"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6451998d"
+internet_archive = "arrestdelacourde00fra_upo"
+
+[scan]
+file = "arrestdelacourde00fra_upo.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arrestdelacourde00fra_upo"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Parlement (Paris)"
+role = "author"
+
+[[resp]]
+name = "France. Parlement (Paris)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[text]]
+file = "arrestdelacourde00fra_upo.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacourde00fra_upo.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacourde00fra_upo.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacourde00fra_upo.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

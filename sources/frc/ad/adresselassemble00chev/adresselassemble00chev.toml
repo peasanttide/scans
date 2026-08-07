@@ -1,0 +1,77 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "adresselassemble00chev"
+type = "pamphlet"
+title = "Adresse à l'Assemblée nationale, du jeudi 31 mars /"
+language = "fr"
+place = "Paris"
+date = "1790"
+note = "On payments to wounded soldiers. Caption title. Signed: Chevalier, capitaine. Imprint from colophon. Publisher location from Martin & Walter. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  I, 7387. Scanner's note: No title page found. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/adresselassemble00chev"
+subject = [
+    "Disabled veterans",
+    "Amputees",
+]
+extent = "3 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 16235"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6d26zc52"
+internet_archive = "adresselassemble00chev"
+
+[scan]
+file = "adresselassemble00chev.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/adresselassemble00chev"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Chevalier, capitaine"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie du Postillon, rue Basse-du-Rempart, no 22"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_833823"
+
+[[text]]
+file = "adresselassemble00chev.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adresselassemble00chev.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adresselassemble00chev.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adresselassemble00chev.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

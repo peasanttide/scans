@@ -1,0 +1,69 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "adressemdelanger1790renn"
+type = "pamphlet"
+title = "Adresse a M. de Langeron, commandant en sous-ordre en la province de Bretagne"
+language = "fr"
+place = "s.l."
+date = "1790"
+note = "Scanner's note: Title found on front cover. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/adressemdelanger1790renn"
+extent = "3 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 146"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3kw8x763"
+internet_archive = "adressemdelanger1790renn"
+
+[scan]
+file = "adressemdelanger1790renn.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/adressemdelanger1790renn"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Rennes (France). Citizens"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_35796"
+
+[[text]]
+file = "adressemdelanger1790renn.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "adressemdelanger1790renn.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "adressemdelanger1790renn.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "adressemdelanger1790renn.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"

@@ -1,0 +1,77 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arretedudepartem00sein_1"
+type = "pamphlet"
+title = "Arrêté du departement de la Seine, relatif à l'exécution de l'article VIII de la loi du 23 fructidor an VI, sur l'observation de l'annuaire républicain : du 12 vendémiaire an VII de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1798"
+note = """Caption title. At head of title: No. 769 bis. "L'administration centrale du département ..."--P. [1]. Imprint from colophon. "No. 2"--Bottom of p. [1]. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."""
+url = "https://archive.org/details/arretedudepartem00sein_1"
+subject = [
+    "Calendar, Republican",
+    "Trade regulation",
+]
+extent = "3 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 28198"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5hb48m5k"
+internet_archive = "arretedudepartem00sein_1"
+
+[scan]
+file = "arretedudepartem00sein_1.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arretedudepartem00sein_1"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Seine (France). Administration centrale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Depot des lois, place du Carrousel"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_857512"
+
+[[text]]
+file = "arretedudepartem00sein_1.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretedudepartem00sein_1.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretedudepartem00sein_1.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretedudepartem00sein_1.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

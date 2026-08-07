@@ -1,0 +1,89 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "additionlarchera00larc"
+type = "pamphlet"
+title = "Addition : Larcher aux députés de la Convention nationale formant le Comité des assignats."
+language = "fr"
+place = "Paris?"
+date = "1792"
+note = """Caption title. "Paris, ce 29 novembre 1792, l'an premier de la République française"--P. 6. Imprint from colophon. Not in Martin & Walter. Révolution française. Includes errata at end. Scanner's note: Title page on front cover. No copyright page found. No table-of-contents pages found. Worn and damaged pages and cover. Skewed text."""
+url = "https://archive.org/details/additionlarchera00larc"
+subject = [
+    "Assignats",
+    "Finance, Public",
+]
+extent = "6 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 12165"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6h17pq6p"
+internet_archive = "additionlarchera00larc"
+
+[scan]
+file = "additionlarchera00larc.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/additionlarchera00larc"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Larcher"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale. Comité des assignats et monnoies"
+role = "author"
+
+[[resp]]
+name = "De l'Imp. de Mayer & Compagnie, rue St. Martin, no. 219, presque vis-à-vis la rue Maubuée"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_826167"
+
+[[text]]
+file = "additionlarchera00larc.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "additionlarchera00larc.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "additionlarchera00larc.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "additionlarchera00larc.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "additionlarchera00larc.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "additionlarchera00larc.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

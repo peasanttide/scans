@@ -1,0 +1,96 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arrestdelacourde00fra_ubl"
+type = "pamphlet"
+title = "Arrest de la Cour de Parlement de Toulouse"
+language = "fr"
+place = "A Toulouse"
+date = "1718"
+note = "Caption title. Imprint at foot of p. 8. The Constitution is the Papal bull Unigenitus."
+url = "https://archive.org/details/arrestdelacourde00fra_ubl"
+subject = [
+    "Unigenitus (Papal bull) 1713",
+    "Censorship",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 3 no. 110"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6p03sm3t"
+internet_archive = "arrestdelacourde00fra_ubl"
+
+[scan]
+file = "arrestdelacourde00fra_ubl.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/arrestdelacourde00fra_ubl"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Parlement (Toulouse)"
+role = "author"
+
+[[resp]]
+name = "France. Parlement (Toulouse)"
+role = "author"
+
+[[resp]]
+name = "Chez Claude-Gilles Lecamus"
+role = "publisher"
+
+[[text]]
+file = "arrestdelacourde00fra_ubl.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacourde00fra_ubl.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacourde00fra_ubl.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacourde00fra_ubl.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacourde00fra_ubl.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacourde00fra_ubl.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacourde00fra_ubl.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacourde00fra_ubl.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

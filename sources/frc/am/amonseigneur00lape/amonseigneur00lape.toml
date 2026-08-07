@@ -1,0 +1,51 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "amonseigneur00lape"
+type = "pamphlet"
+title = "A Monseigneur le dauphin, madrigal"
+language = "fr"
+date = "1746"
+note = "Binder's title: Conquest du roy. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on the cover. Uneven binding. Skewed text. Irregular pagination. Page numbers have been marked or altered. Damaged, stained, torn and/or loose pages. Some text may be lost in the binding."
+url = "https://archive.org/details/amonseigneur00lape"
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "E 5 .L92705 v. 09 no. 25"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0wq61w2d"
+internet_archive = "amonseigneur00lape"
+
+[scan]
+file = "amonseigneur00lape.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/amonseigneur00lape"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Lapelliere, J Ant Hebert"
+role = "author"
+
+[[resp]]
+name = "[n.p."
+role = "publisher"
+
+[[text]]
+file = "amonseigneur00lape.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "amonseigneur00lape.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

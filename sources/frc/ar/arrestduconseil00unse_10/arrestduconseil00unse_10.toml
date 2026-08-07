@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arrestduconseil00unse_10"
+type = "pamphlet"
+title = "Arrest du Conseil d'État du roi, qui fait défenses aux syndics & receveurs des communautés d'officiers établis sur les ports, quais & halles de Paris, dépendantes des revenus casuels du roi, de payer aux veuves ou héritiers des officiers décédés, à compter du jour du décès, aucuns émolumens, pour raison desdits offices, qu'en justifiant de la quittance du huitième denier payé dans les six mois du décès : du 8 février 1761 : extrait des registres du Conseil d'État"
+language = "fr"
+place = "A Paris"
+date = "1761"
+note = """
+Caption title. Imprint from colophon. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover. 
+Only one numbered page."""
+url = "https://archive.org/details/arrestduconseil00unse_10"
+subject = [
+    "Survivors' benefits",
+    "Finance, Public",
+]
+extent = "2 p. ; 28 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC suppl. 87 no. 12"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t19k9jm2s"
+internet_archive = "arrestduconseil00unse_10"
+
+[scan]
+file = "arrestduconseil00unse_10.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arrestduconseil00unse_10"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Conseil d'Etat"
+role = "author"
+
+[[resp]]
+name = "Imprimerie royale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie royale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_863124"
+
+[[text]]
+file = "arrestduconseil00unse_10.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestduconseil00unse_10.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestduconseil00unse_10.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestduconseil00unse_10.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

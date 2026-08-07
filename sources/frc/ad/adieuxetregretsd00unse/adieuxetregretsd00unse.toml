@@ -1,0 +1,65 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "adieuxetregretsd00unse"
+type = "pamphlet"
+title = "Adieux et regrets des freres députés a la Fédération : du 14 juillet 1790 ; a leurs freres d'armes de Paris."
+language = "fr"
+place = "Paris"
+date = "1790"
+note = "Scanner's note: Title and cover combined, no physical cover.  No table-of-contents pages found. No copyright page found. Stained pages and some skewed text."
+url = "https://archive.org/details/adieuxetregretsd00unse"
+extent = "4 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 107"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6b31cp8b"
+internet_archive = "adieuxetregretsd00unse"
+
+[scan]
+file = "adieuxetregretsd00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/adieuxetregretsd00unse"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "De l'imprimerie de Ballard, imprimeur du Roi"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_37030"
+
+[[text]]
+file = "adieuxetregretsd00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "adieuxetregretsd00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "adieuxetregretsd00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "adieuxetregretsd00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"

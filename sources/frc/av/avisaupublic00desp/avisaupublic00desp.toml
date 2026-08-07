@@ -1,0 +1,88 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "avisaupublic00desp"
+type = "pamphlet"
+title = "Avis au public"
+language = "fr"
+place = "Paris?"
+date = "1752"
+note = """Prospectus for Le Maistre de Sacy's French translation of the Bible, also known as the Port-Royal version. Caption title. Head-piece. "Nous offrons de donner l'ouvrage entier pour la somme de 80 liv. en feuilles ... Les souscriptions seront ouvertes au premier décembre 1752"--P. [1]-[2]. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Title page and cover are combined."""
+url = "https://archive.org/details/avisaupublic00desp"
+subject = [
+    "Bible",
+    "Booksellers and bookselling",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1a no. 67"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9h47dq0b"
+internet_archive = "avisaupublic00desp"
+
+[scan]
+file = "avisaupublic00desp.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/avisaupublic00desp"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Desprez, Guillaume-Nicolas,1713-1795"
+role = "author"
+
+[[resp]]
+name = "Desprez, Guillaume-Nicolas, 1713-1795"
+role = "author"
+
+[[resp]]
+name = "Le Maistre de Sacy, Isaac-Louis, 1613-1684"
+role = "author"
+
+[[resp]]
+name = "Guillaume-Nicolas Desprez?"
+role = "publisher"
+
+[[text]]
+file = "avisaupublic00desp.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avisaupublic00desp.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avisaupublic00desp.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avisaupublic00desp.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avisaupublic00desp.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avisaupublic00desp.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

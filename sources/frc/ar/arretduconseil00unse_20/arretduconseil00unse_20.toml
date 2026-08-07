@@ -1,0 +1,81 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arretduconseil00unse_20"
+type = "pamphlet"
+title = "Arrêt du Conseil d'État du roi, qui ordonne que l'article XIV de l'arrêt du Conseil, en forme de règlement, du 10 décembre 1778, sera exécuté selon sa forme & teneur, en conséquence, déclare le commerce des blés & farines incompatible avec la profession d'amidonnier  : fait Sa Majesté très-expresses inhibitions & défenses à tous amidonniers de faire ledit commerce, soit par eux-mêmes, soit par leurs femmes ou leurs enfans demeurans avec eux, à peine de confiscation, tant des blés & farines, que des amidons & de cinq cents livres d'amende : du 25 juillet 1781 : extrait des registres du Conseil d'État"
+language = "fr"
+place = "A Paris"
+date = "1781"
+note = """
+Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover. 
+Back cover is upside down."""
+url = "https://archive.org/details/arretduconseil00unse_20"
+subject = [
+    "Grain trade",
+    "Starch industry",
+]
+extent = "3 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC suppl. 87 no. 56"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8sb99669"
+internet_archive = "arretduconseil00unse_20"
+openlibrary_edition = "OL26235423M"
+openlibrary_work = "OL17630008W"
+
+[scan]
+file = "arretduconseil00unse_20.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arretduconseil00unse_20"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Conseil d'Etat"
+role = "author"
+
+[[resp]]
+name = "Imprimerie royale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie royale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_863167"
+
+[[text]]
+file = "arretduconseil00unse_20.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretduconseil00unse_20.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretduconseil00unse_20.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretduconseil00unse_20.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

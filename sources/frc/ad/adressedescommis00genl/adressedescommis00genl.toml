@@ -1,0 +1,89 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "adressedescommis00genl"
+type = "pamphlet"
+title = "Adresse des commissaires de la Convention nationale, a l'armée de la République."
+language = "fr"
+place = "A Metz"
+date = "1792"
+note = "Caption title. Signed: Sillery; Prieur, du département de la Marne; Carra. Imprint from colophon. Dated, p. 3: A Longwy, le 24 octobre 1792, l'an Ier. de la République françoise. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  IV:1, 31656. Scanner's note: Title page and cover are combined. Damaged, stained, marked and/or loose pages. Uneven binding. Skewed text.<br />No Copyright found. No Table of Contents found. <br />."
+url = "https://archive.org/details/adressedescommis00genl"
+subject = [
+    "France. Armée",
+    "First Coalition, War of the, 1792-1797",
+]
+extent = "3 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 25346"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t10p6bn2v"
+internet_archive = "adressedescommis00genl"
+
+[scan]
+file = "adressedescommis00genl.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/adressedescommis00genl"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "Genlis Sillery, Charles Alexis Pierre Brulart de, marquis de, 1737-1793"
+role = "author"
+
+[[resp]]
+name = "Prieur, Pierre-Louis, 1756-1827"
+role = "author"
+
+[[resp]]
+name = "Carra, Jean-Louis, 1743-1793"
+role = "author"
+
+[[resp]]
+name = "France. Armée"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Claude Lamort"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_850906"
+
+[[text]]
+file = "adressedescommis00genl.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adressedescommis00genl.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adressedescommis00genl.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adressedescommis00genl.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

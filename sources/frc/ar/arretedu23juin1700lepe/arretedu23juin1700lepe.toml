@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arretedu23juin1700lepe"
+type = "pamphlet"
+title = "Arrêté du 23 juin 1789, pris par la noblesse restante /"
+language = "fr"
+place = "France"
+date = "1789"
+note = """
+Caption title. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover.
+Only one numbered page."""
+url = "https://archive.org/details/arretedu23juin1700lepe"
+subject = ["France. États généraux. Noblesse"]
+extent = "2 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 21228"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7np79w7x"
+internet_archive = "arretedu23juin1700lepe"
+
+[scan]
+file = "arretedu23juin1700lepe.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arretedu23juin1700lepe"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Lepeletier de Saint Fargeau, Michel, 1760-1793"
+role = "author"
+
+[[resp]]
+name = "France. États généraux. Noblesse"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_844306"
+
+[[text]]
+file = "arretedu23juin1700lepe.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretedu23juin1700lepe.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretedu23juin1700lepe.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretedu23juin1700lepe.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,78 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arreterelatifaux00fran_3"
+type = "pamphlet"
+title = "Arrête relatif aux pensions des membres du clergé et des établissemens religieux supprimés dans les neuf départemens réunis le 9 vendemiaire an IV : du 17 floréal an IX de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1801"
+note = """Caption title. At head of title: Dépôt des lois, place du Carrousel, a Paris. No. 1361. "Le premier Consul, signé Bonaparte"--P. 2. Imprint from colophon. "Departement d [blank]. Tableau des pensionnaires compris dans la loi du 11 ventose an VIII, domiciliés dans ce département, et du montant annuel de la pension à laquelle chcun d'eux a droit"--P. 3."""
+url = "https://archive.org/details/arreterelatifaux00fran_3"
+subject = ["Clergy"]
+extent = "3 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10325 no. 58"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t19k9fz9d"
+internet_archive = "arreterelatifaux00fran_3"
+
+[scan]
+file = "arreterelatifaux00fran_3.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arreterelatifaux00fran_3"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Consulat (1799-1804)"
+role = "author"
+
+[[resp]]
+name = "Napoleon I, Emperor of the French, 1769-1821"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois, place du Carrousel"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_851365"
+
+[[text]]
+file = "arreterelatifaux00fran_3.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arreterelatifaux00fran_3.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arreterelatifaux00fran_3.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arreterelatifaux00fran_3.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

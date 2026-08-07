@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arretduconse00fran_19"
+type = "pamphlet"
+title = "Arrêt du Conseil d'état du roi"
+language = "fr"
+date = "1779"
+note = "Extrait des Registres du Conseil d'état. Caption title. Imprint at foot of p. 2. Vol. of pamphlets. Scanner's note: No copyright found.  No table of contents found.  Damaged, stained pages and cover.  Title on cover. <br />Only one numbered page.<br />."
+url = "https://archive.org/details/arretduconse00fran_19"
+subject = ["Beaumarchais, Pierre Augustin Caron de, 1732-1799"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 9 no. 51"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1nh08f1r"
+internet_archive = "arretduconse00fran_19"
+
+[scan]
+file = "arretduconse00fran_19.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arretduconse00fran_19"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "France.Conseil d'Etat"
+role = "author"
+
+[[resp]]
+name = "France. Conseil d'Etat"
+role = "author"
+
+[[resp]]
+name = "Beaumarchais, Pierre Augustin Caron de, 1732-1799. Observations sur le Mèmoire justificatif"
+role = "author"
+
+[[resp]]
+name = "[Paris"
+role = "publisher"
+
+[[text]]
+file = "arretduconse00fran_19.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretduconse00fran_19.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretduconse00fran_19.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretduconse00fran_19.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

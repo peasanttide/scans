@@ -1,0 +1,57 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arretduconse00fran_33"
+type = "pamphlet"
+title = "Arrêt du Conseil d'état du roi, du 29 septembre 1781"
+language = "fr"
+place = "A Paris"
+date = "1781"
+note = "Caption title. Imprint at foot of p. 2. Ordering the destruction of an unauthorized publication of Royaumont's Histoire de l'Ancien & du Nouveau Testament, issued by Lepoitier, at Castres. Scanner's note: No copyright found.  No table of contents found.  Damaged, stained pages and cover.  Title on cover. <br />Only one numbered page. <br />."
+url = "https://archive.org/details/arretduconse00fran_33"
+subject = ["Press law"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 9 no. 74"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7qp1rd00"
+internet_archive = "arretduconse00fran_33"
+
+[scan]
+file = "arretduconse00fran_33.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/arretduconse00fran_33"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "France.Conseil d'Etat"
+role = "author"
+
+[[resp]]
+name = "France. Conseil d'Etat"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie royale"
+role = "publisher"
+
+[[text]]
+file = "arretduconse00fran_33.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretduconse00fran_33.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

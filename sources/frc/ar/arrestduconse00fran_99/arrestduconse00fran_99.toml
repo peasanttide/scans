@@ -1,0 +1,61 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arrestduconse00fran_99"
+type = "pamphlet"
+title = "Arrest du Conseil d'état du roi"
+language = "fr"
+place = "A Paris"
+date = "1773"
+note = "Caption-title and colophon. Last leaf blank. The work in question is by G.T.F. Raynal. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Title page and cover are combined."
+url = "https://archive.org/details/arrestduconse00fran_99"
+subject = ["Censorship"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 8 no. 65"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3cz8tx4p"
+internet_archive = "arrestduconse00fran_99"
+
+[scan]
+file = "arrestduconse00fran_99.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/arrestduconse00fran_99"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Conseil d'Etat"
+role = "author"
+
+[[resp]]
+name = "France. Conseil d'Etat"
+role = "author"
+
+[[resp]]
+name = "Raynal, abbé (Guillaume-Thomas-François), 1713-1796"
+role = "author"
+
+[[resp]]
+name = "Chez P.G. Simon, imprimeur du Parlement, 1773]"
+role = "publisher"
+
+[[text]]
+file = "arrestduconse00fran_99.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestduconse00fran_99.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

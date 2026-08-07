@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arrestdelacourde00fra_d4p"
+type = "pamphlet"
+title = "Arrest de la cour de Parlement aydes et finances de Dauphiné, du 14. aoust 1736 :"
+language = "fr"
+place = "A Grenoble"
+date = "1736"
+note = "Caption title. Place of publication and printer from colophon. Initial; head-piece."
+url = "https://archive.org/details/arrestdelacourde00fra_d4p"
+subject = [
+    "Printing industry",
+    "Booksellers and bookselling",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 5 no. 48"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0zp9nh0c"
+internet_archive = "arrestdelacourde00fra_d4p"
+
+[scan]
+file = "arrestdelacourde00fra_d4p.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arrestdelacourde00fra_d4p"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Parlement (Grenoble)"
+role = "author"
+
+[[resp]]
+name = "France. Parlement (Grenoble)"
+role = "author"
+
+[[resp]]
+name = "Giroud, Philippine, d. 1745"
+role = "printer"
+
+[[resp]]
+name = "De l'imprimerie de la veuve Giroud, libraire de nosseigneurs de la cour de Parlement, aydes & finances de Dauphiné"
+role = "publisher"
+
+[[text]]
+file = "arrestdelacourde00fra_d4p.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacourde00fra_d4p.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacourde00fra_d4p.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacourde00fra_d4p.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

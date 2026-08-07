@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arretdelacourdep00fran_6"
+type = "pamphlet"
+title = "Arrêt de la Cour de parlement, qui ordonne qu'un imprimé in 4⁰ intitulé, Mémoire justificatif, pour trois hommes condamnés à la roue; à Paris, de l'Imprimerie de Philippe-Denys Pierres, 1786, commençant par ces mots: Le 11 août 1785, une sentence du Bailliage de Chaumont, et finissant par ceux-ci: & sont innocens comme eux ... et la Consultation étant à la suite dudit imprimé ... seront lacérés et brûlés en la cour du palais, au pied du grand escalier d'icelui ... du onze août mil sept cent quatre-vingt-six"
+language = "fr"
+place = "A Paris"
+date = "1786"
+note = """Caption title. "Extrait des registres du Parlement"--P. 1. Imprint from colophon. The work in question, issued anonymously, is by Charles Marguerite Jean Baptiste Mercier Dupaty. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Title page and cover are combined."""
+url = "https://archive.org/details/arretdelacourdep00fran_6"
+subject = [
+    "Memoire justicatif pour trois hommes condamnés à la roue",
+    "Courts",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 10 no. 27"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t99655g68"
+internet_archive = "arretdelacourdep00fran_6"
+
+[scan]
+file = "arretdelacourdep00fran_6.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arretdelacourdep00fran_6"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Parlement (Paris)"
+role = "author"
+
+[[resp]]
+name = "France. Parlement (Paris)"
+role = "author"
+
+[[resp]]
+name = "Dupaty, Charles-Marguerite-Jean-Baptiste Mercier, 1746-1788"
+role = "author"
+
+[[resp]]
+name = "Pierres, Philippe-Denis, 1741-1808"
+role = "author"
+
+[[resp]]
+name = "P.G. Simon & N.H. Nyon ..."
+role = "publisher"
+
+[[text]]
+file = "arretdelacourdep00fran_6.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretdelacourdep00fran_6.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretdelacourdep00fran_6.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretdelacourdep00fran_6.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

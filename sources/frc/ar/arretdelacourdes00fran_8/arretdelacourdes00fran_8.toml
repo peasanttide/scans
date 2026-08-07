@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arretdelacourdes00fran_8"
+type = "pamphlet"
+title = "Arrêt de la Cour des monnoies, portant réglement général pour le commerce des matieres & marchandises d'or & d'argent : du 21 avril 1787 : extrait des registres de la Cour des monnoies."
+language = "fr"
+place = "À Bordeaux"
+date = "1787"
+note = 'Caption title. Imprint from colophon. The place of publication follows the printer statement in colophon. Signatures: B². Head-piece. "Extrait des registres de la Monnoie de Bordeaux": page 4. No. 21 of 45 titles bound together.'
+url = "https://archive.org/details/arretdelacourdes00fran_8"
+subject = [
+    "Gold industry",
+    "Silver industry",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case HD9747.F72 D68 1784 no. 21"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8bg8pz75"
+internet_archive = "arretdelacourdes00fran_8"
+
+[scan]
+file = "arretdelacourdes00fran_8.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arretdelacourdes00fran_8"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Cour des monnaies,"
+role = "author"
+
+[[resp]]
+name = "France. Cour des monnaies, enacting jurisdiction"
+role = "author"
+
+[[resp]]
+name = "La Court, Simon de, 1721?-1793, printer"
+role = "publisher"
+
+[[resp]]
+name = "Hôtel des monnaies de Bordeaux"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Simon de La Court, imprimeur du roi & de la Monnoie"
+role = "publisher"
+
+[[text]]
+file = "arretdelacourdes00fran_8.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretdelacourdes00fran_8.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretdelacourdes00fran_8.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretdelacourdes00fran_8.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

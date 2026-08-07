@@ -1,0 +1,84 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arreterelatif00unse_4"
+type = "pamphlet"
+title = "Arrêté relatif aux étapes : du 1er. fructidor an VIII de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1800"
+note = """Caption title. At head of title: No. 1194. "Le premier Consul, signé Bonaparte"--P. 4. Imprint from colophon. "No. 6"--Bottom of p. [1]. Scanner's note: No copyright page found. No table-of-contents pages found. No title page found."""
+url = "https://archive.org/details/arreterelatif00unse_4"
+subject = [
+    "France. Armée",
+    "Operational rations (Military supplies)",
+    "Indemnity",
+]
+extent = "4 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10325 no. 43"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t03z3cq7v"
+internet_archive = "arreterelatif00unse_4"
+openlibrary_edition = "OL26223458M"
+openlibrary_work = "OL17618921W"
+
+[scan]
+file = "arreterelatif00unse_4.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arreterelatif00unse_4"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Consulat (1799-1804)"
+role = "author"
+
+[[resp]]
+name = "Napoleon I, Emperor of the French, 1769-1821"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Depot des lois, place du Carrousel"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_851350"
+
+[[text]]
+file = "arreterelatif00unse_4.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arreterelatif00unse_4.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arreterelatif00unse_4.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arreterelatif00unse_4.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

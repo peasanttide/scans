@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arrestdelacourde00fra_p7t"
+type = "pamphlet"
+title = "Arrest de la cour de Parlement, qui ordonne que deux libelles intitules, l'un, Premiere lettre à un Verdunois"
+language = "fr"
+date = "1719"
+note = "Caption title."
+url = "https://archive.org/details/arrestdelacourde00fra_p7t"
+subject = [
+    "Unigenitus (Papal bull) 1713",
+    "Censorship",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 4 no. 5"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0tr1hw5g"
+internet_archive = "arrestdelacourde00fra_p7t"
+
+[scan]
+file = "arrestdelacourde00fra_p7t.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arrestdelacourde00fra_p7t"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Parlement (Metz)"
+role = "author"
+
+[[resp]]
+name = "France. Parlement (Metz)"
+role = "author"
+
+[[resp]]
+name = "Saint-Pierre, Charles Irénée Castel de, 1658-1743"
+role = "author"
+
+[[resp]]
+name = "[N.p."
+role = "publisher"
+
+[[text]]
+file = "arrestdelacourde00fra_p7t.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacourde00fra_p7t.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacourde00fra_p7t.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacourde00fra_p7t.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,73 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "avisauxcitoyens00amis"
+type = "pamphlet"
+title = "Avis aux citoyens."
+language = "fr"
+place = "s.l."
+date = "1790"
+note = "Caption title. Without imprint. Signed at end: Vos véritables freres, les Amis de la constitution de Mortagne. Opening sentence: Citoyens, le jour est arrivé, où, par un choix libre vous allez vous donner des electeurs; de ce choix dépend l'affermissement de votre liberté qui chancele encore par la coalition de vos ennemis: prenez-y garde, et ne vous laissez par aller aux séductions. Not in Martin & Walter. Scanner's note: No title page found. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/avisauxcitoyens00amis"
+extent = "[3] p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 1275"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t00055r13"
+internet_archive = "avisauxcitoyens00amis"
+
+[scan]
+file = "avisauxcitoyens00amis.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/avisauxcitoyens00amis"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Amis de la constitution de Mortagne"
+role = "author"
+
+[[resp]]
+name = "Mortagne-au-Perche (France)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_40709"
+
+[[text]]
+file = "avisauxcitoyens00amis.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avisauxcitoyens00amis.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avisauxcitoyens00amis.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avisauxcitoyens00amis.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

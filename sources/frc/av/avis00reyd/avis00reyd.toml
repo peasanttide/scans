@@ -1,0 +1,85 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "avis00reyd"
+type = "pamphlet"
+title = "Avis"
+language = "fr"
+place = "Paris?"
+date = "1786"
+note = """Prospectus for: Œuvres d'agriculture de M. de Planazu. Troyes, 1786. Caption title. "Cet ouvrage ... se trouve chez l'auteur à Paris, rue Ticquetonne, n°. 10, & chez les principaux libraires de l'Europe.". "La collection des œuvres de M. de Planazu sur l'agriculture qui paroissent cette année 1786 ...". Includes prices. Scanner's note: No copyright found.  No table of contents found.  Damaged, stained pages.  No page numbers. <br />."""
+url = "https://archive.org/details/avis00reyd"
+subject = [
+    "Rey Deplanazu",
+    "Booksellers and bookselling",
+    "Agriculture publishing",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1c no. 59"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5t78380w"
+internet_archive = "avis00reyd"
+
+[scan]
+file = "avis00reyd.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/avis00reyd"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "Rey Deplanazu"
+role = "author"
+
+[[resp]]
+name = "Rey Deplanazu. Œuvres d'agriculture de M. de Planazu"
+role = "author"
+
+[[resp]]
+name = "Rey Deplanazu?"
+role = "publisher"
+
+[[text]]
+file = "avis00reyd.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avis00reyd.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avis00reyd.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avis00reyd.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avis00reyd.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avis00reyd.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

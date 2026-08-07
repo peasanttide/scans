@@ -1,0 +1,101 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "avisaupublic00calm"
+type = "pamphlet"
+title = "Avis au public"
+language = "fr"
+place = "Paris?"
+date = "1740"
+note = """Prospectus for a reprint of Augustin Calmet's "Commentaire littéral sur tous les livres de l'Ancien et du Nouveau Testament.". Caption title. "On pourra s'adresser à Paris, ruë S. Jacques, chez Gabriel Martin à l'Etoile, Jean-Baptiste Coignard à la Bible d'or, Pierre-Jean Mariette aux Colonnes d'Hercule, Hippolyte-Louis Guerin à S. Thomas d'Aquin, et chez Pierre-Alexandre Martin, quay des Augustins, à l'Ecu de France"--P. [2]. "L'ouvrage entier pourroit être livré au public dans le mois de février 1741. Mais pour rendre le payement plus aisé, les libraires s'engagent de fournir les neuf premiers volumes ... au quinze du mois de janvier 1741"--P. [1]. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/avisaupublic00calm"
+subject = [
+    "Calmet, Augustin, 1672-1757",
+    "Booksellers and bookselling",
+    "Religious literature",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1b no. 46"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t18m30g9h"
+internet_archive = "avisaupublic00calm"
+
+[scan]
+file = "avisaupublic00calm.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/avisaupublic00calm"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Calmet, Augustin, 1672-1757. Commentaire littéral sur tous les livres de l'Ancien et du Nouveau Testament"
+role = "author"
+
+[[resp]]
+name = "Martin, Gabriel, 1679-1761"
+role = "bookseller"
+
+[[resp]]
+name = "Coignard, Jean Baptiste, 1693-1768"
+role = "bookseller"
+
+[[resp]]
+name = "Mariette, Pierre-Jean, 1694-1774"
+role = "bookseller"
+
+[[resp]]
+name = "Guérin, Hippolyte-Louis, 1698-1765"
+role = "bookseller"
+
+[[resp]]
+name = "Martin, Pierre-Alexandre, fl. 1716-1744?"
+role = "bookseller"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[text]]
+file = "avisaupublic00calm.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avisaupublic00calm.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avisaupublic00calm.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avisaupublic00calm.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avisaupublic00calm.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avisaupublic00calm.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

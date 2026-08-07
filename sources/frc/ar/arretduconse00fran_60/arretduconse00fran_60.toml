@@ -1,0 +1,73 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arretduconse00fran_60"
+type = "pamphlet"
+title = "Arrêt du Conseil d'état du roi, qui supprime un imprimé ayant pour titre, Lettre du Sieur ... ancien négociant d'Amiens à M. le comte d'Agay, intendant de Picardie, du 10 septembre 1785"
+language = "fr"
+place = "A Paris"
+date = "1785"
+note = """Caption title. "Extraits des registres du Conseil d'état"--p. 1. Imprint from colophon. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Title page and cover are combined."""
+url = "https://archive.org/details/arretduconse00fran_60"
+subject = ["Lettre du Sieur ....., ancien négociant d'Amiens à M. le comte d'Agay, intendant de Picardie"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 10 no. 16"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2m674f23"
+internet_archive = "arretduconse00fran_60"
+
+[scan]
+file = "arretduconse00fran_60.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arretduconse00fran_60"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Conseil d'Etat"
+role = "author"
+
+[[resp]]
+name = "France. Conseil d'Etat"
+role = "author"
+
+[[resp]]
+name = "Le Roux"
+role = "author"
+
+[[resp]]
+name = "de l'Imprimerie royale"
+role = "publisher"
+
+[[text]]
+file = "arretduconse00fran_60.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretduconse00fran_60.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretduconse00fran_60.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretduconse00fran_60.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

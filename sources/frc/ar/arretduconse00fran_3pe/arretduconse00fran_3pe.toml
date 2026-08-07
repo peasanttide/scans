@@ -1,0 +1,90 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arretduconse00fran_3pe"
+type = "pamphlet"
+title = "Arrêt du Conseil d'État du roi, qui ordonne l'exécution de l'arrêt du Conseil du 30 août 1777, concernant les contrefaçons"
+language = "fr"
+place = "A Paris"
+date = "1781"
+note = "Caption title. Publication information from colophon. Last two pages blank. Head-piece. Fines Jean Rayet of Toulouse for printing a pirated edition of Marmontel's Contes moraux. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Text extends off of the edge of the page. Text may be lost in the binding. Permanent creases may obscure some text. Title page and cover are combined."
+url = "https://archive.org/details/arretduconse00fran_3pe"
+subject = [
+    "Rayet, Jean, 18th cent",
+    "Marmontel, Jean-François, 1723-1799",
+    "Books",
+    "Printing industry",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 2 no. 33"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2z37h80h"
+internet_archive = "arretduconse00fran_3pe"
+
+[scan]
+file = "arretduconse00fran_3pe.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/arretduconse00fran_3pe"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Conseil d'Etat"
+role = "author"
+
+[[resp]]
+name = "France. Conseil d'Etat"
+role = "author"
+
+[[resp]]
+name = "Imprimerie royale (France)"
+role = "printer"
+
+[[resp]]
+name = "De l'Imprimerie royale"
+role = "publisher"
+
+[[text]]
+file = "arretduconse00fran_3pe.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretduconse00fran_3pe.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretduconse00fran_3pe.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretduconse00fran_3pe.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretduconse00fran_3pe.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretduconse00fran_3pe.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

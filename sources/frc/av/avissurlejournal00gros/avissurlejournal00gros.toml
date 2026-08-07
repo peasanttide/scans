@@ -1,0 +1,59 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "avissurlejournal00gros"
+type = "pamphlet"
+title = "Avis sur le Journal de littérature, des sciences et des arts"
+language = "fr"
+place = "Paris?"
+date = "1780"
+note = """Prospectus for "Journal de littérature, des sciences et des arts," edited by J.-B. Grosier and published 1779-1783. Caption title. "Le prix de l'abonnement est de vingt-quatre livres pour Paris, & de trente livres pour la province, franc de port. On souscrit au bureau, maison faisant le coin des rues de Vaugirard & de Tournon"--P. [2]. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Title page and cover are combined.  Text extends off of the edge of the page.  Text lost in binding."""
+url = "https://archive.org/details/avissurlejournal00gros"
+subject = [
+    "Journal de littérature, des sciences et des arts",
+    "Booksellers and bookselling",
+    "Periodicals",
+    "Orphans",
+    "Military dependents",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1d no. 47"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t99657b3v"
+internet_archive = "avissurlejournal00gros"
+
+[scan]
+file = "avissurlejournal00gros.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/avissurlejournal00gros"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Grosier, J.-B. (Jean-Baptiste), 1743-1823"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[text]]
+file = "avissurlejournal00gros.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avissurlejournal00gros.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

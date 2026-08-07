@@ -1,0 +1,82 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arreterelatifaux00fran"
+type = "pamphlet"
+title = "Arrêté relatif aux récompenses militaires, et proclamations du premier consul : du 4 nivôse an VIII de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1799"
+note = """Caption title. At head of title: No. 1046. Signed: Bonaparte. Imprint from colophon. "No. I, 6"--Bottom of p. [1]. Io. Arrêté des consuls de la République, qui règle le mode et la nature des récompenses nationales à décerner aux militaires -- 2o. Proclamation, du 4 nivose an VIII: Bonaparte ... aux Français -- 3o. Proclamation, du 4 nivose an VIII: Bonaparte ... aux soldats français -- 4o. Proclamation, du 4 nivose an VIII: Bonaparte ... à l'Armée d'Italie. Scanner's note: No copyright page found. No table-of-contents pages found.  Title on cover. Damaged, stained pages and cover.  Uneven binding. Skewed text."""
+url = "https://archive.org/details/arreterelatifaux00fran"
+subject = ["France. Armée"]
+extent = "4 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10325 no. 6"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6062pb01"
+internet_archive = "arreterelatifaux00fran"
+
+[scan]
+file = "arreterelatifaux00fran.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arreterelatifaux00fran"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Consulat (1799-1804)"
+role = "author"
+
+[[resp]]
+name = "Napoleon I, Emperor of the French, 1769-1821"
+role = "author"
+
+[[resp]]
+name = "France. Armée. Armée d'Italie"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois, place du Carrousel"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_851314"
+
+[[text]]
+file = "arreterelatifaux00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arreterelatifaux00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arreterelatifaux00fran.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arreterelatifaux00fran.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

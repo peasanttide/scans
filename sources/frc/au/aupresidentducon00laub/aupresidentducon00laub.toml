@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "aupresidentducon00laub"
+type = "pamphlet"
+title = "Au président du Conseil des cinq-cents, le général Laubadère, commandant de la quinzième division militaire."
+language = "fr"
+place = "Paris"
+date = "1798"
+note = """Caption title. At head of title: Corps législatif. Conseil des cinq-cents. "Au quartier général d'Amiens, le 23 germinal de l'an 6 de la République française, une et indivisible"--P. [1]. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  III, 19583. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged pages.  Inconsistent page sizes.  Skewed text.  Loose pages.   Title on cover page."""
+url = "https://archive.org/details/aupresidentducon00laub"
+subject = ["Military dependents"]
+extent = "2 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 12185"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t79s6f66p"
+internet_archive = "aupresidentducon00laub"
+openlibrary_edition = "OL25915583M"
+openlibrary_work = "OL17338882W"
+
+[scan]
+file = "aupresidentducon00laub.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/aupresidentducon00laub"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Laubadère, Joseph Marie, 1745-"
+role = "author"
+
+[[resp]]
+name = "France. Corps législatif (1795-1814). Conseil des cinq-cents"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_825804"
+
+[[text]]
+file = "aupresidentducon00laub.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "aupresidentducon00laub.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "aupresidentducon00laub.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "aupresidentducon00laub.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

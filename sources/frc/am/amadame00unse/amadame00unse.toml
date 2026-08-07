@@ -1,0 +1,60 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "amadame00unse"
+type = "pamphlet"
+title = "A Madame***"
+language = "fr"
+place = "Paris"
+date = "1744"
+note = "Binder's title: Conquest du roy. Caption title. Inlaid. Verse. Scanner's note: No copyright page found. No table-of-contents pages found. Title and cover pages combined."
+url = "https://archive.org/details/amadame00unse"
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "E 5 .L92705 v. 06 no. 46"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1nh0q305"
+internet_archive = "amadame00unse"
+
+[scan]
+file = "amadame00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/amadame00unse"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Prault"
+role = "publisher"
+
+[[text]]
+file = "amadame00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "amadame00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "amadame00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "amadame00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

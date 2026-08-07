@@ -1,0 +1,70 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "alagriculture00unse"
+type = "pamphlet"
+title = "A l'agriculture : stances chantées sur l'air, Père de l'univers."
+language = "fr"
+place = "France?"
+date = "1798"
+note = "Caption title. Signed: Moussard, administrateur municipal du 1er. arrondissement, employé au ministère des relations extérieurs. Imprint from colophon. Dated at end: Paris, le 10 messidor an 6e. de la République française. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover."
+url = "https://archive.org/details/alagriculture00unse"
+subject = ["Agriculture"]
+extent = "3 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 23042"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t07x1mc7d"
+internet_archive = "alagriculture00unse"
+
+[scan]
+file = "alagriculture00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/alagriculture00unse"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Moussard, P"
+role = "author"
+
+[[resp]]
+name = "De l'impr. de Moreaux, rue Helvétius, no. 607"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_847326"
+
+[[text]]
+file = "alagriculture00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "alagriculture00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "alagriculture00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "alagriculture00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

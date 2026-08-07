@@ -1,0 +1,69 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arretduconse00fran_39"
+type = "pamphlet"
+title = "Arrêt du Conseil d'état du roi du 12 mars 1782"
+language = "fr"
+place = "A Paris"
+date = "1782"
+note = """Suppression for various violations of the code regulating the book trade of the anonymous Dèfense de Guy Chartraire, marquis de Ragny. Printed by Faucheux of Lyon. Caption title. "Extrait des registres du Conseil d'état"--p. 1. Imprint from colophon. Scanner's note: No copyright found.  No table of contents found.  Damaged, stained pages and cover.  Title on cover. <br />."""
+url = "https://archive.org/details/arretduconse00fran_39"
+subject = ["Faucheux, 18th cent"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 9 no. 81"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t71w14j1p"
+internet_archive = "arretduconse00fran_39"
+
+[scan]
+file = "arretduconse00fran_39.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arretduconse00fran_39"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "France.Conseil d'Etat"
+role = "author"
+
+[[resp]]
+name = "France. Conseil d'Etat"
+role = "author"
+
+[[resp]]
+name = "de l'Imprimerie royale"
+role = "publisher"
+
+[[text]]
+file = "arretduconse00fran_39.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretduconse00fran_39.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretduconse00fran_39.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretduconse00fran_39.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

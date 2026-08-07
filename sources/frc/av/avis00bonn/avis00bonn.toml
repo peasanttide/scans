@@ -1,0 +1,85 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "avis00bonn"
+type = "pamphlet"
+title = "Avis"
+language = "fr"
+place = "Paris?"
+note = "Notice regarding the second installment of Charles Bonnet's collected works, published 1779-1783. Caption title. Signed: Les editeurs. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Title page and cover are combined."
+url = "https://archive.org/details/avis00bonn"
+subject = [
+    "Bonnet, Charles, 1720-1793",
+    "Booksellers and bookselling",
+    "Philosophical literature",
+    "Science publishing",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1a no. 83"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3131k10t"
+internet_archive = "avis00bonn"
+
+[scan]
+file = "avis00bonn.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/avis00bonn"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Bonnet, Charles, 1720-1793. Works. 1779"
+role = "author"
+
+[[resp]]
+name = "Hardouin, Robert-André"
+role = "bookseller"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[text]]
+file = "avis00bonn.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avis00bonn.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avis00bonn.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avis00bonn.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avis00bonn.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avis00bonn.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

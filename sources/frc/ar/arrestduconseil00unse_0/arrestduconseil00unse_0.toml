@@ -1,0 +1,78 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arrestduconseil00unse_0"
+type = "pamphlet"
+title = "Arrest du Conseil d'État du roi, portant explication de l'article VIII de l'arrêt du 21 mars précédent, qui établit la quatrième loterie royale, sur le payement de l'accroissement des lots de ladite loterie : du 26 mai 1757 : extrait des registres du Conseil d'État"
+language = "fr"
+place = "A Paris"
+date = "1757"
+note = """
+Caption title. Imprint from colophon. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover. 
+Only one numbered page. Back cover is upside down."""
+url = "https://archive.org/details/arrestduconseil00unse_0"
+subject = ["Lotteries"]
+extent = "2 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC suppl. 87 no. 2"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1mh2tn4z"
+internet_archive = "arrestduconseil00unse_0"
+openlibrary_edition = "OL26235485M"
+openlibrary_work = "OL17630070W"
+
+[scan]
+file = "arrestduconseil00unse_0.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arrestduconseil00unse_0"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Conseil d'Etat"
+role = "author"
+
+[[resp]]
+name = "Imprimerie royale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie royale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_863114"
+
+[[text]]
+file = "arrestduconseil00unse_0.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestduconseil00unse_0.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestduconseil00unse_0.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestduconseil00unse_0.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

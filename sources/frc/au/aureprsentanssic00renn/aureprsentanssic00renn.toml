@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "aureprsentanssic00renn"
+type = "pamphlet"
+title = "... Au représentans [sic] du peuple français /"
+language = "fr"
+place = "A Paris"
+date = "1799"
+note = "Caption title. Imprint from colophon. At head of title: Corps législatif. Conseil des anciens. This edition not in Martin & Walter (cf. IV 2: 2235, which specifies: Sur l'état intérieur de la République). Scanner's note: No title page found. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/aureprsentanssic00renn"
+extent = "4 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 1144"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0cv9jf15"
+internet_archive = "aureprsentanssic00renn"
+openlibrary_edition = "OL26207332M"
+openlibrary_work = "OL17603600W"
+
+[scan]
+file = "aureprsentanssic00renn.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/aureprsentanssic00renn"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Rennes (France). Citizens"
+role = "author"
+
+[[resp]]
+name = "France. Corps législatif (1795-1814). Conseil des anciens"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_44042"
+
+[[text]]
+file = "aureprsentanssic00renn.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "aureprsentanssic00renn.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "aureprsentanssic00renn.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "aureprsentanssic00renn.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

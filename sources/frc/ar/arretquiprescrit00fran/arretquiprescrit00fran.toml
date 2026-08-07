@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arretquiprescrit00fran"
+type = "pamphlet"
+title = "... Arr^eté qui prescrit aux vaisseaux de la République de courre sus `a ceux du Roi d'Angleterre : et ordonne de constituer prisonniers de guerre les Anglais enr^olés dans la milice, etc. ; du 2 prairial an XI de la République française [22 mai 1803]"
+language = "fr"
+place = "Paris"
+date = "1803"
+note = "Caption title. Imprint from colophon. At head of title: No. 1817. Bulletin des lois, No. 278. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages."
+url = "https://archive.org/details/arretquiprescrit00fran"
+subject = ["Sea control"]
+extent = "4 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9321"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1hj1n713"
+internet_archive = "arretquiprescrit00fran"
+openlibrary_edition = "OL26222155M"
+openlibrary_work = "OL17617656W"
+
+[scan]
+file = "arretquiprescrit00fran.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arretquiprescrit00fran"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Consulat (1799-1804)"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie du Dép^ot des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_67063"
+
+[[text]]
+file = "arretquiprescrit00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretquiprescrit00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretquiprescrit00fran.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretquiprescrit00fran.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

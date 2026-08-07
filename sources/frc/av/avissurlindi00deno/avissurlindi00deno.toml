@@ -1,0 +1,77 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "avissurlindi00deno"
+type = "pamphlet"
+title = "Avis sur l'Indicateur fidèle, ou, Guide des voyageurs"
+language = "fr"
+place = "Paris?"
+note = """Prospectus for: L'indicateur fidèle, ou, Guide des voyageurs / dressé par le sieur Michel ; mis au jour et dirigé par le sr. Desnos. 4e éd. Paris, 1772. Caption title. "Avis aux amateurs de géographie": p. [2]-[3]. "Notices de nouveautés publiées par le sieur Desnos, pour la présente année": p. [4]. Includes prices. Scanner's note: No copyright found.  No table of contents found.  Damaged, stained pages and cover.  Title on cover. <br />."""
+url = "https://archive.org/details/avissurlindi00deno"
+subject = [
+    "Michel, ingénieur-géographe",
+    "Desnos, Louis-Charles, 1725-1805",
+    "Booksellers and bookselling",
+    "Map publishing",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 12 no. 1"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1rg1c36w"
+internet_archive = "avissurlindi00deno"
+
+[scan]
+file = "avissurlindi00deno.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/avissurlindi00deno"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "Desnos, Louis-Charles,1725-185"
+role = "author"
+
+[[resp]]
+name = "Desnos, Louis-Charles, 1725-1805"
+role = "author"
+
+[[resp]]
+name = "Michel, ingénieur-géographe. Indicateur fidèle"
+role = "author"
+
+[[resp]]
+name = "Louis-Charles Desnos?"
+role = "publisher"
+
+[[text]]
+file = "avissurlindi00deno.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avissurlindi00deno.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avissurlindi00deno.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avissurlindi00deno.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "avissurlalien00unse"
+type = "pamphlet"
+title = "Avis sur l'aliénation des biens nationaux"
+language = "fr"
+place = "A Dijon"
+date = "1790"
+note = """Caption title. "Le Comité de l'Assemblée nationale, pour l'aliénation des biens nationaux, ayant pensé qu'il seroit utile de rendre public le modèle ... . Le directoire du département de la Côte d'Or croit devoir ... profiter de cette occasion pour répandre ... quelques avis importans à ce sujet."--P. [1]. Imprint from colophon. Not in Martin & Walter. Révolution française. "Modèle de soumission à souscrire par les particuliers qui veulent acquérir des domaines nationaux"--P. 3-4. Scanner's note: No copyright page found. No table-of-contents pages found. No title page found."""
+url = "https://archive.org/details/avissurlalien00unse"
+subject = [
+    "Vendors and purchasers",
+    "Government sale of real property",
+    "Land tenure",
+]
+extent = "4 p. ; 25 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9700 no. 1"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2j72k466"
+internet_archive = "avissurlalien00unse"
+openlibrary_edition = "OL26222989M"
+openlibrary_work = "OL17618449W"
+
+[scan]
+file = "avissurlalien00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/avissurlalien00unse"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Côte-d'Or (France). Directoire"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791). Comité de l'aliénation des biens nationaux"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Capel"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_68210"
+
+[[text]]
+file = "avissurlalien00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avissurlalien00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avissurlalien00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avissurlalien00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

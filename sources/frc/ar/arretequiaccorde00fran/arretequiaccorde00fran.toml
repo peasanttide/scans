@@ -1,0 +1,83 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arretequiaccorde00fran"
+type = "pamphlet"
+title = "Arrêté qui accorde amnistie aux habitans des départemens mis hors l'empire de la Constitution par la loi du 23 nivose an VIII : du 25 thermidor an VIII de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1800"
+note = """Caption title. At head of title: No. 1188. "Le premier Consul, signé Bonaparte"--P. 3. Imprint from colophon. "No. 12"--Bottom of p. [1]. Scanner's note: No copyright page found. No table-of-contents pages found. No title page found."""
+url = "https://archive.org/details/arretequiaccorde00fran"
+subject = [
+    "Amnesty",
+    "Refugees",
+]
+extent = "3 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10325 no. 42"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2q57qk8d"
+internet_archive = "arretequiaccorde00fran"
+openlibrary_edition = "OL26223040M"
+openlibrary_work = "OL17618501W"
+
+[scan]
+file = "arretequiaccorde00fran.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arretequiaccorde00fran"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Consulat (1799-1804)"
+role = "author"
+
+[[resp]]
+name = "Napoleon I, Emperor of the French, 1769-1821"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois, place du Carrousel"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_851349"
+
+[[text]]
+file = "arretequiaccorde00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretequiaccorde00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretequiaccorde00fran.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretequiaccorde00fran.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

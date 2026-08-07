@@ -1,0 +1,61 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arrestduconse00fran_77"
+type = "pamphlet"
+title = "Arrest du Conseil d'état du roi, du 15 septembre 1765"
+language = "fr"
+place = "A Paris"
+date = "1765"
+note = "Caption title. Imprint at foot of p. [2]. Annuls the actions taken by Parlement, 4 and 5 September 1765, which condemned the Actes published in 1765 by the Assemblée générale du clergé. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Title page and cover are combined."
+url = "https://archive.org/details/arrestduconse00fran_77"
+subject = ["Censorship"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 7 no. 69"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2w43ck22"
+internet_archive = "arrestduconse00fran_77"
+
+[scan]
+file = "arrestduconse00fran_77.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/arrestduconse00fran_77"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Conseil d'Etat"
+role = "author"
+
+[[resp]]
+name = "France. Conseil d'Etat"
+role = "author"
+
+[[resp]]
+name = "Catholic Church. Assemblée générale du clergé de France"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie royale"
+role = "publisher"
+
+[[text]]
+file = "arrestduconse00fran_77.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestduconse00fran_77.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

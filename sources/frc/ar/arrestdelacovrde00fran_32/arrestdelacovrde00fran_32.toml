@@ -1,0 +1,56 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arrestdelacovrde00fran_32"
+type = "pamphlet"
+title = "Arrest de la Covr de Parlement seante a Tours: svr les bvlles monitoriales de Gregoire"
+language = "fr"
+date = "1591"
+note = "Caption title. Dated 5 August 1591. Scanner's note: No copyright found.  No table of contents found.  Damaged, stained pages and cover.  Title on cover page. <br />Text extends past page edge. No page numbers. <br />."
+url = "https://archive.org/details/arrestdelacovrde00fran_32"
+subject = ["Catholic Church. Pope (1590-1591 : Gregory XIV)"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 1 no. 18"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t97713f3r"
+internet_archive = "arrestdelacovrde00fran_32"
+
+[scan]
+file = "arrestdelacovrde00fran_32.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/arrestdelacovrde00fran_32"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "France.Parlement (Tours)"
+role = "author"
+
+[[resp]]
+name = "France. Parlement (Tours)"
+role = "author"
+
+[[resp]]
+name = "[n.p."
+role = "publisher"
+
+[[text]]
+file = "arrestdelacovrde00fran_32.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacovrde00fran_32.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

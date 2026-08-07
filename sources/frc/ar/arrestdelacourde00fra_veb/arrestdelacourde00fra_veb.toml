@@ -1,0 +1,69 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arrestdelacourde00fra_veb"
+type = "pamphlet"
+title = "Arrest de la cour de Parlement, aides et finances de Dauphiné, du douzieme février mil sept cent soixante-trois"
+language = "fr"
+place = "A Grenoble"
+date = "1763"
+note = "Caption title. Imprint at foot of p. 4. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Title page and cover are combined."
+url = "https://archive.org/details/arrestdelacourde00fra_veb"
+subject = ["Censorship"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 7 no. 22"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8bg89d40"
+internet_archive = "arrestdelacourde00fra_veb"
+
+[scan]
+file = "arrestdelacourde00fra_veb.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arrestdelacourde00fra_veb"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Parlement (Grenoble)"
+role = "author"
+
+[[resp]]
+name = "France. Parlement (Grenoble)"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie d'André Giroud"
+role = "publisher"
+
+[[text]]
+file = "arrestdelacourde00fra_veb.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacourde00fra_veb.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacourde00fra_veb.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacourde00fra_veb.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

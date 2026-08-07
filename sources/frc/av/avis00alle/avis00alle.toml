@@ -1,0 +1,60 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "avis00alle"
+type = "pamphlet"
+title = "Avis"
+language = "fr"
+place = "Paris"
+date = "1763"
+note = """Prospectus for a world map in 40 sheets of the first 80 degrees of longitude. Caption title. First line: Le sieur Alleon de Varcourt, ancien navigateur & ingénieur .. "[Alléon de Varcourt] demande à tous ceux qui voudront avoir des exemplaires, qui fera d'abord celui 79 à 80 dégrés, 300 liv. pour chacun ... Tous ceux qui voudront se faire inscrire sous tel nom qu'il leur plaira s'adresseront au sieur Alleon de Varcourt, rue Michel-le-Comte, chez le vitrier.". "Permis d'imprimer, ce 20 mars 1763.". Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. No pagination.  Title page and cover are combined."""
+url = "https://archive.org/details/avis00alle"
+subject = [
+    "Publishers and publishing",
+    "Map publishing",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1c no. 1"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5gb7s93m"
+internet_archive = "avis00alle"
+
+[scan]
+file = "avis00alle.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/avis00alle"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Alléon de Varcourt"
+role = "author"
+
+[[resp]]
+name = "Grangé, Jean-Augustin, b. 1712?"
+role = "printer"
+
+[[resp]]
+name = "De l'imprimerie de Grangé, rue de la Parcheminerie"
+role = "publisher"
+
+[[text]]
+file = "avis00alle.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avis00alle.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

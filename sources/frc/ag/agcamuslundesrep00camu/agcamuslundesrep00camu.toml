@@ -1,0 +1,78 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "agcamuslundesrep00camu"
+type = "pamphlet"
+title = "A.G. Camus, l'un des représentans du peuple, à ses collègues et à ses concitoyens."
+language = "fr"
+place = "Paris"
+date = "1797"
+note = """Caption title. "A Paris, le 4 ventôse, an 5"--P. 4. Imprint from colophon. Martin & Walter. Révolution française. Camus complains about being falsely accused of ordering payments to hospitals catering for the poor to be stopped. Bibliography: Martin & Walter.  Révolution française,  I, 5991. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover."""
+url = "https://archive.org/details/agcamuslundesrep00camu"
+subject = [
+    "Hospitals",
+    "Almshouses",
+    "Poor",
+]
+extent = "4 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 15701"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7jq60p24"
+internet_archive = "agcamuslundesrep00camu"
+
+[scan]
+file = "agcamuslundesrep00camu.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/agcamuslundesrep00camu"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Camus, Armand-Gaston, 1740-1804"
+role = "author"
+
+[[resp]]
+name = "Baudouin, François-Jean, 1759-1838"
+role = "publisher"
+
+[[resp]]
+name = "De l'imprimerie de Baudouin, place du Carrousel, no. 662"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_832364"
+
+[[text]]
+file = "agcamuslundesrep00camu.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "agcamuslundesrep00camu.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "agcamuslundesrep00camu.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "agcamuslundesrep00camu.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

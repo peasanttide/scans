@@ -1,0 +1,58 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: arretconseil00unse_13
+page: 2
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 3055
+h: 4399
+dpi: 350
+---
+
+2
+
+\
+
+ces lettres de change en argent ou en billets de Caifle au
+rorteur , la confiance du Public envers cette Caille , les a mis
+darfs le cas d’augmenter le nombre défais b'Hets en pro-
+portrondes befoins des Commérons ; mars que la reffource
+fur ianuelle le commerce a du compter pour remettre
+numéraire dans la circulation, fe trouvant retardée dans fes
+efr, ts 'il en réfulteroit pour la Caiffe d’Efcompte un embar»
+ras momentané de continuer au Public la facd.té des e comp-
+
+prM en tro p D grande quantité , s’il n’y étoit pourvu par
+SS Oue lanéceflité d’attendre tout l’effet des reffources que le
+
+l^ke qu luU procuréde fi grands avantages, ils ne vo.ent
+n^t b- moYen plus affuré que d’être autonfés jufqu au
+P e • tr nrocham époque où il eft reconnu que la cir-
+
+Ssï&i»
+
+J 1 les billets de ladite Caille, a ceux aes pur
+
+dans la Cail , lailTex dans le commerce , aux
+
+époque 1 * defdits billets au porteur, & doidon-
+
+ce fort y pour raifon defdit » büle» ? ^ reçus & don-
+
+ner qu ils continueront , Caiffes générales & particu-
+
+nés pour comptant dans toutes^ JC JT / quoi voula P t p0 ur-
+
+lières dans la vnle de - j adit e Caiffe d’Efcimpte qui
+voir, vu 1 état des b.llet. d letties de change &
+
+circulent dans le pubhc & c 1 d ^ excède celu ;
+
+5 u " es fîfLs’ tam de7d P ouze millions de fonds faits par
+defdits billets, tant c - d du bénéfice non encore
+
+les aûionnaires , que de lexcé d » d . 0rmrf r on , Con-
+
+Ær^&JE^ConSal.Contrôleurgéné-
+
+ÉTANT EN SON CoNSETE,

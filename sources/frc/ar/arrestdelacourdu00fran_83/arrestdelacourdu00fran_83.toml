@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arrestdelacourdu00fran_83"
+type = "pamphlet"
+title = "Arrest de la cour du Parlement, qui supprime un imprimé, ayant pour titre, Réponse du Comte de Lally-Tolendal, &c. comme contraire aux réglemens de la librairie :"
+language = "fr"
+place = "A Paris"
+date = "1781"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright found.  No table of contents found.  Damaged, stained pages and cover.  Title on cover. <br />."
+url = "https://archive.org/details/arrestdelacourdu00fran_83"
+subject = [
+    "Lally-Tolendal, Trophime-Gérard, marquis de, 1751-1830",
+    "Eprémesnil, M. d' (Jean-Jacques), 1745-1794",
+    "Réponse du comte de Lally-Tolendal au dernier libelle du sieur Duval d'Eprémesnil",
+    "Prohibited books",
+    "Press law",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 9 no. 70"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1qg4b66n"
+internet_archive = "arrestdelacourdu00fran_83"
+
+[scan]
+file = "arrestdelacourdu00fran_83.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arrestdelacourdu00fran_83"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "France.Parlement (Paris)"
+role = "author"
+
+[[resp]]
+name = "France. Parlement (Paris)"
+role = "author"
+
+[[resp]]
+name = "Simon, P. G. (Pierre-Guillaume), 1722-1787"
+role = "publisher"
+
+[[resp]]
+name = "Chez P.G. Simon, imprimeur du Parlement, rue Mignon Saint-André-des-Arcs"
+role = "publisher"
+
+[[text]]
+file = "arrestdelacourdu00fran_83.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacourdu00fran_83.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacourdu00fran_83.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacourdu00fran_83.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

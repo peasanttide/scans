@@ -1,0 +1,78 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "adressedescorpsa00toul"
+type = "pamphlet"
+title = "Adresse des corps administratifs de la municipalité et du tribunal judiciaire réunis : du 27 juin 1791"
+language = "fr"
+place = "A Toulouse"
+date = "1791"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."
+url = "https://archive.org/details/adressedescorpsa00toul"
+subject = ["Louis XVI, King of France, 1754-1793"]
+extent = "4 p. ; 25 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10298 no. 3"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t86h9pc6j"
+internet_archive = "adressedescorpsa00toul"
+
+[scan]
+file = "adressedescorpsa00toul.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/adressedescorpsa00toul"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Toulouse (France)"
+role = "author"
+
+[[resp]]
+name = "Desclassan, Dominique, d. 1793"
+role = "publisher"
+
+[[resp]]
+name = "Toulouse (France). Tribunal judiciaire"
+role = "author"
+
+[[resp]]
+name = "Chez D. Desclassan, maître-ès-arts, imprimeur de l'Académie des sciences, près la Place-Royale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_856900"
+
+[[text]]
+file = "adressedescorpsa00toul.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adressedescorpsa00toul.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adressedescorpsa00toul.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adressedescorpsa00toul.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

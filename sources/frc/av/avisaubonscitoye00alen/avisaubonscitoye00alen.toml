@@ -1,0 +1,71 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "avisaubonscitoye00alen"
+type = "pamphlet"
+title = "Avis au bons citoyens."
+language = "fr"
+place = "A Alençon"
+date = "1792"
+note = "Caption title. Imprint from colophon. Opening words: Le royalisme aux abois pousse les derniers soupirs à l'approche de germinal. An attack on the anonymous work: Esquisse des principaux révolutionnaires d'Alençon à l'usage des honnêtes gens. Not in Martin & Walter. Scanner's note: No title page found. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/avisaubonscitoye00alen"
+extent = "3 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 1264"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4fn66r03"
+internet_archive = "avisaubonscitoye00alen"
+openlibrary_edition = "OL26207536M"
+openlibrary_work = "OL17603811W"
+
+[scan]
+file = "avisaubonscitoye00alen.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/avisaubonscitoye00alen"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Alençon (France)"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Jouenne fils"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_41911"
+
+[[text]]
+file = "avisaubonscitoye00alen.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avisaubonscitoye00alen.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avisaubonscitoye00alen.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avisaubonscitoye00alen.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

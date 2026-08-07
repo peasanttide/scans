@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arretduconse00fran_78"
+type = "pamphlet"
+title = "Arrêt du Conseil d'état du roi, portant établissement d'une imprimerie à Versailles"
+language = "fr"
+place = "A Versailles"
+date = "1787"
+note = "Caption title. Imprint at foot of p. 3. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Title page and cover are combined."
+url = "https://archive.org/details/arretduconse00fran_78"
+subject = [
+    "Pierres, Philippe-Denis, 1741-1808",
+    "Printing",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 10 no. 44"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5p89wt6z"
+internet_archive = "arretduconse00fran_78"
+
+[scan]
+file = "arretduconse00fran_78.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arretduconse00fran_78"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Conseil d'Etat"
+role = "author"
+
+[[resp]]
+name = "France. Conseil d'Etat"
+role = "author"
+
+[[resp]]
+name = "Pierres, Philippe-Denis, 1741-1808"
+role = "printer"
+
+[[resp]]
+name = "De l'imprimerie de Ph.-D. Pierres"
+role = "publisher"
+
+[[text]]
+file = "arretduconse00fran_78.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretduconse00fran_78.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretduconse00fran_78.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretduconse00fran_78.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

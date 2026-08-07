@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arretedirecto00unse_42"
+type = "pamphlet"
+title = "Arretés du Directoire exécutif, concernant la promulgation du cours des mandats : des 25 et 26 thermidor, an IV de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1796"
+note = """
+Caption title. At head of title: No. 257. At right of title: B. 67. No. 607. "Pour expédition conforme, signé L.M. Revellière-Lépeaux, président; par le Directoire exécutif, le secrétaire-général, Lagarde"--P. 2. Imprint from colophon. "No. 9, 10"--Bottom of p. [1]. Not in Martin & Walter. Révolution française. 1o. Arrêté du Directoire exécutif, qui prescrit la manière dont il sera procédé à la proclamation du cours des mandats, etc., du 25 thermidor -- 2o. Arrêté du Directoire exécutif, qui proclame le terme moyen du cours des mandats pour les cinq jours précedens, du 26 thermidor. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover. 
+Only one numbered page."""
+url = "https://archive.org/details/arretedirecto00unse_42"
+subject = [
+    "Payment",
+    "Debtor and creditor",
+    "Government sale of real property",
+    "Interest rates",
+]
+extent = "2 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10328 no. 45"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9j43wf67"
+internet_archive = "arretedirecto00unse_42"
+openlibrary_edition = "OL26225084M"
+openlibrary_work = "OL17620409W"
+
+[scan]
+file = "arretedirecto00unse_42.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/arretedirecto00unse_42"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Directoire exécutif"
+role = "author"
+
+[[resp]]
+name = "La Revellière-Lépeaux, Louis-Marie de, 1753-1824"
+role = "author"
+
+[[resp]]
+name = "Lagarde, Joseph-Jean, baron, 1755-1840"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois, place du Carrousel"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_856252"
+
+[[text]]
+file = "arretedirecto00unse_42.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretedirecto00unse_42.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

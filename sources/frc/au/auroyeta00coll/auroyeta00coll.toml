@@ -1,0 +1,87 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "auroyeta00coll"
+type = "pamphlet"
+title = "Au roy, et a nosseigneurs de son conseil"
+language = "fr"
+date = "1717"
+note = "Caption title. Lawsuit between two Parisian printers, the respondent being Laurent D'Houry. Dated ca. 12 January 1717."
+url = "https://archive.org/details/auroyeta00coll"
+subject = [
+    "Printers",
+    "Printing",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 3 no. 91"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1kh66j4c"
+internet_archive = "auroyeta00coll"
+
+[scan]
+file = "auroyeta00coll.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/auroyeta00coll"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Collombat, Jacques,d. 1744,"
+role = "author"
+
+[[resp]]
+name = "Collombat, Jacques, d. 1744, complainant"
+role = "author"
+
+[[resp]]
+name = "Houry, Laurent-Charles d', 1717?-1786, respondent"
+role = "author"
+
+[[resp]]
+name = "[Paris"
+role = "publisher"
+
+[[text]]
+file = "auroyeta00coll.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "auroyeta00coll.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "auroyeta00coll.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "auroyeta00coll.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "auroyeta00coll.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "auroyeta00coll.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

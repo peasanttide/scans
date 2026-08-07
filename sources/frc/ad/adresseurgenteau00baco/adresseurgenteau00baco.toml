@@ -1,0 +1,73 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "adresseurgenteau00baco"
+type = "pamphlet"
+title = "Adresse urgente aux habitans de Paris, sur le projet de déchéance du roi."
+language = "fr"
+place = "Paris"
+date = "1792"
+note = "Caption title. Signed: Bacon. Paris ce 7 août 1792, l'an 4 de la liberté. Imprint from colophon. Publisher location from Martin & Walter. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  I, 993. Scanner's note: No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/adresseurgenteau00baco"
+subject = [
+    "Louis XVI, King of France, 1754-1793",
+    "France",
+]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 13774"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t17m4w36z"
+internet_archive = "adresseurgenteau00baco"
+
+[scan]
+file = "adresseurgenteau00baco.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/adresseurgenteau00baco"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Bacon-Tocon, Pierre Jean Jacques, comte, 1738-1817"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Liotte"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_829012"
+
+[[text]]
+file = "adresseurgenteau00baco.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adresseurgenteau00baco.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adresseurgenteau00baco.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adresseurgenteau00baco.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

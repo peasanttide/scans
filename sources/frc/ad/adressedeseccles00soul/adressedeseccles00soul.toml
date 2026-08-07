@@ -1,0 +1,82 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "adressedeseccles00soul"
+type = "pamphlet"
+title = "Adresse des ecclésiastiques de la paroisse de Saint-Sulpice, qui ont signé le serment, a l'Assemblée nationale : imprimée par ordre de l'Assemblée nationale."
+language = "fr"
+place = "Paris"
+date = "1791"
+note = """Caption title. Signed: Soulavie, envoyé des ecclésiastiques qui ont signé. Imprint from colophon. "8 janvier 1791"--Bottom of p. [1]. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  IV:1, 31917. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained, marked and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/adressedeseccles00soul"
+subject = [
+    "France. Constitution civile du clergé (1790)",
+    "Loyalty oaths",
+    "Clergy",
+]
+extent = "3 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 25436"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6sz1kf3x"
+internet_archive = "adressedeseccles00soul"
+
+[scan]
+file = "adressedeseccles00soul.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/adressedeseccles00soul"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Soulavie, Jean-Louis, 1752-1813"
+role = "author"
+
+[[resp]]
+name = "Saint-Sulpice (Church : Paris, France)"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_853939"
+
+[[text]]
+file = "adressedeseccles00soul.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adressedeseccles00soul.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adressedeseccles00soul.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adressedeseccles00soul.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

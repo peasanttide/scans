@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "auxrepresentants00libe"
+type = "pamphlet"
+title = "Aux représentants du peuple composant le Comité de salut public : Paris, le 28 messidor, l'an troisième de la République française."
+language = "fr"
+place = "France?"
+date = "1795"
+note = "Caption title. Signed: Léonard Libert, de Liége. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title page and cover are combined. Damaged, stained and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/auxrepresentants00libe"
+subject = [
+    "Misconduct in office",
+    "Counterrevolutionaries",
+]
+extent = "4 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 21366"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t84j5rd61"
+internet_archive = "auxrepresentants00libe"
+openlibrary_edition = "OL26239359M"
+openlibrary_work = "OL17633898W"
+
+[scan]
+file = "auxrepresentants00libe.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/auxrepresentants00libe"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Libert, Léonard"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale. Comité de salut public"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie des frères Fleschelle et comp. rue Poupée-des-Arts, no. 6"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_844482"
+
+[[text]]
+file = "auxrepresentants00libe.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "auxrepresentants00libe.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "auxrepresentants00libe.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "auxrepresentants00libe.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

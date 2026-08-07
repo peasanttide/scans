@@ -1,0 +1,77 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arretedurepresen00pros"
+type = "pamphlet"
+title = "Arrêté du représentant du peuple délégué par la Convention nationale dans le département de la Côte-d'Or, portant autorisation au directoire de ce département, de faire toutes destitutions ou suspensions des fonctionnaires publics civils de son ressort"
+language = "fr"
+place = "A Dijon"
+date = "1793"
+note = """Caption title. At head of title: Au nom de la République française, une et indivisible. Signed: Prost. Imprint from colophon. Not in Martin & Walter. Révolution française. "Arrêté. Au nom du peuple français, l'an second de la République française, le 2 du second mois"--P. [2]. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/arretedurepresen00pros"
+extent = "[2] p. ; 28 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 27120"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t76t5sx5s"
+internet_archive = "arretedurepresen00pros"
+
+[scan]
+file = "arretedurepresen00pros.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arretedurepresen00pros"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Prost, Claude Charles,1742-1804"
+role = "author"
+
+[[resp]]
+name = "Prost, Claude Charles, 1742-1804"
+role = "author"
+
+[[resp]]
+name = "Causse, P. (Pierre)"
+role = "publisher"
+
+[[resp]]
+name = "Chez P. Causse, imprimeur du département"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_867760"
+
+[[text]]
+file = "arretedurepresen00pros.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretedurepresen00pros.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretedurepresen00pros.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretedurepresen00pros.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

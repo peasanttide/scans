@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arrestducons00fran_10"
+type = "pamphlet"
+title = "Arrest du Conseil d'etat privé du roy, qui ordonne que l'Arrest du Conseil du 17. octobre 1704. (concernant les exemplaires des livres & estampes qui doivent estre fournis aux syndic & adjoints des libraires & imprimeurs de la ville de paris, par toutes personnes qui font imprimer ou reimprimer en vertu de privileges ou permissions du grand Sceau) sera exécuté selon sa forme & teneur, nonobstant l'opposition de syndic & adjoints de la ville de Lyon, &tc"
+language = "fr"
+place = "A Paris"
+date = "1707"
+note = "Caption title. Imprint and imprint date at foot of p. 4. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Title page and cover are combined."
+url = "https://archive.org/details/arrestducons00fran_10"
+subject = [
+    "Legal deposit of books, etc",
+    "Printing",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 3 no. 23"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t50g98s5f"
+internet_archive = "arrestducons00fran_10"
+
+[scan]
+file = "arrestducons00fran_10.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arrestducons00fran_10"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Conseil privé"
+role = "author"
+
+[[resp]]
+name = "France. Conseil privé"
+role = "author"
+
+[[resp]]
+name = "Ballard, Christophe, 1641-1715"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Christophe Ballard, seul imprimeur du roy pour la musique"
+role = "publisher"
+
+[[text]]
+file = "arrestducons00fran_10.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestducons00fran_10.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestducons00fran_10.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestducons00fran_10.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

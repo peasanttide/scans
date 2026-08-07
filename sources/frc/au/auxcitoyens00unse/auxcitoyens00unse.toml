@@ -1,0 +1,64 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "auxcitoyens00unse"
+type = "pamphlet"
+title = "Aux citoyens français : les aristocrates, anagramme, Ah! tristes oracles"
+language = "fr"
+place = "France"
+date = "1790"
+note = "Caption title. Signed: Par M.P.F. Boulerot. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française, I, 4629. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover. No page numbers."
+url = "https://archive.org/details/auxcitoyens00unse"
+subject = [
+    "Lafayette, Marie Joseph Paul Yves Roch Gilbert Du Motier, marquis de, 1757-1834",
+    "Mirabeau, Honoré-Gabriel de Riquetti, comte de, 1749-1791",
+    "Bailly, Jean Sylvain, 1736-1793",
+]
+extent = "[1] p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 26535"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t89h0sv2n"
+internet_archive = "auxcitoyens00unse"
+openlibrary_edition = "OL26228609M"
+openlibrary_work = "OL17623677W"
+
+[scan]
+file = "auxcitoyens00unse.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/auxcitoyens00unse"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Boulerot, Pierre-François"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_862650"
+
+[[text]]
+file = "auxcitoyens00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "auxcitoyens00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

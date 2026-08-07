@@ -1,0 +1,73 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arrestdelacourde00fra_b7u"
+type = "pamphlet"
+title = "Arrest de la Cour de Parlement"
+language = "fr"
+place = "A Rouen"
+date = "1727"
+note = "Caption title. Imprint at foot of p. 4. Scanner's note: No copyright found.  No table of contents found.  Damaged, stained pages and cover.  Title on cover. <br />."
+url = "https://archive.org/details/arrestdelacourde00fra_b7u"
+subject = ["Censorship"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 4 no. 78"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t21c7m486"
+internet_archive = "arrestdelacourde00fra_b7u"
+
+[scan]
+file = "arrestdelacourde00fra_b7u.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arrestdelacourde00fra_b7u"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "France.Parlement (Normandy)"
+role = "author"
+
+[[resp]]
+name = "France. Parlement (Normandy)"
+role = "author"
+
+[[resp]]
+name = "Catholic Church. Diocese of Bayeux (France). Bishop (1719-1728 : Lorraine-Armagnac)"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Jean-B. Besongne le fils"
+role = "publisher"
+
+[[text]]
+file = "arrestdelacourde00fra_b7u.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacourde00fra_b7u.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacourde00fra_b7u.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacourde00fra_b7u.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

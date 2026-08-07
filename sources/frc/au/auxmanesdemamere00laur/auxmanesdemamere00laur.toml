@@ -1,0 +1,71 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "auxmanesdemamere00laur"
+type = "pamphlet"
+title = "Aux manes de ma mère : pièce écrite dans les temps les plus cruels de la Révolution."
+language = "fr"
+place = "France?"
+date = "1800"
+note = "Caption title. Signed: Laurencin, associé de l'Institut. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title page is on the cover. Damaged, stained, and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/auxmanesdemamere00laur"
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 20790"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5k98f13v"
+internet_archive = "auxmanesdemamere00laur"
+openlibrary_edition = "OL26237515M"
+openlibrary_work = "OL17632064W"
+
+[scan]
+file = "auxmanesdemamere00laur.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/auxmanesdemamere00laur"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Laurencin, Jean-Espérance-Blandine, comte de, 1733-1812"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_843460"
+
+[[text]]
+file = "auxmanesdemamere00laur.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "auxmanesdemamere00laur.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "auxmanesdemamere00laur.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "auxmanesdemamere00laur.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

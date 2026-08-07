@@ -1,0 +1,84 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arretedirecto00unse_51"
+type = "pamphlet"
+title = "Arrêtés du Directoire exécutif, concernant les militaires employés dans l'intérieur : du 19 fructidor an IV de la République française une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1796"
+note = """
+Caption title. At head of title: No. 302. "Pour expédition conforme, signé L.M. Revelliere-Lepeaux, président; par le Directoire exécutif, le secrétaire général Lagarde"--P. 2. Imprint from colophon. "No. 6"--Bottom of p. [1]. Not in Martin & Walter. Révolution française. 1o. Arrêté du Directoire exécutif, qui permet d'accorder des congés aux sous-officiers surnuméraires employés dans les demi-brigades de l'intérieur -- 2o. Arrêté du Directoire exécutif, concernant les officiers à la suite des cor;ps qui se trouvent dans l'intérieur. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover. 
+Only one numbered page."""
+url = "https://archive.org/details/arretedirecto00unse_51"
+subject = ["France. Armée"]
+extent = "2 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10328 no. 54"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6f243581"
+internet_archive = "arretedirecto00unse_51"
+
+[scan]
+file = "arretedirecto00unse_51.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arretedirecto00unse_51"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Directoire exécutif"
+role = "author"
+
+[[resp]]
+name = "La Revellière-Lépeaux, Louis-Marie de, 1753-1824"
+role = "author"
+
+[[resp]]
+name = "Lagarde, Joseph-Jean, baron, 1755-1840"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois, place du Carrousel"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_856261"
+
+[[text]]
+file = "arretedirecto00unse_51.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretedirecto00unse_51.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretedirecto00unse_51.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretedirecto00unse_51.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

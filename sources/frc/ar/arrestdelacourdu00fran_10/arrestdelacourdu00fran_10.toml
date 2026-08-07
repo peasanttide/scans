@@ -1,0 +1,83 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arrestdelacourdu00fran_10"
+type = "pamphlet"
+title = "Arrest de la cour du Parlement, portant permission d'exposer & vendre des œufs dans les marchés & places publiques de cette ville & fauxbourgs de Paris, pendant le Carême de cette année 1785 : extrait des registres du Parlement : du cinq février mil sept cent quatre-vingt-cinq"
+language = "fr"
+place = "A Paris"
+date = "1785"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained and/or loose pages. Skewed text. Text on the back cover is upside-down."
+url = "https://archive.org/details/arrestdelacourdu00fran_10"
+subject = [
+    "Eggs",
+    "Markets",
+    "Lent",
+    "Church and state",
+]
+extent = "3 p. ; 28 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC suppl. 93 no. 42"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5gb79k4w"
+internet_archive = "arrestdelacourdu00fran_10"
+
+[scan]
+file = "arrestdelacourdu00fran_10.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arrestdelacourdu00fran_10"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Parlement (Paris)"
+role = "author"
+
+[[resp]]
+name = "Simon, P. G. (Pierre-Guillaume), 1722-1787"
+role = "publisher"
+
+[[resp]]
+name = "Nyon, Nicolas-Henri, b. 1751?"
+role = "publisher"
+
+[[resp]]
+name = "Chez P.G. Simon, & N.H. Nyon, imprimeurs du Parlement, rue Mignon"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_861642"
+
+[[text]]
+file = "arrestdelacourdu00fran_10.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacourdu00fran_10.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacourdu00fran_10.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacourdu00fran_10.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

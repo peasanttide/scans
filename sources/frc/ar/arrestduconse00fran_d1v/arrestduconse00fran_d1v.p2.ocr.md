@@ -1,0 +1,42 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: arrestduconse00fran_d1v
+page: 2
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 3070
+h: 4317
+dpi: 350
+---
+
+Paris, chez Grange, 6c ligné Voifquin avocat; Sa Majefté
+a reconnu qu’on sert permis de traiter dans cet ouvrage^
+des queftions qu’il n’appartient pas aux particuliers de
+difcuter ; d 'interpréter d’une manière faillie 6c injurieufe,.
+des Traités, des Conventions, dont les Souverains feuls
+qui les ont foufcrits, peuvent déterminer te véritable
+fens ; d établir des fyftèmes oppofés aux maximes du
+Gouvernement de Sa Majefté ; d’attaquer des- Princes
+6c des Alliés, pour qui Elle confervera toujours la plus
+parfaite confidératian ; 6c même de compromettre des
+per fou nés attachées au fer vice de Sa Majefté, 6c qui
+ont juftement mérité la confiance de les Miniftres. Et
+ne pouvant trop fe hâter de faire connoître le mécon-
+tentement que Sa Majefté relient d’un ouvrage fi répré-
+henfible : Oui le rapport; Le Roi ÉTANT EN SON.
+Conseil, a fupprimé & fupprime ledit Ouvrage
+intitulé. Mémoire fur des que filons importantes du Droit
+public , 6cc. comme contenant des expreffions téméraires,
+contraires aux véritables principes du Droit public de
+l’Europe , Si aux fentimens de Sa Majefté pour les
+P u! flan ces étrangères 6c pour les Princes fes alliés: Fait
+défendes d’imprimer, vendre 6c débiter ledit ouvrage,
+fous peine de droit ; ordonne à ceux qui en ont des
+exemplaires, de les rapporter au greffe du Confeil, pour
+y être fupprimés. Ordonne que ledit M. e Voiiquin,
+qui a ligné ledit Mémoire, fera 6c demeurera interdit
+de fes fonétions pendant fix mois; à l’effet de quoi le
+préfent arrêt lui fera notifié, de l’ordre de Sa Majefté,
+pour qu’il ait à s’y conformer , 6c tranfcrit fur le regiftre
+du Collège des Avocats aux Confeils: Ordonne pareil-
+lement que le préfent arrêt fera imprimé, iû, publié

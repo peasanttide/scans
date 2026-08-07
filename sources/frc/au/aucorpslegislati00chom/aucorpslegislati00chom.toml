@@ -1,0 +1,87 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "aucorpslegislati00chom"
+type = "pamphlet"
+title = "Au Corps législatif"
+language = "fr"
+place = "France"
+date = "1797"
+note = "Caption title. Signed: P. Chomel, ckargé [sic] de pouvoir des propriétaires du navire le Packet .. Latest date in text: Frimaire, an 6. Variant of Martin & Walter. Révolution française, I, 7500. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover. Irregular pagination. Page 5 misprinted as page 6."
+url = "https://archive.org/details/aucorpslegislati00chom"
+subject = [
+    "Prize law",
+    "First Coalition, War of the, 1792-1797",
+]
+extent = "6 p. ; 25 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 26608"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1ng9sc2m"
+internet_archive = "aucorpslegislati00chom"
+openlibrary_edition = "OL26226961M"
+openlibrary_work = "OL17622188W"
+
+[scan]
+file = "aucorpslegislati00chom.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/aucorpslegislati00chom"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Chomel, P"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_863392"
+
+[[text]]
+file = "aucorpslegislati00chom.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "aucorpslegislati00chom.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "aucorpslegislati00chom.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "aucorpslegislati00chom.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "aucorpslegislati00chom.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "aucorpslegislati00chom.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,73 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arrestduconsei00fran_70"
+type = "pamphlet"
+title = "Arrest du Conseil d’état du roi, qui supprime l’Arrêté & remontrances du Parlement de Dauphiné [du 20 juin 1758]. Du 3 octobre 1759. Extrait des registres du Conseil d’état."
+language = "fr"
+place = "A Paris"
+date = "1759"
+note = "Caption title. Imprint at foot of p. 3. The named work was suppressed because deemed spurious. The suppressed Arrêté is dated 20 June 1758."
+url = "https://archive.org/details/arrestduconsei00fran_70"
+subject = ["Censorship"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case DC133.4.P232 P2 1753 v. 2 no. 5"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2d85bq7n"
+internet_archive = "arrestduconsei00fran_70"
+
+[scan]
+file = "arrestduconsei00fran_70.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arrestduconsei00fran_70"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Conseil d'Etat"
+role = "author"
+
+[[resp]]
+name = "France. Conseil d'Etat"
+role = "author"
+
+[[resp]]
+name = "France. Parlement (Grenoble)"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie royale"
+role = "publisher"
+
+[[text]]
+file = "arrestduconsei00fran_70.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestduconsei00fran_70.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestduconsei00fran_70.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestduconsei00fran_70.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

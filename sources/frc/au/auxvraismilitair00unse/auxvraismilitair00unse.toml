@@ -1,0 +1,67 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "auxvraismilitair00unse"
+type = "pamphlet"
+title = "Aux vrais militaires."
+language = "fr"
+place = "s.l."
+date = "1793"
+note = "Caption title. Without imprint. Opening sentences: Amis, vous êtes témoins des troubles qui désolent la France, votre patrie. Des soldats étrangers accourent de tous côtés pour lui donner des fers, pour la mettre à feu & à sang. Not in Martin & Walter. Scanner's note: No title page found. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/auxvraismilitair00unse"
+extent = "4 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 1197"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9770hr2w"
+internet_archive = "auxvraismilitair00unse"
+openlibrary_edition = "OL26207221M"
+openlibrary_work = "OL17603486W"
+
+[scan]
+file = "auxvraismilitair00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/auxvraismilitair00unse"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_41489"
+
+[[text]]
+file = "auxvraismilitair00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "auxvraismilitair00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "auxvraismilitair00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "auxvraismilitair00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

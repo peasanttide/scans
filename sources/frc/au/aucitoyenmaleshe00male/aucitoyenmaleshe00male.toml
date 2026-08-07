@@ -1,0 +1,71 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "aucitoyenmaleshe00male"
+type = "pamphlet"
+title = "Au citoyen Malesherbes."
+language = "fr"
+place = "Paris"
+date = "1793"
+note = "Caption title. Imprint from colophon. Martin & Walter IV 2: 2188. Scanner's note: No title page found. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/aucitoyenmaleshe00male"
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 1124"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0cv9jf0p"
+internet_archive = "aucitoyenmaleshe00male"
+openlibrary_edition = "OL26207272M"
+openlibrary_work = "OL17603539W"
+
+[scan]
+file = "aucitoyenmaleshe00male.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/aucitoyenmaleshe00male"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Malesherbes, Chrétien Guillaume de Lamoignon de, 1721-1794"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Pain"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_42156"
+
+[[text]]
+file = "aucitoyenmaleshe00male.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "aucitoyenmaleshe00male.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "aucitoyenmaleshe00male.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "aucitoyenmaleshe00male.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

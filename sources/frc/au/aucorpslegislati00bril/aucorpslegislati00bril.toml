@@ -1,0 +1,116 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "aucorpslegislati00bril"
+type = "pamphlet"
+title = "Au Corps législatif"
+language = "fr"
+place = "Paris"
+date = "1795"
+note = "Caption title. Signed: Les administrateurs du poids public, Brillat, Binot, Pelletier. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover."
+url = "https://archive.org/details/aucorpslegislati00bril"
+subject = [
+    "Weighhouses",
+    "Markets",
+    "Weights and measures",
+]
+extent = "8 p. ; 25 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 26549"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2993c95c"
+internet_archive = "aucorpslegislati00bril"
+openlibrary_edition = "OL26227197M"
+openlibrary_work = "OL17622425W"
+
+[scan]
+file = "aucorpslegislati00bril.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/aucorpslegislati00bril"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Brillat, administrateur des poids publics"
+role = "author"
+
+[[resp]]
+name = "Binot, administrateur des poids publics"
+role = "author"
+
+[[resp]]
+name = "Pelletier, administrateur des poids publics"
+role = "author"
+
+[[resp]]
+name = "Bailleul, Antoine, 1762-1843"
+role = "publisher"
+
+[[resp]]
+name = "France. Corps législatif (1795-1814)"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie d'Ant. Bailleul, rue Grange-Batelière, no. 3"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_862664"
+
+[[text]]
+file = "aucorpslegislati00bril.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "aucorpslegislati00bril.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "aucorpslegislati00bril.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "aucorpslegislati00bril.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "aucorpslegislati00bril.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "aucorpslegislati00bril.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "aucorpslegislati00bril.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "aucorpslegislati00bril.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

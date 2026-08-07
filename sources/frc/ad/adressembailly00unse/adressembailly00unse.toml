@@ -1,0 +1,73 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "adressembailly00unse"
+type = "pamphlet"
+title = "Adresse a M. Bailly, maire de Paris"
+language = "fr"
+place = "s.l."
+date = "1789"
+note = "Caption title. Without imprint. Martin & Walter IV 2: 12336. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages."
+url = "https://archive.org/details/adressembailly00unse"
+extent = "3 p. ; 24 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10069"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4mm1fj70"
+internet_archive = "adressembailly00unse"
+
+[scan]
+file = "adressembailly00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/adressembailly00unse"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Paris (France). District du Petit Saint Antoine"
+role = "author"
+
+[[resp]]
+name = "Paris (France)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_70910"
+
+[[text]]
+file = "adressembailly00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adressembailly00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adressembailly00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adressembailly00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

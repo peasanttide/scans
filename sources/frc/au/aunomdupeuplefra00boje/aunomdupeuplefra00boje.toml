@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "aunomdupeuplefra00boje"
+type = "pamphlet"
+title = "Au nom du peuple français"
+language = "fr"
+place = "A Bayonne"
+date = "1795"
+note = "Caption title. At head of title: Liberté. Égalité. Signed: Le 11 floréal, an troisième ... Bo. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover. Only one numbered page."
+url = "https://archive.org/details/aunomdupeuplefra00boje"
+subject = [
+    "France. Armée. Armée des Pyrénées-Occidentales",
+    "Inland navigation",
+]
+extent = "2 p. ; 25 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 26521"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2b90dj72"
+internet_archive = "aunomdupeuplefra00boje"
+openlibrary_edition = "OL26228505M"
+openlibrary_work = "OL17623574W"
+
+[scan]
+file = "aunomdupeuplefra00boje.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/aunomdupeuplefra00boje"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Bo, Jean-Baptiste-Jérome,1743-1814"
+role = "author"
+
+[[resp]]
+name = "Bo, Jean-Baptiste-Jérome, 1743-1814"
+role = "author"
+
+[[resp]]
+name = "Chez Racle, imprimeur de l'Armée, maison d'administration du district"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_862637"
+
+[[text]]
+file = "aunomdupeuplefra00boje.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "aunomdupeuplefra00boje.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "aunomdupeuplefra00boje.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "aunomdupeuplefra00boje.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

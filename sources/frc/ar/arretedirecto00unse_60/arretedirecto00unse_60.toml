@@ -1,0 +1,84 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arretedirecto00unse_60"
+type = "pamphlet"
+title = "Arrêtés du Directoire exécutif, concernant l'administration des hospices civils : du 23 brumaire, an V de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1796"
+note = """Caption title. At head of title: No. 351. "Pour expédition conforme, signé P. Barras, président; par le Directoire exécutif, le secrétaire général, Lagarde"--P. 3. Imprint from colophon. "No. 14"--Bottom of p. [1]. Not in Martin & Walter. Révolution française. 1o. Arrêté du Directoire exécutif, qui prescrit un mode pour la perception et l'emploi des revenus des hôpitaux civils situés dans une même commune -- 2o. Arrêté du Directoire exécutif, concernant la surveillance des hospices civils dans les communes où il y a plusieurs administrations municipales. Scanner's note: No copyright page found. No table-of-contents pages found.  Title on cover page. Damaged, stained pages and cover."""
+url = "https://archive.org/details/arretedirecto00unse_60"
+subject = ["Hospitals"]
+extent = "3 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10328 no. 63"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t56f1017q"
+internet_archive = "arretedirecto00unse_60"
+openlibrary_edition = "OL26225546M"
+openlibrary_work = "OL17620862W"
+
+[scan]
+file = "arretedirecto00unse_60.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arretedirecto00unse_60"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Directoire exécutif"
+role = "author"
+
+[[resp]]
+name = "Barras, Paul, vicomte de, 1755-1829"
+role = "author"
+
+[[resp]]
+name = "Lagarde, Joseph-Jean, baron, 1755-1840"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Depot des lois, place du Carrousel : Et se trouve dans les villes chefs-lieux de département, au bureau de correspondance du Dépôt des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_856270"
+
+[[text]]
+file = "arretedirecto00unse_60.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretedirecto00unse_60.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretedirecto00unse_60.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretedirecto00unse_60.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

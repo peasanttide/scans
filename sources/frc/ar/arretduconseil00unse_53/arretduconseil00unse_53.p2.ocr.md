@@ -1,0 +1,50 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: arretduconseil00unse_53
+page: 2
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 2951
+h: 4003
+dpi: 350
+---
+
+2
+
+de vente qu’ElIe a réglée dans une proportion inférieure à ce
+nue coûteront réellement les frais de voiture dont Elie veut
+bien que l’excédant foit à fa charge ; &. afin que le poids de
+cette augmentation , qui n’aura pas lieu fur le bois mis en relerve
+pour les Boulangers . foit moins fenfible, Elie a en meme temps
+
+réfoiu de faire prendre les précautions convenables pour taire
+cefler tous abus, vexations & demandes ira modérées fur le prix
+des voitures fervant à tranfporter le bois des chantiers dans les
+différens quartiers de ladite Ville & de fes Faubourgs^ A quoi
+voulant pourvoir : Ouï le rapport du fieur de Galonné, Confeiller
+ordinaire au Confeil royal , Contrôleur général des finances ;
+Le Roi étant en son Conseil, a ordonne &
+ordonne ; Que les voitures & chevaux nécelfaires pour le
+tranfport par terre des bois deltinés à l’approvifionnement de
+fa bonne ville de Paris , & qui fe trouvent préfentement dans
+les lieux le plus à fa proximité , feront fournis & employés
+fur les ordres des fleurs Lieutenant général de Police, Prévôt
+des Marchands & Intendant de la généralité , lefquels en
+régleront les payemens à raifon des difiances & des prix locaux.
+Ordonne en outre qu’à compter du jour delà publication du
+préfent arrêt, le prix du bois à brûler, fera augmente pendant
+l’efpace de quinze jours feulement , de Six livres par chaque
+voie • de laquelle augmentation les Marchands feront tenus
+de compter, pour le produit être employé aux frais extraor-
+dinaires du tranfport par terre, dont 1 excedant fera fupporte
+par Sa Majefté , & payé de fes deniers. Excepte neanmoins
+Sa Majefté de ladite augmentation , les quantités de bois qui
+ont été mifes en réferve pour les Boulangers , fous la condition
+des précautions exades & févères qui feront obfervees pour
+éviter toute fraude & collufion de leur part , & fous les peines
+de cinq cents livres d’amende , auxquelles ils feront condamnes
+en cas de contravention. Veut Sa Majefté que le prix des
+voitures pour tranfporter le bois à brûler des chantiers dans
+les differens quartiers de la ville , foit incelfamment réglé
+fur le pied de la voie entière , par les Prévôt des Marchands ,
+Échevins & Officiers prépolés par le Bureau de la ville., Enjoini

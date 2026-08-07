@@ -1,0 +1,78 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arretcons00unse_20"
+type = "pamphlet"
+title = "Arrêt du Conseil d'État du roi, qui déclare nuls les marchés de primes & engagemens illicites, concernant les dividendes des actions de la Caisse d'escompte, & autres de pareil genre : du 24 janvier 1785 : extrait des registres du Conseil d'État"
+language = "fr"
+place = "A Paris"
+date = "1785"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover. Text on back cover is upside-down."
+url = "https://archive.org/details/arretcons00unse_20"
+subject = [
+    "Caisse d'escompte (France)",
+    "Securities fraud",
+    "Annuities",
+]
+extent = "3 p. ; 28 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 27418"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8z94cz1w"
+internet_archive = "arretcons00unse_20"
+
+[scan]
+file = "arretcons00unse_20.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arretcons00unse_20"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Conseil d'Etat"
+role = "author"
+
+[[resp]]
+name = "Imprimerie royale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie royale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_863227"
+
+[[text]]
+file = "arretcons00unse_20.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretcons00unse_20.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretcons00unse_20.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretcons00unse_20.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

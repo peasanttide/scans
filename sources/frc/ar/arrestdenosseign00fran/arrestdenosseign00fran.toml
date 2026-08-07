@@ -1,0 +1,73 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arrestdenosseign00fran"
+type = "pamphlet"
+title = "Arrest de nosseignevrs de Parlement du 10. Mars, 1635. donné contre les meusniers, pour la remboursement des frais faits par la communeauté des marchands frequentans la riuiere de Loire, pour le déplacement des moulins trouuez en la voye nauigable."
+language = "fr"
+place = "Orleans"
+date = "1635"
+note = "Dated March 10, 1635."
+url = "https://archive.org/details/arrestdenosseign00fran"
+extent = "4 p.18 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case F 39 .326 1635fp"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t55f4969g"
+internet_archive = "arrestdenosseign00fran"
+
+[scan]
+file = "arrestdenosseign00fran.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arrestdenosseign00fran"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Parlement (Paris)"
+role = "author"
+
+[[resp]]
+name = "France. Parlement (Paris)"
+role = "author"
+
+[[resp]]
+name = "Chez la vefue Hotot, 1635"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_386057"
+
+[[text]]
+file = "arrestdenosseign00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdenosseign00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdenosseign00fran.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdenosseign00fran.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

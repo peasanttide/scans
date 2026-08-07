@@ -1,0 +1,59 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arrestduconse00fran_6"
+type = "pamphlet"
+title = "Arrest du Conseil d'estat du roy, du 27. août 1731"
+language = "fr"
+date = "1731"
+note = "Regulations for printers. Endorsed at bottom: Fait à Limoges le 18. octobre 1731. Signé, Aubert de Tourny. Et plus bas, par Monseigneur, Dupin. Scanner's note: No copyright page found. No table-of-contents pages found. Title and cover pages combined."
+url = "https://archive.org/details/arrestduconse00fran_6"
+subject = [
+    "Printing industry",
+    "Printing",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 5 no. 14"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4fn6sm29"
+internet_archive = "arrestduconse00fran_6"
+
+[scan]
+file = "arrestduconse00fran_6.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/arrestduconse00fran_6"
+ppi = 350
+note = "Scanned on fold1.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Conseil d'Etat"
+role = "author"
+
+[[resp]]
+name = "France. Conseil d'Etat"
+role = "author"
+
+[[resp]]
+name = "[Limoges"
+role = "publisher"
+
+[[text]]
+file = "arrestduconse00fran_6.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestduconse00fran_6.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

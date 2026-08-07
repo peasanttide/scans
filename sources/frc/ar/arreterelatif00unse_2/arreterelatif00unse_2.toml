@@ -1,0 +1,81 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arreterelatif00unse_2"
+type = "pamphlet"
+title = "Arrêté relatif à l'établissement de bureaux de douane pour la visite et le plombage des marchandises expédiées à l'étranger : du 25 ventose an VIII de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1800"
+note = """Caption title. At head of title: No. 1107. "Le premier Consul, signé Bonaparte"--P. 2. Imprint from colophon. "No. 9"--Bottom of p. [1]. Scanner's note: No copyright page found. No table-of-contents pages found.  Title on cover. Damaged, stained pages and cover.  Uneven binding. Skewed text."""
+url = "https://archive.org/details/arreterelatif00unse_2"
+subject = [
+    "Customs administration",
+    "Seals (Law)",
+]
+extent = "2 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10325 no. 21"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4xh4qn43"
+internet_archive = "arreterelatif00unse_2"
+
+[scan]
+file = "arreterelatif00unse_2.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arreterelatif00unse_2"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Consulat (1799-1804)"
+role = "author"
+
+[[resp]]
+name = "Napoleon I, Emperor of the French, 1769-1821"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Depot des lois, place du Carrousel"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_851328"
+
+[[text]]
+file = "arreterelatif00unse_2.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arreterelatif00unse_2.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arreterelatif00unse_2.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arreterelatif00unse_2.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

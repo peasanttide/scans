@@ -1,0 +1,74 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arretedudistrict00lyon"
+type = "pamphlet"
+title = "Arrêté du district de la Campagne de Lyon"
+language = "fr"
+place = "A Lyon"
+date = "1795"
+note = "Caption title. At head of title: Egalité. Liberté. Signed: Rieussec, président, Peillon ainé, Cazot, Desvignes, Reymond, Costerisan, administrateurs, Goiran, procureur-syndic & Jal, secretaire. Imprint from colophon. Dated at end: Faite en conseil, séance publique, à Lyon, le 7 prairial de la 3e année républicaine. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages."
+url = "https://archive.org/details/arretedudistrict00lyon"
+subject = [
+    "Assignats",
+    "Taxation",
+    "Recording and registration",
+]
+extent = "3 p. ; 25 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9895 no. 4"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9382gm31"
+internet_archive = "arretedudistrict00lyon"
+
+[scan]
+file = "arretedudistrict00lyon.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arretedudistrict00lyon"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Lyon (France). District de la Campagne"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie des halles de la Grenette"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_855188"
+
+[[text]]
+file = "arretedudistrict00lyon.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretedudistrict00lyon.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretedudistrict00lyon.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretedudistrict00lyon.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

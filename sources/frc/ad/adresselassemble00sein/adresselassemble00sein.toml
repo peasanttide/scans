@@ -1,0 +1,73 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "adresselassemble00sein"
+type = "pamphlet"
+title = "Adresse a l'Assemblée nationale : prononcé à la séance du soir du 21 août [1790] /"
+language = "fr"
+place = "A Paris"
+date = "1790"
+note = """Caption title. Imprint from colophon. At lower left on p.[1]: Procès-verbal No. 387. Martin & Walter IV 2: 16538. "Nous vous dénonçons l'infraction la plus formelle à vos décrets, la violation des propriétés, de la sûreté individuelle, des droits sacrés de l'homme ...": p.[1]. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on cover page. Damaged, stained and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/adresselassemble00sein"
+extent = "4 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 8228"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4bp5614n"
+internet_archive = "adresselassemble00sein"
+
+[scan]
+file = "adresselassemble00sein.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/adresselassemble00sein"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Seine-et-Oise (France)"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "Chez Baudouin"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_5876"
+
+[[text]]
+file = "adresselassemble00sein.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adresselassemble00sein.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adresselassemble00sein.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adresselassemble00sein.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

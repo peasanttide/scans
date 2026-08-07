@@ -1,0 +1,78 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arretesrelatifs00usne"
+type = "pamphlet"
+title = "Arrêtés relatifs aux jeunes gens de la première réquisition : des 29 ventose, 7 et 10 germinal, an 4e. de la République française, une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1796"
+note = """
+Caption title. At head of title: No. 123. At right of title: B. 36. No. 273. "Pour expédition conforme, signé Le Tourneur, président; par le Directoire exécutif, le secrétaire-général, Lagarde"--P. 2. Imprint from colophon. "B. 36. No. 275"--P. 2, left margin. Not in Martin & Walter. Révolution française. Io. Arrêté du Directoire exécutif, relatif à la révision des congés accordés aux citoyens de la première réquisition, faite depuis la loi du 4 frimaire, jusqu'à son arrêté du 4 ventose, du 29 ventose, an IV -- 2o. Arrêté du Directoire exécutif, concernant les conducteurs et charretiers employés dans les équipages militaires, du 7 germinal --3o. Arrêté du Directoire exécutif, portant que les jeunes gens de la première réquisition, seront admis au concours public des écoles de santé de Strasbourg et de Montpellier, du 10 germinal. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover. 
+Only one numbered page."""
+url = "https://archive.org/details/arretesrelatifs00usne"
+subject = [
+    "France. Armée",
+    "Ecole de santé de Montpellier",
+    "Ecole de santé de Strasbourg",
+    "Draftees",
+    "Soldiers",
+]
+extent = "2 p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10328 no. 14"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2h75jf8m"
+internet_archive = "arretesrelatifs00usne"
+
+[scan]
+file = "arretesrelatifs00usne.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/arretesrelatifs00usne"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Directoire exécutif"
+role = "author"
+
+[[resp]]
+name = "Le Tourneur, Etienne-François-Louis-Honoré, 1751-1817"
+role = "author"
+
+[[resp]]
+name = "Lagarde, Joseph-Jean, baron, 1755-1840"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Depot des lois"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_856220"
+
+[[text]]
+file = "arretesrelatifs00usne.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arretesrelatifs00usne.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

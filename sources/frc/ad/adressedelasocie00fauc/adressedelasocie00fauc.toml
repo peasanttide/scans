@@ -1,0 +1,81 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "adressedelasocie00fauc"
+type = "pamphlet"
+title = "Adresse de la Société des amis de la constitution à Caen, aux sociétés patriotiques du Calvados, & à toutes les sociétés civiques de France."
+language = "fr"
+place = "A Caen"
+date = "1791"
+note = """Caption title. At head of title: Les amis de la constitution a Caen. De l'union la force. Calvados. Signed: Claude Fauchet, évêque du Calvados, président. "Imprimé par ordre & aux frais de la Société des amis de la constitution, à Caen"--P. 4. Imprint from colophon. Martin & Walter. Révolution française. Concerns the division between the Feuillants and the Jacobins. Bibliography: Martin & Walter.  Révolution française,  II, 13105. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."""
+url = "https://archive.org/details/adressedelasocie00fauc"
+subject = [
+    "Club des Feuillants",
+    "Jacobins",
+]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 18453"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5s80cx73"
+internet_archive = "adressedelasocie00fauc"
+
+[scan]
+file = "adressedelasocie00fauc.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/adressedelasocie00fauc"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Fauchet, Claude, 1744-1793"
+role = "author"
+
+[[resp]]
+name = "Chalopin, Pierre-Jean-Aimé, active 1785-1822"
+role = "publisher"
+
+[[resp]]
+name = "Société des amis de la constitution (Caen, France)"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de P. Chalopin, imprimeur & membre de la Société des amis de la constitution"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_838427"
+
+[[text]]
+file = "adressedelasocie00fauc.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adressedelasocie00fauc.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adressedelasocie00fauc.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "adressedelasocie00fauc.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

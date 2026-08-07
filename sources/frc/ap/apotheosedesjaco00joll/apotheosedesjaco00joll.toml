@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "apotheosedesjaco00joll"
+type = "pamphlet"
+title = "Apothéose des Jacobins : suite de la fête du 2 pluviôse."
+language = "fr"
+place = "Paris"
+date = "1795"
+note = "Caption title. Signed at end: Baralere. Imprint from colophon. Place and date of publication from Martin & Walter. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  II, 17343. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover."
+url = "https://archive.org/details/apotheosedesjaco00joll"
+subject = [
+    "Louis XVI, King of France, 1754-1793",
+    "France. Convention nationale",
+    "Jacobins",
+]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 19957"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5gb7462x"
+internet_archive = "apotheosedesjaco00joll"
+openlibrary_edition = "OL26205409M"
+openlibrary_work = "OL17601731W"
+
+[scan]
+file = "apotheosedesjaco00joll.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/apotheosedesjaco00joll"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Jollivet, Jean-Baptiste-Moïse, comte, 1754-1818"
+role = "author"
+
+[[resp]]
+name = "Gorsas, Antoine-Joseph, Veuve"
+role = "publisher"
+
+[[resp]]
+name = "De l'imprimerie de la veuve d'Ant. Jos. Gorsas, rue neuve des Petits-Champs, au coin de celle de la Loi, no. 741"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_841707"
+
+[[text]]
+file = "apotheosedesjaco00joll.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "apotheosedesjaco00joll.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "apotheosedesjaco00joll.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "apotheosedesjaco00joll.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

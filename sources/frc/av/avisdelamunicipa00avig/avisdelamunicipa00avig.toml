@@ -1,0 +1,71 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "avisdelamunicipa00avig"
+type = "pamphlet"
+title = "Avis de la municipalité aux citoyens"
+language = "fr"
+place = "A Avignon"
+date = "1792"
+note = "Caption title. Imprint from colophon. Signed and dated at end: Donné `a Avignon dans la Maison commune, le 9 mars 1791. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages."
+url = "https://archive.org/details/avisdelamunicipa00avig"
+extent = "3 p. ; 24 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9398"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4rj9k31h"
+internet_archive = "avisdelamunicipa00avig"
+openlibrary_edition = "OL26222166M"
+openlibrary_work = "OL17617667W"
+
+[scan]
+file = "avisdelamunicipa00avig.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/avisdelamunicipa00avig"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Avignon (France)"
+role = "author"
+
+[[resp]]
+name = "Chez Tournel"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_67276"
+
+[[text]]
+file = "avisdelamunicipa00avig.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avisdelamunicipa00avig.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avisdelamunicipa00avig.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "avisdelamunicipa00avig.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

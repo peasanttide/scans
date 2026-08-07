@@ -1,0 +1,69 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "arrestdelacourde00fra_8ky"
+type = "pamphlet"
+title = "Arrest de la Cour des aydes, qui défend à tous imprimeurs d'imprimer les arrests & ordonnances émanez d'icelle, sans la permission de ladite cour"
+language = "fr"
+place = "A Paris"
+date = "1717"
+note = "Caption title. Imprint and imprint date at foot of p. 3."
+url = "https://archive.org/details/arrestdelacourde00fra_8ky"
+subject = ["Printing"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 3 no. 80"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1dk1224p"
+internet_archive = "arrestdelacourde00fra_8ky"
+
+[scan]
+file = "arrestdelacourde00fra_8ky.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/arrestdelacourde00fra_8ky"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France.Cour des aides"
+role = "author"
+
+[[resp]]
+name = "France. Cour des aides"
+role = "author"
+
+[[resp]]
+name = "Chez la veuve de François Muguet, Hubert Muguet, & Loüis Denys de La Tour"
+role = "publisher"
+
+[[text]]
+file = "arrestdelacourde00fra_8ky.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacourde00fra_8ky.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacourde00fra_8ky.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "arrestdelacourde00fra_8ky.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
