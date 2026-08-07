@@ -1,0 +1,57 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "monitoire00cath"
+type = "pamphlet"
+title = "Monitoire"
+language = "fr"
+place = "A Paris"
+date = "1752"
+note = "Imprint at lower left. Dated 7 December 1752. Against an untitled publication, with initial words: Ira Dei. In contemporary ms: Publié pour la premiere fois le dix decembre de l'année mille sept cent cinquante deux. Scanner's note: No copyright page found. No table-of-contents pages found. Title and cover pages combined."
+url = "https://archive.org/details/monitoire00cath"
+subject = ["Censorship"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 5 no. 143"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t62577k6v"
+internet_archive = "monitoire00cath"
+
+[scan]
+file = "monitoire00cath.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/monitoire00cath"
+ppi = 350
+note = "Scanned on fold1.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Catholic Church.Archdiocese of Paris (France)"
+role = "author"
+
+[[resp]]
+name = "Catholic Church. Archdiocese of Paris (France)"
+role = "author"
+
+[[resp]]
+name = "Chez Pierre-Guillaume Simon"
+role = "publisher"
+
+[[text]]
+file = "monitoire00cath.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "monitoire00cath.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,83 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "motiondordrefait00leme"
+type = "pamphlet"
+title = "Motion d'ordre faite par Lemercier, de la Charente-Inférieure : séance du 9 thermidor an 7."
+language = "fr"
+place = "A Paris"
+date = "1799"
+note = "Caption title. At head of title: Corps législatif. Conseil des anciens. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  III, 20833. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page."
+url = "https://archive.org/details/motiondordrefait00leme"
+subject = [
+    "France. Corps législatif (1795-1814). Conseil des anciens",
+    "Nationalism",
+]
+extent = "4 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 12330"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7cs0gz88"
+internet_archive = "motiondordrefait00leme"
+openlibrary_edition = "OL25915301M"
+openlibrary_work = "OL17338594W"
+
+[scan]
+file = "motiondordrefait00leme.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/motiondordrefait00leme"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Lemercier, Louis-Nicolas, 1755-1849"
+role = "author"
+
+[[resp]]
+name = "France. Corps législatif (1795-1814). Conseil des anciens"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_827057"
+
+[[text]]
+file = "motiondordrefait00leme.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "motiondordrefait00leme.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "motiondordrefait00leme.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "motiondordrefait00leme.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

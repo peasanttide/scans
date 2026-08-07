@@ -1,0 +1,52 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "mandementdugrand00chre"
+type = "pamphlet"
+title = "Mandement du grand prieur de l'Abbaye royale de S. Germain des Prez, immédiate au S. Siége :"
+language = "fr"
+place = "Paris"
+date = "1746"
+note = "Binder's title: Conquest du roy. Scanner's note: No copyright page found. No table-of-contents pages found. Title and cover pages combined."
+url = "https://archive.org/details/mandementdugrand00chre"
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "E 5 .L92705 v. 09 no. 38"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5r84f972"
+internet_archive = "mandementdugrand00chre"
+
+[scan]
+file = "mandementdugrand00chre.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/mandementdugrand00chre"
+ppi = 350
+note = "Scanned on fold1.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Chrestien, Jacques Nicolas"
+role = "author"
+
+[[resp]]
+name = "P.G. Simon"
+role = "publisher"
+
+[[text]]
+file = "mandementdugrand00chre.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "mandementdugrand00chre.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

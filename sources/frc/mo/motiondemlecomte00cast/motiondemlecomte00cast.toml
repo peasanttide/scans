@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "motiondemlecomte00cast"
+type = "pamphlet"
+title = "Motion de M. le comte de Castellane, du 22 août 1789."
+language = "fr"
+place = "A Versailles"
+date = "1789"
+note = "Caption title. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  I, 6355. Scanner's note: No copyright page found. No table-of-contents pages found.  Title and cover are combined."
+url = "https://archive.org/details/motiondemlecomte00cast"
+subject = [
+    "France",
+    "Liberty of conscience",
+    "Freedom of religion",
+]
+extent = "3 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 15845"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4wh7h01g"
+internet_archive = "motiondemlecomte00cast"
+openlibrary_edition = "OL25951257M"
+openlibrary_work = "OL17372257W"
+
+[scan]
+file = "motiondemlecomte00cast.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/motiondemlecomte00cast"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Castellane, Boniface Louis André, marquis de, 1758-1837"
+role = "author"
+
+[[resp]]
+name = "Baudouin, François-Jean, 1759-1838"
+role = "publisher"
+
+[[resp]]
+name = "Chez Baudouin, imprimeur de l'Assemblée nationale, avenue de Saint-Cloud, no. 69"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_833043"
+
+[[text]]
+file = "motiondemlecomte00cast.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "motiondemlecomte00cast.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "motiondemlecomte00cast.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "motiondemlecomte00cast.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

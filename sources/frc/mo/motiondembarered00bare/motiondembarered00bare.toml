@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "motiondembarered00bare"
+type = "pamphlet"
+title = "Motion de M. Barere de Vieuzac sur les prisons d'état : du 15 octobre 1789, séance du soir."
+language = "fr"
+place = "A Paris"
+date = "1789"
+note = "Caption title. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  I, 1600. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on cover."
+url = "https://archive.org/details/motiondembarered00bare"
+subject = [
+    "Prisons",
+    "Lettres de cachet",
+    "False imprisonment",
+]
+extent = "4 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 13947"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t40s4fw7r"
+internet_archive = "motiondembarered00bare"
+openlibrary_edition = "OL25918607M"
+openlibrary_work = "OL17341701W"
+
+[scan]
+file = "motiondembarered00bare.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/motiondembarered00bare"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Barère, B. (Bertrand), 1755-1841"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_829475"
+
+[[text]]
+file = "motiondembarered00bare.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "motiondembarered00bare.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "motiondembarered00bare.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "motiondembarered00bare.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

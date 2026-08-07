@@ -1,0 +1,71 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "messieurslesmemb00fleu"
+type = "pamphlet"
+title = "A Messieurs les membres du département des Ardennes, sur la réforme des abus."
+language = "fr"
+place = "A Mézieres"
+date = "1790"
+note = "Caption title. Signed: M. de Fleury, du regiment Royal-des-Vaisseaux. Imprint from colophon. Variant of Martin & Walter. Révolution française, II, 13491. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."
+url = "https://archive.org/details/messieurslesmemb00fleu"
+extent = "3 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 18640"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3c016j02"
+internet_archive = "messieurslesmemb00fleu"
+openlibrary_edition = "OL26202699M"
+openlibrary_work = "OL17599165W"
+
+[scan]
+file = "messieurslesmemb00fleu.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/messieurslesmemb00fleu"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Fleury, M. de"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie du département des Ardennes & de la municipalité"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_839190"
+
+[[text]]
+file = "messieurslesmemb00fleu.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "messieurslesmemb00fleu.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "messieurslesmemb00fleu.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "messieurslesmemb00fleu.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,83 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "motiondordredejo00jour"
+type = "pamphlet"
+title = "Motion d'ordre de Jourdan (de la Haute-Vienne) sur le cinquième anniversaire du 10 août : séance du 22 thermidor an V."
+language = "fr"
+place = "A Paris"
+date = "1797"
+note = "Caption title. At head of title: Corps législatif, Conseil des cinq-cents. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  II, 17513. Scanner's note: Title page located on front cover. No copyright page found. No table-of-contents pages found. Discolored pages and cover. Worn and damaged cover. Skewed text."
+url = "https://archive.org/details/motiondordredejo00jour"
+subject = [
+    "Louis XVI, King of France, 1754-1793",
+    "Memorials",
+]
+extent = "3 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 12033"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t74v18q4m"
+internet_archive = "motiondordredejo00jour"
+openlibrary_edition = "OL25915603M"
+openlibrary_work = "OL17338903W"
+
+[scan]
+file = "motiondordredejo00jour.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/motiondordredejo00jour"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Jourdan, Jean-Baptiste, 1762-1833"
+role = "author"
+
+[[resp]]
+name = "France. Corps législatif (1795-1814). Conseil des cinq-cents"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_826032"
+
+[[text]]
+file = "motiondordredejo00jour.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "motiondordredejo00jour.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "motiondordredejo00jour.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "motiondordredejo00jour.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

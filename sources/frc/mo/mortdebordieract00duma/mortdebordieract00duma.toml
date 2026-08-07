@@ -1,0 +1,89 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "mortdebordieract00duma"
+type = "pamphlet"
+title = "Mort de Bordier, acteur des Variétés."
+language = "fr"
+place = "Paris?"
+date = "1789"
+note = "Caption title. Signed: Dumaniant, acteur des Variétés. Imprint from colophon. Publication date inferred from date of Bordier's execution: 21 August 1789. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Damaged pages. Title on cover."
+url = "https://archive.org/details/mortdebordieract00duma"
+subject = [
+    "Bordier, François, 1758-1789",
+    "Treason",
+]
+extent = "6 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 17875"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6wx2c746"
+internet_archive = "mortdebordieract00duma"
+
+[scan]
+file = "mortdebordieract00duma.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/mortdebordieract00duma"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Dumaniant, M. (Antoine-Jean), 1752-1828"
+role = "author"
+
+[[resp]]
+name = "Laporte, Antoine-Louis-Guillaume-Catherine, 1746-1817"
+role = "printer"
+
+[[resp]]
+name = "De l'imprimerie de Laporte, rue des Noyers"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_836771"
+
+[[text]]
+file = "mortdebordieract00duma.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "mortdebordieract00duma.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "mortdebordieract00duma.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "mortdebordieract00duma.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "mortdebordieract00duma.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "mortdebordieract00duma.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

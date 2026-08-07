@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "mandementdesmess00heri"
+type = "pamphlet"
+title = "Mandement des Messieurs les vicaires generaux du chapitre, et archidiacres de l'Eglise de Paris, administrateurs de l'archevêché, le siége vacant, portant ordre de faire des priéres & services pour le repos de l'ame de feu Monseigneur Jacques-Bonne Gigault de Bellefont, archevêque de Paris"
+language = "fr"
+place = "Paris"
+date = "1746"
+note = "Caption title. Imprint from colophon. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on the cover. Uneven binding. Skewed text. Irregular pagination. Page numbers have been marked or altered. Damaged, stained, torn and/or loose pages. Some text may be lost in the binding."
+url = "https://archive.org/details/mandementdesmess00heri"
+subject = [
+    "Gigault de Bellefonds, Jacques-Bonne, 1698-1746",
+    "Catholic Church. Archdiocese of Paris (France)",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "E 5 .L92705 v. 09 no. 28"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6c30zs56"
+internet_archive = "mandementdesmess00heri"
+
+[scan]
+file = "mandementdesmess00heri.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/mandementdesmess00heri"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Hérissant, Claude-Jean-Baptiste, ca. 1690-1762"
+role = "printer"
+
+[[resp]]
+name = "Catholic Church. Archdiocese of Paris (France)"
+role = "author"
+
+[[resp]]
+name = "Séminaire de Saint-Sulpice (Issy-les-Moulineaux, France), former owner. ICN"
+role = "author"
+
+[[resp]]
+name = "Saint-Sulpice Collection (Newberry Library) ICN"
+role = "author"
+
+[[resp]]
+name = "Chez Herissant, imprimeur du chapitre de l'Eglise de Paris, rue Neuve Notre-Dame, à la Croix d'Or & aux Trois Vertus"
+role = "publisher"
+
+[[text]]
+file = "mandementdesmess00heri.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "mandementdesmess00heri.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "mandementdesmess00heri.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "mandementdesmess00heri.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

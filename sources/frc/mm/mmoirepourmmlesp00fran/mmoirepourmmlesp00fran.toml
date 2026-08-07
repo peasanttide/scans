@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "mmoirepourmmlesp00fran"
+type = "pamphlet"
+title = "Mémoire pour MM. les privilégiés de la communauté des maitres perruquiers : a nosseigneurs les président et membres de l'Assemblée nationale"
+language = "fr"
+place = "s.l."
+date = "1790"
+note = "Caption title. Without imprint. Martin & Walter IV 2: 9766. Scanner's note: No title page found. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/mmoirepourmmlesp00fran"
+subject = ["Wigmakers"]
+extent = "4 p. ; 24 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC suppl. 152"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9770pt3b"
+internet_archive = "mmoirepourmmlesp00fran"
+openlibrary_edition = "OL26235187M"
+openlibrary_work = "OL17629770W"
+
+[scan]
+file = "mmoirepourmmlesp00fran.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/mmoirepourmmlesp00fran"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_74264"
+
+[[text]]
+file = "mmoirepourmmlesp00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "mmoirepourmmlesp00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "mmoirepourmmlesp00fran.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "mmoirepourmmlesp00fran.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

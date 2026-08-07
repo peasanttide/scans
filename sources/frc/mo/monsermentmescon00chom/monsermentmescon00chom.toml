@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "monsermentmescon00chom"
+type = "pamphlet"
+title = "Mon serment a mes concitoyens."
+language = "fr"
+place = "A Marseille"
+date = "1790"
+note = "Caption title. Signed: Étienne Chompré. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover page. Skewed text. Uneven binding. Damaged, stained, marked and/or loose pages."
+url = "https://archive.org/details/monsermentmescon00chom"
+subject = ["Loyalty oaths"]
+extent = "4 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 16273"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t53f9sd0w"
+internet_archive = "monsermentmescon00chom"
+openlibrary_edition = "OL26206334M"
+openlibrary_work = "OL17602629W"
+
+[scan]
+file = "monsermentmescon00chom.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/monsermentmescon00chom"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Chompré, Etienne, 1741-1811"
+role = "author"
+
+[[resp]]
+name = "Mossy, Jean, d. 1792"
+role = "publisher"
+
+[[resp]]
+name = "De l'imprimerie de Jean Mossy, père & fils, imprimeurs du Roi & de la nation"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_833974"
+
+[[text]]
+file = "monsermentmescon00chom.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "monsermentmescon00chom.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "monsermentmescon00chom.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "monsermentmescon00chom.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,81 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "messageextraitdu00fra_cud"
+type = "pamphlet"
+title = "... Message : Extrait du registre des délibérations /"
+language = "fr"
+place = "A Paris"
+date = "1799"
+note = """Caption title. Imprint from colophon. At head of title: Corps législatif. Conseil des cinq-cents. Égalité. Liberté. "Le Directoire exécutif au Conseil des cinq-cents.". About the shortage of horses in the cavalry of the Armée. Not in Martin & Walter. Scanner's note: Title on cover. Damaged, stained pages and cover. No title page found. No copyright page found. No table-of-contents pages found."""
+url = "https://archive.org/details/messageextraitdu00fra_cud"
+subject = [
+    "France. Armée",
+    "Horses",
+]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 3362"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3tt9pg85"
+internet_archive = "messageextraitdu00fra_cud"
+
+[scan]
+file = "messageextraitdu00fra_cud.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/messageextraitdu00fra_cud"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Directoire exécutif"
+role = "author"
+
+[[resp]]
+name = "France. Directoire exécutif"
+role = "author"
+
+[[resp]]
+name = "France. Corps législatif (1795-1814). Conseil des cinq-cents"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_48800"
+
+[[text]]
+file = "messageextraitdu00fra_cud.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "messageextraitdu00fra_cud.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "messageextraitdu00fra_cud.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "messageextraitdu00fra_cud.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

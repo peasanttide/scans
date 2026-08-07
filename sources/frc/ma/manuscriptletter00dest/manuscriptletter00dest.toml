@@ -1,0 +1,64 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "manuscriptletter00dest"
+type = "pamphlet"
+title = '[Manuscript letter signed, transmitting to "Mgr. le chancelier" a copy of a clandestine pamphlet, supposed to have been printed in Bourdeaux]'
+language = "fr"
+date = "1757"
+note = "The pamphlet in question has title: Lettre a un ami de province, au sujet du Nouveau bref, & des suites qu'il peut avoir. M. DCC. LVI. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Title page and cover are combined."
+url = "https://archive.org/details/manuscriptletter00dest"
+subject = ["Censorship"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 6 no. 106"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2s528w4v"
+internet_archive = "manuscriptletter00dest"
+
+[scan]
+file = "manuscriptletter00dest.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/manuscriptletter00dest"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Destournes"
+role = "author"
+
+[[resp]]
+name = "A Bordeaux"
+role = "publisher"
+
+[[text]]
+file = "manuscriptletter00dest.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "manuscriptletter00dest.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "manuscriptletter00dest.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "manuscriptletter00dest.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

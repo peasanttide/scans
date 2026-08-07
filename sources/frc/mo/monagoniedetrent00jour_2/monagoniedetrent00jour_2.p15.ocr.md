@@ -1,0 +1,42 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: monagoniedetrent00jour_2
+page: 15
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 2474
+h: 4269
+dpi: 500
+---
+
+( M )
+
+«ntra dans notre chambre , pour inscrire nos
+noms 5 a U jour que nous avions été arrêtés. Il
+nous fît espérer que la municipalité enverrait le
+lendemain des commissaires pour fane sortir
+ceux contre lesquels il n’y avait que des dé-
+nonciations vagues. Ceîîe annonce me fît
+passer une bonne nuit ^ mais elle ne se réalisa
+pas ; au contraire , le nombre des prisonniers
+ne fît qu’augmenter.
+
+Le 27. — Nous entendîmes le bruit d’un coup
+de pistolet qu’on tira dans l’intérieur de la pri-
+son ; aussi-tôt on court précipitamment dans
+les escaliers et les corridors ; on ouvre et on
+ferme avec vivacité des serrures et des verroux;
+on entre dans notre chambre , oîi un de nos
+guichetiers ^ apres nous avoir comptes 5 nous dit
+d’être tranquilles , que le danger était passe.
+
+Voilà tout ce qu’a voulu nous dire sur cet
+événement ce brusque et taciturne person-
+nage.
+
+Le 28 ET LE 29. — Nous ne fûmes distraits
+que par l’arrivée des voitures qui amenaient a
+chaque instant des prisonniers. — Nous pou-
+vions les voir d’une tourelle qui communi-
+quait dans notre chambre , et dont les fenetres
+donnaient sur la rue Sainte-Marguerite.

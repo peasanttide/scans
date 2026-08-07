@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "messieursleselec00panc"
+type = "pamphlet"
+title = "A Messieurs les electeurs des députés de l'ordre du Tiers-État du bailliage de Blois, a l'assemblée des Etats généraux du royaume, convoqués à Versailles pour le 27 du mois d'avril prochain"
+language = "fr"
+place = "France"
+date = "1789"
+note = "Caption title. Signed: J. Panchaud. Paris, ce 14 mars 1789. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/messieursleselec00panc"
+subject = ["France. États généraux"]
+extent = "4 p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 27078"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9q292251"
+internet_archive = "messieursleselec00panc"
+openlibrary_edition = "OL26226289M"
+openlibrary_work = "OL17621556W"
+
+[scan]
+file = "messieursleselec00panc.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/messieursleselec00panc"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Panchaud, J"
+role = "author"
+
+[[resp]]
+name = "Blois (France : County). Tiers Etat"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_867718"
+
+[[text]]
+file = "messieursleselec00panc.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "messieursleselec00panc.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "messieursleselec00panc.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "messieursleselec00panc.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

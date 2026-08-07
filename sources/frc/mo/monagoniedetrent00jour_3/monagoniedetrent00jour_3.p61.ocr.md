@@ -1,0 +1,43 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: monagoniedetrent00jour_3
+page: 61
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 2932
+h: 4985
+dpi: 500
+---
+
+( 59 )
+
+<îe notre histoire; iis fourniront sans doute à
+d’autres des réflexions sur les causes qui l’ont
+provoquée : moi je n’ai écrit que celles que
+m’ont inspirées la douleur et l’efFroi.
+
+Etranger à toute espece d’intrigue ^ ennemi
+de ces ténébreux complots qui avilissent la
+dignité de Phomme , qui déshonorent le ca-
+ractère français , dont la loyauté fut toujours
+1 hem eux partage, j étais entre pur dans cette
+terrible prison ; c’est ma franchise qui m’a
+sauvé.
+
+Je sais cependant que la justice qu’on m’a ren-
+due , dans un mormnt où dk pouvait être distribué
+par k hasard , a donne de l’humeur à mes enne-
+mis , dont ma douloureuse agonie n’a pu étein-
+dre la haine que je n’ai pas méritée. — Je sais
+qu’au moment ou je prononçais dans la tribune
+de ma section le serment prescrit à tous les ci-
+toyens , ils publiaient , dans un des cafés du
+palais de la révolution, que j’avais fait celui de
+ne jamais le prêter.
+
+Eh ! messieurs , messieurs, rappelez-vous que
+jamais personne n’a vécu plus avant que moi
+dans la mort ; rappelez-vous que , pendant trente-
+huit heures , les couteaux et les haches ont été
+lèves sur moi. L instant qui nous sépare de la
+Tie a-t-il quelque chose d’aussi douloureux ?

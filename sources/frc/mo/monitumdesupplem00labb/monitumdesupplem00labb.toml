@@ -1,0 +1,96 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "monitumdesupplem00labb"
+type = "pamphlet"
+title = "Monitum de supplemento Collectionis Labbeanae conciliorum"
+language = "la"
+place = "Parisiis :;Genevae"
+date = "1730"
+note = """Prospectus for a supplement to "Sacrosancta concilia ad legiam editionem exacta," Philippe Labbe and Gabriel Cossart's compilation of the councils of the Catholic Church. Proposed edition never published? Caption title. Also published in French under title: Projet d'un supplément à la Collection des conciles du pere Labbe. Head-piece. "Supplementum autem edetur iisdem typis, eadem forma, ac magnitudine quàm Labbeana collectio; atque exemplarium paucior erit numerus quae minori pretio ab iis ementur qui ea maturè sibi reservata volent. Nullum autem exemplar chartâ magnâ edetur, nisi expresè postulatum"--P. 2. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained, marked and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/monitumdesupplem00labb"
+subject = [
+    "Catholic Church",
+    "Booksellers and bookselling",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1b no. 6"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9z08tb0d"
+internet_archive = "monitumdesupplem00labb"
+
+[scan]
+file = "monitumdesupplem00labb.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/monitumdesupplem00labb"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Labbe, Philippe, 1607-1667"
+role = "author"
+
+[[resp]]
+name = "Cossart, Gabriel, 1615-1674"
+role = "author"
+
+[[resp]]
+name = "Briasson, Antoine-Claude, 1700-1775"
+role = "bookseller"
+
+[[resp]]
+name = "Fabri & Barrillot"
+role = "bookseller"
+
+[[resp]]
+name = "Catholic Church. Sacrosancta concilia ad legiam editionem exacta"
+role = "author"
+
+[[resp]]
+name = "Apud Briasson, bibliopolam, viâ San-Jacobaea ;;Apud Fabri & Barrillot"
+role = "publisher"
+
+[[text]]
+file = "monitumdesupplem00labb.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "la"
+
+[[text]]
+file = "monitumdesupplem00labb.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "la"
+
+[[text]]
+file = "monitumdesupplem00labb.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "la"
+
+[[text]]
+file = "monitumdesupplem00labb.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "la"
+
+[[text]]
+file = "monitumdesupplem00labb.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "la"
+
+[[text]]
+file = "monitumdesupplem00labb.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "la"

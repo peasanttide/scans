@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "meinestrasburger00stra"
+type = "pamphlet"
+title = "An meine Strasburger Waffenbrüder : nach der Ankunft von der Coalition zu Metz ; zum Willkomm"
+language = "de"
+place = "s.l."
+date = "1790"
+note = "Caption title. Without imprint. Martin & Walter IV 2: 1066 (which specifies: Au retour de la Fédération de Metz). Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages."
+url = "https://archive.org/details/meinestrasburger00stra"
+subject = ["Metz (France)"]
+extent = "3 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9270"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1ng9rn4r"
+internet_archive = "meinestrasburger00stra"
+openlibrary_edition = "OL26221338M"
+openlibrary_work = "OL17616902W"
+
+[scan]
+file = "meinestrasburger00stra.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/meinestrasburger00stra"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Strasbourg (France)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_66939"
+
+[[text]]
+file = "meinestrasburger00stra.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "de"
+
+[[text]]
+file = "meinestrasburger00stra.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "de"
+
+[[text]]
+file = "meinestrasburger00stra.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "de"
+
+[[text]]
+file = "meinestrasburger00stra.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "de"

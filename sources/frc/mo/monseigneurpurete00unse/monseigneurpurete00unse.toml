@@ -1,0 +1,73 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "monseigneurpurete00unse"
+type = "pamphlet"
+title = "Monseigneur : C'est `a la pureté de votre zele patriotique ... que le Tiers-état est redevable du nouvel ordre de choses .."
+language = "fr"
+place = "s.l."
+date = "1789"
+note = """
+Circular letter, without title or imprint. Title statement from opening sentence of text. Signed and dated at end: Les officiers municipaux de Lisieux ... A Lisieux ce [blank] janvier 1789. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover. 
+No page numbers."""
+url = "https://archive.org/details/monseigneurpurete00unse"
+extent = "[2] p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9914"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3sv2q55g"
+internet_archive = "monseigneurpurete00unse"
+openlibrary_edition = "OL26223450M"
+openlibrary_work = "OL17618913W"
+
+[scan]
+file = "monseigneurpurete00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/monseigneurpurete00unse"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Lisieux (France)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_69437"
+
+[[text]]
+file = "monseigneurpurete00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "monseigneurpurete00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "monseigneurpurete00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "monseigneurpurete00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

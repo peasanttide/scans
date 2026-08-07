@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "messieurslesdepu00calo"
+type = "pamphlet"
+title = "A Messieurs les députés à l'assemblée des États-généraux"
+language = "fr"
+place = "France"
+date = "1789"
+note = "Caption title. Signed: De Calonne. Londres, le 16 juillet, 1789. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française, I, 5818. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."
+url = "https://archive.org/details/messieurslesdepu00calo"
+subject = ["Debts, Public"]
+extent = "3 p. ; 28 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 26565"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6256rx1r"
+internet_archive = "messieurslesdepu00calo"
+openlibrary_edition = "OL26228871M"
+openlibrary_work = "OL17623940W"
+
+[scan]
+file = "messieurslesdepu00calo.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/messieurslesdepu00calo"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Calonne, Charles Alexandre de,1734-1802"
+role = "author"
+
+[[resp]]
+name = "Calonne, Charles Alexandre de, 1734-1802"
+role = "author"
+
+[[resp]]
+name = "France. États généraux"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_862680"
+
+[[text]]
+file = "messieurslesdepu00calo.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "messieurslesdepu00calo.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "messieurslesdepu00calo.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "messieurslesdepu00calo.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

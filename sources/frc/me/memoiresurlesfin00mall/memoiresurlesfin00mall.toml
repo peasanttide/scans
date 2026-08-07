@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "memoiresurlesfin00mall"
+type = "pamphlet"
+title = "Meḿoire sur les finances adressé au Corps législatif."
+language = "fr"
+place = "France"
+date = "1799"
+note = "Caption title. Signed: Mallet, rue Thérèse, no. 480. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  III, 22614. Scanner's note: No title page found. No copyright page found. No table-of-contents pages found. Damaged Pages/Missing Text."
+url = "https://archive.org/details/memoiresurlesfin00mall"
+subject = [
+    "Government spending policy",
+    "Monetary policy",
+    "Finance, Public",
+]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 12497"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7np6t035"
+internet_archive = "memoiresurlesfin00mall"
+openlibrary_edition = "OL25928731M"
+openlibrary_work = "OL17351195W"
+
+[scan]
+file = "memoiresurlesfin00mall.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/memoiresurlesfin00mall"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Mallet"
+role = "author"
+
+[[resp]]
+name = "France. Corps législatif (1795-1814)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_826727"
+
+[[text]]
+file = "memoiresurlesfin00mall.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "memoiresurlesfin00mall.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "memoiresurlesfin00mall.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "memoiresurlesfin00mall.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

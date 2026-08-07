@@ -1,0 +1,71 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "messieurschers00unse"
+type = "pamphlet"
+title = "... Messieurs et chers collegues : Une grande difficulté s'él`eve entre les municipalités d'une part & les districts, les départemens & leurs directoires de l'autre, sur la préséance dans les cérémonies publiques"
+language = "fr"
+place = "s.l."
+date = "1790"
+note = "Circular letter, without title or imprint. Title statement from opening sentence of text. At head of text: Soissons, le 23 septembre 1790. Signed at end: Les maire & officiers municipaux de la ville se Soissons. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover. No page numbers."
+url = "https://archive.org/details/messieurschers00unse"
+extent = "[2] p. ; 23 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10273"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5t77hv41"
+internet_archive = "messieurschers00unse"
+openlibrary_edition = "OL26223091M"
+openlibrary_work = "OL17618552W"
+
+[scan]
+file = "messieurschers00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/messieurschers00unse"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Soissons (France)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_71839"
+
+[[text]]
+file = "messieurschers00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "messieurschers00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "messieurschers00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "messieurschers00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

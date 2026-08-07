@@ -1,0 +1,68 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "monsieurdevoltai00cide"
+type = "pamphlet"
+title = "À Monsieur de Voltaire"
+language = "fr"
+place = "Paris"
+date = "1745"
+note = "Caption title. Binder's title: Bataille de Fontenay. Verse. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover page.  Uneven binding.  Skewed text."
+url = "https://archive.org/details/monsieurdevoltai00cide"
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "E 5 .L92705 v. 03 no. 09"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5cc7277c"
+internet_archive = "monsieurdevoltai00cide"
+
+[scan]
+file = "monsieurdevoltai00cide.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/monsieurdevoltai00cide"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Cideville, de"
+role = "author"
+
+[[resp]]
+name = "Voltaire, 1694-1778"
+role = "author"
+
+[[resp]]
+name = "Prault fils"
+role = "publisher"
+
+[[text]]
+file = "monsieurdevoltai00cide.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "monsieurdevoltai00cide.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "monsieurdevoltai00cide.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "monsieurdevoltai00cide.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

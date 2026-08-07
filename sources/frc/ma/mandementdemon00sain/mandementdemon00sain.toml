@@ -1,0 +1,67 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "mandementdemon00sain"
+type = "pamphlet"
+title = "Mandement de Monseigneur l'evêque de Metz"
+language = "fr"
+date = "1744"
+note = "Binder's title: Conquest du roy. Caption title. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover.  Uneven binding.  Skewed text.  Irregular pagination.  Some page numbers are altered or defaced."
+url = "https://archive.org/details/mandementdemon00sain"
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "E 5 .L92705 v. 07 no. 31"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4rk0hc35"
+internet_archive = "mandementdemon00sain"
+
+[scan]
+file = "mandementdemon00sain.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/mandementdemon00sain"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Saint-Simon, Claude De,Bp"
+role = "author"
+
+[[resp]]
+name = "Saint-Simon, Claude De, Bp"
+role = "author"
+
+[[resp]]
+name = "[Metz"
+role = "publisher"
+
+[[text]]
+file = "mandementdemon00sain.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "mandementdemon00sain.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "mandementdemon00sain.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "mandementdemon00sain.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,82 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "moyse00unse"
+type = "pamphlet"
+title = "Moyse Bayle, député du département des Bouches-du-Rhône à la Convention nationale, a ses collégues, sur le mode d'instruire la procédure du ci-devant roi"
+language = "fr"
+place = "Paris"
+date = "1792"
+note = """Caption title. At head of title: Convention nationale. Imprint from colophon. "Législation (5)"--Bottom of p. [1]. Martin & Walter. Révolution française. Forms part of the Louis XVI Trial and Execution Collection at the Newberry Library. Uncut and loose-bound in v. 9 of a collection of pamphlets in contemporary cartonnage bindings, with pink pastepaper over boards and blue paper spine labels. Bibliography: Martin & Walter.  Révolution française, I, 2151. Scanner's note: No copyright page found. No table-of-contents pages found.  Title and cover are combined. Uneven binding. Skewed text. Damaged, stained and/or loose pages."""
+url = "https://archive.org/details/moyse00unse"
+subject = ["Louis XVI, King of France, 1754-1793"]
+extent = "4 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing DC137.08 .F73 v.9, no. 24"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4pk5r24s"
+internet_archive = "moyse00unse"
+
+[scan]
+file = "moyse00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/moyse00unse"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Bayle, Moïse Antoine Pierre Jean, 1755-1815?"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "Louis XVI Trial and Execution Collection (Newberry Library) ICN"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_841752"
+
+[[text]]
+file = "moyse00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "moyse00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "moyse00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "moyse00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,44 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: memoirejustifica00dugo_0
+page: 21
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 2795
+h: 4571
+dpi: 300
+---
+
+Pour Louis XVI.
+
+19
+
+calomnie , Tinsiilte , la plus abjecte cruauté
+voilà leurs moyens. Ils régnent depuis quatre
+ans , et depuis quatre ans la terreur plane sur
+toutes les têtes. Une seule fois le docile parisien
+a voulu déjouer leurs complots. Vingt mille
+citoyens ont demandé paisiblement que les loix
+prissent là place de l’anarchie et ces vingt
+mille citoyens ont manqué être enveloppé dans
+un massacre général. Depuis l’incarcération du
+roi , depuis l’instruction de son procès les
+craintes ont augmenté. Aussi personne dans
+tout l’empire n’a osé prendre la défense de
+Louis XVI ; seulement une voix étrano;ère s’est
+fait entendre, et ses accens hypocrites ont fait sai-
+gner mon cœur. îl/cst douloureux de voir sa cause
+plaidée par celui qui a provoqué les moyens
+de la perdre. Pour moi , étranger comme mon-
+sieur Necker , mais non pas comme lui , à
+l’abri des insultes d’une populace efFrenée ,
+j’essaierai de prouver l’innocence d’un bon
+prince. Je sens bien que parmi tant d’opinions
+extravagantes , débitées avec emphase à la
+tribune de la convention et dans les clubs ,
+adoptées eitsuite par k peuple avec autant d’ir-
+réflexion que de légèreté , je ne conserve pas
+lin grand espoir de me faire entendre ; d’ailleurs
+la^ rudesse de mon langage effraiera des oreilles
+
+\

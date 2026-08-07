@@ -1,0 +1,84 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "memoireadresse00unse_3"
+type = "pamphlet"
+title = "Mémoire adressé à l’Assemblée nationale, le 27 août 1790, par le premier ministre des finances, contre l’émission de nouveaux assignats-monnoie"
+language = "fr"
+place = "A Paris"
+date = "1790"
+note = """By Jacques Necker. Cf. Martin & Walter. "Prix huit sous.". Variant of Martin & Walter. Révolution française, III, 25739. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text.  Irregular pagination. Page numbers skip from 2 to 15."""
+url = "https://archive.org/details/memoireadresse00unse_3"
+subject = [
+    "Assignats",
+    "Monetary policy",
+    "Debts, Public",
+]
+extent = "15 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 27055"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0xq24m1c"
+internet_archive = "memoireadresse00unse_3"
+openlibrary_edition = "OL26227297M"
+openlibrary_work = "OL17622525W"
+
+[scan]
+file = "memoireadresse00unse_3.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/memoireadresse00unse_3"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Necker, Jacques, 1732-1804"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "Imprimerie royale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l’Imprimerie royale, M.DCCXC"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=847477"
+
+[[text]]
+file = "memoireadresse00unse_3.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "memoireadresse00unse_3.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "memoireadresse00unse_3.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "memoireadresse00unse_3.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

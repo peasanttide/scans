@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "ministrelint00unse_2"
+type = "pamphlet"
+title = "Le ministre de l'intérieur aux administrateurs du département des Bouches du Rhone"
+language = "fr"
+place = "France"
+date = "1792"
+note = "Caption title. At head of title: Paris, le 25 décembre 1792, l'an 1er. de la Republique. Signed: Roland. Not in Martin & Walter. Révolution française. Corrects an erratum in law no. 125, regarding billets de confiance, billets au porteur, etc. Scanner's note: Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text. No title page found. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/ministrelint00unse_2"
+subject = [
+    "Promulgation (Law)",
+    "Mistake (Law)",
+    "Commercial crimes",
+]
+extent = "[1] p. ; 24 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 27176"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t35195278"
+internet_archive = "ministrelint00unse_2"
+openlibrary_edition = "OL26229580M"
+openlibrary_work = "OL17624613W"
+
+[scan]
+file = "ministrelint00unse_2.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/ministrelint00unse_2"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Roland de La Platière, Jean-Marie,1734-1793"
+role = "author"
+
+[[resp]]
+name = "Roland de La Platière, Jean-Marie, 1734-1793"
+role = "author"
+
+[[resp]]
+name = "Bouches-du-Rhône (France)"
+role = "author"
+
+[[resp]]
+name = "France. Ministère de l'intérieur"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_868099"
+
+[[text]]
+file = "ministrelint00unse_2.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ministrelint00unse_2.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

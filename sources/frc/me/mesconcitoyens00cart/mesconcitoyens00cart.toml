@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "mesconcitoyens00cart"
+type = "pamphlet"
+title = "A mes concitoyens"
+language = "fr"
+place = "Paris"
+date = "1794"
+note = """Caption title. At head of title: Liberté. Égalité. Signed: Au Port-la-Montagne, le 4 pluviose, l'an second de la Républiqu[e] ... le général sans-culotte, Carteaux. Imprint from colophon. Martin & Walter. Révolution française. "Achard, capitaine de la Compagnie franche des marins, dite des Jacobins, à la citoyenne Carteaux, à Paris"--P. [1]-[2]. Bibliography: Martin & Walter.  Révolution française, I, 6289. Scanner's note: No copyright page found. No table-of-contents pages found. Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text. No page numbers."""
+url = "https://archive.org/details/mesconcitoyens00cart"
+subject = ["Carteaux, Jean Francois, 1751-1813"]
+extent = "[2] p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 26579"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1rg0wc88"
+internet_archive = "mesconcitoyens00cart"
+openlibrary_edition = "OL26228465M"
+openlibrary_work = "OL17623533W"
+
+[scan]
+file = "mesconcitoyens00cart.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/mesconcitoyens00cart"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Carteaux, Jean Francois,1751-1813"
+role = "author"
+
+[[resp]]
+name = "Carteaux, Jean Francois, 1751-1813"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de J. Grand, rue du Foin-St-Jacques, no. 6"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_863366"
+
+[[text]]
+file = "mesconcitoyens00cart.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "mesconcitoyens00cart.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "mesconcitoyens00cart.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "mesconcitoyens00cart.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

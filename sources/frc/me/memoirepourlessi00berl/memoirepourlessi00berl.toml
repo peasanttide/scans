@@ -1,0 +1,90 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "memoirepourlessi00berl"
+type = "pamphlet"
+title = "Memoire pour les sieurs Tourton et Lefort, demandeurs, contre le sieur Castan, défendeur."
+language = "fr"
+place = "France?"
+date = "1709"
+note = "Caption title. Signed at end: Berland le jeune. Marca. Includes text of promissory note from Castan to Tourton and Lefort, dated: A Lyon ce 4. fevrier 1709. Signatures: *². Head-piece. Two copies: Nos. 7 and 31 of 54 titles bound together. Scanner's note: Uneven binding. Skewed text. Title is on the cover. Text is lost in the binding."
+url = "https://archive.org/details/memoirepourlessi00berl"
+subject = [
+    "Tourton, sieur",
+    "Lefort, sieur",
+    "Castan, Bertrand",
+    "Debtor and creditor",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio KJV5795 .A35 1728 no. 7"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5x69hr1k"
+internet_archive = "memoirepourlessi00berl"
+
+[scan]
+file = "memoirepourlessi00berl.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/memoirepourlessi00berl"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Berland,le jeune,"
+role = "author"
+
+[[resp]]
+name = "Berland, le jeune"
+role = "author"
+
+[[resp]]
+name = "Tourton, sieur"
+role = "author"
+
+[[resp]]
+name = "Lefort, sieur"
+role = "author"
+
+[[resp]]
+name = "Castan, Bertrand"
+role = "author"
+
+[[resp]]
+name = "Marca"
+role = "author"
+
+[[resp]]
+name = "[publisher not identified]"
+role = "publisher"
+
+[[text]]
+file = "memoirepourlessi00berl.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "memoirepourlessi00berl.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "memoirepourlessi00berl.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "memoirepourlessi00berl.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "messieursetchers00avig"
+type = "pamphlet"
+title = "Messieurs et chers compatriotes, Nous ne doutons point que la municipalité de Carpentras ne vous ait écrit .."
+language = "fr"
+place = "s.l."
+date = "1791"
+note = "Circular letter, without title and imprint. Title statement from opening words of text. At head of text: D'Avignon le 2 février 1791. Signed at end: Les maire et officiers municipaux d'Avignon. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages. No page numbers."
+url = "https://archive.org/details/messieursetchers00avig"
+subject = ["Carpentras (France)"]
+extent = "[2] leaves ; 24 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9414"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t51g5t73q"
+internet_archive = "messieursetchers00avig"
+openlibrary_edition = "OL26222165M"
+openlibrary_work = "OL17617666W"
+
+[scan]
+file = "messieursetchers00avig.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/messieursetchers00avig"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Avignon (France)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_67337"
+
+[[text]]
+file = "messieursetchers00avig.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "messieursetchers00avig.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "messieursetchers00avig.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "messieursetchers00avig.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "mandementetinstr00lall"
+type = "pamphlet"
+title = "Mandement et instruction pastorale ... pour l'acceptation de la Bulle Unigenitus, la condamnation du Livre des Reflexions Morales ... la condamnation des Ouvrages intitulés :"
+language = "fr"
+date = "1729"
+note = "Incomplete: p. 3-6, and all after 8 wanting."
+url = "https://archive.org/details/mandementetinstr00lall"
+subject = [
+    "Censorship",
+    "Gallicanism",
+    "Church and state",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 4 no. 93"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7cs1fc2q"
+internet_archive = "mandementetinstr00lall"
+
+[scan]
+file = "mandementetinstr00lall.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/mandementetinstr00lall"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Lallemant, Jacques Charles Alexandre,Bishop of Sées"
+role = "author"
+
+[[resp]]
+name = "Lallemant, Jacques Charles Alexandre, Bishop of Sées"
+role = "author"
+
+[[resp]]
+name = "Soanen, Jean, 1647-1740"
+role = "author"
+
+[[resp]]
+name = "Paris"
+role = "publisher"
+
+[[text]]
+file = "mandementetinstr00lall.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "mandementetinstr00lall.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "mandementetinstr00lall.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "mandementetinstr00lall.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

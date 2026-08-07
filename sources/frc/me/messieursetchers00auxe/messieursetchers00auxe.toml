@@ -1,0 +1,71 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "messieursetchers00auxe"
+type = "pamphlet"
+title = "Messieurs et chers confreres, Depuis longtems les présidiaux sollicitent vainement des graces .."
+language = "fr"
+place = "s.l."
+date = "1787"
+note = "Without title or imprint. Title statement from opening words of text. Signed and dated at end: Les officiers du présidial d'Auxerre. 10 avril 1787. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages."
+url = "https://archive.org/details/messieursetchers00auxe"
+extent = "[2] p. ; 23 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9392"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2k69kx64"
+internet_archive = "messieursetchers00auxe"
+openlibrary_edition = "OL26222210M"
+openlibrary_work = "OL17617711W"
+
+[scan]
+file = "messieursetchers00auxe.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/messieursetchers00auxe"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Auxerre (France)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_67284"
+
+[[text]]
+file = "messieursetchers00auxe.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "messieursetchers00auxe.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "messieursetchers00auxe.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "messieursetchers00auxe.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

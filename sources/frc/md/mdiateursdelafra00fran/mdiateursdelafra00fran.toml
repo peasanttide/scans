@@ -1,0 +1,87 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "mdiateursdelafra00fran"
+type = "pamphlet"
+title = "Médiateurs de la France entre les peuples d'Avignon & du Comtat Venaissin, députés par le roi : préliminaires de paix & de conciliation arr^etés & signés par MM. les députés de l'assemblée electorale, des municipalités d'Avignon & de Carpentras & de l'Armée de Vaucluse ;"
+language = "fr"
+place = "A Cavaillon"
+date = "1791"
+note = "Caption title. Imprint from colophon. Dated at beginning: Cejourd'hui quatorze juin mil sept cent quatre-vingt-onze .. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found. Title page and cover are combined. Damaged, stained and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/mdiateursdelafra00fran"
+extent = "4 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC suppl. 125"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6450wn2n"
+internet_archive = "mdiateursdelafra00fran"
+openlibrary_edition = "OL26235817M"
+openlibrary_work = "OL17630377W"
+
+[scan]
+file = "mdiateursdelafra00fran.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/mdiateursdelafra00fran"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Médiateurs de la France, députés par le roi"
+role = "author"
+
+[[resp]]
+name = "Avignon (France)"
+role = "author"
+
+[[resp]]
+name = "Comtat Venaissin (France)"
+role = "author"
+
+[[resp]]
+name = "Carpentras (France)"
+role = "author"
+
+[[resp]]
+name = "Vaucluse (France). Armée"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de l'assemblée electorale du département de Vaucluse"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_74095"
+
+[[text]]
+file = "mdiateursdelafra00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "mdiateursdelafra00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "mdiateursdelafra00fran.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "mdiateursdelafra00fran.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

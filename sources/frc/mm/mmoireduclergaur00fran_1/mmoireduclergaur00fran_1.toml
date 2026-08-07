@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "mmoireduclergaur00fran_1"
+type = "pamphlet"
+title = "Mémoire du clergé, au roi."
+language = "fr"
+place = "s.l."
+date = "1788"
+note = "Caption title. Without imprint. About the États généraux. Martin & Walter IV 2: 9659 (which specifies: Avant la réunion des Etats généraux) [edition 3: 4 p.]. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover."
+url = "https://archive.org/details/mmoireduclergaur00fran_1"
+subject = [
+    "France. Etats généraux",
+    "Clergy",
+]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 5394"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/txxxxxxxx"
+internet_archive = "mmoireduclergaur00fran_1"
+openlibrary_edition = "OL26211837M"
+openlibrary_work = "OL17607837W"
+
+[scan]
+file = "mmoireduclergaur00fran_1.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/mmoireduclergaur00fran_1"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Sovereign (1774-1792 : Louis XVI)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_54742"
+
+[[text]]
+file = "mmoireduclergaur00fran_1.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "mmoireduclergaur00fran_1.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "mmoireduclergaur00fran_1.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "mmoireduclergaur00fran_1.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

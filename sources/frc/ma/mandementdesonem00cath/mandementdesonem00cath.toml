@@ -1,0 +1,73 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "mandementdesonem00cath"
+type = "pamphlet"
+title = "Mandement de Son Eminence Monseigneur le Cardinal de Bissy"
+language = "fr"
+place = "A Paris"
+date = "1716"
+note = "The work in question is by N. Petitpied, and J.B. Le Sesne des Ménilles d'Étemare. Incomplete: all after p. ij wanting."
+url = "https://archive.org/details/mandementdesonem00cath"
+subject = [
+    "Petit-Pied, Nicolas, 1665-1747",
+    "Etemare, Jean-Baptiste Le Sesne des Ménilles d', 1682-1770",
+    "Censorship",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 3 no. 57"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3wt4982r"
+internet_archive = "mandementdesonem00cath"
+
+[scan]
+file = "mandementdesonem00cath.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/mandementdesonem00cath"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Catholic Church.Diocese of Meaux (France).Bishop (1705-1737 : Thiard de Bissy)"
+role = "author"
+
+[[resp]]
+name = "Catholic Church. Diocese of Meaux (France). Bishop (1705-1737 : Thiard de Bissy)"
+role = "author"
+
+[[resp]]
+name = "Chez Louis Sevestre"
+role = "publisher"
+
+[[text]]
+file = "mandementdesonem00cath.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "mandementdesonem00cath.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "mandementdesonem00cath.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "mandementdesonem00cath.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

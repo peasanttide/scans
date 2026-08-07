@@ -1,0 +1,107 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "messieurslesadmi00soci"
+type = "pamphlet"
+title = "... A messieurs les administrateurs de département et de district."
+language = "fr"
+place = "A Caen"
+date = "1790"
+note = """Caption title. Imprint from colophon. At head of title (wording in a cartouche): Les amis de la constitution a Caen .. About "... la nécessité de l'arpentage pour l'assiette de l'imposition fonciere ..." (p.[1]-2). Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on cover page. Damaged, stained and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/messieurslesadmi00soci"
+subject = [
+    "Cadastres",
+    "Political clubs",
+]
+extent = "7 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 8366"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t22c4466h"
+internet_archive = "messieurslesadmi00soci"
+openlibrary_edition = "OL26220235M"
+openlibrary_work = "OL17615854W"
+
+[scan]
+file = "messieurslesadmi00soci.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/messieurslesadmi00soci"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Société des amis de la constitution (Caen, France)"
+role = "author"
+
+[[resp]]
+name = "Société des amis de la constitution (Caen, France)"
+role = "author"
+
+[[resp]]
+name = "Caen (France)"
+role = "author"
+
+[[resp]]
+name = "Chez P. Chalopin"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_38375"
+
+[[text]]
+file = "messieurslesadmi00soci.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "messieurslesadmi00soci.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "messieurslesadmi00soci.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "messieurslesadmi00soci.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "messieurslesadmi00soci.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "messieurslesadmi00soci.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "messieurslesadmi00soci.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "messieurslesadmi00soci.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

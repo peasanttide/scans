@@ -1,0 +1,65 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "messieurslesrepr00unse"
+type = "pamphlet"
+title = "A messieurs les représentans connus de la nation."
+language = "fr"
+place = "Paris"
+date = "1789"
+note = "Scanner's note: Stained pages with smudged and faded print. Print is close to the binding and skewed on some pages. Title and cover combined, no physical cover.  No table-of-contents pages found. No copyright page found."
+url = "https://archive.org/details/messieurslesrepr00unse"
+extent = "4 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 29"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2x389c4c"
+internet_archive = "messieurslesrepr00unse"
+
+[scan]
+file = "messieurslesrepr00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/messieurslesrepr00unse"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_33149"
+
+[[text]]
+file = "messieurslesrepr00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "messieurslesrepr00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "messieurslesrepr00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "messieurslesrepr00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"

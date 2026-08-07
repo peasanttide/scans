@@ -1,0 +1,78 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "memoiresdem00buis"
+type = "pamphlet"
+title = "Mémoires de M. le duc de Choiseul"
+language = "fr"
+place = "Paris?"
+date = "1789"
+note = """Prospectuses for Choiseul's "Mémoires" and for three serials, with new issues to be published beginning January 1790. Caption title. "On adressera ... au sieur Buisson, libraire, rue Hautefeuille, à Paris"--P. 2. Newberry's copy tightly trimmed at bottom margin, possibly removing imprint. Printed in double columns. Includes prices. Ms. annotations. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Title page and cover are combined."""
+url = "https://archive.org/details/memoiresdem00buis"
+subject = [
+    "Choiseul, Etienne-François, duc de, 1719-1785",
+    "Booksellers and bookselling",
+    "Biography",
+    "Periodicals",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1a no. 28"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t96744n83"
+internet_archive = "memoiresdem00buis"
+
+[scan]
+file = "memoiresdem00buis.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/memoiresdem00buis"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Buisson, François,1753-1814"
+role = "author"
+
+[[resp]]
+name = "Buisson, François, 1753-1814"
+role = "author"
+
+[[resp]]
+name = "Choiseul, Etienne-François, duc de, 1719-1785. Mémoires de M. le duc de Choiseul"
+role = "author"
+
+[[resp]]
+name = "Buisson?"
+role = "publisher"
+
+[[text]]
+file = "memoiresdem00buis.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "memoiresdem00buis.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "memoiresdem00buis.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "memoiresdem00buis.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

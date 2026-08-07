@@ -1,0 +1,77 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "malus00unse"
+type = "pamphlet"
+title = "Malus, commissaire ordonnateur, à ses concitoyens."
+language = "fr"
+place = "A Paris"
+date = "1793"
+note = "Caption title. Imprint from colophon. Date of publication from BM. Not in Martin & Walter. Révolution française. BM. BN. Malus denies involvement with the company of Masson and Espagnac, who were engaged in supplying army transports and accused of corruption. Bibliography: BM,  CLI, column 331. Scanner's note: Title page and cover are combined. Damaged, stained, marked and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/malus00unse"
+subject = [
+    "Espagnac, Marc-René-Marie d'Amarzit de Sahuguet d', 1752-1794",
+    "France. Armée",
+    "Libel and slander",
+    "Corruption",
+]
+extent = "4 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 21910"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t58d55k7r"
+internet_archive = "malus00unse"
+openlibrary_edition = "OL26240181M"
+openlibrary_work = "OL17634704W"
+
+[scan]
+file = "malus00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/malus00unse"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Malus, François, b. 1737"
+role = "author"
+
+[[resp]]
+name = "De l'imp. de Mayer & compagnie, rue St. Martin, no. 219, presque vis-à-vis la rue Maubuée"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_845589"
+
+[[text]]
+file = "malus00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "malus00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "malus00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "malus00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

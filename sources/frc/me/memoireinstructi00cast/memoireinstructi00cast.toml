@@ -1,0 +1,77 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "memoireinstructi00cast"
+type = "pamphlet"
+title = "Memoire instructif de la question qu'il s'agit de decider dans le procés pendant entre les sieurs Desartines & compagnie, & Sieur Bertrand Castan."
+language = "fr"
+place = "A Lyon"
+date = "1709"
+note = "Caption title. Imprint from colophon. Dated within text (page 2): 4. fevrier 1709. Signatures [A]². Initial; head-piece. No. 32 of 54 titles bound together."
+url = "https://archive.org/details/memoireinstructi00cast"
+subject = [
+    "Castan, Bertrand",
+    "Desartines & compagnie",
+    "Debtor and creditor",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio KJV5795 .A35 1728 no. 32"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2q58ns56"
+internet_archive = "memoireinstructi00cast"
+
+[scan]
+file = "memoireinstructi00cast.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/memoireinstructi00cast"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Castan, Bertrand"
+role = "author"
+
+[[resp]]
+name = "Laurens, André, 1666-1727, printer"
+role = "publisher"
+
+[[resp]]
+name = "Desartines & compagnie"
+role = "author"
+
+[[resp]]
+name = "Chez André Laurens, seul imprimeur ordinaire de la ville, ruë Raisin à l'Ange Gabriël"
+role = "publisher"
+
+[[text]]
+file = "memoireinstructi00cast.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "memoireinstructi00cast.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "memoireinstructi00cast.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "memoireinstructi00cast.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

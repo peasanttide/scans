@@ -1,0 +1,124 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "mmoire00vill"
+type = "pamphlet"
+title = "Mémoire"
+language = "fr"
+place = "A Vienne"
+date = "1791"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover."
+url = "https://archive.org/details/mmoire00vill"
+subject = [
+    "Vienne (France)",
+    "La Côte-Saint-André (France)",
+    "Roads",
+]
+extent = "12 p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10317"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8vb38b5j"
+internet_archive = "mmoire00vill"
+openlibrary_edition = "OL26223288M"
+openlibrary_work = "OL17618749W"
+
+[scan]
+file = "mmoire00vill.pdf"
+count = 14
+by = "Internet Archive"
+url = "https://archive.org/details/mmoire00vill"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Villeneuve-de-Marc (France)"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de J. Labbe"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_71977"
+
+[[text]]
+file = "mmoire00vill.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "mmoire00vill.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "mmoire00vill.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "mmoire00vill.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "mmoire00vill.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "mmoire00vill.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "mmoire00vill.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "mmoire00vill.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "mmoire00vill.p9.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "mmoire00vill.p10.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "mmoire00vill.p11.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "mmoire00vill.p12.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

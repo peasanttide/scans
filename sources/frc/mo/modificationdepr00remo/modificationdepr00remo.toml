@@ -1,0 +1,69 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "modificationdepr00remo"
+type = "pamphlet"
+title = "Modification de prix proposé jusqu'au 30 prairial prochain"
+language = "fr"
+place = "Paris"
+date = "1797"
+note = "Caption title. Imprint from colophon. Publication date from BN. Catalogues de libraires. Printed in double columns. BN. Catalogues de libraires. With original and discounted prices. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Title page and cover are combined."
+url = "https://archive.org/details/modificationdepr00remo"
+subject = ["Rémont, Jean-Étienne"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 11 no. 33"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8z94vj4r"
+internet_archive = "modificationdepr00remo"
+
+[scan]
+file = "modificationdepr00remo.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/modificationdepr00remo"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Rémont, Jean-Étienne"
+role = "author"
+
+[[resp]]
+name = "Belin, François, 1748-1808"
+role = "printer"
+
+[[resp]]
+name = "De l'imprimerie de Belin, rue Jacques, no. 22"
+role = "publisher"
+
+[[text]]
+file = "modificationdepr00remo.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "modificationdepr00remo.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "modificationdepr00remo.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "modificationdepr00remo.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

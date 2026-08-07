@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "memoirepourladam00prov"
+type = "pamphlet"
+title = "Mémoire pour la dame de l'Espine : a Messeigneurs et Messieurs de l'assemblée des états de Provence"
+language = "fr"
+place = "France"
+note = "Caption title. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/memoirepourladam00prov"
+subject = [
+    "L'Espine, dame de",
+    "Roads",
+    "Eminent domain",
+    "Land use, Rural",
+]
+extent = "4 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 26902"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4fn69k8z"
+internet_archive = "memoirepourladam00prov"
+openlibrary_edition = "OL26227145M"
+openlibrary_work = "OL17622372W"
+
+[scan]
+file = "memoirepourladam00prov.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/memoirepourladam00prov"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Provence (France). États"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_866649"
+
+[[text]]
+file = "memoirepourladam00prov.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "memoirepourladam00prov.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "memoirepourladam00prov.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "memoirepourladam00prov.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

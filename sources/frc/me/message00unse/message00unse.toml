@@ -1,0 +1,85 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "message00unse"
+type = "pamphlet"
+title = "Message de l'Assemblée nationale au roi, le 29 novembre 1791 /"
+language = "fr"
+place = "Paris"
+date = "1791"
+note = """Caption title. Imprint from colophon. "Matières diverses. No. 8"--Bottom of p. [1]. Martin & Walter. Révolution française. Saricks, A. Melvin Coll. Bibliography: Martin & Walter.  Révolution française,  IV:1, 33243. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover. Uneven binding. Skewed text. Damaged, stained and/or loose pages."""
+url = "https://archive.org/details/message00unse"
+extent = "3 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 26003"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6g21bf19"
+internet_archive = "message00unse"
+
+[scan]
+file = "message00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/message00unse"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Tallien, Jean-Lambert, 1767-2296"
+role = "author"
+
+[[resp]]
+name = "Vaublanc, Vincent Marie Viénot, comte de, 1756-1845"
+role = "author"
+
+[[resp]]
+name = "Louis XVI, King of France, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale législative (1791-1792)"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_864353"
+
+[[text]]
+file = "message00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "message00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "message00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "message00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

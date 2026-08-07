@@ -1,0 +1,35 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: memoiresdemlabbe00edge
+page: 169
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 2515
+h: 4077
+dpi: 500
+---
+
+( i65 )
+
+EXEMPLAR VIRTUTUM,
+LEVAMEN MALORUM
+SE SE PRÆBUIT.
+
+PER MULTAS ET VARIAS REGIONES
+TEMPORUM CALAMITATE
+ACTÜS ,
+
+ILLI QUF.M SOLUM COLEBAT
+SEMPER SIMILIS y
+PERTRANSIT BENEFACIENDO.
+PLENUS TANDEM BONIS OPERIBÜS.
+OBIIT
+
+DIE 22 MAII MENSIS
+ANNO DOMINI 1807,
+
+ÆTATIS VERO SUÆ 62.
+
+'
+
+Requiescat in pace.

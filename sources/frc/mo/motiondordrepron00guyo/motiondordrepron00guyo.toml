@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "motiondordrepron00guyo"
+type = "pamphlet"
+title = "Motion d'ordre prononcée par Pierre Guyomar (Côtes-du-Nord), sur la chûte du trône le 10 août 1792 (vieux style) : séance du 17 thermidor an 6."
+language = "fr"
+place = "A Paris"
+date = "1798"
+note = "Caption title. At head of title: Corps législatif. Conseil des anciens. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  II, 16224. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on the cover page. Damaged pages."
+url = "https://archive.org/details/motiondordrepron00guyo"
+subject = ["Monarchy"]
+extent = "3 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 19596"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7tn23m4q"
+internet_archive = "motiondordrepron00guyo"
+openlibrary_edition = "OL25946240M"
+openlibrary_work = "OL17367419W"
+
+[scan]
+file = "motiondordrepron00guyo.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/motiondordrepron00guyo"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Guyomar, Pierre-Marie-Augustin, 1757-1826"
+role = "author"
+
+[[resp]]
+name = "France. Corps législatif (1795-1814). Conseil des anciens"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_841031"
+
+[[text]]
+file = "motiondordrepron00guyo.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "motiondordrepron00guyo.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "motiondordrepron00guyo.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "motiondordrepron00guyo.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

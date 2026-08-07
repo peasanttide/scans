@@ -1,0 +1,98 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "memoirepourlessi00paul"
+type = "pamphlet"
+title = "Memoire pour les sieurs Bruyard, Cotrell & compagnie, marchands de cette ville, demandeurs, contre Sieur Jacques François Dupont, aussi marchand banquier audit Lyon, deffendeur."
+language = "fr"
+place = "Lyon"
+date = "1707"
+note = "Caption title. Signed at end: Pauliny. Printer from colophon. Latest date noted in text (page 6): 20. août 1707. Signatures: A² B²(-B2). Initial; head-piece. No. 8 of 54 titles bound together. Scanner's note: Uneven binding. Skewed text. Title is on the cover. Text is lost in the binding."
+url = "https://archive.org/details/memoirepourlessi00paul"
+subject = [
+    "Dupont, Jacques François",
+    "Bruyard, Cotrell & compagnie",
+    "Debtor and creditor",
+    "Payment",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio KJV5795 .A35 1728 no. 8"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9g50qm5h"
+internet_archive = "memoirepourlessi00paul"
+
+[scan]
+file = "memoirepourlessi00paul.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/memoirepourlessi00paul"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Pauliny,"
+role = "author"
+
+[[resp]]
+name = "Pauliny"
+role = "author"
+
+[[resp]]
+name = "Dupont, Jacques François"
+role = "author"
+
+[[resp]]
+name = "Langlois, Laurent, 1661-1719, printer"
+role = "publisher"
+
+[[resp]]
+name = "Bruyard, Cotrell & compagnie"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de L. Langlois, ruë petit Soulier au Point du jour"
+role = "publisher"
+
+[[text]]
+file = "memoirepourlessi00paul.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "memoirepourlessi00paul.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "memoirepourlessi00paul.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "memoirepourlessi00paul.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "memoirepourlessi00paul.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "memoirepourlessi00paul.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

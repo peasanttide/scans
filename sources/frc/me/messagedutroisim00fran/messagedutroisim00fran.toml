@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "messagedutroisim00fran"
+type = "pamphlet"
+title = "... Message : du troisième jour complémentaire, l'an 6 de la République française, une et indivisible [19 septembre 1798] ; Extrait du registre des délibérations /"
+language = "fr"
+place = "A Paris"
+date = "1798"
+note = """Caption title. Imprint from colophon. At head of title: Corps législatif. Conseil des cinq-cents. Liberté. Égalité. "Le Directoire exécutif au Conseil des cinq-cents.". About public finances. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found.  Title on cover. Damaged, stained pages and cover. Tight margins."""
+url = "https://archive.org/details/messagedutroisim00fran"
+subject = ["Finance, Public"]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 3305"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9r26103x"
+internet_archive = "messagedutroisim00fran"
+openlibrary_edition = "OL26213047M"
+openlibrary_work = "OL17609020W"
+
+[scan]
+file = "messagedutroisim00fran.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/messagedutroisim00fran"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Directoire exécutif"
+role = "author"
+
+[[resp]]
+name = "France. Directoire exécutif"
+role = "author"
+
+[[resp]]
+name = "France. Corps législatif (1795-1814). Conseil des cinq-cents"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_48560"
+
+[[text]]
+file = "messagedutroisim00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "messagedutroisim00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "messagedutroisim00fran.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "messagedutroisim00fran.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

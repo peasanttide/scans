@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "maratauxfran00unse"
+type = "pamphlet"
+title = "Marat aux Français, ou, La liberté universelle."
+language = "fr"
+place = "Paris"
+date = "1793"
+note = """Caption title. "L'assemblée générale de la section des Champs Elisées, dans sa séance du 30 du premier mois de l'an deuxième de la République française, une et indivisible, a arrêté que le discours et le présent hymne ... de la composition du citoyen François Legall, seroit imprimé ..."--P. 4. Imprint from colophon. Place of publication from Martin & Walter. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  III, 20574. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover."""
+url = "https://archive.org/details/maratauxfran00unse"
+subject = ["Marat, Jean Paul, 1743-1793"]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 21088"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7qp1cp5f"
+internet_archive = "maratauxfran00unse"
+openlibrary_edition = "OL26239111M"
+openlibrary_work = "OL17633661W"
+
+[scan]
+file = "maratauxfran00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/maratauxfran00unse"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Legall, François"
+role = "author"
+
+[[resp]]
+name = "Brasseur, J. P."
+role = "publisher"
+
+[[resp]]
+name = "Champs-Elysées (Paris, France : Section). Assemblée générale"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de J.P. Brasseur, rue Saint-Honoré, no. 431"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_844016"
+
+[[text]]
+file = "maratauxfran00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "maratauxfran00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "maratauxfran00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "maratauxfran00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

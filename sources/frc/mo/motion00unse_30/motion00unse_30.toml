@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "motion00unse_30"
+type = "pamphlet"
+title = "Motion faite à l'ouverture de la séance du 13 juillet 1789 /"
+language = "fr"
+place = "A Paris"
+date = "1789"
+note = "Caption title. Imprint from colophon. Last line on p. [1]: entière; another edition exists with last line: la France entière. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  III, 25399. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover."
+url = "https://archive.org/details/motion00unse_30"
+subject = ["Cabinet officers"]
+extent = "4 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 23006"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9964s240"
+internet_archive = "motion00unse_30"
+openlibrary_edition = "OL26236328M"
+openlibrary_work = "OL17630869W"
+
+[scan]
+file = "motion00unse_30.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/motion00unse_30"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Mounier, Jean Joseph, 1758-1806"
+role = "author"
+
+[[resp]]
+name = "Baudouin, François-Jean, 1759-1838"
+role = "publisher"
+
+[[resp]]
+name = "Chez Baudouin, imprimeur de l'Assemblée nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_847238"
+
+[[text]]
+file = "motion00unse_30.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "motion00unse_30.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "motion00unse_30.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "motion00unse_30.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

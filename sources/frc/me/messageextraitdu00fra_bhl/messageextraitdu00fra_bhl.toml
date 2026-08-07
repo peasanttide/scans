@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "messageextraitdu00fra_bhl"
+type = "pamphlet"
+title = "... Message : Extrait du registre des délibérations /"
+language = "fr"
+place = "A Paris"
+date = "1799"
+note = """Caption title. Imprint from colophon. At head of title: Corps législatif. Conseil des cinq-cents. Égalité. Liberté. "Le Directoire exécutif au Conseil des cinq-cents.". About military activities of Great Britain and Russia in the Netherlands. Not in Martin & Walter. Scanner's note: Title on cover. Damaged, stained pages and cover. No title page found. No copyright page found. No table-of-contents pages found."""
+url = "https://archive.org/details/messageextraitdu00fra_bhl"
+subject = ["Anglo-French War, 1793-1802"]
+extent = "3 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 3379"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2w42tg55"
+internet_archive = "messageextraitdu00fra_bhl"
+openlibrary_edition = "OL26212890M"
+openlibrary_work = "OL17608858W"
+
+[scan]
+file = "messageextraitdu00fra_bhl.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/messageextraitdu00fra_bhl"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Directoire exécutif"
+role = "author"
+
+[[resp]]
+name = "France. Directoire exécutif"
+role = "author"
+
+[[resp]]
+name = "France. Corps législatif (1795-1814). Conseil des cinq-cents"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_50001"
+
+[[text]]
+file = "messageextraitdu00fra_bhl.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "messageextraitdu00fra_bhl.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "messageextraitdu00fra_bhl.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "messageextraitdu00fra_bhl.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

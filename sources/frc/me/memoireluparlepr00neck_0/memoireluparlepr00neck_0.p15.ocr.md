@@ -1,0 +1,10 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: memoireluparlepr00neck_0
+page: 15
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 2870
+h: 4639
+dpi: 500
+---

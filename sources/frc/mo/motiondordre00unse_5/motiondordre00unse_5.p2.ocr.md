@@ -1,0 +1,51 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: motiondordre00unse_5
+page: 2
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 2779
+h: 4627
+dpi: 500
+---
+
+sera prononcé à Tavenir en posant la main droite sur
+ce livre.
+
+Par un autre arrêté du 17 de ce mois , le Conseil a
+ordonné que Tanniversaire du 10 août seroit célébré
+le 23 du courant dans la salle des séances du Conseil >
+avec la solemnité digne de cette mémorable époque.
+
+Enfin une loi du 12 thermidor an 7, promulguée par
+le bulletin des lois , n®. 297 ^ a établi une nouvelle
+formule du serment civique.
+
+Ne seroit-il pas digne du Corps législatif de consacrer
+la commémoration du 10 août par la prestation du
+nouveau serment civique , immédiatement après le
+discours qui doit être prononcé par le président pour
+célébrer cette journée à jamais chère aux Français ,
+et de faire le même jour Tinauguration de Pautel qui
+doit porter le livre de la Constitution ?
+
+■ A
+
+^ Certes on trouveroit difficilement un concours plus
+heureux de moyens plus solemnels de marquer la pompe
+de cette journée.
+
+On trouveroit difficilement un concours plus efficace
+de moyens moraux et politiques de relever Fesprit
+public , de faire renaître renthousiasme civique , et de
+signaler à toute la France rimperturbable volonté des
+représentans du peuple de défendre et soutenir la Cons-
+titution de Tan 3 . Cette cérémonie simple et touchante
+seroit la réponse la plus auguste et la plus énergique aux
+accusations et aux fureurs des ennemis du dedans et du
+dehors.
+
+Jer demande en conséquence qull soit arrêté ,
+
+1^. Que rinaugiiration de Fautel en forme antique
+qui doit être élevé ^ et sur. lequel le livre de la Consti-

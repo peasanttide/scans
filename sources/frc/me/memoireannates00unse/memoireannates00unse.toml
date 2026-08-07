@@ -1,0 +1,80 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "memoireannates00unse"
+type = "pamphlet"
+title = "Mémoire sur les annates : présenté a l'Assemblée nationale"
+language = "fr"
+place = "A Versailles"
+date = "1789"
+note = "Caption title. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française, IV:2, 9866. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages."
+url = "https://archive.org/details/memoireannates00unse"
+subject = [
+    "Annates",
+    "Church finance",
+    "Church and state",
+]
+extent = "4 p. ; 28 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 9961"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1ng9rv10"
+internet_archive = "memoireannates00unse"
+openlibrary_edition = "OL26222804M"
+openlibrary_work = "OL17618275W"
+
+[scan]
+file = "memoireannates00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/memoireannates00unse"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Pierres, Philippe-Denis, 1741-1808"
+role = "publisher"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Ph.-D. Pierres, premier imprimeur ordinaire du roi, rue St. Honoré, no. 23"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_69585"
+
+[[text]]
+file = "memoireannates00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "memoireannates00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "memoireannates00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "memoireannates00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

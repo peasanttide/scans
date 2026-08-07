@@ -1,0 +1,83 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "motionfaiteparjd00debr"
+type = "pamphlet"
+title = "Motion faite par J. Debry : séance du 29 prairial."
+language = "fr"
+place = "A Paris"
+date = "1799"
+note = "Caption title. At head of title: Corps législatif. Conseil des cinq-cents. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  I, 9476. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged pages and cover."
+url = "https://archive.org/details/motionfaiteparjd00debr"
+subject = [
+    "Congress of Rastatt 1797-1799)",
+    "Assassination",
+]
+extent = "3 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 17054"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t34220d53"
+internet_archive = "motionfaiteparjd00debr"
+openlibrary_edition = "OL26203946M"
+openlibrary_work = "OL17600368W"
+
+[scan]
+file = "motionfaiteparjd00debr.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/motionfaiteparjd00debr"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Debry, Jean-Antoine-Joseph, 1760-1834"
+role = "author"
+
+[[resp]]
+name = "France. Corps législatif (1795-1814). Conseil des cinq-cents"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_836272"
+
+[[text]]
+file = "motionfaiteparjd00debr.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "motionfaiteparjd00debr.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "motionfaiteparjd00debr.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "motionfaiteparjd00debr.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

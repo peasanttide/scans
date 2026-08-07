@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "motiondunmembred00haen"
+type = "pamphlet"
+title = "Motion d'un membre de la section des Lombards."
+language = "fr"
+place = "Paris"
+date = "1792"
+note = """Caption title. "20 octobre 1792, l'an 1er. de la République. Signé, Hæner, homme de loi, rue Saint-Martin, no. 188"--P. 4. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on front cover. Damaged and stained pages."""
+url = "https://archive.org/details/motiondunmembred00haen"
+subject = ["Conspiracies"]
+extent = "4 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 19620"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3227sk73"
+internet_archive = "motiondunmembred00haen"
+openlibrary_edition = "OL25946114M"
+openlibrary_work = "OL17367290W"
+
+[scan]
+file = "motiondunmembred00haen.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/motiondunmembred00haen"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Haener, homme de loi"
+role = "author"
+
+[[resp]]
+name = "Hérissant, Marie-Nicole, -1798"
+role = "publisher"
+
+[[resp]]
+name = "Ve. Hérissant, imprimeur, rue de la Parcheminerie"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_840991"
+
+[[text]]
+file = "motiondunmembred00haen.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "motiondunmembred00haen.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "motiondunmembred00haen.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "motiondunmembred00haen.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,84 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "motiondemlabbeda00coul"
+type = "pamphlet"
+title = "Motion de M. l'abbé d'Abbecourt, du 1 juillet 1790, sur la déclaration signée d'une partie des membres de l'Assemblée nationale : imprimé par ordre de l'Assemblée nationale."
+language = "fr"
+place = "A Paris"
+date = "1790"
+note = "Caption title. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  I, 8942. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover page. Skewed text. Damaged, loose pages."
+url = "https://archive.org/details/motiondemlabbeda00coul"
+subject = [
+    "Clergy",
+    "Civil religion",
+    "Church and state",
+]
+extent = "4 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 16674"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8x976n5j"
+internet_archive = "motiondemlabbeda00coul"
+openlibrary_edition = "OL26199884M"
+openlibrary_work = "OL17596550W"
+
+[scan]
+file = "motiondemlabbeda00coul.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/motiondemlabbeda00coul"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Coulmiers, François Simonnet de, sieur d'Escolmiers, 1741-1818"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_833937"
+
+[[text]]
+file = "motiondemlabbeda00coul.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "motiondemlabbeda00coul.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "motiondemlabbeda00coul.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "motiondemlabbeda00coul.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

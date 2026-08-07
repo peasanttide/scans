@@ -1,0 +1,71 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "mandementdem00ponc"
+type = "pamphlet"
+title = "Mandement de M. l'evêque de Troyes du premier Novembre 1756"
+language = "fr"
+date = "1756"
+note = "Recommending the 'Instruction pastorale of the Abp. of Paris. Caption title. Dated 6 June 1756. Condemns the act of the Parlement of Paris (12 April 1756) which had condemned the bishop's Instructon pastorale ... sur le schisme. Scanner's note: No copyright page found. No table-of-contents pages found.   Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Title page and cover are combined."
+url = "https://archive.org/details/mandementdem00ponc"
+subject = [
+    "Catholic Church",
+    "Censorship",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 6 no. 78"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0102sh9f"
+internet_archive = "mandementdem00ponc"
+
+[scan]
+file = "mandementdem00ponc.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/mandementdem00ponc"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Poncet de la Rivière, Matthias,1707-1780"
+role = "author"
+
+[[resp]]
+name = "Poncet de la Rivière, Matthias, 1707-1780"
+role = "author"
+
+[[resp]]
+name = "France. Parlement (Paris)"
+role = "author"
+
+[[text]]
+file = "mandementdem00ponc.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "mandementdem00ponc.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "mandementdem00ponc.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "mandementdem00ponc.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

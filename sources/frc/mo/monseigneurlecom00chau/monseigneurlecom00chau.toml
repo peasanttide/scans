@@ -1,0 +1,81 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "monseigneurlecom00chau"
+type = "pamphlet"
+title = "A Monseigneur le comte de Caraman, commandant en chef en Provence."
+language = "fr"
+place = "France"
+date = "1790"
+note = "Caption title. Signed: Chaudoin. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover. Text extends off edge of page."
+url = "https://archive.org/details/monseigneurlecom00chau"
+subject = [
+    "Pastures",
+    "Grazing districts",
+    "Cattle",
+    "Rural development projects",
+]
+extent = "4 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 16113"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t57d7x09n"
+internet_archive = "monseigneurlecom00chau"
+openlibrary_edition = "OL26205671M"
+openlibrary_work = "OL17601968W"
+
+[scan]
+file = "monseigneurlecom00chau.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/monseigneurlecom00chau"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Chaudoin, Jean-Baptiste"
+role = "author"
+
+[[resp]]
+name = "Caraman, Victor-Maurice de Riquet, comte de, 1727-1807"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_833436"
+
+[[text]]
+file = "monseigneurlecom00chau.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "monseigneurlecom00chau.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "monseigneurlecom00chau.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "monseigneurlecom00chau.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

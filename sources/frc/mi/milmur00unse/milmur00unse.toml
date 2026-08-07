@@ -1,0 +1,70 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "milmur00unse"
+type = "pamphlet"
+title = "Mil-- -Mur-- a Bonaparte."
+language = "fr"
+place = "France"
+date = "1799"
+note = "Caption title. Dated, p. [1]: 14 frimaire, an VIII. Not in Martin & Walter. Révolution française. Scanner's note: No Copyright found. No Table of Contents found. Title on cover page. Damaged, stained pages and cover. <br />."
+url = "https://archive.org/details/milmur00unse"
+subject = ["Trials (Political crimes and offenses)"]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 22452"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7hq96n8w"
+internet_archive = "milmur00unse"
+
+[scan]
+file = "milmur00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/milmur00unse"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "Napoleon I, Emperor of the French, 1769-1821"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_846598"
+
+[[text]]
+file = "milmur00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "milmur00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "milmur00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "milmur00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

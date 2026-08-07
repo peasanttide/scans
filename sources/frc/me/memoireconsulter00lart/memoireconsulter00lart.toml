@@ -1,0 +1,84 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "memoireconsulter00lart"
+type = "pamphlet"
+title = "Mémoire à consulter, pour M. Lartigue, lieutenant-général & juge-mage en la sénéchaussée & siege présidial de Toulouse."
+language = "fr"
+place = "France"
+date = "1788"
+note = """Caption title. "Consultations"--P. 2-4; signed: Délibéré à Toulouse, le 15 mai 1788 ... Senovet, ... Labadie de Villeneuve. Imprint from colophon. Not in Martin & Walter. Révolution française. Concerns Lartigue's judicial appointment in light of the May Edicts of 1788. Scanner's note: No copyright page found. No table-of-contents pages found. Title page is on the cover. Damaged, stained, and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/memoireconsulter00lart"
+subject = [
+    "Lartigue, André de, 1723-",
+    "Judges",
+    "Courts",
+]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 20734"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8ff9123p"
+internet_archive = "memoireconsulter00lart"
+openlibrary_edition = "OL26237703M"
+openlibrary_work = "OL17632252W"
+
+[scan]
+file = "memoireconsulter00lart.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/memoireconsulter00lart"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Lartigue, André de, 1723-"
+role = "author"
+
+[[resp]]
+name = "Senovet"
+role = "author"
+
+[[resp]]
+name = "Labadie de Villeneuve"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_843478"
+
+[[text]]
+file = "memoireconsulter00lart.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "memoireconsulter00lart.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "memoireconsulter00lart.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "memoireconsulter00lart.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

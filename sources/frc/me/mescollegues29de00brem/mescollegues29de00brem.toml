@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "mescollegues29de00brem"
+type = "pamphlet"
+title = "A mes collègues : 29 décembre 1791."
+language = "fr"
+place = "A Paris"
+date = "1791"
+note = """Caption title. Signed: Brémontier, député du département de la Seine-Inférieure. "La faculté de nous former en Comité-général ne peut avoir, à mon avis ... "--P. 3. Imprint from colophon. "Matières diverses. G."--Bottom of p. [1]. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  I, 5077. Scanner's note: No copyright page found. No table-of-contents pages found. Title on front cover. Damaged, worn pages."""
+url = "https://archive.org/details/mescollegues29de00brem"
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 15284"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5m953z6f"
+internet_archive = "mescollegues29de00brem"
+openlibrary_edition = "OL25948115M"
+openlibrary_work = "OL17369168W"
+
+[scan]
+file = "mescollegues29de00brem.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/mescollegues29de00brem"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Brémontier, Georges Thomas"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale législative (1791-1792). Comité général"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_831606"
+
+[[text]]
+file = "mescollegues29de00brem.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "mescollegues29de00brem.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "mescollegues29de00brem.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "mescollegues29de00brem.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

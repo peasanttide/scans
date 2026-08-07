@@ -1,0 +1,10 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: motion00unse_87
+page: 8
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 2988
+h: 4803
+dpi: 500
+---

@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "memoireducardina00dubo"
+type = "pamphlet"
+title = "Mémoire du Cardinal Dubois au régent sur les États-généraux que ce prince avoit envie de convoquer, quand le systême eut mis l'État en desordre."
+language = "fr"
+place = "France?"
+date = "1789"
+note = "Caption title. Questionably attributed to Guillaume Dubois. Cf. BN. BN. Not in Martin & Walter. Révolution française. Bibliography: BN,  XLII, column 530. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Skewed text."
+url = "https://archive.org/details/memoireducardina00dubo"
+subject = [
+    "France. États généraux",
+    "Monarchy",
+]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 17615"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0ms8pq6x"
+internet_archive = "memoireducardina00dubo"
+openlibrary_edition = "OL26193900M"
+openlibrary_work = "OL17590667W"
+
+[scan]
+file = "memoireducardina00dubo.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/memoireducardina00dubo"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Dubois, Guillaume, 1656-1723"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_836594"
+
+[[text]]
+file = "memoireducardina00dubo.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "memoireducardina00dubo.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "memoireducardina00dubo.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "memoireducardina00dubo.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

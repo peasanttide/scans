@@ -1,0 +1,88 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "monderniermotsur00asse"
+type = "pamphlet"
+title = "Mon dernier mot sur l'affaire de Louis XVI /"
+language = "fr"
+place = "Paris"
+date = "1792"
+note = """Caption title. At head of title: Convention nationale. Imprint from colophon. "Législation. (no. 135.)"--Bottom of p. [1]. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  I, 600. Scanner's note: Title page located on front cover. No copyright page found. No table-of-contents pages found. Worn, damaged cover and pages. Skewed text."""
+url = "https://archive.org/details/monderniermotsur00asse"
+subject = [
+    "Louis XVI, King of France, 1754-1793",
+    "Separation of powers",
+    "Justice, Administration of",
+]
+extent = "3 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 13659"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5dc2qw56"
+internet_archive = "monderniermotsur00asse"
+openlibrary_edition = "OL25920814M"
+openlibrary_work = "OL17343815W"
+
+[scan]
+file = "monderniermotsur00asse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/monderniermotsur00asse"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Asselin, Eustache-Benoît, 1735-1793"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "Louis XVI Trial and Execution Collection (Newberry Library) ICN"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_828984"
+
+[[text]]
+file = "monderniermotsur00asse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "monderniermotsur00asse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "monderniermotsur00asse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "monderniermotsur00asse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

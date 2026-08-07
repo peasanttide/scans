@@ -1,0 +1,65 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "mescollgues1790unse"
+type = "pamphlet"
+title = "A mes collègues."
+language = "fr"
+place = "Paris"
+date = "1790"
+note = "Scanner's note: Title and cover combined.  No table-of-contents pages found. No copyright page found. Some text skewed. No physical cover. Stained pages."
+url = "https://archive.org/details/mescollgues1790unse"
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 16"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6qz5rd1g"
+internet_archive = "mescollgues1790unse"
+
+[scan]
+file = "mescollgues1790unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/mescollgues1790unse"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "De l'imprimerie de Froullé"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_33155"
+
+[[text]]
+file = "mescollgues1790unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "mescollgues1790unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "mescollgues1790unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "mescollgues1790unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"

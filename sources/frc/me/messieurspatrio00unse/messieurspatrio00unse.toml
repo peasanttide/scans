@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "messieurspatrio00unse"
+type = "pamphlet"
+title = "... Messieurs : Des patriotes opprimés par un ministre de paix, par un ministre du seigneur, par le dépositaire de la confiance de la nation françoise, vous adressent l'exposé ... de leurs maux .."
+language = "fr"
+place = "s.l."
+date = "1791"
+note = "Circular letter, without title or imprint. Title statement from opening sentence of text. At head of text: Avignon ce 14 octobre 1791. Signed at end: Le maire et les officiers de la Garde nationale de Sorgues. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover. No page numbers."
+url = "https://archive.org/details/messieurspatrio00unse"
+extent = "[1] p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10276"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7jq63d2s"
+internet_archive = "messieurspatrio00unse"
+openlibrary_edition = "OL26223046M"
+openlibrary_work = "OL17618507W"
+
+[scan]
+file = "messieurspatrio00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/messieurspatrio00unse"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Sorgues (France)"
+role = "author"
+
+[[resp]]
+name = "Sorgues (France). Garde nationale"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_71844"
+
+[[text]]
+file = "messieurspatrio00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "messieurspatrio00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "messieurspatrio00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "messieurspatrio00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

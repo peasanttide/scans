@@ -1,0 +1,105 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "memoire00unse_29"
+type = "pamphlet"
+title = "Mémoire à l'Assemblée nationale, sur l'organisation des écoles de Marine /"
+language = "fr"
+place = "A Paris"
+note = """Date given by the catalogue as "179u", unreadable. Caption title. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  IV:1, 33352. Scanner's note: Uneven binding. Skewed text. Damaged, stained and/or loose pages."""
+url = "https://archive.org/details/memoire00unse_29"
+subject = [
+    "France. Marine",
+    "Nautical training-schools",
+    "Sailors",
+]
+extent = "8 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 26056"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2w433k56"
+internet_archive = "memoire00unse_29"
+
+[scan]
+file = "memoire00unse_29.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/memoire00unse_29"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Tallien, Jean-Lambert, 1767-2347"
+role = "author"
+
+[[resp]]
+name = "Verlac, Bertrand, 1757-1819"
+role = "author"
+
+[[resp]]
+name = "Imprimerie patriotique"
+role = "publisher"
+
+[[resp]]
+name = "Aux dépens de l'auteur, et de l'Imprimerie patriotique, cour du commerce"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_864329"
+
+[[text]]
+file = "memoire00unse_29.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "memoire00unse_29.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "memoire00unse_29.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "memoire00unse_29.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "memoire00unse_29.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "memoire00unse_29.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "memoire00unse_29.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "memoire00unse_29.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

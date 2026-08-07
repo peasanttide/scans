@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "mortauxtyranseta00math"
+type = "pamphlet"
+title = "Mort aux tyrans et aux traitres : Jean-Baptiste Matharel, aux amis de la liberté et de l'égalité"
+language = "fr"
+place = "France"
+date = "1794"
+note = "Caption title. At head of title: Liberté. Égalité. Not in Martin & Walter. Révolution française. Jean-Baptiste Matharel, aux amis de la liberté et de l'égalité -- Extrait des registres des délibérations de la Société populaire d'Issoire, seance du 19 fructidor, l'an 2 ... -- Certificat de civisme accordé au citoyen Matharel. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover."
+url = "https://archive.org/details/mortauxtyranseta00math"
+subject = [
+    "Matharel, Jean-Baptiste",
+    "Libel and slander",
+]
+extent = "3 p. ; 24 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 26983"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0jt4sr6t"
+internet_archive = "mortauxtyranseta00math"
+openlibrary_edition = "OL26226805M"
+openlibrary_work = "OL17622032W"
+
+[scan]
+file = "mortauxtyranseta00math.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/mortauxtyranseta00math"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Matharel, Jean-Baptiste"
+role = "author"
+
+[[resp]]
+name = "Société populaire d'Issoire"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_865579"
+
+[[text]]
+file = "mortauxtyranseta00math.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "mortauxtyranseta00math.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "mortauxtyranseta00math.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "mortauxtyranseta00math.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

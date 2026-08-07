@@ -1,0 +1,10 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: monoffrandepatri00cler
+page: 2
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 3234
+h: 5200
+dpi: 500
+---

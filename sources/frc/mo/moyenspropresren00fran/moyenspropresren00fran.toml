@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "moyenspropresren00fran"
+type = "pamphlet"
+title = "Moyens propres a rendre plus économique l'emploi des farines : provenant des grains nouvellement récoltés ; et à augmenter la qualité du pain qu'elles doivent donner /"
+language = "fr"
+place = "A Paris"
+date = "1794"
+note = "Caption title. Imprint from colophon. Reprinted from: Feuille du cultivateur, t.4, no.41 (17 messidor an 2 = 15 juillet 1794), p.[247]-248. This edition not in Martin & Walter (cf. IV 2: 10428). Scanner's note: No copyright page found. No table-of-contents pages found.  Title and cover page are combined. Skewed text. Uneven binding. Damaged, stained and/or loose pages."
+url = "https://archive.org/details/moyenspropresren00fran"
+subject = ["Flour"]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 5708"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9b61nn1p"
+internet_archive = "moyenspropresren00fran"
+openlibrary_edition = "OL26216836M"
+openlibrary_work = "OL17612653W"
+
+[scan]
+file = "moyenspropresren00fran.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/moyenspropresren00fran"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale. Comité d'agriculture etdes arts"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale. Comité d'agriculture etdes arts"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de la Feuille du cultivateur"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_58836"
+
+[[text]]
+file = "moyenspropresren00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "moyenspropresren00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "moyenspropresren00fran.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "moyenspropresren00fran.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

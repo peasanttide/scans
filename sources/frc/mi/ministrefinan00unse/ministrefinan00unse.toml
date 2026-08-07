@@ -1,0 +1,81 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "ministrefinan00unse"
+type = "pamphlet"
+title = "Le ministre des finances, aux administrateurs du département de l'Ain"
+language = "fr"
+place = "France"
+date = "1796"
+note = "Caption title. At head of title: Paris, le 16 pluviôse, an 4 de la République française, une et indivisible. At right of title: 1re. division. emprunt forcé de l'an IV. Signed: Faipoult. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text. No page numbers."
+url = "https://archive.org/details/ministrefinan00unse"
+subject = [
+    "Forced loans",
+    "Payment",
+    "Assignats",
+    "Finance, Public",
+]
+extent = "[3] p. ; 25 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 26724"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6sz1fk32"
+internet_archive = "ministrefinan00unse"
+openlibrary_edition = "OL26228674M"
+openlibrary_work = "OL17623742W"
+
+[scan]
+file = "ministrefinan00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/ministrefinan00unse"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Faipoult de Maisoncelle, Guillaume Charles,1752-1817"
+role = "author"
+
+[[resp]]
+name = "Faipoult de Maisoncelle, Guillaume Charles, 1752-1817"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_864907"
+
+[[text]]
+file = "ministrefinan00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ministrefinan00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ministrefinan00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "ministrefinan00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

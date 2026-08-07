@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "moyeninfaillible00anto"
+type = "pamphlet"
+title = "Moyen infaillible de faire diminuer le prix des bois de chauffage /"
+language = "fr"
+place = "A Dijon"
+date = "1802"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title and cover page combined."
+url = "https://archive.org/details/moyeninfaillible00anto"
+subject = [
+    "Fuelwood",
+    "Peat",
+]
+extent = "4 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 13523"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2m667d9w"
+internet_archive = "moyeninfaillible00anto"
+openlibrary_edition = "OL25926370M"
+openlibrary_work = "OL17348999W"
+
+[scan]
+file = "moyeninfaillible00anto.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/moyeninfaillible00anto"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Antoine, Pierre-Joseph, 1730-1814"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Carion"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_828770"
+
+[[text]]
+file = "moyeninfaillible00anto.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "moyeninfaillible00anto.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "moyeninfaillible00anto.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "moyeninfaillible00anto.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

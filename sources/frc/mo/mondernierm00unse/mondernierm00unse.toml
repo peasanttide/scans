@@ -1,0 +1,88 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "mondernierm00unse"
+type = "pamphlet"
+title = "Mon dernier mot sur l'affaire de Louis XVI"
+language = "fr"
+place = "A Dijon"
+date = "1793"
+note = """Caption title. At head of title: Convention nationale. Imprint from colophon. Variant of Martin & Walter. Révolution française, I, 600. "Complément de l'opinion du citoyen Asselin, député à la Convention nationale, sur le procès de Louis XVI"--2 p. at end. Scanner's note: No copyright page found. No table-of-contents pages found. Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text. Irregular pagination."""
+url = "https://archive.org/details/mondernierm00unse"
+subject = [
+    "Louis XVI, King of France, 1754-1793",
+    "Separation of powers",
+    "Justice, Administration of",
+]
+extent = "2, 2 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 26449"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t34224563"
+internet_archive = "mondernierm00unse"
+openlibrary_edition = "OL26229880M"
+openlibrary_work = "OL17624911W"
+
+[scan]
+file = "mondernierm00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/mondernierm00unse"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Asselin, Eustache-Benoît,1735-1793"
+role = "author"
+
+[[resp]]
+name = "Asselin, Eustache-Benoît, 1735-1793"
+role = "author"
+
+[[resp]]
+name = "Asselin, Eustache-Benoît, 1735-1793. Complément de l'opinion du citoyen Asselin, député à la Convention nationale, sur le procès de Louis XVI"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de Capel"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_862150"
+
+[[text]]
+file = "mondernierm00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "mondernierm00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "mondernierm00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "mondernierm00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

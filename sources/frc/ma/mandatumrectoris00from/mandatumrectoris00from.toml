@@ -1,0 +1,64 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "mandatumrectoris00from"
+type = "pamphlet"
+title = "Mandatum rectoris"
+language = "la"
+place = "Paris"
+date = "1744"
+note = """Binder's title: Conquest du roy. "Octroi d'un congé de trois jours à l'Université de Paris, à l'occasion du retour du roi. 13 novembre 1744."--Bibl. nat. Cat. Scanner's note: No copyright page found. No table-of-contents pages found. Title and cover pages combined."""
+url = "https://archive.org/details/mandatumrectoris00from"
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "E 5 .L92705 v. 06 no. 63"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t07x2fg0p"
+internet_archive = "mandatumrectoris00from"
+
+[scan]
+file = "mandatumrectoris00from.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/mandatumrectoris00from"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Fromentin, Pierre"
+role = "author"
+
+[[resp]]
+name = "Thiboust"
+role = "publisher"
+
+[[text]]
+file = "mandatumrectoris00from.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "la"
+
+[[text]]
+file = "mandatumrectoris00from.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "la"
+
+[[text]]
+file = "mandatumrectoris00from.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "la"
+
+[[text]]
+file = "mandatumrectoris00from.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "la"

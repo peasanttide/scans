@@ -1,0 +1,84 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "messieurslesrepr00mich"
+type = "pamphlet"
+title = "A Messieurs les représentans de la commune de Paris : mémoire pour Henri Michelin, contre M. Caron de Beaumarchais"
+language = "fr"
+place = "Paris"
+date = "1789"
+note = "Caption title. Signed: Henry Michelin, ci-devant portier de M. de Beaumarchais. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover."
+url = "https://archive.org/details/messieurslesrepr00mich"
+subject = [
+    "Michelin, Henry",
+    "Beaumarchais, Pierre Augustin Caron de, 1732-1799",
+    "Libel and slander",
+]
+extent = "4 p. ; 25 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 27005"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9w146k5q"
+internet_archive = "messieurslesrepr00mich"
+openlibrary_edition = "OL26226951M"
+openlibrary_work = "OL17622178W"
+
+[scan]
+file = "messieurslesrepr00mich.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/messieurslesrepr00mich"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Michelin, Henri"
+role = "author"
+
+[[resp]]
+name = "Momoro, Antoine-François, 1756-1794"
+role = "publisher"
+
+[[resp]]
+name = "Commune de Paris (France : 1789-1794)"
+role = "author"
+
+[[resp]]
+name = "De l'imprim. de Momoro, prem. imprim. de la liberté nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_865600"
+
+[[text]]
+file = "messieurslesrepr00mich.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "messieurslesrepr00mich.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "messieurslesrepr00mich.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "messieurslesrepr00mich.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

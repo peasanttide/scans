@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "memoirepoursieur00vero"
+type = "pamphlet"
+title = "Memoire pour Sieur Marcelin Verot, marchand en cette ville, demandeur, contre Demoiselle Jeanne Olivier, veuve de Sieur Pierre Boyer, & Sieur Antoine Julien, deffendeurs."
+language = "fr"
+place = "France?"
+date = "1705"
+note = "Caption title. Latest date noted in text (page 1): 26. aoust 1705. Signatures: A². No. 33 of 54 titles bound together."
+url = "https://archive.org/details/memoirepoursieur00vero"
+subject = [
+    "Verot, Marcelin",
+    "Olivier, Jeanne",
+    "Julien, Antoine",
+    "Partnership",
+    "Business enterprises",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio KJV5795 .A35 1728 no. 33"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7jq71m3h"
+internet_archive = "memoirepoursieur00vero"
+
+[scan]
+file = "memoirepoursieur00vero.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/memoirepoursieur00vero"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Verot, Marcelin"
+role = "author"
+
+[[resp]]
+name = "Olivier, Jeanne"
+role = "author"
+
+[[resp]]
+name = "Julien, Antoine"
+role = "author"
+
+[[resp]]
+name = "[publisher not identified]"
+role = "publisher"
+
+[[text]]
+file = "memoirepoursieur00vero.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "memoirepoursieur00vero.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "memoirepoursieur00vero.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "memoirepoursieur00vero.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

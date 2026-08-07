@@ -1,0 +1,83 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "motiondordrefait00deth"
+type = "pamphlet"
+title = "Motion d'ordre faite par L.F. Dethier, député de l'Ourthe, pour l'établissement d'un tribunal de commerce dans la commune de Liége : séance du premier jour complémentaire."
+language = "fr"
+place = "A Paris"
+date = "1798"
+note = "Caption title. At head of title: Corps législatif. Conseil des cinq-cents. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  II, 10637. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page."
+url = "https://archive.org/details/motiondordrefait00deth"
+subject = [
+    "Court administration",
+    "Commercial courts",
+]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 11454"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5s801d6r"
+internet_archive = "motiondordrefait00deth"
+openlibrary_edition = "OL25913547M"
+openlibrary_work = "OL17337026W"
+
+[scan]
+file = "motiondordrefait00deth.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/motiondordrefait00deth"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Dethier, Laurent-François, 1757-1843"
+role = "author"
+
+[[resp]]
+name = "France. Corps législatif (1795-1814). Conseil des cinq-cents"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_828544"
+
+[[text]]
+file = "motiondordrefait00deth.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "motiondordrefait00deth.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "motiondordrefait00deth.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "motiondordrefait00deth.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

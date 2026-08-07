@@ -1,0 +1,68 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "memoire00unse"
+type = "pamphlet"
+title = "Memoire"
+language = "fr"
+place = "Paris"
+date = "1790"
+note = """Caption title. Imprint from colophon. "Les messageries étant aujourd'hui d'une nécessité indispensable, il est important d'entretenir un établisseement o`u le public soit assuré de trouver ... des voitures pour le transporter dans toutes les différentes parties du royaume ...": p.[1]. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found. Title page and cover are combined. Damaged, stained and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/memoire00unse"
+subject = ["Transportation"]
+extent = "4 p. ; 26 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC suppl. 128"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t18m2ht8b"
+internet_archive = "memoire00unse"
+openlibrary_edition = "OL26235719M"
+openlibrary_work = "OL17630277W"
+
+[scan]
+file = "memoire00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/memoire00unse"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "De l'imprimerie de Ballard"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_74105"
+
+[[text]]
+file = "memoire00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "memoire00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "memoire00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "memoire00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

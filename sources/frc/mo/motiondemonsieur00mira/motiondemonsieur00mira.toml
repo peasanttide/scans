@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "motiondemonsieur00mira"
+type = "pamphlet"
+title = "Motion de monsieur le comte de Mirabeau, sur la nécessité d'éloigner les troupes de la capitale."
+language = "fr"
+place = "France"
+date = "1789"
+note = """Caption title. "Séance du 8 juillet 1789"--Session date from Martin & Walter. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  III, 24513. Scanner's note: No title page found. No copyright page found. No table-of-contents pages found. v."""
+url = "https://archive.org/details/motiondemonsieur00mira"
+subject = [
+    "Louis XVI, King of France, 1754-1793",
+    "Armed Forces",
+]
+extent = "3 p. ; 19 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 12616"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3wt3dr2w"
+internet_archive = "motiondemonsieur00mira"
+openlibrary_edition = "OL25928627M"
+openlibrary_work = "OL17351092W"
+
+[scan]
+file = "motiondemonsieur00mira.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/motiondemonsieur00mira"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Mirabeau, Honoré-Gabriel de Riquetti, comte de, 1749-1791"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_827462"
+
+[[text]]
+file = "motiondemonsieur00mira.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "motiondemonsieur00mira.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "motiondemonsieur00mira.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "motiondemonsieur00mira.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

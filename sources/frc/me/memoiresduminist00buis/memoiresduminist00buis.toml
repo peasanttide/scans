@@ -1,0 +1,93 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "memoiresduminist00buis"
+type = "pamphlet"
+title = "Mémoires du ministere du duc d'Aiguillon, pair de France, et de son commandement en Bretagne"
+language = "fr"
+place = "Paris?"
+date = "1792"
+note = """Prospectuses for Mirabeau's "Mémoires du ministere du duc d'Aiguillon, pair de France, et de son commandement en Bretagne," and a French translation of Mackintosh's "Vindiciae Gallicae," both published by Buisson in 1792. Caption title. Probably detached from a larger work. "Apologie de la Révolution française, et de ses admirateurs anglais, en réponse aux attaques d'Edmund Burke, avec quelques remarques sur le dernier ouvrage de M. de Calonne, par Jacques Mackintosh, ouvrage traduit de l'anglais sur la troisième édition. 1 volume in-8°. Prix, 3 liv. 12 sols, broché. A Paris, chez le même libraire": P. [2]. Scanner's note: No copyright found.  No table of contents found.  Damaged, stained pages.  No page numbers. <br />Text extends past page edges. <br /><br />."""
+url = "https://archive.org/details/memoiresduminist00buis"
+subject = [
+    "Mirabeau, Honoré-Gabriel de Riquetti, comte de, 1749-1791",
+    "Mackintosh, James, Sir, 1765-1832",
+    "Booksellers and bookselling",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1e no. 9"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2f821t7f"
+internet_archive = "memoiresduminist00buis"
+
+[scan]
+file = "memoiresduminist00buis.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/memoiresduminist00buis"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "Buisson, François,1753-1814"
+role = "author"
+
+[[resp]]
+name = "Buisson, François, 1753-1814"
+role = "author"
+
+[[resp]]
+name = "Mirabeau, Honoré-Gabriel de Riquetti, comte de, 1749-1791. Mémoires du ministere du duc d'Aiguillon, pair de France, et de son commandement en Bretagne"
+role = "author"
+
+[[resp]]
+name = "Mackintosh, James, Sir, 1765-1832. Vindiciae Gallicae. French"
+role = "author"
+
+[[resp]]
+name = "Buisson?"
+role = "publisher"
+
+[[text]]
+file = "memoiresduminist00buis.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "memoiresduminist00buis.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "memoiresduminist00buis.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "memoiresduminist00buis.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "memoiresduminist00buis.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "memoiresduminist00buis.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

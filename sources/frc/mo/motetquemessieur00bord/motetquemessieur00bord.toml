@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "motetquemessieur00bord"
+type = "pamphlet"
+title = "Motet que Messieurs les fermiers généraux ont fait chanter avant le Te Deum, dans l'Eglise de Notre-Dame des Victoires le 30 septembre 1744, pour la convalescence du roi"
+language = "fr"
+place = "A Paris"
+date = "1744"
+note = "In Latin and French on facing pages. Imprint date misprinted on title page and should be 1744. Printing privilege dated: 6 octobre 1744; content refers to Louis XV's recovery from an illness in 1744. Signatures: [1]². Title vignette; initials; head-pieces. No. 45 of 53 titles bound together. Scanner's note: No copyright page found. No table-of-contents pages found. Title and cover pages combined."
+url = "https://archive.org/details/motetquemessieur00bord"
+subject = [
+    "Louis XV, King of France, 1710-1774",
+    "Motets",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "E 5 .L92705 v. 07 no. 45"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4mm2cs5q"
+internet_archive = "motetquemessieur00bord"
+
+[scan]
+file = "motetquemessieur00bord.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/motetquemessieur00bord"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Bordelet, Marc, 1697?-1754"
+role = "publisher"
+
+[[resp]]
+name = "France. Ferme générale"
+role = "author"
+
+[[resp]]
+name = "Chez Bordelet, ruë Saint Jacques, vis-à-vis le College des Jésuites, à Saint Ignace"
+role = "publisher"
+
+[[text]]
+file = "motetquemessieur00bord.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "motetquemessieur00bord.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "motetquemessieur00bord.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "motetquemessieur00bord.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

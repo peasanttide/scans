@@ -1,0 +1,100 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "monderniermotsur00menn"
+type = "pamphlet"
+title = "Mon dernier mot sur le jugement de Louis : prononcé dans la séance du 16 janvier 1793, l'an premier de la République française : imprimé par ordre de la Convention nationale."
+language = "fr"
+place = "A Paris"
+date = "1793"
+note = """At head of title: Convention nationale. Signed: Mennesson, député du département des Ardennes. Martin & Walter. Révolution française. "Réponse sur la question du sursis"--P. 5-6. Bibliography: Martin & Walter.  Révolution française,  III, 23829. Scanner's note: Title page and cover are combined. Damaged, stained, marked and/or loose pages. Uneven binding. Skewed text."""
+url = "https://archive.org/details/monderniermotsur00menn"
+subject = ["Louis XVI, King of France, 1754-1793"]
+extent = "6 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 22311"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6rz4hw1s"
+internet_archive = "monderniermotsur00menn"
+openlibrary_edition = "OL26240066M"
+openlibrary_work = "OL17634589W"
+
+[scan]
+file = "monderniermotsur00menn.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/monderniermotsur00menn"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Mennesson, Jean-Baptiste-Augustin-Prosper, 1761-1807"
+role = "author"
+
+[[resp]]
+name = "Mennesson, Jean-Baptiste-Augustin-Prosper, 1761-1807. Réponse sur la question du sursis"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "Louis XVI Trial and Execution Collection (Newberry Library) ICN"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_843898"
+
+[[text]]
+file = "monderniermotsur00menn.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "monderniermotsur00menn.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "monderniermotsur00menn.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "monderniermotsur00menn.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "monderniermotsur00menn.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "monderniermotsur00menn.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

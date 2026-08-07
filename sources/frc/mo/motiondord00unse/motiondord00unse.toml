@@ -1,0 +1,88 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "motiondord00unse"
+type = "pamphlet"
+title = "Motion d'ordre, proposée par Florent Guiot, député du département de la Côte-d'Or, sur l'article premier du projet de decret, Louis XVI peut être jugé : imprimée par ordre de la Convention nationale"
+language = "fr"
+place = "A Angers"
+date = "1792"
+note = "Caption title. At head of title: Convention nationale. Imprint from colophon. Variant of Martin & Walter. Révolution française, II, 16165. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover."
+url = "https://archive.org/details/motiondord00unse"
+subject = [
+    "Louis XVI, King of France, 1754-1793",
+    "Executive power",
+    "Monarchy",
+]
+extent = "4 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 27275"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4zh1sb61"
+internet_archive = "motiondord00unse"
+openlibrary_edition = "OL26228835M"
+openlibrary_work = "OL17623904W"
+
+[scan]
+file = "motiondord00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/motiondord00unse"
+ppi = 350
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Guiot, Florent,1755-1834"
+role = "author"
+
+[[resp]]
+name = "Guiot, Florent, 1755-1834"
+role = "author"
+
+[[resp]]
+name = "Mame, Charles-Pierre, 1747-1825"
+role = "publisher"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale, chez Mame, imprimeur du département"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_867971"
+
+[[text]]
+file = "motiondord00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "motiondord00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "motiondord00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "motiondord00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

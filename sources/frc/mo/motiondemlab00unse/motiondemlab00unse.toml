@@ -1,0 +1,87 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "motiondemlab00unse"
+type = "pamphlet"
+title = "Motion de M. l'abbé de Lamanon, chanoine de l'église d'Aix, prononcée dans la séance du clergé, tenue le 4 avril à dix heures du matin dans la salle de l'archevêché."
+language = "fr"
+place = "A Aix"
+date = "1789"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No title page found. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/motiondemlab00unse"
+subject = [
+    "Catholic Church",
+    "Clergy",
+]
+extent = "4 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 20452"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4bp5938q"
+internet_archive = "motiondemlab00unse"
+openlibrary_edition = "OL26235141M"
+openlibrary_work = "OL17629724W"
+
+[scan]
+file = "motiondemlab00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/motiondemlab00unse"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Lamanon, M. l'abbé de"
+role = "author"
+
+[[resp]]
+name = "Gibelin-David, Barthélemy, b. 1747"
+role = "publisher"
+
+[[resp]]
+name = "Emeric-David, T.-B. (Toussaint-Bernard), 1755-1839"
+role = "publisher"
+
+[[resp]]
+name = "Aix-en-Provence (France). Clergé"
+role = "author"
+
+[[resp]]
+name = "Chez Gibelin-David & Emeric-David, avocats, imprimeurs du roi & de la ville"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_843018"
+
+[[text]]
+file = "motiondemlab00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "motiondemlab00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "motiondemlab00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "motiondemlab00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

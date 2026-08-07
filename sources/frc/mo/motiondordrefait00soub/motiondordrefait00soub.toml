@@ -1,0 +1,83 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "motiondordrefait00soub"
+type = "pamphlet"
+title = "Motion d'ordre faite par Soubdès (du Gers), relativement à la discussion sur l'organisation judiciaire : séance du 18 ventose, an 7."
+language = "fr"
+place = "Paris"
+date = "1799"
+note = "Caption title. At head of title: Corps législatif, Conseil des anciens. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  IV:1, 31869. Scanner's note: No title page found. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/motiondordrefait00soub"
+subject = [
+    "Judges",
+    "Court administration",
+]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 13187"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8bg7dg2s"
+internet_archive = "motiondordrefait00soub"
+openlibrary_edition = "OL25926234M"
+openlibrary_work = "OL17348860W"
+
+[scan]
+file = "motiondordrefait00soub.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/motiondordrefait00soub"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Soubdès, Jean Louis, 1749-1819"
+role = "author"
+
+[[resp]]
+name = "France. Corps législatif (1795-1814). Conseil des anciens"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_827717"
+
+[[text]]
+file = "motiondordrefait00soub.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "motiondordrefait00soub.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "motiondordrefait00soub.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "motiondordrefait00soub.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

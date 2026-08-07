@@ -1,0 +1,56 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "mandementdesas00cler"
+type = "pamphlet"
+title = "Mandement de S.A.S. Monseigneur le comte de Clermont, prince du sang, abbé commandataire de l'abbaye royale de S. Germain des Prez, immédiate au S. Siége"
+language = "fr"
+place = "Paris"
+date = "1746"
+note = "Binder's title: Conquest du roy. Scanner's note: No copyright page found. No table-of-contents pages found. Title and cover pages combined."
+url = "https://archive.org/details/mandementdesas00cler"
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "E 5 .L92705 v. 09 no. 33"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t79s7vd2s"
+internet_archive = "mandementdesas00cler"
+
+[scan]
+file = "mandementdesas00cler.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/mandementdesas00cler"
+ppi = 350
+note = "Scanned on fold1.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Clermont, Louis de Bourbon-Condé,comte de,1709-1771"
+role = "author"
+
+[[resp]]
+name = "Clermont, Louis de Bourbon-Condé, comte de, 1709-1771"
+role = "author"
+
+[[resp]]
+name = "P.G. Simon"
+role = "publisher"
+
+[[text]]
+file = "mandementdesas00cler.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "mandementdesas00cler.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,67 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "mandementdemon00fitz"
+type = "pamphlet"
+title = "Mandement de Monseigneur l'evêque de Soissons"
+language = "fr"
+date = "1744"
+note = "Binder's title: Conquest du roi. Caption title. Scanner's note: No copyright page found. No table-of-contents pages found.  Title is on the cover.  Uneven binding.  Skewed text.  Irregular pagination.  Some page numbers are altered or defaced."
+url = "https://archive.org/details/mandementdemon00fitz"
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "E 5 .L92705 v. 07 no. 32"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3cz98n3c"
+internet_archive = "mandementdemon00fitz"
+
+[scan]
+file = "mandementdemon00fitz.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/mandementdemon00fitz"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Fitz-James, François,duc de, Bp.,1709-1764"
+role = "author"
+
+[[resp]]
+name = "Fitz-James, François, duc de, Bp., 1709-1764"
+role = "author"
+
+[[resp]]
+name = "[Soissons?"
+role = "publisher"
+
+[[text]]
+file = "mandementdemon00fitz.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "mandementdemon00fitz.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "mandementdemon00fitz.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "mandementdemon00fitz.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

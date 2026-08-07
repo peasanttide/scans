@@ -1,0 +1,83 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "motiondordrefait00bera"
+type = "pamphlet"
+title = "Motion d'ordre faite par Béraud : séance du 27 nivôse, an 6."
+language = "fr"
+place = "Paris"
+date = "1798"
+note = "Caption title. At head of title: Corps législatif. Conseil des cinq-cents. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  I, 2566. Scanner's note: No copyright page found.   No table-of-contents pages found.  Skewed text.  Title on cover."
+url = "https://archive.org/details/motiondordrefait00bera"
+subject = [
+    "Law enforcement",
+    "Crime prevention",
+]
+extent = "3 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 14391"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6p02vt6d"
+internet_archive = "motiondordrefait00bera"
+openlibrary_edition = "OL25920237M"
+openlibrary_work = "OL17343274W"
+
+[scan]
+file = "motiondordrefait00bera.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/motiondordrefait00bera"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Béraud, Paul-Emilien, 1751-1836"
+role = "author"
+
+[[resp]]
+name = "France. Corps législatif (1795-1814). Conseil des cinq-cents"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_829839"
+
+[[text]]
+file = "motiondordrefait00bera.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "motiondordrefait00bera.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "motiondordrefait00bera.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "motiondordrefait00bera.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

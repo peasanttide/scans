@@ -1,0 +1,95 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "marbotrepresenta00marb"
+type = "pamphlet"
+title = "Marbot, représentant du peuple, à la commission du Conseil des cinq-cents, chargée de l'examen des opérations des assemblées électorales de la Corrèze."
+language = "fr"
+place = "Paris"
+date = "1799"
+note = """Caption title. At head of title: Paris, le 23 floréal an 7. Imprint from colophon. Martin & Walter. Révolution française. "Notes des pièces remises par le représentent du peuple Marbot à la commission du Conseil des cinq-cents, chargée de l'examen des opérations des assemblées électorales du département de la Corrèze"--P. 3-6. Bibliography: Martin & Walter.  Révolution française,  III, 22915. Scanner's note: No title page found. No copyright page found. No table-of-contents pages found. Damaged pages."""
+url = "https://archive.org/details/marbotrepresenta00marb"
+subject = [
+    "Secession",
+    "Central-local government relations",
+]
+extent = "6 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 12514"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4tj37v8z"
+internet_archive = "marbotrepresenta00marb"
+openlibrary_edition = "OL25928614M"
+openlibrary_work = "OL17351079W"
+
+[scan]
+file = "marbotrepresenta00marb.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/marbotrepresenta00marb"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Marbot, Jean Antoine de, 1754-1800"
+role = "author"
+
+[[resp]]
+name = "France. Corps législatif (1795-1814). Conseil des cinq-cents"
+role = "author"
+
+[[resp]]
+name = "Baudouin, François-Jean, 1759-1838"
+role = "publisher"
+
+[[resp]]
+name = "Baudouin, imprimeur du Corps législatif, place du Carrousel, no. 667"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_826744"
+
+[[text]]
+file = "marbotrepresenta00marb.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "marbotrepresenta00marb.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "marbotrepresenta00marb.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "marbotrepresenta00marb.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "marbotrepresenta00marb.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "marbotrepresenta00marb.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

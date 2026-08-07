@@ -1,0 +1,74 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "motiondordredebo00bonn"
+type = "pamphlet"
+title = "Motion d'ordre de Bonnaire (du Cher) séance du 17 messidor an 7."
+language = "fr"
+date = "1799"
+note = "Caption title. At head of title: Corps législatif, Conseil des cinq-cents. Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,I, 4067. Scanner's note: Title found on front cover. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/motiondordredebo00bonn"
+subject = [
+    "Disclosure in accounting",
+    "Misconduct in office",
+]
+extent = "3 p. ;20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "CaseFRC10867"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4hm88d8b"
+internet_archive = "motiondordredebo00bonn"
+openlibrary_edition = "OL25654558M"
+openlibrary_work = "OL17084068W"
+
+[scan]
+file = "motiondordredebo00bonn.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/motiondordredebo00bonn"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Bonnaire, Félix,baron,1767-1844"
+role = "author"
+
+[[resp]]
+name = "A Paris :De l'Imprimerie nationale,"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_824348"
+
+[[text]]
+file = "motiondordredebo00bonn.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "motiondordredebo00bonn.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "motiondordredebo00bonn.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"
+
+[[text]]
+file = "motiondordredebo00bonn.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 9.0"
+lang = "fr"

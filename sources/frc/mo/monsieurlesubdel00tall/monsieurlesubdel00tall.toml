@@ -1,0 +1,77 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "monsieurlesubdel00tall"
+type = "pamphlet"
+title = "A Monsieur le subdélégué de l'intendance du Languedoc, au département de Toulouse."
+language = "fr"
+place = "France"
+date = "1788"
+note = "Caption title. Signed, p. [3]: Villenave, dit Sauto-la-Pioto. Conlon, P.M. Siècle des lumières. Not in Martin & Walter. Révolution française. Bibliography: Conlon, P.M. Siècle des lumières,  88:4137. Scanner's note: Uneven binding. Skewed text. Damaged, stained and/or loose pages."
+url = "https://archive.org/details/monsieurlesubdel00tall"
+subject = [
+    "Passports",
+    "Entertainers",
+]
+extent = "[4] p. ; 18 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 26142"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t41s24z5h"
+internet_archive = "monsieurlesubdel00tall"
+
+[scan]
+file = "monsieurlesubdel00tall.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/monsieurlesubdel00tall"
+ppi = 500
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Tallien, Jean-Lambert, 1767-2431"
+role = "author"
+
+[[resp]]
+name = "Villenave, Joseph"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_864226"
+
+[[text]]
+file = "monsieurlesubdel00tall.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "monsieurlesubdel00tall.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "monsieurlesubdel00tall.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "monsieurlesubdel00tall.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
