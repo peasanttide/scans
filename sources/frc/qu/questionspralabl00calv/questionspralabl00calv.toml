@@ -1,0 +1,72 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "questionspralabl00calv"
+type = "pamphlet"
+title = "Questions préalables `a résoudre : par MM. les electeurs du département du Calvados avant l'élection d'un ev^eque"
+language = "fr"
+place = "s.l."
+date = "1790"
+note = "Caption title. Without imprint. Martin & Walter IV 2: 14974. Scanner's note: No copyright page found. No table-of-contents pages found. Title page is on the cover. Damaged, stained, and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/questionspralabl00calv"
+subject = ["Bishops"]
+extent = "4 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC suppl. 63"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7gr24z51"
+internet_archive = "questionspralabl00calv"
+openlibrary_edition = "OL26237942M"
+openlibrary_work = "OL17632493W"
+
+[scan]
+file = "questionspralabl00calv.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/questionspralabl00calv"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Calvados (France)"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_73646"
+
+[[text]]
+file = "questionspralabl00calv.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "questionspralabl00calv.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "questionspralabl00calv.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "questionspralabl00calv.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

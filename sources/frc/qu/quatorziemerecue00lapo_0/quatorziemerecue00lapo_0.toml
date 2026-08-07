@@ -1,0 +1,86 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "quatorziemerecue00lapo_0"
+type = "pamphlet"
+title = "Quatorzième recueil de pieces trouvées chez M. Laporte, intendant de la liste civile"
+language = "fr"
+place = "Paris"
+date = "1792"
+note = """Caption title. Imprint from colophon. Documents dated 1792. "Quatorzieme recueil"--Bottom of p. [1]. Martin & Walter. Révolution française. Forms part of the French Revolution Collection at the Newberry Library. Bibliography: Martin & Walter.  Révolution française, IV:2, 13967. Scanner's note: No copyright found.  No table of contents found. Title on cover. Damaged, stained pages and cover. <br />."""
+url = "https://archive.org/details/quatorziemerecue00lapo_0"
+subject = ["Laporte, Arnaud de, 1737-1792"]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing DC137.08 .F73 v.1, no. 12"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0wq59s6x"
+internet_archive = "quatorziemerecue00lapo_0"
+
+[scan]
+file = "quatorziemerecue00lapo_0.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/quatorziemerecue00lapo_0"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "Laporte, Arnaud de, 1737-1792"
+role = "author"
+
+[[resp]]
+name = "French Revolution Collection (Newberry Library) ICN"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale législative (1791-1792). Comité de surveillance"
+role = "author"
+
+[[resp]]
+name = "Imprimerie nationale (France)"
+role = "publisher"
+
+[[resp]]
+name = "Louis XVI Trial and Execution Collection (Newberry Library) ICN"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie nationale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_60713"
+
+[[text]]
+file = "quatorziemerecue00lapo_0.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "quatorziemerecue00lapo_0.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "quatorziemerecue00lapo_0.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "quatorziemerecue00lapo_0.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,64 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "questionspropose00evry"
+type = "pamphlet"
+title = "Questions a proposer à MM. de la chambre de la noblesse de la prévôté & vicomté de Paris, avant la signature du procès-verbal"
+language = "fr"
+place = "France"
+date = "1789"
+note = "Caption title. Signed: Le comte d'Evry. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text. No page numbers."
+url = "https://archive.org/details/questionspropose00evry"
+subject = ["France. États généraux"]
+extent = "[1] p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 26706"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4pk5j605"
+internet_archive = "questionspropose00evry"
+openlibrary_edition = "OL26228742M"
+openlibrary_work = "OL17623811W"
+
+[scan]
+file = "questionspropose00evry.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/questionspropose00evry"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Evry, comte d'"
+role = "author"
+
+[[resp]]
+name = "France. États généraux. Noblesse"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_864845"
+
+[[text]]
+file = "questionspropose00evry.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "questionspropose00evry.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

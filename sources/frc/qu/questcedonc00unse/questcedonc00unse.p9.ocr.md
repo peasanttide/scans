@@ -1,0 +1,52 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: questcedonc00unse
+page: 9
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 2491
+h: 3989
+dpi: 300
+---
+
+( 9 )
+
+autres .consentent une goutte de sang Fran-
+çois , ils se presseront de joindre leurs voix à
+la votre iis demanderont à grands cris la
+punition des coupables , que , dans leur sainte
+fureur. ils dëcliireroient de leurs propres
+mains , s’ils pouvoient devancer l’action aeda
+-loi. • ‘
+
+Cependant la Commune de Paris , navrée de
+douieur en songeant au complot infernal que
+des ambitieux ont tenté de mettre à exécution;
+frappée en même-temps, dans ce qu’elle a de
+plus sensible en voyant à quelles incùlpations
+tous les ennemis cie la liberté et les usurpa-
+teurs tentoient , par une coalition coupable
+de livrer de iideles* sujets , auxquels on n’au-
+roit dû -préparer que des couronnes civiques",
+s’empresse de dénoncer cette nuit , dont elle
+devenoit comptable à tout le Royaume.' Ces
+deux Comités qui suivent le crime dans la
+route tortueuse ou il cherclie à s’échapper
+û la faveur des dénébres , se liguent pour‘ re-
+cueillir des renseignemens siu: celui qui devoit-
+couvrir la France de deuil et de larmes. Aussi-
+tôt qu’ils 'ont réuni les indices nécessaires -,
+ils les remettent au tribunal que l’Assemblée
+nationale a chargé du soin de punir les atten-
+tats commis contre la Nation.
+
+Alors le clief des factieux qui , plus troublé
+par la crainte que par les remords , avoit été
+cacher sa honte en Angleterre , remue les
+amis , ou plutôt les conjurés qu’il avoit laissés
+,iii;,Paiâsr C’est sur eux qu’il s’est reposé du
+soin d’interrompre’, à quelque prix que ce
+soit, une instruction qui va le couvrir d'op-
+probre et d’infamie. • • ■ ' ,
+
+C’est, encore le peuple' qu’il faut armer pour

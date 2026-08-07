@@ -1,0 +1,64 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "quisuspend00unse"
+type = "pamphlet"
+title = "Loi qui suspend l'exécution de celles des 8 nivose et 4 floréal an II, relatives au divorce : du 15 thermidor an III"
+language = "fr"
+place = "A Paris"
+date = "1795"
+note = """Caption title. At head of title: (No. 481.*). At left of title: B. no. 168. D. no. 984. "La Convention nationale ... décrète ...". Imprint from colophon. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged, stained pages and cover. No page numbers."""
+url = "https://archive.org/details/quisuspend00unse"
+subject = ["Divorce"]
+extent = "[1] p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10346 no. 121"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t55f3zt8j"
+internet_archive = "quisuspend00unse"
+openlibrary_edition = "OL26230545M"
+openlibrary_work = "OL17625521W"
+
+[scan]
+file = "quisuspend00unse.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/quisuspend00unse"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Dépôt des lois, place du Carrousel"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_861887"
+
+[[text]]
+file = "quisuspend00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "quisuspend00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

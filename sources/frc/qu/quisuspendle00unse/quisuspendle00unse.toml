@@ -1,0 +1,84 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "quisuspendle00unse"
+type = "pamphlet"
+title = "Loi qui suspend l'empire de la Constitution dans quatre divisions militaires : du 23 nivôse, an VIII de la République française une et indivisible"
+language = "fr"
+place = "A Paris"
+date = "1800"
+note = """Caption title. At head of title: Au nom de la République française. Signed: Bonaparte, premier consul. Contre-signé, le secrétaire d'Etat, Hughes B. Maret. Imprint from colophon. "No. 1, 3"--Bottom of p. [1]; ". 1062"--Top of p. [1]. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text. Irregular pagination."""
+url = "https://archive.org/details/quisuspendle00unse"
+subject = ["France. Armée"]
+extent = "2 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10350 no. 90"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t51g5v607"
+internet_archive = "quisuspendle00unse"
+openlibrary_edition = "OL26229919M"
+openlibrary_work = "OL17624950W"
+
+[scan]
+file = "quisuspendle00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/quisuspendle00unse"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Consulat (1799-1804)"
+role = "author"
+
+[[resp]]
+name = "Napoleon I, Emperor of the French, 1769-1821"
+role = "author"
+
+[[resp]]
+name = "Maret, Hugues-Bernard, duc de Bassano, 1763-1839"
+role = "author"
+
+[[resp]]
+name = "Imprimerie du Dépôt des lois"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie du Depot des lois, place du Carrousel"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_859402"
+
+[[text]]
+file = "quisuspendle00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "quisuspendle00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "quisuspendle00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "quisuspendle00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

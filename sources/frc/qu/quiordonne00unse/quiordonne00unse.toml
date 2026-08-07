@@ -1,0 +1,88 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "quiordonne00unse"
+type = "pamphlet"
+title = "Loi qui ordonne qu'au 1er. janvier prochain, les receveurs généraux de l'exercice de 1790, rendront leurs comptes de clerc à maître, au directeur général du trésor public, qui restera chargé de faire rentrer les sommes restantes dûes, comme aussi d'acquitter ce qui restera dû sur les charges des états du roi : donnée à Paris, le 25 décembre 1790"
+language = "fr"
+place = "A Paris"
+date = "1790"
+note = """Caption title. At right of title: No. 253. "Signé Louis. Et plus bas, M.L.F. DuPort"--P. 2. Imprint from colophon. Martin & Walter. Révolution française. "Décret de l'Assemblée nationale, du 20 décembre 1790"--P. [1]-2. Bibliography: Martin & Walter. Révolution française, IV:2, 9143. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on the cover page. Uneven binding. Skewed text. Damaged, stained and/or loose pages. Only one numbered page."""
+url = "https://archive.org/details/quiordonne00unse"
+subject = ["Finance, Public"]
+extent = "2 p. ; 27 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 10339 no. 26"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t79s6wg17"
+internet_archive = "quiordonne00unse"
+openlibrary_edition = "OL26226009M"
+openlibrary_work = "OL17621323W"
+
+[scan]
+file = "quiordonne00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/quiordonne00unse"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Sovereign (1774-1792 : Louis XVI)"
+role = "author"
+
+[[resp]]
+name = "Louis XVI, King of France, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "Duport-Dutertre, Marguerite-Louis-François, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "France. Assemblée nationale constituante (1789-1791)"
+role = "author"
+
+[[resp]]
+name = "Imprimerie royale (France)"
+role = "publisher"
+
+[[resp]]
+name = "De l'Imprimerie royale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_852329"
+
+[[text]]
+file = "quiordonne00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "quiordonne00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "quiordonne00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "quiordonne00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
