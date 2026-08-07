@@ -1,0 +1,68 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "noticedelivres00meur"
+type = "pamphlet"
+title = "Notice de livres en feuilles, qui se trouvent chez Meurant, libraire, rue de la Harpe, vis-à-vis la rue Serpente, no. 20, à Paris"
+language = "fr"
+place = "Paris"
+date = "1796"
+note = "Caption title. Publication date from BN. Catalogues de libraires. BN. Catalogues de libraires. Catalog of books primarily on agriculture as well as some on natural history and veterinary medicine. With prices. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Text extends off of the edge of the page. Text may be lost in the binding. Permanent creases may obscure some text. Title page and cover are combined."
+url = "https://archive.org/details/noticedelivres00meur"
+subject = [
+    "Meurant, Henri-Joseph-Philogone",
+    "Agricultural literature",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 8 no. 42"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3tv09g4m"
+internet_archive = "noticedelivres00meur"
+
+[scan]
+file = "noticedelivres00meur.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/noticedelivres00meur"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Meurant, Henri-Joseph-Philogone"
+role = "author"
+
+[[resp]]
+name = "Meurant"
+role = "publisher"
+
+[[text]]
+file = "noticedelivres00meur.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "noticedelivres00meur.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "noticedelivres00meur.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "noticedelivres00meur.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,82 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "nouveauprospectu00bure"
+type = "pamphlet"
+title = "Nouveau prospectus du Bureau général d'indications pour tout le royaume, actuellement en activité a Paris, et du Journal d'indications"
+language = "fr"
+place = "Paris?"
+date = "1791"
+note = """Prospectus for "Journal général d'indications, pour tout le royaume, réuni au Pacquebot," which began publication in 1791. Caption title. Scanner's note: No copyright found.  No table of contents found.  Damaged, stained pages and cover.  Only one numbered page.  Tight margins. <br /><br />."""
+url = "https://archive.org/details/nouveauprospectu00bure"
+subject = [
+    "Bureau général d'indications",
+    "Journal général d'indications, pour tout le royaume, réuni au Pacquebot",
+    "Publishers and publishing",
+    "Periodicals",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1d no. 40"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9r26k33w"
+internet_archive = "nouveauprospectu00bure"
+
+[scan]
+file = "nouveauprospectu00bure.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/nouveauprospectu00bure"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "Bureau général d'indications"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[text]]
+file = "nouveauprospectu00bure.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "nouveauprospectu00bure.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "nouveauprospectu00bure.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "nouveauprospectu00bure.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "nouveauprospectu00bure.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "nouveauprospectu00bure.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

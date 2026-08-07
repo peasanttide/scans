@@ -1,0 +1,64 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "novslieutenant00reim"
+type = "pamphlet"
+title = "Novs Lieutenant, gens du Conseil & echeuins de la ville de Reims .."
+language = "fr"
+date = "1655"
+note = "Title from opening words of text. Condemnation of an untitled, anonymous book conveying a thesis considered anti-religious. Dated 6 Sept. 1655. Scanner's note: No title page found. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/novslieutenant00reim"
+subject = ["Prohibited books"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 1 no. 63"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5t78143q"
+internet_archive = "novslieutenant00reim"
+
+[scan]
+file = "novslieutenant00reim.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/novslieutenant00reim"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Reims (France)"
+role = "author"
+
+[[resp]]
+name = "[Reims?"
+role = "publisher"
+
+[[text]]
+file = "novslieutenant00reim.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "novslieutenant00reim.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "novslieutenant00reim.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "novslieutenant00reim.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

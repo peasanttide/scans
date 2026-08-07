@@ -1,0 +1,69 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "nouveaurabaisext00mori"
+type = "pamphlet"
+title = "Nouveau rabais extraordinaire, de plus de soixante à soixante-quinze pour cent, comme on le verra par les prix anciens mis à chaque article"
+language = "fr"
+place = "Paris"
+date = "1797"
+note = """Caption title. "Ce rabais aura lieu jusqu'au 15 prairial (3 juin 1797)"--P. [1]. Printed in double columns. Includes a listing for Collection complette de l'accusateur public; another catalog with the same title (BN. Catalogues de libraires, 2193) does not include this listing. BN. Catalogues de libraires. "Ouvrages rares qui se trouvent chez le même libraire et dont il ne possède qu'un exemplaire": p. 4. With original and discounted prices. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Title page and cover are combined."""
+url = "https://archive.org/details/nouveaurabaisext00mori"
+subject = ["Morin, J.-F., -1799?"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 11 no. 29"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0wq5ks1t"
+internet_archive = "nouveaurabaisext00mori"
+
+[scan]
+file = "nouveaurabaisext00mori.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/nouveaurabaisext00mori"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Morin, J.-F.,-1799?"
+role = "author"
+
+[[resp]]
+name = "Morin, J.-F., -1799?"
+role = "author"
+
+[[resp]]
+name = "Morin"
+role = "publisher"
+
+[[text]]
+file = "nouveaurabaisext00mori.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "nouveaurabaisext00mori.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "nouveaurabaisext00mori.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "nouveaurabaisext00mori.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

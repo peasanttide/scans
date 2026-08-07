@@ -1,0 +1,68 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "nouveauplandecon00unse"
+type = "pamphlet"
+title = "Nouveau plan de contre-révolution : ou les masques arrachés."
+language = "fr"
+place = "Paris"
+date = "1792"
+note = "Caption title. Imprint from colophon. Martin & Walter IV 2: 10739. Scanner's note: No title page found. No copyright page found. No table-of-contents pages found."
+url = "https://archive.org/details/nouveauplandecon00unse"
+subject = ["Counterrevolutions"]
+extent = "7 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 5860"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2z36wn2k"
+internet_archive = "nouveauplandecon00unse"
+openlibrary_edition = "OL26217167M"
+openlibrary_work = "OL17612979W"
+
+[scan]
+file = "nouveauplandecon00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/nouveauplandecon00unse"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "De l'imprimerie de Samson"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_59773"
+
+[[text]]
+file = "nouveauplandecon00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "nouveauplandecon00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "nouveauplandecon00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "nouveauplandecon00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

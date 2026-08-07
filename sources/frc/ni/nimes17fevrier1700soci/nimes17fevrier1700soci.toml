@@ -1,0 +1,115 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "nimes17fevrier1700soci"
+type = "pamphlet"
+title = "... Nîmes, 17 février 1793, l'an II de la République."
+language = "fr"
+place = "Paris"
+date = "1793"
+note = """Caption title. Imprint from colophon. At head of title: Société des amis de la liberté et de l'égalité. Séante aux ci-devant Jacobins St.-Honoré, `a Paris. The first text signed on p.3: Les membres de la Société des sans-culottes de Nîmes. "La Société des républicains sans-culottes du club national, séante aux ci-devant Jacobins de Bordeaux, a la Convention nationale": p.3-8. Dated at end: Bordeaux, 20 février 1793, l'an II de la République françoise, le premier de la mort du tyran. "La soct́té, dans sa séance du 24 février, l'an deuxi`eme de la République françoise, a arr^eté l'impression & l'envoi de ces deux pi`eces ...": p.8. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on the cover page. Uneven binding. Skewed text. Damaged, stained, and/or loose pages."""
+url = "https://archive.org/details/nimes17fevrier1700soci"
+subject = [
+    "Jacobins",
+    "Political clubs",
+]
+extent = "8 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 8314"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t79s6vs7r"
+internet_archive = "nimes17fevrier1700soci"
+openlibrary_edition = "OL26221086M"
+openlibrary_work = "OL17616671W"
+
+[scan]
+file = "nimes17fevrier1700soci.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/nimes17fevrier1700soci"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Société des sans-culottes de Nîmes"
+role = "author"
+
+[[resp]]
+name = "Société des amis de la liberté et de l'égalité séante aux ci-devant Jacobins"
+role = "author"
+
+[[resp]]
+name = "Société des républicains sans-culottes du club national, séante aux ci-devant Jacobins de Bordeaux"
+role = "author"
+
+[[resp]]
+name = "Nîmes (France)"
+role = "author"
+
+[[resp]]
+name = "Bordeaux (Aquitaine, France)"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de L. Potier de Lille"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_6987"
+
+[[text]]
+file = "nimes17fevrier1700soci.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "nimes17fevrier1700soci.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "nimes17fevrier1700soci.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "nimes17fevrier1700soci.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "nimes17fevrier1700soci.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "nimes17fevrier1700soci.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "nimes17fevrier1700soci.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "nimes17fevrier1700soci.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

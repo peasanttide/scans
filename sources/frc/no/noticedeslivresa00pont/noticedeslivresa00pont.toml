@@ -1,0 +1,53 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "noticedeslivresa00pont"
+type = "pamphlet"
+title = "Notice des livres au rabais, qui se trouvent chez Ponthieu, libraire, rue Saint-Jacques, vis-à-vis la place Cambray, no. 652, à Paris"
+language = "fr"
+place = "Paris"
+date = "1795"
+note = """Caption title. "Le rabais aura lieu jusqu'au premier thermidor, ou 19 juillet (v.s.)"--P. [1]. Printed in double columns. "Le citoyen Ponthieu se charge de toutes les commissions de livres, d'estampes, ect."--At end. With prices. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Title page and cover are combined."""
+url = "https://archive.org/details/noticedeslivresa00pont"
+subject = ["Ponthieu"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 11 no. 32"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t99655g5s"
+internet_archive = "noticedeslivresa00pont"
+
+[scan]
+file = "noticedeslivresa00pont.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/noticedeslivresa00pont"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Ponthieu"
+role = "author"
+
+[[resp]]
+name = "Ponthieu"
+role = "publisher"
+
+[[text]]
+file = "noticedeslivresa00pont.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "noticedeslivresa00pont.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

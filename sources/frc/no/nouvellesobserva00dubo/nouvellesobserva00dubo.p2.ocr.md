@@ -1,0 +1,10 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: nouvellesobserva00dubo
+page: 2
+engine: ABBYY FineReader 11.0
+lang: fr
+w: 2487
+h: 4098
+dpi: 500
+---

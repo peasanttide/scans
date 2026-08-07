@@ -1,0 +1,69 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "nouveaurabaisdel00mori"
+type = "pamphlet"
+title = "Nouveau rabais de livres broches des citoyens Morin et Lenoir, libraires, rue de Savoye, no 4"
+language = "fr"
+place = "Paris"
+date = "1799"
+note = """Caption title. "Ce rabais aura lieu jusqu'au 15 germinal prochain"--P. [1]. Publication date based on announcement at end for Soirées littéraires, which indicates that t. 18-19 are in press. Tome 17 was published in 1799. Cf. BN. Catalogues de libraires, 2195. Differs from another catalog with the same title (BN. Catalogues de libraires, 2195), which indicates that t. 18 of Soirées littéraires has been published and t. 19 is in press. Printed in double columns. With original and discounted prices. Stamp: Rép. fra. 3 cent. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Title page and cover are combined."""
+url = "https://archive.org/details/nouveaurabaisdel00mori"
+subject = ["Morin et Lenoir"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 11 no. 31"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5r83zm0j"
+internet_archive = "nouveaurabaisdel00mori"
+
+[scan]
+file = "nouveaurabaisdel00mori.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/nouveaurabaisdel00mori"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Morin et Lenoir"
+role = "author"
+
+[[resp]]
+name = "Morin et Lenoir, author"
+role = "bookseller"
+
+[[resp]]
+name = "Morin et Lenoir"
+role = "publisher"
+
+[[text]]
+file = "nouveaurabaisdel00mori.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "nouveaurabaisdel00mori.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "nouveaurabaisdel00mori.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "nouveaurabaisdel00mori.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

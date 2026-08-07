@@ -1,0 +1,71 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "notificationauxp00fran"
+type = "pamphlet"
+title = "Notification aux puissances de l'Europe"
+language = "fr"
+place = "A Paris"
+date = "1792"
+note = "Caption title. Signed: Louis; countersigned: Chambonas. Imprint from colophon. Martin & Walter. Révolution française. Disavows the approaches made to the European powers by the French princes in exile. Bibliography: Martin & Walter.  Révolution française, III, 21767. Scanner's note: No copyright page found. No table-of-contents pages found.  Title page and cover are combined. Damaged, stained, creased and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/notificationauxp00fran"
+subject = [
+    "Refugees",
+    "Princes",
+]
+extent = "2 p. ; 25 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio FRC 26919"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t04z0f21f"
+internet_archive = "notificationauxp00fran"
+openlibrary_edition = "OL26227129M"
+openlibrary_work = "OL17622356W"
+
+[scan]
+file = "notificationauxp00fran.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/notificationauxp00fran"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Sovereign (1774-1792 : Louis XVI)"
+role = "author"
+
+[[resp]]
+name = "Louis XVI, King of France, 1754-1793"
+role = "author"
+
+[[resp]]
+name = "Chambonas, Scipion de, 1750-1830"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie royale"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_866665"
+
+[[text]]
+file = "notificationauxp00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "notificationauxp00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

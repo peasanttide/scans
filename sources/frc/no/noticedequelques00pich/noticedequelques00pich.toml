@@ -1,0 +1,57 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "noticedequelques00pich"
+type = "pamphlet"
+title = "Notice de quelques livres qui se trouvent chez Pichard, libraire, quai Voltaire, no 18, à Paris"
+language = "fr"
+place = "Paris"
+date = "1795"
+note = "Caption title. Printed in double columns. With prices. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Text extends off of the edge of the page. Text may be lost in the binding. Permanent creases may obscure some text. Title page and cover are combined."
+url = "https://archive.org/details/noticedequelques00pich"
+subject = ["Pichard, Jean-Louis, 1759-1819"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 8 no. 50"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t5dc3qj91"
+internet_archive = "noticedequelques00pich"
+
+[scan]
+file = "noticedequelques00pich.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/noticedequelques00pich"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Pichard, Jean-Louis,1759-1819"
+role = "author"
+
+[[resp]]
+name = "Pichard, Jean-Louis, 1759-1819"
+role = "author"
+
+[[resp]]
+name = "Pichard"
+role = "publisher"
+
+[[text]]
+file = "noticedequelques00pich.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "noticedequelques00pich.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

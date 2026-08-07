@@ -1,0 +1,100 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "nouvelledescript00deck"
+type = "pamphlet"
+title = "Nouvelle description géographique, hydrographique et physique de la France, d'après les décrets de l'Assemblée nationale .."
+language = "fr"
+place = "Paris?"
+date = "1791"
+note = """Prospectus for: Description géographique et hydrographique de la France / par M. Deck. Paris, 1791. Caption title. "Par le sieur Deck, ingénieur et maître de mathématiques, I vol. in-8° de 400 pages; chez l'auteur, rue du Hazard-Richelieu; chez Rainville, imprimeur, rue de Seine, faubourg Saint-Germain, petit hôtel Mirabeau, n°. 50; chez Debray, libraire, au Palais Royal; chez Lallemant, libraire, au Pont-Neuf, n°. 19; et chez les principaux libraires du royaume"--P. [2]. Dated in ms.: 19 aout 1791, vendredi. Scanner's note: No copyright found.  No table of contents found.  Damaged, stained pages and cover.  No numbered pages. <br /><br />."""
+url = "https://archive.org/details/nouvelledescript00deck"
+subject = [
+    "Deck, ingénieur",
+    "Booksellers and bookselling",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1c no. 25"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7qp1rd5d"
+internet_archive = "nouvelledescript00deck"
+
+[scan]
+file = "nouvelledescript00deck.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/nouvelledescript00deck"
+ppi = 300
+note = "Scanned on scribe2.indiana.archive.org at the indiana centre."
+
+[[resp]]
+name = "Deck,ingénieur"
+role = "author"
+
+[[resp]]
+name = "Deck, ingénieur"
+role = "author"
+
+[[resp]]
+name = "Deck, ingénieur. Description géographique et hydrographique de la France"
+role = "author"
+
+[[resp]]
+name = "Rainville, J. J."
+role = "bookseller"
+
+[[resp]]
+name = "Debray, Nicolas-Amable-Germain, 1756-1830"
+role = "bookseller"
+
+[[resp]]
+name = "Lallemand, libraire"
+role = "bookseller"
+
+[[resp]]
+name = "Deck?"
+role = "publisher"
+
+[[text]]
+file = "nouvelledescript00deck.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "nouvelledescript00deck.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "nouvelledescript00deck.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "nouvelledescript00deck.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "nouvelledescript00deck.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "nouvelledescript00deck.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

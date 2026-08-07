@@ -1,0 +1,101 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "nouveaudictionna00chat"
+type = "pamphlet"
+title = "Nouveau dictionnaire historique et critique"
+language = "fr"
+place = "A Amsterdam"
+date = "1751"
+note = """Prospectus for Chaufepié's "Nouveau dictionnaire historique et critique". Caption title. "Ceux qui voudront souscrire en France s'adresseront a Paris, rue Saint Jacques, chez Jean Baptiste Coignard & Antoine Boudet, Hippolyte-Louis Guerin l'aîné"--P. [2]. "Nous laisserons au public pendant six mois, à commencer du premier juin de cette année 1751, la liberté d'acquérir cet ouvrage au prix diminué"--P. [2]. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Title page and cover are combined."""
+url = "https://archive.org/details/nouveaudictionna00chat"
+subject = [
+    "Chaufepié, Jaques George de, 1702-1786",
+    "Booksellers and bookselling",
+    "Encyclopedias and dictionaries",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1a no. 35"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6xx03q4q"
+internet_archive = "nouveaudictionna00chat"
+
+[scan]
+file = "nouveaudictionna00chat.pdf"
+count = 8
+by = "Internet Archive"
+url = "https://archive.org/details/nouveaudictionna00chat"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Chatelain, Zacharias,169-1754"
+role = "author"
+
+[[resp]]
+name = "Chatelain, Zacharias, 1690-1754"
+role = "author"
+
+[[resp]]
+name = "Chaufepié, Jaques George de, 1702-1786. Nouveau dictionnaire historique et critique"
+role = "author"
+
+[[resp]]
+name = "Coignard, Jean Baptiste, 1693-1768"
+role = "bookseller"
+
+[[resp]]
+name = "Boudet, Antoine, 1715?-1787"
+role = "bookseller"
+
+[[resp]]
+name = "Guérin, Hippolyte-Louis, 1698-1765"
+role = "bookseller"
+
+[[resp]]
+name = "Chez Z. Chatelain & Compagnie"
+role = "publisher"
+
+[[text]]
+file = "nouveaudictionna00chat.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "nouveaudictionna00chat.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "nouveaudictionna00chat.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "nouveaudictionna00chat.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "nouveaudictionna00chat.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "nouveaudictionna00chat.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

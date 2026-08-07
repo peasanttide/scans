@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "nouveauprojetded00brie"
+type = "pamphlet"
+title = "Nouveau projet de décret, sur l'affaire du ci-devant roi /"
+language = "fr"
+place = "Paris"
+date = "1792"
+note = """Caption title. "Imprimé par ordre de la Convention nationale.". Imprint from colophon. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  I, 5133. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained, worn pages and cover."""
+url = "https://archive.org/details/nouveauprojetded00brie"
+subject = ["Louis XVI, King of France, 1754-1793"]
+extent = "4 p. ; 22 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 15303"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t4pk58s4d"
+internet_archive = "nouveauprojetded00brie"
+openlibrary_edition = "OL25947624M"
+openlibrary_work = "OL17368681W"
+
+[scan]
+file = "nouveauprojetded00brie.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/nouveauprojetded00brie"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Briez, Philippe-Constant-Joseph, 1759-1795"
+role = "author"
+
+[[resp]]
+name = "France. Convention nationale"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie polyglotte des rédacteurs-traducteurs des séances de la Convention nationale, rue Aubry-le-Boucher, no. 43, près la rue Quincampoix"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_832389"
+
+[[text]]
+file = "nouveauprojetded00brie.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "nouveauprojetded00brie.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "nouveauprojetded00brie.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "nouveauprojetded00brie.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

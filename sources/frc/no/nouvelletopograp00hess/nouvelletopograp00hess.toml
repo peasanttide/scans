@@ -1,0 +1,77 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "nouvelletopograp00hess"
+type = "pamphlet"
+title = "Nouvelle topographie"
+language = "fr"
+place = "Paris?"
+date = "1780"
+note = """Possibly a portion of a prospectus for Robert de Hesseln's "Nouvelle topographie", published 1780. Cf. BN, LXXI, column 781. Caption title. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Title page and cover are combined."""
+url = "https://archive.org/details/nouvelletopograp00hess"
+subject = [
+    "Hesseln, Robert de",
+    "Publishers and publishing",
+    "Map publishing",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1a no. 95"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2v46dk29"
+internet_archive = "nouvelletopograp00hess"
+
+[scan]
+file = "nouvelletopograp00hess.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/nouvelletopograp00hess"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Hesseln, Robert de"
+role = "author"
+
+[[resp]]
+name = "Hesseln, Robert de. Prospectus"
+role = "author"
+
+[[resp]]
+name = "Lambert, Michel, 1722?-1787"
+role = "printer"
+
+[[resp]]
+name = "Michel Lambert?"
+role = "publisher"
+
+[[text]]
+file = "nouvelletopograp00hess.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "nouvelletopograp00hess.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "nouvelletopograp00hess.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "nouvelletopograp00hess.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

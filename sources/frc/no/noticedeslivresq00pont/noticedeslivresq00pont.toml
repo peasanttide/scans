@@ -1,0 +1,53 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "noticedeslivresq00pont"
+type = "pamphlet"
+title = "Notice des livres qui se trouvent chez Ponthieu, libraire, rue S. Jacques, vis-à-vis la Place-Cambray, no. 652, à Paris"
+language = "fr"
+place = "Paris"
+date = "1794"
+note = """Caption title. "Les prix seront fixés jusqu'au 30 prairial, ou 20 juin (v. st.)"--P. [1]. Publication date of 1794 indicated for two books listed in catalog. Printed in double columns. With prices. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Text extends off of the edge of the page. Text may be lost in the binding. Permanent creases may obscure some text. Title page and cover are combined."""
+url = "https://archive.org/details/noticedeslivresq00pont"
+subject = ["Ponthieu"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 8 no. 52"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6c30kk30"
+internet_archive = "noticedeslivresq00pont"
+
+[scan]
+file = "noticedeslivresq00pont.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/noticedeslivresq00pont"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Ponthieu"
+role = "author"
+
+[[resp]]
+name = "Ponthieu"
+role = "publisher"
+
+[[text]]
+file = "noticedeslivresq00pont.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "noticedeslivresq00pont.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

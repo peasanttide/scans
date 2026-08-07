@@ -1,0 +1,76 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "nouvellelettrede00fell"
+type = "pamphlet"
+title = "Nouvelle lettre de M. l'abbé de Feller, touchant la soumission exigée des ministres du culte, datée du 12 août 1797."
+language = "fr"
+place = "France"
+date = "1797"
+note = "Caption title. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover page. Damaged pages and cover."
+url = "https://archive.org/details/nouvellelettrede00fell"
+subject = [
+    "Clergy",
+    "Catholic nonjurors",
+    "Church and state",
+]
+extent = "3 p. ; 16 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 18555"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t40s4sg61"
+internet_archive = "nouvellelettrede00fell"
+openlibrary_edition = "OL26202802M"
+openlibrary_work = "OL17599271W"
+
+[scan]
+file = "nouvellelettrede00fell.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/nouvellelettrede00fell"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Feller, F.-X. de (François-Xavier), 1735-1802"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_839022"
+
+[[text]]
+file = "nouvellelettrede00fell.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "nouvellelettrede00fell.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "nouvellelettrede00fell.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "nouvellelettrede00fell.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

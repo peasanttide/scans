@@ -1,0 +1,67 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "nouvellesintress00unse"
+type = "pamphlet"
+title = "Nouvelles intéressantes de Cadix : du 21 juillet 1797 ; adressées au citoy. Lanusse, négociant, à Bordeaux, rue Porte-Dijeaux, No. 36."
+language = "fr"
+place = "A Bordeaux"
+date = "1797"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on cover page. Damaged, stained and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/nouvellesintress00unse"
+extent = "4 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 5920"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t23c14980"
+internet_archive = "nouvellesintress00unse"
+openlibrary_edition = "OL26216799M"
+openlibrary_work = "OL17612618W"
+
+[scan]
+file = "nouvellesintress00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/nouvellesintress00unse"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "De l'imprimerie de Moreau"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_58340"
+
+[[text]]
+file = "nouvellesintress00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "nouvellesintress00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "nouvellesintress00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "nouvellesintress00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

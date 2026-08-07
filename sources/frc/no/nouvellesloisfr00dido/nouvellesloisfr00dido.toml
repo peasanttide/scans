@@ -1,0 +1,65 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "nouvellesloisfr00dido"
+type = "pamphlet"
+title = "Nouvelles lois françaises, ou, Recueil complet des décrets sanctionnés"
+language = "fr"
+place = "A Paris"
+date = "1790"
+note = """Prospectus for: Nouvelles lois françaises, ou, Recueil complet des décrets sanctionnés. Caption title. Imprint from colophon. "On souscrit, pour la première livraison de cette collection ... a Paris, place Dauphine, no. 11, et en province, ches les directeurs des postes aux lettrres. Prix, 9 liv. pour Paris, et 12 l. pour la province. Il en paraît un ou deux cahiers par semaine ..."--P. [2]. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Text extends off of the edge of the page. Text may be lost in the binding. Permanent creases may obscure some text. Title page and cover are combined."""
+url = "https://archive.org/details/nouvellesloisfr00dido"
+subject = [
+    "Nouvelles lois françaises, ou, Recueil complet des décrets sanctionnés",
+    "Legal literature",
+    "Booksellers and bookselling",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 8 no. 23"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t03z3z43b"
+internet_archive = "nouvellesloisfr00dido"
+
+[scan]
+file = "nouvellesloisfr00dido.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/nouvellesloisfr00dido"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Didot, Pierre-François,1731-1795"
+role = "author"
+
+[[resp]]
+name = "Didot, Pierre-François, 1731-1795"
+role = "author"
+
+[[resp]]
+name = "Chalon, approximately 1766-1791"
+role = "printer"
+
+[[resp]]
+name = "De l'imprimerie de Chalon, rue du Théatre Français"
+role = "publisher"
+
+[[text]]
+file = "nouvellesloisfr00dido.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "nouvellesloisfr00dido.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,57 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "noticedesdiffere00lamy"
+type = "pamphlet"
+title = "Notice des différens livres de choix, en feuilles, offerts à un prix modéré pour ceux qui en feront l'acquisition avant 2 mois"
+language = "fr"
+place = "Paris"
+date = "1794"
+note = """Caption title. Publication date from BN. Catalogues de libraires. "Le même libraire tient magasin de livres rares et curieux en tout genre"--At end. BN. Catalogues de libraires. With prices in assignats. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Text extends off of the edge of the page. Text may be lost in the binding. Permanent creases may obscure some text. Title page and cover are combined."""
+url = "https://archive.org/details/noticedesdiffere00lamy"
+subject = ["Lamy, Pierre-Michel, active 1777-1813"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 8 no. 33"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t57d8k32v"
+internet_archive = "noticedesdiffere00lamy"
+
+[scan]
+file = "noticedesdiffere00lamy.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/noticedesdiffere00lamy"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Lamy, Pierre-Michel,active 1777-1813"
+role = "author"
+
+[[resp]]
+name = "Lamy, Pierre-Michel, active 1777-1813"
+role = "author"
+
+[[resp]]
+name = "Lamy"
+role = "publisher"
+
+[[text]]
+file = "noticedesdiffere00lamy.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "noticedesdiffere00lamy.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

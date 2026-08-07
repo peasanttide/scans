@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "note00fran"
+type = "pamphlet"
+title = "Note /"
+language = "fr"
+place = "À Paris"
+date = "1796"
+note = "Caption title. Imprint from colophon. Dated at end: Paris, ce 14 frimaire, an 5.e de la République française [4 décembre 1796]. Martin & Walter IV 2: 10636 (which specifies: Demandant qu'une enquête soit faite sur les accusations portées contre l'administration). Scanner's note: No copyright page found. No table-of-contents pages found. Title is on cover page. Damaged, stained and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/note00fran"
+subject = [
+    "Postal service",
+    "Transportation",
+]
+extent = "3 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 5822"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3c018c0n"
+internet_archive = "note00fran"
+openlibrary_edition = "OL26216901M"
+openlibrary_work = "OL17612718W"
+
+[scan]
+file = "note00fran.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/note00fran"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "France. Administration des postes et messageries"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie de la République"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_58900"
+
+[[text]]
+file = "note00fran.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "note00fran.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "note00fran.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "note00fran.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

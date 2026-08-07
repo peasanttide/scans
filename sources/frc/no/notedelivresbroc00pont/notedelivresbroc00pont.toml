@@ -1,0 +1,77 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "notedelivresbroc00pont"
+type = "pamphlet"
+title = "Note de livres brochés qui se trouvent chez le même"
+language = "fr"
+place = "Paris"
+date = "1798"
+note = """Caption title. Brief notice as head of title for: Campagnes des Français en Italie, ou, Histoire militaire, politique et philosophique de la Révolution / par C.L.G. Desjardins. Paris : Ponthieu, an VI [1798]. "A Paris, chez Ponthieu, libraire, rue des Mathurins, no. 330"--P. [1]. Imprint from colophon. Publication date from BN. Catalogues de libraires. Printed in double columns. BN. Catalogues de libraires. With prices. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Text extends off of the edge of the page. Text may be lost in the binding. Permanent creases may obscure some text. Title page and cover are combined."""
+url = "https://archive.org/details/notedelivresbroc00pont"
+subject = [
+    "Ponthieu",
+    "Desjardins, C. L. G",
+    "Booksellers and bookselling",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 8 no. 51"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t8z94xf28"
+internet_archive = "notedelivresbroc00pont"
+
+[scan]
+file = "notedelivresbroc00pont.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/notedelivresbroc00pont"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Ponthieu"
+role = "author"
+
+[[resp]]
+name = "Desjardins, C. L. G. Campagnes des Français en Italie"
+role = "author"
+
+[[resp]]
+name = "Ducauroy"
+role = "printer"
+
+[[resp]]
+name = "De l'imprimerie de Ducauroy, rue et maison de Sorbonne, no. 382"
+role = "publisher"
+
+[[text]]
+file = "notedelivresbroc00pont.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "notedelivresbroc00pont.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "notedelivresbroc00pont.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "notedelivresbroc00pont.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

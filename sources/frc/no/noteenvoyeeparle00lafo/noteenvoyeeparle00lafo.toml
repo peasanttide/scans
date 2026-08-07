@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "noteenvoyeeparle00lafo"
+type = "pamphlet"
+title = "Note envoyée par le duc de Laforce à MM. les rédacteurs du Journal de Paris & de la Gazette universelle, le 25 mai."
+language = "fr"
+place = "France"
+date = "1790"
+note = """Caption title. Dated, p. [2]: Ce 25 mai 1790. Martin & Walter. Révolution française. "Lettre a M. le maire de Montauban"--P. [2]. Bibliography: Martin & Walter.  Révolution française,  III, 18466. Scanner's note: No title page found. No copyright page found. No table-of-contents pages found."""
+url = "https://archive.org/details/noteenvoyeeparle00lafo"
+subject = [
+    "La Force, Louis-Joseph-Nompar de Caumont, duc de, 1768-1838",
+    "Justification (Law)",
+]
+extent = "[2] p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 20415"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3jx3kj83"
+internet_archive = "noteenvoyeeparle00lafo"
+openlibrary_edition = "OL26235242M"
+openlibrary_work = "OL17629826W"
+
+[scan]
+file = "noteenvoyeeparle00lafo.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/noteenvoyeeparle00lafo"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "La Force, Louis-Joseph-Nompar de Caumont, duc de, 1768-1838"
+role = "author"
+
+[[resp]]
+name = "La Force, Louis-Joseph-Nompar de Caumont, duc de, 1768-1838. Lettre a M. le maire de Montauban"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_842818"
+
+[[text]]
+file = "noteenvoyeeparle00lafo.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "noteenvoyeeparle00lafo.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "noteenvoyeeparle00lafo.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "noteenvoyeeparle00lafo.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

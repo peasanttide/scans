@@ -1,0 +1,68 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "noteessentieller00unse"
+type = "pamphlet"
+title = "Note essentielle : relative à l'affaire des propriétaires du Théâtre national, volés, incarcérés, vexés par l'ancien Comité de salut public, qui, pour la forme au moins, avoit ordonné de payer leurs créanciers, et de les indemniser."
+language = "fr"
+place = "Paris"
+date = "1793"
+note = "Caption title. Imprint from colophon. Not in Martin & Walter. Scanner's note: No copyright page found. No table-of-contents pages found. Title is on cover page. Damaged, stained and/or loose pages. Uneven binding. Skewed text."
+url = "https://archive.org/details/noteessentieller00unse"
+subject = ["Théâtre national (Paris, France)"]
+extent = "4 p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 5825"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9s232852"
+internet_archive = "noteessentieller00unse"
+openlibrary_edition = "OL26216743M"
+openlibrary_work = "OL17612562W"
+
+[scan]
+file = "noteessentieller00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/noteessentieller00unse"
+ppi = 500
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "De l'imprimerie de A. Cl. Forget et compagnier"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_57648"
+
+[[text]]
+file = "noteessentieller00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "noteessentieller00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "noteessentieller00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "noteessentieller00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
