@@ -1,0 +1,59 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "feuilledecorresp00unse"
+type = "pamphlet"
+title = "Feuille de correspondance, ou Petit bulletin de tous les jours"
+language = "fr"
+date = "1793"
+note = "Paged: [681]-684. Cf. Hatin. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Title page and cover are combined."
+url = "https://archive.org/details/feuilledecorresp00unse"
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing folio Z144 .A1 v. 11 no. 38"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7cs1h991"
+internet_archive = "feuilledecorresp00unse"
+
+[scan]
+file = "feuilledecorresp00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/feuilledecorresp00unse"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "[Paris?]"
+role = "publisher"
+
+[[text]]
+file = "feuilledecorresp00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "feuilledecorresp00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "feuilledecorresp00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "feuilledecorresp00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,92 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "florentiaekal00riga"
+type = "pamphlet"
+title = "Florentiae kal. Novembribus 1740"
+language = "la"
+place = "Florence"
+date = "1740"
+note = """Prospectus for a collection of correspondence of several 15th century intellectuals, edited from manuscripts held in Florence. Caption title. "Illis vero, qui nobiscum societatem non inibunt, sex Julii pro unoquoque volumine, exsolvendi erunt, idemque solvere debebunt ii, qui etsi nomen suum huic operi subscripserint, volumen tamen, quod passim prodierit, duobus saltem mensibus post editionem non acceperint, accipiendumve curaverint"--P. [2]. Inscription: Monsieur bibliothequaire de Sorbonne. [Cl?] Paris. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Title page and cover are combined."""
+url = "https://archive.org/details/florentiaekal00riga"
+subject = [
+    "Booksellers and bookselling",
+    "Latin letters",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1a no. 136"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t9383201d"
+internet_archive = "florentiaekal00riga"
+
+[scan]
+file = "florentiaekal00riga.pdf"
+count = 10
+by = "Internet Archive"
+url = "https://archive.org/details/florentiaekal00riga"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Rigacci, Giuseppe"
+role = "author"
+
+[[resp]]
+name = "Giuseppe Rigacci?"
+role = "publisher"
+
+[[text]]
+file = "florentiaekal00riga.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "la"
+
+[[text]]
+file = "florentiaekal00riga.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "la"
+
+[[text]]
+file = "florentiaekal00riga.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "la"
+
+[[text]]
+file = "florentiaekal00riga.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "la"
+
+[[text]]
+file = "florentiaekal00riga.p5.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "la"
+
+[[text]]
+file = "florentiaekal00riga.p6.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "la"
+
+[[text]]
+file = "florentiaekal00riga.p7.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "la"
+
+[[text]]
+file = "florentiaekal00riga.p8.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "la"

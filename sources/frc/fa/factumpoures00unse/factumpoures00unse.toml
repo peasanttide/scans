@@ -1,0 +1,88 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "factumpoures00unse"
+type = "pamphlet"
+title = "Factum, pour Esprit Vial, demandeur en revocation de saisie par Blant son procureur, contre les sieurs Adamol, Bourgeal & Julien, deffendeurs par Paire."
+language = "fr"
+place = "France?"
+date = "1695"
+note = "Caption title. Signed at end: Monsieur Hubert, rapporteur. Latest date noted in text (page 1): 21. avril 1695. Signatures: A². No. 2 of 54 titles bound together."
+url = "https://archive.org/details/factumpoures00unse"
+subject = [
+    "Vial, Esprit",
+    "Adamol, sieur",
+    "Bourgeal, sieur",
+    "Julien, sieur",
+    "Debtor and creditor",
+    "Collecting of accounts",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio KJV5795 .A35 1728 no. 2"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3pw2hp54"
+internet_archive = "factumpoures00unse"
+
+[scan]
+file = "factumpoures00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/factumpoures00unse"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Vial, Esprit"
+role = "author"
+
+[[resp]]
+name = "Adamol, sieur"
+role = "author"
+
+[[resp]]
+name = "Bourgeal, sieur"
+role = "author"
+
+[[resp]]
+name = "Julien, sieur"
+role = "author"
+
+[[resp]]
+name = "Hubert, rapporteur"
+role = "author"
+
+[[resp]]
+name = "[publisher not identified]"
+role = "publisher"
+
+[[text]]
+file = "factumpoures00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "factumpoures00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "factumpoures00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "factumpoures00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

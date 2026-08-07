@@ -1,0 +1,83 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "flamarque00unse_0"
+type = "pamphlet"
+title = "F. Lamarque, représentant du peuple, a son collègue Boussion."
+language = "fr"
+place = "A Périgueux"
+date = "1796"
+note = """Caption title. Imprint from colophon. "Paris, ce 6 messidor, an 4 de la République, une et indivisible"--P. [1]. Not in Martin & Walter. Révolution française. Scanner's note: No title page found. No copyright page found. No table-of-contents pages found."""
+url = "https://archive.org/details/flamarque00unse_0"
+subject = [
+    "Loyalty oaths",
+    "Nominations for office",
+]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 20457"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7cs11k4d"
+internet_archive = "flamarque00unse_0"
+openlibrary_edition = "OL26235129M"
+openlibrary_work = "OL17629712W"
+
+[scan]
+file = "flamarque00unse_0.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/flamarque00unse_0"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Lamarque, François, 1753-1839"
+role = "author"
+
+[[resp]]
+name = "Boussion, Pierre, 1753-1828"
+role = "author"
+
+[[resp]]
+name = "Leymarie, Edouard, former owner. ICN"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie du républicain Dupont, imprimeur du département"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_843024"
+
+[[text]]
+file = "flamarque00unse_0.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "flamarque00unse_0.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "flamarque00unse_0.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "flamarque00unse_0.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,31 @@
+---
+# yaml-language-server: $schema=../../../../schemas/ocr.json
+of: florilegivmrervm00bout
+page: 79
+engine: ABBYY FineReader 11.0
+lang: la
+w: 1431
+h: 2363
+dpi: 650
+---
+
+66
+
+HENRICO III I. MAX. INCL. GALLIA R.
+IMP. SEMPER AVG.
+FORTITVDO, CLEMENTIA, FIDES,
+TRIVIVM HOC VOV. S.
+
+ET ^TERNVM ILLIVS VIRTVTI.
+
+M. P.
+
+NASCENTEM PYRENEI AD PADVM VIDERE MONTES/
+SENSERE VICTOR. ALPES.
+
+AT GALLIA
+
+TRIVMPHANTEM E I C E T A S P I C IT
+ET ^TERNVM PRECATVR.
+
+f

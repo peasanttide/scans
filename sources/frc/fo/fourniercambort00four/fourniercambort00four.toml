@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "fourniercambort00four"
+type = "pamphlet"
+title = "Fournier a Cambort."
+language = "fr"
+place = "Paris"
+date = "1796"
+note = """Caption title. Imprint from colophon. Publication location from Martin & Walter. "Périgueux, ce 8 floréal, an IV de la République française, une et indivisible"--P. 4. Martin & Walter. Révolution française. Bibliography: Martin & Walter.  Révolution française,  II, 13739. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover."""
+url = "https://archive.org/details/fourniercambort00four"
+subject = [
+    "Borie-Cambort, Étienne Marie, 1737-1804",
+    "Denunciation (Criminal law)",
+]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 11694"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t72v7889v"
+internet_archive = "fourniercambort00four"
+openlibrary_edition = "OL25924373M"
+openlibrary_work = "OL17346995W"
+
+[scan]
+file = "fourniercambort00four.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/fourniercambort00four"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Fournier, François, chef d'escadron"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie de l'Ami des lois, rue Honoré, no. 2"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_825471"
+
+[[text]]
+file = "fourniercambort00four.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "fourniercambort00four.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "fourniercambort00four.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "fourniercambort00four.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

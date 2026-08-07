@@ -1,0 +1,71 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "fetedelafondatio00perr"
+type = "pamphlet"
+title = "Fête de la fondation de la République, an VIII : hymne."
+language = "fr"
+place = "Paris"
+date = "1799"
+note = """Caption title. At head of title: République française. Signed: Par Perrin, chansonnier des fêtes républicaines. "Air, Veillons au salut de l'empire"--P. [1]. Imprint from colophon. Place of publication from Martin & Walter. Martin & Walter. Révolution française. BN. Bibliography: Martin & Walter.  Révolution française,  III, 26934. Scanner's note: No copyright page found. No table-of-contents pages found. Title on cover. Damaged, stained pages and cover."""
+url = "https://archive.org/details/fetedelafondatio00perr"
+extent = "3 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 23547"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t85j2rp4t"
+internet_archive = "fetedelafondatio00perr"
+openlibrary_edition = "OL26236599M"
+openlibrary_work = "OL17631151W"
+
+[scan]
+file = "fetedelafondatio00perr.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/fetedelafondatio00perr"
+ppi = 500
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Perrin"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie, place du Carrousel, no. 527"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_848314"
+
+[[text]]
+file = "fetedelafondatio00perr.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "fetedelafondatio00perr.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "fetedelafondatio00perr.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "fetedelafondatio00perr.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

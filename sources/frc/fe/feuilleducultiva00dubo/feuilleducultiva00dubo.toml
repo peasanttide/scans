@@ -1,0 +1,74 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "feuilleducultiva00dubo"
+type = "pamphlet"
+title = "Feuille du cultivateur"
+language = "fr"
+place = "Paris?"
+date = "1794"
+note = """Prospectus for "Feuille du cultivateur.". Caption title. "La Feuille du cultivateur, commencé au mois d'octobre 1790, & continuée sans interruption jusqu'à présent ..."--P. 2. Printed in double columns. "Le prix de la souscription est toujours de 15 liv. malgré les augmentations. On ne peut souscrire que pour l'année entière, qui commence au premier nivôse ... S'adresser pour souscrire au citoyen Marchant, rue des Fossés Saint-Victor, n°. 12"--P. 2. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Title page and cover are combined.  Text extends off of the edge of the page.  Text lost in binding."""
+url = "https://archive.org/details/feuilleducultiva00dubo"
+subject = [
+    "Feuille du cultivateur",
+    "Booksellers and bookselling",
+    "Agriculture publishing",
+    "Periodicals",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1d no. 27"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3tv09f45"
+internet_archive = "feuilleducultiva00dubo"
+
+[scan]
+file = "feuilleducultiva00dubo.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/feuilleducultiva00dubo"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Dubois de Jancigny, Jean-Baptiste,1752-188"
+role = "author"
+
+[[resp]]
+name = "Dubois de Jancigny, Jean-Baptiste, 1752-1808"
+role = "author"
+
+[[resp]]
+name = "Lefebvre, Jean-Laurent"
+role = "author"
+
+[[resp]]
+name = "Parmentier, Antoine Augustin, 1737-1813"
+role = "author"
+
+[[resp]]
+name = "Marchand, Adrien-Joseph"
+role = "bookseller"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[text]]
+file = "feuilleducultiva00dubo.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "feuilleducultiva00dubo.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

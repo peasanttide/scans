@@ -1,0 +1,83 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "flamarque00unse"
+type = "pamphlet"
+title = "F. Lamarque, membre du Conseil des cinq-cents, a ses collègues."
+language = "fr"
+place = "A Périgueux"
+date = "1796"
+note = """Caption title. Imprint from colophon. "Paris, ce 25 prairial, an IV"--P. [1]. Variant of Martin & Walter. Révolution française, III, 18768. Stamp: Bibliothèque E. Leymarie. Scanner's note: No title page found. No copyright page found. No table-of-contents pages found."""
+url = "https://archive.org/details/flamarque00unse"
+subject = [
+    "Drouet, Jean-Baptiste, 1763-1824",
+    "Royalists",
+]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 20456"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t1vf21w80"
+internet_archive = "flamarque00unse"
+openlibrary_edition = "OL26235350M"
+openlibrary_work = "OL17629935W"
+
+[scan]
+file = "flamarque00unse.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/flamarque00unse"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Lamarque, François, 1753-1839"
+role = "author"
+
+[[resp]]
+name = "Leymarie, Edouard, former owner. ICN"
+role = "author"
+
+[[resp]]
+name = "France. Corps législatif (1795-1814). Conseil des cinq-cents"
+role = "author"
+
+[[resp]]
+name = "De l'imprimerie du répub. Dupont, imprimeur du département"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_843023"
+
+[[text]]
+file = "flamarque00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "flamarque00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "flamarque00unse.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "flamarque00unse.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

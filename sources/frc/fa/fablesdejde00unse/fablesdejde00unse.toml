@@ -1,0 +1,67 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "fablesdejde00unse"
+type = "pamphlet"
+title = "Fables de J. de La Fontaine"
+language = "fr"
+place = "Paris"
+date = "1849"
+note = """Prospectus for: Fables de J. de La Fontaine. Édition miniature. Paris : Plon frères, 1850. "Ce petit livre a été édité comme spécimen d'un caractère diamant par la fonderie typographique Laurent et Deberny, a Paris, rue des Maris Saint-Germain, 17.". Includes samples of two pages of text from the proposed book. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Title page and cover are combined."""
+url = "https://archive.org/details/fablesdejde00unse"
+subject = [
+    "La Fontaine, Jean de, 1621-1695",
+    "Laurent et Deberny",
+    "Fables, French",
+    "Type and type founding",
+    "Booksellers and bookselling",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 11 no. 24"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6742d321"
+internet_archive = "fablesdejde00unse"
+
+[scan]
+file = "fablesdejde00unse.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/fablesdejde00unse"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "La Fontaine, Jean de, 1621-1695. Fables. 1850"
+role = "author"
+
+[[resp]]
+name = "Laurent et Deberny"
+role = "author"
+
+[[resp]]
+name = "Plon Freres (Firm)"
+role = "publisher"
+
+[[resp]]
+name = "Imprimerie Plon frères"
+role = "publisher"
+
+[[text]]
+file = "fablesdejde00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "fablesdejde00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

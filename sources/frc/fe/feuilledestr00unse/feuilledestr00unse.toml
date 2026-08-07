@@ -1,0 +1,61 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "feuilledestr00unse"
+type = "pamphlet"
+title = "Feuille de Strasbourg, ou, Journal politique et littéraire des rives du Rhin"
+language = "fr"
+place = "Strasbourg?"
+date = "1792"
+note = """Prospectus for "Feuille de Strasbourg, ou, Journal politique et littéraire des rives du Rhin," which began publication in 1792. Caption title. "Le prix de l'abonnement pour les neuf mois de cette année est de dix-huit livres & de six livres par trimestre, franc de port dans tout le royaume. On s'adressera à Strasbourg à la Librairie académique & à Paris à Fuchs, quai des Augustins, no. 27 ... Nous commencerons le 15 avril les envois de ce journal.". Printed in double columns. Scanner's note: No copyright page found. No table-of-contents pages found.  Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Title page and cover are combined."""
+url = "https://archive.org/details/feuilledestr00unse"
+subject = [
+    "Feuille de Strasbourg",
+    "Booksellers and bookselling",
+    "Periodicals",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 1d no. 26"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t6d27md7q"
+internet_archive = "feuilledestr00unse"
+
+[scan]
+file = "feuilledestr00unse.pdf"
+count = 4
+by = "Internet Archive"
+url = "https://archive.org/details/feuilledestr00unse"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Fuchs, Jean-Jacques, fl. 1792-1804"
+role = "bookseller"
+
+[[resp]]
+name = "Librairie académique (Strasbourg, France)"
+role = "bookseller"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[text]]
+file = "feuilledestr00unse.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "feuilledestr00unse.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

@@ -1,0 +1,79 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "factumpourlessie00cury"
+type = "pamphlet"
+title = "Factum pour les sieurs & demoiselle Cury, Dicq, & Cury, demandeurs, contre Sieur Loüis Barou, agent de change de la ville de Lyon, deffendeur."
+language = "fr"
+place = "France?"
+date = "1709"
+note = """Caption title. Signatures: A². " ... depuis le 11. mars 1709, jusques au 9. aoust suivant ..."--Page 4. Head-piece. No. 20 of 52 titles bound together. Signed in manuscript at end: Monsieur Constant, rapporteur. Berland, cheualier. Scanner's note: No copyright page found. No table-of-contents pages found.  Uneven binding. Skewed text. Title is on the cover. Text is lost in the binding. Damaged, stained, and/or torn pages."""
+url = "https://archive.org/details/factumpourlessie00cury"
+subject = [
+    "Cury, sieur",
+    "Dicq, sieur",
+    "Cury, demoiselle",
+    "Debtor and creditor",
+    "Subrogation",
+]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case folio KJV5795 .A35 1728 no. 20"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t0fv4md6p"
+internet_archive = "factumpourlessie00cury"
+
+[scan]
+file = "factumpourlessie00cury.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/factumpourlessie00cury"
+ppi = 350
+note = "Scanned on scribe10.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Cury, sieur"
+role = "author"
+
+[[resp]]
+name = "Dicq, sieur"
+role = "author"
+
+[[resp]]
+name = "Cury, demoiselle"
+role = "author"
+
+[[resp]]
+name = "[publisher not identified]"
+role = "publisher"
+
+[[text]]
+file = "factumpourlessie00cury.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "factumpourlessie00cury.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "factumpourlessie00cury.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "factumpourlessie00cury.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

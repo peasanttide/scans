@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "fetedelapaixgene00desg"
+type = "pamphlet"
+title = "Fête de la paix générale : description de la fête et des cérémonies qui auront lieu le 17 et 18 brumaire an X."
+language = "fr"
+place = "Paris"
+date = "1801"
+note = """Caption title. "Le ministre de l'Intérieur. Signé, Chaptal"--P. [3]. Imprint from colophon. "Hymne pour la fête de la paix générale. Air de la victoire chantant, etc. ... par le citoyen Desgrieux"--P. [3]-[4]. Title within ornamental woodcut head-piece; text within ruled border. Not in Martin & Walter. Révolution française. Scanner's note: No copyright page found. No table-of-contents pages found. Damaged pages and cover. Title on cover page. No numbered pages."""
+url = "https://archive.org/details/fetedelapaixgene00desg"
+subject = [
+    "Napoleon I, Emperor of the French, 1769-1821",
+    "Festivals",
+]
+extent = "[4] p. ; 21 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 16041"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t2w42p996"
+internet_archive = "fetedelapaixgene00desg"
+openlibrary_edition = "OL25951487M"
+openlibrary_work = "OL17372477W"
+
+[scan]
+file = "fetedelapaixgene00desg.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/fetedelapaixgene00desg"
+ppi = 500
+note = "Scanned on scribe3.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Desgrieux. Hymne pour la fête de la paix générale"
+role = "author"
+
+[[resp]]
+name = "De l'Imprimerie de Renaudière, rue de la Harpe, no. 497"
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_833720"
+
+[[text]]
+file = "fetedelapaixgene00desg.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "fetedelapaixgene00desg.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "fetedelapaixgene00desg.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "fetedelapaixgene00desg.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

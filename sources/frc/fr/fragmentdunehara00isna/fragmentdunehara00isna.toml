@@ -1,0 +1,75 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "fragmentdunehara00isna"
+type = "pamphlet"
+title = "Fragment d'une harangue prononcée dans l'assemblée du Tiers-état, tenue à Draguignan, le 10 février 1789 /"
+language = "fr"
+place = "France"
+date = "1789"
+note = "Caption title. Not in Martin & Walter. Révolution française. Scanner's note: Title page located on front cover. Worn, damaged and discolored pages and cover. No copyright page found. No table-of-contents pages found. Skewed text."
+url = "https://archive.org/details/fragmentdunehara00isna"
+subject = [
+    "France. États généraux. Tiers État",
+    "Estates (Social orders)",
+]
+extent = "4 p. ; 20 cm."
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case FRC 19823"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t3gx9b362"
+internet_archive = "fragmentdunehara00isna"
+openlibrary_edition = "OL26202966M"
+openlibrary_work = "OL17599435W"
+
+[scan]
+file = "fragmentdunehara00isna.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/fragmentdunehara00isna"
+ppi = 350
+note = "Scanned on scribe8.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Isnard, Maximin, 1751-1825"
+role = "author"
+
+[[resp]]
+name = "s.n."
+role = "publisher"
+
+[[link]]
+rel = "catalogue"
+url = "http://vufind.carli.illinois.edu/vf-nby/Record/nby_841610"
+
+[[text]]
+file = "fragmentdunehara00isna.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "fragmentdunehara00isna.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "fragmentdunehara00isna.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "fragmentdunehara00isna.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"

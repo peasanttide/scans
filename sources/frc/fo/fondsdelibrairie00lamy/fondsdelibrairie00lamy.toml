@@ -1,0 +1,73 @@
+#:schema ../../../../schemas/source.json
+layer = "source"
+id = "fondsdelibrairie00lamy"
+type = "pamphlet"
+title = "Fonds de librairie en feuilles, a vendre en gros ou en détail, au prix fixé"
+language = "fr"
+place = "Paris"
+date = "1795"
+note = "Caption title. Imprint from colophon. Printed in three columns. Pères de l'Eglise -- Liturgie -- Politique, finance et commerce -- Agriculture -- Arts et sciences -- Architecture -- Peinture -- Estampes -- Littérature lexique et poetes -- Classiques latins et italiens -- Romans -- Voyages -- Histoire -- Objets précieux et uniques, à échanger contre une propriété territoriale, ou à vendre de gré-à-gré. With prices. Scanner's note: Damaged, torn, stained and/or loose pages. Uneven binding. Skewed text. Irregular pagination. Text extends off of the edge of the page. Text may be lost in the binding. Permanent creases may obscure some text. Title page and cover are combined."
+url = "https://archive.org/details/fondsdelibrairie00lamy"
+subject = ["Lamy, Pierre-Michel, active 1777-1813"]
+
+[rights]
+work = "PD-old-100-expired"
+scan = "PD"
+attribution = "Digitised by the Internet Archive, sponsored by The Newberry Library."
+
+[holding]
+repository = "The Newberry Library"
+shelfmark = "Case Wing Z 45 .18 ser. 8 no. 32"
+collection = "French Revolution Collection"
+
+[identifier]
+ark = "ark:/13960/t7tn2wz8n"
+internet_archive = "fondsdelibrairie00lamy"
+
+[scan]
+file = "fondsdelibrairie00lamy.pdf"
+count = 6
+by = "Internet Archive"
+url = "https://archive.org/details/fondsdelibrairie00lamy"
+ppi = 350
+note = "Scanned on scribe4.indiana.archive.org with a Canon EOS 5D Mark II at the indiana centre."
+
+[[resp]]
+name = "Lamy, Pierre-Michel,active 1777-1813"
+role = "author"
+
+[[resp]]
+name = "Lamy, Pierre-Michel, active 1777-1813"
+role = "author"
+
+[[resp]]
+name = "Gueffier, Pierre-François, -1803?"
+role = "printer"
+
+[[resp]]
+name = "De l'imprimerie de Gueffier, rue Gît-le-Cœur, no. 16"
+role = "publisher"
+
+[[text]]
+file = "fondsdelibrairie00lamy.p1.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "fondsdelibrairie00lamy.p2.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "fondsdelibrairie00lamy.p3.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
+
+[[text]]
+file = "fondsdelibrairie00lamy.p4.ocr.md"
+kind = "ocr"
+by = "ABBYY FineReader 11.0"
+lang = "fr"
